@@ -1,0 +1,68 @@
+title: Fast gapped-read alignment with Bowtie 2.
+created: 2026-05-28
+type: concept
+tags: [#genomics-evolution, papers]
+doi: 10.1038/nmeth.1923
+confidence: medium
+aliases: ["Fast gapped-read alignment with Bowtie 2."]
+status: draft
+updated: "2026-05-29"
+
+# Fast gapped-read alignment with Bowtie 2.
+
+
+
+
+**期刊**: 
+**DOI**: [10.1038/nmeth.1923](https://doi.org/10.1038/nmeth.1923)
+**作者**: 
+
+## 摘要
+As the rate of sequencing increases, greater throughput is demanded from read aligners. The full-text minute index is often used to make alignment very fast and memory-efficient, but the approach is ill-suited to finding longer, gapped alignments. Bowtie 2 combines the strengths of the full-text minute index with the flexibility and speed of hardware-accelerated dynamic programming algorithms to achieve a combination of high speed, sensitivity and accuracy.
+
+
+## 全文 (PMC)
+
+### PERMALINK
+
+Correspondence should be addressed to B.L. (blangmea@jhsph.edu). As the rate of sequencing increases, greater throughput is demanded from read aligners. The full-text minute index is often used to make alignment very fast and memory-efficient, but the approach is ill-suited to finding longer, gapped alignments. Bowtie 2 combines the strengths of the full-text minute index with the flexibility and speed of hardware-accelerated dynamic programming algorithms to achieve a combination of high speed, sensitivity and accuracy. Aligning sequencing reads to a reference genome is the first step in many comparative genomics pipelines, including pipelines for variant calling1, isoform quantitation2and differential gene expression3. In many cases, the alignment step is the slowest. This is because for each read the aligner must solve a difficult computational problem: determining the read's likely point of origin with respect to a reference genome4. Many aligners use a genome index to rapidly narrow the list of candidate alignment locations. The full-text minute index5is a fast and memory-efficient index that has been used in recent aligners6–10. Index-assisted aligners work by searching for all ways of mutating the read string into a string that occurs in the reference, subject to an alignment policy limiting the number of differences. Although this search space is large, many portions of it can be skipped (‘pruned’) without loss of sensitivity. In practice, pruning strategies such as double indexing6and bidirectional Burrows-Wheeler transform (BWT)7facilitate very efficient ungapped alignment of short reads. Index-aided alignment can be quite inefficient, however, when alignments are permitted to contain gaps. Alignment gaps can result either from sequencing errors or from true insertions and deletions. Ungapped aligners such as Bowtie will usually fail to align reads spanning gaps and will therefore miss evidence for these events. Gaps greatly increase the size of the search
+
+### Ben Langmead
+
+Correspondence should be addressed to B.L. (blangmea@jhsph.edu).
+
+### 
+
+Correspondence should be addressed to B.L. (blangmea@jhsph.edu).
+
+### 
+
+B.L. wrote the software and conducted the experiments. B.L. and S.L.S. wrote the manuscript. Note: Supplementary information is available on the Nature Methods website. COMPETING FINANCIAL INTERESTS The authors declare no competing financial interests.
+
+
+**OA PDF**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322381
+
+
+## 相关文献
+
+- [[b3-L7GZnhJuEotGMug-3oD2oA]]
+- [[b3-hec2f2m1kP9Y-33yozL7Bg]]
+- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[b4-A4eRtTpTuVLrP6mvHWMndA]]
+- [[b5-I9J_3tEggQGIGk7z9SmwOw]]
+- [[cr-btt656]]
+- [[cr-s13059-014-0550-8]]
+
+
+## 深度提炼
+
+**物种**: Ficus carica
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1038/nmeth.1923
+**来源类型**: PDF全文 (10.1038_nmeth.1923.pdf)
+
+### 核心发现
+1. We found that the Bowtie 2 default mode was faster than all BWA modes we tried and more than 3 times faster than the BWA default mode.
+2. In Supplementary Results and Supplementary Figure 2 we show results for additional read lengths.
+3. We found that Bowtie 2, a method that combines the advantages of the full-text minute index and SIMD dynamic programming, achieved very fast and memory-efficient gapped alignment of sequencing reads.
+4. For BWA, separate invocations of the software were required for aligning each end and for processing intermediate alignment results into a final SAM file.

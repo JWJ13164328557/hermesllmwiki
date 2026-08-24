@@ -1,0 +1,60 @@
+---
+title: Integrating single-cell transcriptomic data across different conditions, technol
+created: 2026-05-28
+type: concept
+tags: [single-cell, multi-omics]
+doi: 10.1038/nbt.4096
+confidence: medium
+aliases: ["Integrating single-cell transcriptomic data across different conditions, technol"]
+status: draft
+updated: "2026-05-29"
+---
+
+# Integrating single-cell transcriptomic data across different conditions, technol
+
+
+
+
+**期刊**: 
+**DOI**: [10.1038/nbt.4096](https://doi.org/10.1038/nbt.4096)
+**作者**: 
+
+## 摘要
+Computational single-cell RNA-seq (scRNA-seq) methods have been successfully applied to experiments representing a single condition, technology, or species to discover and define cellular phenotypes. However, identifying subpopulations of cells that are present across multiple data sets remains challenging. Here, we introduce an analytical strategy for integrating scRNA-seq data sets based on common sources of variation, enabling the identification of shared populations across data sets and downstream comparative analysis. We apply this approach, implemented in our R toolkit Seurat (http://satijalab.org/seurat/), to align scRNA-seq data sets of peripheral blood mononuclear cells under resting and stimulated conditions, hematopoietic progenitors sequenced using two profiling technologies, and pancreatic cell 'atlases' generated from human and mouse islets. In each case, we learn distinct or transitional cell states jointly across data sets, while boosting statistical power through integrated analysis. Our approach facilitates general comparisons of scRNA-seq data sets, potentially deepening our understanding of how distinct cell states respond to perturbation, disease, and evolution.
+
+
+
+## 全文 (PMC)
+
+### ### PERMALINK
+
+AB and RS conceived the research. AB, PH, and RS implemented the alignment procedure, performed all data analysis, and wrote the manuscript. EP performed the PBMC validation experiments, and PS performed the ddSeq experiments. To whom correspondence should be addressed:rsatija@nygenome.org Computational single-cell RNA-seq (scRNA-seq) methods have been successfully applied to experiments representing a single condition, technology, or species to discover and define cellular phenotypes. However, identifying subpopulations of cells that are present across multiple datasets remains challenging. Here, we introduce an analytical strategy for integrating scRNA-seq datasets based on common sources of variation, enabling the identification of shared populations across datasets and downstream comparative analysis. Implemented in our R toolkit Seurat (http://satijalab.org/seurat/), we use our approach to align scRNA-seq datasets of peripheral blood monocytes (PBMCs) under resting and stimulated conditions, hematopoietic progenitors sequenced using two profiling technologies, and pancreatic cell ‘atlases’ generated from human and mouse islets. In each case, we learn distinct or transitional cell states jointly across datasets, while boosting statistical power through integrated analysis. Our approach facilitates general comparisons of scRNA-seq datasets, potentially deepening our understanding of how distinct cell states respond to perturbation, disease, and evolution. With recent impro
+
+### Andrew Butler
+
+AB and RS conceived the research. AB, PH, and RS implemented the alignment procedure, performed all data analysis, and wrote the manuscript. EP performed the PBMC validation experiments, and PS performed the ddSeq experiments. To whom correspondence should be addressed:rsatija@nygenome.org
+
+### COMPETING FINANCIAL INTERESTS The authors declare no competing financial interests. Software used to generate all analyses in this manuscript is publicly available as an R package (https://cran.r-project.org/web/packages/Seurat/index.html)) and included here as Supplementary Software. Full datasets and command lists to reproduce the integration of stimulated and control PBMCs, and four human pancreatic islet datasets, are included asSupplementary Data 1–3.Thepublished data used in this study can be accessed in the Gene Expression Omnibus under accession numbersGSE96583,GSE81682,GSE84133,GSE81076,GSE85241,GSE86469, and the ArrayExpress database under accession E-MTAB-5061.
+
+**OA PDF**: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6700744
+
+
+## 深度提炼
+
+**物种**: Homo sapiens, Mus musculus
+
+**方法**: bulk RNA-seq, scRNA-seq
+
+### 核心发现
+
+- Integrating single-cell transcriptomic data across different conditions, technol AB and RS conceived the research.
+- EP performed the PBMC validation experiments, and PS performed the ddSeq experiments.
+- To whom correspondence should be addressed:rsatija@nygenome.org Computational single-cell RNA-seq (scRNA-seq) methods have been successfully applied to experiments representing a single condition, technology, or species to discover and define cellula
+- However, identifying subpopulations of cells that are present across multiple datasets remains challenging.
+- Here, we introduce an analytical strategy for integrating scRNA-seq datasets based on common sources of variation, enabling the identification of shared populations across datasets and downstream comparative analysis.
+- With recent improvements in cost and throughput1–3, and the availability of fully commercialized workflows4, high-throughput single-cell transcriptomics has become an accessible and powerful tool for unbiased profiling of complex and heterogeneous sy
+- In concert with novel computational approaches, these datasets can be used for the discovery of cell types and states5,6, the reconstruction of developmental trajectories and fate decisions7,8, and to spatially model complex tissues9,10.
+- EP performed the PBMC validation experiments, and PS performed the ddSeq experiments.
+- EP performed the PBMC validation experiments, and PS performed the ddSeq experiments.
+
+**全文来源**: PMC全文

@@ -1,0 +1,112 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "elements": [
+    {
+      "type": "text",
+      "x": 100,
+      "y": 20,
+      "text": "昼夜节律质子梯度驱动细胞生长 — Cell 2026",
+      "fontSize": 20
+    },
+    {
+      "type": "rectangle",
+      "x": 250,
+      "y": 70,
+      "width": 180,
+      "height": 40,
+      "backgroundColor": "#a5d8ff"
+    },
+    {
+      "type": "text",
+      "x": 280,
+      "y": 78,
+      "text": "CCA1 昼夜节律",
+      "fontSize": 14
+    },
+    {
+      "type": "arrow",
+      "x": 300,
+      "y": 110,
+      "width": -120,
+      "height": 80
+    },
+    {
+      "type": "arrow",
+      "x": 380,
+      "y": 110,
+      "width": 120,
+      "height": 80
+    },
+    {
+      "type": "rectangle",
+      "x": 80,
+      "y": 200,
+      "width": 200,
+      "height": 40,
+      "backgroundColor": "#ffc9c9"
+    },
+    {
+      "type": "text",
+      "x": 100,
+      "y": 208,
+      "text": "表皮细胞 apoplastic pH ↓",
+      "fontSize": 13
+    },
+    {
+      "type": "rectangle",
+      "x": 400,
+      "y": 200,
+      "width": 200,
+      "height": 40,
+      "backgroundColor": "#b2f2bb"
+    },
+    {
+      "type": "text",
+      "x": 420,
+      "y": 208,
+      "text": "伴胞 apoplastic pH ↑",
+      "fontSize": 13
+    },
+    {
+      "type": "text",
+      "x": 280,
+      "y": 160,
+      "text": "反相调控",
+      "fontSize": 12,
+      "strokeColor": "#e03131"
+    },
+    {
+      "type": "arrow",
+      "x": 180,
+      "y": 240,
+      "width": 0,
+      "height": 50
+    },
+    {
+      "type": "arrow",
+      "x": 500,
+      "y": 240,
+      "width": 0,
+      "height": 50
+    },
+    {
+      "type": "rectangle",
+      "x": 200,
+      "y": 290,
+      "width": 280,
+      "height": 40,
+      "backgroundColor": "#ffd8a8"
+    },
+    {
+      "type": "text",
+      "x": 220,
+      "y": 298,
+      "text": "质子电化学梯度 → 器官特异性生长",
+      "fontSize": 14
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#ffffff"
+  }
+}

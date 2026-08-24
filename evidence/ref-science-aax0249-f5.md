@@ -1,0 +1,34 @@
+---
+title: "Notably, this relationship was also observed in other organisms, including Caenorhabditis elegans (F"
+created: 2026-08-24
+type: evidence
+tags: [#single-cell-spatial, papers]
+source: "[[ref-science-aax0249]]"
+doi: "10.1126/science.aax0249"
+species: [Citrus spp., Ficus carica, Dioscorea spp.]
+evidence_type: "expression/regulation"
+quality: "medium"
+genes: []
+compounds: []
+---
+
+# Notably, this relationship was also observed in other organisms, including Caenorhabditis elegans (F
+
+## Claim
+Notably, this relationship was also observed in other organisms, including Caenorhabditis elegans (Fig.
+
+## Biological Context
+Single-cell transcriptional diversity is a hallmark of developmental potential.
+
+## Supporting Evidence
+*Source: [[ref-science-aax0249]]*
+
+## Evidence Quality
+**Type**: expression/regulation
+**Level**: medium
+
+## Contradictory Evidence
+_None identified_
+
+## Open Questions
+-

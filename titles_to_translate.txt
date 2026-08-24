@@ -1,0 +1,608 @@
+alfalfa-anther-sc-atlas|||Single-Cell Transcriptome Atlas and Dynamic Regulatory Mechanisms of Anther Deve
+andrographis-msi-sc-spatial|||Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Re
+arabidopsis-root-regeneration-sc-multi|||Histone deacetylases and cell-cycle regulators orchestrate cell-identity transit
+arabidopsis-root-sc-atlas-review|||Dynamics of alternative polyadenylation in single root cells of
+artemisinin-scrna-glandular-trichomes|||Tracing the evolutionary and genetic footprints of atmospheric tillandsioids tra
+b3-2C6WVBMI6uIO1-sVTqL4cQ|||Fine-tuning sequence-to-expression models on personal genome
+b3-BGiBJfPQalD0XaTAW6WgjQ|||A single-nucleus and spatial transcriptomic atlas of poplar leaves reveals the r
+b3-G2N-JJNNVwoyPpAiZEWa8w|||Distinct identities of leaf phloem cells revealed by single cell transcriptomics
+b3-Gz0p6FMAVxjOjgCBDZI1Pw|||Spatial transcriptomics decodes the cellular landscape of plant-pathogen interac
+b3-Ke_NSLIGVqOSAUr7v-xJ6A|||Single-cell network analysis reveals gene expression programs for Arabidopsis ep
+b3-Lj9ToIUf0z9y77oj4ELKlQ|||Spatial transcriptomics reveals expression gradients in developing wheat inflore
+b3-MweGEIei1VoObhk3boSJog|||Imputation integrates single-cell and spatial gene expression data to resolve tr
+b3-Oe9xghJ07Ub3C93cYl12oQ|||Cell-type-specific immune programs orchestrate spatial defense in the Arabidopsi
+b3-Q__01uAq9RU85RON6eeUaQ|||Spatial and single-cell expression analyses reveal complex expression domains in
+b3-RLgcYH-oLXkkTFajo9NYBA|||Serial Spatial Transcriptomes Reveal Regulatory Transitions in Maize Leaf Develo
+b3-_Nbsf2Btoy13ViQICnAbiw|||Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence i
+b3-kefV_W6EvyYqtHqbAKHTTg|||Functional characterization of transporter genes in rice node at single-cell res
+b3-mTGI12xr8PrGxJyDrjJksQ|||Fine-tuning sequence-to-expression models on personal genome
+b3-peg1lwq2yaEXfDY9yfqzZg|||Imputation integrates single-cell and spatial gene expression data to resolve tr
+b3-w-DzDSMZddBs1e1p3-Ak0A|||Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the x
+b3-wjlHUzpHYhRHyfMVnBq8Sg|||Integrated single-nucleus transcriptomic and metabolomic insights into bud-to-le
+b3-ys8H9kH4cFVbPEuMHCg4nA|||A Near Telomere-to-Telomere Genome of Belamcanda chinensis P
+b4-0Ai2UdSwKz-GbYdfit26vw|||Parental Specific Expression by scRNA-Seq Reveals HaWRKY40 Contributing to Heter
+b4-0HHlYZ0Qe2l1HbA9cCPFaQ|||A single-cell rice atlas integrates multi-species data to reveal cis-regulatory
+b4-3xWcn3gR1_rK4fPzDslSyw|||Single-nucleus transcriptomics reveal the morphogenesis and artemisinin biosynth
+b4-4h7J0H3OPFzzltwSkI6mtg|||Metabolomic and Single-Cell Transcriptomic Analyses Shed Light on Secondary Meta
+b4-5L8yUIeARXqlhtyk-pgTZw|||WUSCHEL-dependent chromatin regulation in maize inflorescence development at sin
+b4-78WuUWiztOxRe4n5MS2Pag|||Integrating 3D imaging, GWAS, and single-cell transcriptome approaches to elucid
+b4-8J0XFUMWJe2u7rSw83Jx2w|||Integrated single-cell transcriptomics and spatial metabolomics unveil cellular
+b4-A4eRtTpTuVLrP6mvHWMndA|||b4-A4eRtTpTuVLrP6mvHWMndA
+b4-B6ORjNkH1VSkcVpnv9C7xQ|||Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin B
+b4-Hwx53MM5XJEj2LV7X4dTAw|||Gene-expression patterns can be used to estimate mortality r
+b4-KF8GanK2tQYoK7m4CSoIDA|||Spatial and single-cell expression analyses reveal complex expression domains in
+b4-ZKYanCM-ZalgHteLOaJErw|||The multidimensional significance of virus-host protein inte
+b4-_dqlLGuPZxhNXXs6caCEwg|||Establishment of single-cell transcriptional states during seed germination
+b4-_igXoh0eWZRAu9l6Lg-fJg|||Metabolomic and Single-Cell Transcriptomic Analyses Shed Light on Secondary Meta
+b4-lBokIY101sor8t2t3d1CRQ|||Single-cell transcriptome sequencing reveals the sphingolipid metabolism pathway
+b4-uZ39cWEaJqczzAZtUK3Iww|||A model for the adaptation of Euryale ferox leaves to aquatic environments throu
+b4-ys8H9kH4cFVbPEuMHCg4nA|||Genome and Single-Cell Transcriptome Reveal the Evolution of Holoparasitic Plant
+b5-5zHSnJtV5ZteWrZhr7-Zfg|||A spatially resolved multi-omic single-cell atlas of soybean development
+b5-X8Cobw6n3up6ubQO7MBYRw|||Differential regulation of heterochromatin and euchromatin b
+b5-hcZHAUCBBvNTdU5-NTHtmg|||GmMYB4 Positively Regulates Isoflavone Biosynthesis via the GmMAPK6-GmMYB4-MBW M
+b5-iZzyxHmz_WpXAsbrHTBStw|||Transcription Factor GmERFA Interacts With GmNFYA and Acts as a Negative Regulat
+b5-r0NXipmE4_ac7VUq_Jn5-g|||Soybean locus qDTF-7 as an example of genetic heterogeneity
+b5-x5-RiOYANQ4IKw2eQggmzg|||Soybean locus qDTF-7 as an example of genetic heterogeneity
+b6-1OdIlqjyUKsN4KmZ4WdQUQ|||Integrative analysis of endogenous phytohormones and transcriptomics reveals mec
+b6-HkI9coXBppIC9b6SC65oKA|||Guard cell photorespiration controls stomata behavior and development
+b6-JtU6BLa8oL57zgnlWnzO_Q|||TCP21 negatively regulates photomorphogenesis by integrating phyB- and HY5-media
+b6-_4lVabIoRyC91sLMxSI_ig|||The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elonga
+b6-jpXamO-lS-eyCqULAU9qnA|||Integrated single-nucleus and spatial transcriptomics captures transitional stat
+b6-w-bO19EiGBKPR_ELsaEeRQ|||An integrative gene regulatory network identifies transcriptional hubs governing
+b6-wQ3FrPqm0Jv4M8pYV6K4cA|||The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation
+capsicum-metabolite-spatial-patterning|||Single-cell insights into plant growth, adaptation, and evolution
+cassava-leaf-sc-atlas|||Alternative splicing of FLOWERING LOCUS T1 fine-tunes bud do
+circadian-rheostat-proton-gradient-arabidopsis|||A circadian rheostat drives proton electrochemical gradients to optimize cell-ty
+cotton-fiber-development-molecular-regulation|||The molecular and hormonal regulation of cotton fiber development: from single-c
+cr-annurev-arplant-0817|||Advances and Opportunities in Single-Cell Transcriptomics for Plant Research
+cr-btt656|||featureCounts: an efficient general purpose program for assigning sequence reads
+cr-j-cell-2019-05-031|||Comprehensive Integration of Single-Cell Data
+cr-j-celrep-2019-04-054|||High-Throughput Single-Cell Transcriptome Profiling of Plant Cell Types
+cr-j-cels-2019-03-003|||DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artifi
+cr-j-devcel-2019-02-022|||Spatiotemporal Developmental Trajectories in the Arabidopsis Root Revealed Using
+cr-j-devcel-2022-01-008|||A single-cell Arabidopsis root atlas reveals developmental trajectories in wild-
+cr-j-molp-2020-06-010|||Global Dynamic Molecular Profiling of Stomatal Lineage Cell Development by Singl
+cr-j-molp-2021-01-001|||Single-nucleus RNA and ATAC sequencing reveals the impact of chromatin accessibi
+cr-meth-2001-1262|||Analysis of Relative Gene Expression Data Using Real-Time Quantitative PCR and t
+cr-nbt-3192|||Spatial reconstruction of single-cell gene expression data
+cr-nbt-4096|||Integrating single-cell transcriptomic data across different conditions, technol
+cr-nbt-4314|||Dimensionality reduction for visualizing single-cell data using UMAP
+cr-nmeth-3317|||HISAT: a fast spliced aligner with low memory requirements
+cr-omi-2011-0118|||clusterProfiler: an R Package for Comparing Biological Themes Among Gene Cluster
+cr-pp-18-01482|||Single-Cell RNA Sequencing Resolves Molecular Relationships Among Individual Pla
+cr-s13059-014-0550-8|||Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2
+cr-s13059-019-1874-1|||Normalization and variance stabilization of single-cell RNA-seq data using regul
+cr-s41477-023-01387-z|||Integrated single-nucleus and spatial transcriptomics captures transitional stat
+cr-s41586-019-0969-x|||The single-cell transcriptional landscape of mammalian organogenesis
+cr-s41586-023-06053-0|||A pan-grass transcriptome reveals patterns of cellular divergence in crops
+cr-s41587-023-01767-y|||Dictionary learning for integrative, multimodal and scalable single-cell analysi
+cr-s41592-019-0619-0|||Fast, sensitive and accurate integration of single-cell data with Harmony
+cr-science-1090022|||A Gene Expression Map of the
+cr-tpc-18-00785|||Dynamics of Gene Expression in Single Root Cells of
+daily-42127714|||Nano-biochar regulates soil enzymatic activities and nitric oxide signaling to i
+daily-42133864|||PfCYP94C179 endows resistance to fenoxaprop-P-ethyl in Polypogon fugax: insights
+daily-42135064|||SlSEC1- and SlSPY-mediated O-glycosylation stabilizes the transcription factor S
+daily-42135625|||Novel cytoplasmic male sterile line development and stage-specific metabolomic p
+daily-42174430|||Comparative genome-wide identification and analysis of the COMT gene family in p
+daily-42178064|||Age-dependent modulation of antioxidant defense and secondary metabolite accumul
+daily-42179491|||Small auxin-up RNA promotes GmMYB176 gene transcription to modulate seed isoflav
+daily-42186851|||Biodegradation of polyvinyl chloride (PVC) microplastics in superworms (Zophobas
+daily-42202640|||CsMYB6 promotes crocins biosynthesis in response to JA signaling in Crocus sativ
+daily-42202733|||Rice cold tolerance: Physiological responses, molecular regulatory networks, and
+daily-42202962|||Transcriptomic and physiological analyses reveal the mechanism of acetylene-indu
+daily-42203758|||Barley HvBODYGUARD1 controls cuticular specialisations regulated by SHINE transc
+daily-42203759|||Endogenous RALF peptide function is required for powdery mildew host colonizatio
+daily-42203863|||Copper-sensitive OsSPL9 TF regulates expression of indica rice domestication-ass
+daily-42203974|||Stable loci and functional gene controlling pod shattering resistance across mul
+daily-42204246|||Genomic and population analyses reveal asymmetric subgenome evolution and local
+daily-42204415|||A Plasmodiophora Brassicae Effector PbCBM1 Promotes Clubroot Susceptibility by C
+daily-42204451|||Species-specific, accession-specific, and common responses of foliar phytohormon
+daily-42204458|||Effects of bio-slurry and chemical fertilizer on soil fertility and productivity
+daily-42204464|||Integrated multi-omics analysis reveals a lipid-redox regulatory network underly
+daily-42204669|||Integrated transcriptomic, metabolomic, and physiological analyses underlying di
+daily-42204672|||Metabolomics reveals McF6'H1-mediated regulation of phenylpropanoid/flavonoid me
+daily-42204817|||Plant immune dysregulation disrupts microbe-induced growth promotion and microbi
+daily-42204818|||GhOFP1-GhTALE-GhXTHB transcriptional cascade regulates cotton stem vascular camb
+daily-42205069|||Volatiles released by undamaged plants mediate the adaptive growth strategies in
+daily-42205155|||Coexpression network analysis reveals the genetic basis of divergent lipid and s
+daily-42206158|||Cotton genetic mapping for plant biotechnology: from markers to graph pan-genome
+daily-42206159|||Phenotypic and genetic dissection of seed shape related traits in soybean (Glyci
+daily-42206621|||Drought-responsive TaMIP1 controls root density to confer the tradeoff between g
+daily-42206753|||Staurosporine Targets Mitochondrial Regulator VdAtuA3 to Disrupt Mitochondrial H
+daily-42207216|||Modular control of orchid beauty: co-expression networks orchestrate organ devel
+daily-42207309|||Genome-wide association study reveals stable loci and candidate genes for cotton
+daily-42207342|||Transcription factors in phosphorus utilization: enhancing crop productivity and
+daily-42207347|||Haplotype-based multi-locus genome-wide association study reveals genomic region
+drought-leaf-senescence-scrna|||A transcriptional atlas of early Arabidopsis seed developmen
+maize-rust-sc-spatial-immune|||Laminar patterning transcription factors orchestrate spatial metabolite partitio
+osbhlh150-rice-chilling-tolera|||Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing
+pakchoi-root-sc-multiomics-salt|||pakchoi-root-sc-multiomics-salt
+papaya-aril-scrna|||Cellular Heterogeneity and Developmental Dynamics of Aril in Papaya
+plant-sc-omics-opportunities-challenges|||Spatial transcriptomics reveals light-induced chlorenchyma cells involved in pro
+plant-sc-stress-review-tips|||Mapping plant cell-type-specific responses to environmental stresses
+plant-spatial-multiomics-review|||Harnessing spatial transcriptomics for advancing plant regeneration research
+plantcellchat-tool|||PlantCellChat: an R-based toolkit for predicting plant cell-cell communication f
+pnas-hy5-wood-development-light|||Spatiotemporal bifurcation of HY5-mediated blue-light signaling regulates wood d
+poplar-xylem-sc-spatial-gb|||Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the x
+poplar-xylem-scrna|||Fine-tuning sequence-to-expression models on personal genome
+qc-scrna-genome-biology|||Single-cell transcriptomic analysis of plant quiescent center by third-generatio
+reed-b-chromosome-sc-spatial|||Single-cell and spatial transcriptomics in Phragmites australis reveal the assoc
+ref-0012-1606-61-90009-4|||Origin of the blastema in regenerating limbs of the newt Triturus viridescens
+ref-1471-2105-9-559|||WGCNA: an R package for weighted correlation network analysis
+ref-1471-2229-12-116|||GiA Roots: software for the high throughput analysis of plant root system archit
+ref-15-4-305|||ESPript: analysis of multiple sequence alignments in PostScript.
+ref-15476286-2019-1586139|||Role of alternative polyadenylation dynamics in acute myeloid leukaemia at singl
+ref-15592324-2015-1011949|||Cortex proliferation in the root is a protective mechanism against abiotic stres
+ref-15592324-2020-1820681|||Trichostatin A and sodium butyrate promotes plant regeneration in common wheat
+ref-15592324-2020-1848086|||Superoxide anion generation response to wound in Arabidopsis hypocotyl cutting
+ref-1673-v|||Fluorescence Activated Cell Sorting of Plant Protoplasts
+ref-1741-7007-12-30|||Specific NuRD components are required for fin regeneration in zebrafish
+ref-1807-3107bor-2018-vol32-0|||Root canal preparation using micro-computed tomography analysis: a literature re
+ref-35050091|||Asymmetric leaves1 mediates leaf patterning and stem cell function in Arabidopsi
+ref-35079635|||Role of PHABULOSA and PHAVOLUTA in determining radial patterning in shoots
+ref-64876|||A Simple Protocol for Mapping the Plant Root System Architecture Traits
+ref-97320630002005|||Mfuzz: A software package for soft clustering of microarray data
+ref-978-1-4939-3142-2_13|||Cell Proliferation Analysis Using EdU Labeling in Whole Plant and Histological S
+ref-978-1-4939-3572-7_13|||Optimizing RNA-Seq Mapping with STAR
+ref-978-1-4939-8657-6_9|||Isolation of Arabidopsis Palisade and Spongy Mesophyll Cells
+ref-978-1-60327-563-7_16|||Computer Vision as a Tool to Study Plant Development
+ref-A-single-cell-Arabidopsis-root|||A single cell Arabidopsis root atlas reveals developmental trajectories in wild
+ref-Arabidopsis-–-root-cell-types|||Arabidopsis – root cell types
+ref-BBZ062|||Clustering and classification methods for single-cell RNA-sequencing data
+ref-BSgenome--software-infrastruct|||Representation of Mathematical Knowledge in National Knowledge Infrastructure
+ref-CellOracle--dissecting-cell-id|||CellOracle: dissecting cell identity via network inference and in silico gene pe
+ref-Chapter-Three---Defining-the-P|||Defining the Path from Stem Cells to Differentiated Tissue
+ref-Correction--Visualizing-the-st|||Correction: Visualizing the structure of RNA-seq expression data using grade of
+ref-PlantRegMap--charting-function|||PlantRegMap: charting functional regulatory maps in plants
+ref-S0014-5793-00-01675-6|||Chemical inhibitors: a tool for plant cell cycle studies
+ref-S0092-8674-00-80115-4|||The SCARECROW Gene Regulates an Asymmetric Cell Division That Is Essential for G
+ref-S0092-8674-00-81536-6|||WEREWOLF, a MYB-Related Protein in Arabidopsis, Is a Position-Dependent Regulato
+ref-S0959-437X-00-00150-7|||Cell-cycle-dependent translational control
+ref-S0960-9822-98-70176-9|||Positional information in root epidermis is defined during embryogenesis and act
+ref-SEMITONES--single-cEll-marker-|||SEMITONES: single-cEll marker IdentificaTiON by enrichment scoring
+ref-Targeted-mutagenesis-of-the-Ar|||Targeted mutagenesis of the Arabidopsis GROWTH-REGULATING FACTOR (GRF) gene fami
+ref-The-maize-single‐nucleus-trans|||The maize single-nucleus transcriptome comprehensively describes signaling netwo
+ref-Visualizing-the-structure-of-R|||Visualizing the structure of RNA-seq expression data using grade of membership m
+ref-advs-202307835|||scmFormer Integrates Large‐Scale Single‐Cell Proteomics and Transcriptomics Data
+ref-annurev-arplant-050718-10|||Molecular and Environmental Regulation of Root Development
+ref-annurev-arplant-081720-01|||Advances and Opportunities in Single-Cell Transcriptomics for Plant Research
+ref-annurev-cellbio-100617-06|||Regulation of Division and Differentiation of Plant Stem Cells
+ref-annurev-genet-120417-0312|||Power in Numbers: Single-Cell RNA-Seq Strategies to Dissect Complex Tissues
+ref-b-XDTcg5|||12th Annual International Conference on Material Science and Engineering (12th I
+ref-bbaa097|||SMNN: batch effect correction for single-cell RNA-seq data via supervised mutual
+ref-bbaa273|||scAPAtrap: identification and quantification of alternative polyadenylation site
+ref-bbad195|||CIForm as a Transformer-based model for cell-type annotation of large-scale sing
+ref-bbz096|||Evaluation of single-cell classifiers for single-cell RNA sequencing data sets
+ref-btaa997|||movAPA: modeling and visualization of dynamics of alternative polyadenylation ac
+ref-btac117|||High-performance single-cell gene regulatory network inference at scale: the Inf
+ref-bti042|||Genome-wide midrange transcription profiles reveal expression level relationship
+ref-btp437|||Reconstructing spatiotemporal gene expression data from partial observations
+ref-btt656|||featureCounts: an efficient general purpose program for assigning sequence reads
+ref-btu170|||Trimmomatic: a flexible trimmer for Illumina sequence data
+ref-btw313|||Complex heatmaps reveal patterns and correlations in multidimensional genomic da
+ref-btx194|||SCODE: an efficient regulatory network inference algorithm from single-cell RNA-
+ref-bty026|||Feature specific quantile normalization enables cross-platform classification of
+ref-bty560|||fastp: an ultra-fast all-in-one FASTQ preprocessor
+ref-btz701|||scDAPA: detection and visualization of dynamic alternative polyadenylation from
+ref-dev-000497|||Establishing leaf polarity: the role of small RNAs and positional signals in the
+ref-dev-01186|||Asymmetric leaf development and blade expansion in
+ref-dev-019349|||ACAULIS5 controls<i>Arabidopsis</i>xylem specification through the prevention of
+ref-dev-106104|||A high-resolution gene expression map of the
+ref-dev-117-3-873|||Characterization of the unusually rapid cell cycles during rat gastrulation
+ref-dev-119-1-57|||Root development in <i>Arabidopsis</i>: four mutants with dramatically altered r
+ref-dev-119-1-71|||Cellular organisation of the <i>Arabidopsis thaliana</i> root
+ref-dev-129-13-3207|||Combined SHOOT MERISTEMLESS and WUSCHEL trigger ectopic organogenesis in<i>Arabi
+ref-dev-136283|||Lateral root emergence in <i>Arabidopsis</i> is dependent on transcription facto
+ref-dev-142331|||Control of root cap maturation and cell detachment by BEARSKIN transcription fac
+ref-dev-198614|||Developmental single-cell transcriptomics in the
+ref-dvdy-10239|||Regeneration or scarring: An immunologic perspective
+ref-eLife-03271|||Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA
+ref-eLife-17214|||POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in Arabidopsis
+ref-eLife-26792-024|||Live tracking of moving samples in confocal microscopy for vertically grown root
+ref-ej-17-1-200|||Cutadapt removes adapter sequences from high-throughput sequencing reads
+ref-embj-2023113639|||WRKY transcription factors and OBERON histone‐binding proteins form complexes to
+ref-emboj-2012-301|||Stem cell function during plant vascular development
+ref-erae107|||Single-cell transcriptomics reveals heterogeneity in plant responses to the envi
+ref-erq154|||Involvement of Arabidopsis histone deacetylase HDA6 in ABA and salt stress respo
+ref-erv265|||Novel imaging-based phenotyping strategies for dissecting crosstalk in plant dev
+ref-erv562|||Histone deacetylase HDA9 negatively regulates salt and drought stress responsive
+ref-erw213|||<i>YUCCA</i>-mediated auxin biogenesis is required for cell fate transition occu
+ref-f1000research-24956-2|||gprofiler2 -- an R package for gene list functional enrichment analysis and name
+ref-f1000research-73600-2|||Doublet identification in single-cell sequencing data using scDblFinder
+ref-fgene-2022-863253|||Signatures of mRNA Alternative Polyadenylation in Arabidopsis Leaf Development
+ref-fpls-2013-00018|||Arabidopsis 2010 and beyond—big science with a small weed
+ref-fpls-2015-00206|||A quantitative analysis of stem cell homeostasis in the Arabidopsis columella ro
+ref-fpls-2017-00447|||Using a Structural Root System Model to Evaluate and Improve the Accuracy of Roo
+ref-fpls-2022-866054|||Divergence in the Regulation of the Salt Tolerant Response Between Arabidopsis t
+ref-fpls-2022-914635|||Deciphering the Multi-Chromosomal Mitochondrial Genome of Populus simonii
+ref-fpls-2023-1185377|||Opportunities and challenges in the application of single-cell and spatial trans
+ref-gad-1331305|||Transcription switches for protoxylem and metaxylem vessel formation
+ref-gad-1819909|||Signals and prepatterns: new insights into organ polarity in plants
+ref-gad-305504|||Mosaic analyses using marked activation and deletion clones dissect
+ref-gb-2009-10-2-210|||Cytokinin and auxin intersection in root meristems
+ref-genetics-104-033142|||Reversible Histone Acetylation and Deacetylation Mediate Genome-Wide, Promoter-D
+ref-genetics-114-164350|||fastSTRUCTURE: Variational Inference of Population Structure in Large SNP Data S
+ref-gkad521|||Spatially resolved transcriptomic analysis of the germinating barley grain
+ref-gkh340|||MUSCLE: multiple sequence alignment with high accuracy and high throughput
+ref-gkr591|||Measuring cell identity in noisy biological systems
+ref-gks042|||Differential expression analysis of multifactor RNA-Seq experiments with respect
+ref-gku555|||Single-cell RNA-seq: advances and future challenges
+ref-gkx382|||agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update
+ref-gkz781|||Cell-type-specific analysis of alternative polyadenylation using single-cell tra
+ref-gr-1239303|||Cytoscape: a software environment for integrated models of biomolecular interact
+ref-gr-161034-113|||From single-cell to cell-pool transcriptomes: Stochasticity in gene expression a
+ref-gr-209601-116|||UMI-tools: modeling sequencing errors in Unique Molecular Identifiers to improve
+ref-gr-210757-116|||Genome-wide dynamics of alternative polyadenylation in rice
+ref-gr-271346-120|||Analysis of alternative polyadenylation from single-cell RNA-seq using scDaPars
+ref-ijms20174211|||Improving lodging resistance: using wheat and rice as classical examples
+ref-ijms23094497|||Single-cell RNA sequencing for plant research: insights and possible benefits
+ref-ijms25147668|||Genome-wide analysis of the WOX family and its expression pattern in root develo
+ref-j-1365-313X-1998-00137-x|||Genetic evidence that the endodermis is essential for shoot gravitropism in Arab
+ref-j-1365-313X-2007-03370-x|||Degradation of the cyclin-dependent kinase inhibitor KRP1 is regulated by two di
+ref-j-1365-313X-2008-03455-x|||Arabidopsis PCFS4, a homologue of yeast polyadenylation factor Pcf11p, regulates
+ref-j-1365-313X-2008-03641-x|||The DOF transcription factor OBP1 is involved in cell cycle regulation in Arabid
+ref-j-1365-313X-2009-03973-x|||Two Arabidopsis 3-ketoacyl CoA synthase genes, KCS20 and KCS2/DAISY, are functio
+ref-j-1365-313X-2009-04086-x|||The development of Arabidopsis as a model plant
+ref-j-1365-313X-2010-04472-x|||The intracellular Arabidopsis COPT5 transport protein is required for photosynth
+ref-j-2517-6161-1995-tb02031-|||Controlling the false discovery rate: a practical and powerful approach to multi
+ref-j-2517-6161-1996-tb02080-|||Regression shrinkage and selection via the Lasso
+ref-j-bbaexp-2007-04-007|||Roles of dynamic and reversible histone acetylation in plant development and pol
+ref-j-bbrc-2016-12-086|||Chemical inhibition of the histone acetyltransferase activity in Arabidopsis tha
+ref-j-ccell-2020-06-012|||Emergence of a high-plasticity cell state during lung cancer evolution
+ref-j-cell-2004-09-018|||The PLETHORA genes mediate patterning of the Arabidopsis root stem cell niche
+ref-j-cell-2009-04-018|||BASL controls asymmetric cell division in Arabidopsis
+ref-j-cell-2014-01-020|||Nonstochastic reprogramming from a privileged somatic cell state
+ref-j-cell-2014-02-057|||Transit-amplifying cells orchestrate stem cell activity and tissue regeneration
+ref-j-cell-2015-05-002|||Highly parallel genome-wide expression profiling of individual cells using nanol
+ref-j-cell-2016-04-038|||Cistrome and epicistrome features shape the regulatory DNA landscape
+ref-j-cell-2016-04-046|||Root Regeneration Triggers an Embryo-like Sequence Guided by Hormonal Interactio
+ref-j-cell-2019-01-005|||The root cap cuticle: a cell wall structure for seedling establishment and later
+ref-j-cell-2019-01-006|||Optimal-transport analysis of single-cell gene expression identifies development
+ref-j-cell-2019-03-006|||A Jasmonate Signaling Network Activates Root Stem Cells and Promotes Regeneratio
+ref-j-cell-2019-04-015|||Re-activation of Stem Cell Pathways for Pattern Restoration in Plant Wound Heali
+ref-j-cell-2019-05-031|||Comprehensive integration of single-cell data
+ref-j-cell-2020-07-032|||Genome-scale imaging of the 3D organization and transcriptional activity of chro
+ref-j-cell-2021-04-014|||A cis‐regulatory atlas in maize at single‐cell resolution
+ref-j-cell-2021-04-048|||Integrated analysis of multimodal single-cell data
+ref-j-cell-2022-04-003|||Spatiotemporal transcriptomic atlas of mouse organogenesis using DNA nanoball-pa
+ref-j-cell-2024-10-050|||A spatially resolved multi-omic single-cell atlas of soybean development
+ref-j-cell-2025-03-024|||An Arabidopsis single-nucleus atlas decodes leaf senescence and nutrient allocat
+ref-j-cell-2025-07-036|||A unified cell atlas of vascular plants reveals cell‐type foundational genes and
+ref-j-celrep-2014-06-033|||A genome-scale resource for the functional characterization of Arabidopsis trans
+ref-j-celrep-2019-04-054|||High-throughput single-cell transcriptome profiling of plant cell types
+ref-j-celrep-2019-06-041|||Molecular mechanisms driving switch behavior in xylem cell differentiation
+ref-j-celrep-2023-112676|||Single‐cell profiling of Arabidopsis leaves to Pseudomonas syringae infection
+ref-j-celrep-2025-115240|||A single‐cell and spatial wheat root atlas with cross‐species annotations deline
+ref-j-cels-2017-08-009|||Stem cell differentiation as a non-markov stochastic process
+ref-j-cels-2019-03-003|||DoubletFinder: doublet detection in single-cell RNA sequencing data using artifi
+ref-j-crstbi-2024-100136|||Structure-function analyses reveal Arabidopsis thaliana HDA7 to be an inactive h
+ref-j-cub-2011-02-020|||The AP2/ERF transcription factor WIND1 controls cell dedifferentiation in Arabid
+ref-j-cub-2015-12-047|||Rules and self-organizing properties of post-embryonic plant organ cell division
+ref-j-cub-2017-03-014|||Strigolactone- and Karrikin-independent SMXL proteinS are central regulators of
+ref-j-devcel-2010-02-004|||Arabidopsis Regeneration from Multiple Tissues Occurs via a Root Development Pat
+ref-j-devcel-2011-06-016|||The Cellular Basis for Animal Regeneration
+ref-j-devcel-2012-12-013|||A bHLH complex controls embryonic vascular tissue establishment and indeterminat
+ref-j-devcel-2015-01-025|||Transcriptome dynamics of the stomatal lineage: birth, amplification, and termin
+ref-j-devcel-2016-10-012|||High-resolution expression map of the Arabidopsis root reveals alternative splic
+ref-j-devcel-2019-02-022|||Spatiotemporal developmental trajectories in the Arabidopsis root revealed using
+ref-j-devcel-2020-07-003|||Chromatin accessibility dynamics and a hierarchical transcriptional regulatory n
+ref-j-devcel-2020-12-015|||Single-cell RNA sequencing of developing maize ears facilitates functional analy
+ref-j-devcel-2021-02-021|||A single-cell analysis of the Arabidopsis vegetative shoot apex
+ref-j-devcel-2022-01-013|||Plant glutamate receptors mediate a bet-hedging strategy between regeneration an
+ref-j-devcel-2022-04-011|||The single-cell stereo-seq reveals region-specific cell subtypes and transcripto
+ref-j-devcel-2022-07-017|||Mechanical conflict caused by a cell-wall-loosening enzyme activates de novo sho
+ref-j-devcel-2024-05-016|||Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germ
+ref-j-devcel-2024-12-019|||Glutathione accelerates the cell cycle and cellular reprogramming in plant regen
+ref-j-gecco-2024-e02863|||Responses of belowground fine root biomass and morphology in Robinia pseudoacaci
+ref-j-gpb-2020-07-004|||Evaluation of cell type annotation R packages on single-cell RNA-seq data
+ref-j-gpb-2022-09-005|||A survey on methods for predicting polyadenylation sites from DNA sequences, bul
+ref-j-indcrop-2023-117825|||Single-nucleus RNA sequencing of Nicotiana tabacum seedlings reveals heterogenei
+ref-j-jcms-2008-12-005|||Method selection in craniofacial measurements: advantages and disadvantages of 3
+ref-j-jgg-2021-06-001|||Single-cell transcriptome atlas of the leaf and root of rice seedlings
+ref-j-jplph-2015-12-006|||Histone deacetylation-mediated cellular dedifferentiation in Arabidopsis
+ref-j-molcel-2015-04-005|||The technology and biology of single-cell RNA sequencing
+ref-j-molcel-2015-05-005|||Advances and applications of single-cell sequencing technologies
+ref-j-molcel-2017-01-023|||Comparative analysis of single-cell RNA sequencing methods
+ref-j-molcel-2017-06-003|||Single-cell alternative splicing analysis with expedition reveals splicing dynam
+ref-j-molcel-2018-07-022|||A growing toolbox to image gene expression in single cells: sensitive approaches
+ref-j-molp-2019-04-004|||A single-cell RNA sequencing profiles the developmental landscape of Arabidopsis
+ref-j-molp-2020-06-010|||Global dynamic molecular profiling of stomatal lineage cell development by singl
+ref-j-molp-2020-10-012|||Single‐cell transcriptome analysis in plants: Advances and challenges
+ref-j-molp-2020-12-014|||Transcriptional landscape of rice roots at the single-cell resolution
+ref-j-molp-2021-01-001|||Single-nucleus RNA and ATAC sequencing reveals the impact of chromatin accessibi
+ref-j-molp-2021-05-028|||Reconstruction of lateral root formation through single-cell RNA sequencing reve
+ref-j-molp-2022-10-016|||MINI-EX: Integrative inference of single-cell gene regulatory networks in plants
+ref-j-molp-2022-10-019|||Differentiation trajectories and biofunctions of symbiotic and un-symbiotic fate
+ref-j-molp-2022-10-021|||Cell-specific pathways recruited for symbiotic nodulation in the Medicago trunca
+ref-j-molp-2023-03-005|||High-resolution anatomical and spatial transcriptome analyses reveal two types o
+ref-j-molp-2023-10-008|||Single-cell RNA sequencing reveals a hierarchical transcriptional regulatory net
+ref-j-molp-2024-01-010|||Systematic identification of wheat spike developmental regulators by integrated
+ref-j-molp-2026-03-005|||WIND1 controls cell fate transition through coordinately integrating histone ace
+ref-j-pbi-2009-11-001|||The integration of cell division, growth and differentiation
+ref-j-pbi-2010-08-001|||Plant stem cell niches: from signalling to execution
+ref-j-pbi-2011-10-008|||Stem cell maintenance in shoot apical meristems
+ref-j-pbi-2013-11-011|||Signaling in shoot and flower meristems of Arabidopsis thaliana
+ref-j-pbi-2014-11-002|||O cell, where art thou? The mechanisms of shoot meristem patterning
+ref-j-pbi-2019-03-010|||Linking cell cycle to stomatal differentiation
+ref-j-pbi-2019-09-003|||A single-cell view of tissue regeneration in plants
+ref-j-pbi-2021-102041|||A new era for plant science: spatial single-cell transcriptomics
+ref-j-plantsci-2019-01-011|||Review: new sensors and data-driven approaches—a path to next generation phenomi
+ref-j-plantsci-2019-110380|||Transcriptome and GWAS analyses reveal candidate gene for seminal root length of
+ref-j-plantsci-2022-111486|||Review: challenges and perspectives in applying single nuclei RNA-seq technology
+ref-j-tcb-2010-12-004|||Regeneration in plants and animals: dedifferentiation, transdifferentiation, or
+ref-j-tig-2017-05-002|||Uncovering gene regulatory networks controlling plant cell differentiation
+ref-j-tig-2021-08-012|||Intricacies of single-cell multi-omics data integration
+ref-j-tplants-2018-07-004|||Deep learning for plant stress phenotyping: trends and future perspectives
+ref-j-tplants-2019-03-007|||To divide or differentiate: it is about scaffolding
+ref-j-tplants-2019-10-008|||Single-cell transcriptomics: a high-resolution avenue for plant functional genom
+ref-j-tplants-2020-04-016|||Single-cell genomics and epigenomics: technologies and applications in plants
+ref-j-tplants-2021-08-016|||Crafting a blueprint for single-cell RNA sequencing
+ref-j-xplc-2020-100136|||Developmental and genomic architecture of plant embryogenesis: from model plant
+ref-j-xplc-2023-100630|||Mass spectrometry imaging and single-cell transcriptional profiling reveal the t
+ref-j-xplc-2024-100984|||Single-cell transcriptome atlases of soybean root and mature nodule reveal new r
+ref-jbc-M207570200|||Cell cycle-regulated gene expression in Arabidopsis
+ref-jbc-M409024200|||Curcumin, a novel p300/CREB-binding protein-specific inhibitor of acetyltransfer
+ref-jipb-12870|||Reactive oxygen species regulate auxin levels to mediate adventitious root induc
+ref-jipb-13272|||WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and fl
+ref-journal-pbio-0040143|||Whole-genome analysis of the SHORT-ROOT developmental pathway in Arabidopsis
+ref-journal-pcbi-1009466|||Optimal transport analysis reveals trajectories in steady-state systems
+ref-journal-pgen-1002446|||A gene regulatory network for root epidermis cell differentiation in arabidopsis
+ref-journal-pgen-1010473|||MYB44-ENAP1/2 restricts HDT4 to regulate drought tolerance in Arabidopsis
+ref-journal-pone-0157022|||SARTools: a DESeq2- and EdgeR-based R pipeline for comprehensive differential an
+ref-journal-pone-0217196|||Alternative polyadenylation of single cells delineates cell types and serves as
+ref-kiab489|||Single-cell transcriptomics sheds light on the identity and metabolism of develo
+ref-kiad030|||Alternative 3′-untranslated regions regulate high-salt tolerance of Spartina alt
+ref-koab101|||A single cell view of the transcriptome during lateral root initiation in Arabid
+ref-koab243|||Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regul
+ref-koac167|||Leaf cell-specific and single-cell transcriptional profiling reveals a role for
+ref-koad028|||PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to driv
+ref-koad255|||Transcriptional activation by WRKY23 and derepression by removal of bHLH041 coor
+ref-meth-2001-1262|||Analysis of relative gene expression data using real-time quantitative PCR and t
+ref-msb-2010-53|||Targeted interactomics reveals a complex core cell cycle machinery in Arabidopsi
+ref-msb-20156198|||Single-cell polyadenylation site mapping reveals 3’ isoform choice variability
+ref-msw054|||MEGA7: molecular evolutionary genetics analysis version 7.0 for bigger datasets
+ref-nature02100|||APL regulates vascular tissue identity in Arabidopsis
+ref-nature04269|||Chromatin organization and cell fate switch respond to positional information in
+ref-nature05703|||Conserved factors regulate signalling in Arabidopsis thaliana shoot and root ste
+ref-nature07597|||Organ regeneration does not require a functional stem cell niche in plants
+ref-nature08152|||Cells keep a memory of their tissue origin during axolotl limb regeneration
+ref-nature08682|||Stomagen positively regulates stomatal density in Arabidopsis
+ref-nature08977|||Cell signalling by microRNA165/6 directs gene dose-dependent root cell fate
+ref-nature10070|||A novel protein family mediates Casparian strip formation in the endodermis
+ref-nature12172|||Single-cell transcriptomics reveals bimodality in expression and splicing in imm
+ref-nbt-1754|||Integrative genomics viewer
+ref-nbt-2859|||The dynamics and regulators of cell fate decisions are revealed by pseudotempora
+ref-nbt-3192|||Spatial reconstruction of single-cell gene expression data
+ref-nbt-3519|||Near-optimal probabilistic RNA-seq quantification
+ref-nbt-4314|||Dimensionality reduction for visualizing single-cell data using UMAP
+ref-ncomms14049|||Massively parallel digital transcriptional profiling of single cells
+ref-ncomms6833|||Arabidopsis ERF109 mediates cross-talk between jasmonic acid and auxin biosynthe
+ref-ncomms8641|||The circadian clock rephases during lateral root organ initiation in Arabidopsis
+ref-ng-3937|||Cis and trans determinants of epigenetic silencing by Polycomb repressive comple
+ref-nmeth-3317|||HISAT: a fast spliced aligner with low memory requirements
+ref-nmeth-4150|||Single-cell mRNA quantification and differential analysis with census
+ref-nmeth-4402|||Reversed graph embedding resolves complex single-cell trajectories
+ref-nmeth-4437|||Single-cell sequencing reveals dissociation-induced gene expression in tissue su
+ref-nmeth-4463|||SCENIC: single-cell regulatory network inference and clustering
+ref-nmeth0805-615|||Cell type–specific expression profiling in plants via cell sorting of protoplast
+ref-nph-13687|||50 years of Arabidopsis research: highlights and future directions
+ref-nph-17469|||Integration of genome wide association studies and co-expression networks reveal
+ref-nph-17594|||WIND transcription factors orchestrate wound-induced callus formation, vascular
+ref-nph-18775|||RRS1 shapes robust root system to enhance drought resistance in rice
+ref-nph-19676|||Plant root mechanisms and their effects on carbon and nutrient accumulation in d
+ref-nph-70171|||Regeneration and defense: unveiling the molecular interplay in plants
+ref-nplants-2016-165|||The heterodimeric transcription factor complex ERF115–PAT1 grants regeneration c
+ref-nplants-2017-61|||Spatially resolved transcriptome profiling in model plant species
+ref-nrm-2016-116|||Alternative polyadenylation of mRNA precursors
+ref-omi-2011-0118|||clusterProfiler: an R package for comparing biological themes among gene cluster
+ref-oxfordjournals-aob-a08643|||A quantitative scale of spike initial and pistil development in barley and wheat
+ref-pbi-12893|||PeCHYR1, a ubiquitin E3 ligase from Populus euphratica, enhances drought toleran
+ref-pbi-13891|||Single-cell transcriptome atlas reveals developmental trajectories and a novel m
+ref-pbi-13893|||PlantPhoneDB: a manually curated pan-plant database of ligand-receptor pairs inf
+ref-pbi-14097|||Single‐cell RNA sequencing profiles reveal cell type‐specific transcriptional re
+ref-pbi-14306|||ScRNA‐seq reveals dark‐ and light‐induced differentially expressed gene atlases
+ref-pcaa086|||OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Matur
+ref-pce-12691|||Joint genetic and network analyses identify loci associated with root growth und
+ref-pce-14290|||Jasmonic acid coordinates with light, glucose and auxin signalling in regulating
+ref-pce-14606|||Revisiting the role of MAPK signalling pathway in plants and its manipulation fo
+ref-pct167|||Members of the NPF3 transporter subfamily encode pathogen-inducible nitrate/nitr
+ref-pcu020|||A unique HEAT repeat-containing protein SHOOT GRAVITROPISM6 is involved in vacuo
+ref-pcv110|||Calpain-mediated positional information directs cell wall orientation to sustain
+ref-pcx172|||A conceptual framework for cell identity transitions in plants
+ref-peerj-15587|||Response of in situ root phenotypes to potassium stress in cotton
+ref-pgad002|||Histone deacetylation regulates de novo shoot regeneration
+ref-plab056|||RhizoVision explorer: open-source software for root image analysis and measureme
+ref-plants13213108|||Plant growth regulators: an overview of WOX gene family
+ref-plants9050615|||Gravity-sensing tissues for gravitropism are required for "anti-gravitropic" phe
+ref-pnas-0510607103|||Transcriptional and posttranscriptional regulation of transcription factor expre
+ref-pnas-0706984104|||Identification of acyltransferases required for cutin biosynthesis and productio
+ref-pnas-0709559105|||Cell-specific nitrogen responses mediate developmental plasticity
+ref-pnas-0900843106|||Gene expression map of the Arabidopsis shoot apical meristem stem cell niche
+ref-pnas-1019732108|||Genome-wide landscape of polyadenylation in Arabidopsis provides evidence for ex
+ref-pnas-1210789109|||Arabidopsis lateral organ boundaries negatively regulates brassinosteroid accumu
+ref-pnas-1507691112|||The MYB36 transcription factor orchestrates casparian strip formation
+ref-pnas-1515576112|||MYB36 regulates the transition from proliferation to differentiation in the Arab
+ref-pnas-1707400114|||Framework for gradual progression of cell ontogeny in the Arabidopsis root meris
+ref-pnas-1820882116|||EXPANSIN A1-mediated radial swelling of pericycle cells positions anticlinal cel
+ref-pnas-2003346117|||Wounding-induced changes in cellular pressure and localized auxin signalling spa
+ref-pnas-2005256118|||The GRAS-type SCL28 transcription factor controls the mitotic cell cycle and div
+ref-pnas-2201350119|||Root angle is controlled by EGT1 in cereal crops employing an antigravitropic me
+ref-pnas-2310163120|||Spatial transcriptomics reveals light-induced chlorenchyma cells involved in pro
+ref-pnas-97-3-1311|||FIDDLEHEAD, a gene required to suppress epidermal cell interactions in Arabidops
+ref-pp-010323|||AtREM1, a member of a new family of B3 domain-containing genes, is preferentiall
+ref-pp-104-055756|||Arabidopsis thickvein mutation affects vein thickness and organ vascularization,
+ref-pp-105-060541|||Compilation of mRNA polyadenylation signals in arabidopsis revealed a new signal
+ref-pp-105-065045|||Protein geranylgeranyltransferase I is involved in specific aspects of abscisic
+ref-pp-105-070565|||The Arabidopsis zinc finger-homeodomain genes encode proteins with unique bioche
+ref-pp-106-076604|||AINTEGUMENTA contributes to organ polarity and regulates growth of lateral organ
+ref-pp-106-087262|||Combining expression and comparative evolutionary analysis. The COBRA gene famil
+ref-pp-107-111674|||The Arabidopsis histone deacetylases HDA6 and HDA19 contribute to the repression
+ref-pp-109-1-7|||Root architecture and plant productivity
+ref-pp-109-142505|||Arabidopsis LON2 is necessary for peroxisomal function and sustained matrix prot
+ref-pp-110-165126|||Short-root regulates primary, lateral, and adventitious root development in Arab
+ref-pp-111-186221|||RooTrak: automated recovery of three-dimensional plant root architecture in soil
+ref-pp-112-198341|||Auxin and epigenetic regulation of SKP2B, an F-box that represses lateral root f
+ref-pp-112-201822|||Identification of an Arabidopsis fatty alcohol:caffeoyl-coenzyme A acyltransfera
+ref-pp-124-4-1658|||An enhancer trap line associated with a D-class cyclin gene in Arabidopsis
+ref-pp-15-01483|||Seed dormancy in arabidopsis is controlled by alternative polyadenylation of DOG
+ref-pp-17-00374|||Diversification of root hair development genes in vascular plants
+ref-pp-17-01332|||The Distinct Roles of Class I and II RPD3-Like Histone Deacetylases in Salinity
+ref-pp-18-00463|||A comprehensive toolkit for inducible, cell type-specific gene expression in Ara
+ref-pp-18-01482|||Single-cell RNA sequencing resolves molecular relationships Among individual pla
+ref-pp-19-00943|||PlantAPAdb: a comprehensive database for alternative polyadenylation sites in pl
+ref-ppl-13651|||Shaping the root system architecture in plants for adaptation to drought stress
+ref-psb-5-10-13168|||Role of histone deacetylases HDA6 and HDA19 in ABA and abiotic stress response
+ref-qzae026|||Opportunities and challenges in advancing plant research with single‐cell omics
+ref-reg2-33|||The art of fin regeneration in zebrafish
+ref-s00439-011-1118-2|||Evaluating the effective numbers of independent tests and significant P-value th
+ref-s00468-017-1621-8|||Root-system characteristics of plantation-grown adapted to seasonal fluctuation
+ref-s10059-010-0095-y|||Characterization of SHORT-ROOT function in the Arabidopsis root vascular system
+ref-s11104-023-06301-2|||Root phenotypes for improved nitrogen capture
+ref-s12864-017-4082-y|||Genome-wide analysis and expression profiling of zinc finger homeodomain (ZHD) f
+ref-s12864-017-4411-1|||A multi-omics approach reveals function of secretory carrier-associated membrane
+ref-s12870-024-06028-x|||The members of zinc finger-homeodomain (ZF-HD) transcription factors are associa
+ref-s12915-022-01473-2|||Chromatin accessibility illuminates single‐cell regulatory dynamics of rice root
+ref-s13007-016-0131-9|||RhizoTubes as a new tool for high throughput imaging of plant root development a
+ref-s13007-019-0417-9|||Week-long imaging of cell divisions in the Arabidopsis root meristem
+ref-s13007-019-0498-5|||Spatially resolved transcriptomics reveals plant host responses to pathogens
+ref-s13059-014-0550-8|||Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2
+ref-s13059-015-0580-x|||Quantification of cell identity from single-cell gene expression profiles
+ref-s13059-017-1261-8|||MAPK-triggered chromatin reprogramming by histone deacetylase in plant innate im
+ref-s13059-017-1382-0|||SCANPY: large-scale single-cell gene expression data analysis
+ref-s13059-019-1850-9|||A benchmark of batch-effect correction methods for single-cell RNA sequencing da
+ref-s13059-019-1874-1|||Normalization and variance stabilization of single-cell RNA-seq data using regul
+ref-s13059-020-02071-7|||Sierra: discovery of differential transcript usage from polyA-captured single-ce
+ref-s13059-021-02537-2|||Transcriptional landscape of highly lignified poplar stems at single-cell resolu
+ref-s13059-022-02834-4|||Single-cell transcriptome reveals dominant subgenome expression and transcriptio
+ref-s13059-022-02845-1|||Single-cell transcriptomics unveils xylem cell development and evolution
+ref-s13059-023-02908-x|||Asymmetric gene expression and cell-type-specific regulatory networks in the roo
+ref-s13059-025-03811-3|||Spatial and single-cell expression analyses reveal complex expression domains in
+ref-s1369-5266-00-00100-x|||Protein degradation in signaling
+ref-s40779-024-00526-7|||The implications of single-cell RNA-seq analysis in prostate cancer: unraveling
+ref-s41467-018-03282-0|||Characterizing the replicability of cell types defined by single cell RNA-sequen
+ref-s41467-018-08083-z|||A gene expression map of shoot domains reveals regulatory mechanisms
+ref-s41467-019-13132-2|||Stem-cell-ubiquitous genes spatiotemporally coordinate division through regulati
+ref-s41467-021-22352-4|||Single-cell transcriptome atlas and chromatin accessibility landscape reveal dif
+ref-s41467-021-23675-y|||The regulatory landscape of Arabidopsis thaliana roots at single-cell resolution
+ref-s41467-021-27322-4|||Single-cell analysis of human primary prostate cancer reveals the heterogeneity
+ref-s41467-022-33758-z|||Online single-cell data integration through projecting heterogeneous datasets in
+ref-s41467-023-37263-9|||Arabidopsis TRB proteins function in H3K4me3 demethylation by recruiting JMJ14
+ref-s41467-023-42911-1|||Single-cell analysis identifies genes facilitating rhizobium infection in Lotus
+ref-s41467-023-44369-7|||Decoding the gene regulatory network of endosperm differentiation in maize
+ref-s41467-024-47329-x|||Single-cell and spatial RNA sequencing reveal the spatiotemporal trajectories of
+ref-s41467-024-55485-3|||Single‐cell transcriptomes reveal spatiotemporal heat stress response in maize r
+ref-s41467-025-63467-2|||Drought recovery in plants triggers a cell‐state‐specific immune activation
+ref-s41477-018-0213-y|||Minimum requirements for changing and maintaining endodermis cell identity in th
+ref-s41477-019-0408-x|||Jasmonate-mediated wound signalling promotes plant regeneration
+ref-s41477-022-01178-y|||A root phloem pole cell atlas reveals common transcriptional states in protophlo
+ref-s41477-022-01291-y|||Single-cell RNA sequencing provides a high-resolution roadmap for understanding
+ref-s41477-023-01387-z|||Integrated single-nucleus and spatial transcriptomics captures transitional stat
+ref-s41477-023-01439-4|||Multiplexed single-cell 3D spatial gene expression analysis in plant tissue usin
+ref-s41477-023-01524-8|||Single-nucleus transcriptomes reveal spatiotemporal symbiotic perception and ear
+ref-s41477-024-01666-3|||Spatial co-transcriptomics reveals discrete stages of the arbuscular mycorrhizal
+ref-s41477-024-01683-2|||A spatial transcriptome map of the developing maize ear
+ref-s41477-025-01910-4|||The apoplastic pH is a key determinant in the hypocotyl growth response to auxin
+ref-s41477-025-02072-z|||A single‐cell, spatial transcriptomic atlas of the Arabidopsis life cycle
+ref-s41556-020-00613-6|||Single-cell analysis reveals transcriptomic remodellings in distinct cell types
+ref-s41576-019-0093-7|||Integrative single-cell analysis
+ref-s41576-019-0145-z|||Alternative cleavage and polyadenylation in health and disease
+ref-s41576-023-00586-w|||Best practices for single-cell analysis across modalities
+ref-s41586-018-0837-0|||High levels of auxin signalling define the stem-cell organizer of the vascular c
+ref-s41586-018-0839-y|||Mobile PEAR transcription factors integrate positional cues to prime cambial gro
+ref-s41586-019-0969-x|||The single-cell transcriptional landscape of mammalian organogenesis
+ref-s41586-019-1049-y|||Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH
+ref-s41586-019-1773-3|||Gene expression cartography
+ref-s41586-023-06053-0|||A pan-grass transcriptome reveals patterns of cellular divergence in crops
+ref-s41586-025-08941-z|||Single‐cell transcriptomics reveal how root tissues adapt to soil stress
+ref-s41587-019-0068-4|||Characterization of cell fate probabilities in single-cell data with Palantir
+ref-s41587-019-0201-4|||Graph-based genome alignment and genotyping with HISAT2 and HISAT-genotype
+ref-s41587-020-0591-3|||Generalizing RNA velocity to transient cell states through dynamical modeling
+ref-s41587-021-00830-w|||Robust decomposition of cell type mixtures in spatial transcriptomics
+ref-s41587-023-01767-y|||Dictionary learning for integrative, multimodal and scalable single-cell analysi
+ref-s41587-023-01979-2|||Spatial metatranscriptomics resolves host–bacteria–fungi interactomes
+ref-s41589-023-01327-0|||Single-cell multi-omics in the medicinal plant Catharanthus roseus
+ref-s41592-019-0548-y|||High-definition spatial transcriptomics for in situ tissue profiling
+ref-s41592-019-0619-0|||Fast, sensitive and accurate integration of single-cell data with Harmony
+ref-s41592-019-0654-x|||Orchestrating single-cell analysis with bioconductor
+ref-s41592-022-01409-2|||Museum of spatial transcriptomics
+ref-s41592-025-02900-2|||FX‐Cell: A method for single‐cell RNA sequencing on difficult‐to‐digest and cryo
+ref-s41598-022-19754-9|||Iterative image segmentation of plant roots for high-throughput phenotyping
+ref-s41598-024-84860-9|||Trichostatin A promotes de novo shoot regeneration from Arabidopsis root explant
+ref-s42003-019-0646-5|||Histone acetylation orchestrates wound-induced transcriptional activation and ce
+ref-s43897-021-00006-9|||Leaf senescence: progression, regulation, and application
+ref-science-1072831|||Plant development: regulation by protein degradation
+ref-science-1086391|||Genome-wide insertional mutagenesis of Arabidopsis thaliana
+ref-science-1090022|||A gene expression map of the Arabidopsis root
+ref-science-1142618|||An ancient mechanism controls the development of cells with a rooting function i
+ref-science-1146265|||A high-resolution root spatiotemporal map reveals dominant expression patterns
+ref-science-1153795|||Cell identity mediates the response of Arabidopsis roots to abiotic stress
+ref-science-1160158|||Receptor-like kinase ACR4 restricts formative cell divisions in the Arabidopsis
+ref-science-1191132|||Secreted peptide signals required for maintenance of root stem cell niche in Ara
+ref-science-aaa6090|||Spatially resolved, highly multiplexed RNA profiling in single cells
+ref-science-aaf2403|||Visualization and analysis of gene expression in tissue sections by spatial tran
+ref-science-aar3131|||Single-cell reconstruction of developmental trajectories during zebrafish embryo
+ref-science-aar5780|||The dynamics of gene expression in vertebrate embryogenesis at single-cell resol
+ref-science-aat5691|||Three-dimensional intact-tissue sequencing of single-cell transcriptional states
+ref-science-aav6428|||Defining the developmental program leading to meiosis in maize
+ref-science-aax0249|||Single-cell transcriptional diversity is a hallmark of developmental potential
+ref-science-aay4970|||Vascular transcription factors guide plant epidermal responses to limiting phosp
+ref-ssq018|||Histone Acetyltransferase AtGCN5/HAG1 Is a Versatile Regulator of Developmental
+ref-tab-0120|||The Arabidopsis cell division cycle
+ref-tpc-006791|||Arabidopsis E2Fc functions in cell division and is degraded by the ubiquitin-SCF
+ref-tpc-010434|||Cell pattern in the Arabidopsis root epidermis determined by lateral inhibition
+ref-tpc-104-028514|||HISTONE DEACETYLASE19 is involved in jasmonic acid and ethylene signaling of pat
+ref-tpc-105-031724|||Transcriptional profile of the Arabidopsis root quiescent center
+ref-tpc-106-044834|||SIAMESE, a Plant-Specific Cell Cycle Regulator, Controls Endoreplication Onset i
+ref-tpc-107-056069|||High-resolution whole-mount imaging of three-dimensional tissue organization and
+ref-tpc-109-068072|||SUMO E3 ligase HIGH PLOIDY2 regulates endocycle onset and meristem maintenance i
+ref-tpc-110-076083|||TDIF peptide signaling regulates vascular stem cell proliferation via the WOX4 h
+ref-tpc-112-096107|||Genome-wide control of polyadenylation site choice by CPSF30 in arabidopsis
+ref-tpc-114-133496|||The root hair “infectome” of Medicago truncatula uncovers changes in cell cycle
+ref-tpc-114-133793|||Cell differentiation and development in Arabidopsis are associated with changes
+ref-tpc-16-00575|||The Arabidopsis LAZY1 family plays a key role in gravity signaling within Statoc
+ref-tpc-16-00863|||A two-step model for de novo activation of WUSCHEL during plant shoot regenerati
+ref-tpc-17-00983|||A spatiotemporal DNA endoploidy map of the Arabidopsis root reveals roles for th
+ref-tpc-18-00785|||Dynamics of gene expression in single root cells of Arabidopsis thaliana
+ref-tpc-19-00279|||Celebrating 20 years of genetic discoveries in legume nodulation and symbiotic n
+ref-tpc-19-00455|||SHORTROOT-mediated intercellular signals coordinate phloem development in Arabid
+ref-tpj-12118|||AtLAZY1 is a signaling component required for gravitropism of the Arabidopsis th
+ref-tpj-12129|||OsORC3 is required for lateral root development in rice
+ref-tpj-13047|||Extracting multiple interacting root systems using X-ray microcomputed tomograph
+ref-tpj-13470|||DRO1 influences root system architecture in Arabidopsis and Prunus species
+ref-tpj-13611|||Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) s
+ref-tpj-14209|||Differential alternative polyadenylation contributes to the developmental diverg
+ref-tpj-14670|||SUPPRESSOR of max2 1-LIKE 5 promotes secondary phloem formation during radial st
+ref-tpj-15725|||AtGH3.10 is another jasmonic acid-amido synthetase in Arabidopsis thaliana
+ref-tpj-16315|||Integrated mass spectrometry imaging and single‐cell transcriptome atlas strateg
+ref-tpj-16437|||Spatial transcriptomics drives a new era in plant research
+ref-tpj-16487|||Single‐cell transcriptomic analysis of pea shoot development and cell‐type‐speci
+ref2-10-1016-j-cell-2016-|||Cistrome and epicistrome features shape the regulatory DNA l
+ref2-10-1038-ng-3937|||Cis and trans determinants of epigenetic silencing by Polyco
+ref2-10-1038-nplants-2016|||The heterodimeric transcription factor complex ERF115–PAT1 g
+ref3-10-1016-j-cels-2019-03-00|||DoubletFinder: Doublet Detection in Single-Cell RNA Sequencing Data Using Artifi
+ref3-10-1016-j-molp-2019-04-00|||A Single-Cell RNA Sequencing Profiles the Developmental Landscape of Arabidopsis
+ref3-10-1016-j-molp-2020-12-01|||Transcriptional landscape of rice roots at the single-cell resolution
+ref3-10-1038-nprot-2007-199|||Arabidopsis mesophyll protoplasts: a versatile cell system for transient gene ex
+ref3-10-1038-s41586-020-2157-4|||Construction of a human cell landscape at single-cell level
+ref3-10-1073-pnas-2018788117|||Plant stem-cell organization and differentiation at single-cell resolution
+ref3-10-1111-nph-17617|||PIN-mediated polar auxin transport regulations in plant tropic responses
+ref3-10-1111-nph-19251|||The AP2/ERF transcription factor PtoERF15 confers drought tolerance via JA-media
+ref3-10-1111-pbi-13891|||Single‐cell transcriptome atlas reveals developmental trajectories and a novel m
+ref4-10-1016-j-devcel-2019-02-|||Spatiotemporal developmental trajectories in the Arabidopsis root revealed using
+ref4-10-1016-j-jgg-2021-06-001|||Single-cell transcriptome atlas of the leaf and root of rice seedlings
+ref4-10-1016-j-molp-2019-04-00|||A single-cell RNA sequencing profiles the developmental landscape of Arabidopsis
+ref4-10-1038-nbt-4096|||Integrating single-cell transcriptomic data across different conditions, technol
+ref4-10-1038-nmeth-1315|||mRNASeq whole-transcriptome analysis of a single cell
+rice-blast-sc-spatial|||Spatiotemporal Transcriptomic Atlas Reveals the Regulatory Mechanisms Underlying
+rice-node-transporter-sc-multi|||Functional characterization of transporter genes in rice node at single-cell res
+salvia-tanshinone-sc-spatial|||Cross-stage single-cell and spatial metabolome analyses reveal periderm speciali
+sc-multiomics-review-jipb|||Single‐cell insights into plant growth, adaptation, and evolution
+spatial-shoot-regeneration-stem-cell-niche|||Super-resolution multimodal spatial transcriptomics reveals an ovoid stem-cell n
+spatial-transcriptomics-plant-regeneration|||Single-nucleus transcriptomics reveal the morphogenesis and artemisinin biosynth
+tillandsia-evolution-land-to-air|||Single-Cell and Spatial Transcriptomics Reveals a Stereoscopic Response of Rice
+tobacco-herbivory-sc-spatial|||Time-series single-cell transcriptomics and spatial metabolomics reveal spatiote
+tobacco-leaf-angle-sc-spatial|||Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminat
+tomato-callus-light-spatial-regeneration|||Author Correction: Spatiotemporal transcriptomics reveals key gene regulation fo
+wheat-grain-yield-spatiotemporal|||A single-cell-resolution spatial transcriptomic atlas decodes wheat spike develo
+wheat-salt-snrna|||Single-nucleus RNA sequencing reveals transcriptional response of wheat roots an
+xr-10-1016-j-molp-2021-01-001|||Single-nucleus RNA and ATAC sequencing reveals the impact of chromatin accessibi

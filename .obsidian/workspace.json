@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "59a2ad62c94ad7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "170c992c60f90f76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0fef288bc95771",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "183fbaf7b5c458a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fbc84ba8150ac8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1bc151f72834987",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "107e44279bb66140",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#terpenoid",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "042fbe15e76d9974",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7a4fa0cdc56c98de",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ced8241245b7bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "137a2a0e00afbb41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "592b4090afc26a7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "87a7761f76c9518a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1349e23a0648e392",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "8421d3fb5c77b45e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "49611b5b2357cb17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bd0fef288bc95771",
+  "lastOpenFiles": [
+    "scripts/__pycache__/multi_source_search.cpython-310.pyc.138877610193040",
+    "scripts/__pycache__/multi_source_search.cpython-310.pyc",
+    "scripts/multi_source_search.py",
+    "reports/~$ybean_light_quality_research_update_20260601_v2.docx",
+    "evidence/transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c-f6.md",
+    "evidence/transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c-f5.md",
+    "evidence/transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c-f4.md",
+    "evidence/transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c-f3.md",
+    "evidence/transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c-f2.md",
+    "evidence/transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c-f1.md",
+    "evidence/introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran-f5.md",
+    "evidence/introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran-f4.md",
+    "evidence/introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran-f3.md",
+    "evidence/introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran-f2.md",
+    "evidence/introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran-f1.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f8.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f7.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f6.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f5.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f4.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f3.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f2.md",
+    "evidence/identification-of-novel-regulators-required-for-early-development-of-vein-patter-f1.md",
+    "evidence/genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic-f8.md",
+    "evidence/genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic-f7.md",
+    "evidence/genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic-f6.md",
+    "evidence/genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic-f5.md",
+    "evidence/genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic-f4.md",
+    "evidence/genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic-f3.md",
+    "raw/papers/使用单细胞 RNA-seq 开发早期灰霉病菌感染期间林地草莓叶子的单细胞图谱.pdf",
+    "raw/papers/单细胞分辨率下的植物干细胞组织和分化.pdf",
+    "raw/papers/通过单细胞 RNA 测序鉴定子叶静脉图案早期发育所需的新型调节因子.pdf",
+    "raw/papers/芽和根单细胞测序揭示了组织和白天特异性转录组谱.pdf",
+    "raw/papers/结合单细胞RNA测序和空间转录组分析，揭示了树木在初级和次级生长过程中形成层分化的动态分子图谱.pdf",
+    "raw/papers/研究多组学和单细胞时代的植物基因功能.pdf",
+    "raw/papers/植物激素信号转导中的单细胞RNA测序：具有广阔的应用前景.pdf",
+    "未命名.canvas",
+    "未命名 1.canvas"
+  ]
+}

@@ -1,0 +1,18 @@
+# ===== 大文件 / 二进制产物：保留本地，不推送 GitHub =====
+# PDF 全文 (8GB+) — 本地知识库核心，不进入 git 仓库
+*.pdf
+# raw/ 原始文献与二进制 (除了 .md 标记)
+raw/
+!raw/**/*.md
+# 临时/中间产物
+.tmp_*
+*.csv.bak
+missing_pdfs*.csv
+missing_dois.txt
+manual_download_list.csv
+# 下载批处理临时文件
+/tmp/
+/.*.txt
+# Windows 临时文件
+~$*
+# 文档生成中间产物 (保留 reports 下的 docx，若有需要再放开)

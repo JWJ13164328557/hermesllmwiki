@@ -1,0 +1,231 @@
+{
+  "scan_metadata": {
+    "topic": "vascular-development",
+    "keywords": ["vascular development", "xylem", "phloem", "cambium", "wood formation", "secondary growth", "tracheary element", "vessel", "fiber", "procambium", "secondary cell wall", "lignin biosynthesis"],
+    "evidence_directory": "/mnt/g/hermes_obsidian/hermes/evidence/",
+    "total_files_scanned": 1761,
+    "scan_date": "2026-05-30",
+    "direct_matches": 20,
+    "indirect_matches": 8
+  },
+  "evidence_claims": [
+    {
+      "claim_id": "ev-20680487-03",
+      "claim": "shr mutants have developmental defects in both protophloem and protoxylem elements",
+      "source": "PMID 20680487, Molecules and cells (2010)",
+      "title": "Characterization of SHORT-ROOT function in the Arabidopsis root vascular system",
+      "category": "xylem_phloem_development",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-20680487-04",
+      "claim": "SHR plays a central role in the root vascular system to control patterning processes, possibly regulated by longitudinal and radial signals",
+      "source": "PMID 20680487, Molecules and cells (2010)",
+      "title": "Characterization of SHORT-ROOT function in the Arabidopsis root vascular system",
+      "category": "vascular_patterning",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-32111671-01",
+      "claim": "NARS1, generated in the CCs of the root differentiation zone, establishes a top-down signal that drives the ACD for phloem SEs in the meristem",
+      "source": "PMID 32111671, The Plant Cell (2020)",
+      "title": "SHORTROOT-Mediated Intercellular Signals Coordinate Phloem Development in Arabidopsis Roots",
+      "category": "phloem_development",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-35927456-01",
+      "claim": "A root phloem pole cell atlas reveals common transcriptional states in protophloem-adjacent cells",
+      "source": "PMID 35927456, Nature Plants (2022)",
+      "title": "A root phloem pole cell atlas reveals common transcriptional states in protophloem-adjacent cells",
+      "category": "phloem_atlas",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-35927456-02",
+      "claim": "DOF transcription factors PINEAPPLEs (PAPL) act downstream of PEAR genes in early PSE-adjacent lineages",
+      "source": "PMID 35927456, Nature Plants (2022)",
+      "title": "A root phloem pole cell atlas reveals common transcriptional states in protophloem-adjacent cells",
+      "category": "phloem_transcription_factors",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-41724975-01",
+      "claim": "scRNA-seq excludes late-stage xylem cells with thickened secondary cell walls, leaving secondary cell wall deposition and PCD poorly characterized",
+      "source": "PMID 41724975, Genome Biology (2026)",
+      "title": "Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle",
+      "category": "xylem_methods",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-41724975-02",
+      "claim": "scRNA-seq profiles predominantly represent early-stage stem-developing xylem, while snRNA-seq enriches for deeper, secondary cell wall depositing layers",
+      "source": "PMID 41724975, Genome Biology (2026)",
+      "title": "Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle",
+      "category": "xylem_methods",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-41724975-03",
+      "claim": "Integrated analysis reveals a spatially and transcriptionally defined secondary cell wall zone in xylem",
+      "source": "PMID 41724975, Genome Biology (2026)",
+      "title": "Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle",
+      "category": "xylem_spatial",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-41724975-04",
+      "claim": "Lignin biosynthesis and programmed cell death associated genes are transcriptionally coordinated in xylem",
+      "source": "PMID 41724975, Genome Biology (2026)",
+      "title": "Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle",
+      "category": "xylem_differentiation",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-41724975-05",
+      "claim": "Early-stage xylem cells show greater transcriptomic heterogeneity compared to late-stage cells",
+      "source": "PMID 41724975, Genome Biology (2026)",
+      "title": "Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle",
+      "category": "xylem_heterogeneity",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-40829588-03",
+      "claim": "A unified cell atlas of vascular plants identified core cell-type foundational genes for xylem and phloem",
+      "source": "PMID 40829588, Cell (2025)",
+      "title": "A unified cell atlas of vascular plants reveals cell-type foundational genes and accelerates gene discovery",
+      "category": "vascular_atlas",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-40829588-04",
+      "claim": "Companion-cell-like cells identified in ferns and gymnosperms that cannot be distinguished by conventional histology",
+      "source": "PMID 40829588, Cell (2025)",
+      "title": "A unified cell atlas of vascular plants reveals cell-type foundational genes and accelerates gene discovery",
+      "category": "vascular_evolution",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-40307555-04",
+      "claim": "Soil compaction triggers ABA release from phloem cells, regulating cell wall remodelling and barrier formation",
+      "source": "PMID 40307555, Nature (2025)",
+      "title": "Single-cell transcriptomics reveal how root tissues adapt to soil stress",
+      "category": "phloem_stress_response",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-41896984-03",
+      "claim": "OsMTP7 is highly expressed in phloem cells in rice node and root stele cells",
+      "source": "PMID 41896984, Genome Biology (2026)",
+      "title": "Functional characterization of transporter genes in rice node at single-cell resolution",
+      "category": "phloem_transporter",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-42082742-02",
+      "claim": "Strong communication between phloem and lodicule cells during rice floret opening involving calcium, sugars and water transport",
+      "source": "PMID 42082742, Communications Biology (2026)",
+      "title": "Single-cell transcriptome sequencing uncovers the regulatory role of lodicule cells in rice floret opening",
+      "category": "phloem_signaling",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "ev-40764913-02",
+      "claim": "Leaf senescence-associated cells mainly involve palisade mesophyll, spongy mesophyll, epidermis, xylem, and phloem cells",
+      "source": "PMID 40764913, BMC Plant Biology (2025)",
+      "title": "Single-cell transcriptome sequencing reveals sphingolipid metabolism in leaf senescence in tobacco",
+      "category": "vascular_senescence",
+      "quality": "medium",
+      "relevance": "direct"
+    },
+    {
+      "claim_id": "SCW-auxin-lignin",
+      "claim": "NAA inhibits lignin and cellulose biosynthesis in stone cells via PbrARF13-PbrNSC-PbrMYB132 cascade",
+      "source": "DOI: 10.1111/pbi.14046",
+      "title": "Auxin inhibits lignin and cellulose biosynthesis",
+      "category": "secondary_cell_wall",
+      "quality": "medium",
+      "relevance": "indirect"
+    },
+    {
+      "claim_id": "SCW-jasmonate-MYB46",
+      "claim": "MYC2-MYB46 module is a key component of JA signaling that controls secondary cell wall formation",
+      "source": "DOI: 10.1111/tpj.16541",
+      "title": "Jasmonate activates secondary cell wall biosynthesis",
+      "category": "secondary_cell_wall",
+      "quality": "medium",
+      "relevance": "indirect"
+    },
+    {
+      "claim_id": "SCW-banana-NAC1",
+      "claim": "Banana MaNAC1 activates secondary cell wall cellulose biosynthesis to enhance chilling resistance",
+      "source": "DOI: 10.1111/pbi.14195",
+      "title": "Banana MaNAC1 activates secondary cell wall",
+      "category": "secondary_cell_wall",
+      "quality": "medium",
+      "relevance": "indirect"
+    },
+    {
+      "claim_id": "SCW-pear-MYB24",
+      "claim": "PbrMYB24 directly activates lignin and cellulose biosynthesis genes and cascades PbrNSC-PbrMYB169",
+      "source": "DOI: 10.1093/plphys/kiad200",
+      "title": "The transcription factor PbrMYB24 regulates lignin",
+      "category": "secondary_cell_wall",
+      "quality": "medium",
+      "relevance": "indirect"
+    }
+  ],
+  "synthesis_assessment": {
+    "total_relevant_claims": 20,
+    "categories_covered": [
+      "xylem_phloem_development",
+      "vascular_patterning",
+      "phloem_development",
+      "phloem_atlas",
+      "phloem_transcription_factors",
+      "xylem_methods",
+      "xylem_spatial",
+      "xylem_differentiation",
+      "xylem_heterogeneity",
+      "vascular_atlas",
+      "vascular_evolution",
+      "phloem_stress_response",
+      "phloem_transporter",
+      "phloem_signaling",
+      "vascular_senescence",
+      "secondary_cell_wall"
+    ],
+    "key_genes_identified": [
+      "SHR", "NARS1", "PEAR", "PAPL (DOF)", "MYB46", "MYC2",
+      "PbrARF13", "PbrMYB24", "PbrMYB132", "PbrNSC",
+      "MaNAC1", "OsMTP7"
+    ],
+    "key_methods_identified": [
+      "scRNA-seq", "snRNA-seq", "spatial transcriptomics",
+      "laser capture microdissection", "cross-species cell atlas"
+    ],
+    "knowledge_gaps": [
+      "cambium_single_cell",
+      "secondary_growth_wood_formation",
+      "spatial_transcriptomics_vascular",
+      "crop_vascular_development",
+      "tracheary_element_differentiation_timeline",
+      "vessel_vs_fiber_fate_decision"
+    ]
+  }
+}
