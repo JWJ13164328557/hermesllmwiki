@@ -7,6 +7,17 @@
 import urllib.parse, subprocess, json, xml.etree.ElementTree as ET, os, re, sys
 from datetime import datetime, timedelta
 
+# JCR 2024 植物/农学/相关期刊权威白名单 (502 期刊, 从 journal_rankings_2024 CSV 生成)
+# 用于期刊过滤的精确匹配层——JCR 收录的植物/农学期刊直接放行(最终仍由 is_plant 内容校验兜底)
+try:
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from jcr_whitelist import JOURNAL_JCR_PLANT_LOWER, journal_in_jcr
+    HAS_JCR_WHITELIST = True
+except ImportError:
+    HAS_JCR_WHITELIST = False
+    def journal_in_jcr(journal_name):
+        return False
+
 BASE = '/mnt/g/hermes_obsidian/hermes'
 CONCEPTS_DIR = f'{BASE}/concepts/papers'  # SCHEMA: papers/
 METHODS_DIR = f'{BASE}/concepts/methods'   # SCHEMA: methods/
@@ -288,8 +299,11 @@ def main():
         # Journal filter (case-insensitive + keyword-based)
         journal_lower = p['journal'].lower()
         journal_ok = False
+        # 0) JCR 2024 植物/农学权威名单精确匹配 (highest priority, additive)
+        if journal_in_jcr(p['journal']):
+            journal_ok = True
         # 1) exact case-insensitive match
-        if journal_lower in JOURNAL_EXACT_LOWER:
+        elif journal_lower in JOURNAL_EXACT_LOWER:
             journal_ok = True
         # 2) keyword-based match (e.g. "Plant phenomics (Washington, D.C.)")
         if not journal_ok:

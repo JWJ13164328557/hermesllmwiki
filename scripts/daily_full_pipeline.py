@@ -12,6 +12,32 @@ Phase 8:  整合后整理 (Hypothesis + Research Program)
 import os, sys, subprocess, json, re, glob
 from datetime import datetime, timedelta
 
+# JCR 2024 植物/农学/相关期刊权威白名单 (防多源导入引入非植物期刊污染)
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scripts'))
+try:
+    from jcr_whitelist import journal_in_jcr
+except ImportError:
+    def journal_in_jcr(journal_name):
+        return False
+
+# 植物物种关键词 (is_plant 内容校验, 多源导入的二次防线)
+PLANT_TERMS = ['arabidopsis','thaliana','rice','oryza','maize','zea','wheat','triticum',
+               'soybean','glycine','tomato','solanum','barley','hordeum','sorghum','cassava',
+               'potato','cucumber','pepper','capsicum','melon','rapeseed','brassica','sunflower',
+               'cotton','gossypium','sugarcane','tobacco','nicotiana','medicago','lotus','phaseolus',
+               'pea','vigna','poplar','populus','eucalyptus','pine','pinus','spruce','moss',
+               'marchantia','physcomitrella','fern','algae','chlamydomonas','grape','vitis',
+               'citrus','malus','pear','banana','strawberry','tea','camellia','orchid','bamboo',
+               'ginger','garlic','onion','plant','crop','seedling','leaf','root','inflorescence',
+               'xylem','phloem','chlorophyll','photosynth','chloroplast','phytochrome','flower',
+               'pollen','anther','seed','fruit','floral']
+
+def is_plant_content(text):
+    """标题+摘要是否有植物物种词。"""
+    t = (text or '').lower()
+    return any(p in t for p in PLANT_TERMS)
+
+
 BASE = '/mnt/g/hermes_obsidian/hermes'
 SCRIPTS = f'{BASE}/scripts'
 CONCEPTS = f'{BASE}/concepts/papers'
@@ -61,16 +87,31 @@ def main():
                 doi = paper.get('doi', '')
                 if not doi or doi in existing_dois:
                     continue
+                # ── 期刊/植物过滤 (防污染) ──
+                journal = paper.get('journal', '')
+                title = paper.get('title', '') or ''
+                abstract = paper.get('abstract', '') or ''
+                jl = (journal or '').lower()
+                # ① JCR 植物/农学权威名单放行
+                if not journal_in_jcr(journal):
+                    # ② 期刊名含明显非植物词 → 拒绝 (防医学/能源/材料)
+                    NONPLANT_J = ['oncol','cancer','medic','med ','hepat','cardiol','diabet',
+                                  'immunolog','drug','fuel','energy','mater','chem eng','nuclear',
+                                  'virol','surg','psych','dermat','neurol','pharm','toxic']
+                    if any(np in jl for np in NONPLANT_J):
+                        # 例外: 期刊名含 plant/botany/crop 等植物词时放行交内容校验
+                        if not any(pw in jl for pw in ['plant','botan','crop','agron','hortic','phyt','forest','agri']):
+                            continue
+                    # ③ 内容 is_plant 校验 (标题/摘要含植物物种词才放行)
+                    if not is_plant_content(title + ' ' + abstract):
+                        continue
                 # Create concept page from multi-source metadata
                 slug = f"ms-{doi.replace('/', '_').replace('.', '-')[:60]}"
                 fp = f'{CONCEPTS}/{slug}.md'
                 if os.path.exists(fp):
                     continue
                 
-                title = paper.get('title', 'Unknown')
-                journal = paper.get('journal', '')
                 year = paper.get('year', '')
-                abstract = paper.get('abstract', '')
                 authors = paper.get('authors', [])
                 if isinstance(authors, list) and authors and isinstance(authors[0], dict):
                     author_names = [a.get('name', '') for a in authors[:5]]
