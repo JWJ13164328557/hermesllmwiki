@@ -405,3 +405,8 @@
 - Top genes: ChIP, TfR1, VvMYBA1, MeJA, OpAVT1, AtGCN5, CsGGT2, NaCl, OsLESV, OsESV1...
 - Top compounds: auxin, anthocyanin, glucose, ethylene, flavonoid, lignin, starch, sucrose, cellulose, phenolic...
 - Entity pages: 45 (genes + compounds)
+
+### Relationships (2026-08-25)
+- metabolism-gene-compound: 240 gene-compound pairs
+- metabolism-gene-network: gene co-occurrence from 9949 evidence
+- Top gene: ChIP (26 evidence)

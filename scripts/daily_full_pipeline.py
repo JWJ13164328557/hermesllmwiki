@@ -299,6 +299,38 @@ source: {source}
                 pass
         log(f"Phase 4 完成: EuropePMC + 多通道 获取 PDF (secondary {dl}/{len(dois)})")
     
+    # ── Phase 4.5: daily_new 暂存区归并到 all_pdfs (B3 审稿修复, 2026-08-25) ──
+    # 根因: fill_missing_pdfs 下载到 daily_new 后从未归并 → daily_new 成"影子库"(堆积重复+污染)
+    try:
+        import shutil as _sh
+        from download_epmc import is_plant_doi
+        dn_dir = f'{BASE}/raw/papers/daily_new'
+        ap_dir = f'{BASE}/raw/papers/all_pdfs'
+        _ap_dois = set()
+        for f in os.listdir(ap_dir):
+            m = re.search(r'(10\.\d{4,}[^\s/]+)', f)
+            if m: _ap_dois.add(m.group(1).replace('_','/').rstrip('.').lower())
+        _moved = _skip = 0
+        for f in os.listdir(dn_dir):
+            if not f.endswith('.pdf'): continue
+            m = re.search(r'(10\.\d{4,}[^\s/]+)', f)
+            if not m: continue
+            _doi = m.group(1).replace('_','/').rstrip('.')
+            # 防污染: 非植物期刊(daily_new 里曾混入自闭症/水产/物理/法律污染)
+            if not is_plant_doi(_doi):
+                _skip += 1
+                continue
+            # 去重: 已在 all_pdfs 则删暂存副本
+            if _doi.lower() in _ap_dois:
+                try: os.remove(f'{dn_dir}/{f}'); _moved += 1
+                except: pass
+            else:
+                _sh.move(f'{dn_dir}/{f}', f'{ap_dir}/{f}')
+                _ap_dois.add(_doi.lower()); _moved += 1
+        log(f"Phase 4.5: daily_new 归并 all_pdfs (清理/归并 {_moved}, 跳过污染 {_skip})")
+    except Exception as e:
+        log(f"Phase 4.5 跳过: {e}")
+    
     # ── Phase 5: 增量深度提炼 (仅今日新增论文) ──
     log(f"Phase 5: 增量深度提炼 ({len(today_pages)} 篇新论文)")
     
@@ -349,6 +381,9 @@ source: {source}
     log(f"Phase 6: 增量 Evidence Objects + Entity + Relationships")
     ok, out = run(f'python3 {SCRIPTS}/batch_evidence_objects.py', timeout=600)
     log(f"Evidence: {out[:200]}")
+    # Phase 6b: Relationships (基因-化合物/基因网络) — 2026-08-25 接入(B4修复: 原先未接入+硬编码日期过滤致层为空)
+    ok, out6 = run(f'/usr/bin/python3 {SCRIPTS}/batch_relationships_v2.py', timeout=300)
+    log(f"Relationships: {out6[:200]}")
     
     # ── Phase 7: 增量综合推理 (Synthesis — 整合新证据到已有框架) ──
     log(f"Phase 7: 增量综合推理 (Synthesis — 整合新证据)")

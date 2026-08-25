@@ -37,3 +37,7 @@
 - [[epigenetics-gene-regulation|Epigenetics & Gene Regulation]]
 - [[methods-tools|Methods & Tools]]
 - [[genomics-evolution|Genomics & Evolution]]
+
+## Relationships
+- [[metabolism-gene-compound]] — Gene-Compound Regulatory Relationships
+- [[metabolism-gene-network]] — Gene Co-occurrence Network

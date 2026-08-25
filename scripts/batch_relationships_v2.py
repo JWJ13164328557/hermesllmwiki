@@ -27,7 +27,9 @@ def main():
         except: continue
         
         if 'created: 2026-05-30' not in content:
-            continue
+            # 2026-08-25 修复: 原硬编码只处理 2026-05-30 创建的证据(反模式),
+            # 导致后续 evidence 全被跳过 → relationships 层一直为空(审稿 B4 发现)
+            pass  # 移除日期硬编码过滤, 处理全部 evidence
         
         ev_slug = fname.replace('.md', '')
         ev_processed += 1
