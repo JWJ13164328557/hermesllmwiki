@@ -16,3 +16,7 @@ manual_download_list.csv
 # Windows 临时文件
 ~$*
 # 文档生成中间产物 (保留 reports 下的 docx，若有需要再放开)
+.trash_nonplant_20260825/
+.trash*/
+__pycache__/
+*.pyc
