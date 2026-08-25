@@ -2,120 +2,22 @@
 
 2026-08-25
 
-检索: 267 篇
-导入: 114 篇
+检索: 28 篇
+导入: 16 篇
 
-- Managing yield and soil trace gas fluxes in rice through furrow irrigation and sulfur-enriched urea. (Journal of environmental quality 2026) PMID:42548280
-- Regulation of reactive oxygen species production by LrWRKY53 transcription factor promotes leaf senescence and Botrytis cinerea susceptibility in lily. (International journal of biological macromolecules 2026) PMID:42551675
-- Pesticide Residues in Soybeans and Soybean Oil: Transfer Dynamics During Processing and Risk Assessment. (Journal of agricultural and food chemistry 2026) PMID:42554817
-- Exogenous molybdenum mitigates cadmium-induced toxicity in wheat ( (Physiology and molecular biology of plants : an international journal of functional plant biology 2026) PMID:42558639
-- Degree of milling-oriented framework for aroma regulation in Daohuaxiang rice. (Food chemistry: X 2026) PMID:42564852
-- The TaCOMT1A-Synthesised Sakuranetin Is a Novel Biostimulant Enhancing Drought Tolerance and Yield in Wheat. (Plant biotechnology journal 2026) PMID:42566321
-- ZmP5CS3 positively regulates drought tolerance by regulating proline biosynthesis and ROS homeostasis in maize seedlings. (Plant science : an international journal of experimental plant biology 2026) PMID:42570729
-- Bacterial Volatile Organic Compounds Mediate a Cooperative Relationship Between Bacteria and Plants Under Heavy Metal Stress. (Microbial biotechnology 2026) PMID:42572400
-- GsIRT3: a zinc-iron transporter gene from Glycine soja, enhancing alkali stress tolerance in Arabidopsis thaliana. (Journal of plant research 2026) PMID:42573724
-- Nanoclay- and alginate-based soil amendments preserve photosynthetic function, delay senescence, and reduce oxidative damage in drought-stressed wheat. (Frontiers in plant science 2026) PMID:42577086
-- Ozone suppresses rice photosynthesis and yield in China's middle-lower yangtze plain: satellite evidence from SIF and panel regression. (Plant physiology and biochemistry : PPB 2026) PMID:42580238
-- Stage-specific optimization of light intensity enhances rice seedling quality and yield potential. (Plant physiology and biochemistry : PPB 2026) PMID:42580239
-- Comparative seed dormancy and germination responses to drying and flooding in two Sri Lankan wild rice species. (AoB PLANTS 2026) PMID:42582953
-- Nubbin-Regulated UDP-Glycosyltransferase NlUGT386G5 Mediates Quercetin Detoxification in the Brown Planthopper Nilaparvata Lugens. (Journal of agricultural and food chemistry 2026) PMID:42584128
-- Insights into Salinity Stress-Induced Morpho-Physiological and Molecular Responses and Nanoparticle- and Nanobiochar-Mediated Tolerance Mechanisms During Seed Germination. (Nanomaterials (Basel, Switzerland) 2026) PMID:42584341
-- Benzoic acid inhibits peach root growth and lateral root emergence by disrupting auxin homeostasis through salicylic acid accumulation. (Plant cell reports 2026) PMID:42584494
-- Cutting off the dual-stress ROS tap: NADPH oxidase inhibition rescues maize roots. (Plant physiology and biochemistry : PPB 2026) PMID:42585738
-- Selective aerobic synthesis of vitamin K3 catalyzed by alloy-like Mn/Fe-decorated pentetic acid-modified chitosan/konjac glucomannan biocompatible scaffold embedded on Rice Hull-(Fe (International journal of biological macromolecules 2026) PMID:42586343
-- Structural Characterization, Physicochemical Stability, and Antioxidant Activity of Rice Glutelin Hydrolysates. (Foods (Basel, Switzerland) 2026) PMID:42587840
-- Etching-Hydrophobicity Modification of Soybean Dreg Insoluble Dietary Fibers and Their Pickering Emulsion Stabilization Mechanisms. (Foods (Basel, Switzerland) 2026) PMID:42587973
-- Genome-Wide Identification of the XTH Gene Family in  (Plants (Basel, Switzerland) 2026) PMID:42588822
-- Iron Chlorin e6 Improves Soybean Yield by Maintaining Chlorophyll Stability and Promoting Carbohydrate Accumulation Under Saline-Alkali Stress. (Plants (Basel, Switzerland) 2026) PMID:42588914
-- Genome-wide analysis of MsGDSL gene family reveals MsGDSL69 as a key regulator of salt stress responses in alfalfa. (Plant physiology and biochemistry : PPB 2026) PMID:42594629
-- Impact of fly ash and farmyard manure on one health continuum of soil, grain and environment in maize. (Scientific reports 2026) PMID:42595767
-- Association analysis of color characteristics, anthocyanin profiles, and antioxidant capacity in purple/black agricultural products based on targeted metabolomics. (Food chemistry: X 2026) PMID:42602971
-- Exogenous kinetin mitigates arsenic-induced oxidative stress by regulating ROS homeostasis and antioxidant defense in Ocimum basilicum L. (Plant cell reports 2026) PMID:42604478
-- Whole-Genome Variants Resource of 144 Oryza rufipogon Accessions. (Scientific data 2026) PMID:42608407
-- Synergistic regulation of cadmium tolerance by a 2 C protein phosphatase and nano molybdenum by modulating cellular structure, metal transport, and redox homeostasis in polyploid rice. (Journal of hazardous materials 2026) PMID:42612530
--  (Frontiers in plant science 2026) PMID:42614296
-- Genetic code expansion enables plant-directed control of bacterial activity. (bioRxiv : the preprint server for biology 2026) PMID:42619807
-- Peptidomic evidence for pH-stat flavourzyme-mediated debittering of Alcalase-derived rice protein hydrolysates. (Current research in food science 2026) PMID:42621333
-- Comparative transcriptomic analysis reveals distinct responses of beneficial bacterial endophytes to wild and cultivated rice root exudates. (Plant cell reports 2026) PMID:42622894
-- Effect of redox status on the metabolic characteristics and microbiota composition of high-amylose maize starch during in vitro fermentation. (Food chemistry 2026) PMID:42623802
-- Amino acid enhanced phosphorus fertilizers enhance wheat yield and efficiency by optimizing soil phosphorus pools in wheat fields for soil phosphorus risk management. (Frontiers in plant science 2026) PMID:42625924
-- Structural adaptations of aboveground vegetative organs to cangas: A case study with the Amazonian species Carajasia cangae R.M.Salas, E.L.Cabral & Dessein (Rubiaceae), which grows on ferruginous outcrops. (PloS one 2026) PMID:42627812
-- No benefit of a mid-season foliar insecticide application to aphid-resistant soybeans when overall insect pressure is low. (Journal of economic entomology 2026) PMID:42627960
-- Integration of carbon and nitrogen signalling: A central framework for plant metabolism and development. (Current opinion in plant biology 2026) PMID:42628146
-- MiPP2C44 promotes early flowering in Arabidopsis and enhances abiotic stress tolerance in mango hairy roots. (Plant science : an international journal of experimental plant biology 2026) PMID:42628803
 - Pectin O-3 deacetylation by Arabidopsis thaliana pectin acetylesterase 11 is important for sequential homogalacturonan degradation. (International journal of biological macromolecules 2026) PMID:42628858
-- Contrasting Hydraulic-Photosynthetic Strategies Sustain Antarctic Vascular Plants Under Long-Term Warming. (Physiologia plantarum 2026) PMID:42629582
-- Excess molybdenum impairs growth, nitrogen metabolism and nutrient translocation of soybean in  (Frontiers in plant science 2026) PMID:42630429
-- Gibberellin-mediated internode elongation for grafting and early flowering induction in Brassicaceae crops. (Breeding science 2026) PMID:42630576
-- Shedding light on arctic-alpine plants: the understudied photobiological responses in the context of climate change. (Frontiers in plant science 2026) PMID:42630949
-- Fuelling the top - Metabolic control of shoot apical meristem function and plant development. (Current opinion in plant biology 2026) PMID:42632157
-- Rhizobia-mediated soybean rhizosphere and nodule endophytic microorganisms reduce bioavailability of Cd and Cu in soil. (Ecotoxicology and environmental safety 2026) PMID:42632174
-- XsiAMT1.1a was identified as a novel ammonium uptake functional gene and its overexpression combined with GA4 application significantly increased yield in Arabidopsis thaliana. (Plant science : an international journal of experimental plant biology 2026) PMID:42632567
-- ¹⁵N isotope tracing reveals Beauveria bassiana colonization promotes nitrogen use efficiency of maize under elevated CO₂. (Plant science : an international journal of experimental plant biology 2026) PMID:42632568
-- Unequal functional redundancy among B2 Raf-like kinases in the trimethylbutenolide (TMB)-responsive seed dormancy of Arabidopsis thaliana. (Plant science : an international journal of experimental plant biology 2026) PMID:42632569
-- Maintaining photosynthetic integrity over carbon gain is a key adaptive mechanism among plant species in the trans-Himalayan region. (Plant science : an international journal of experimental plant biology 2026) PMID:42632570
-- Fate of beneficial and undesirable components in wheat germ oil during molecular distillation. (Food research international (Ottawa, Ont.) 2026) PMID:42632652
-- Age-dependent bioaccessibility of citrinin, ochratoxin A, and zearalenone in boiled white Rice: A comparative INFOGEST in vitro study. (Food research international (Ottawa, Ont.) 2026) PMID:42632655
-- Influence of apple pomace and asparaginase on acrylamide levels in cookies and behavior during simulated gastric digestion: risk assessment perspectives. (Food research international (Ottawa, Ont.) 2026) PMID:42632667
-- Microwave-assisted extraction driven lipid profile alterations and in vitro digestive characteristics of functional lipids from Litopenaeus vannamei byproducts. (Food research international (Ottawa, Ont.) 2026) PMID:42632675
-- Whole wheat steaming bun matrix enhances folic acid bioavailability: protein drives systemic uptake, soluble fiber directs brain delivery. (Food research international (Ottawa, Ont.) 2026) PMID:42632683
-- Machine learning-guided protein selection for functionality-informed cost reduction and quality control in wheat flour dough formulations. (Food research international (Ottawa, Ont.) 2026) PMID:42632687
-- Dual isoflavone and carboxyl-containing compound profiling for antioxidant evaluation of fermented soybean products. (Food research international (Ottawa, Ont.) 2026) PMID:42632689
 - Integrative molecular sensory science and untargeted metabolomic analysis reveal the flavor formation of fermented wheat bran. (Food research international (Ottawa, Ont.) 2026) PMID:42632701
-- Cooling-driven polymorphic transition of lipid crystal particles enhancing interfacial rheology and foaming stability in polyunsaturated foams. (Food research international (Ottawa, Ont.) 2026) PMID:42632708
-- Seeing the grain: How transparent window size influences purchase intention and visual attention in rice packaging. (Food research international (Ottawa, Ont.) 2026) PMID:42632722
-- Integration of ancient wheat flours and almond skin by-products on the technological properties of bread samples. (Food research international (Ottawa, Ont.) 2026) PMID:42632731
 - Isolation, identification, and quantum chemical analysis of structure-activity relationships of antioxidant peptides from sesame meal via Aspergillus niger fermentation and flavourzyme hydrolysis. (Food research international (Ottawa, Ont.) 2026) PMID:42632733
-- Food-derived extracellular vesicles modulate ferroptosis: Implications for functional food development and healthy aging. (Food research international (Ottawa, Ont.) 2026) PMID:42632743
-- Genetic mapping identifies QTL and candidate genes including Mendel's A gene controlling high levels of partial resistance to Fusarium avenaceum in Pea. (TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik 2026) PMID:42632868
-- Functional Wet Noodles Based on Modified Cassava Flour and Pumpkin Flour: Physicochemical, Bioactive, Structural, and Starch Digestibility Characteristics. (International journal of food science 2026) PMID:42633075
-- Trends in waterpipe and e-cigarette use among young people in the European Union, 2012-2023: a repeated cross-sectional study. (The Lancet regional health. Europe 2026) PMID:42633154
-- Machine-learning-based analysis of host-depleted  (Bioinformatics advances 2026) PMID:42633195
-- Food-induced anaphylaxis to plant allergens in adolescents and adults: Data from the allergy Vigilance Network (2002-2024). (The World Allergy Organization journal 2026) PMID:42633221
-- The NtAN3 gene plays a key role in increasing tobacco leaf area. (Biochemistry and biophysics reports 2026) PMID:42633236
-- Photothermal-magnetic dual-activated Janus dressing for microenvironment purification and wireless electrically triggered healing with reduced scar formation. (Bioactive materials 2027) PMID:42633435
-- Plant Spatio-Temporal Integration Network (PSTN): A framework for dynamic single-cell and spatial transcriptomics in fungal-plant interactions. (Bioinformatics (Oxford, England) 2026) PMID:42633556
-- Genome-wide characterization of BraABCB transporters reveals their potential roles in hormone responses in Brassica rapa var. parachinensis. (Plant cell reports 2026) PMID:42633609
-- RNAi Targeting MhieJHEH Disrupts Hormonal Homeostasis and Induces Systemic Metabolic Dysregulation in Monolepta Hieroglyphica. (Archives of insect biochemistry and physiology 2026) PMID:42633677
-- Single-Cell Transcriptomics Reveals the FA9-VAP Module Regulating Fatty Acid Accumulation in Soybean Seeds. (Plant biotechnology journal 2026) PMID:42633702
-- Down-regulation of VvPLL3 enhances grapevine resistance to Erysiphe necator via defense activation and cell wall remodeling. (Plant physiology 2026) PMID:42633708
-- Blue-Light-Excited Cyan-Emitting Carbon Dots Towards Healthier White Light-Emitting Diodes: A Perspective. (Nanotechnology 2026) PMID:42633758
-- Invasion of Clavibacter michiganensis into the Xylem and Surrounding Tissues Drives Histological Alterations and Disease Development in Tomato. (The plant pathology journal 2026) PMID:42633794
-- Structural heterogeneity, processing transformation, and gut microbiota-related immunomodulation of Glycyrrhiza polysaccharide: A review. (International journal of biological macromolecules 2026) PMID:42633806
-- Comparative analysis of DDR-related genes and microRNA expression during rice germination: Implications for salinity susceptibility screening. (Plant science : an international journal of experimental plant biology 2026) PMID:42633860
-- Negative regulation of seed germination in Medicago truncatula by the lncRNA MtCIR1 under salt stress is associated with alternative splicing. (Plant science : an international journal of experimental plant biology 2026) PMID:42633861
-- Integrative Multi-Scale Analysis Identifies the Hub Gene TRE1 Associating Trehalose Metabolism With Salinity Tolerance in Rice. (Physiologia plantarum 2026) PMID:42633900
-- Natural variation in WRKY53 confers cold tolerance at the booting stage between japonica and indica rice. (TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik 2026) PMID:42634039
-- Nicotine Pouch Advertising and Sales in Australia: A Qualitative Study of Younger People's Experiences. (Health promotion journal of Australia : official journal of Australian Association of Health Promotion Professionals 2026) PMID:42634106
-- A rapid and sensitive method for the detection of Didymella pinodella in Pisum sativum. (Pest management science 2026) PMID:42634157
-- DIR12 Confers Rice Salt Tolerance by Mediating Lignin Deposition in Root Diffusion Barrier. (Plant, cell & environment 2026) PMID:42634236
-- Diet and risk of bladder cancer: a systematic review of epidemiological evidence. (BJU international 2026) PMID:42634248
-- Bacillus subtilis B21-Mediated Salt Tolerance in Cucumber via Auxin Signalling Activation. (Plant, cell & environment 2026) PMID:42634255
-- Deep Learning-Based Classification of In Vivo Embryonic Development Stages in Ceratitis capitata (Wiedemann) (Diptera: Tephritidae) Using Real-Time Microscopy Images. (Journal of experimental zoology. Part B, Molecular and developmental evolution 2026) PMID:42634406
-- Experimental Evidence Supporting the Neuroprotective Role of Epigallocatechin-3-Gallate in Parkinson's Disease. (Current neurovascular research 2026) PMID:42634512
-- Herbal Creams in Dermatology: Efficacy, Safety, Formulation, and Regulatory Considerations. (Current pharmaceutical design 2026) PMID:42634516
-- Arrhythmic zone: When circadian clocks go quiet in the cold. (The FEBS journal 2026) PMID:42634600
-- Archaeobotanical evidence reveals the nature of cereal agriculture at 8th- and 9th-century ad Sedgeford, East Anglia, UK. (Vegetation history and archaeobotany 2026) PMID:42634620
-- Dominance of  (Plant disease 2026) PMID:42634627
-- Genome-Guided TaqMan qPCR for Detection of  (Plant disease 2026) PMID:42634628
-- Gossypiboma Mimicking Ovarian Mass: A Rare Case Report from Rwanda. (International journal of women's health 2026) PMID:42634791
-- Quantifying the Potential Impact of Food Fortification on Iron Intake, Hemoglobin Concentration and Anemia Prevalence Among Women of Reproductive Age in India. (Maternal & child nutrition 2026) PMID:42634923
-- Multiplexed Engineering of Disease Resistance and Lodging Tolerance in Wheat Via a Single Xylan Modifying Glycosyltransferase. (Plant biotechnology journal 2026) PMID:42635029
-- Phytotoxicity mechanism of rubratoxin B from the soil-derived fungus, Talaromyces purpureogenus XJ14C02. (Pest management science 2026) PMID:42635085
-- Mediation of Smoking and Cardiometabolic Factors on Diabetic Peripheral Neuropathy. (Nursing research 2026) PMID:42635172
-- Enhancement of soil microbial activity and Basil growth by graphene oxide nanoparticles: insights from a growth chamber experiment. (Nanotoxicology 2026) PMID:42635402
-- HMGB1-targeted anti-inflammatory rBox A gene therapy for viral airway infections and systemic inflammatory disease models. (mBio 2026) PMID:42635416
-- Efficient in-vitro regeneration and transformation for CRISPR/Cas9-mediated genome editing of phytoene desaturase (PDS) gene in pea (Pisum sativum L.). (Plant cell reports 2026) PMID:42635641
-- Rice Protein as an Alternative Ingredient for Sustainable Food Formulations: Nutritional Quality, Functional Properties, Health-promoting Potential, and Emerging Applications. (Plant foods for human nutrition (Dordrecht, Netherlands) 2026) PMID:42635687
-- Genomic prediction vs. gene-based crop models: a case study on rice trait prediction. (TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik 2026) PMID:42635772
-- Knockdown of Arabidopsis RUS4 impacts pollen coat formation by affecting flavonoid and lipid metabolism. (Planta 2026) PMID:42635823
-- Biogenic iron oxide nanoparticles enhance antioxidant defense and soil nutrient dynamics under lead stress in rice. (Environmental geochemistry and health 2026) PMID:42635835
-- The AtRNC1-AtWTF1 protein complex is essential for chloroplast group Ⅱ intron splicing, ribosome biogenesis, and embryo development in Arabidopsis. (Plant molecular biology 2026) PMID:42635848
-- Research progress on biosynthesis and regulation of monoterpenoid compounds. (Natural products and bioprospecting 2026) PMID:42635857
-- Expression and immunoassay application of full-length recombinant antibody recognizing chlorantraniliprole using Pichia pastoris expression system. (Crop health 2026) PMID:42635883
-- What doesn't kill you (sometimes) makes you stronger: The role of growth, meaning, and perceived control after trauma. (Psychological trauma : theory, research, practice and policy 2026) PMID:42636052
-- Insights into growth mindsets over time: People with growth versus fixed mindsets grow increasingly negative in their reactions to others' repeated failures. (Journal of personality and social psychology 2026) PMID:42636062
-- Multi-year evaluation and release of improved soybean lines for resistance to Phomopsis seed decay. (PloS one 2026) PMID:42636247
-- Arbuscular mycorrhiza-upregulated PtPIP1;2 facilitates H2O2 transport to enhance drought tolerance in trifoliate orange. (Tree physiology 2026) PMID:42636330
-- SIRT2 deacylase modulators control B cell metabolic reprogramming in EBV infection and mitogenic activation. (Proceedings of the National Academy of Sciences of the United States of America 2026) PMID:42636358
-- A dominant mutation in tomato DNA POLYMERASE DELTA 1 causes geminivirus DNA replication catastrophe. (Proceedings of the National Academy of Sciences of the United States of America 2026) PMID:42636372
+- Formation of flaxseed gum-based 3D printed bigels: Impact of oleogelator types and oleogel/hydrogel ratios. (International journal of biological macromolecules 2026) PMID:42636604
+- Blue light treatment enhances fruit wound repair and inhibits blue mold in destemmed grapes. (Food research international (Ottawa, Ont.) 2026) PMID:42637437
+- MAX3 deficiency recruits protective Pseudomonas via modulating the SL-ABA-flavonoid axis to suppress soil-borne pathogen infection. (Nature communications 2026) PMID:42637765
+- Method for Analyzing CAZyme Activity from Whole-Body and Saliva Proteome of Russian Wheat Aphid. (Methods in molecular biology (Clifton, N.J.) 2026) PMID:42638010
+- Tracking Oxidative Bursts in Tomato-Pathogen Interactions. (Methods in molecular biology (Clifton, N.J.) 2026) PMID:42638018
+- Jasmonic acid signaling in plants: regulatory mechanisms in development and stress responses. (Functional plant biology : FPB 2026) PMID:42638156
+- The compound eye structure, phototactic traits and opsin gene-mediating photosensitive mechanism in Nilaparvata lugens. (Pest management science 2026) PMID:42638174
+- Comparative analysis of supercritical CO (Journal of the science of food and agriculture 2026) PMID:42638262
+- Are novel and co-xenic associations common in alien fungal and fungus-like plant pathogens? (The New phytologist 2026) PMID:42638283
+- A formulation-driven plant-derived nanoemulsion for root-knot nematode control in tomato: efficacy across pot and greenhouse conditions. (Pest management science 2026) PMID:42638290
+- Mining rare haplotypes to accelerate precision breeding in rice. (The plant genome 2026) PMID:42638308
+- A Vision-Based Deep Learning Framework enables High-Accuracy Prediction of Geng Rice Eating Quality and Facilitates QTL Mapping. (Plant communications 2026) PMID:42638310
+- Valorization of spent black tea polyphenols as a functional coating for probiotic protection and colitis alleviation. (Food & function 2026) PMID:42638587
