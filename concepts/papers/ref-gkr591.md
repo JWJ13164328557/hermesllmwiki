@@ -39,6 +39,23 @@ Global gene expression measurements are increasingly obtained as a function of c
 **OA PDF**: https://academic.oup.com/nar/article-pdf/39/21/9093/16778478/gkr591.pdf
 
 
+## 深度提炼
+
+**物种**: Plant (unspecified)
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1093/nar/gkr591
+**来源类型**: PDF全文 (10.1093_nar_gkr591.pdf)
+
+### 核心发现
+1. Interestingly, in both organisms, we found that certain functional categories of genes tended to have similar domain sizes even if they were ex- pressed in different cell types (Supplementary Tables S2 and S3).
+2. Using global gene expression data from the mouse brain, plant root and human white blood cells, we show that Spec identifies genes with variable expression levels that are none- theless highly specific of particular cell types.
+3. As an example of such applications, we show that Spec identifies a new class of biomarkers, which exhibit variable expression without compromising specificity.
+4. Gene B’s proﬁle exhibits inherently more variability among target cells, giving it reduced speciﬁcity even though its mean expression level is the same as gene A.
+5. At a target intensity of 250, we determined empirically, using known markers, that a hybridization value of 50 represented a reliable ex- pression signal.
+6. The test set contained treated samples for 13 hormones or hormone inhibitors, with no controls included (since the 12 other classes served as background or non-target classes).
+7. Both methods capture highly speciﬁc markers with consistently high expression in the target class and low expression in the non-target class, although we note this is a relatively small percentage of the known markers.
+8. Interestingly, its noise within the auxin data is relatively high and it is not likely to be identiﬁed as an auxin marker using traditional statistical methods.
+
 ## 相关文献
 
 - [[alfalfa-anther-sc-atlas]]

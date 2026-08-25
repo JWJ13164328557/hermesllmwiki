@@ -1,4 +1,5 @@
 ---
+doi: 10.1360/csb2008-53-15-1793
 title: "转录因子 NnMYB5 通过调控 GLUTATHIONE S-TRANSFERASE2 来控制莲花的花瓣颜色"
 journal: "unknown"
 year: ""

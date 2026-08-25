@@ -1,4 +1,5 @@
 ---
+doi: 10.5376/mpb.cn.2012.10.0035
 title: "阐明生菜两种不同切面变色表型所涉及的生化途径"
 journal: "unknown"
 year: ""

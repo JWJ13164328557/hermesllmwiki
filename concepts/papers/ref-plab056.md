@@ -39,6 +39,17 @@ Corresponding author’s e-mail address:yorklm@ornl.gov Received 2021 Apr 11; Ac
 **OA PDF**: https://academic.oup.com/aobpla/article-pdf/13/6/plab056/41139147/plab056.pdf
 
 
+## 深度提炼
+
+**物种**: Zea mays, Glycine max, Triticum aestivum, Medicago spp., Citrus spp.
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1093/aobpla/plab056
+**来源类型**: PDF全文 (10.1093_aobpla_plab056.pdf)
+
+### 核心发现
+1. Root characteristics like length, diameter and volume are critical to measure to understand plant and soil functions.
+2. 6 are critical for quantifying carbon, water and nutrient fluxes (Warren et al.
+
 ## 相关文献
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]

@@ -204586,7 +204586,17 @@ NCBI o
 
 ## 深度提炼
 
+**物种**: Oryza sativa, Zea mays, Solanum lycopersicum, Malus domestica, Glycine max
+**方法**: transcriptomics (RNA-seq), ChIP-seq/qPCR, qRT-PCR validation, Y2H, BiFC, dual-luciferase reporter, RNAi/VIGS, overexpression
+**来源**: DOI:10.1111/pbi.14355
+**来源类型**: PDF全文 (10.1111_pbi.14355.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Meanwhile, NF-Ys as ﬂowering activa- tors bind to SUPPRESSOR OF OVEREXPRESSION OF CO1 (SOC1) via interacting with DELLAs, resulting in down-regulation of SOC1 expression and inhibition of ﬂowering (Hou et al., 2014).
+2. Moreover, we found that exogenous spraying of ethylene precursor ACC rescued the susceptibility of MeNF-YC15 silenced cassava plants, which was reﬂected in the number of bacteria and lesion area (Figures S2 and 3g,h).
+3. First of all, we found that the transcription level of MePP2C1 was signiﬁcantly decreased during pathogen infection (Figure S5).
+4. Since these downstream genes (nine MeERFs and MeAIL5) are regulated by ethylene, we conclude that MeNF-YC15 were involved in both ethylene synthesis and signalling.
+5. In summary, MePP2C1-MeNF-YC15 interaction modulates ethylene biosynthesis and cassava disease resistance, providing gene network for cassava genetic improvement.
+6. NF-Y transcription factors usually function as heterotrimeric forms, including NF-YA, NF-YB and NF-YC subunits (Priest et al., 2021; Zhou et al., 2020), and they bind to CCAAT-box and interact with regulatory factors to regulate downstream gene expression (An et al., 2020).
+7. MeNF-YC15 directly regulates MeACO1 expression Consistent with RNA-sequencing data, MeNF-YC15 positively regulated MeACO1 transcription and ethylene accumulation (Figure 3a–d).
+8. MeNF-YC15 interacts with the 2C-type protein phosphatase 1 (MePP2C1) to ﬁne-tune the transcription of MeACO1 In order to further analyse the molecular mechanism of MeNF-YC15 in plant immunity, we used MeNF-YC15 as a bait and obtained 16 candidate MeNF-YC15 interacting proteins in the yeast two-hybrid (Y2H) system (Table S2).

@@ -55,4 +55,10 @@ Received 2004 Jan 19; Revised 2004 Jan 30; Accepted 2004 Feb 24; Issue date 2004
 
 ## 深度提炼
 
-**来源**: 知识库文献
+**物种**: Coffea spp., Ficus carica, Rosa spp.
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1093/nar/gkh340
+**来源类型**: PDF全文 (10.1093_nar_gkh340.pdf)
+
+### 核心发现
+1. (8)], we found that T-Coffee was unable to align more than approximately 102 sequences of typical length on a current desktop computer.

@@ -33697,7 +33697,17 @@ NCBI o
 
 ## 深度提炼
 
+**物种**: Citrus spp., Coffea spp., Juglans regia, Ficus carica, Vaccinium spp.
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1126/sciadv.aec7965
+**来源类型**: PDF全文 (10.1126_sciadv.aec7965.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. We found that S2 (PEDOT:PSS HTL Solar) was the most reactive to moisture, while S3, S8, and S13 (PANI, pentacene, and ITO, respectively) were least af- fected.
+2. We found that ML-­ SCENT falls within sensitivity ranges typical of other established platforms (43–53).
+3. We found that in our experi- mental setup, humidity levels are not significantly altered as the chicken spoils, indicating that increasing concentrations of reducing gases are driving the trends in sensor response (fig.
+4. Target gases were exposed for 95 s with a 185-­s recovery period be- tween pulses.
+5. While the response and recovery times may vary depending on the target analyte, both were quick compared to many other bench- marks that can take tens of minutes to hours (54, 55).
+6. (D) Raw data from S10 (PCBM) in response to 20 pulsed exposures to the target gas.
+7. DISCUSSION In summary, we present the successful implementation of 16 distinct- ly functionalized sensors integrated monolithically into a single array using a highly scalable microdispensing technique to perform food object classification with CNN algorithms.
+8. It should be espe- cially noted that, in contrast to typical MOS devices, no thermal or light assisted resetting of the device was required for recovery.

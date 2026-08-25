@@ -52830,9 +52830,17 @@ NCBI o
 
 ## 深度提炼
 
-**方法**: Microscopy
+**物种**: Quercus spp., Ficus carica, Rosa spp., Lilium spp.
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1126/sciadv.ady7139
+**来源类型**: PDF全文 (10.1126_sciadv.ady7139.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Here, in this study, we show that photosynthesis and aboveground growth occur asynchronously across diel to seasonal scales in eight North American oak species.
+2. At both Pace Forest–VA and Tonzi Ranch– CA, we found that growth activity at the diel scale is most likely to occur during phase A between late night to early morning (00:00 to 07:00 hours) when daily standarized TWD, VPD, and temperature were the lowest.
+3. We found a significant positive relationship between Offset and the coefficient of variation (CV) of VPD between sites and across differ- ent monitoring years (Spearman r = 0.86; P < 0.05, Fig.
+4. We found strong positive relationships between the phase III and the CV of VPD (Spearman r = 0.79, P < 0.05) and phase III and the CV of the interaction between air temperature and precipitation (Spearman r = 0.75, P = 0.06) (fig.
+5. We found that while aboveground, woody biomass growth started syn- chronously with canopy expansion and photosynthesis (31, 63), growth activity culminated by the end of July (Fig.
+6. These data show that the photosynthetic season spanned late April to October (~7 months) in the Eastern US and mid-­February to mid-­December (~10 months) in California (Fig.
+7. Together, these findings reveal a substantial disconnect: Twenty-­six to 36% of annual photosynthesis occurs after July (i.e., between August and December), yet late-­season climate plays little to no role in de- termining annual woody growth in the current year.
+8. While there is a distinction between when a tree grows and the climate window to which annual growth is most sensitive, these results suggest the phenol- ogy of aboveground radial growth and carbon assimilation are likely decoupled from each other.

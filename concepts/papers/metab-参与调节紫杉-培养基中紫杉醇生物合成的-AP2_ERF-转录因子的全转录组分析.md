@@ -1,4 +1,5 @@
 ---
+doi: 10.5376/mpb.cn.2012.10.0038
 title: "参与调节紫杉×培养基中紫杉醇生物合成的 AP2_ERF 转录因子的全转录组分析"
 journal: "unknown"
 year: ""

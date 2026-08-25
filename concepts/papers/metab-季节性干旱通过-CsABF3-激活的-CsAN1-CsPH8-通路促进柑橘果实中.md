@@ -1,4 +1,5 @@
 ---
+doi: 10.23888/pavlovj282200-212-23094
 title: "季节性干旱通过 CsABF3 激活的 CsAN1-CsPH8 通路促进柑橘果实中柠檬酸盐的积累"
 journal: "unknown"
 year: ""

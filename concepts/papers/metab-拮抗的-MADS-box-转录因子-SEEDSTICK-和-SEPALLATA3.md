@@ -1,4 +1,5 @@
 ---
+doi: 10.5376/mpb.cn.2012.10.0038
 title: "拮抗的 MADS-box 转录因子 SEEDSTICK 和 SEPALLATA3 形成了调控种子油脂积累的转录调控网络"
 journal: "unknown"
 year: ""

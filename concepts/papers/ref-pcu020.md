@@ -39,6 +39,23 @@ Plant vacuoles play critical roles in development, growth and stress responses. 
 **OA PDF**: https://europepmc.org/articles/pmc3982123?pdf=render
 
 
+## 深度提炼
+
+**物种**: Arabidopsis thaliana, Zea mays, Ficus carica, Lilium spp.
+**方法**: Western blot, subcellular localization, promoter-GUS assay
+**来源**: DOI:10.1093/pcp/pcu020
+**来源类型**: PDF全文 (10.1093_pcp_pcu020.pdf)
+
+### 核心发现
+1. Taken together, we conclude that SGR6 may act on formation and/or maintenance of invaginated VM structures and indirectly modulates amyloplast dynamics in endodermal cells.
+2. Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is involved in the control of morpho- logical changes and dynamics of VM structures in endoder- mal cells, which are the gravity-sensing cells in shoots.
+3. Our results suggest that SGR6 is a novel protein involved in the formation and/or maintenance of invaginated VM struc- tures in gravity-sensing cells.
+4. Here, we show that the gene responsible for the sgr6 mutant is At2g36810 that encodes the HEAT (Huntingtin, Elongation factor 3, A-subunit of protein phos- phatase 2A and TOR1) protein with an unknown function.
+5. We found a single C to T substi- tution in the open reading frame of At2g36810, resulting in a nonsense mutation at glutamine (Q1171).
+6. We found that SGR6 was not solubilized in high salt, urea or alkaline buffer at room temperature (Supplementary Fig.
+7. We found that SGR6 is a novel gene that may function in vacuolar dynamics in plant cells.
+8. These results suggest that the formation/maintenance of invaginated VM structures is important for amyloplast movement, includ- ing sedimentation.
+
 ## 相关文献
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]

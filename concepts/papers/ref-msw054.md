@@ -52,4 +52,10 @@ We present the latest version of the Molecular Evolutionary Genetics Analysis (M
 
 ## 深度提炼
 
-**来源**: 知识库文献
+**物种**: Ficus carica
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1093/molbev/msw054
+**来源类型**: PDF全文 (10.1093_molbev_msw054.pdf)
+
+### 核心发现
+_（无显著信号句）_

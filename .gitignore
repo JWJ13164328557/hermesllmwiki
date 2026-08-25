@@ -20,3 +20,4 @@ manual_download_list.csv
 .trash*/
 __pycache__/
 *.pyc
+reports/

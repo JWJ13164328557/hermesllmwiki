@@ -77,9 +77,17 @@ Author for correspondence:frommew@hhu.de(W.B.F.),jiyun.kim@hhu.de(J.-Y.K.) Recei
 
 ## 深度提炼
 
-**方法**: RNA-seq
+**物种**: Oryza sativa, Zea mays, Daucus carota, Solanum tuberosum
+**方法**: proteomics, single-cell RNA-seq, qRT-PCR validation, knockout/mutant, promoter-GUS assay
+**来源**: DOI:10.1093/plcell/koaa060
+**来源类型**: PDF全文 (10.1093_plcell_koaa060.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PMC全文
+1. We found that the phloem parenchyma cells are enriched for various transporters, including sugar transporters and amino acid transporters.
+2. In a parallel article in this issue, we show that maize homologs of these sugar and amino acid transporters are enriched in the abaxial bundle sheath cells.
+3. In addition, we found unexpected roles of PP in hormone biosynthesis and defense-related responses.
+4. Consistent with our hypothesis, we found UmamiT18/SIAR1 mRNA in PP (Figure 5, J–L).
+5. Abstract The leaf vasculature plays a key role in solute translocation.
+6. In summary, our single-cell RNA-sequencing analysis provides a wide range of information into the leaf vasculature and the role and relationship of the leaf cell types.
+7. The cell specificity of bZIP9 is consistent with a possible role in the activation of target genes involved in transport process across different tissues.
+8. The MYB coiled-coil-type transcription factor APL plays a key role for the definition of phloem identity (Bonke et al., 2003).

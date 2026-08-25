@@ -1,4 +1,5 @@
 ---
+doi: 10.1360/csb2002-47-20-1578
 title: "NF-YC15转录因子激活乙烯生物合成，提高木薯抗病能力"
 journal: "unknown"
 year: ""

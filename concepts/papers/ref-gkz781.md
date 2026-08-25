@@ -39,6 +39,23 @@ To whom correspondence should be addressed. Tel: +972 36409865; Email:ranel@taue
 **OA PDF**: https://academic.oup.com/nar/article-pdf/47/19/10027/30314322/gkz781.pdf
 
 
+## 深度提炼
+
+**物种**: Citrus spp., Ficus carica
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq
+**来源**: DOI:10.1093/nar/gkz781
+**来源类型**: PDF全文 (10.1093_nar_gkz781.pdf)
+
+### 核心发现
+1. Using pA site annotations from PolyA DB, we found that in the analysed datasets, while we robustly separated adjacent pA sites with distances above 300–400 nt, we were able to separate ∼30% of successive sites whose distance is 200–300 nt and only ∼5% of the sites whose distance is <200 nt (Supplementary Figure S10).
+2. Since miRNAs mainly have a repressive effect on target genes, 3′ UTR shortening is expected to be generally associated with increased stability.
+3. Yet, it emerges that the impact of 3′ UTR APA on miRNA-mediated regulation of mR- NAs is more complicated than mere inclusion/exclusion of miRNA target sites in/from the 3′ UTR, as the efficiency of mRNA targeting is also affected by the location of the miRNA target site––sites located at the start or end of the 3′ UTRs are more efficient than those located in the middle (62).
+4. (2008) Proliferating cells express mRNAs with shortened 3′ untranslated regions and fewer microRNA target sites.
+5. Notably, the most popular scRNA-seq protocols speciﬁcally se- quence the 3′ end of transcripts.
+6. Importantly, these transcriptome-wide methods revealed that the majority of human protein- coding genes contain more than one 3′ untranslated re- gion (3′ UTR) pA site, indicating alternative polyadenyla- tion (APA) as a widespread regulatory layer that generates transcript isoforms with alternative 3′ ends (1,5,6).
+7. Notably, it was indicated that switching to shorter 3′ UTRs allows proto- oncogenes (e.g., CCND1) to avoid inhibition by miRNAs, thereby enhancing their tumorigenic activity (12).
+8. Notably, in line with previous reports, these events were strongly inclined towards 3′ UTR shortening in the proliferating cells compared with the rest- ing ones (Figure 2D and Supplementary Figure S2F).
+
 ## 相关文献
 
 - [[alfalfa-anther-sc-atlas]]

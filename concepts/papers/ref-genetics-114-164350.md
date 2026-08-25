@@ -43,6 +43,22 @@ Communicating editor: M. K. Uyenoyama
 **OA PDF**: https://www.genetics.org/content/genetics/197/2/573.full.pdf
 
 
+## 深度提炼
+
+**物种**: Plant (unspecified)
+**方法**: molecular biology / biochemistry
+**来源**: DOI:10.1534/genetics.114.164350
+**来源类型**: PDF全文 (10.1534_genetics.114.164350.pdf)
+
+### 核心发现
+1. Furthermore, our results show that the heuristic scores for choosing model complexity provide a reasonable range of values for the number of populations represented in the data, with minimal bias toward detecting structure when it is very weak.
+2. Additionally, we pro- pose a useful heuristic to choose K based on the tendency of mean-ﬁeld variational schemes to populate only those model components that are essential to explain patterns underlying the observed data.
+3. Surprisingly, K*cv estimated using ADMIXTURE and K* ∅C estimated using fast- STRUCTURE tend to underestimate the number of popula- tions when the true number of populations Kt is large, as shown in Figure 2B.
+4. Notably, when population structure is weak, both ADMIXTURE and fast- STRUCTURE fail to detect structure when the number of populations is too large.
+5. For the larger choice of model complexity, we observe that fastSTRUCTURE with the simple prior uses only those model components that are necessary to explain the data, allowing for automatic Figure 4 Visualizing ancestry proportions estimated by different algorithms on two simulated data sets, one with strong structure (top, r = 1) and one with weak structure (bottom, r = 0.5).
+6. Interestingly, both algorithms strongly suggest the exis- tence of additional weak population structure underlying the data, as shown in Figure 7.
+7. Notably, ADMIXTURE splits the Central and South American populations into two groups while fastSTRUCTURE assigns higher approximate marginal likelihood to a split of sub-Saharan African populations into two groups.
+
 ## 相关文献
 
 - [[aba-biosynthesis-stress]]

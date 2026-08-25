@@ -56,4 +56,17 @@ Citation: Gutierrez C. (2009) The Arabidopsis Cell Division Cycle.The Arabidopsi
 
 ## 深度提炼
 
-**来源**: 知识库文献
+**物种**: Zea mays, Solanum lycopersicum, Nicotiana tabacum
+**方法**: RNAi/VIGS, overexpression
+**来源**: DOI:10.1199/tab.0120
+**来源类型**: PDF全文 (10.1199_tab.0120.pdf)
+
+### 核心发现
+1. In tobacco, these are MYB factors that have been identified to inter- act with MSA boxes present in the promoters of their target genes that are required for M-phase progression, e.g.
+2. Overexpression of CDC6 or CDT1, E2F targets encoding subunits of the pre-replication complex are sufficient to increase ploidy level in trichomes (Castellano et al., 2001; Castellano et al., 2004), revealing a direct action of these, and possibly other, DNA replication components in regulating the transition from the cell cycle to the endoreplication cycle.
+3. CDKA, with its typical PSTAIRE amino acid motif, plays a pivotal role in driving cell cycle progression.
+4. CDKD and CDKF function as CDK-activating kinases (CAKs) as they phosphorylate CDKA at residue T161, a modification that produces a conformational change that allows substrate recognition.
+5. All of them interact with cyclins D both physically and functionally (Wang et al., 1998; Lui et al., 2000; De Veylder et al., 2001; Jasinski et al., 2002; Schnittger et al., 2003; Zhou et al., 2003).
+6. Some of these have been experimentally demonstrated to be actually E2F target genes (Ramirez-Parra et al., 2007).
+7. KNOLLE (AT1G08560), among others, are targets of MYB3RA1, MYB3RA2 and MYB3R2 (Ito et al., 1998; Ito et al., 2001).
+8. The major target of CDKA/CYCD complexes in G1 is the RBR protein and a CDK-dependent phosphorylation of RBR has been shown in various systems (Figure 2) (Nakagami et al., 1999; Bo- niotti and Gutierrez, 2001; Nakagami et al., 2002).

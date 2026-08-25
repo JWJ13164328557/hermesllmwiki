@@ -34974,7 +34974,15 @@ NCBI o
 
 ## 深度提炼
 
+**物种**: Triticum aestivum, Ficus carica
+**方法**: qRT-PCR validation, overexpression, Western blot, subcellular localization
+**来源**: DOI:10.1126/sciadv.aeg2614
+**来源类型**: PDF全文 (10.1126_sciadv.aeg2614.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Together, this study provides a comprehensive single-­nucleus resource of the human heart across the life span and delineates cellular and regulatory features associated with cardiac aging.
+2. These findings suggest that loss of prolif- erative CM potential occurs predominantly during fetal development and is largely established by birth (19, 20).
+3. Collectively, these results indicate that PRDM16 is a functional regulator of CM aging.
+4. Notably, the abundance of MKI67+ CM-­progenitor–like cells de- clined markedly across fetal development (fig.
+5. PRDM16-­deficient CMs reproducibly developed multiple senescence-­associated phenotypes, indicating that loss of PRDM16 is sufficient to induce key features of CM aging in vitro.
+6. Loss of PRDM16 is sufficient to induce senescence-­associated phenotypes and aging-­like transcriptional programs in human CMs, while restoration of PRDM16 in aged hearts attenuates age-­associated functional decline and partially re- verses aging-­related transcriptional states.

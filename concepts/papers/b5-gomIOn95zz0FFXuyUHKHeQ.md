@@ -1,4 +1,5 @@
 ---
+doi: 10.1360/zc2010-40-2-149
 title: "生长素-LF1-GmLFYs信号模块调控大豆复叶形态建成的分子机制"
 journal: "unknown"
 year: ""
