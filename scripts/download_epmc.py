@@ -25,6 +25,28 @@ def norm_doi(doi):
     return doi.rstrip('/').replace('/', '_').replace('.', '-')
 
 
+# 已知非植物期刊 DOI 前缀（防盗污染；主过滤靠 theme_filter，这里是硬黑名单兜底）
+# Springer 等医学/水产/物理/材料期刊：`10.1007/s10803-*` 等
+NONPLANT_DOI_PREFIX = [
+    # 医学
+    '10.1007/s10803','10.1007/s00125','10.1007/s00247','10.1007/s00330','10.1007/s00431',
+    '10.1007/s00415','10.1007/s00134','10.1007/s00520','10.1007/s00787','10.1007/s00439',
+    '10.1007/s00262','10.1007/s10620','10.1007/s00464','10.1007/s00391','10.1007/s00823',
+    # 水产/珊瑚/海洋动物
+    '10.1007/s12562','10.1007/s00338','10.1007/s00227','10.1007/s10152','10.1007/s10228',
+    # 物理/材料(植物提取物做材料不算植物生信)
+    '10.1007/s10971','10.1007/s10853','10.1007/s00339',
+    # 结构/膜生物化学
+    '10.1007/s00232',
+]
+
+
+def is_plant_doi(doi):
+    """检查 DOI 是否命中非植物期刊黑名单前缀（硬拦截，快速）"""
+    dl = doi.lower()
+    return not any(dl.startswith(p) for p in NONPLANT_DOI_PREFIX)
+
+
 def epmc_pmcid(doi):
     """DOI → Europe PMC PMC ID (None 若无)"""
     try:
@@ -102,8 +124,16 @@ def main():
             if m: existing.add(m.group(1).replace('_','/').rstrip('.').replace('.pdf','').lower())
 
     todo = [d for d in dois if d.lower() not in existing]
+    # ⚠️ 防污染: 过滤非植物期刊(医学/水产/物理等) — 2026-08-25 审稿发现引入自闭症/水产PDF
+    # is_plant_doi 用 DOI 前缀硬黑名单快速拦截(主过滤 theme_filter 在概念页导入层做)
+    before = len(todo)
+    clean = [d for d in todo if is_plant_doi(d)]
+    skipped_pollution = before - len(clean)
+    todo = clean
+    if skipped_pollution:
+        print(f"  ⛔ 跳过 {skipped_pollution} 个非植物期刊 DOI (防污染)")
     # 但 Europe PMC 下载的用 PMC 文件名, 也用 PMC ID 检查是否已有
-    print(f"输入 DOI: {len(dois)}, 去除已存在后待处理: {len(todo)}")
+    print(f"输入 DOI: {before}, 过滤后待处理: {len(todo)}")
 
     ok = fail = pmc_none = 0
     fail_log = []
