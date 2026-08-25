@@ -92,19 +92,27 @@ def main():
                 title = paper.get('title', '') or ''
                 abstract = paper.get('abstract', '') or ''
                 jl = (journal or '').lower()
-                # ① JCR 植物/农学权威名单放行
-                if not journal_in_jcr(journal):
-                    # ② 期刊名含明显非植物词 → 拒绝 (防医学/能源/材料)
-                    NONPLANT_J = ['oncol','cancer','medic','med ','hepat','cardiol','diabet',
-                                  'immunolog','drug','fuel','energy','mater','chem eng','nuclear',
-                                  'virol','surg','psych','dermat','neurol','pharm','toxic']
-                    if any(np in jl for np in NONPLANT_J):
-                        # 例外: 期刊名含 plant/botany/crop 等植物词时放行交内容校验
-                        if not any(pw in jl for pw in ['plant','botan','crop','agron','hortic','phyt','forest','agri']):
+                # ① JCR 植物/农学权威名单放行 (最高优先级, additive)
+                if journal_in_jcr(journal):
+                    pass
+                else:
+                    # ②③ 主题相关性综合校验 (植物/非植物双重重判, 2026-08-25 防污染防线)
+                    try:
+                        from theme_filter import is_relevant_plant_paper
+                        ok, why = is_relevant_plant_paper(title, abstract, journal)
+                        if not ok:
+                            log(f"   ⛔ 主题过滤拒绝 (非植物): {why} | {title[:50]}")
                             continue
-                    # ③ 内容 is_plant 校验 (标题/摘要含植物物种词才放行)
-                    if not is_plant_content(title + ' ' + abstract):
-                        continue
+                    except ImportError:
+                        # 回退: 旧的双线过滤
+                        NONPLANT_J = ['oncol','cancer','medic','med ','hepat','cardiol','diabet',
+                                      'immunolog','drug','fuel','energy','mater','chem eng','nuclear',
+                                      'virol','surg','psych','dermat','neurol','pharm','toxic']
+                        if any(np in jl for np in NONPLANT_J):
+                            if not any(pw in jl for pw in ['plant','botan','crop','agron','hortic','phyt','forest','agri']):
+                                continue
+                        if not is_plant_content(title + ' ' + abstract):
+                            continue
                 # Create concept page from multi-source metadata
                 slug = f"ms-{doi.replace('/', '_').replace('.', '-')[:60]}"
                 fp = f'{CONCEPTS}/{slug}.md'

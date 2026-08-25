@@ -318,6 +318,16 @@ def main():
         if not p['is_plant']:
             continue
         
+        # ── 主题相关性双重重判 (2026-08-25 防污染防线): 拦截人类/动物医学/能源/社科 ──
+        try:
+            from theme_filter import is_relevant_plant_paper
+            ok, why = is_relevant_plant_paper(p['title'], p['abstract'], p['journal'])
+            if not ok:
+                print(f"     ⛔ 主题过滤拒绝 (非植物): {why} | {p['title'][:45]}")
+                continue
+        except ImportError:
+            pass
+        
         new_papers.append(p)
         ab_preview = p['abstract'][:100].replace('\n',' ')
         print(f"  ✅ {p['title'][:65]}")
