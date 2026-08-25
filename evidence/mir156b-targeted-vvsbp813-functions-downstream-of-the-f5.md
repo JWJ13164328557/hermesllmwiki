@@ -1,6 +1,6 @@
 ---
 title: "Our previous study showed that abscisic acid (ABA) plays a key role in this process."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mir156b-targeted-vvsbp813-functions-downstream-of-the]]"

@@ -1,6 +1,6 @@
 ---
 title: " Combined genome-wide transcriptomic proﬁling and promoter-binding experiments unveiled a complex m"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-slgras9slzhd17-transcriptional-cascade-regulates-chlorop]]"

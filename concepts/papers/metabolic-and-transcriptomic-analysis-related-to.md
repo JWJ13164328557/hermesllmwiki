@@ -25,10 +25,11 @@ Plant (unspecified)
 
 ## 深度提炼
 
-**物种**: Citrus spp., Ficus carica
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation
-**来源**: DOI:10.1016/j.plaphy.2020.06.050
-**来源类型**: PDF全文 (37-紫花含笑颜色形成过程中与黄酮类生物合成相关的代谢和转录组学分析.pdf)
+**方法**: RNA-seq, Proteomics, Metabolomics
 
 ### 核心发现
-1. The DFR and ANS genes which were essential for the formation of anthocyanin, showed significant changes in different developmental stages.
+
+- ## 深度提炼 **物种**: Citrus spp., Ficus carica **方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation **来源**: DOI:10.1016/j.plaphy.2020.06.050 **来源类型**: PDF全文 (37-紫花含笑颜色形成过程中与黄酮类
+- The DFR and ANS genes which were essential for the formation of anthocyanin, showed significant changes in different developmental stages.
+
+**全文来源**: PubMed摘要

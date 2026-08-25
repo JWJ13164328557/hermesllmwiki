@@ -1,6 +1,6 @@
 ---
 title: "We found that the STK expression was restored to the wild‐type level in six transgenic lines, separa"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[antagonistic-madsbox-transcription-factors-seedstick-and]]"

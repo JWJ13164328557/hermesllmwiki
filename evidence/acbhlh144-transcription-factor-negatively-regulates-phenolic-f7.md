@@ -1,6 +1,6 @@
 ---
 title: "AcC4H, Ac4CL5, and AcCSE may be the target genes of AcbHLH144, as they showed expression patterns op"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[acbhlh144-transcription-factor-negatively-regulates-phenolic]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad185"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AcbHLH144, AcC4H, AcCSE]
+genes: [AcCSE, AcC4H, AcbHLH144]
 compounds: []
 ---
 

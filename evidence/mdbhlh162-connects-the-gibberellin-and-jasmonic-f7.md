@@ -1,6 +1,6 @@
 ---
 title: "When sensing JA sig- naling, COI1 binds to SKP1‐LIKE PROTEIN1/2, CULLIN 1, and RING‐box PROTEIN 1 to"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbhlh162-connects-the-gibberellin-and-jasmonic]]"

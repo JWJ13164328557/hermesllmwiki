@@ -1,6 +1,6 @@
 ---
 title: "Jiang et al suggested that ZoCCoAOMT and ZoHCT encode rate-limiting enzymes that play a crucial role"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[a-genome-assembly-of-ginger-zingiber]]"

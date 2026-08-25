@@ -1,6 +1,6 @@
 ---
 title: "This is likely due to the presence of additional promoters upstream of some essential genes that are"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-tpj-70959]]"

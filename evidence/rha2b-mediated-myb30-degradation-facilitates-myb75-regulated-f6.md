@@ -1,6 +1,6 @@
 ---
 title: "Here, we report that the R2R3-MYB transcription factor MYB30 and the ubiquitin E3 ligase RHA2b parti"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"

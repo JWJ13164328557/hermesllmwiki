@@ -1,6 +1,6 @@
 ---
 title: "We found that the FLS gene in the overexpression line (OE) had higher expression, up to 3.14-folds t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"

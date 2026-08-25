@@ -1,6 +1,6 @@
 ---
 title: "Previous studies have shown that MYB proteins bind to various cis-elements, such as AC ele- ments, M"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcription-factor-pbrmyb24-regulates-lignin]]"

@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of lncRNA43234 increased the content of crude protein in seeds, decreased the content"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[analysis-of-lncrna43234-associated-cerna-network-reveals]]"

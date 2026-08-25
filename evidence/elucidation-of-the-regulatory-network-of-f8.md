@@ -1,6 +1,6 @@
 ---
 title: "By analyzing the transcriptional activation activity and overexpression of FtMYB31 in transgenic Tar"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"

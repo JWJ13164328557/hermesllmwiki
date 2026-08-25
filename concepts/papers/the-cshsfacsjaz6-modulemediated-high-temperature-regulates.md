@@ -25,17 +25,9 @@ AbstractHigh temperatures (HTs) seriously affect the yield and quality of tea. C
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Nicotiana tabacum, Populus spp., Camellia sinensis
-**方法**: metabolomics (LC-MS/GC-MS), qRT-PCR validation, Y2H, BiFC, Co-IP, EMSA, dual-luciferase reporter, overexpression
-**来源**: DOI:10.1111/pce.14610
-**来源类型**: PDF全文 (5 CsHSFA-CsJAZ6模块介导的高温调控山茶中的类黄酮代谢.pdf)
+**方法**: Microscopy
 
 ### 核心发现
-1. Collectively, our results suggest that CsHSFA1b and CsHSFA2 negatively regulate catechin biosynthesis.
-2. Collectively, these results imply that CsJAZ6 physically interacts with both CsEGL3 and CsTTG1.
-3. Taken together, these findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin accumulation.
-4. Together, our data suggest that CsHSFA1b and CsHSFA2 could repress JA signalling mainly through their binding to the CsJAZ6 promoter and activating its transcription.
-5. Also, we found that in CsJAZ6‐ silenced leaves, the expression of almost all flavonoid biosynthetic genes was upregulated (Figure 5b).
-6. Jasmonate (JA), a defensive hormone, plays a key role in plant adaption to environmental stress.
-7. Our study reported that CsJAZ6 directly interacts with CsEGL3 and CsTTG1 and thereby reduces catechin accumulation.
-8. As the terminal components of heat shock signal transmission, heat shock factors (HSFs) directly regulate thermoresponsive gene expression after perception of ambient HT and as such play a central role in the heat shock response process.
+
+
+**全文来源**: PubMed摘要

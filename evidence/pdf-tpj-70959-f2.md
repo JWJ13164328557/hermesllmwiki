@@ -1,6 +1,6 @@
 ---
 title: "Collectively, the PAPs encase a core polymer- ase that closely resembles cyanobacterial RNAP (Figure"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-tpj-70959]]"

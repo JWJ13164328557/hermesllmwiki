@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, LbUGT71BX1 preferred to glycosylate the 7- OH, and LbUGT71BX2 preferred to glycosylat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-full-length-transcriptomics-and-metabolomics-reve]]"

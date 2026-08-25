@@ -1,6 +1,6 @@
 ---
 title: "A total of 3066 target genes were associated with 228 miRNAs via degradome sequencing."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-of-small-rna-transcriptome]]"

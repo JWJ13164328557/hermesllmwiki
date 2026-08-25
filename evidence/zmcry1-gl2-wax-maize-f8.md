@@ -1,6 +1,6 @@
 ---
 title: "These results suggest thatZmCRY1s and ZmCRY2 are functionally conserved with their Arabidopsis ortho"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[zmcry1-gl2-wax-maize]]"

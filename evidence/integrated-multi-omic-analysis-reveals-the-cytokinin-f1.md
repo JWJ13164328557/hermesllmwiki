@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that a total of 414 metabolites were identified as differentially accumulated "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-multi-omic-analysis-reveals-the-cytokinin]]"

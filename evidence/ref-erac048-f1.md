@@ -1,6 +1,6 @@
 ---
 title: "We conclude that the superior competitiveness of vigorous wheat lines could, in part, be explained b"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-erac048]]"

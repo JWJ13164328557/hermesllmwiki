@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, the integrated multi-omics approach employed in this research provides a robust frame"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[grape-continuous-flowering-pan-sc]]"

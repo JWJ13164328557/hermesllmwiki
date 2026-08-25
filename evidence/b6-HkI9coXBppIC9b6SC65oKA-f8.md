@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, the role of PGLP1, the photorespiration-speciﬁc 2- PG-degrading enzyme, in GC is still"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-HkI9coXBppIC9b6SC65oKA]]"

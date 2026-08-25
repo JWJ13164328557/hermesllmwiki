@@ -1,6 +1,6 @@
 ---
 title: "The results indicated that these enzyme genes play a key role in regulating the synthesis of flavono"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analyses-of]]"

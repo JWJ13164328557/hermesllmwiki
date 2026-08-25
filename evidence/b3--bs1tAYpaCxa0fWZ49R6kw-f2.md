@@ -1,6 +1,6 @@
 ---
 title: "In summary, PsiSKP2B plays a crucial role in LR development by modulating the protein stability of W"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3--bs1tAYpaCxa0fWZ49R6kw]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiaf432"
 species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PsiSKP2B, PsiWOX4, PsiZHD9]
+genes: [PsiZHD9, PsiWOX4, PsiSKP2B]
 compounds: [auxin]
 ---
 

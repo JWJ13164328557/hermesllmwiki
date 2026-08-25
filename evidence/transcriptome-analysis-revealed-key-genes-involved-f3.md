@@ -1,6 +1,6 @@
 ---
 title: "In our study, we found that content of flavonoids increased after the treatment of 20 mg/L MeJA (Fig"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

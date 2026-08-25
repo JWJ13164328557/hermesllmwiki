@@ -1,6 +1,6 @@
 ---
 title: "The role of ROS, particularly in signal transduction under drought stress, is well studied in the sh"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

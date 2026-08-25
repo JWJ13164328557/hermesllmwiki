@@ -1,6 +1,6 @@
 ---
 title: "rockii ‘Shu Sheng Peng Mo’ and our qRT–PCR analysis, we found that the differences in pigmentation b"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"

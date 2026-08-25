@@ -1,6 +1,6 @@
 ---
 title: "In summary, our results improve the under­ standing of the chemical components and medicinal value o"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolic-and-transcriptomic-analyses-reveal-different]]"

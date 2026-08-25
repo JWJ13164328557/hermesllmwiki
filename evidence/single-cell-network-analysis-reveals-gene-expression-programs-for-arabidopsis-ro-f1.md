@@ -1,6 +1,6 @@
 ---
 title: "By crossing nrl27-1 with the auxin reporter line DR5rev::GFP (Friml et al., 2003), we found that the"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-network-analysis-reveals-gene-expression-programs-for-arabidopsis-ro]]"

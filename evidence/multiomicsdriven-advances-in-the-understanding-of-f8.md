@@ -1,6 +1,6 @@
 ---
 title: "For example, proteome-wide iTRAQ analysis has been employed in peanut and maize to reveal the dynami"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"

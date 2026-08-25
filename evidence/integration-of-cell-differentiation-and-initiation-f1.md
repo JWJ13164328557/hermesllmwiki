@@ -1,6 +1,6 @@
 ---
 title: "We found that laticifers in developing embryos were morphologically differentiated and noted gradual"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-cell-differentiation-and-initiation]]"

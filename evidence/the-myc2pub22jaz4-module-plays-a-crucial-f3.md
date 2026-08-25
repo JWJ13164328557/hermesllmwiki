@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these re- sults indicate that PUB22 plays a crucial role in plant growth and defense"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[the-myc2pub22jaz4-module-plays-a-crucial]]"

@@ -1,6 +1,6 @@
 ---
 title: "Thus, we found evidence for periods of continuous and discrete differentiation in this single lineag"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aav6428]]"

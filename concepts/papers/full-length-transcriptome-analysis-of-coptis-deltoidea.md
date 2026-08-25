@@ -25,10 +25,12 @@ Coptis
 
 ## 深度提炼
 
-**物种**: Vitis vinifera, Citrus spp., Camellia sinensis, Salvia miltiorrhiza, Ficus carica
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation
-**来源**: DOI:10.1007/s11103-019-00959-y
-**来源类型**: PDF全文 (4-三角叶黄连的全长转录组分析及苄基异喹啉生物碱合成相关基因的鉴定.pdf)
+**物种**: grape, tea
+
+**方法**: RNA-seq, Proteomics, Metabolomics
 
 ### 核心发现
-1. The relative expression levels of target genes were calculated using the ­2−ΔΔCt comparative threshold cycle (Ct) method.
+
+- ## 深度提炼 **物种**: Vitis vinifera, Citrus spp., Camellia sinensis, Salvia miltiorrhiza, Ficus carica **方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation **来源**: DOI:10.1007/
+
+**全文来源**: PubMed摘要

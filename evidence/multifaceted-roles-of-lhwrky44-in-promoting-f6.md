@@ -1,6 +1,6 @@
 ---
 title: "C Transient overexpression of LhWRKY44 gene promoted anthocyanin accumulation in lily scales."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multifaceted-roles-of-lhwrky44-in-promoting]]"

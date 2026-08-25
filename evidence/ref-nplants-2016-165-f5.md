@@ -1,6 +1,6 @@
 ---
 title: "2c) that appeared sufﬁcient for interaction, because chimeric protein fusions of this 11-amino-acid "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

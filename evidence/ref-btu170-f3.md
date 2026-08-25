@@ -1,6 +1,6 @@
 ---
 title: "Given a target length t, the putative trimming to length l would give a length threshold score: Scor"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btu170]]"

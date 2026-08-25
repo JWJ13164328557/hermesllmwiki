@@ -1,6 +1,6 @@
 ---
 title: "Therefore, a novel algorithm is necessary to infer networks from single-cell RNA-Seq during differen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btx194]]"

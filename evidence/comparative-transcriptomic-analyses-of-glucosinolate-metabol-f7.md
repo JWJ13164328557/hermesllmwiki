@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the enhancement of TGG transcript level in the seed occurred during the transition fr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[comparative-transcriptomic-analyses-of-glucosinolate-metabol]]"

@@ -1,6 +1,6 @@
 ---
 title: "2023, 71, 7904−7920 7915 the work of Sugimoto et al.43 The citramalate pathway is a source of these "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-and-metabolomics-integrated-analysis-reveals]]"

@@ -1,6 +1,6 @@
 ---
 title: "Further- more, we report seed-speciﬁc specialized metabolites and focus on two mQTL for ﬂavonol on c"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[quantitative-trait-loci-analysis-of-seedspecialized]]"

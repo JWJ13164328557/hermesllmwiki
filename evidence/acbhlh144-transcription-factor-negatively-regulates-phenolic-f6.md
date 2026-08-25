@@ -1,6 +1,6 @@
 ---
 title: "AcbHLH144 directly regulates expression of Ac4CL5 To further characterize the role of AcbHLH144 in r"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[acbhlh144-transcription-factor-negatively-regulates-phenolic]]"

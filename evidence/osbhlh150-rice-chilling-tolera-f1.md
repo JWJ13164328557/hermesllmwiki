@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our findings suggest that OsbHLH150 may orchestrate chilling 211 tolerance in rice by "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[osbhlh150-rice-chilling-tolera]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.xplc.2026.101919"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [OsMAPK3, OsbHLH150]
+genes: [OsbHLH150, OsMAPK3]
 compounds: []
 ---
 

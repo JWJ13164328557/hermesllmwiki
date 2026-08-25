@@ -1,6 +1,6 @@
 ---
 title: "Importantly, primary tran- scriptome differences at both stages were mainly generated between the co"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[major-quality-regulation-network-of-flavonoid]]"

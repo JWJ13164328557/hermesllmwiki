@@ -25,17 +25,7 @@ ABSTRACTAnthocyanins are secondary metabolites induced by environmental stimuli 
 
 ## 深度提炼
 
-**物种**: Malus domestica, Nicotiana tabacum, Populus spp., Allium spp., Petunia hybrida
-**方法**: Y2H, BiFC, EMSA, overexpression, promoter-GUS assay
-**来源**: DOI:10.1111/jipb.13608
-**来源类型**: PDF全文 (11 MdbHLH162连接赤霉素和茉莉酸信号，调节苹果花青素的生物合成.pdf)
-
 ### 核心发现
-1. Taken together, these results suggest that MdRGL2a directly interacts with MdbHLH162.
-2. In summary, we conclude that MdbHLH162 acts as a negative regulator of anthocyanin biosynthesis.
-3. Taken together, these data reveal Figure 1.
-4. These results suggest that MdbHLH162 interacts with MdbHLH3 and MdbHLH33 to impair their transcriptional activation activity toward the MdDFR and MdUF3GT genes.
-5. Taken together, these results suggest that MdRGL2a antagonizes MdbHLH162‐inhibited antho- cyanin biosynthesis by disrupting the interaction among MdbHLH162, MdbHLH3, and MdbHLH33.
-6. This study provides new information for dis- covering more anthocyanin biosynthesis repressors and explores the cross‐talk between hormone signals.
-7. When sensing JA sig- naling, COI1 binds to SKP1‐LIKE PROTEIN1/2, CULLIN 1, and RING‐box PROTEIN 1 to form the SCFCOI1 complex; the SCFCOI1 complex initiates the JA signaling response by tar- geting ubiquitination and degradation of JAZ proteins.
-8. In addition to JA, gibberellin (GA) plays a key role in regulating anthocyanin biosynthesis.
+
+
+**全文来源**: PubMed摘要

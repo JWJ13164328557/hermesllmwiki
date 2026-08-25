@@ -1,6 +1,6 @@
 ---
 title: "Notably, the relative abundance of S- (trans-L-propenyl)-L-cysteine was significantly higher than th"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-transcriptome-volatile-and-non-volatile]]"

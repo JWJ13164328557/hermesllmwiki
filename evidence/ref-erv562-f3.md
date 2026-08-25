@@ -1,6 +1,6 @@
 ---
 title: "In this report, we show that the Arabidopsis RPD3-type histone deacetylase HDA9 is involved in modul"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

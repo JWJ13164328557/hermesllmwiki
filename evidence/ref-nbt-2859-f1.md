@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that USF1 may repress a broad array of targets via E-box competition."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

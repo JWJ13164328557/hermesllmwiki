@@ -1,6 +1,6 @@
 ---
 title: "Node 1 corresponds to the differenti­ ation of PLCs toward MCs, while Node 2 is associated with EC a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"

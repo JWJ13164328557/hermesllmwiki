@@ -1,6 +1,6 @@
 ---
 title: "MdWRKY33 was able to bind to MdNCED1 promoter‐probe P1 and MdNCED3 promoter‐probe P2."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"

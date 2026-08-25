@@ -1,6 +1,6 @@
 ---
 title: "Notably, photosynthetic, stress-responsive and meristematic cells in both palisade and spongy mesoph"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[maize-rust-sc-spatial-immune]]"

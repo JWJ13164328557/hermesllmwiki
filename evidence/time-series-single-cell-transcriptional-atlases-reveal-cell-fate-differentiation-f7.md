@@ -1,6 +1,6 @@
 ---
 title: "To investigate the direct function of PIFs in cell state changes, expressions of direct target genes"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]"

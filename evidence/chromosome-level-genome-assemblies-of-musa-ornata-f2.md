@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that several PG genes (particularly MvPG11) had higher expression levels in "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-level-genome-assemblies-of-musa-ornata]]"

@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that PsiSKP2B may play an important role in regulating LR development."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3--bs1tAYpaCxa0fWZ49R6kw]]"

@@ -1,6 +1,6 @@
 ---
 title: "Importantly, plant re- sponses to drought stress are highly dynamic and often stage- dependent."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-djae258]]"

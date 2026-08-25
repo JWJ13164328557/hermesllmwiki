@@ -1,6 +1,6 @@
 ---
 title: "For example, ectopic overexpression of CsMYB5a in tobacco increased the PA content in ﬂowers and inh"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-novel-r2r3myb-transcription-factor-famyb5]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14024"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [CsMYB5e, CsMYB5a]
+genes: [CsMYB5a, CsMYB5e]
 compounds: [anthocyanin]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Conclusions: This study provides a list of potential gene targets for genetic improvement of lignoce"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-transcriptional-and-regulatory-landscape-of]]"

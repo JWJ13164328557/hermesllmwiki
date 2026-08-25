@@ -1,6 +1,6 @@
 ---
 title: "The primary cause for the loss of the shoot meristem in zll seedlings appears to be the ac- cumulati"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[xr-10-1146-annurev-arplant-042811]]"

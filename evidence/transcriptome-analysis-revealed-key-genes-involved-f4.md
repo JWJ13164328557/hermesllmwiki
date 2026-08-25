@@ -1,6 +1,6 @@
 ---
 title: "For example, it can play a key role in defense signaling pathways by binding to protein kinases in t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

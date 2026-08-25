@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that epidermal and mesophyll cells play important roles in the maize leaf’s re"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[pdf-j-critrevonc-2026-105311]]"

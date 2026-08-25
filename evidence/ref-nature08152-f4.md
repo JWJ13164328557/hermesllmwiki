@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our dermis tracking indicates that dermis cells do not enter the myo- genic or the S"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nature08152]]"

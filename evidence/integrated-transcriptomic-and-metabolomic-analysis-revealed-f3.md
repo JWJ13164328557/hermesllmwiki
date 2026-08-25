@@ -1,6 +1,6 @@
 ---
 title: "Notably, two phospho­ enolpyruvate carboxykinase (ATP) genes (Soltu.DM.12G006430 and Soltu.DM.12G006"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomic-and-metabolomic-analysis-revealed]]"

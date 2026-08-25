@@ -1,6 +1,6 @@
 ---
 title: "This study provides new insights into the relationship between DG and BRs in D."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genome-wide-methylation-transcriptome-and-characteristic-met]]"

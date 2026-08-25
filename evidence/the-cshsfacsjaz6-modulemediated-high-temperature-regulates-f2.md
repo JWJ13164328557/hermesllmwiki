@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results imply that CsJAZ6 physically interacts with both CsEGL3 and CsTTG1."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pce.14610"
 species: [Oryza sativa, Zea mays, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CsEGL3, CsJAZ6, CsTTG1]
+genes: [CsTTG1, CsEGL3, CsJAZ6]
 compounds: []
 ---
 

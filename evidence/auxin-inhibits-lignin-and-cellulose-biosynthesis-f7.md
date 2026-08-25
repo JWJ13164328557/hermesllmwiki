@@ -1,6 +1,6 @@
 ---
 title: "For example, SlARF6 regulates chlorophyll biosynthesis, photosynthesis, sugar accumulation and fruit"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[auxin-inhibits-lignin-and-cellulose-biosynthesis]]"
@@ -8,8 +8,8 @@ doi: "10.1111/pbi.14046"
 species: [Oryza sativa, Malus domestica, Populus spp.]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [MdARF5, SlARF6, MdACO1, MdACS3a, MdACS1]
-compounds: [ethylene, chlorophyll]
+genes: [SlARF6, MdACS3a, MdARF5, MdACS1, MdACO1]
+compounds: [chlorophyll, ethylene]
 ---
 
 # For example, SlARF6 regulates chlorophyll biosynthesis, photosynthesis, sugar accumulation and fruit

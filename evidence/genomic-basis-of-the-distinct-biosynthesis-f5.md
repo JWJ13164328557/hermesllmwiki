@@ -1,6 +1,6 @@
 ---
 title: "Notably, Qva contained one more W-box in the promoter of UGT84A13 than Qal and Qde, suggesting a pos"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[genomic-basis-of-the-distinct-biosynthesis]]"

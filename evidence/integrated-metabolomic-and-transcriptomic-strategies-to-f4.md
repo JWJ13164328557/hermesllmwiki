@@ -1,6 +1,6 @@
 ---
 title: "As mentioned previ­ ously, flavonoid are encoded by a multi gene family, which makes it difficult to"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"

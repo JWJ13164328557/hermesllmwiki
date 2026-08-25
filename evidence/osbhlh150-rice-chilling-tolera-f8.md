@@ -1,6 +1,6 @@
 ---
 title: "We found that co-transformation 405 of p35s::OsbHLH150K-HA (effector), p35s::OsMAPK3-HA (effector), "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[osbhlh150-rice-chilling-tolera]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.xplc.2026.101919"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [OsMAPK3, OsbHLH150K]
+genes: [OsbHLH150K, OsMAPK3]
 compounds: []
 ---
 

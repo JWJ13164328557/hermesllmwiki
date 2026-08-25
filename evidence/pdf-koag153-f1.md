@@ -1,6 +1,6 @@
 ---
 title: "20 In conclusion, this study provides evidence for a novel regulatory interaction 21 between OsNPR1 "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[pdf-koag153]]"

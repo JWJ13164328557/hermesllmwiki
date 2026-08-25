@@ -1,6 +1,6 @@
 ---
 title: "By linking DEGs to specific biological functions and cell types, our findings suggest that JA’s CFB "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[grape-continuous-flowering-pan-sc]]"

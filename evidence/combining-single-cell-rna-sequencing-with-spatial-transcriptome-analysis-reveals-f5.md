@@ -1,6 +1,6 @@
 ---
 title: "The results of this combined approach provide new insights into the cellular atlas and differentiati"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[combining-single-cell-rna-sequencing-with-spatial-transcriptome-analysis-reveals]]"

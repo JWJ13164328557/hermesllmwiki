@@ -1,6 +1,6 @@
 ---
 title: "(B) Gal4 and Gal80 regulation represented as an unsigned directed graph connecting regulatory TFs to"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btac117]]"

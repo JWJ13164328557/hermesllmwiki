@@ -1,6 +1,6 @@
 ---
 title: "Their interaction with brassinolide triggers a phospho-transfer cascade, which eventually increases "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-single-cell-morpho-transcriptomic-map-of-brassinosteroid-action-in-the-arabido]]"

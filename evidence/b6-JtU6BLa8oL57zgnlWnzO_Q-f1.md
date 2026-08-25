@@ -1,6 +1,6 @@
 ---
 title: "Taken together, all these data imply that TCP21 directly interacts with phyB likely in a light-depen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[b6-JtU6BLa8oL57zgnlWnzO_Q]]"

@@ -1,6 +1,6 @@
 ---
 title: "To meaningfully integrate findings and conclusions, it is crucial to replicate key results from indi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[xylem-sc-review-pce-2025]]"

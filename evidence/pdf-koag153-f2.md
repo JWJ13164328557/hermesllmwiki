@@ -1,6 +1,6 @@
 ---
 title: "To further investigate how OsNPR1 affects IPA1 activity, 7 the authors used ChIP-qPCR and in vitro b"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[pdf-koag153]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koag153"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum tuberosum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [OsNPR1, ChIP]
+genes: [ChIP, OsNPR1]
 compounds: []
 ---
 

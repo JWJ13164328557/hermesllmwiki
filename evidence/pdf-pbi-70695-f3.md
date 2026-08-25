@@ -1,6 +1,6 @@
 ---
 title: "Collectively, the re- sults of Ks and phylogenetic analyses indicated that the poly- ploid genome of"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[pdf-pbi-70695]]"

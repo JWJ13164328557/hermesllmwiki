@@ -1,6 +1,6 @@
 ---
 title: "These ﬁndings elucidate the intricate mechanisms by which lncRNAs contribute to seed weight regulati"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, these data determined that FDS1 and FDS2 may participate in the piperine biosynthesis"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-profiling-and-transcriptome-analysis-filling]]"

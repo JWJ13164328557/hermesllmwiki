@@ -1,6 +1,6 @@
 ---
 title: "SlBEL11 cannot bind to the promoters of ﬂavonoid biosynthesis genes directly but binds to the SlMYB1"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[slbel11-regulates-flavonoid-biosynthesis-thus-finetuning]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13627"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [SlBEL11, SlMYB111]
+genes: [SlMYB111, SlBEL11]
 compounds: []
 ---
 

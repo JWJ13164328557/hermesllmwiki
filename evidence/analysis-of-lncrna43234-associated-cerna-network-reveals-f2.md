@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that lncRNA43234 may be involved in the pathway of some key enzyme genes partici"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[analysis-of-lncrna43234-associated-cerna-network-reveals]]"

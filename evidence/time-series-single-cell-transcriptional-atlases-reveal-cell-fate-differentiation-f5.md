@@ -1,6 +1,6 @@
 ---
 title: "In summary, basic light signalling networks were commonly induced in different cell types."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]"

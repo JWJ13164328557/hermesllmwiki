@@ -1,6 +1,6 @@
 ---
 title: "This discovery highlights the potential of tumor- associated antigens (beyond pure viral antigens) a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-51219_mccrj_tasneem-bano_464]]"

@@ -25,6 +25,14 @@ Plant (unspecified)
 
 ## 深度提炼
 
+**物种**: Arabidopsis, maize, rice, tobacco, wheat
+
+**方法**: RNA-seq, Proteomics, Metabolomics
+
+### 核心发现
+
+- ## 深度提炼
+
 **物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Nicotiana tabacum, Triticum aestivum
 **方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), proteomics
 **来源**: DOI:10.1016/j.jhazmat.2023.133202
@@ -32,6 +40,6 @@ Plant (unspecified)
 
 ### 核心发现
 1. We found that individual elevated O3 significantly enhanced the accumulation of dihydroflavone, flavonols, and flavanols (Fig.
-2. In the present study, we found that GABA significantly reduced the wheat yield loss induced by elevated O3, which attributed to GABA’s role in enhancing accumulation of antioxidants, including antioxidant en­ zymes, proline, as well as flavonoids, and thus inhibiting H2O2 and MDA.
-3. Interestingly, wheat plants treated by elevated O3 combined with GABA exhibited 25.9% significantly higher A as compared to plants grown under elevated O3 without GABA application (P < 0.001, Fig.
-4. Interestingly, gallocatechin 3-O-gallate and epigallocatechin-3- gallate were the common DAFs among CG vs CF, EO vs CF, and EG vs CF, indicating that these two flavanol compounds were sensitive to both O3 and GABA (Fig.
+2. In the present study, we found that GABA significantly reduced the wheat y
+
+**全文来源**: PubMed摘要

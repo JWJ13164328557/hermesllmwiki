@@ -1,6 +1,6 @@
 ---
 title: "Wounding triggers the expression of several DNA BINDING WITH ONE FINGER (DOF) transcription factors,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"

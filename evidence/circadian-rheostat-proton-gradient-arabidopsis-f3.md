@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that mis-expression of CCA1 affects the hypocotyl and root growth balance due to"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[circadian-rheostat-proton-gradient-arabidopsis]]"

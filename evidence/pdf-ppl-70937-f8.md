@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, phenylalanine, reported to increase in cold tolerant maize genotype, B144 (Yu et al."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[pdf-ppl-70937]]"

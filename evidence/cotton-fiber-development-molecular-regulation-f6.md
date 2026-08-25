@@ -1,6 +1,6 @@
 ---
 title: "Homeobox-leucine zipper protein 3 (GhHOX3), which is highly expressed during the elon- gation stage,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"

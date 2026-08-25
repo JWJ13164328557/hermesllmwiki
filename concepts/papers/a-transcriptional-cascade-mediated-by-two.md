@@ -25,17 +25,7 @@ ABSTRACTCarotenoids are important nutrients for human health that must be obtain
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum, Citrus spp., Musa spp.
-**方法**: ChIP-seq/qPCR, qRT-PCR validation, Y2H, EMSA, CRISPR/Cas9, RNAi/VIGS, overexpression, knockout/mutant
-**来源**: DOI:10.1111/jipb.13650
-**来源类型**: PDF全文 (63 由两个 APETALA2 家族成员介导的转录级联协调番茄中类胡萝卜素的生物合成.pdf)
-
 ### 核心发现
-1. The transcription factor SlBBX20 directly binds to the G‐box 2 motif in the PSY1 promoter and regulates lycopene accu- mulation in tomato (Xiong et al., 2018), while the MYB family member SlMYB72 directly regulates PSY1 and LCYB ex- pression to modulate carotenoid accumulation in tomato (Wu et al., 2020).
-2. Taken together, these results suggest that SlAP2c represses lycopene bi- osynthesis by interacting with the TPL2/4‐HDA1/3 complex, thus modifying the histone acetylation levels of carotenoid biosynthesis genes.
-3. Taken together, these results suggest that SlAP2c recruits the TPL2/4–HDA1/3 transcrip- tional repressive complex to repress the transcription of PSY1, ZISO, and CRTISO by modulating the histone acety- lation levels in their promoter regions.
-4. Notably, a recent study showed that the AP2a‐DWARF‐BZR1 module positively regulates lycopene biosynthesis (Sang et al., 2022); however, DWARF and BZR1, which are both downstream targets of AP2a, act as positive regulators of fruit softening (Sang et al., 2022; Meng et al., 2023), which is inconsistent with the ﬁnding that AP2a negatively regulates fruit softening.
-5. Notably, the EAR motif‐containing transcription factor MaERF11 was also shown to directly interact with MaHDA1 and repress the expression of MaACO1 and expansin genes to inhibit fruit ripening in banana (Musa acuminata) (Han et al., 2016).
-6. HY5 directly binds to the promoters of PSY1, ZISO, CRTISO, LCYE, and LCYB to regulate carotenoid biosynthesis (Wang et al., 2021).
-7. In this study, we demonstrated that SlAP2c, a homolog of SlAP2a, is a direct target of SlAP2a and that SlAP2a and SlAP2c exhibit opposite expression patterns during fruit rip- ening.
-8. Knockout of SlAP2c in two tomato cultivars resulted in greater accumulation of carotenoids, particularly lycopene, while overexpression of SlAP2c driven by the ripening‐ speciﬁc promoter E8 led to the formation of orange‐yellow fruit with lower lycopene and higher β‐carotene contents than the WT.
+
+
+**全文来源**: PubMed摘要

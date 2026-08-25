@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the levels of endogenous citric acid (CA) remain relatively constant during black tea"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[retracted-lipidomics-transcription-analysis-and-hormone]]"

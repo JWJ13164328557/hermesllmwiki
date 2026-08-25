@@ -1,6 +1,6 @@
 ---
 title: "polysora , identifying ZmXET1 as a key susceptibility factor and ZmRBG as a resistance component, th"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-l7tWWswvI2rZ5ba_4V2BsQ]]"

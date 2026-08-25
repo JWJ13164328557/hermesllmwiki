@@ -1,6 +1,6 @@
 ---
 title: "Here, we report a time-series single-cell transcriptome experiment on Arabidopsis root explants that"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-single-cell-transcriptome-atlas-reveals-the-trajectory-of-early-cell-fate-tran]]"

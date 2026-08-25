@@ -25,12 +25,14 @@ Plant (unspecified)
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Citrus spp., Sorghum bicolor, Pisum sativum, Lycium barbarum
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation
-**来源**: DOI:10.1021/acs.jafc.3c07139
-**来源类型**: PDF全文 (47 综合代谢组学和转录组学分析突出了甘草叶片中类黄酮化合物对碱性盐胁迫的响应.pdf)
+**物种**: rice
+
+**方法**: RNA-seq, Proteomics, Metabolomics, Microscopy
 
 ### 核心发现
-1. POD has a high affinity for its substrate H2O2 and can clear H2O2 and other hydroxyl free radicals.30 The enzyme system plays a crucial role in eliminating ROS, with the drastic increase in POD activity, being especially critical for maintaining the balance of active oxygen inside the body and reducing oxidative damage.31 Herein, after being subjected to alkaline salt stress, the SOD and CAT activ
-2. In conclusion, we performed physiological, metabolomics, and transcriptomics analyses to reveal the underlying mechanism of the G.
-3. These findings provide novel insights into the response of G.
+
+- ## 深度提炼 **物种**: Oryza sativa, Citrus spp., Sorghum bicolor, Pisum sativum, Lycium barbarum **方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation **来源**: DOI:10.1021/acs.jaf
+- In conclusion, we performed physiological, metabolomics, and transcriptomics analyses to reveal the underlying mechanism of the G.
+- These findings provide novel insights into the response of G.
+
+**全文来源**: PubMed摘要

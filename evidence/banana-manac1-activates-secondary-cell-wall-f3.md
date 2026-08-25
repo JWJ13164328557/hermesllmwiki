@@ -1,6 +1,6 @@
 ---
 title: "We found that Ma02_p10970.1, Ma06_p28730.1 and Ma06_p07110.1 had a close genetic relationship with S"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

@@ -25,17 +25,7 @@ Summary Black wolfberry (Lycium ruthenicum Murr.) contains various bioactive met
 
 ## 深度提炼
 
-**物种**: Nicotiana tabacum, Pyrus spp., Ficus carica, Lycium barbarum
-**方法**: metabolomics (LC-MS/GC-MS), multi-omics integration, ChIP-seq/qPCR, qRT-PCR validation, Y2H, BiFC, Co-IP, EMSA
-**来源**: DOI:10.1111/nph.19602
-**来源类型**: PDF全文 (18 调节黑枸杞生物活性的主要黄酮合成质量调节网络.pdf)
-
 ### 核心发现
-1. We found that QH fruit exhibited the largest fruit size and fresh weight (Figs 1a, S1A,B).
-2. Among identiﬁed metabolites, we found that black wolfberry is rich in various metabolic nutrients, especially ﬂavonoids (Fig.
-3. Taken together, LrWRKY32 and LrMYB94 positively regulated LrFLS and LrCYP75B1 expression via binding on their promo- ters in black wolfberry.
-4. Importantly, transcription factor LrMYB94 was found to regulate LrFLS, LrCHS and LrF3H, while LrWRKY32 directly triggered LrCYP75B1 expression.
-5. Importantly, the LrMYB94/LrWRKY32-regulated ﬂavo- noid biosynthesis was light-responsive, showing the importance of light intensity for the med- icinal quality of black wolfberry.
-6. Notably, all fruit extracts improved the cell survival rate of model cells in a dose- dependency (Fig.
-7. Notably, both K3R and rutin at different concentrations did not exhibit toxicity to the survival of normal RAW264.7 (Fig.
-8. Importantly, primary tran- scriptome differences at both stages were mainly generated between the comparison of QH with others and represented by PC1 explaining > 65% of the total variations (Fig.
+
+
+**全文来源**: PubMed摘要

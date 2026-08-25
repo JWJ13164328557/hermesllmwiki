@@ -1,6 +1,6 @@
 ---
 title: "As a result, sequencing at least two kindred cells, which are a pair of daughter cells derived from "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[advances-and-applications-of-single-cell-omics-technologies-in-plant-research]]"

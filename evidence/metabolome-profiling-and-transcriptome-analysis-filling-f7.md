@@ -1,6 +1,6 @@
 ---
 title: "The MBP-fused target proteins were puriﬁed with MBP Sep Dextrin Agarose Resin 6FF (Yeasen, Shanghai,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-profiling-and-transcriptome-analysis-filling]]"

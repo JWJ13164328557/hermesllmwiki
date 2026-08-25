@@ -1,6 +1,6 @@
 ---
 title: "Taken together, those results indicated that the JA signaling pathway was more active in the laticif"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[latex-specific-transcriptome-analysis-reveals-mechanisms-for]]"

@@ -30,17 +30,7 @@ Abstract
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana
-**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, qRT-PCR validation, knockout/mutant
-**来源**: DOI:10.1093/plphys/kiab537
-**来源类型**: PDF全文 (芽和根单细胞测序揭示了组织和白天特异性转录组谱.pdf)
-
 ### 核心发现
-1. For the root, we found 11,750 dif- ferentially expressed genes (DEGs) (6,121 up- and 5,629 down-regulated), which largely overlap with the published 6,063 genes previously shown to be DE upon root proto- plasting (Denyer et al., 2019; overlap: 3,646; Supplemental Figure S4, A).
-2. Within the shoot libraries, we found nearly 9,000 DEGs for both time points (ED 8,973 DEGs with 5,201 up- and 3,772 down-regulated genes; EN 8,941 DEGs with 4,884 up- and 4,057 down-regulated genes) with an overlap of 6,488 genes.
-3. In addition, we found clusters annotated as senescent leaf cells, dividing cells, and stressed cells (for detailed information, see Supplemental Text S4 and Supplemental Figure S8).
-4. For example, in the mixed clusters of dividing cells, SAM, and epidermis, we found several cell-cycle-related genes (G1/G2 phase) to be markers in either ED or EN cells (but not both).
-5. Further, we found clusters that are specified by dominant expression patterns possessed by cells at particular developmental stages.
-6. We found a MERCY1-specific signal in the root meriste- matic zone and the SAM including young leaf primordia.
-7. Although the final bolt height of mercy1 plants was substan- tially shorter compared with Col-0 plants (Figure 5, L), we found that mercy1 flowered significantly earlier compared with Col-0 based on the RLN (P 5 0.01) and DTF (P 5 0.001) (Figure 5, I and J).
-8. In the root, we found a significant enrichment of di- cistronic CK1-TLS transcript compared with mono-cistronic CK1, in the procambium cluster 16a (P-value 0.031), PPP cluster 20b (P-value 0.044) and endodermis cluster 31 (P- value 0.027) (Figure 6, B).
+
+
+**全文来源**: PubMed摘要

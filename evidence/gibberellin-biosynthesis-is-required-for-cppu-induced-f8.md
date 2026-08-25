@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results indicate that CPPU may directly induce the expression of GA biosynthes"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[gibberellin-biosynthesis-is-required-for-cppu-induced]]"

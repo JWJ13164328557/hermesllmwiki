@@ -1,6 +1,6 @@
 ---
 title: "Identification and expression analysis of key enzyme genes of flavonoid pathway and transcription fa"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that the expression of early stomata genes such as POLAR LOCALIZATION DURING ASYMMETRIC DIV"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[arabidopsis-sam-scrna]]"

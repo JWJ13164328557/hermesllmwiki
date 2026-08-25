@@ -1,6 +1,6 @@
 ---
 title: "We conclude with an outlook of how such integra- tion will enhance crop improvement."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran]]"

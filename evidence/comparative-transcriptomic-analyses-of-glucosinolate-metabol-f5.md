@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, aliphatic GS-related MYB28–3 interacted with the indolic GS synthetic protein SOT16– 4"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[comparative-transcriptomic-analyses-of-glucosinolate-metabol]]"

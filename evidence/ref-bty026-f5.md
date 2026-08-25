@@ -1,6 +1,6 @@
 ---
 title: "−10 −5 0 5 10 Microarray RNA-seq Expression Value A −10 −5 0 5 10 BRCA1 CDH1 ERBB2 TP53 PTEN Express"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bty026]]"

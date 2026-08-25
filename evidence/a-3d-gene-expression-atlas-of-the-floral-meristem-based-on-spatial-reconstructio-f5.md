@@ -1,6 +1,6 @@
 ---
 title: "To recover the original location of cells in the developing organ is essential to link gene activity"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio]]"

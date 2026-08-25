@@ -1,6 +1,6 @@
 ---
 title: "Group 4 controls for Aurora A off-target effects."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-65649_jlokccxi]]"

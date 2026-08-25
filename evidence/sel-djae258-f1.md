@@ -1,6 +1,6 @@
 ---
 title: "In addition, IDR1 was also found to interact with OsFLU1, OsHHO3, OsRLIN1, NADPH HC and OsS40-14, wh"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-djae258]]"
@@ -8,7 +8,7 @@ doi: "10.1093/jnci/djae258"
 species: [Oryza sativa, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [OsRLIN1, OsS40, OsHHO3, OsFLU1]
+genes: [OsFLU1, OsHHO3, OsS40, OsRLIN1]
 compounds: []
 ---
 

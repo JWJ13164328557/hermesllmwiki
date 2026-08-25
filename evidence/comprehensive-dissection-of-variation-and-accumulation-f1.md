@@ -1,6 +1,6 @@
 ---
 title: "At the same time, we found CsAlaAT2, which can catalyze L-alanine and 2-oxoglutalate to pyruvate and"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comprehensive-dissection-of-variation-and-accumulation]]"

@@ -1,6 +1,6 @@
 ---
 title: "DISCUSSION Generation of an Arabidopsis vegetative shoot apex cell atlas In this work, we report a c"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[arabidopsis-sam-scrna]]"

@@ -1,6 +1,6 @@
 ---
 title: "According to our observa- tion of the piper amides structures, we found that they largely were gener"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-profiling-and-transcriptome-analysis-filling]]"

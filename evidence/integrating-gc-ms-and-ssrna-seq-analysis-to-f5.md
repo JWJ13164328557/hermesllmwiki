@@ -1,6 +1,6 @@
 ---
 title: "Because of the regulation of lncRNAs on target genes by cis- and trans-actions, cis-targets were cla"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of PpbZIP44 decreased the TCA cycle inter- mediate contents (e.g."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"

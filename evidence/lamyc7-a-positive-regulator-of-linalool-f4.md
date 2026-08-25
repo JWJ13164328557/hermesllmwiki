@@ -1,6 +1,6 @@
 ---
 title: "MYC genes play a pivotal role in secondary metabolite accumulation and are critical transcriptional "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[lamyc7-a-positive-regulator-of-linalool]]"

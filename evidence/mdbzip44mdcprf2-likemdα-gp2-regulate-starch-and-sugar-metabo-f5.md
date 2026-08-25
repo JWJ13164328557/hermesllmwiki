@@ -1,6 +1,6 @@
 ---
 title: "bZIP TFs usually preferentially bind to ACGT cis-acting elements, including G-box (CACGTG), C-box (G"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]"

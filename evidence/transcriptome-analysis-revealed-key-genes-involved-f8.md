@@ -1,6 +1,6 @@
 ---
 title: "Importantly, there were 1,4, 301, 43 and 27 genes annotated to the subcategories “detoxification”, “"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

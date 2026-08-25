@@ -1,6 +1,6 @@
 ---
 title: "Therefore, we conclude that lignin synthesis is reduced and flavone synthesis increased by wounding "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

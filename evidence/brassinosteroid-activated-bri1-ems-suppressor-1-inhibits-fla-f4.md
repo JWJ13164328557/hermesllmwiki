@@ -1,6 +1,6 @@
 ---
 title: "Here we report 36 that brassinosteroid (BR) signaling inhibits UV-B stress responses in Arabidopsis "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found several hypothetical proteins, ethylene- responsive factors, and zinc ﬁnger proteins that w"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-sequencing-of-i-nicotiana-attenuata-i]]"

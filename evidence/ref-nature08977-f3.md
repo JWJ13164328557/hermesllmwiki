@@ -1,6 +1,6 @@
 ---
 title: "Here we report a novel regulatory pathway (Supplementary Fig."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature08977]]"

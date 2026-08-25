@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that the targeted mutation of all Bnatts except Bnatt18 resulted in consiste"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]"

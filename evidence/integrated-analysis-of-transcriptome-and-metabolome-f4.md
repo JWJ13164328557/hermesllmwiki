@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, even VvPP2Cs were up-regulated."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-analysis-of-transcriptome-and-metabolome]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that 108 C-terminal tryptophan-enriched regions, functioning as SBDs, are essential for OsL"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[oslesv-and-osesv1-promote-transitory-and]]"

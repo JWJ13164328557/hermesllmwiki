@@ -1,6 +1,6 @@
 ---
 title: "Keywords: Yellowhorn, MicroRNA, Lipid biosynthesis, Seed development, Target gene © The Author(s) 20"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"

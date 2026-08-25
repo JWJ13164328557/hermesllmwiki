@@ -1,6 +1,6 @@
 ---
 title: "The development of the vascular sys- tem is controlled by phytohormones that interact with complex t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]"

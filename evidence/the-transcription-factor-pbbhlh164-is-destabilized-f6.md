@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that PbbHLH164 positively mediates ethylene biosynthe- sis in pear fruit, bu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-pbbhlh164-is-destabilized]]"

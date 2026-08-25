@@ -1,6 +1,6 @@
 ---
 title: "RNA sequencing revealed that OsNPR1 and IPA1 largely regulate the 5 expression of a common set of ge"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[pdf-koag153]]"

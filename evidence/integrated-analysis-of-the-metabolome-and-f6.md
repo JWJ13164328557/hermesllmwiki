@@ -1,6 +1,6 @@
 ---
 title: "Ectopic expression of VvMybPA2 promotes proanthocyanidin biosynthesis in grapevine and suggests addi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-analysis-of-the-metabolome-and]]"

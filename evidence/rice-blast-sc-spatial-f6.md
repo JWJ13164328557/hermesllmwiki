@@ -1,6 +1,6 @@
 ---
 title: "Collectively, this work provides comprehensive insights into the regulatory networks controlling inﬂ"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[rice-blast-sc-spatial]]"

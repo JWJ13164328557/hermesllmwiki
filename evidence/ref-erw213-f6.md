@@ -1,6 +1,6 @@
 ---
 title: "In this rooting system, we previously observed that endogenous auxin is essential for cell fate tran"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

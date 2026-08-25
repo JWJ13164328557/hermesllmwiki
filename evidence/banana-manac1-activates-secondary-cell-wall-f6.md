@@ -1,6 +1,6 @@
 ---
 title: "1–14 doi: 10.1111/pbi.14195 the ability to directly interact with its promoter (Yamaguchi et al., 20"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

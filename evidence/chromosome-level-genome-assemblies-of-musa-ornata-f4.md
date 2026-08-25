@@ -1,6 +1,6 @@
 ---
 title: "Among many biological functions, the middle lamella plays a crucial role in maintaining the structur"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-level-genome-assemblies-of-musa-ornata]]"

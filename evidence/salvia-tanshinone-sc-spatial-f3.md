@@ -1,6 +1,6 @@
 ---
 title: "Based on cell-type identiﬁcation using marker genes, we found that the dominant pathways in 2M root "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[salvia-tanshinone-sc-spatial]]"

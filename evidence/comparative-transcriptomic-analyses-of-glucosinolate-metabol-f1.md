@@ -1,6 +1,6 @@
 ---
 title: "However, in Chinese kale, the homologs that play a crucial role in a specific meta- bolic process re"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[comparative-transcriptomic-analyses-of-glucosinolate-metabol]]"

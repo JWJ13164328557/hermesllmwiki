@@ -1,6 +1,6 @@
 ---
 title: "combined scRNA-seq and a digital 3D single cell shape approach to characterize root meristems and ma"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-seq-in-phytohormone-signaling-a-promising-future]]"

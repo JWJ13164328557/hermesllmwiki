@@ -1,6 +1,6 @@
 ---
 title: "A recent study revealed a PXY-mediated tran- scriptional regulatory network of Arabidopsis, in which"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]"

@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that Cd may enhance the isoquinoline biosynthesis in certain plant species and"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-cadmium-exposure-enhanced]]"

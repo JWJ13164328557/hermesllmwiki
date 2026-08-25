@@ -1,6 +1,6 @@
 ---
 title: "Our results show that limb blastema cells do not switch between embryonic germ layers and most cell "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nature08152]]"

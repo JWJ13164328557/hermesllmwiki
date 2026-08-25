@@ -1,6 +1,6 @@
 ---
 title: "Using the constitutively expressed pH sensor, we found an increased apoplastic acidification in CCA1"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[circadian-rheostat-proton-gradient-arabidopsis]]"

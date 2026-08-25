@@ -1,6 +1,6 @@
 ---
 title: "Notably, transcript patterns for other lipid-related metabolic pathways were comparable in two speci"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[high-oil-accumulation-in-tuber-of]]"

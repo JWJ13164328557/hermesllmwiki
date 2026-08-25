@@ -1,6 +1,6 @@
 ---
 title: "Our findings reveal targeted genes and regulators that are meaningful for improve- ment of tuber col"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multiomics-analysis-reveals-the-chemical-and]]"

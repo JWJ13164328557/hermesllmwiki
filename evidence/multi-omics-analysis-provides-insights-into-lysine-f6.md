@@ -1,6 +1,6 @@
 ---
 title: "Notably, “metabolic pathways (ko01100, 597/1347/1371/1270/1305/532 proteins),” “biosynthesis of seco"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-lysine]]"

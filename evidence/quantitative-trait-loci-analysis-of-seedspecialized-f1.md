@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that the wild-type alleles of one or both candidate genes have"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[quantitative-trait-loci-analysis-of-seedspecialized]]"

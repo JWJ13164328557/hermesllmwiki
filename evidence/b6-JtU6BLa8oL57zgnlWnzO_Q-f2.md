@@ -1,6 +1,6 @@
 ---
 title: "Further, we found that the N-terminal region of HY5 was required for its interaction with TCP21 (Fig"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[b6-JtU6BLa8oL57zgnlWnzO_Q]]"

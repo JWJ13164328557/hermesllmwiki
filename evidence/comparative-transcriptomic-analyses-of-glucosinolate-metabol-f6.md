@@ -1,6 +1,6 @@
 ---
 title: "For example, AOP2 is critical for alkenylation of its substrates and the product GNA is the predomin"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[comparative-transcriptomic-analyses-of-glucosinolate-metabol]]"

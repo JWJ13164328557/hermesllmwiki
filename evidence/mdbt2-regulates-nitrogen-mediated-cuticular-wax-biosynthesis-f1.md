@@ -1,6 +1,6 @@
 ---
 title: "All these results suggest that MYB transcription factor plays a key role in epidermal wax synthesis;"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdbt2-regulates-nitrogen-mediated-cuticular-wax-biosynthesis]]"

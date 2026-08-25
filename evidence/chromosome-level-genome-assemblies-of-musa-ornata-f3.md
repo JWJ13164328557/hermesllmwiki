@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the chromosomal-level genome assemblies of M."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-level-genome-assemblies-of-musa-ornata]]"

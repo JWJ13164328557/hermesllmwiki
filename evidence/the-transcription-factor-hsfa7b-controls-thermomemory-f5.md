@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results reveal a crucial and tissue-speciﬁc role for HSFA7b in thermomemory at"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-hsfa7b-controls-thermomemory]]"

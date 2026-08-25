@@ -1,6 +1,6 @@
 ---
 title: "Research Epigenetic landscapes accompany cell fate transition, and histone modiﬁcation dynamics play"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-nph-71298]]"

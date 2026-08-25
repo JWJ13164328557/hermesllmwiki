@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that MeJA promotes the accu­ mulation of flavonoids, which may be associated w"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

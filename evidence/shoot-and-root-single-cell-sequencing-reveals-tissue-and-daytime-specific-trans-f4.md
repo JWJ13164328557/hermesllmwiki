@@ -1,6 +1,6 @@
 ---
 title: "For example, in the mixed clusters of dividing cells, SAM, and epidermis, we found several cell-cycl"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]"

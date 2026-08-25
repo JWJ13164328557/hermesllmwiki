@@ -1,6 +1,6 @@
 ---
 title: "Notably, there was a significant difference in Pn between plants under HK and LK treatments at 65 DA"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-peerj-15587]]"

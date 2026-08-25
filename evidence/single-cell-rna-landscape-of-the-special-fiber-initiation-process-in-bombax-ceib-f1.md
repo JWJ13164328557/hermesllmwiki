@@ -1,6 +1,6 @@
 ---
 title: "ceiba, we found that ﬁber cells differentiate from the epidermis of the inner ovary wall."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]"

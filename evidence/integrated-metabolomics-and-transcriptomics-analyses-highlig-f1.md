@@ -1,6 +1,6 @@
 ---
 title: "POD has a high affinity for its substrate H2O2 and can clear H2O2 and other hydroxyl free radicals.3"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomics-and-transcriptomics-analyses-highlig]]"

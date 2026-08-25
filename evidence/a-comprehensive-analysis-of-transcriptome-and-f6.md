@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, one of bHLH transcription factors, CRO_T107249, was mapped with PIF8 (Phytochrome Int"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-comprehensive-analysis-of-transcriptome-and]]"

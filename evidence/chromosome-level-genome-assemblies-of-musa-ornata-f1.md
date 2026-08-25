@@ -1,6 +1,6 @@
 ---
 title: "Based on genome evolution analyses, we found that Mo and Mv had no species-specific whole genome dup"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-level-genome-assemblies-of-musa-ornata]]"

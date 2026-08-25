@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1111/nph.71285
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
 aliases_extra: ["跨期单细胞和空间代谢组分析揭示皮肤特异性"]
 aliases_extra: ["Cross-stage single-cell and spatial metabolome analyses reveal periderm speciali"]
 status: draft
@@ -2630,17 +2631,9 @@ NCBI o
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Nicotiana tabacum, Populus spp., Camellia sinensis, Salvia miltiorrhiza
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), single-cell RNA-seq, qRT-PCR validation, CRISPR/Cas9, knockout/mutant, subcellular localization, phylogenetics
-**来源**: DOI:10.1111/nph.71285
-**来源类型**: PDF全文 (10.1111_nph.71285.pdf)
+**方法**: Metabolomics
 
 ### 核心发现
-1. Notably, in the BIPACT results, we found that periderm and epidermis appeared closely adjacent in New Phytologist (2026) www.newphytologist.com  2026 The Author(s).
-2. We found that cork cells were present exclusively in the 2Y subcluster 2Y_C4 and were nearly absent in 2M and that the 2M_C3 and 2Y_C5 subclusters were annotated as epidermis (Fig.
-3. Based on cell-type identiﬁcation using marker genes, we found that the dominant pathways in 2M root were mainly associated with transporters and signaling molecules involved in environ- mental stress responses, whereas the 2Y root was enriched in metabolic pathways related to biotic resistance.
-4. Phylogeny of candidate CYPs All cytochrome P450 (CYP) genes from the target cell cluster were used for phylogenetic analysis.
-5. CRISPR-Cas9 mutagenesis and plant transformation For the CRISPR-Cas9 construction targeting the SmCYP76AK5 coding region, 2 gRNA target sites were designed by CRISPOR (http://crispor.gi.ucsc.edu).
-6. Mutation validation and complementation assay Target regions were ampliﬁed by PCR and sequenced to conﬁrm deletions.
-7. To rule out off-target CRISPR effects, a genetic complementation assay was performed.
-8. Notably, MS/MS spectra acquired from root extracts of 2-yr-old plants exhibited high consistency with those of the corre- sponding standards, providing robust support for compound identiﬁcation.
+
+
+**全文来源**: PubMed摘要

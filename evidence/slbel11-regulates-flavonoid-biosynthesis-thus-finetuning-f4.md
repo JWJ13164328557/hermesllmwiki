@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that SlBEL11 functions in the FAZ rather than the PAZ."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[slbel11-regulates-flavonoid-biosynthesis-thus-finetuning]]"

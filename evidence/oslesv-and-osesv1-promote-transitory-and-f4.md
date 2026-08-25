@@ -1,6 +1,6 @@
 ---
 title: "In this 412 study, we found that OsLESV and OsESV1 directly interact with GBSSI, GBSSII, and PPDKB, "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[oslesv-and-osesv1-promote-transitory-and]]"

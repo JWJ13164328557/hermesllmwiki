@@ -1,6 +1,6 @@
 ---
 title: "Within the shoot libraries, we found nearly 9,000 DEGs for both time points (ED 8,973 DEGs with 5,20"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]"

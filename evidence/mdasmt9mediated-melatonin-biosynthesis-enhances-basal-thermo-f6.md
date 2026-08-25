@@ -1,6 +1,6 @@
 ---
 title: "To verify whether MdWRKY33 binds to MdNCED1 and MdNCED3 promoters and to assess its effect on their "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"

@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, the callus culture approach along with METR anal­ ysis, provided an overall view of s"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"

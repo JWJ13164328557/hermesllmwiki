@@ -57,17 +57,9 @@ Previous soybean spatial transcriptomics data, together with the spatial transc
 
 ## 深度提炼
 
-**物种**: Glycine max
-**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, spatial transcriptomics, qRT-PCR validation, Y2H, Co-IP, CRISPR/Cas9
-**来源**: DOI:10.1016/j.xplc.2025.101580
-**来源类型**: PDF全文 (mmc3 (1).pdf)
+**方法**: RNA-seq, Metabolomics, Microscopy
 
 ### 核心发现
-1. Given that CDC48 complexes are known to participate in cell division, plant growth, and various cellular processes (Bae et al., 2009; Ine` s et al., 2024; Nicolas-France` s et al., 2024), our data suggest a model in which CDC48-mediated intercellular communication may play a role in coordinating seed development.
-2. These findings reveal cellular characteristics and differentiation processes in G.
-3. soja seeds at the mid-maturity stage, providing a molecular basis for understanding this phase and generating targets to improve soybean yield and quality.
-4. Collectively, the Emb parenchyma cells in G.
-5. These comprehensive in vitro and in vivo biochemical assays systematically demonstrate that GsCDC48-12 interacts with and modulates GsCDC48-1.
-6. Bottom: GsMAPK23-4 gene structure and single-guide RNA (sgRNA) target sites used for CRISPR-Cas9 gene editing.
-7. In summary, this study successfully classified the various cel
-8. The appropriate spatiotemporal coordination of these processes is essential for proper seed growth and development.
+
+
+**全文来源**: PubMed摘要

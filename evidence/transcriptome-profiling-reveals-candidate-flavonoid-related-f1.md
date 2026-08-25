@@ -1,6 +1,6 @@
 ---
 title: "However, in the 3 d vs 10 d comparison, we found that ten and six up-regulated DEGs were enriched in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

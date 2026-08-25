@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these findings emphasize the critical role of cell communication in the defense of mai"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[pdf-j-critrevonc-2026-105311]]"

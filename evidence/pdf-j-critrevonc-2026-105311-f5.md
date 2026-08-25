@@ -1,6 +1,6 @@
 ---
 title: "In summary, the multi-module analysis defines a two-phase defense reprogramming process: 1) the acti"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[pdf-j-critrevonc-2026-105311]]"

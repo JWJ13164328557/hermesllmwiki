@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that levels of BA emission in NaIFR3-silenced corollas did not differ signiﬁca"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-sequencing-of-i-nicotiana-attenuata-i]]"

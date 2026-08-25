@@ -1,6 +1,6 @@
 ---
 title: "Notably, the module promotes oil body formation via upregulation of GmOLEO2, but not GmOLEO1 (Lu et "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b5-kf00Og92ayHkmDBpso75bw]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13834"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmOLEO2, GmOLEO1]
+genes: [GmOLEO1, GmOLEO2]
 compounds: []
 ---
 

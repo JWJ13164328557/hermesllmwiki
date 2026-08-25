@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that MdASMT9 overexpression was associated with decreased ABA content and incr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"

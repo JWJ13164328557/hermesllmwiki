@@ -1,6 +1,6 @@
 ---
 title: "VND7 and other secondary wall NACs (SWNs), such as Secondary wall- associated NAC domain protein1 (S"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, the majority of the augmented metabolites belonged to the category of amino acids and their"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-multi-omic-analysis-reveals-the-cytokinin]]"

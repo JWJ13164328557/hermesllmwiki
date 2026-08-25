@@ -1,6 +1,6 @@
 ---
 title: "Zhang is fully responsible for the distribution of all materials associated with this article) Wei W"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b5-kf00Og92ayHkmDBpso75bw]]"

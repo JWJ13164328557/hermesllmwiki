@@ -1,6 +1,6 @@
 ---
 title: "The MaACS1 promoter did not exhibit basal activity in yeast with AbA, while yeast cells expressing M"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[mamads1manac083-transcriptional-regulatory-cascade-regulates]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad177"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MaNAC083, MaACS1]
+genes: [MaACS1, MaNAC083]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Moreover, the NAC56 and WRKY44 gene also showed a similar expression pattern to AN1, showing highly "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multiomics-analysis-reveals-the-chemical-and]]"

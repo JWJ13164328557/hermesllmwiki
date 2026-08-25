@@ -1,6 +1,6 @@
 ---
 title: "These transcriptional regulatory networks are key to understanding developmental processes and envir"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btp437]]"

@@ -1,6 +1,6 @@
 ---
 title: "We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for lignin and cellulos"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[auxin-inhibits-lignin-and-cellulose-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14046"
 species: [Oryza sativa, Malus domestica, Populus spp.]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PbrARF13, PbrNSC]
+genes: [PbrNSC, PbrARF13]
 compounds: [lignin, cellulose]
 ---
 

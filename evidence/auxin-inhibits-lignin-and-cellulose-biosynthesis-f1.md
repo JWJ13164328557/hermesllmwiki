@@ -1,6 +1,6 @@
 ---
 title: "Strikingly, we found that NAA is involved in the inhibition of lignin and cellulose biosynthesis in "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[auxin-inhibits-lignin-and-cellulose-biosynthesis]]"
@@ -9,7 +9,7 @@ species: [Oryza sativa, Malus domestica, Populus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: [PbrARF13]
-compounds: [lignin, auxin, cellulose]
+compounds: [auxin, lignin, cellulose]
 ---
 
 # Strikingly, we found that NAA is involved in the inhibition of lignin and cellulose biosynthesis in 

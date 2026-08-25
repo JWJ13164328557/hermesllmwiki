@@ -8,7 +8,7 @@
 | Layer | Count |
 |-------|-------|
 | Concept Pages | 1295 |
-| Evidence Objects — 13077 total (incl. 10127 from metabolism)
+| Evidence Objects — 13232 total (incl. 10282 from metabolism)
 | Entity Pages | 106 |
 | Synthesis (8 core) | 8 |
 | Hypotheses | 9 |

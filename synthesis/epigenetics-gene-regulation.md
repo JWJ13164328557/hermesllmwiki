@@ -2,8 +2,8 @@
 
 title: "表观与基因调控 — Synthesis"
 created: 2026-06-01
-total_evidence: 386
-total_papers: 49
+total_evidence: 0
+total_papers: 0
 type: synthesis
 tags: [epigenetic, gene-regulation, synthesis]
 ---

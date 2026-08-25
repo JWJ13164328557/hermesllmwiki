@@ -22,11 +22,7 @@ source: openalex
 
 ## 深度提炼
 
-**物种**: Plant (unspecified)
-**方法**: transcriptomics (RNA-seq), knockout/mutant
-**来源**: DOI:10.32607/actanaturae.27815
-**来源类型**: PDF全文 (10.32607_actanaturae.27815.pdf)
-
 ### 核心发现
-1. Foam cells as therapeutic targets in atherosclerosis with a focus on the regulatory roles of non-coding RNAs.
-2. Lactate dehydrogenase A: a potential new target for tumor drug resistance intervention.
+
+
+**全文来源**: PubMed摘要

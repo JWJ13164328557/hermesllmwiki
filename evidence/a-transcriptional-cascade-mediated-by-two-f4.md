@@ -1,6 +1,6 @@
 ---
 title: "Notably, a recent study showed that the AP2a‐DWARF‐BZR1 module positively regulates lycopene biosynt"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"

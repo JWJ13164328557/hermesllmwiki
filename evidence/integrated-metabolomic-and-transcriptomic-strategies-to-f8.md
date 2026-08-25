@@ -1,6 +1,6 @@
 ---
 title: "These data demonstrated that the quality of transcriptomic data was sufficient for subsequent analys"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"

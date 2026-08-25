@@ -1,6 +1,6 @@
 ---
 title: "However, we found 6 unique ﬂavonoids enriched in grains; peonidin speciﬁcally existed in black grain"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"

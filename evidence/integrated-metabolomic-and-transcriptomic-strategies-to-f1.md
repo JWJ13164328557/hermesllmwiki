@@ -1,6 +1,6 @@
 ---
 title: "4B, and from which we found the expression of most genes in group A was higher than that in B group."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"

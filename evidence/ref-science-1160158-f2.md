@@ -1,6 +1,6 @@
 ---
 title: "Epistasis analysis (E-MAP) using DNA repair factors in yeast indicated a functional relationship bet"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1160158]]"

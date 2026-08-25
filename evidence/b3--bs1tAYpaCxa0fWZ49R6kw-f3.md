@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that PsiSKP2B is involved in regulating LR develop­ ment posit"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3--bs1tAYpaCxa0fWZ49R6kw]]"

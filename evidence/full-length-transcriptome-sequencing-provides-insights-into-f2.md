@@ -1,6 +1,6 @@
 ---
 title: "The putative target genes of miRNAs were predicted by using the psRNATarget online program with defa"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[full-length-transcriptome-sequencing-provides-insights-into]]"

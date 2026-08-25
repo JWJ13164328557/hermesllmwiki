@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results reveal a continuum of epidermal cell differentiation toward stomata and "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[arabidopsis-sam-scrna]]"

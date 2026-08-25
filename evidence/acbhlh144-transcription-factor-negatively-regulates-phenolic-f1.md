@@ -1,6 +1,6 @@
 ---
 title: "Notably, based on the different binding modes, bHLHs can be divided into three categories: some bind"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[acbhlh144-transcription-factor-negatively-regulates-phenolic]]"

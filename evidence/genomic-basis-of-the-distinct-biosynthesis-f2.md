@@ -1,6 +1,6 @@
 ---
 title: "Notably, different oak species, particularly Q."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[genomic-basis-of-the-distinct-biosynthesis]]"

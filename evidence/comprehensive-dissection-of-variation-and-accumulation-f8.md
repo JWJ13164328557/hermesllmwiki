@@ -1,6 +1,6 @@
 ---
 title: "Importantly, arginine (Arg), glutamine (Gln), Glu, and alanine (Ala) as the principal free amino aci"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comprehensive-dissection-of-variation-and-accumulation]]"

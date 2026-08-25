@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results demonstrate that AP2 physically interacts with MYBL2 in vivo."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

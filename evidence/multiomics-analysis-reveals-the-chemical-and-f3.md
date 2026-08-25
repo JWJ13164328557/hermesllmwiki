@@ -1,6 +1,6 @@
 ---
 title: "The homologues of these candidate transcription factors have been already reported to be correlated "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multiomics-analysis-reveals-the-chemical-and]]"

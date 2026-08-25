@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results demonstrated that PUB22 physically interacts with JAZ1/3/4/6, whereas CO"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[the-myc2pub22jaz4-module-plays-a-crucial]]"

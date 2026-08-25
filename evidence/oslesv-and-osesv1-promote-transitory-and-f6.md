@@ -1,6 +1,6 @@
 ---
 title: "In short, our results suggest that the 382 highly conserved C-terminal tryptophan-enriched region in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[oslesv-and-osesv1-promote-transitory-and]]"

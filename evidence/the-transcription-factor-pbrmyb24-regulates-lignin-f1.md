@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, PbrMYB24 not only directly activates the tran- scription of lignin and cellulose bios"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcription-factor-pbrmyb24-regulates-lignin]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiad200"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PbrMYB169, PbrMYB24, PbrNSC]
+genes: [PbrNSC, PbrMYB24, PbrMYB169]
 compounds: [lignin, cellulose]
 ---
 

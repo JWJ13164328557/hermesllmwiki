@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, cytokinins are crucial for graft formation, as cytokinin-induced WIND1 promotes callus "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-O0Kt-jSykCafIUhbNCEB3g]]"

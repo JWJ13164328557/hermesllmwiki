@@ -1,6 +1,6 @@
 ---
 title: "However, further studies are required to determine the relationships between DEG expression and flav"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

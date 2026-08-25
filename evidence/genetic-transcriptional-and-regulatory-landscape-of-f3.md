@@ -1,6 +1,6 @@
 ---
 title: "These results suggest the potential utilization of genetic manipulation of lignin biosynthesis in M."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-transcriptional-and-regulatory-landscape-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "MYC2 binds to and activates the MYB46 promoter In light of the JA-mediated upregulation of MYB46 fun"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"

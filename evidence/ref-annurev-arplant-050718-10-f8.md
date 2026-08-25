@@ -1,6 +1,6 @@
 ---
 title: "AHP6, a negative regulator of cytokinin signaling, is required for normal protoxylem formation (87)."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

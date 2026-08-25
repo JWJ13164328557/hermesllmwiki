@@ -1,6 +1,6 @@
 ---
 title: "Notably, scRNA-­seq has driven breakthroughs in understanding plant secondary metabolism, such as MI"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"

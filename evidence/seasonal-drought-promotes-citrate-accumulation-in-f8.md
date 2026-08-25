@@ -1,6 +1,6 @@
 ---
 title: "3d), indicating that CsAN1 directly binds to the region that contains G-box in the promoter of CsPH8"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"

@@ -1,6 +1,6 @@
 ---
 title: "Krysan, MEKK1 is required for ﬂg22-induced MPK4 ac- tivation in Arabidopsis plants, Plant Physiol."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-revealed-that-mapk-signaling]]"

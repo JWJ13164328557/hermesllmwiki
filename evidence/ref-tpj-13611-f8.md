@@ -1,6 +1,6 @@
 ---
 title: "With this, we found that three types of methylation (CG, CNG and CHH) were decreased in AtMu1 and in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

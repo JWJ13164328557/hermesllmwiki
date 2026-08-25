@@ -1,6 +1,6 @@
 ---
 title: "Notably, sequence variations in UGT84A13 promoters led to different trans-activating activities of W"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[genomic-basis-of-the-distinct-biosynthesis]]"

@@ -25,16 +25,7 @@ SUMMARYChromoplasts act as a metabolic sink for carotenoids, in which plastoglob
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum, Triticum aestivum, Vitis vinifera
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), multi-omics integration, proteomics, overexpression, Western blot, subcellular localization, phylogenetics
-**来源**: DOI:10.1111/tpj.16519
-**来源类型**: PDF全文 (68 多组学分析揭示了有色体质体球在柑橘类水果类胡萝卜素积累中的重要性.pdf)
-
 ### 核心发现
-1. We found that the development of chromoplast plastoglo- bules (CPGs) in globular and crystalloid chromoplasts of citrus is associated with alterations in carotenoid storage.
-2. In this work, we report a procedure for preparing highly puriﬁed CPGs that were analyzed using western blotting, microscopy, and subcellular localization.
-3. Our results show that b-carotene and lycopene, which are nonpolar carotenoids, mainly accumulate in the crystalline chromoplasts of citrus pulp.
-4. These data suggest that the esteriﬁcation of carotenoids may be important to this process via members of the esterase/ lipase/thioesterase (ELT) gene family.
-5. Taken together, these in vitro results further suggest that CsELT1 is not directly involved in carotenoid esteriﬁcation but may provide more lipids to promote the accumulation of fat- soluble carotenoids.
-6. However, the study was not comprehensive and in-depth and more detailed information is critical to better understanding the meta- bolic traits occurring in chromoplasts.
-7. The ﬁndings indicate that the nonpolar microenvironment of CPGs is essential for carotenoid accumulation in chromoplasts, and manipu- lation of CsELT1 in citrus calli provided further evidence.
+
+
+**全文来源**: PubMed摘要

@@ -1,6 +1,6 @@
 ---
 title: "coli r70 R423, which interacts with the electron-rich face of nucleotide A11 when ﬂipped out (a pi-"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-tpj-70959]]"

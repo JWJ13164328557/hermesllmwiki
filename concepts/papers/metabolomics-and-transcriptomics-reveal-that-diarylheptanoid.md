@@ -25,13 +25,20 @@ Plant (unspecified)
 
 ## 深度提炼
 
+**物种**: rice
+
+**方法**: RNA-seq, Proteomics, Metabolomics, Microscopy
+
+### 核心发现
+
+- ## 深度提炼
+
 **物种**: Oryza sativa
 **方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), phylogenetics
 **来源**: DOI:10.1021/acs.jafc.3c00771
 **来源类型**: PDF全文 (67 代谢组和转录组分析结果表明草果果实发育过程中二芳基庚烷类化合物存在差异.pdf)
 
 ### 核心发现
-1. PKSs belong to a family of condensing enzymes and play a key role in the biosynthesis of a variety of important secondary metabolites.27 Type III PKSs were identified and characterized from turmeric,28 Huperzia serrata,29 and rice.30 Although significant progress has been made in the excavation and identification of curcumin synthases, however, the synthesis pathway of other diarylheptanoids is ra
-2. The full coding sequences of target genes were cloned into pCAMBIM1301 via a gateway system.
-3. Notably, the unknown node ID 1464 (m/z 361.1650, 5.35 min) has the highest intensity in the cluster, and it could be a dominant constituent in the samples.
-4. tsao-ko genome and are key to producing the diarylheptanoids scaffold.
+1. PKSs belong to a family of condensing enzymes and play a key role in the biosynthesis of a variety of important secondary metabolites.27 Type III PKSs were identified and characterized from turmeric,28 Huperzia serrata,29 and rice.30 Although significant progress has been made in t
+
+**全文来源**: PubMed摘要

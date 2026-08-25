@@ -1,6 +1,6 @@
 ---
 title: "In Arabidopsis thaliana, the MYC2 TF binds to the promoters of TPS11 and TPS21 genes, facil- itating"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rna-sequencing-analysis-reveals-pgbhlh28-as]]"

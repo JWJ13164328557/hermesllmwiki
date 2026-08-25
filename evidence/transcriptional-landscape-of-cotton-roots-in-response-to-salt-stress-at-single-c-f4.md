@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these data conﬁrmed the high quality and reliability of the scRNA-seq data."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]"

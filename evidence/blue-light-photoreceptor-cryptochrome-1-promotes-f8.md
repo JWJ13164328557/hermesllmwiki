@@ -1,6 +1,6 @@
 ---
 title: "In hybrid aspen, photoperiod is the major environmental factor to induces dormancy in cambial merist"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[blue-light-photoreceptor-cryptochrome-1-promotes]]"

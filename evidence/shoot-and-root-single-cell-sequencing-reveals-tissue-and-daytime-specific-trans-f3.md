@@ -1,6 +1,6 @@
 ---
 title: "In addition, we found clusters annotated as senescent leaf cells, dividing cells, and stressed cells"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]"

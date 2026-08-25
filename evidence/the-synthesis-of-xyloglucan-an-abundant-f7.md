@@ -1,6 +1,6 @@
 ---
 title: "S2), indicate that CSLC12, likely in combination with CSLC4, is required for proper growth of root h"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-synthesis-of-xyloglucan-an-abundant]]"

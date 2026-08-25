@@ -1,6 +1,6 @@
 ---
 title: "PbRR9-like directly activates the expression of the auxin biosynthesis gene indole-3- pyruvate monoo"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[gibberellin-biosynthesis-is-required-for-cppu-induced]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad084"
 species: [Solanum lycopersicum, Vitis vinifera, Citrus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PbYUC4, PbNCED6, PbRR9]
+genes: [PbRR9, PbYUC4, PbNCED6]
 compounds: [auxin, abscisic acid]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Our results show that b-carotene and lycopene, which are nonpolar carotenoids, mainly accumulate in "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [lycopene, carotene]
+compounds: [carotene, lycopene]
 ---
 
 # Our results show that b-carotene and lycopene, which are nonpolar carotenoids, mainly accumulate in 

@@ -52,17 +52,9 @@ Dissecting the genetic basis of CFB is crucial in plant biology and crop breedin
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum, Glycine max
-**方法**: transcriptomics (RNA-seq), multi-omics integration, genomics, single-cell RNA-seq
-**来源**: DOI:10.1093/hr/uhaf228
-**来源类型**: PDF全文 (uhaf228.pdf)
+**方法**: RNA-seq
 
 ### 核心发现
-1. By linking DEGs to specific biological functions and cell types, our findings suggest that JA’s CFB trait is supported by enhanced transcriptional reprogramming and hormonal regu- lation, particularly within its meristematic cells.
-2. This study provides insights into the genetic basis of CFB in grapevine, facilitating grapevine breeding with continuous flowering and bearing.
-3. Among these, meristematic cells play a pivotal role in sustained growth and organogenesis, as they house pluripotent stem cells that contin- uously generate new organs throughout a plant’s lifespan.
-4. In conclusion, the integrated multi-omics approach employed in this research provides a robust framework for understanding the genetic underpinnings of continuous flowering in grapevines.
-5. Gene-level counts were then generated using featureCounts (v2.0.4) [75] with the parameters -a for the GTF annotation file, -p for paired-end reads, -g gene_id to group counts by gene ID, and -t exon to target exon-level counts.
-6. The circadian systems of flowering and fruit development are crucial for viticulture and yield formation.
-7. Although these traits are critical for agricultural production, most studies have focused on the physiological aspects of CFB in these crops, such as flowering timing and resource allocation [9, 10].
-8. Notably, chromosomes 7, 13, and 14 exhibited a concentration of these structural variants (Fig.
+
+
+**全文来源**: PubMed摘要

@@ -1,6 +1,6 @@
 ---
 title: "The WD repeat gene LhWDR interacts with LhbHLH2 to co-regulate anthocyanin accumulation in lily [18]"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multifaceted-roles-of-lhwrky44-in-promoting]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad167"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [LhbHLH2, LhWDR]
+genes: [LhWDR, LhbHLH2]
 compounds: [anthocyanin]
 ---
 

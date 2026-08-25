@@ -1,6 +1,6 @@
 ---
 title: "We found that the development of chromoplast plastoglo- bules (CPGs) in globular and crystalloid chr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"

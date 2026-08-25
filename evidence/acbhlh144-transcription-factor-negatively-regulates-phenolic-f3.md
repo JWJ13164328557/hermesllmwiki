@@ -1,6 +1,6 @@
 ---
 title: "CES (a bHLH) binds to the promoter of GA2ox7 to enhance its expression in response to brassinosteroi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[acbhlh144-transcription-factor-negatively-regulates-phenolic]]"

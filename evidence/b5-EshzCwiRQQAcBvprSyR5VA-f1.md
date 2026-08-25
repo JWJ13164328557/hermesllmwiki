@@ -1,6 +1,6 @@
 ---
 title: "Given that CDC48 complexes are known to participate in cell division, plant growth, and various cell"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b5-EshzCwiRQQAcBvprSyR5VA]]"

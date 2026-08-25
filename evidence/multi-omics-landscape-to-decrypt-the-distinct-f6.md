@@ -1,6 +1,6 @@
 ---
 title: "Of particular note is that contig 239.110 is a 4-CoA ligase enzyme that predominantly interacts with"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[multi-omics-landscape-to-decrypt-the-distinct]]"

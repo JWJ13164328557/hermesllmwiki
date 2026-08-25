@@ -1,6 +1,6 @@
 ---
 title: "With these new technologies, Arabidopsis research continues to play a critical role in the implement"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

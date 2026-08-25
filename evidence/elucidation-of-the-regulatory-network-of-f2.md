@@ -1,6 +1,6 @@
 ---
 title: "Eventually, we found that most of these genes were higher expressed in ﬂowers, including 3 CHI, 11 C"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"

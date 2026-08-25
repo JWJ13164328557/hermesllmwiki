@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the sesquiterenoids present in the rhizomes of A."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[differential-transcriptome-analysis-of-genes-associated]]"

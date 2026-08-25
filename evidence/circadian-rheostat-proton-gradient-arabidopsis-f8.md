@@ -1,6 +1,6 @@
 ---
 title: "Shoot-specific DEGs included known targets such as PIF4 and PIF5 that were signif­ icantly upregulat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[circadian-rheostat-proton-gradient-arabidopsis]]"

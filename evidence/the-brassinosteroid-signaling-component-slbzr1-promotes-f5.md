@@ -1,6 +1,6 @@
 ---
 title: "Moreover, RIN interacts with TAGL1, FUL1, and FUL2 to form a complex that regulates fruit ripening ("
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-brassinosteroid-signaling-component-slbzr1-promotes]]"

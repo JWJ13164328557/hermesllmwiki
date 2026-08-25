@@ -1,6 +1,6 @@
 ---
 title: "Through a comprehensive screening of ERF family members, we determined that SlEIL2 directly regulate"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-insensitive-3-like-2-regulates-β-carotene-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiad151"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Citrus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SlERFs, SlEIL2]
+genes: [SlEIL2, SlERFs]
 compounds: []
 ---
 

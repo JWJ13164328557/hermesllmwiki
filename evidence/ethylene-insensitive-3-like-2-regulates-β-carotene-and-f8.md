@@ -1,6 +1,6 @@
 ---
 title: "These results indicate that SlEIL2 directly regulates the expression of SlERF.G6 and SlERF.H30, thus"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-insensitive-3-like-2-regulates-β-carotene-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiad151"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Citrus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SlERF, SlEIL2, SlLCYB2]
+genes: [SlLCYB2, SlEIL2, SlERF]
 compounds: [carotene]
 ---
 

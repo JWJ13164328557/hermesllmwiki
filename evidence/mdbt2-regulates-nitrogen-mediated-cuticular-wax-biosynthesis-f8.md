@@ -1,6 +1,6 @@
 ---
 title: "In apple, the R2R3-MYB transcription factor MdMYB30 binds to the pro- moter of MdKCS1 to regulate ep"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdbt2-regulates-nitrogen-mediated-cuticular-wax-biosynthesis]]"

@@ -1,6 +1,6 @@
 ---
 title: "In diterpenoid biosynthesis, the bHLH TF DPF in rice binds to the cis-acting element (N-box) located"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rna-sequencing-analysis-reveals-pgbhlh28-as]]"

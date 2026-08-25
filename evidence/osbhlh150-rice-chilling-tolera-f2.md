@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results reveal a novel cascade, which is distinct 522 from the OsICE1 mechanism,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[osbhlh150-rice-chilling-tolera]]"

@@ -1,6 +1,6 @@
 ---
 title: "Application of MT and overexpression of MdASMT9 also reduced abscisic acid accumulation through prom"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"

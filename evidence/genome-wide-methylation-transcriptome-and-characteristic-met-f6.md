@@ -1,6 +1,6 @@
 ---
 title: "We found that the BR pathway was regulated by a large number of TFs, whereas the DG pathway was regu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genome-wide-methylation-transcriptome-and-characteristic-met]]"

@@ -1,6 +1,6 @@
 ---
 title: "Thus, tools for systematic research are required to unravel how distinct cell types are regulated or"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran]]"

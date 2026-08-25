@@ -1,6 +1,6 @@
 ---
 title: "Silencing of SpMSI1 resulted in up-regulation of SpSSRP1, B-class genes (SpAP3, SpPI, SpUFO), the C-"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[rice-blast-sc-spatial]]"
@@ -8,7 +8,7 @@ doi: "10.1002/advs.202507818"
 species: [Zea mays, Solanum lycopersicum, Glycine max]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SpMSI1, SpAP3, SpPI, SpAG, SpSEP3]
+genes: [SpAP3, SpPI, SpCRC, SpSEP1, SpAP1]
 compounds: []
 ---
 

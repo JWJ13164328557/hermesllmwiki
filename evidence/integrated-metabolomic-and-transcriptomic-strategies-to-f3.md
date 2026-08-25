@@ -1,6 +1,6 @@
 ---
 title: "Li­ braries were size selected for cDNA target fragments of 200–300 bp using PCR amplified."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"

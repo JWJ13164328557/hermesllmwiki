@@ -1,6 +1,6 @@
 ---
 title: "Electrophoretic mobility shift assay The CDS of CsAN1 or CsABF3 was inserted into a pATXd- SUMO vect"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"
@@ -8,7 +8,7 @@ doi: "10.1111/nph.19671"
 species: [Solanum lycopersicum, Nicotiana tabacum, Citrus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [BamHI, CsAN1, CsABF3]
+genes: [CsAN1, CsABF3, BamHI]
 compounds: []
 ---
 

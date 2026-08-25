@@ -1,6 +1,6 @@
 ---
 title: "To reduce false positives, we per- formed the expression correlation analysis between the TF genes a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-transcriptional-and-regulatory-landscape-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that most of these alternative splicing events (95.2%, Figure 2C) were formed by the combin"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

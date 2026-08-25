@@ -1,6 +1,6 @@
 ---
 title: "Importantly, OsLESV and OsESV1 also 34 interact with the key enzymes of starch biosynthesis, GBSSI, "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[oslesv-and-osesv1-promote-transitory-and]]"

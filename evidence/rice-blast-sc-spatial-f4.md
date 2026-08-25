@@ -1,6 +1,6 @@
 ---
 title: "Notably, SpMSI1 silencing re- sulted in a signiﬁcant down-regulation of SpHDT2, suggesting that thes"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[rice-blast-sc-spatial]]"

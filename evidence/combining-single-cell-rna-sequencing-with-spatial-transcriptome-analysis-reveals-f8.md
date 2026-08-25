@@ -1,6 +1,6 @@
 ---
 title: "Transcriptional control of cambium differentiation In secondary growth, cell differentiation after c"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[combining-single-cell-rna-sequencing-with-spatial-transcriptome-analysis-reveals]]"

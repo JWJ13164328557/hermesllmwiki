@@ -1,6 +1,6 @@
 ---
 title: "Remarkably, using TF2Network (Kulkarni et al., 2018) to search for transcriptional regulators that m"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]"

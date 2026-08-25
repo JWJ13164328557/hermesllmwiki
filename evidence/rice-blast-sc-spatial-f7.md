@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these four stages capture the early inﬂorescence developmental stages from meristem tr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[rice-blast-sc-spatial]]"

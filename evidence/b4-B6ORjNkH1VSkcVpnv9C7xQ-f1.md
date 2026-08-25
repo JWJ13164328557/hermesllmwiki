@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results demon- strated that knockout of the OpAVT1 gene transiently promoted pla"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b4-B6ORjNkH1VSkcVpnv9C7xQ]]"

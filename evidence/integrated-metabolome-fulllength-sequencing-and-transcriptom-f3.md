@@ -1,6 +1,6 @@
 ---
 title: "Among them, 78 TFs were signiﬁcantly positively, and 92 TFs were signiﬁcantly negatively related to "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolome-fulllength-sequencing-and-transcriptom]]"

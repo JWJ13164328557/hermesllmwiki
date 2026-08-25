@@ -129,17 +129,9 @@ The review is Arabidopsis-centered but explicitly discusses rice, maize, and gym
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum, Populus spp.
-**方法**: ChIP-seq/qPCR, RNAi/VIGS, overexpression, knockout/mutant, subcellular localization
-**来源**: DOI:10.1146/annurev-arplant-042811-105555
-**来源类型**: PDF全文 (10.1146_annurev-arplant-042811-105555.pdf)
+**方法**: Microscopy
 
 ### 核心发现
-1. The primary cause for the loss of the shoot meristem in zll seedlings appears to be the ac- cumulation of microRNA165/166 (miR165/166) and the consequent downregulation of their target HOMEODOMAIN-LEUCINE ZIPPER III (HD-ZIPIII) messenger RNAs (mRNAs) in the shoot meristem (Figure 1d ) (80).
-2. STM directly activates transcription of the cytokinin biosynthetic enzyme gene IPT7 in the shoot meristem, and exogenous application of cytokinins or expression of a cytokinin biosynthetic enzyme from the STM promoter can rescue the stm mutant phenotype.
-3. In summary, the OC-derived WUS protein must be present in both the OC and the stem cells to maintain the stem cells in an undifferentiated state.
-4. CLV2 interacts with CORYNE (CRN)/SUPPRESSOR OF LLP1 2 (SOL2) (which shares similarity with serine/threonine kinases but lacks an extracellular LRR domain) to form a CLV3- receptor complex independently of CLV1 (48).
-5. These data suggest that binding of CLV3p to its re- ceptors in the overlying cells contributes to OC stability (77).
-6. Together, these results suggest that the OC promotes stem cell fate in its apical neighbors but represses it in PZ cells, which in turn implies the requirement of additional factors that modify cell responsiveness.
-7. In summary, control of WUS gene ex- pression and multiple levels of lateral inhi- bition contribute to robustly maintaining the boundaries between pluripotent stem cells and differentiating descendants.
-8. The direct targets of PLT proteins are still unknown.
+
+
+**全文来源**: PubMed摘要

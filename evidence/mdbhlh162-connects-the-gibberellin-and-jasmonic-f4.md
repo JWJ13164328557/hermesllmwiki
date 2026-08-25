@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that MdbHLH162 interacts with MdbHLH3 and MdbHLH33 to impair their transcripti"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbhlh162-connects-the-gibberellin-and-jasmonic]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13608"
 species: [Malus domestica, Nicotiana tabacum, Populus spp.]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MdbHLH33, MdbHLH3, MdUF3GT, MdbHLH162, MdDFR]
+genes: [MdbHLH3, MdDFR, MdbHLH162, MdbHLH33, MdUF3GT]
 compounds: []
 ---
 

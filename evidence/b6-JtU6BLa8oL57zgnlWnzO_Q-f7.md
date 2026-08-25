@@ -1,6 +1,6 @@
 ---
 title: "Moreover, phyB physically interacts with TCP21 and inhibits its transcriptional activity."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[b6-JtU6BLa8oL57zgnlWnzO_Q]]"

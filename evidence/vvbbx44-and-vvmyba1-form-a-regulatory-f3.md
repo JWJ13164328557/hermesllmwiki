@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results suggest that VvBBX44 represses VvMYBA1 expression either directly or ind"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[vvbbx44-and-vvmyba1-form-a-regulatory]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad176"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvMYBA1, VvBBX44, VvHY5]
+genes: [VvBBX44, VvHY5, VvMYBA1]
 compounds: []
 ---
 

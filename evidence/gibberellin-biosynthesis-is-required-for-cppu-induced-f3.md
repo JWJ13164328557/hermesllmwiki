@@ -1,6 +1,6 @@
 ---
 title: "These results show that fruit set and fruit development of melon induced by CPPU are partly dependen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[gibberellin-biosynthesis-is-required-for-cppu-induced]]"

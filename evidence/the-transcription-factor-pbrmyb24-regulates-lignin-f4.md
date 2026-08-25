@@ -1,6 +1,6 @@
 ---
 title: "Compared with the empty vector injection sites, overexpression of PbrMYB24 significantly increased t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcription-factor-pbrmyb24-regulates-lignin]]"

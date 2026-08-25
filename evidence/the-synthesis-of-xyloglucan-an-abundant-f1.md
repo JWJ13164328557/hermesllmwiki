@@ -1,6 +1,6 @@
 ---
 title: "We found that single mutants containing a T-DNA in each of the five Arabidopsis CSLC genes had norma"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-synthesis-of-xyloglucan-an-abundant]]"

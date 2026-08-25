@@ -1,6 +1,6 @@
 ---
 title: "In this study, we demonstrated that SlAP2c, a homolog of SlAP2a, is a direct target of SlAP2a and th"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13650"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SlAP2a, SlAP2c]
+genes: [SlAP2c, SlAP2a]
 compounds: []
 ---
 

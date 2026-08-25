@@ -1,6 +1,6 @@
 ---
 title: "Guide RNA 1 (gRNA1) was designed to target conserved regions of ZmCRY1s, and gRNA2 targeted ZmCRY2."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[zmcry1-gl2-wax-maize]]"
@@ -8,7 +8,7 @@ doi: "10.1038/s41467-025-67587-7"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [ZmCRY1s, ZmCRY2]
+genes: [ZmCRY2, ZmCRY1s]
 compounds: []
 ---
 

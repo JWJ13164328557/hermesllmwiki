@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that WOX5 in the root stem cell niche has a more direct function in stem cell si"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature05703]]"

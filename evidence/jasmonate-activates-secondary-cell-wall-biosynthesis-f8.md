@@ -1,6 +1,6 @@
 ---
 title: "We conclude that this MYC2-MYB46 module is a key component of the plant response to JA in SCW format"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"

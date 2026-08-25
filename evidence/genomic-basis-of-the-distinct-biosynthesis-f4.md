@@ -1,6 +1,6 @@
 ---
 title: "Notably, this UGT was the closest homolog of QrUGT84A13, which has been functionally characterized i"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[genomic-basis-of-the-distinct-biosynthesis]]"

@@ -1,6 +1,6 @@
 ---
 title: "The number of TFs was counted after eliminating the repetitions based on the fact that one TF binds "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolome-fulllength-sequencing-and-transcriptom]]"

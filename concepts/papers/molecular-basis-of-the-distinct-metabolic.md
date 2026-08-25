@@ -25,17 +25,14 @@ Camellia sinensis
 
 ## 深度提炼
 
-**物种**: Zea mays, Nicotiana tabacum, Populus spp., Gossypium hirsutum, Sorghum bicolor
-**方法**: transcriptomics (RNA-seq), genomics, qRT-PCR validation, dual-luciferase reporter, overexpression, subcellular localization
-**来源**: DOI:10.1021/acs.jafc.0c07572
-**来源类型**: PDF全文 (15-全长转录组解析茶树MYB转录因子在茶氨酸合成途径中作用机制（国人佳作）.pdf)
+**物种**: cotton, maize, poplar, tobacco
+
+**方法**: RNA-seq, Microscopy
 
 ### 核心发现
-1. We found that all of the 1679 lncRNAs can regulate target genes by base complementation and have a large number of trans-targeted genes, while only a few cis-targeted genes were regulated by 1145 lncRNAs (Figure 4g).
-2. Interestingly, we also found that the CsMYB6 transcripts also were the target genes of two novel lncRNAs, PB.5281.2 and PB.12879.5.
-3. Among those MYB TFs, we found that the PB.18673.1 transcript was highly expressed in the root and showed a high correlation with the CsTSI expression pattern (R > 0.99, Figure 7c).
-4. In this study, we found that most AS isoforms had lower expression levels in comparison to their major transcripts, indicating that ASs tended to result from temporary responses to stresses or faulty splicing.
-5. The target genes of lncRNAs were predicted by two approaches based on two modes.
-6. lncRNAs act on target genes in two ways: one is through regulation of neighbor genes (cis-targets) by altering transcription factor binding to gene promoter regions or recruiting other transcription unite or entire chromosome, and another is through base complemen- tation (trans-targets).24 Here we conducted the prediction of the target genes for these lncRNAs by two diﬀerent analysis methods.
-7. In summary, we observed a larger number of TASs involved in theanine biosynthesis, which is usually more active in the root, whereas more TASs speciﬁcally involved in catechin and caﬀeine biosynthesis were observed in the shoot, where catechin and caﬀeine biosyntheses were much more active in comparison to those in in the root (Figure 5c).
-8. Specially, 4 of those lncRNAs were predicted to cis-regulate SCPL expression, and the structure diagram of lncRNAs and the corresponding target SCPLs is shown in Figure 6b.
+
+- Among those MYB TFs, we found that the PB.18673.1 transcript was highly expressed in the root and showed a high correlation with the CsTSI expression pattern (R > 0.99, Figure 7c).
+- In this study, we found that most AS isoforms had lower expression levels in comparison to their major transcripts, indicating that ASs tended to result from temporary responses to stresses or faulty 
+- Specially, 4 of those lncRNAs were predicted to cis-regulate SCPL expression, and the structure diagram of lncRNAs and the corresponding target SCPLs is shown in Figure 6b.
+
+**全文来源**: PubMed摘要

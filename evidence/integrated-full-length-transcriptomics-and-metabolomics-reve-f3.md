@@ -1,6 +1,6 @@
 ---
 title: "However, when choosing galactose as the sugar donor, a large number of flavonol-glucoside products w"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-full-length-transcriptomics-and-metabolomics-reve]]"

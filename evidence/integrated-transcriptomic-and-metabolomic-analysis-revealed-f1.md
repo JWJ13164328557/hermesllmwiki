@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the tubers accumulated significantly different flavonoids at moderate alt"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomic-and-metabolomic-analysis-revealed]]"

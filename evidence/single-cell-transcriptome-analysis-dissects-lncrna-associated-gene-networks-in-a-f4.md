@@ -1,6 +1,6 @@
 ---
 title: "168 Taken together, the findings from the deconvolution analysis suggest that previously recognized "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]"

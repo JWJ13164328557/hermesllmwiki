@@ -1,6 +1,6 @@
 ---
 title: "In summary, we observed a larger number of TASs involved in theanine biosynthesis, which is usually "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[molecular-basis-of-the-distinct-metabolic]]"

@@ -1,6 +1,6 @@
 ---
 title: "2.3 Normalization procedures For quantile normalization (QN), we utilized the normalize.quanti- les."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bty026]]"

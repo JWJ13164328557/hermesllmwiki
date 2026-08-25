@@ -1,6 +1,6 @@
 ---
 title: "BEDTools can be combined with one another as well as with standard UNIX commands, thus facilitating "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btq033]]"

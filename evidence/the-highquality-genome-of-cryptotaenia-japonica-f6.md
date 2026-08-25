@@ -1,6 +1,6 @@
 ---
 title: "Remarkably, a recent species-speciﬁc WGD event was investigated in water dropwort, together with the"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-highquality-genome-of-cryptotaenia-japonica]]"

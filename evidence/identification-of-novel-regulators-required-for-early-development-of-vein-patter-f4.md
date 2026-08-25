@@ -1,6 +1,6 @@
 ---
 title: "Indeed, they are mainly involved in regulating the function, rather than the development of leaf vei"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]"

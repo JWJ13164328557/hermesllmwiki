@@ -1,6 +1,6 @@
 ---
 title: "By sequence alignment, we found that CHS1 in this study and SbCHS2 (protein accession number, AMW917"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[multi-omics-landscape-to-decrypt-the-distinct]]"

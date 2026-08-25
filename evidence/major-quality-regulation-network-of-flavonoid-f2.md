@@ -1,6 +1,6 @@
 ---
 title: "Among identiﬁed metabolites, we found that black wolfberry is rich in various metabolic nutrients, e"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[major-quality-regulation-network-of-flavonoid]]"

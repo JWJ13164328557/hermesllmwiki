@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, while some transitions to white ﬂowers involve gene loss or loss of function in antho"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

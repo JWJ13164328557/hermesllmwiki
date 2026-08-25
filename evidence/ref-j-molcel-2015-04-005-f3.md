@@ -1,6 +1,6 @@
 ---
 title: "Importantly, markers for a population can be found using either correlation analysis (mentioned belo"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2015-04-005]]"

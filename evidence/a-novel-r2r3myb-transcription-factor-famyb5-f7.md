@@ -1,6 +1,6 @@
 ---
 title: "Moreover, overexpression of PgMYB5-like in tobacco leaves only promoted the accumulation of the indi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-novel-r2r3myb-transcription-factor-famyb5]]"

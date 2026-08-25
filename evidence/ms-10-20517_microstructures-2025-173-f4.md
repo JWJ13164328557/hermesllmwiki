@@ -1,6 +1,6 @@
 ---
 title: "These proteins often carry significant clinical relevance yet remain challenging to target effective"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-20517_microstructures-2025-173]]"

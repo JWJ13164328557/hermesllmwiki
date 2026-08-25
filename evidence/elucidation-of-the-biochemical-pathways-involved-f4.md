@@ -1,6 +1,6 @@
 ---
 title: "White bars indicate the positions of QTL mapped from data from trials 5 and 7 for the qRT-PCR target"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[elucidation-of-the-biochemical-pathways-involved]]"

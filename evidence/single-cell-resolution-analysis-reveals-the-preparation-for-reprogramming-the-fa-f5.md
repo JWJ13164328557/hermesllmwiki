@@ -1,6 +1,6 @@
 ---
 title: "In addition, we found that SAUR51 (SAUR​-like auxin-responsive protein) exhib- ited the most obvious"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-resolution-analysis-reveals-the-preparation-for-reprogramming-the-fa]]"

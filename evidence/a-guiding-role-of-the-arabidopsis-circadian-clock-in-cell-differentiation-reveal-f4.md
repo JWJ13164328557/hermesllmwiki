@@ -1,6 +1,6 @@
 ---
 title: "ChIP sequencing analysis reveals that LUX in- duction in early differentiating cells directly target"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]"

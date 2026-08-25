@@ -1,6 +1,6 @@
 ---
 title: "Based on this symbol, we found that ‘Sucui No."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-pbbhlh164-is-destabilized]]"

@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, Arabidopsis hmACCase can be targeted to plastids in rapeseed, and OA and the SOC were"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"

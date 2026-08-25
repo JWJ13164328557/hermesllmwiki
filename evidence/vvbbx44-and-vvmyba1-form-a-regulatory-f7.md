@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that VvBBX44-knockout grape callus had higher anthocyanin content than EV ca"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[vvbbx44-and-vvmyba1-form-a-regulatory]]"

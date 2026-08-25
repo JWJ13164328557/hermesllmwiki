@@ -1,6 +1,6 @@
 ---
 title: "Second, we found that several genes that had a potential targeting relationship with NAC (evm.model."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-proteomic-and-metabolic-profiles-of]]"

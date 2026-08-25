@@ -1,6 +1,6 @@
 ---
 title: "Interestingly we found 4 WRKY transcription factors among the C13 marker genes (WRKY8, WRKY29, WRKY5"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]"

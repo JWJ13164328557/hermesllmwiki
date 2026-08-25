@@ -1,6 +1,6 @@
 ---
 title: "It showed that CjbHLH could interact with CjANSa, CjF3H, and CjDFRb."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-highquality-genome-of-cryptotaenia-japonica]]"
@@ -8,7 +8,7 @@ doi: "10.1111/tpj.16628"
 species: [Arabidopsis thaliana, Citrus spp., Daucus carota]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CjF3H, CjANSa, CjDFRb, CjbHLH]
+genes: [CjF3H, CjbHLH, CjANSa, CjDFRb]
 compounds: []
 ---
 

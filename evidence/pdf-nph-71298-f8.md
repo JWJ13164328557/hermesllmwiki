@@ -1,6 +1,6 @@
 ---
 title: "EMBRYONIC FLOWER 2 (EMF2), a core component of Polycomb Repressive Complex 2, mediates transcription"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-nph-71298]]"

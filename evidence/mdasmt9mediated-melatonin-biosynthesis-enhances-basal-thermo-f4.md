@@ -1,6 +1,6 @@
 ---
 title: "3.3 | Overexpression of MdASMT9 enhanced photosynthetic capacity and increased stomatal aperture und"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"

@@ -1,6 +1,6 @@
 ---
 title: "In research conducted by (Prasayu & Ratnasari, 2021), artificial endosperm is essential for increasi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-15294_biosaintifika-v18i2-37607]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found the expression of a variety of artemisinin, and flavonoid biosyn­ thesis structural genes w"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-analysis-reveals-the-parallel-transcriptional]]"
@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [flavonoid, artemisinin]
+compounds: [artemisinin, flavonoid]
 ---
 
 # We found the expression of a variety of artemisinin, and flavonoid biosyn­ thesis structural genes w

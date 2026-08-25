@@ -29,11 +29,7 @@ SummaryCotton fibre is a unicellular seed trichome, and lint fibre initials per 
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Solanum lycopersicum, Populus spp., Gossypium hirsutum
-**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, qRT-PCR validation, CRISPR/Cas9, RNAi/VIGS, overexpression
-**来源**: DOI:10.1111/pbi.13918
-**来源类型**: PDF全文 (单细胞RNA-seq揭示了棉花中单个纤维细胞起始的命运决定控制.pdf)
-
 ### 核心发现
-1. These studies provide new insights into heterogeneity of gene expres- sion between different cell types, and molecular trajectory of cell differentiation during development.
-2. Interestingly, MYB25-like was down-regulated in ﬁbre-deﬁcient mutants of hormone- or sugar-signalling genes.
+
+
+**全文来源**: PubMed摘要

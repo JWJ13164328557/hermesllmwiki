@@ -1,6 +1,6 @@
 ---
 title: "The circadian systems of flowering and fruit development are crucial for viticulture and yield forma"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[grape-continuous-flowering-pan-sc]]"

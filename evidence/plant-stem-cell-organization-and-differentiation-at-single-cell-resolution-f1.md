@@ -1,6 +1,6 @@
 ---
 title: "Taken together, this study reveals the landscape of cell states and the dynamics of cell-fate acquis"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]"

@@ -1,6 +1,6 @@
 ---
 title: "The MYB5-driven MBW complex recruits a WRKY factor to enhance the expression of targets involved in "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

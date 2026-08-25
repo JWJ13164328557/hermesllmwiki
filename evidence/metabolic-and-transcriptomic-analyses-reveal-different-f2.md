@@ -1,6 +1,6 @@
 ---
 title: "Food Chemistry 347 (2021) 129005 5 Taken together, our results showed that ‘Sanbianhong’ and ‘Taili­"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolic-and-transcriptomic-analyses-reveal-different]]"

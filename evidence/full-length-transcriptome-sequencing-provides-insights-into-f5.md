@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, there were a relatively large num- ber of the zinc-ﬁnger TFs among the candidate targ"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[full-length-transcriptome-sequencing-provides-insights-into]]"

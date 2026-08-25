@@ -1,6 +1,6 @@
 ---
 title: "1 | Introduction Potato (Solanum tuberosum L.), a globally important food crop, plays a crucial role"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"

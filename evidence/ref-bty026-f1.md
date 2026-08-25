@@ -1,6 +1,6 @@
 ---
 title: "The methods we have chosen for our analyses are those that either are explicitly designed to use DNA"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bty026]]"

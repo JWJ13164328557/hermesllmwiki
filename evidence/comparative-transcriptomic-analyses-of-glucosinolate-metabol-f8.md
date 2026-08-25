@@ -1,6 +1,6 @@
 ---
 title: "(2019) revealed that func- tional nitrile-specifier proteins (NSP) are necessary for GS degradation "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[comparative-transcriptomic-analyses-of-glucosinolate-metabol]]"

@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that SlAP2c recruits the TPL2/4–HDA1/3 transcrip- tional repre"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"

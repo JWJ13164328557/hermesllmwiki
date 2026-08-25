@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our ﬁndings suggest that although the mutation of EMF2 caused a global reduction of H3"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-nph-71298]]"

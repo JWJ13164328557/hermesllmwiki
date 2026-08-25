@@ -25,14 +25,7 @@ SUMMARYGiven the potential health benefits (and adverse effects), of polyphenoli
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Solanum lycopersicum, Nicotiana tabacum, Solanum tuberosum
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), genomics, overexpression, phylogenetics, QTL mapping
-**来源**: DOI:10.1111/tpj.14879
-**来源类型**: PDF全文 (45-种子特异性代谢物的定量性状基因座分析揭示了番茄中种子特异性黄酮醇和配糖生物碱含量的差异调节.pdf)
-
 ### 核心发现
-1. Taken together, these results suggest that the wild-type alleles of one or both candidate genes have elevated expression, resulting in accumulation of ﬂavonoid triglycosides in S.
-2. Further- more, we report seed-speciﬁc specialized metabolites and focus on two mQTL for ﬂavonol on chromosome 12, and glycoalkaloid on chromosome 7.
-3. When taken together, we annotated these peaks putatively as querce- tin-3-O-sophoroside-O-rhamnoside (compound A), isorhamnetin-3-O-sophoroside-O-rhamnoside (B) and kaempferol-3-O-sophoroside-O-rhamnoside (C).
-4. These results suggest that Solyc12g096870 and Solyc12g098600 act as either 5GT or 7GT in tomato seeds.
-5. Interestingly, however, two UGTs, Solyc12g096870 and Solyc12g098600, were highly expressed and showed six- and 150-fold higher expression in S.
+
+
+**全文来源**: PubMed摘要

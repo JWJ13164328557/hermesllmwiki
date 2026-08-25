@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that TCP DOMAIN PROTEIN 23 (TCP23), G-BOX BINDING FACTOR 4 (GBF4), and VERNALI"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-single-cell-transcriptome-atlas-reveals-the-trajectory-of-early-cell-fate-tran]]"

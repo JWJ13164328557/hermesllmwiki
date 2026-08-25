@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that vv-miR156b targets the VvSBP8 and VvSBP13 cleavage sites in grapes."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mir156b-targeted-vvsbp813-functions-downstream-of-the]]"

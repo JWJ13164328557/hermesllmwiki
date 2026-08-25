@@ -1,6 +1,6 @@
 ---
 title: "In addition to biosynthesis, the GST gene RAP (reduced anthocyanin in petioles) plays a crucial role"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

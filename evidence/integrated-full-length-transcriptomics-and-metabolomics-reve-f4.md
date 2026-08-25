@@ -1,6 +1,6 @@
 ---
 title: "To avoid this, overexpressing transcription factors that control specific metabolite pathways could "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-full-length-transcriptomics-and-metabolomics-reve]]"

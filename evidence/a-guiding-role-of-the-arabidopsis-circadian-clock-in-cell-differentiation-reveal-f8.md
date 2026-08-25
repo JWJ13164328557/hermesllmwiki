@@ -1,6 +1,6 @@
 ---
 title: "Overall, both BES1 and LHY regulate the differentiation process, and BES1 directly suppresses LHY ex"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]"

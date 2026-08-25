@@ -1,6 +1,6 @@
 ---
 title: "RNA-seq provides a feasible way to carry out some investigations of genome expression and regulation"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrative-analysis-of-metabolome-and-transcriptome]]"

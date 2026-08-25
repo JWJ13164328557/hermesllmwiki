@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, DcbHLH5 could bind to the promoters of ﬂavonoid biosynthesis genes and activate their e"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"

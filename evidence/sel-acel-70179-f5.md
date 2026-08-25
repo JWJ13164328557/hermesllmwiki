@@ -1,6 +1,6 @@
 ---
 title: "Among the 14 samples, we found that the leaves of the booting stage showed the largest differences i"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-acel-70179]]"

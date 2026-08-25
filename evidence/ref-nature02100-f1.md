@@ -1,6 +1,6 @@
 ---
 title: "We conclude that APL is required for the asymmetric cell divisions as well as for SE and CC differen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found 85 unigenes encoding MYB and 93 unigenes encoding bHLH, but no WD40 replicat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

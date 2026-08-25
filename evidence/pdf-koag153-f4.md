@@ -1,6 +1,6 @@
 ---
 title: "(2024) show that alternative splicing of the potato resistance 33 gene RB balances plant growth and "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[pdf-koag153]]"

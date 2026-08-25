@@ -1,6 +1,6 @@
 ---
 title: "We show that during this event the chromatin state around the GL2 locus is not inherited, but is reo"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature04269]]"

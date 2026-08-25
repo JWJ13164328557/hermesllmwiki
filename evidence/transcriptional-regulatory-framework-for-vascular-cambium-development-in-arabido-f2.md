@@ -1,6 +1,6 @@
 ---
 title: "We found that all the mutants had a much higher proportion of perturbed genes in the cambium-enriche"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-regulatory-framework-for-vascular-cambium-development-in-arabido]]"

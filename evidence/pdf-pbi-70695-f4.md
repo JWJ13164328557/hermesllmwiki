@@ -1,6 +1,6 @@
 ---
 title: "Further, overexpression of the ERF gene (Ava16B1g14180) conferred enhanced tolerance to waterlogging"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[pdf-pbi-70695]]"

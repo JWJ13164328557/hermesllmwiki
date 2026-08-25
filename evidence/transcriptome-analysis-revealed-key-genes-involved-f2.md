@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of CcbHLH35 leads to upregulation of candidate target genes and increased flavonoid c"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

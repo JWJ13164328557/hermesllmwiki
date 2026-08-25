@@ -1,6 +1,6 @@
 ---
 title: "Genome Biology (2023) 24:194 These results reveal the high degree of cell heterogeneity in hypocotyl"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-resolution-analysis-reveals-the-preparation-for-reprogramming-the-fa]]"

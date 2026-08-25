@@ -1,6 +1,6 @@
 ---
 title: "We found that the number of differentially expressed (DE) transcripts, proteins, and phosphosites va"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[integrated-omics-networks-reveal-the-temporal]]"

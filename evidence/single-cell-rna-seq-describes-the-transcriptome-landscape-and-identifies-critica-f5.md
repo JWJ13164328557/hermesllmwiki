@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that palisade cells likely differentiate into spongy cells, while the epiderma"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica]]"

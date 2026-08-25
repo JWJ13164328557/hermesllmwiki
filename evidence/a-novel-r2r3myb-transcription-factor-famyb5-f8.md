@@ -1,6 +1,6 @@
 ---
 title: "Transient overexpression, dual-luciferase and EMSA experiments demonstrated that the novel R2R3-FaMY"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-novel-r2r3myb-transcription-factor-famyb5]]"

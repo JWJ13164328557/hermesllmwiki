@@ -1,6 +1,6 @@
 ---
 title: "Notably, the b-glucogallin had the highest correlation coefﬁcient with the total HTs, whereas gallic"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[genomic-basis-of-the-distinct-biosynthesis]]"

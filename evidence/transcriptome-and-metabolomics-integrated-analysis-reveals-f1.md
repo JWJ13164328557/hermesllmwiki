@@ -1,6 +1,6 @@
 ---
 title: "This study provides a framework for understanding ester biosynthesis and regulation in apple."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-and-metabolomics-integrated-analysis-reveals]]"

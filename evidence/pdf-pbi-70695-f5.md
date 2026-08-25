@@ -1,6 +1,6 @@
 ---
 title: "For PacBio HiFi se- quencing, SMRTbell libraries in the target fragment size were constructed for se"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[pdf-pbi-70695]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.70695"
 species: [Arabidopsis thaliana, Oryza sativa, Medicago spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [HiFi, PacBio]
+genes: [PacBio, HiFi]
 compounds: []
 ---
 

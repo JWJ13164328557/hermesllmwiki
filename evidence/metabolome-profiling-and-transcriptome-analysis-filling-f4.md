@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these data demonstrate that FDSs are multi- functional genes that could not only pro"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-profiling-and-transcriptome-analysis-filling]]"

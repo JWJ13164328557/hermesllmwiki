@@ -1,6 +1,6 @@
 ---
 title: "However, it is not clear whether WUS is the direct or indirect target of AtGCN5."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-j-bbaexp-2007-04-007]]"

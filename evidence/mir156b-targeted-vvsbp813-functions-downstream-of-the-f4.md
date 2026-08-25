@@ -1,6 +1,6 @@
 ---
 title: "Here, we report that the overexpression of VvSBP8/13 reduces anthocyanin accumulation, in agreement "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mir156b-targeted-vvsbp813-functions-downstream-of-the]]"

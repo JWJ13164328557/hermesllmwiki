@@ -1,6 +1,6 @@
 ---
 title: "The presence of sugars and proper energy levels at the graft junction is essential for callus produc"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-O0Kt-jSykCafIUhbNCEB3g]]"

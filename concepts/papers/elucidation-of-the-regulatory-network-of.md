@@ -25,17 +25,15 @@ Fagopyrum
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Nicotiana tabacum, Citrus spp., Solanum tuberosum, Catharanthus roseus
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), genomics, qRT-PCR validation, overexpression
-**来源**: DOI:10.1021/acs.jafc.1c00190
-**来源类型**: PDF全文 (16-通过代谢组和转录组解析苦荞类黄酮生物合成的调控网络.pdf)
+**物种**: potato, rice, tobacco
+
+**方法**: RNA-seq, Proteomics, Metabolomics
 
 ### 核心发现
-1. One study previously revealed that rutin contents were majorly ﬂavone metabolites in the ﬂowers and leaves of TB in ﬂowering and seed formation states.39 Surprisingly, we found that the isoquercitrin content in TB was highest in black grain among these ﬂavone components, but not rutin.
-2. Eventually, we found that most of these genes were higher expressed in ﬂowers, including 3 CHI, 11 CHS, 2 F3H, 4 F3′H, 2 FLS, and 6 UFGT genes.
-3. In the ﬂavone synthesis regulation network, we found that FtMYB31 could contribute to the regulation of ﬂavone synthesis genes, with FtCHI and FtCHS3 as transcription factors.
-4. We found that the FLS gene in the overexpression line (OE) had higher expression, up to 3.14-folds that in the EV line.
-5. However, we found 6 unique ﬂavonoids enriched in grains; peonidin speciﬁcally existed in black grains.
-6. We found that the accumulation of metabolites in diﬀerent tissues was not completely consistent with gene expression level, suggesting diﬀerentially controlled or regulated genes related to substance synthesis and decom- position.
-7. We found that some key MYB transcript factors were related to the ﬂavonoid synthesis pathway in our higher co-expression network module (Meblue and Melightsteeblue), according to previously published literature.
-8. By analyzing the transcriptional activation activity and overexpression of FtMYB31 in transgenic Tartary buckwheat roots, we found that FtMYB31 as a transcript factor enhances rutin synthesis not only in tobacco leaves but also in the roots of transgenic TB.
+
+- One study previously revealed that rutin contents were majorly ﬂavone metabolites in the ﬂowers and leaves of TB in ﬂowering and seed formation states.39 Surprisingly, we found that the isoquercitrin 
+- In the ﬂavone synthesis regulation network, we found that FtMYB31 could contribute to the regulation of ﬂavone synthesis genes, with FtCHI and FtCHS3 as transcription factors.
+- We found that the accumulation of metabolites in diﬀerent tissues was not completely consistent with gene expression level, suggesting diﬀerentially controlled or regulated genes related to substance 
+- We found that some key MYB transcript factors were related to the ﬂavonoid synthesis pathway in our higher co-expression network module (Meblue and Melightsteeblue), according to previously published 
+
+**全文来源**: PubMed摘要

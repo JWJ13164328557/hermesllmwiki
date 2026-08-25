@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our study highlights the important role of the ‘PbrARF13-PbrNSC-PbrMYB132’ signal- l"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[auxin-inhibits-lignin-and-cellulose-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14046"
 species: [Oryza sativa, Malus domestica, Populus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PbrARF13, PbrNSC, PbrMYB132]
+genes: [PbrMYB132, PbrNSC, PbrARF13]
 compounds: [lignin, cellulose]
 ---
 

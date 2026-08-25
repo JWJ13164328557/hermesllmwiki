@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that the changes in expression proﬁles of the clock genes, mos"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]"

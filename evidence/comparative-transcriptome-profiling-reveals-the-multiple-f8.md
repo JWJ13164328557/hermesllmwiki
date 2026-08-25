@@ -1,6 +1,6 @@
 ---
 title: "Notably, the auxin and gibberellin marker genes were strongly induced in the root rather than in the"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"
@@ -9,7 +9,7 @@ species: [Brassica napus, Citrus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [gibberellin, auxin]
+compounds: [auxin, gibberellin]
 ---
 
 # Notably, the auxin and gibberellin marker genes were strongly induced in the root rather than in the

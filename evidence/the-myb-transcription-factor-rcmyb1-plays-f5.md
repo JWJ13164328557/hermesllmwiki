@@ -1,6 +1,6 @@
 ---
 title: "Downloaded from https://academic.oup.com/hr/article/10/6/uhad080/7135932 by guest on 06 July 2023 12"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

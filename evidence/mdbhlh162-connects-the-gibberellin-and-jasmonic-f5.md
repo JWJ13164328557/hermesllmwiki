@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that MdRGL2a antagonizes MdbHLH162‐inhibited antho- cyanin bio"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbhlh162-connects-the-gibberellin-and-jasmonic]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13608"
 species: [Malus domestica, Nicotiana tabacum, Populus spp.]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MdbHLH162, MdbHLH33, MdRGL2a, MdbHLH3]
+genes: [MdbHLH3, MdRGL2a, MdbHLH162, MdbHLH33]
 compounds: []
 ---
 

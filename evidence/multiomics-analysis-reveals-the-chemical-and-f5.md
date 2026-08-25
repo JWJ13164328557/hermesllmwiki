@@ -1,6 +1,6 @@
 ---
 title: "Previous studies suggested that WRKY44 was a target gene of the MWB complex and could bind to WD40, "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multiomics-analysis-reveals-the-chemical-and]]"

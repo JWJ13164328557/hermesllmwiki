@@ -1,6 +1,6 @@
 ---
 title: "The results of yeast one-hybrid, elec- trophoretic mobility shift, and dual-luciferase reporter gene"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[a-genome-assembly-of-ginger-zingiber]]"
@@ -8,7 +8,7 @@ doi: "10.1111/tpj.16625"
 species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [ZoMYB106, ZoCCOMT2, ZobHLH148, ZoCCOMT1]
+genes: [ZobHLH148, ZoCCOMT2, ZoCCOMT1, ZoMYB106]
 compounds: []
 ---
 

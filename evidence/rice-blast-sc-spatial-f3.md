@@ -1,6 +1,6 @@
 ---
 title: "By integrating genetic experi- mental validation, we uncover novel insights into early sex dif- fere"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[rice-blast-sc-spatial]]"

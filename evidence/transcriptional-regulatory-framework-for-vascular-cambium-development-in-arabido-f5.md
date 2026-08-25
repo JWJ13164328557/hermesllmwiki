@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our systematic phenotypic character- ization of combinatorial mutants demonstrated fun"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-regulatory-framework-for-vascular-cambium-development-in-arabido]]"

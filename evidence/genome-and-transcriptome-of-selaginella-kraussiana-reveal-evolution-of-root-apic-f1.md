@@ -1,6 +1,6 @@
 ---
 title: "Based on a high-quality genome assembly, mRNA sequencing (mRNA-seq) data, and single-cell RNA-seq da"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic]]"

@@ -1,6 +1,6 @@
 ---
 title: "Us- ing in vitro ubiquitination assays, we found that GST-JAZ1/3/4/6 were all polyubiquitinated by P"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[the-myc2pub22jaz4-module-plays-a-crucial]]"

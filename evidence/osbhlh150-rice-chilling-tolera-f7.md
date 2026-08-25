@@ -1,6 +1,6 @@
 ---
 title: "We found that ABA content in both 355 NIL-CSS12b and knockout lines were significantly reduced compa"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[osbhlh150-rice-chilling-tolera]]"

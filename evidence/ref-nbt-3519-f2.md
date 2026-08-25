@@ -1,6 +1,6 @@
 ---
 title: "While it is expected that the variance on abundance estimates should increase approximately linearly"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nbt-3519]]"

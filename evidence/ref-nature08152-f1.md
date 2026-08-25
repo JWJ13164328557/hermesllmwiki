@@ -1,6 +1,6 @@
 ---
 title: "Our results show that the complex phenomenon of limb regeneration can be achieved without complete d"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nature08152]]"

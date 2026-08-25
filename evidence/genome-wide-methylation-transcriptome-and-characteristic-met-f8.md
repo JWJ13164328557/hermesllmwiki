@@ -1,6 +1,6 @@
 ---
 title: "Addition- ally, we found that metabolites that are most closely related to upstream pathways, such a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genome-wide-methylation-transcriptome-and-characteristic-met]]"

@@ -1,6 +1,6 @@
 ---
 title: "Taken together, we conclude that AHL23 is a positive regulator of plant development, the functional "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica]]"

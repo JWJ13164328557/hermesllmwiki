@@ -1,6 +1,6 @@
 ---
 title: "Specifi- cally, MdNAC1 enhances anthocyanin production by interacting with the basic leucine zipper "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad049"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MdbZIP23, MdNAC1]
+genes: [MdNAC1, MdbZIP23]
 compounds: [anthocyanin]
 ---
 

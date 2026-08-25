@@ -54,17 +54,7 @@ Photorespiration is an unavoidable process in the primary C and N metabolism of 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Ficus carica
-**方法**: metabolomics (LC-MS/GC-MS), overexpression
-**来源**: DOI:10.1111/nph.71137
-**来源类型**: PDF全文 (New Phytologist - 2026 - Sun - Guard cell photorespiration c)
-
 ### 核心发现
-1. At one hand, we found a strong positive correlation between GC PGLP1 amounts and GC starch, which was signiﬁcantly higher (c.
-2. Whether photorespiratory metabolism directly regulates guard cell function and stomatal behavior remains a matter of intense debate.
-3. These Janus-faced roles, protective but metabolically expensive, make photorespiration a key target for improving plant productivity under current and future climates (Cavanagh et al., 2022; Smith et al., 2025).
-4. Both enzymes share a strong posi- tive correlation with the photorespiratory ﬂux, CBB cycle opera- tion, starch biosynthesis, and plant growth, making them attractive targets for improved yield (Timm et al., 2012a, 2015, 2025a; Fl€ugel et al., 2017).
-5. Taken together, these observations support the hypothesis that photorespiratory ﬂux capacity, mediated through reinforcement or alleviation of nega- tive feedback on carbon utilization, could serve as a key determi- nant for sensing and translating changes in external (Ca) and internal (Ci) CO2 availability.
-6.  Efﬁcient photorespiratory metabolism is essential for proper guard cell function and acclima- tion to changing CO2 : O2 ratios.
-7. Interestingly, the recently reported GC-speciﬁc manipulation of GDC suggested a functional link between mitochondrial photorespiratory metabo- lism and stomatal regulation (Sun et al., 2025).
-8. Surprisingly, the role of PGLP1, the photorespiration-speciﬁc 2- PG-degrading enzyme, in GC is still unclear.
+
+
+**全文来源**: PubMed摘要

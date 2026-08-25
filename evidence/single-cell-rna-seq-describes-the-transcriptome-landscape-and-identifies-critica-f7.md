@@ -1,6 +1,6 @@
 ---
 title: "In summary, we proposed putative modes for epidermal development."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica]]"

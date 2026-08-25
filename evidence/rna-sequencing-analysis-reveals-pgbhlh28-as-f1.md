@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of PgDXS2 and PgHMGR2 resulted in elevated content of oleanolic acid, β-amyrin, and t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rna-sequencing-analysis-reveals-pgbhlh28-as]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae058"
 species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [PgDXS2, PgHMGR2]
+genes: [PgHMGR2, PgDXS2]
 compounds: [saponin]
 ---
 

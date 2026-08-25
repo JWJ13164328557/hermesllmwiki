@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of PbrMYB24 promoted lignin and cellulose accumulation in pear callus."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcription-factor-pbrmyb24-regulates-lignin]]"

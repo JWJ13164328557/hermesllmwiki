@@ -1,6 +1,6 @@
 ---
 title: "Elucidating plant cellular responses 46 to Cd stress is critical for the breeding of low-Cd-accumula"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[alfalfa-cadmium-sc-multiomics]]"

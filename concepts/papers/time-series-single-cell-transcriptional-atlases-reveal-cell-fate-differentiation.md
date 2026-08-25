@@ -36,17 +36,7 @@ Abstract
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Triticum aestivum, Citrus spp., Ficus carica
-**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, RNAi/VIGS, overexpression
-**来源**: DOI:10.1038/s41477-023-01544-4
-**来源类型**: PDF全文 (时间序列的单细胞转录图谱揭示了在拟南芥幼苗中由光驱动的细胞命运分化.pdf)
-
 ### 核心发现
-1. Comparison of expression atlases between wild type and the pifq mutant indicates that phytochrome-interacting factors (PIFs) are involved in distinct developmental processes in endodermal and stomatal lineage cells via controlling cell-type-specific expression of target genes.
-2. Collectively, our atlases and findings improve our understanding of the heterogeneity of light responses at cell-type resolution, facilitating studies of light signalling and cell development.
-3. Almost one-third of the direct target genes of HY5 (ref.
-4. The target genes of PIFs45,46 (PIF1, PIF3, PIF4, PIF5) were enriched in both ME1 (43/333) and ME6 (30/333), and others were iden- tified with spatial differences (Supplementary Table 8).
-5. In summary, basic light signalling networks were commonly induced in different cell types.
-6. Taken together, procambial cells were at the centre of light sensing and signalling in the shoot vasculature system.
-7. To investigate the direct function of PIFs in cell state changes, expressions of direct target genes of PIFs are illustrated in cell-type resolution in Fig.
-8. More than one-fourth (71/276) of high-expression PIF direct target genes were highly transcribed in endodermal cells, although the mutation of PIF-induced expression decrease was sim- ilar among all cell types (Fig.
+
+
+**全文来源**: PubMed摘要

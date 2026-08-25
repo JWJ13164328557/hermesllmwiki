@@ -1,6 +1,6 @@
 ---
 title: "Therefore, it is essential to characterize gene expression patterns of each cell in their native phy"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio]]"

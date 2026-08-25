@@ -1,6 +1,6 @@
 ---
 title: "Based on these results, NnGST2 was designated as a candidate downstream target gene of NnMYB5 (Fig."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiad363"
 species: [Arabidopsis thaliana, Zea mays, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [NnGST2, NnMYB5]
+genes: [NnMYB5, NnGST2]
 compounds: []
 ---
 

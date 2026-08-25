@@ -1,6 +1,6 @@
 ---
 title: "We show that SlBEL11 regulates ﬂavonoid contents in the FAZ to ﬁne‐tune auxin transport out of the f"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[slbel11-regulates-flavonoid-biosynthesis-thus-finetuning]]"

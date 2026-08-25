@@ -1,6 +1,6 @@
 ---
 title: "However, such studies often use labor-intensive proto­ cols to isolate specific cells or reporter li"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-qzae026]]"

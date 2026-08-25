@@ -1,6 +1,6 @@
 ---
 title: "In the present study, we found that 36 lipids accumulated in the RA stage (Additional file 3), while"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analyses-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "LhWRKY44 interacts with LhMYBSPLATTER and enhances the interaction between LhMYBSPLATTER and LhbHLH2"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multifaceted-roles-of-lhwrky44-in-promoting]]"

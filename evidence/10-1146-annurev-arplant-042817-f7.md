@@ -1,6 +1,6 @@
 ---
 title: "CIKs also interact with other CLV receptors and are phospho- rylated by CLV1, suggesting that they a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

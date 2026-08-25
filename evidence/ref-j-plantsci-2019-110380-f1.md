@@ -1,6 +1,6 @@
 ---
 title: "We found that many other functional genes were related to the drought response, transport, or hormon"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

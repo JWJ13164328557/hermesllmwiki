@@ -1,6 +1,6 @@
 ---
 title: "We found that N assimilation and AA metabolism in roots were dominated by the Glu-Gln/Thea- Orn-Arg "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[dissection-of-the-spatial-dynamics-of]]"

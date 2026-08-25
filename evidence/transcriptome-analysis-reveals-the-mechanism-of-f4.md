@@ -1,6 +1,6 @@
 ---
 title: "Notably, no large granules (50–300 μm) were formed under the high‑nitrogen treatment (N3)."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-the-mechanism-of]]"

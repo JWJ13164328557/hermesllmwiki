@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the decreased accumulation of flavonoid possibly attributed to the repressed biosynt"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Zea mays, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [lignin, flavonoid, phenylpropanoid]
+compounds: [phenylpropanoid, lignin, flavonoid]
 ---
 
 # Taken together, the decreased accumulation of flavonoid possibly attributed to the repressed biosynt

@@ -6289,17 +6289,9 @@ NCBI o
 
 ## 深度提炼
 
-**物种**: Ficus carica
-**方法**: transcriptomics (RNA-seq), CRISPR/Cas9
-**来源**: DOI:10.1186/s12870-021-03168-2
-**来源类型**: PDF全文 (31-中国羽衣甘蓝种子形成过程中芥子油苷代谢基因的比较转录组学分析.pdf)
+**方法**: RNA-seq
 
 ### 核心发现
-1. However, in Chinese kale, the homologs that play a crucial role in a specific meta- bolic process remain unknown, rendering it impossible to utilize gene editing for the improvement of vegetable quality.
-2. For example, the aliphatic GS transcription factor MYB28 consisted of four members in Chinese kale but only MYB28–3 was predicted to interact with SOT18–5 and AOP2–3.
-3. Interestingly, the expression of GS biosynthetic genes was higher in the silique wall compared with that in the seed albeit lower content of GS existed in the silique wall than in the seed.
-4. Therefore, an increase in the seed GS is crucial to regulate the GS content of Chinese kale sprouts.
-5. Surprisingly, aliphatic GS-related MYB28–3 interacted with the indolic GS synthetic protein SOT16– 4 and CYP83B1, which also could be regulated by MYB34, indicating a possible transcription factor- mediated crosstalk between indolic and aliphatic GSs.
-6. For example, AOP2 is critical for alkenylation of its substrates and the product GNA is the predominant GS accumulated in Chinese kale.
-7. Interestingly, the enhancement of TGG transcript level in the seed occurred during the transition from the torpedo-embryo stage to the early cotyledonary-embryo stage.
-8. (2019) revealed that func- tional nitrile-specifier proteins (NSP) are necessary for GS degradation during germination from days 4 to 10 by ana- lysis of the change in GS content in nsp mutant lines [55].
+
+
+**全文来源**: PubMed摘要

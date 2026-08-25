@@ -1,6 +1,6 @@
 ---
 title: "Strikingly, ADS, DBR2, CPR, FPS, HDR and AACT from artemisinin biosynthesis-related pathway, and CHI"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-analysis-reveals-the-parallel-transcriptional]]"
@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [flavonoid, artemisinin]
+compounds: [artemisinin, flavonoid]
 ---
 
 # Strikingly, ADS, DBR2, CPR, FPS, HDR and AACT from artemisinin biosynthesis-related pathway, and CHI

@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, our ﬁndings revealed enigmatic key steps of piperine biosynthetic pathway and thus pr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-profiling-and-transcriptome-analysis-filling]]"

@@ -1,6 +1,6 @@
 ---
 title: "These data suggest that primary roots (PR) and lateral roots (LR) had predominant Arg and Urea synth"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[dissection-of-the-spatial-dynamics-of]]"

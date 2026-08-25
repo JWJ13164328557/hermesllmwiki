@@ -1,6 +1,6 @@
 ---
 title: "Controlling for confounding effects in single cell RNA sequencing studies using both control and tar"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

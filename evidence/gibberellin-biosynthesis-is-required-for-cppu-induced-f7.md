@@ -1,6 +1,6 @@
 ---
 title: "CK plays a key role in various developmental processes, including seed germination, meristem activat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[gibberellin-biosynthesis-is-required-for-cppu-induced]]"

@@ -1,6 +1,6 @@
 ---
 title: "The protein encoded by 16B1g14180 showed clear transactivation ac- tivity when produced in yeast (Sa"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[pdf-pbi-70695]]"

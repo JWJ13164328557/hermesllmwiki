@@ -1,6 +1,6 @@
 ---
 title: "Virus-induced gene silencing To silence a target gene in N."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-sequencing-of-i-nicotiana-attenuata-i]]"

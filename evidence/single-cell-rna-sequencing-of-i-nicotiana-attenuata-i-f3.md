@@ -1,6 +1,6 @@
 ---
 title: "Among these homologs, we found that one homolog of PhODO1 and two homologs of PhEOBI/II were express"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-sequencing-of-i-nicotiana-attenuata-i]]"
@@ -8,7 +8,7 @@ doi: "10.1111/nph.17992"
 species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PhEOBI, PhODO1]
+genes: [PhODO1, PhEOBI]
 compounds: []
 ---
 

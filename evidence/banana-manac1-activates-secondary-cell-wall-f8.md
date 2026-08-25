@@ -1,6 +1,6 @@
 ---
 title: "Plant Biotechnology Journal published by Society for Experimental Biology and The Association of App"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14195"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MaICE1, MaNAC1, MaCBF1]
+genes: [MaICE1, MaCBF1, MaNAC1]
 compounds: [cellulose]
 ---
 

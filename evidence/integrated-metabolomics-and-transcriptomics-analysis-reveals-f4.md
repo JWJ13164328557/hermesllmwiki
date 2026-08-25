@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, gallocatechin 3-O-gallate and epigallocatechin-3- gallate were the common DAFs among "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomics-and-transcriptomics-analysis-reveals]]"

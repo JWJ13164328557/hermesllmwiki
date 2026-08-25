@@ -1,6 +1,6 @@
 ---
 title: "These data suggest that the esteriﬁcation of carotenoids may be important to this process via member"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"

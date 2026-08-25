@@ -1,6 +1,6 @@
 ---
 title: "The targeted mutations of progenies from T0 plants were veriﬁed by Hi-TOM sequencing analysis of the"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]"

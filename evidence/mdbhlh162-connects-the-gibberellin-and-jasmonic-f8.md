@@ -1,6 +1,6 @@
 ---
 title: "In addition to JA, gibberellin (GA) plays a key role in regulating anthocyanin biosynthesis."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbhlh162-connects-the-gibberellin-and-jasmonic]]"
@@ -9,7 +9,7 @@ species: [Malus domestica, Nicotiana tabacum, Populus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [gibberellin, anthocyanin]
+compounds: [anthocyanin, gibberellin]
 ---
 
 # In addition to JA, gibberellin (GA) plays a key role in regulating anthocyanin biosynthesis.

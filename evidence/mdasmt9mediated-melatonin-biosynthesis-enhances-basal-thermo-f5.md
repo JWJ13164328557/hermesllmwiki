@@ -1,6 +1,6 @@
 ---
 title: "ABA plays a crucial role in regulating stomatal movement, and we assessed the ABA levels in (a) (d) "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"

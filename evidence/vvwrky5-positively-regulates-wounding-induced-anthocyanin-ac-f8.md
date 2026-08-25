@@ -1,6 +1,6 @@
 ---
 title: "We found that the fusion protein VvMYBA1-GST could be pulled down by the VvWRKY5- HIS fusion protein"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvMYBA1, VvWRKY5]
+genes: [VvWRKY5, VvMYBA1]
 compounds: []
 ---
 

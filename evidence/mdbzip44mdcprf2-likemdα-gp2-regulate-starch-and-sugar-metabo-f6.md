@@ -1,6 +1,6 @@
 ---
 title: "In plants with crassulacean acid metabolism, PHS1 also plays a critical role in starch degradation i"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [glucose, starch, maltose]
+compounds: [starch, glucose, maltose]
 ---
 
 # In plants with crassulacean acid metabolism, PHS1 also plays a critical role in starch degradation i

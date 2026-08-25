@@ -1,6 +1,6 @@
 ---
 title: "In this study, we report that the Arabidopsis R2R3-MYB TF MYB30 negatively regulates sucrose-induced"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Nicotiana tabacum, Gossypium hirsutum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [sucrose, anthocyanin]
+compounds: [anthocyanin, sucrose]
 ---
 
 # In this study, we report that the Arabidopsis R2R3-MYB TF MYB30 negatively regulates sucrose-induced

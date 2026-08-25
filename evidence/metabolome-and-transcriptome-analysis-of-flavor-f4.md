@@ -1,6 +1,6 @@
 ---
 title: "Plant hormones usually interact with light signaling pathways to regulate plant growth."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-and-transcriptome-analysis-of-flavor]]"

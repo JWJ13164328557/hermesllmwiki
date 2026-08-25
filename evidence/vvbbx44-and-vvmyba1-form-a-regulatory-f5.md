@@ -1,6 +1,6 @@
 ---
 title: "We found that VvBBX44 is an indirect repressor of VvUFGT but rather a direct repressor of VvMYBA1."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[vvbbx44-and-vvmyba1-form-a-regulatory]]"

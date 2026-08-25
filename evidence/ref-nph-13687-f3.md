@@ -1,6 +1,6 @@
 ---
 title: "For example, the complementarity between small RNAs and their target genes enabled a revolution in u"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

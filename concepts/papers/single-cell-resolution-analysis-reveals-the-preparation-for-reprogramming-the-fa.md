@@ -37,17 +37,7 @@ Abstract
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Medicago spp., Gossypium hirsutum
-**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, ATAC-seq, CRISPR/Cas9, overexpression, subcellular localization
-**来源**: DOI:10.1186/s13059-023-03032-6
-**来源类型**: PDF全文 (单细胞分辨率分析揭示了棉花侧分生组织中干细胞生态位命运重编程的准备.pdf)
-
 ### 核心发现
-1. Conclusions: This study provides novel insights on the role of the regulatory network in cell fate transition and reprogramming during plant regeneration driven by somatic embryogenesis.
-2. This study provides novel insight into the transcriptomic land- scape of different cell types of cotton hypocotyl at single-cell resolution and identifies candidate genes involved in the control plant regeneration via somatic embryogenesis.
-3. Previously, we found that Agrobacterium mainly expresses the transgene in the primary vascular tissue of cot- ton hypocotyls, which then produces stably transformed callus and regenerated plants via somatic embryogenesis [10].
-4. We found that LAX2 (Ghir_D01G017380) is only expressed in cambium cells and exhibits a distinctly different expression pattern in Jin668 and TM1, with up-regulation in Jin668 and down-regulation in TM-1 after 6 HACI (Fig.
-5. In addition, we found that SAUR51 (SAUR​-like auxin-responsive protein) exhib- ited the most obvious change during this process, also indicative of a role in xylem and phloem cell dedifferentiation (Fig.
-6. 1 Primary vascular tissue of cotton hypocotyl is the primary target of Agrobacterium infection.
-7. Genome Biology (2023) 24:194 These results reveal the high degree of cell heterogeneity in hypocotyl.
-8. These results suggest that primary vascular tissue, especially the cambium and vascular paren- chyma, is the major region that responds to hormone induction during callus induction.
+
+
+**全文来源**: PubMed摘要

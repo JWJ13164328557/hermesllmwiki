@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the above results indicate that the vegetative shoot apex is composed of highly hete"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[arabidopsis-sam-scrna]]"

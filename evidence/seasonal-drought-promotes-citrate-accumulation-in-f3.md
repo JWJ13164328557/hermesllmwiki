@@ -1,6 +1,6 @@
 ---
 title: "Using the 35S::CsABF3:: GFP transgenic calli and an anti-GFP antibody, we found that all of the prom"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"

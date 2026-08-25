@@ -1,6 +1,6 @@
 ---
 title: "With TF binding mo- tifs throughout the genome determined by experiments in plants (7,8) and in sili"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

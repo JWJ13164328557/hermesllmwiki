@@ -1,6 +1,6 @@
 ---
 title: "From the ChIP-seq data, we found that genes involved in cell-cycle progression, such as CYCLIN D3;1 "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]"

@@ -1,7 +1,7 @@
 ---
 title: "Synthesis: #Methods-Tools"
-total_evidence: 198
-total_papers: 46
+total_evidence: 0
+total_papers: 0
 type: synthesis
 topics: [#methods-tools]
 
@@ -10,7 +10,7 @@ relevance_soybean: "低 — 间接关联"
 auto_discovered: true
 cluster_size: 1 tags
 status: auto-generated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 📄 Synthesis: #Methods-Tools

@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results support FSQN as the most robust normalization method in our analysis."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bty026]]"

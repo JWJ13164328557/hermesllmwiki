@@ -1,6 +1,6 @@
 ---
 title: "Expressions of the target proteins in transgene calli line were conﬁrmed by Western blotting using a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"

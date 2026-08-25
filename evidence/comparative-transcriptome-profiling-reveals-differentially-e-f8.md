@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, among these shared DEGs, only 6 and 4 DEGs presented opposing patterns of downregulat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"

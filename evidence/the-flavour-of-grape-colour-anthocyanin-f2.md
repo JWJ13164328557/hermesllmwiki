@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our results indicate that anthocyanin depletion has side-effects on grape composition "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"

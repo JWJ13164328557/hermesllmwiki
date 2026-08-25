@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that pH had a greater effect on myricetin, gossypetin, and quercetagetin: wh"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-full-length-transcriptomics-and-metabolomics-reve]]"

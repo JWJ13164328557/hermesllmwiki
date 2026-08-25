@@ -1,6 +1,6 @@
 ---
 title: "Aside from AATs, other enzymes that are essential for ester biosynthesis include fatty- acid desatur"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-and-metabolomics-integrated-analysis-reveals]]"

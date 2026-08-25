@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that the translation levels of the three CADs were signiﬁcantly decreased in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-proteomic-and-metabolic-profiles-of]]"

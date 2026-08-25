@@ -1,6 +1,6 @@
 ---
 title: "Moreover, we found that expression of PUB22 can be transcriptionally activated by MYC2, thus forming"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[the-myc2pub22jaz4-module-plays-a-crucial]]"

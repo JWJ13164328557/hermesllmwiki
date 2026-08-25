@@ -1,6 +1,6 @@
 ---
 title: "For each sample size, we randomly selected samples from the RNA- seq dataset, used each normalizatio"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bty026]]"

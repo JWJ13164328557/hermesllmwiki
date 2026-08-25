@@ -1,6 +1,6 @@
 ---
 title: "These metabolites, although not essential for the survival of these organisms, are crucial for their"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-cell-differentiation-and-initiation]]"

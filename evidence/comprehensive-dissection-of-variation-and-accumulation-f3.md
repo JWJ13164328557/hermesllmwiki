@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results help us to understand and clarify the variation and profile of major F"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comprehensive-dissection-of-variation-and-accumulation]]"

@@ -1,6 +1,6 @@
 ---
 title: "EIN3/EILs comprise a small transcription factor gene family whose members directly bind to the conse"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-insensitive-3-like-2-regulates-β-carotene-and]]"

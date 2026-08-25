@@ -1,6 +1,6 @@
 ---
 title: "In short, these results suggest that STK directly inhibits SEP3 expression at the transcriptional le"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[antagonistic-madsbox-transcription-factors-seedstick-and]]"

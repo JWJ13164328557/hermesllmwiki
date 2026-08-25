@@ -1,6 +1,6 @@
 ---
 title: "This was consistent with some previous studies in which abiotic stress could remarkably aﬀect the me"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[study-on-the-accumulation-mechanism-of]]"

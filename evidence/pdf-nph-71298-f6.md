@@ -1,6 +1,6 @@
 ---
 title: "In summary, our data revealed that wild-type calli mainly undergo H3K27me3 removal rather than an in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-nph-71298]]"

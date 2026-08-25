@@ -1,6 +1,6 @@
 ---
 title: "As expected, overexpression or knockdown of PbrMYB132 increased or decreased stone cell content in p"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[auxin-inhibits-lignin-and-cellulose-biosynthesis]]"

@@ -1,6 +1,6 @@
 ---
 title: "For the first time, we report the phosphorylation of UGAT1 at site 33, which obviously affected prot"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[multi-omics-landscape-to-decrypt-the-distinct]]"

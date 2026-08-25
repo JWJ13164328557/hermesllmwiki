@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that expression of the JA-responsive genes ARG2 and TD2 was decreased in pub22 mutant"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[the-myc2pub22jaz4-module-plays-a-crucial]]"

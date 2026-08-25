@@ -1,6 +1,6 @@
 ---
 title: "Therefore, an increase in the seed GS is crucial to regulate the GS content of Chinese kale sprouts."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[comparative-transcriptomic-analyses-of-glucosinolate-metabol]]"

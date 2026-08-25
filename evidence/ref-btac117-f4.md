@@ -1,6 +1,6 @@
 ---
 title: "Transcriptional regulation is principally con- trolled by transcription factors (TFs) that bind to D"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btac117]]"

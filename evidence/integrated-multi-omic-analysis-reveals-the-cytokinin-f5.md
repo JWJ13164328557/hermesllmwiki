@@ -1,6 +1,6 @@
 ---
 title: "Notably, an intriguing finding was that 69.6% of the total detected flavonoids were identified as fl"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-multi-omic-analysis-reveals-the-cytokinin]]"

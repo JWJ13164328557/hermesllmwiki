@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results indicated that CsPIF1 negatively influenced Thea content by effecting "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comprehensive-dissection-of-variation-and-accumulation]]"

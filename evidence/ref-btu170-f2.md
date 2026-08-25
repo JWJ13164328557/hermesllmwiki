@@ -1,6 +1,6 @@
 ---
 title: "On the other hand, most long reads can be mapped to few loca- tions in the target sequence."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btu170]]"

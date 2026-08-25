@@ -1,6 +1,6 @@
 ---
 title: "Notably, within the STR-­TDC gene cluster of O."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b4-B6ORjNkH1VSkcVpnv9C7xQ]]"

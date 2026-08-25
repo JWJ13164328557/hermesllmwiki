@@ -1,6 +1,6 @@
 ---
 title: "Among them, 21 TFs and 11 TFs were signiﬁcantly and positively or negatively related to the expressi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolome-fulllength-sequencing-and-transcriptom]]"

@@ -1,6 +1,6 @@
 ---
 title: "On the other hand, by analyzing the pathways, we found that the pathways with the greatest degree of"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[morus-alba-l-leaves-integration-of]]"

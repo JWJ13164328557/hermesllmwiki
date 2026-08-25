@@ -1,6 +1,6 @@
 ---
 title: "More importantly, dramatic increases in other sugars were not observed (SI Appendix, Table S1), supp"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-synthesis-of-xyloglucan-an-abundant]]"

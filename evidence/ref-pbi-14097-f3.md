@@ -1,6 +1,6 @@
 ---
 title: "Moreover, through integrating published QTLs and QTNs that were associated with maize Fusarium ear r"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"

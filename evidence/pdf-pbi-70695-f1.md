@@ -1,6 +1,6 @@
 ---
 title: "In this study, we report a chromosome-­level assembly of the genome from the male hexaploid kiwifrui"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[pdf-pbi-70695]]"

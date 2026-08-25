@@ -1,6 +1,6 @@
 ---
 title: "Weighted Gene Co-expression Network Analysis (WGCNA) was performed to screen gene modules or core ge"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-the-mechanism-of]]"

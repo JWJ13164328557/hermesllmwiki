@@ -1,6 +1,6 @@
 ---
 title: "In this study, we show that the Class I TCP member TCP21 participates in phyB-dependent signaling pa"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[b6-JtU6BLa8oL57zgnlWnzO_Q]]"

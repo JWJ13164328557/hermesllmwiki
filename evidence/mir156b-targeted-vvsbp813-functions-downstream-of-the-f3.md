@@ -1,6 +1,6 @@
 ---
 title: "This results in the decrease of its key downstream target genes VvSBP8 and VvSVP13, thereby inhibiti"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mir156b-targeted-vvsbp813-functions-downstream-of-the]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad293"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvSBP8, VvSVP13, VvMYC1, VvMYBA1]
+genes: [VvSBP8, VvMYC1, VvSVP13, VvMYBA1]
 compounds: [anthocyanin]
 ---
 

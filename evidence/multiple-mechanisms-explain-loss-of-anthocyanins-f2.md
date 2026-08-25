@@ -1,6 +1,6 @@
 ---
 title: "Applying bioinformatic approaches, we found further"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

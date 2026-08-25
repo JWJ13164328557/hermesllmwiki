@@ -1,6 +1,6 @@
 ---
 title: "Therefore, elucidating the molecular mechanisms underlying plant 73 responses to Cd stress is essent"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[alfalfa-cadmium-sc-multiomics]]"

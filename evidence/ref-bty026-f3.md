@@ -1,6 +1,6 @@
 ---
 title: "2.4 Feature specific quantile normalization (FSQN) For each corresponding feature (gene), we quantil"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bty026]]"

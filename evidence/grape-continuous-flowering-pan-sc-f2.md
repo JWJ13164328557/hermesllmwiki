@@ -1,6 +1,6 @@
 ---
 title: "This study provides insights into the genetic basis of CFB in grapevine, facilitating grapevine bree"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[grape-continuous-flowering-pan-sc]]"

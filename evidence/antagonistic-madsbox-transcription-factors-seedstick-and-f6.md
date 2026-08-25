@@ -1,6 +1,6 @@
 ---
 title: "We found that STK, highly expressed in the devel- oping embryo, positively regulates seed oil ac- cu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[antagonistic-madsbox-transcription-factors-seedstick-and]]"

@@ -1,6 +1,6 @@
 ---
 title: "Here, we found 532 that OsbHLH150K specifically binds to the E-box motifs in the OsNCED3 promoter an"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[osbhlh150-rice-chilling-tolera]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.xplc.2026.101919"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [OsbHLH150K, OsNCED3]
+genes: [OsNCED3, OsbHLH150K]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "GAMYB and GAMYB-like Genes are the Only Conserved Targets of miR159 Core to understanding the functi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[biology-and-function-of-mir159-in]]"

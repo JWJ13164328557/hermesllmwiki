@@ -1,6 +1,6 @@
 ---
 title: "Cells with the value 1 of target gene were regarded as the cells expressing the gene."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-sequencing-of-i-nicotiana-attenuata-i]]"

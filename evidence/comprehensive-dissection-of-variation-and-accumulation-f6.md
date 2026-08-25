@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results allow us to conclude that CsPIF1 negatively regulates the Thea content"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comprehensive-dissection-of-variation-and-accumulation]]"

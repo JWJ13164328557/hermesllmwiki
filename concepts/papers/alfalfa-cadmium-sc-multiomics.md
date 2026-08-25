@@ -41,16 +41,9 @@ updated: "2026-05-29"
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Glycine max, Nicotiana tabacum
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), multi-omics integration, single-cell RNA-seq, ATAC-seq, overexpression
-**来源**: DOI:10.1093/hr/uhag117
-**来源类型**: PDF全文 (10.1093_hr_uhag117.pdf)
+**方法**: snRNA-seq, ATAC-seq, RNA-seq
 
 ### 核心发现
-1. In summary, 179 cadmium stress disrupts multiple physiological processes, ultimately leading to overall 180 impairment of biomass accumulation and morphological development in alfalfa seedlings.
-2. 266 In summary, eight cell types were identified on the basis of the expression patterns of the 267 marker genes (Fig.
-3. The results revealed that 356 overexpression of MsMT2A in yeast significantly increased tolerance to Cd stress (Fig.
-4. In summary, our pseudotime analysis suggested 409 that Cd stress may interfere with the differentiation process in both endodermis and phloem 410 cells, although the precise underlying mechanisms require further investigation.
-5. Elucidating plant cellular responses 46 to Cd stress is critical for the breeding of low-Cd-accumulating crops.
-6. Therefore, elucidating the molecular mechanisms underlying plant 73 responses to Cd stress is essential for the development of new Cd-tolerant crop varieties [4].
-7. The GSH1 and GSH2 genes are essential for the biosynthesis of GSH [19], a key 91 player in Cd detoxification [20].
+
+
+**全文来源**: PubMed摘要

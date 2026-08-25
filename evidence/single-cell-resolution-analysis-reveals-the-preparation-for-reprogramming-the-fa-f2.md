@@ -1,6 +1,6 @@
 ---
 title: "This study provides novel insight into the transcriptomic land- scape of different cell types of cot"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-resolution-analysis-reveals-the-preparation-for-reprogramming-the-fa]]"

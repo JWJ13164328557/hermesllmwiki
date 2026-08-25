@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that GO terms enriched in PP share little overlap with those of other cell t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]"

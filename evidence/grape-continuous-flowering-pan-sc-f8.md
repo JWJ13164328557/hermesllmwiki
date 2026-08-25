@@ -1,6 +1,6 @@
 ---
 title: "Notably, chromosomes 7, 13, and 14 exhibited a concentration of these structural variants (Fig."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[grape-continuous-flowering-pan-sc]]"

@@ -63,17 +63,9 @@ This study establishes an integrated framework combining MSI and scRNA‐seq to 
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Coffea spp., Camellia sinensis, Taxus spp., Artemisia annua
-**方法**: transcriptomics (RNA-seq)
-**来源**: DOI:10.1111/pbi.70534
-**来源类型**: PDF全文 (Plant Biotechnology Journal - 2026 - Zeng - Mass Spectrometr)
+**方法**: Proteomics
 
 ### 核心发现
-1. Collectively, these findings highlight the integral role of cellular compartmentalization and intercellular transport in shaping the profile, quantity, and distribution of secondary metabolites (Guirimand et al.
-2. In summary, the method we established is suitable for the quantification of andrographolide-­type diterpenoids.
-3. In summary, single-­cell transcriptomic profiling uncovered extensive cellular diversity within A.
-4. In summary, epidermal cells primarily function in energy metabolism and defence responses, where enrichment in path­ ways such as the tricarboxylic acid (TCA) cycle and tyrosine/ phenylalanine metabolism provides the energetic and material basis for countering stresses like insect herbivory.
-5. 2.5 | The Synthesis of Andrographolide Is Influenced by Light 7 ­ ­ 7a ­ 7b–d ­ ­ ­ ­ 7d 7c ­ ­ ­ 7c S9a,b ­ 7e ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ ­ 7f,g In summary, these findings collectively suggest light intensity-­ driven spatial-­specific accumulation of andrographolides in mesophyll tissues, providing mechanistic insights into photo­ regulation of medicinal compound biosynthesis.
-6. The optimal conditions were determined through iterative testing, where the best combina­ tion of parameters was selected on the basis of the highest signal intensity and separation of the target analytes.
-7. (4) Image analysis: the edge detection, region segmentation, and feature extraction tools of HDI software were applied to identify target compound localization and distribution patterns.
-8. Interestingly, light may enhance the accumulation of andrographolide biosynthesis, confirming the light sensitivity of metab­ olism in mesophyll cells.
+
+
+**全文来源**: PubMed摘要

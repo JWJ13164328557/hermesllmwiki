@@ -1,6 +1,6 @@
 ---
 title: "In summary, these results imply that STK interacts with SEP3 in vivo and in vitro."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[antagonistic-madsbox-transcription-factors-seedstick-and]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that MdCER2 lacked the HXXXD domain, which is crucial for its function in catalysing C28 VL"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdbt2-regulates-nitrogen-mediated-cuticular-wax-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1038/s41477-023-01587-7"
 species: [Oryza sativa, Zea mays, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MdCER2L1, MdCER2, AtCER2]
+genes: [AtCER2, MdCER2, MdCER2L1]
 compounds: []
 ---
 

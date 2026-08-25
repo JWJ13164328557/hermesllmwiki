@@ -1,6 +1,6 @@
 ---
 title: "5 | Conclusion Taken together, the aerial plant phenotyping and metabolomic results highlight a coor"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[pdf-ppl-70937]]"

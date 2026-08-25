@@ -1,6 +1,6 @@
 ---
 title: "Since the CCA1-ox hypocotyls are clearly elongated, our results suggest that the activated auxin pat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[circadian-rheostat-proton-gradient-arabidopsis]]"

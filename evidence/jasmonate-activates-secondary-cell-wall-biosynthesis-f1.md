@@ -1,6 +1,6 @@
 ---
 title: "Taken together, we conclude that this MYC2-MYB46 module is a key compo- nent of the JA signaling tha"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"

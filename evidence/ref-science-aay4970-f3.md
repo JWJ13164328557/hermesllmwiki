@@ -1,6 +1,6 @@
 ---
 title: "We show how cytokinin signaling links vascular perception of lim- iting phosphate to epidermal respo"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aay4970]]"

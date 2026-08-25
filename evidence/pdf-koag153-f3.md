@@ -1,6 +1,6 @@
 ---
 title: "These 9 data together with the OsNPR1-directed changes in IPA1-OE hyperactive immune 10 phenotypes s"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[pdf-koag153]]"

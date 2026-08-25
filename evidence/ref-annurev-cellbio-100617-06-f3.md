@@ -1,6 +1,6 @@
 ---
 title: "Moreover, both WUS and WOX5 interact with TPL corepressors to mediate re- pression of their targets "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

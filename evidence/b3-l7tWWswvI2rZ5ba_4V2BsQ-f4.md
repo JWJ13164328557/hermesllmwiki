@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these findings highlight the complex regulatory dynamics of the JA and SA pathways dur"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-l7tWWswvI2rZ5ba_4V2BsQ]]"

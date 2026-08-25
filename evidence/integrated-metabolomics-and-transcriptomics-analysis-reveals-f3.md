@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, wheat plants treated by elevated O3 combined with GABA exhibited 25.9% significantly "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomics-and-transcriptomics-analysis-reveals]]"

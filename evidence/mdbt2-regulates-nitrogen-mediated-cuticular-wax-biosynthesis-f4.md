@@ -1,6 +1,6 @@
 ---
 title: "Our findings reveal an N-mediated apple wax biosynthesis pathway and lay a foundation for further st"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdbt2-regulates-nitrogen-mediated-cuticular-wax-biosynthesis]]"

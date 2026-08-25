@@ -1,6 +1,6 @@
 ---
 title: "In trichoblasts, no signal is detected with the GL2BAC probe, meaning that its target sequence is in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature04269]]"

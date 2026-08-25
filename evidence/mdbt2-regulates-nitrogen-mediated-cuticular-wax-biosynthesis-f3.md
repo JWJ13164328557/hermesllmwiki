@@ -1,6 +1,6 @@
 ---
 title: "Here we found that nitrogen (N) played a negative role in the regulation of wax synthesis in apple."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdbt2-regulates-nitrogen-mediated-cuticular-wax-biosynthesis]]"

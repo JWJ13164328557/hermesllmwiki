@@ -1,6 +1,6 @@
 ---
 title: "transcriptome sequencing and bioinformatics analysis of young soybean pods 30 and 40 d after floweri"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[analysis-of-lncrna43234-associated-cerna-network-reveals]]"

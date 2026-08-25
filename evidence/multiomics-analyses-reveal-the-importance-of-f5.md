@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these in vitro results further suggest that CsELT1 is not directly involved in carot"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"

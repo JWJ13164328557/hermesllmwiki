@@ -1,6 +1,6 @@
 ---
 title: "On the other hand, UFGT plays a critical role in the final step of the anthocyanin biosynthetic path"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-analysis-of-the-metabolome-and]]"

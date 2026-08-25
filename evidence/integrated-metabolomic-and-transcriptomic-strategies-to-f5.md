@@ -1,6 +1,6 @@
 ---
 title: "The size of a node was proportional to the degree of the node (degree of the node was defined as the"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"

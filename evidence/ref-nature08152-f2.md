@@ -1,6 +1,6 @@
 ---
 title: "Here, by comprehensively tracking limb tissues marked by an inte- grated green fluorescent protein ("
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nature08152]]"

@@ -1,6 +1,6 @@
 ---
 title: "For instance, we found in the C5 marker genes, CASPL4D2 and CASPL1D1, corroborating the recent liter"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]"

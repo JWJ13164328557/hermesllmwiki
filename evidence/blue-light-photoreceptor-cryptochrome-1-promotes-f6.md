@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results demonstrated that modulating the expression of blue light photoreceptor "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[blue-light-photoreceptor-cryptochrome-1-promotes]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, many commercial RNA amplification kits now incorporate UMI design, which significantly impr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[xylem-sc-review-pce-2025]]"

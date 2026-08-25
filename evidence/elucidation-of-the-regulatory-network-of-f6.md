@@ -1,6 +1,6 @@
 ---
 title: "We found that the accumulation of metabolites in diﬀerent tissues was not completely consistent with"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"

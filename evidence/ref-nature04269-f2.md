@@ -1,6 +1,6 @@
 ---
 title: "We found that FAS2 is required for the correct establishment of root epidermal pattern (Fig."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature04269]]"

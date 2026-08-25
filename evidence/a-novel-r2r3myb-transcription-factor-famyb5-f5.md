@@ -1,6 +1,6 @@
 ---
 title: "Additionally, the R2R3- FaMYB5 protein could interact with FaBT2 and was degraded through the ubiqui"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-novel-r2r3myb-transcription-factor-famyb5]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14024"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [FaMYB5, FaBT2]
+genes: [FaBT2, FaMYB5]
 compounds: []
 ---
 

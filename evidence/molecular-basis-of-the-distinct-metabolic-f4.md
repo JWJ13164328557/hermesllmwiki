@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that most AS isoforms had lower expression levels in comparison to their maj"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[molecular-basis-of-the-distinct-metabolic]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that 1075 proteins were upregulated and 1074 proteins were downregulated in phloem versus a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[multi-omics-landscape-to-decrypt-the-distinct]]"

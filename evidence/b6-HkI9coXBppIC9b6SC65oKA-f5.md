@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these observations support the hypothesis that photorespiratory ﬂux capacity, mediat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-HkI9coXBppIC9b6SC65oKA]]"

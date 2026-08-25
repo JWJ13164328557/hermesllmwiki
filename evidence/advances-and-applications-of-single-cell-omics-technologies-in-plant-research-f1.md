@@ -1,6 +1,6 @@
 ---
 title: "Techniques such as ChIP-seq (Park, 2009) and cleavage under targets and tagmentation (CUT&Tag) (Kaya"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[advances-and-applications-of-single-cell-omics-technologies-in-plant-research]]"

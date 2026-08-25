@@ -1,6 +1,6 @@
 ---
 title: "Notably, we identify that ZmCRY1 directly interacts with GLOSSY2 (GL2), a key acyltransferase in ver"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[zmcry1-gl2-wax-maize]]"

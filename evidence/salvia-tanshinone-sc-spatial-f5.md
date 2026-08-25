@@ -1,6 +1,6 @@
 ---
 title: "CRISPR-Cas9 mutagenesis and plant transformation For the CRISPR-Cas9 construction targeting the SmCY"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[salvia-tanshinone-sc-spatial]]"

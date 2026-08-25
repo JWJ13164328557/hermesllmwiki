@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these observations led us to conclude that the five CSLC proteins have some overlapp"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-synthesis-of-xyloglucan-an-abundant]]"

@@ -1,6 +1,6 @@
 ---
 title: "In summary, we conclude that MdbHLH162 acts as a negative regulator of anthocyanin biosynthesis."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbhlh162-connects-the-gibberellin-and-jasmonic]]"

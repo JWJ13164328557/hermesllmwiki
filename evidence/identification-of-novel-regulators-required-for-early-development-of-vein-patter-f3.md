@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results provide new insights into the early transcriptome proﬁles of leaf veins "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]"

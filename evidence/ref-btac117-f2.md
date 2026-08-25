@@ -1,6 +1,6 @@
 ---
 title: "We show that the Inferelator 3.0 is a state-of-the-art method by testing against SCENIC and CellOrac"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btac117]]"

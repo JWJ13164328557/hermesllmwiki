@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results highlight the role of SlBZR1 as a master regulator of tomato fruit ripen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-brassinosteroid-signaling-component-slbzr1-promotes]]"

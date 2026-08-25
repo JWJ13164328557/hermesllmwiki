@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the cell dimension and transcriptomic data, in addition to its well-known role in re"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-regulatory-framework-for-vascular-cambium-development-in-arabido]]"

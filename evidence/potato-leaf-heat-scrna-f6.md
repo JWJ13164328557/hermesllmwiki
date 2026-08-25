@@ -1,6 +1,6 @@
 ---
 title: "The genes of this subclus­ ter activate under heat stress, suggesting that VCs play a crucial role i"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"

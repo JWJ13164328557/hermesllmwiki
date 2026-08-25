@@ -1,6 +1,6 @@
 ---
 title: "Stomata along the undersides of leaves play a crucial role in regulating gas exchange, thus contribu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"

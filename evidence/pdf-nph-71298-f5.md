@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our data indicate that emf2 mutants exhibit a generally comparable transcriptomic re"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-nph-71298]]"

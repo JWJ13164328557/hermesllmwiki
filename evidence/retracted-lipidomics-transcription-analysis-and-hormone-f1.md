@@ -1,6 +1,6 @@
 ---
 title: "In tea, lipids play a crucial role in conferring unique characteristics to the beverage as they serv"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[retracted-lipidomics-transcription-analysis-and-hormone]]"

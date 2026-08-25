@@ -33,17 +33,7 @@ updated: "2026-05-29"
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Glycine max, Nicotiana tabacum
-**方法**: transcriptomics (RNA-seq)
-**来源**: DOI:10.1111/pce.70169
-**来源类型**: PDF全文 (Plant Cell   Environment - 2025 - Yu - Decoding Xylem Develo)
-
 ### 核心发现
-1. Although marker genes play a critical role in cell‐type annota- tion, they should be used with great caution, for example, in the following aspects: (1) The cross‐species application of marker genes is risky.
-2. Fluorescence‐activated cell sorting (FACS) holds great potential for enriching specific cell types in single‐cell studies, provided that fluorescent markers can reliably distinguish target popu- lations.
-3. Candidate genes identi- fied as cluster‐specific in multiple independent single‐cell da- tasets can serve as promising targets for future validation.
-4. Notably, these differences in xylem composition occur not only between primary and sec- ondary tissues but also among eudicots and monocots.
-5. To meaningfully integrate findings and conclusions, it is crucial to replicate key results from individual datasets, yet this process encounters several technical barriers.
-6. To enhance reproducibility, it is essential to clearly document and share all analytical conditions.
-7. Since boron is essential for maintaining cell wall structure stability, differentially expressed genes (DEGs) identified in that study were primarily associated with cell wall‐related processes in the vascular cambium and shoot apical meristem.
-8. Notably, many commercial RNA amplification kits now incorporate UMI design, which significantly improves the reli- ability of transcriptomic data generated from low‐input samples such as those obtained through LCM.
+
+
+**全文来源**: PubMed摘要

@@ -1,6 +1,6 @@
 ---
 title: "Heat stress significantly inhibits potato plant growth and tuber development, constraining the susta"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"

@@ -57,9 +57,10 @@ From single-cell RNA-sequencing (scRNA-seq) and spatial transcriptomics (ST), on
 
 
 
+
 ## 全文 (PMC)
 
-### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### PERMALINK
+### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### PERMALINK
 
 Received 2023 Aug 4; Accepted 2024 Jul 23; Issue date 2024. Open AccessThis article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visithttp://creativecommons.org/licenses/by/4.0/. From single-cell RNA-sequencing (scRNA-seq) and spatial transcriptomics (ST), one can extract high-dimensional gene expression patterns that can be described by intercellular communication networks or decoupled gene modules. These two descriptions of information flow are often assumed to occur independently. However, intercellular communication drives directed flows of information that are mediated by intracellular gene modules, in turn triggering outflows of other signals. Methodologies to describe such intercellular flows are lacking. We present FlowSig, a method that infers communi
 

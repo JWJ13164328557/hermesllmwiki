@@ -1,6 +1,6 @@
 ---
 title: "LUC assays demonstrated that StPIF4 binds to the StHSFA2 promoter and enhances its transcriptional a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.70546"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [StPIF4, StHSFA2]
+genes: [StHSFA2, StPIF4]
 compounds: []
 ---
 

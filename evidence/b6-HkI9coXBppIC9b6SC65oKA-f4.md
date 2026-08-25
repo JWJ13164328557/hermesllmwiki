@@ -1,6 +1,6 @@
 ---
 title: "Both enzymes share a strong posi- tive correlation with the photorespiratory ﬂux, CBB cycle opera- t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-HkI9coXBppIC9b6SC65oKA]]"

@@ -1,6 +1,6 @@
 ---
 title: "Mutation validation and complementation assay Target regions were ampliﬁed by PCR and sequenced to c"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[salvia-tanshinone-sc-spatial]]"

@@ -1,6 +1,6 @@
 ---
 title: "232 233 BES1 directly binds to the promoters of PFG MYBs in a BR-enhanced manner 234 Since BES1 inhi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"

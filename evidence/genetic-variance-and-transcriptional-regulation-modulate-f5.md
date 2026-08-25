@@ -1,6 +1,6 @@
 ---
 title: "Focusing on the major diterpenoids produced in trichomes, we found that the expression of key DEGs w"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-variance-and-transcriptional-regulation-modulate]]"

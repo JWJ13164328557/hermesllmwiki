@@ -1,6 +1,6 @@
 ---
 title: "In addition, phytohormone levels in the rootstock are crucial for grafting, as auxin-enriched rootst"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-O0Kt-jSykCafIUhbNCEB3g]]"

@@ -1,6 +1,6 @@
 ---
 title: "In this study, we provide key data in support of a specific molecular mechanism for transcriptional "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

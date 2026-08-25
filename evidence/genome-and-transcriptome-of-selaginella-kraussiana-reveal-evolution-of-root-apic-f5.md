@@ -1,6 +1,6 @@
 ---
 title: "qRT-PCR analyses showed that SkeuANTb was upregulated by auxin and cycloheximide (CHX, a protein syn"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic]]"

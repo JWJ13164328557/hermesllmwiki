@@ -1,6 +1,6 @@
 ---
 title: "Notably, HD2 is not related to RPD3-like proteins [45], but it shares some sequence similarities wit"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-j-bbaexp-2007-04-007]]"

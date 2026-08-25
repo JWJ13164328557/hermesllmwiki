@@ -25,11 +25,7 @@ Summary In Catharanthus roseus, monoterpenoid indole alkaloids (MIAs) are produc
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Artemisia annua, Catharanthus roseus, Ficus carica
-**方法**: transcriptomics (RNA-seq), knockout/mutant
-**来源**: DOI:10.1111/nph.19662
-**来源类型**: PDF全文 (21 长春花种子萌发过程中的细胞分化与单萜吲哚生物碱代谢的启动相结合.pdf)
-
 ### 核心发现
-1. We found that laticifers in developing embryos were morphologically differentiated and noted gradual induction of MIA biosynthesis during germination, with variation in the timing of MIA biosyn- thetic gene expression.
-2. These metabolites, although not essential for the survival of these organisms, are crucial for their environ- mental adaptation and interactions with other organisms.
+
+
+**全文来源**: PubMed摘要

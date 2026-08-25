@@ -1,6 +1,6 @@
 ---
 title: "We found that PUB22 expression is sharply upregulated upon herbivory and that loss of PUB22 results "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[the-myc2pub22jaz4-module-plays-a-crucial]]"

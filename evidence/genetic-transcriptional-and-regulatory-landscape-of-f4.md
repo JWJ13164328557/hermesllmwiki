@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the monolignol biosynthetic genes were expanded and independently evolved"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-transcriptional-and-regulatory-landscape-of]]"

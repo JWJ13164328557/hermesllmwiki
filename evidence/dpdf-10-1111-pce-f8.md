@@ -1,6 +1,6 @@
 ---
 title: "“From Trichomes to Vessels: A Novel Approach to Study Xylem Cell Development in Poplar.” Plant, Cell"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pce]]"

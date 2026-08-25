@@ -1,6 +1,6 @@
 ---
 title: "Concerning the vascular C2 cells, we found that modules 46 and 66, enriched in processes related to "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]"

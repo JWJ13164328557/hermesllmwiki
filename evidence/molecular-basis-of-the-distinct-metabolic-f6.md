@@ -1,6 +1,6 @@
 ---
 title: "lncRNAs act on target genes in two ways: one is through regulation of neighbor genes (cis-targets) b"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[molecular-basis-of-the-distinct-metabolic]]"

@@ -1,6 +1,6 @@
 ---
 title: "PbbHLH164 could directly bind to the promoter of 1-aminocyclopropane-1- carboxylate synthase, PbACS1"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-pbbhlh164-is-destabilized]]"

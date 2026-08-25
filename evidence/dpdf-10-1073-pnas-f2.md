@@ -1,6 +1,6 @@
 ---
 title: "Moreover, we show that gene networks exhibit a diversity of spatial distribution patterns in that so"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1073-pnas]]"

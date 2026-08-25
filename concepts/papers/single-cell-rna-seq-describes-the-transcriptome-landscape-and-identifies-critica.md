@@ -29,17 +29,9 @@ SummarySingle‐cell RNA‐seq (scRNA‐seq) has been highlighted as a powerful 
 
 ## 深度提炼
 
-**物种**: Zea mays, Ficus carica
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), single-cell RNA-seq, qRT-PCR validation, overexpression, subcellular localization, phylogenetics
-**来源**: DOI:10.1111/pbi.13656
-**来源类型**: PDF全文 (单细胞RNA-seq描述了转录组的景观，并确定了异四倍体花生叶片中的关键转录因子.pdf)
+**方法**: RNA-seq
 
 ### 核心发现
-1. Taken together, we conclude that AHL23 is a positive regulator of plant development, the functional explanation of which may contribute to future agronomic trait improvement in peanut breeding.
-2. We report precise spatiotemporal information, critical marker gene transcripts and deﬁne features of major leaf cell types that will allow for improvements in peanut cultivation.
-3. However, we found little evidence to support the hypoth- esis that the primordium directly converted into spongy tissue (Figure 4a).
-4. However, a small portion of epidermal tissue did appear to have evolved from the primordium (Fig- ure 5a), and we found 11 TFs involved in this process after ﬁltering of the DEG proﬁle (Table S19, Figure S11).
-5. These results suggest that palisade cells likely differentiate into spongy cells, while the epidermal cells originated earlier than the primordium.
-6. As expected, the majority of up- regulated DEGs participated in mechanisms associated with photosynthesis as mesophyll cells play a pivotal role in light capture.
-7. In summary, we proposed putative modes for epidermal development.
-8. In conclusion, we hypothesize that AHL23 positively promoted leaf cell growth, and in turn, a high growth index promoted the ﬂowering via the phytohormone pathway (Figure 7u).
+
+
+**全文来源**: PubMed摘要

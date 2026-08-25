@@ -1,6 +1,6 @@
 ---
 title: "Together, these results show that chill­ ing elicits both a core set of metabolic signatures and a v"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[pdf-ppl-70937]]"

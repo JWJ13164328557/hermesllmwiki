@@ -1,6 +1,6 @@
 ---
 title: "Two energy sen- sors, KIN10 (SNF1 KINASE HOMOLOG 10) and KIN11, also known as the catalytic subunits"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b5-kf00Og92ayHkmDBpso75bw]]"

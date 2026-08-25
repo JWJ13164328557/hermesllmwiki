@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results suggest that AP2 regulates the PA pathway at two levels."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

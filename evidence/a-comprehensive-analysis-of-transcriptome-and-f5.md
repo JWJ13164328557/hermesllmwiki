@@ -1,6 +1,6 @@
 ---
 title: "During the cotyledon expansion phase, it is necessary for cotyledon to adapt to light signal and com"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-comprehensive-analysis-of-transcriptome-and]]"

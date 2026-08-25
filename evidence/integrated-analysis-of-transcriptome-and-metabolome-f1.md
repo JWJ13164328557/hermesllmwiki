@@ -1,6 +1,6 @@
 ---
 title: "In high auxin signaling, auxin binds to the transport inhibitor response 1 (TIR1), which forms a com"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-analysis-of-transcriptome-and-metabolome]]"

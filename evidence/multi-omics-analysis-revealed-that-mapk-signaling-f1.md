@@ -1,6 +1,6 @@
 ---
 title: "Schulze, PhosPhAt goes kinases–searchable protein kinase target information in the plant phosphoryla"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-revealed-that-mapk-signaling]]"

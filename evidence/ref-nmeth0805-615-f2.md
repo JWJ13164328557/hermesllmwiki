@@ -1,6 +1,6 @@
 ---
 title: "Note the dense cluster of target protoplasts, which are delimited by the sorting gate, emitting more"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nmeth0805-615]]"

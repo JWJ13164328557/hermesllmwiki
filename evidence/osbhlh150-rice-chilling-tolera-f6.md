@@ -1,6 +1,6 @@
 ---
 title: "Here, we report 113 successful cloning of the chilling tolerance QTL, CSS12b, with OsbHLH150 identif"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[osbhlh150-rice-chilling-tolera]]"

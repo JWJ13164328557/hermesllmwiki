@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of AcbHLH144 decreased phenolic accumulation in Arabidopsis Arabidopsis lines that ov"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[acbhlh144-transcription-factor-negatively-regulates-phenolic]]"

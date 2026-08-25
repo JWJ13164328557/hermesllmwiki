@@ -54,17 +54,9 @@ Association population of P. simonii
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum, Populus spp., Coffea spp.
-**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, qRT-PCR validation, Y2H, RNAi/VIGS, overexpression, subcellular localization
-**来源**: DOI:10.1093/plphys/kiaf432
-**来源类型**: PDF全文 (kiaf432.pdf)
+**方法**: RNA-seq
 
 ### 核心发现
-1. The Skp1–Cullin–F-box (SCF) complex, a core component of the E3 ubiquitin ligase, plays a pivotal role in a variety of biological processes by mediating the ubiquitination and degradation of target proteins (Callis and Vierstra 2000; Hellmann and Estelle 2002).
-2. In summary, PsiSKP2B plays a crucial role in LR development by modulating the protein stability of WUSCHEL-RELATED HOMEOBOX 4 (PsiWOX4) and ZINC FINGER HOMEODOMAIN 9 (PsiZHD9), a process likely regulated by the auxin signaling pathway.
-3. Taken together, these results suggest that PsiSKP2B is involved in regulating LR develop­ ment positively, potentially through modulating auxin levels.
-4. By integrating GWAS and transcrip­ tomic data, we found that PsiSKP2B was specifically expressed in root tissues and significantly upregulated (P-value < 0.05, adjusted for the false discovery rate; Fig.
-5. AtSKP2 binds to S-PHASE KINASE-ASSOCIATED PROTEIN 1 (Skp1) via its F-box domain and recognizes specific substrate proteins through other structur­ al domains (leucine-rich repeat [LRRs] proteins, WD40-DOMAIN 1 [WD40]).
-6. These findings suggest that PsiSKP2B may play an important role in regulating LR development.
-7. It interacts with light, glucose, and auxin signaling pathways to finely regulate the branching angle of Arabidopsis LRs (Sharma et al.
-8. These findings suggested that PsiSKP2B plays a pivotal role in modulating transcriptional networks involved in LR development and related metabolic pathways.
+
+
+**全文来源**: PubMed摘要

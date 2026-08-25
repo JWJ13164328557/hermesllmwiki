@@ -1,6 +1,6 @@
 ---
 title: "SuS downregulation has minimal effect on sucrose content; however, this downregulation significantly"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-the-mechanism-of]]"
@@ -9,7 +9,7 @@ species: [Oryza sativa, Zea mays, Hordeum vulgare]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [sucrose, starch]
+compounds: [starch, sucrose]
 ---
 
 # SuS downregulation has minimal effect on sucrose content; however, this downregulation significantly

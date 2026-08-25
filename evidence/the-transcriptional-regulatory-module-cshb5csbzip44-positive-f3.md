@@ -1,6 +1,6 @@
 ---
 title: "Results ABA-mediated carotenoid biosynthesis is essential for citrus fruit coloration Citrus fruits "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"

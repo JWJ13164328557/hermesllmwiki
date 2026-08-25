@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that humanitarian da'wah on Instagram functions not only as a medium for diss"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-22373_al-ijtimaiyyah-v12i2-35761]]"

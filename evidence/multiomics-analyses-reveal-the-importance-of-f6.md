@@ -1,6 +1,6 @@
 ---
 title: "However, the study was not comprehensive and in-depth and more detailed information is critical to b"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"

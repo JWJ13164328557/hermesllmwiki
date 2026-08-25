@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that MeJA treatment not only affected the pathways related to the synthesis of"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"
@@ -9,7 +9,7 @@ species: [Zea mays, Solanum lycopersicum, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: [MeJA]
-compounds: [phenylpropanoid, terpenoid]
+compounds: [terpenoid, phenylpropanoid]
 ---
 
 # Furthermore, we found that MeJA treatment not only affected the pathways related to the synthesis of

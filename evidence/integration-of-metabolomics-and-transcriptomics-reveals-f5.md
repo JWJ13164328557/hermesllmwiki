@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the above evidence suggested that, compared with SH leaves, with higher trichome den"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"

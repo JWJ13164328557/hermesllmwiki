@@ -1,6 +1,6 @@
 ---
 title: "Some genes participate in the biological synthesis of regulatory factors such as abscisic acid (ABA)"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
 genes: []
-compounds: [abscisic acid, ethylene]
+compounds: [ethylene, abscisic acid]
 ---
 
 # Some genes participate in the biological synthesis of regulatory factors such as abscisic acid (ABA)

@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results indicate that there might be extensive crosstalk between the G- protei"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-djae258]]"

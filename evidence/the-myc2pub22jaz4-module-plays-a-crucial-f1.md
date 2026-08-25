@@ -1,6 +1,6 @@
 ---
 title: "Here, we report that PUB22, a plant U-box type E3 ubiquitin ligase, plays a critical role in the reg"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[the-myc2pub22jaz4-module-plays-a-crucial]]"

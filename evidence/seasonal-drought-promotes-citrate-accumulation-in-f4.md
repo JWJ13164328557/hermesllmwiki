@@ -1,6 +1,6 @@
 ---
 title: " Taken together, this study sheds new light on the regulatory module ABA-CsABF3- CsAN1-CsPH8 respon"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"
@@ -8,7 +8,7 @@ doi: "10.1111/nph.19671"
 species: [Solanum lycopersicum, Nicotiana tabacum, Citrus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CsAN1, CsABF3, CsPH8]
+genes: [CsAN1, CsPH8, CsABF3]
 compounds: []
 ---
 

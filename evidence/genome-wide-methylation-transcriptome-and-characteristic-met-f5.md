@@ -1,6 +1,6 @@
 ---
 title: "Additionally, we found 791, 783, 798, and 914 upregulated genes and 1125, 1222, 1168, and 925 downre"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genome-wide-methylation-transcriptome-and-characteristic-met]]"

@@ -1,6 +1,6 @@
 ---
 title: "The CSLC proteins have striking functional similarities in that they synthesize β-1,4–linked backbon"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-synthesis-of-xyloglucan-an-abundant]]"

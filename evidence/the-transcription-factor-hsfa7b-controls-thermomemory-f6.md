@@ -1,6 +1,6 @@
 ---
 title: "Importantly, our data show that HSFA7b also regulates ethylene response by controlling ethylene bios"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-hsfa7b-controls-thermomemory]]"

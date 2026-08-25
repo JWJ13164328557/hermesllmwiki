@@ -1,6 +1,6 @@
 ---
 title: "RGF1 INSENSITIVE 1 to 5, a group of LRR recep- tor-like kinases, are essential for the perception of"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic]]"

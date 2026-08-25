@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that ERF109 might upregulate auxin biosynthesis."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"

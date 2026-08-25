@@ -1,6 +1,6 @@
 ---
 title: "We found that campesterol was most strongly regulated by TFs, most of which were upregulated, and DG"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genome-wide-methylation-transcriptome-and-characteristic-met]]"

@@ -1,6 +1,6 @@
 ---
 title: "When N ¼ number of samples in the target distribution, d is the 1 x N unit diagonal: 1ﬃﬃﬃﬃ N p ; ."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bty026]]"

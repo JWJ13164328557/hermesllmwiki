@@ -1,6 +1,6 @@
 ---
 title: "Plants possess a wide range of UGTs, but further investigations are required to determine the specif"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

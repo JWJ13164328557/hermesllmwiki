@@ -1,6 +1,6 @@
 ---
 title: "Collectively, we conclude that the FaMYB5 is an R2R3-MYB activator involved in the composition of MB"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-novel-r2r3myb-transcription-factor-famyb5]]"

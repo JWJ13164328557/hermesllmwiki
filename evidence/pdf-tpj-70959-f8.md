@@ -1,6 +1,6 @@
 ---
 title: "The r1.1 is thought to interact with the DNA-binding domains of r70 by mimick- ing the charge of DNA"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-tpj-70959]]"

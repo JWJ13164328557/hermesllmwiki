@@ -1,6 +1,6 @@
 ---
 title: "By protein–protein interaction (PPI) analysis, we observed that the Rro4G033620 protein (RrBZ1) dire"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-scale-genome-together-with-transcriptome-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae064"
 species: [Arabidopsis thaliana, Oryza sativa, Malus domestica]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [RrNFYA, RrBZ1, RrFDX1, RrTGS1, RrGLU1]
+genes: [RrCBF, RrTGS1, RrGLU1, RrFDX1, RrNFYA]
 compounds: []
 ---
 

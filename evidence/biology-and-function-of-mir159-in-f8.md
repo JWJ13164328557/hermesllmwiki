@@ -1,6 +1,6 @@
 ---
 title: "A clear and recurrent theme is that miR159 targets a family of genes encoding R2R3 MYB transcription"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[biology-and-function-of-mir159-in]]"

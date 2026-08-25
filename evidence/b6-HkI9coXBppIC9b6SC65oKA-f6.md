@@ -1,6 +1,6 @@
 ---
 title: " Efﬁcient photorespiratory metabolism is essential for proper guard cell function and acclima- tion"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-HkI9coXBppIC9b6SC65oKA]]"

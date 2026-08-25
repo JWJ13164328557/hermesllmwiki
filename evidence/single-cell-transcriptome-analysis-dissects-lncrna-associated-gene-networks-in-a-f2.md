@@ -1,6 +1,6 @@
 ---
 title: "Notably, we observed that a list of lncRNAs, such as AthLNC018000 and 217 AthLNC011193 (Figure 5A-B)"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.xplc.2023.100717"
 species: [Arabidopsis thaliana]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AthLNC018000, AthLNC011193]
+genes: [AthLNC011193, AthLNC018000]
 compounds: []
 ---
 

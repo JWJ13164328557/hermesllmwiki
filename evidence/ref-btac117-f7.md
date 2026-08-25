@@ -1,6 +1,6 @@
 ---
 title: "Both B.subtilis (Arrieta-Ortiz et al., 2015; Nicolas et al., 2012) and S.cerevisiae (Hackett et al.,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btac117]]"

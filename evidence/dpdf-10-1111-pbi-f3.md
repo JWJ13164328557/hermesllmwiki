@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these findings establish a cellular-­level framework for camptothecin biosynthesis and"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"

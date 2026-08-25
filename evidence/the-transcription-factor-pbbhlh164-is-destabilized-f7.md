@@ -1,6 +1,6 @@
 ---
 title: " PbRAD23C/D.1 interacts with PbbHLH164 to induce the degradation of PbbHLH164."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-pbbhlh164-is-destabilized]]"

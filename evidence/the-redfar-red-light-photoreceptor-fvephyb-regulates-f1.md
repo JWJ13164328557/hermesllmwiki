@@ -1,6 +1,6 @@
 ---
 title: "We found that the P8 srl double mutant has much longer internodes than srl, suggesting a synergistic"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad232"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [FvePhyB, FveRGA1]
+genes: [FveRGA1, FvePhyB]
 compounds: []
 ---
 

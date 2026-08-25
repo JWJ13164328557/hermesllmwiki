@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, our findings suggest that SmTGA5 has a positive regulatory role in the accumulation o"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"

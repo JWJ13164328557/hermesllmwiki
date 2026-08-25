@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that broad- 336 band UV-B does not significantly affect BR lev"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"

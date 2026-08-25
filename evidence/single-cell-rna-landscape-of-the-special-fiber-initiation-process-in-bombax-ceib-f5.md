@@ -1,6 +1,6 @@
 ---
 title: "In cotton, GhSLR1 is a blocker of the phytohormone gibberellic acid; it interferes with stabilizatio"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.xplc.2023.100554"
 species: [Arabidopsis thaliana, Oryza sativa, Gossypium hirsutum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GhSLR1, GhHOX3, GhHD1]
+genes: [GhHOX3, GhSLR1, GhHD1]
 compounds: []
 ---
 

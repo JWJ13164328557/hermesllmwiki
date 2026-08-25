@@ -1,6 +1,6 @@
 ---
 title: "We found 1093 known LncRNAs and 513 novel LncRNAs in the data (Figure S9)."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

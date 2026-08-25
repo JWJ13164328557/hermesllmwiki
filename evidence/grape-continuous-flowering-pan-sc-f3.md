@@ -1,6 +1,6 @@
 ---
 title: "Among these, meristematic cells play a pivotal role in sustained growth and organogenesis, as they h"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[grape-continuous-flowering-pan-sc]]"

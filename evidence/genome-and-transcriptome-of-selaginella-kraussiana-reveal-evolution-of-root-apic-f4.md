@@ -1,6 +1,6 @@
 ---
 title: "Overall, these results show that SkeuANTb, SkeuANTa, and SkWOX13b are all expressed in the RAM with "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.cub.2023.08.061"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SkeuANTb, SkeuANTa, SkWOX13b]
+genes: [SkeuANTa, SkWOX13b, SkeuANTb]
 compounds: []
 ---
 

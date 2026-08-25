@@ -25,13 +25,11 @@ Plant (unspecified)
 
 ## 深度提炼
 
-**物种**: Hevea brasiliensis, Ficus carica
-**方法**: metabolomics (LC-MS/GC-MS), qRT-PCR validation
-**来源**: DOI:10.1016/j.foodchem.2023.137788
-**来源类型**: PDF全文 (64 整合转录组、挥发性和非挥发性代谢物图谱揭示了香椿的香气形成特征.pdf)
+**方法**: RNA-seq, Proteomics, Metabolomics
 
 ### 核心发现
-1. As two key H2S assimilation pathways, notably, the levels of the relative substrates (i.e., O-acetyl homoserine, O-acetyl serine) catalyzed by these two en­ zymes also exhibited the obvious differences in TSM and TSB.
-2. Notably, the relative abundance of S- (trans-L-propenyl)-L-cysteine was significantly higher than that of S- methyl-L-cysteine in both TSB and TSM (Table S4).
-3. Interestingly, ACSOs could further transform into some VSCs (e.g., 1-propenyl sulfenic acid) by alliinase (ALL) or by spontaneous reactions (Block, 2009; Block et al., 2018).
-4. Among the identified terpenoids, notably, sesquiterpenes showed the highest numbers and the relative abundances in TSB and TSM (Table 1).
+
+- ## 深度提炼 **物种**: Hevea brasiliensis, Ficus carica **方法**: metabolomics (LC-MS/GC-MS), qRT-PCR validation **来源**: DOI:10.1016/j.foodchem.2023.137788 **来源类型**: PDF全文 (64 整合转录组、挥发性和非挥发性代谢物图谱揭示了香椿的香气形成特征.p
+- Among the identified terpenoids, notably, sesquiterpenes showed the highest numbers and the relative abundances in TSB and TSM (Table 1).
+
+**全文来源**: PubMed摘要

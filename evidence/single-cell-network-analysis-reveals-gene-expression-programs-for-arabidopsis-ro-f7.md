@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, SWEET11 and SWEET12 are marker genes of phloem parenchyma (PP) cells in Arabidopsis l"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-network-analysis-reveals-gene-expression-programs-for-arabidopsis-ro]]"

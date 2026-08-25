@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that DcbHLH2 and DcbHLH46, which belonged to the III(d + e) subfamily, may be involve"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"

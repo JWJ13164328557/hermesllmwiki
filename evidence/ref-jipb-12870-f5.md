@@ -1,6 +1,6 @@
 ---
 title: "We found that ROS ex- hibited a rapid burst (within approximately 30 s) at the base of hypocotyl cut"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

@@ -1,6 +1,6 @@
 ---
 title: "Unlike the ERI plants, eil2-1 and eil2-2 plants showed strong leaf epinasty pheno- types, indicating"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-insensitive-3-like-2-regulates-β-carotene-and]]"

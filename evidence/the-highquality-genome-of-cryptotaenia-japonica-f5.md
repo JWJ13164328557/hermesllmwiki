@@ -1,6 +1,6 @@
 ---
 title: "MYB proteins could interact with the partner bHLH proteins to regulate anthocyanins biosynthesis in "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-highquality-genome-of-cryptotaenia-japonica]]"

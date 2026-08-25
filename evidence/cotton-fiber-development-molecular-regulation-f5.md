@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that MYB TFs do not act as isolated stage-specific switches but rather form a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"

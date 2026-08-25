@@ -1,6 +1,6 @@
 ---
 title: "Two thresholds were applied: (1) higher average expression in the target clusters compared to all ot"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"

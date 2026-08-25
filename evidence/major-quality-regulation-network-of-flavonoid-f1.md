@@ -1,6 +1,6 @@
 ---
 title: "We found that QH fruit exhibited the largest fruit size and fresh weight (Figs 1a, S1A,B)."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[major-quality-regulation-network-of-flavonoid]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, though, the ‘ﬂavonoid biosynthesis pathway’ with the highest rich Factor was signiﬁcantly s"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-revealed-that-mapk-signaling]]"

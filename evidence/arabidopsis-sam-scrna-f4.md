@@ -1,6 +1,6 @@
 ---
 title: "Of particular inter- est, we found that two clusters, I11 and I12, were speciﬁc for the root and sho"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[arabidopsis-sam-scrna]]"

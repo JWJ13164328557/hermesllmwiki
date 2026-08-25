@@ -1,6 +1,6 @@
 ---
 title: "Cortical BIN2 also phosphorylates POLAR, resulting in reduced POLAR accumulation and dissociation of"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-tplants-2019-03-007]]"

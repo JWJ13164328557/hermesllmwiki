@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these observations suggest that BBXs may interact with MYB transcrip- tion factors, in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[vvbbx44-and-vvmyba1-form-a-regulatory]]"

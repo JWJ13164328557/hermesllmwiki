@@ -1,6 +1,6 @@
 ---
 title: "266 In summary, eight cell types were identified on the basis of the expression patterns of the 267 "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[alfalfa-cadmium-sc-multiomics]]"

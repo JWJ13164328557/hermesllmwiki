@@ -25,13 +25,9 @@ SUMMARYGinger is cultivated in tropical and subtropical regions and is one of th
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum, Populus spp., Sorghum bicolor
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), genomics, EMSA, dual-luciferase reporter
-**来源**: DOI:10.1111/tpj.16625
-**来源类型**: PDF全文 (97 生姜的基因组组装揭示了基因组进化和 6-姜酚生物合成的奥秘.pdf)
+**方法**: Microscopy
 
 ### 核心发现
-1. We found evidence for one WGD event in the Z.
-2. The results of yeast one-hybrid, elec- trophoretic mobility shift, and dual-luciferase reporter gene assays showed that both ZoMYB106 and ZobHLH148 bind to the promoters of the key rate-limiting enzyme genes ZoCCOMT1 and ZoCCOMT2 in the 6-gingerol synthesis pathway and promote their transcriptional activities.
-3. Jiang et al suggested that ZoCCoAOMT and ZoHCT encode rate-limiting enzymes that play a crucial role in regulating 6-gingerol biosynthesis (Jiang et al., 2018).
-4. ZoMYB106 and ZoBHLH148 bind to the promoter of ZoCCOMT1/2.
+
+
+**全文来源**: PubMed摘要

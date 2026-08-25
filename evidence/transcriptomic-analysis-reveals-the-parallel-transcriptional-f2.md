@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that AaMYB6 belonging to cluster 18 was homologous to CmMYB6 in Chrysanthemum flowers"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-analysis-reveals-the-parallel-transcriptional]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.plaphy.2021.03.052"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AaMYB6, CmMYB6]
+genes: [CmMYB6, AaMYB6]
 compounds: []
 ---
 

@@ -25,14 +25,20 @@ Camellia sinensis
 
 ## 深度提炼
 
+**物种**: Arabidopsis, maize, soybean, tobacco
+
+**方法**: RNA-seq, Proteomics, Metabolomics
+
+### 核心发现
+
+- ## 深度提炼
+
 **物种**: Arabidopsis thaliana, Zea mays, Glycine max, Nicotiana tabacum, Hordeum vulgare
 **方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), genomics, qRT-PCR validation, phylogenetics
 **来源**: DOI:10.1021/acs.jafc.4c00488
 **来源类型**: PDF全文 (96 整合全长转录组学和代谢组学揭示了糖基转移酶参与了枸杞黄酮醇糖苷的生物合成.pdf)
 
 ### 核心发现
-1. After KEGG annotation of DAMs, we found that they were primarily concentrated in metabolic pathways, flavone and flavonol biosynthesis, secondary metabolite biosynthesis, and flavonoid biosynthesis (Figure 1D and Table S6).
-2. In this study, we found that pH had a greater effect on myricetin, gossypetin, and quercetagetin: when the value of pH was higher than 7.0, the peak area of the product peak was greatly reduced compared to that at the value of pH less than 7.0.
-3. However, when choosing galactose as the sugar donor, a large number of flavonol-glucoside products were detected, while target flavonol-galactoside products were difficult to detect.
-4. To avoid this, overexpressing transcription factors that control specific metabolite pathways could increase production levels and direct the flux to the target pathways.46−48 However, transcription factors were not introduced in this study, which may cause the target pathway to not have been regulated as well as it could have been.
-5. Interestingly, LbUGT71BX1 preferred to glycosylate the 7- OH, and LbUGT71BX2 preferred to glycosylate the 3-OH of Table 1.
+1. After KEGG annotation of DAMs, we found that they were primarily concentrated in metabolic pathways, flavone and flavonol biosynthesis, secondary metabolite biosynthesis, and flavonoid
+
+**全文来源**: PubMed摘要

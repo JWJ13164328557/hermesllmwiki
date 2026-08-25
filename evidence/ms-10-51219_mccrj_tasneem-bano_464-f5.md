@@ -1,6 +1,6 @@
 ---
 title: "- registered in the Japan Registry of Clinical Trials targets ATLL patients positive for HLA-A*02:01"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-51219_mccrj_tasneem-bano_464]]"

@@ -1,6 +1,6 @@
 ---
 title: "In summary, there is a strong consistency in the evolutionary dynamics of WGD-dgps across different "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-scale-genome-together-with-transcriptome-and]]"

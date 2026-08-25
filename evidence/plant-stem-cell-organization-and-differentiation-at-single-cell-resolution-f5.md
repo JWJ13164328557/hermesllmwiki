@@ -1,6 +1,6 @@
 ---
 title: "As expected, we found that epidermal cell differentiation correlates with up-regulation of the OUTER"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]"

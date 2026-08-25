@@ -1,6 +1,6 @@
 ---
 title: "Jasmonate (JA), a defensive hormone, plays a key role in plant adaption to environmental stress."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]"

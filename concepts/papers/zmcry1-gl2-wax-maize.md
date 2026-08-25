@@ -45,17 +45,9 @@ RNA-seq analysis reveals that blue light regulates compound biosynthesis and met
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Glycine max, Nicotiana tabacum
-**方法**: transcriptomics (RNA-seq), qRT-PCR validation, Y2H, BiFC, Co-IP, CRISPR/Cas9, overexpression, knockout/mutant
-**来源**: DOI:10.1038/s41467-025-67587-7
-**来源类型**: PDF全文 (s41467-025-67587-7.pdf)
+**物种**: maize
 
 ### 核心发现
-1. Notably, we identify that ZmCRY1 directly interacts with GLOSSY2 (GL2), a key acyltransferase in very-long-chain fatty acid metabolism, in a blue light-strengthened manner to mediate blue light-promoted C32 aldehyde accumulation, shedding new light on the enigma of the aldehyde- forming pathway in plants.
-2. We show that ZmCRYs reg- ulate transcription of genes involved in the biosynthesis of UV-B- protective metabolites (phenylpropanoids, ﬂavonoids, anthocyanins, and fatty acids56) and modulate epidermal wax accumulation and composition.
-3. Furthermore, ZmCRY1 directly interacts with GL2 in a blue light-strengthened manner to promote C32 aldehyde formation, shedding light on VLC aldehyde generation.
-4. These results suggest that these CRY1s may function redundantly in mediating blue light signaling in maize.
-5. Article https://doi.org/10.1038/s41467-025-67587-7 Nature Communications| (2026) 17:869 3 To generate multiple cry knockout mutants, we used CRISPR-Cas9 technology to target the four cryptochrome genes in the B73 back- ground.
-6. Guide RNA 1 (gRNA1) was designed to target conserved regions of ZmCRY1s, and gRNA2 targeted ZmCRY2.
-7. Collectively, these results indicate that ZmCRYs func- tion redundantly in mediating blue light signaling to regulate maize photomorphogenesis.
-8. These results suggest thatZmCRY1s and ZmCRY2 are functionally conserved with their Arabidopsis orthologs as blue light receptors.
+
+
+**全文来源**: PubMed摘要

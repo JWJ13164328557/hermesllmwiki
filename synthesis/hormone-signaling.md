@@ -2,8 +2,8 @@
 
 title: "激素与信号转导 — Synthesis"
 created: 2026-06-01
-total_evidence: 223
-total_papers: 30
+total_evidence: 40
+total_papers: 29
 type: synthesis
 tags: [hormone, signaling, synthesis]
 
@@ -284,7 +284,7 @@ BES1 ChIP-seq 和突变体代谢组提供了 BES1 调控类黄酮合成的强相
 o_discovered: true
 cluster_size: 2 tags
 status: auto-generated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 📄 Synthesis: #Hormone-Signaling & Hormone-Signaling

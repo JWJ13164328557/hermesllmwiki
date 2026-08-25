@@ -1,6 +1,6 @@
 ---
 title: "found that the signiﬁcantly overexpressed FAD gene in the development of walnut embryos should be Jr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-of-walnut-juglans-regia]]"
@@ -8,7 +8,7 @@ doi: "10.1021/acs.jafc.0c05598"
 species: [Arabidopsis thaliana, Nicotiana tabacum, Juglans regia]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [JrFAD3, AtFAD3]
+genes: [AtFAD3, JrFAD3]
 compounds: []
 ---
 

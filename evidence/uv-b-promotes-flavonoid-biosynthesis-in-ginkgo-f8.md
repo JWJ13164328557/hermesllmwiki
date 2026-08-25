@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of GbHY5 significantly promoted the accumulation of flavonoids in both ginkgo callus "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"

@@ -1,6 +1,6 @@
 ---
 title: "Soligo software (http:// sfold.wadsworth.org/cgi-bin/soligo.pl) was used to screen the interested ta"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[retracted-lipidomics-transcription-analysis-and-hormone]]"

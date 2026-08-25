@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, MYB25-like was down-regulated in ﬁbre-deﬁcient mutants of hormone- or sugar-signallin"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-scp-rna-scp-seq-reveals-fate-determination-control-of-an-individu]]"

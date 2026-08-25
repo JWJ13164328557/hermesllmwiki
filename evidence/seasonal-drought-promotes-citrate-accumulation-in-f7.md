@@ -1,6 +1,6 @@
 ---
 title: "The puriﬁed CsAN1 protein could directly bind to speciﬁcally labeled probes containing G-boxes."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"

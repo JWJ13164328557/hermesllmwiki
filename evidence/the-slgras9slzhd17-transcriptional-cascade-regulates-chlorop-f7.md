@@ -1,6 +1,6 @@
 ---
 title: "Knockout or knockdown of SlGRAS9 or SlZHD17 resulted in marked increase in chlorophyll content, repr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-slgras9slzhd17-transcriptional-cascade-regulates-chlorop]]"

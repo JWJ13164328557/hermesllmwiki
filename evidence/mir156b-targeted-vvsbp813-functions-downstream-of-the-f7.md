@@ -1,6 +1,6 @@
 ---
 title: "We further demonstrated that both VvSBP8 and VvSBP13, encoding transcriptional repressors, displayed"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mir156b-targeted-vvsbp813-functions-downstream-of-the]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad293"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [VvSBP8, VvMYC1, VvMYBA1, VvSBP13]
+genes: [VvSBP8, VvMYC1, VvSBP13, VvMYBA1]
 compounds: [anthocyanin]
 ---
 

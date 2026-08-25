@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, besides regulating MYBL2 at the transcriptional level, AP2 can also interact with MYB"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

@@ -1,6 +1,6 @@
 ---
 title: "In addition, htACCase interacts with many protein modulators to regulate its activity (Figure 3)."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"

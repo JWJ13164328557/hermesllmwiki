@@ -1,6 +1,6 @@
 ---
 title: "We found that some key MYB transcript factors were related to the ﬂavonoid synthesis pathway in our "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"

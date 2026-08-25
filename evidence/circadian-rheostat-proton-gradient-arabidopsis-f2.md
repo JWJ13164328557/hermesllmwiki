@@ -1,6 +1,6 @@
 ---
 title: "Using a genetically encoded pH sensor and a pH-sensitive dye, we show that apoplastic pH in epiderma"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[circadian-rheostat-proton-gradient-arabidopsis]]"

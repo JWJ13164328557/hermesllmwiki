@@ -1,6 +1,6 @@
 ---
 title: "Strategies to overcome fratricide include: (i) CRISPR/Cas9-mediated knockout of target antigens in C"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-51219_mccrj_tasneem-bano_464]]"

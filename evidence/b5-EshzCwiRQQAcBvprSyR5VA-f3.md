@@ -1,6 +1,6 @@
 ---
 title: "soja seeds at the mid-maturity stage, providing a molecular basis for understanding this phase and g"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b5-EshzCwiRQQAcBvprSyR5VA]]"

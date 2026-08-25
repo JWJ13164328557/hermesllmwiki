@@ -1,6 +1,6 @@
 ---
 title: "MdbZIP44 physically interacts with MdCPRF2-like Using MdbZIP44 as bait, potential MdbZIP44-interacti"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae072"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MdCPRF2, MdbZIP44]
+genes: [MdbZIP44, MdCPRF2]
 compounds: []
 ---
 

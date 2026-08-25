@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of ZmSAD1 in transgenic maize resulted in a reduced SA con- tent by 1.57% and a lower"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"

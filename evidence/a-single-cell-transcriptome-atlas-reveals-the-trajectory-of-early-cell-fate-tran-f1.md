@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results suggest that QC-like cells that develop from LRPI-like cells are in a we"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-single-cell-transcriptome-atlas-reveals-the-trajectory-of-early-cell-fate-tran]]"

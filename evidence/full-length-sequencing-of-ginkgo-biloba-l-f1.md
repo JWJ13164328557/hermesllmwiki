@@ -1,6 +1,6 @@
 ---
 title: "Our findings confirm the advantages of SMRT, which facilitated the construction a rich transcript da"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[full-length-sequencing-of-ginkgo-biloba-l]]"

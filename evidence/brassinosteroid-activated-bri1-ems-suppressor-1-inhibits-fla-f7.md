@@ -1,6 +1,6 @@
 ---
 title: "BES1 has five 168 homologue genes and we found that the single mutants of each gene had a subtle 169"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"

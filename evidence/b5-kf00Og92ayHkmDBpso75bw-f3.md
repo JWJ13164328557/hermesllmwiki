@@ -1,6 +1,6 @@
 ---
 title: "WRI1 interacts with multiple proteins, and its expression level is regulated by upstream regulators,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b5-kf00Og92ayHkmDBpso75bw]]"

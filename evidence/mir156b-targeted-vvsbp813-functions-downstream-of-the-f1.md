@@ -1,6 +1,6 @@
 ---
 title: "In summary, the gain of vv-miR156b in grape calli resulted in the downregulation of VvSBP8/13 target"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mir156b-targeted-vvsbp813-functions-downstream-of-the]]"

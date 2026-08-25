@@ -1,6 +1,6 @@
 ---
 title: "In our study, we found that, in MD and HD plants, the levels of photosynthesis-related carbohydrates"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

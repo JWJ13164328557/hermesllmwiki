@@ -1,6 +1,6 @@
 ---
 title: "WRI1 belongs to the APETALA2 (AP2TF) family and binds to the AW‐box in the promoter regions of its d"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b5-kf00Og92ayHkmDBpso75bw]]"

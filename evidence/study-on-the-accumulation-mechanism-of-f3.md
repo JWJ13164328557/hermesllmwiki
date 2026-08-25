@@ -1,6 +1,6 @@
 ---
 title: "Identification of three clones which commonly interact with the kinase domains of highly homologous "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[study-on-the-accumulation-mechanism-of]]"

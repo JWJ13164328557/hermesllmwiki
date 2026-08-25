@@ -1,6 +1,6 @@
 ---
 title: "Here, we show that APETALA2 (AP2) disrupts formation of the MBW complex to repress PA biosynthesis."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

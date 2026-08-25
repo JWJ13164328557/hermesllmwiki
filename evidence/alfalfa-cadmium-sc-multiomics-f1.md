@@ -1,6 +1,6 @@
 ---
 title: "In summary, 179 cadmium stress disrupts multiple physiological processes, ultimately leading to over"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[alfalfa-cadmium-sc-multiomics]]"

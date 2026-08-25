@@ -1,6 +1,6 @@
 ---
 title: "Based on changes in the pCYCD3;1::GUS patterns or in radial growth, we found that WOX4, Transcriptio"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-regulatory-framework-for-vascular-cambium-development-in-arabido]]"

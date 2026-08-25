@@ -1,6 +1,6 @@
 ---
 title: "to the N-box and the rest cannot bind to DNA [10]."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[acbhlh144-transcription-factor-negatively-regulates-phenolic]]"

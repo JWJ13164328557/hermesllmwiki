@@ -1,6 +1,6 @@
 ---
 title: "Finally, from the DEGs, we found that the expression levels of four OMTs, seven ABC transporters, an"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

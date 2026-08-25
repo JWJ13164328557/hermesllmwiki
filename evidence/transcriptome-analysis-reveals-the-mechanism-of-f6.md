@@ -1,6 +1,6 @@
 ---
 title: "Notably, nitrogen fertilization-regulated modules primarily occurred in the S2 and S3 stages, consis"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-the-mechanism-of]]"

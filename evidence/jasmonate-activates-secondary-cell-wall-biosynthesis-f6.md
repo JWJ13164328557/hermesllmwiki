@@ -1,6 +1,6 @@
 ---
 title: "To further conﬁrm the JA-mediated up-regulation of MYB46, we ana- lyzed the expression of MYB46 down"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"

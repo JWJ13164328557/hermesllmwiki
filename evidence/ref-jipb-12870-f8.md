@@ -1,6 +1,6 @@
 ---
 title: "Adventitious root induction lacks visible cell division and involves reprogramming of target cells f"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

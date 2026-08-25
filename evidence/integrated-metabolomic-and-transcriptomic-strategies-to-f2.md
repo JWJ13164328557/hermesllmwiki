@@ -1,6 +1,6 @@
 ---
 title: "We found the expression levels of 7 CsPAL genes were significantly down-regulated with a range of 2."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-strategies-to]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.plaphy.2020.07.048"
 species: [Arabidopsis thaliana, Zea mays, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CsPAL, CsCHS, CsANS, CsLAR, CsANR]
+genes: [CsANS, CsPAL, CsFLS, CsLAR, CsANR]
 compounds: []
 ---
 

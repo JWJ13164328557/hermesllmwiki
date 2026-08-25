@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these data conﬁrm that both the LDC and CAO participate in 1-piperideine bio- synthe"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-profiling-and-transcriptome-analysis-filling]]"

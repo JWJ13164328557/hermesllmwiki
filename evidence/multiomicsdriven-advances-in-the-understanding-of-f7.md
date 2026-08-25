@@ -1,6 +1,6 @@
 ---
 title: "Indeed, x-6 LA and x-3 ALA are required for the function of multiple physiological systems, and both"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"

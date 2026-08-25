@@ -1,6 +1,6 @@
 ---
 title: "We conclude that AP2 acts as an activator of MYBL2 to repress PA biosynthesis by disrupting formatio"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, expression of ARR7 and ARR15 spa­ tially and temporally overlaps with that of CLV3 an"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nrm3790]]"

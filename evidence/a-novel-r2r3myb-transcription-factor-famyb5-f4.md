@@ -1,6 +1,6 @@
 ---
 title: "The strawberry FaEGL3 and FaLWD1/FaLWD1-like interact with the R2R3-FaMYB5 to form an MYB- bHLH-WD40"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-novel-r2r3myb-transcription-factor-famyb5]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14024"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [FaEGL3, FaLWD1, FaMYB5]
+genes: [FaLWD1, FaEGL3, FaMYB5]
 compounds: []
 ---
 

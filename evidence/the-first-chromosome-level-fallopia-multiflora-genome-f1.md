@@ -1,6 +1,6 @@
 ---
 title: "multiflora evolution, we found 955 single-copy orthologous gene families in 11 species and utilized "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

@@ -1,6 +1,6 @@
 ---
 title: "In summary, the presented data demonstrates that our method can be used to create a genome-wide 3D g"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio]]"

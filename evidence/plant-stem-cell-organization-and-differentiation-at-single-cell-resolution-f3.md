@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results reveal that when misexpressed in leaves, KN1 promotes sheath cell diff"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]"

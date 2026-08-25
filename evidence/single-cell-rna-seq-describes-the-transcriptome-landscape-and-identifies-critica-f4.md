@@ -1,6 +1,6 @@
 ---
 title: "However, a small portion of epidermal tissue did appear to have evolved from the primordium (Fig- ur"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica]]"

@@ -1,6 +1,6 @@
 ---
 title: "The appropriate spatiotemporal coordination of these processes is essential for proper seed growth a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b5-EshzCwiRQQAcBvprSyR5VA]]"

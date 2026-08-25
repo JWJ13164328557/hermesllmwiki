@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results conﬁrmed that MYB30 interacts with MYB75."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"

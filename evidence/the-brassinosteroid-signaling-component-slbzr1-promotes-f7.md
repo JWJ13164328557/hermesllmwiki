@@ -1,6 +1,6 @@
 ---
 title: "BRI1 and BAK1 trans‐phosphorylate each other, increasing BRI1 activity that results in phos- phoryla"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-brassinosteroid-signaling-component-slbzr1-promotes]]"

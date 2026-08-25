@@ -1,6 +1,6 @@
 ---
 title: "Further analysis showed that MYB30 interacts with MYB75 to repress assembly of the MBW complex that "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"

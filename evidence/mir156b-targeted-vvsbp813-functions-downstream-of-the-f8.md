@@ -1,6 +1,6 @@
 ---
 title: "MicroRNAs (miRNAs) are 20- to 24-nucleotide endogenous small RNAs that target mRNAs via imperfect se"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mir156b-targeted-vvsbp813-functions-downstream-of-the]]"

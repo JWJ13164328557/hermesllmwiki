@@ -1,6 +1,6 @@
 ---
 title: "In summary, CsAN1 is critical for citrate accumula- tion in citrus fruit, and its structural variati"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"

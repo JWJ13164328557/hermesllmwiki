@@ -1,6 +1,6 @@
 ---
 title: "We found that severe damage occurred to apple leaves after ABA treatment at the concentration of 200"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"

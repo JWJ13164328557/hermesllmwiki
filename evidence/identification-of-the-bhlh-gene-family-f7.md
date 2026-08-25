@@ -1,6 +1,6 @@
 ---
 title: "Twenty proteins that were predicted to interact with DcbHLH2 (homologous to MYC4 for Arabidopsis) an"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"

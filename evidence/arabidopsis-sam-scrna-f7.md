@@ -1,6 +1,6 @@
 ---
 title: "Thus, these results reveal that the collection of shoot cell-type-speciﬁc or en- riched genes can ac"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[arabidopsis-sam-scrna]]"

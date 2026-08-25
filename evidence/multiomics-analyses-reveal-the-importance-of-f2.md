@@ -1,6 +1,6 @@
 ---
 title: "In this work, we report a procedure for preparing highly puriﬁed CPGs that were analyzed using weste"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"

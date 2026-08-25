@@ -1,6 +1,6 @@
 ---
 title: "ceiba, such as SLR1 (Ueguchi-Tanaka et al., 2008), MYB106 (Jakoby et al., 2008), HOX3 (Shan et al., "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]"

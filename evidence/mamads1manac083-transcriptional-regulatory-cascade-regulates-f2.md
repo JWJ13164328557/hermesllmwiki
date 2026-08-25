@@ -1,6 +1,6 @@
 ---
 title: "Here we report that ethylene biosynthesis genes, including MaACS1, MaACO1, MaACO4, MaACO5, and MaACO"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[mamads1manac083-transcriptional-regulatory-cascade-regulates]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad177"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MaACO5, MaACO8, MaACO4, MaACS1, MaACO1]
+genes: [MaACO1, MaACO5, MaACS1, MaACO4, MaACO8]
 compounds: [ethylene]
 ---
 

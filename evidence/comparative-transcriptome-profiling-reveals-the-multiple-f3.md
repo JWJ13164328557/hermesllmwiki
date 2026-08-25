@@ -1,6 +1,6 @@
 ---
 title: "napus Phytohormones play a central role in plant growth and development."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"

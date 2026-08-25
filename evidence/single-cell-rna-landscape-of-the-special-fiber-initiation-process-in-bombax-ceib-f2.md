@@ -1,6 +1,6 @@
 ---
 title: "We found that these genes were most highly expressed and concentrated in FICC6."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]"

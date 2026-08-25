@@ -1,6 +1,6 @@
 ---
 title: "Hence, we conclude that the G-box variant of the MYB46 promoter is a MYC2 binding motif and is requi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"

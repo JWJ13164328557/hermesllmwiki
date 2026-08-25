@@ -1,6 +1,6 @@
 ---
 title: "The BTB/POZ‐ MATH (BPM) family proteins, which broadly interact with AP2 TF, act as bridges between "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b5-kf00Og92ayHkmDBpso75bw]]"

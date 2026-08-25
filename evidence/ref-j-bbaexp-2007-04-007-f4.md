@@ -1,6 +1,6 @@
 ---
 title: "Maize homologs of GCN5 (ZmGCN5) and ADA2 (ZmADA2) also interact with each other in vitro and in vivo"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-j-bbaexp-2007-04-007]]"

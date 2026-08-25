@@ -1,6 +1,6 @@
 ---
 title: "In eukaryotes, TFs play a vital role in plant growth, develop- ment, and stress responses via the se"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[multi-omics-landscape-to-decrypt-the-distinct]]"

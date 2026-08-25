@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, we found that AP2m3 activated expression of the reporter gene driven by the MYBL2 prom"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

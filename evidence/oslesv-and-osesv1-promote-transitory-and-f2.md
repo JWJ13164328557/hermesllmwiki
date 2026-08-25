@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our data suggest that OsLESV and OsESV1 play an important role in 181 transitory sta"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[oslesv-and-osesv1-promote-transitory-and]]"

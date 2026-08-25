@@ -2,8 +2,8 @@
 
 title: "单细胞与空间组学 — Synthesis"
 created: 2026-06-01
-total_evidence: 550
-total_papers: 78
+total_evidence: 395
+total_papers: 58
 type: synthesis
 tags: [synthesis, single-cell, spatial-omics, transcriptomics, plant-atlas]
 
@@ -138,7 +138,7 @@ soybean_relevance: ⭐中
 ### spatial-omics-signaling (absorbed)
 : 2 tags
 status: auto-generated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 📄 Synthesis: Spatial-Omics & Signaling
@@ -185,7 +185,7 @@ updated: 2026-08-24
 ### spatial-transcriptomics (absorbed)
  tags
 status: auto-generated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 🗺️ Synthesis: Spatial-Transcriptomics
@@ -231,7 +231,7 @@ updated: 2026-08-24
 
 ### single-cell (absorbed)
 erated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 🔬 Synthesis: Single-Cell
@@ -284,7 +284,7 @@ updated: 2026-08-24
 ### plant-single-cell-scrnaseq (absorbed)
 luster_size: 2 tags
 status: auto-generated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 📄 Synthesis: Plant-Single-Cell & Scrnaseq

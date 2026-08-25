@@ -1,6 +1,6 @@
 ---
 title: "Notably, 275 TWAS‐signiﬁcant genes were associated with both seed coat and oil content."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

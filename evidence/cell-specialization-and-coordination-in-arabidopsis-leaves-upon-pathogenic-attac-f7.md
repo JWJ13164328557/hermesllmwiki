@@ -1,6 +1,6 @@
 ---
 title: "Besides, we found that module 69 is also speciﬁc to cell fate 15 (Figure 5B)."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]"

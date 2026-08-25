@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin accumu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]"

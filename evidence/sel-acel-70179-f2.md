@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that the classes of miRNAs targeting genes with a lengthened 3ʹ UTR showed tissue or "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-acel-70179]]"

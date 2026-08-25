@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, we assembled a high-quality chromosomal-level genome for a member of the family Polyg"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

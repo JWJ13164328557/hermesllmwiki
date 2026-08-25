@@ -1,6 +1,6 @@
 ---
 title: "Notably, co-­expression of OpAVT1 with AtAAP6 inhibited yeast growth compared to AtAAP6 alone, indic"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b4-B6ORjNkH1VSkcVpnv9C7xQ]]"

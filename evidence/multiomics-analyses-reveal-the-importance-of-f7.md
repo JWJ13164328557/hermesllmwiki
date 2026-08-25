@@ -1,6 +1,6 @@
 ---
 title: "The ﬁndings indicate that the nonpolar microenvironment of CPGs is essential for carotenoid accumula"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"

@@ -2,17 +2,16 @@
 title: "Synthesis: #Methods-Tools"
 type: research-program
 topic: "methods-tools"
-total_evidence: 196
+total_evidence: 198
 total_aims: 5
-evidence_basis: 198 evidence objects, 1 synthesis (methods-tools), 46 papers
 auto_generated: true
-updated: 2026-08-24
+updated: 2026-08-25
 ---
 
 # 🔬 Synthesis: #Methods-Tools
 
 ## Program Overview
-基于 196 条证据生成的 5 个实验目标。
+基于 198 条证据生成的 5 个实验目标。
 
 ## Research Aims
 
@@ -30,21 +29,35 @@ updated: 2026-08-24
 
 **Validation**: Complementation test, tissue-specific expression analysis.
 
-### Aim 2: Test ATAC function
+### Aim 2: Test PPI function
 
-**Hypothesis**: ATAC regulates UTR to control [process]
+**Hypothesis**: PPI target downstream targets to control [process]
 
 **Experimental Design**:
-1. Generate ATAC overexpression and CRISPR knockout lines in [model species]
+1. Generate PPI overexpression and CRISPR knockout lines in [model species]
 2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
 3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: ATAC-GFP fusion
+4. Subcellular localization: PPI-GFP fusion
 
 **Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
 
 **Validation**: Complementation test, tissue-specific expression analysis.
 
-### Aim 3: Test [target gene] function
+### Aim 3: Test UTR function
+
+**Hypothesis**: UTR regulates ATAC to control [process]
+
+**Experimental Design**:
+1. Generate UTR overexpression and CRISPR knockout lines in [model species]
+2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
+3. RNA-seq of WT vs mutant to identify downstream targets
+4. Subcellular localization: UTR-GFP fusion
+
+**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
+
+**Validation**: Complementation test, tissue-specific expression analysis.
+
+### Aim 4: Test [target gene] function
 
 **Hypothesis**: [Key factor] target [process] via [mechanism]
 
@@ -58,23 +71,9 @@ updated: 2026-08-24
 
 **Validation**: Complementation test, tissue-specific expression analysis.
 
-### Aim 4: Test CLUEY function
-
-**Hypothesis**: CLUEY regulates downstream targets to control [process]
-
-**Experimental Design**:
-1. Generate CLUEY overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: CLUEY-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
 ### Aim 5: Test CLUEY function
 
-**Hypothesis**: CLUEY regulates TEA to control [process]
+**Hypothesis**: CLUEY regulates downstream targets to control [process]
 
 **Experimental Design**:
 1. Generate CLUEY overexpression and CRISPR knockout lines in [model species]

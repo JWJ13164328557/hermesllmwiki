@@ -1,6 +1,6 @@
 ---
 title: "After aligning RNA-Seq reads to CPS, we found that only one reported mu­ tation G to T transversion "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-variance-and-transcriptional-regulation-modulate]]"

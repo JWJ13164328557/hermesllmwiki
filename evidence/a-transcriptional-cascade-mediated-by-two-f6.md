@@ -1,6 +1,6 @@
 ---
 title: "HY5 directly binds to the promoters of PSY1, ZISO, CRTISO, LCYE, and LCYB to regulate carotenoid bio"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"

@@ -1,6 +1,6 @@
 ---
 title: "The target genes were individually ligated into the WMV002-bar-RNAi vector using a homologous recomb"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[analysis-of-lncrna43234-associated-cerna-network-reveals]]"

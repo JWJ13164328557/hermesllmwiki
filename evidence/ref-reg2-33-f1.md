@@ -1,6 +1,6 @@
 ---
 title: "Epigenetic mechanisms play a crucial role in the regulation of cellular plasticity during the transi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-reg2-33]]"

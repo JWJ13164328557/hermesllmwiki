@@ -1,6 +1,6 @@
 ---
 title: "Alter- native polyadenylation is a crucial and ubiquitous way to modulate gene expression, mRNA meta"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-acel-70179]]"

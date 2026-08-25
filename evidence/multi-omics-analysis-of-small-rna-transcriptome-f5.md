@@ -1,6 +1,6 @@
 ---
 title: "In Fusa­ rium oxysporum, pmi-miR530, pmi-miR6173, pmi-miR6300, and pmi- Nov_13 were predicted to be "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-of-small-rna-transcriptome]]"

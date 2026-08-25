@@ -1,6 +1,6 @@
 ---
 title: "These enzymes play a crucial role in carbohydrate metabolism and energy regulation."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b6-O0Kt-jSykCafIUhbNCEB3g]]"

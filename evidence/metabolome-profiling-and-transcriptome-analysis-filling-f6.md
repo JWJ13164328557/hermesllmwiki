@@ -1,6 +1,6 @@
 ---
 title: "In summary, we proposed a relatively ﬁlling hypothesis for the pathway of piperine biosynthesis (Fig"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-profiling-and-transcriptome-analysis-filling]]"

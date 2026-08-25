@@ -1,6 +1,6 @@
 ---
 title: "Notably, our group developed an integrated online tool to explore the single-cell plant transcriptom"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]"

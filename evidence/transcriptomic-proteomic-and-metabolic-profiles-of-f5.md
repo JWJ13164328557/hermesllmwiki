@@ -1,6 +1,6 @@
 ---
 title: "Based on the analysis of the relationships of targeting and coexpression, we found that NAC (evm.mod"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-proteomic-and-metabolic-profiles-of]]"

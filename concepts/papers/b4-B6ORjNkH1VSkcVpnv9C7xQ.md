@@ -39,17 +39,7 @@ Plant secondary metabolites such as monoterpenoid indole alkaloids (MIAs) show t
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum, Nicotiana tabacum
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), CRISPR/Cas9, knockout/mutant, phylogenetics
-**来源**: DOI:10.1111/pbi.70687
-**来源类型**: PDF全文 (Plant Biotechnology Journal - 2026 - Hao - Cell‐Specific Exp)
-
 ### 核心发现
-1. Collectively, these results demon- strated that knockout of the OpAVT1 gene transiently promoted plant growth but persistently reduced camptothecin biosyn- thetic capacity (Figure S23).
-2. Collectively, these findings establish a cellular-­level framework for camptothecin biosynthesis and regulation.
-3. Notably, the genes encoding camptothecin key enzymes, strictosidine synthase (STR) and tryptophan decarboxylase (TDC), have expanded within the O.
-4. Notably, within the STR-­TDC gene cluster of O.
-5. Notably, scRNA-­seq has driven breakthroughs in understanding plant secondary metabolism, such as MIAs in C.
-6. Notably, co-­expression of OpAVT1 with AtAAP6 inhibited yeast growth compared to AtAAP6 alone, indicating that OpAVT1 mediates tryptophan efflux in yeast (Figure 6c).
-7. Notably, OpAVT1-­KO lines showed yellowish-­brown colour, suppressed root elongation and centralised growth, whereas controls were bright yellow with elongated roots and disc-­like structures.
-8. Protoplast isolation is critical for scRNA-­seq, as it captures cytoplasmic transcripts with higher UMI counts than single-­nucleus RNA sequencing (Chen, Ge, and Lu 2023; Mo and Jiao 2022).
+
+
+**全文来源**: PubMed摘要

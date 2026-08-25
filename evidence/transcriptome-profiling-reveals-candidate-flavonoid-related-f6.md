@@ -1,6 +1,6 @@
 ---
 title: "The study of the formation of major bioactive compounds in dragon’s blood is essential for further d"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

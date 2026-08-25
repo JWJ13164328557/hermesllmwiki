@@ -1,6 +1,6 @@
 ---
 title: "Notably, unlike the other flavonoid compounds, most of the quercetin derivatives (6/9) were highly a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomic-and-metabolomic-analysis-revealed]]"

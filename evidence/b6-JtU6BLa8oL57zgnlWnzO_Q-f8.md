@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these ﬁndings establish TCP21 as a key component within the phyB- HY5 signaling module"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[b6-JtU6BLa8oL57zgnlWnzO_Q]]"

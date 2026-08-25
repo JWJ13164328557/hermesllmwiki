@@ -1,6 +1,6 @@
 ---
 title: "Regulation of hypocotyl growth by CCA1 relies on multiple entry points as CCA1 activates PIFs and in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[circadian-rheostat-proton-gradient-arabidopsis]]"

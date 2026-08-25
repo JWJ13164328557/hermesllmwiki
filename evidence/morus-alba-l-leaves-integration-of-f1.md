@@ -1,6 +1,6 @@
 ---
 title: "We found that the expression levels of ﬂavonoid biosynthesis-related unigenes also increased when ha"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[morus-alba-l-leaves-integration-of]]"

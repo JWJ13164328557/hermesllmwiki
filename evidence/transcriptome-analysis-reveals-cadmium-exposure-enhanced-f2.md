@@ -1,6 +1,6 @@
 ---
 title: "After the library was qualified, the different li­ braries were pooled according to the effective co"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-cadmium-exposure-enhanced]]"

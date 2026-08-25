@@ -1,6 +1,6 @@
 ---
 title: "Remarkably, terpenoids represent a large and diverse class of natural products that contribute signi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[full-length-transcriptome-sequencing-provides-insights-into]]"

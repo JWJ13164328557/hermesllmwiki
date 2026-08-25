@@ -1,6 +1,6 @@
 ---
 title: "The DFR and ANS genes which were essential for the formation of anthocyanin, showed significant chan"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolic-and-transcriptomic-analysis-related-to]]"

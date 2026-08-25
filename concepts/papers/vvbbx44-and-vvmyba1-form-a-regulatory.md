@@ -79728,17 +79728,7 @@ B-box (BBX) proteins are a family of TFs that are characterized by the presence 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum, Malus domestica, Nicotiana tabacum
-**方法**: transcriptomics (RNA-seq), qRT-PCR validation, Y2H, EMSA, dual-luciferase reporter, CRISPR/Cas9, overexpression, knockout/mutant
-**来源**: DOI:10.1093/hr/uhad176
-**来源类型**: PDF全文 (33 VvBBX44 和 VvMYBA1 形成调节反馈回路，平衡葡萄中花青素的生物合成.pdf)
-
 ### 核心发现
-1. Collectively, these observations suggest that BBXs may interact with MYB transcrip- tion factors, in addition to HY5, to form a complex transcriptional network that regulates anthocyanin biosynthesis.
-2. Taken together, these results suggest that VvBBX44 represses VvMYBA1 either directly or indirectly via VvHY5.
-3. Collectively, these results suggest that VvBBX44 represses VvMYBA1 expression either directly or indirectly via VvHY5, while VvMYBA1 directly induces VvBBX44 expression (Figs 3 and 5).
-4. In this study, we found that loss of VvBBX44 function resulted in increased anthocyanin accumulation in grapevine callus.
-5. We found that VvBBX44 is an indirect repressor of VvUFGT but rather a direct repressor of VvMYBA1.
-6. Moreover, we found that VvMYBA1-overexpressing grapevine suspension cells turned red (Supplementary Data Fig.
-7. In this study, we found that VvBBX44-knockout grape callus had higher anthocyanin content than EV callus under light conditions (Fig.
-8. VvMYBA1, but not VvBBX44, directly modulates the expression of grape UDP flavonoid 3-O-glucosyltransferase (VvUFGT).
+
+
+**全文来源**: PubMed摘要

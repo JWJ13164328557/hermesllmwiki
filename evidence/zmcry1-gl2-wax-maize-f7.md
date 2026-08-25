@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results indicate that ZmCRYs func- tion redundantly in mediating blue light sign"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[zmcry1-gl2-wax-maize]]"

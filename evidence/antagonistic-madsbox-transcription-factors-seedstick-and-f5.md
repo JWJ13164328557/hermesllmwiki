@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, STK's ability to bind to them was not altered when an empty MBP was added, whereas in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[antagonistic-madsbox-transcription-factors-seedstick-and]]"

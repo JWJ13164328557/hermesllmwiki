@@ -1,6 +1,6 @@
 ---
 title: "HDA19 can interact with TOPLESS/TOPLESS-LIKE PROTEIN (TPL/TPR) to form the TPL-HDA19 repression comp"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

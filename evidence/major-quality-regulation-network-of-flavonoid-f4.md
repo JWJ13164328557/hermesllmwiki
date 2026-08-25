@@ -1,6 +1,6 @@
 ---
 title: "Importantly, transcription factor LrMYB94 was found to regulate LrFLS, LrCHS and LrF3H, while LrWRKY"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[major-quality-regulation-network-of-flavonoid]]"
@@ -8,7 +8,7 @@ doi: "10.1111/nph.19602"
 species: [Nicotiana tabacum, Pyrus spp., Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [LrCHS, LrCYP75B1, LrWRKY32, LrFLS, LrMYB94]
+genes: [LrWRKY32, LrCYP75B1, LrCHS, LrF3H, LrFLS]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "This study provides new information for dis- covering more anthocyanin biosynthesis repressors and e"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbhlh162-connects-the-gibberellin-and-jasmonic]]"

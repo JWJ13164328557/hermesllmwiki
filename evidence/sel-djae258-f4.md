@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results provide a clear demonstration that idr1–1 mutation is able to largely al"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-djae258]]"

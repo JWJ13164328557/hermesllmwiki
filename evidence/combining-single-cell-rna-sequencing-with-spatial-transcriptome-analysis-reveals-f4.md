@@ -1,6 +1,6 @@
 ---
 title: "Understanding wood formation has thus attracted signiﬁcant attention, as wood is critical for carbon"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[combining-single-cell-rna-sequencing-with-spatial-transcriptome-analysis-reveals]]"

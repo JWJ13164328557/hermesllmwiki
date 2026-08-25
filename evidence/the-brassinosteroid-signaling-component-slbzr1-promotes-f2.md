@@ -1,6 +1,6 @@
 ---
 title: "Here, we explored how brassinosteroids (BRs) regulate fruit ripening in to- mato (Solanum lycopersic"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-brassinosteroid-signaling-component-slbzr1-promotes]]"

@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we discovered that the expression of VvMYBA1 and its target gene VvUFGT was also up-r"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvMYBA1, VvUFGT]
+genes: [VvUFGT, VvMYBA1]
 compounds: []
 ---
 

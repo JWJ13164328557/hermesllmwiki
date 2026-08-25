@@ -1,6 +1,6 @@
 ---
 title: "While MSI1 homologs regulate ﬂoral transitions and gametogenesis in plants,[42,45,58–69] our results"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[rice-blast-sc-spatial]]"

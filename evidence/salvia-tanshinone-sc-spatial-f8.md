@@ -1,6 +1,6 @@
 ---
 title: "Notably, MS/MS spectra acquired from root extracts of 2-yr-old plants exhibited high consistency wit"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[salvia-tanshinone-sc-spatial]]"

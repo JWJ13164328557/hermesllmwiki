@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, this study provides an in-depth transcriptome analysis on elucidation of molecular me"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

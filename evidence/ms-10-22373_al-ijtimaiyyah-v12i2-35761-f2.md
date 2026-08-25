@@ -1,6 +1,6 @@
 ---
 title: "Importantly, every fundraising appeal was accompanied by visual documentation of aid implementation "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-22373_al-ijtimaiyyah-v12i2-35761]]"

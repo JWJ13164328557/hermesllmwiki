@@ -1,6 +1,6 @@
 ---
 title: "Using long-term demographic and foraging records, we show that foraging range in wandering albatross"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1213351]]"

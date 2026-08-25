@@ -1,6 +1,6 @@
 ---
 title: "Therefore, cell identity and function can be partially depicted by the 174 expression of TFs and the"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]"

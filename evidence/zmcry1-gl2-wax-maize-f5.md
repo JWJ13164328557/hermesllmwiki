@@ -1,6 +1,6 @@
 ---
 title: "Article https://doi.org/10.1038/s41467-025-67587-7 Nature Communications| (2026) 17:869 3 To generat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[zmcry1-gl2-wax-maize]]"

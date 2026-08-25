@@ -1,6 +1,6 @@
 ---
 title: "We found evidence for one WGD event in the Z."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[a-genome-assembly-of-ginger-zingiber]]"

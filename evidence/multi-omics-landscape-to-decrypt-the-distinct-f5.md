@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, recent research has identified certain members of the MYB and WRKY gene families as key"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[multi-omics-landscape-to-decrypt-the-distinct]]"

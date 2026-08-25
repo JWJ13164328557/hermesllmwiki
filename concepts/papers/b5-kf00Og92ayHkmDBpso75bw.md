@@ -39,17 +39,7 @@ Plant oils play a crucial role in human nutrition, industrial applications and b
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Glycine max, Brassica napus
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), proteomics, overexpression, GWAS, QTL mapping
-**来源**: DOI:10.1111/jipb.13834
-**来源类型**: PDF全文 (JIPB - 2025 - Wei - The comprehensive regulatory network in )
-
 ### 核心发现
-1. Notably, the module promotes oil body formation via upregulation of GmOLEO2, but not GmOLEO1 (Lu et al., 2021a).
-2. Zhang is fully responsible for the distribution of all materials associated with this article) Wei Wei Qingxin Song ABSTRACT Plant oils play a crucial role in human nutrition, industrial applications and biofuel production.
-3. WRI1 interacts with multiple proteins, and its expression level is regulated by upstream regulators, including members of the LAFL net- work.
-4. The production of FAs and their transport from the plastid to the ER play a crucial role in TAG accumulation.
-5. Oleosins play a key role in maintaining the size and stability of oil bodies, ensuring they remain as discrete units.
-6. WRI1 belongs to the APETALA2 (AP2TF) family and binds to the AW‐box in the promoter regions of its downstream genes (Maeo et al., 2009).
-7. The BTB/POZ‐ MATH (BPM) family proteins, which broadly interact with AP2 TF, act as bridges between WRI1 and CULLIN3.
-8. Two energy sen- sors, KIN10 (SNF1 KINASE HOMOLOG 10) and KIN11, also known as the catalytic subunits of SnRK1 (Sucrose non‐ fermenting‐1 Related Kinase 1), were reported to interact with WRI1.
+
+
+**全文来源**: PubMed摘要

@@ -1,6 +1,6 @@
 ---
 title: "Remarkably, over 7 million metric tons of cashew apples are produced annually based on global cashew"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-analysis-of-the-metabolome-and]]"

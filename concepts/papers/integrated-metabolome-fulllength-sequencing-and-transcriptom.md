@@ -25,14 +25,9 @@ SUMMARYBougainvillea is a typical tropical flower of great ornamental value due 
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Malus domestica, Nicotiana tabacum, Vitis vinifera, Citrus spp.
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation, overexpression, phylogenetics
-**来源**: DOI:10.1111/tpj.16439
-**来源类型**: PDF全文 (51 综合代谢组、全长测序和转录组分析揭示了Bougainvillea × buttiana 'Chitra'金丝雀黄色)
+**方法**: RNA-seq, Metabolomics
 
 ### 核心发现
-1. Among them, 21 TFs and 11 TFs were signiﬁcantly and positively or negatively related to the expression levels of corresponding target gene.
-2. Thereafter, Pearson correlation analysis was conducted for the purpose of determining the gene expression levels between the predicted TFs and the rele- vant target genes.
-3. Among them, 78 TFs were signiﬁcantly positively, and 92 TFs were signiﬁcantly negatively related to the expression levels of correspond- ing target genes, respectively.
-4. The number of TFs was counted after eliminating the repetitions based on the fact that one TF binds to many structural genes.
-5. Prediction and screening of transcription factors Identifying several TFs is crucial for gaining a comprehen- sive understanding of the molecular regulatory mechanism of the structural genes that contribute to the formation of red bract color.
+
+
+**全文来源**: PubMed摘要

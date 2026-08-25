@@ -1,6 +1,6 @@
 ---
 title: "AtbZIP10 and AtbZIP53 form a het- erodimer that specifically binds to the promoter of proline dehy- "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae072"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [AtbZIP53, AtbZIP10]
+genes: [AtbZIP10, AtbZIP53]
 compounds: []
 ---
 

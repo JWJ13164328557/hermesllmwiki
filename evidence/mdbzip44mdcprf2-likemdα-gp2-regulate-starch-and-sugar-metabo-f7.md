@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these findings indicated that MdbZIP44 overexpression enhanced the accumulation of s"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "genetic perturbation"
 quality: "high"
 genes: [MdbZIP44]
-compounds: [sucrose, starch]
+compounds: [starch, sucrose]
 ---
 
 # Taken together, these findings indicated that MdbZIP44 overexpression enhanced the accumulation of s

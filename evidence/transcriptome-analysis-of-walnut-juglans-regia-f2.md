@@ -1,6 +1,6 @@
 ---
 title: "The mutation, overexpression, or heterotopic expression of these genes will have an important inﬂuen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-of-walnut-juglans-regia]]"

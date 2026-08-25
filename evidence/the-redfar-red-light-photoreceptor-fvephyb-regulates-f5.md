@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results demonstrate the important role of FvePhyB in regulating plant architec"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

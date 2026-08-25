@@ -1,6 +1,6 @@
 ---
 title: "Almost one-third of the direct target genes of HY5 (ref."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]"

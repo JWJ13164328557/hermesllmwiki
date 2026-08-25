@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that MYB30 can form a complex with MYB75, but it does not physically interac"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Nicotiana tabacum, Gossypium hirsutum]
 evidence_type: "protein interaction"
 quality: "medium"
 genes: []
-compounds: [sucrose, anthocyanin]
+compounds: [anthocyanin, sucrose]
 ---
 
 # In this study, we found that MYB30 can form a complex with MYB75, but it does not physically interac

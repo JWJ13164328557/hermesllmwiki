@@ -1,6 +1,6 @@
 ---
 title: "Taken together, LrWRKY32 and LrMYB94 positively regulated LrFLS and LrCYP75B1 expression via binding"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[major-quality-regulation-network-of-flavonoid]]"
@@ -8,7 +8,7 @@ doi: "10.1111/nph.19602"
 species: [Nicotiana tabacum, Pyrus spp., Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [LrFLS, LrWRKY32, LrCYP75B1, LrMYB94]
+genes: [LrFLS, LrWRKY32, LrMYB94, LrCYP75B1]
 compounds: []
 ---
 

@@ -2,8 +2,8 @@
 
 title: "基因组与进化 — Synthesis"
 created: 2026-06-01
-total_evidence: 327
-total_papers: 50
+total_evidence: 0
+total_papers: 0
 type: synthesis
 tags: [synthesis, genomics, evolution, genome-assembly, comparative-genomics, GWAS, polyploidization, domestication]
 

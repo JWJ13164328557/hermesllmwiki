@@ -1,6 +1,6 @@
 ---
 title: "The pathways identified here including phenylpropanoid metabolism, aromatic amino acid biosynthesis,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[pdf-ppl-70937]]"

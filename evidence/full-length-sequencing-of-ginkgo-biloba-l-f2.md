@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that further research on the synthesis of terpenoids in ginkgo seeds would be "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[full-length-sequencing-of-ginkgo-biloba-l]]"

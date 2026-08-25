@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, these genes showed almost no expression in SGT (supplemental Figure 3D), but tissue RN"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[combining-single-cell-rna-sequencing-with-spatial-transcriptome-analysis-reveals]]"

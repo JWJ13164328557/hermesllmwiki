@@ -1,6 +1,6 @@
 ---
 title: "In tetraploid wheat, AGL6 interacts with multi- ple classes of MADS-box genes within the ABCDE model"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b3-qnkDB6_AeT3N0ZaAwqrgng]]"

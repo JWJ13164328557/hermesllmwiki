@@ -1,6 +1,6 @@
 ---
 title: "Cellular entry mechanisms HTLV-1 entry into target cells involves a coordinated three- receptor inte"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers]
 source: "[[ms-10-51219_mccrj_tasneem-bano_464]]"

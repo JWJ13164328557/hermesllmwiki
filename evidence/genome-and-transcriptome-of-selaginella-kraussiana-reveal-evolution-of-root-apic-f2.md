@@ -1,6 +1,6 @@
 ---
 title: "Our results reveal that the auxin-euANT-WOX module as well as SHR-SCR and peptide signaling molecula"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic]]"

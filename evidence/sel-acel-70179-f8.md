@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that sub- species-speciﬁc poly(A) site usage may be involved in the difference"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-acel-70179]]"

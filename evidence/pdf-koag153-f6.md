@@ -1,6 +1,6 @@
 ---
 title: "32 To determine whether OsNPR1 is required for IPA1 function, IPA1-OE plants with 33 an Osnpr1 mutat"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[pdf-koag153]]"

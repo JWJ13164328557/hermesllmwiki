@@ -1,6 +1,6 @@
 ---
 title: "Activated BSK1 binds to and activates the phosphatase BRI1‐suppressor1 (BSU1), which leads to dephos"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-brassinosteroid-signaling-component-slbzr1-promotes]]"

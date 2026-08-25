@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the numbers of upreg- ulated (437) and downregulated (282) DEGs detected under middle"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-djae258]]"

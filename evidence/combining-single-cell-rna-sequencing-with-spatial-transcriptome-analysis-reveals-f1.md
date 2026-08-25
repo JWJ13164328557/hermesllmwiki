@@ -1,6 +1,6 @@
 ---
 title: "In summary, xylem and phloem differentiation in PGT and SGT involves both shared molecular networks "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[combining-single-cell-rna-sequencing-with-spatial-transcriptome-analysis-reveals]]"

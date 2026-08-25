@@ -1,6 +1,6 @@
 ---
 title: "PbrMYB24 binds to the AC elements and MBS in the promoters of SCW biosynthesis genes In order to det"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcription-factor-pbrmyb24-regulates-lignin]]"

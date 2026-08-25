@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found an R2R3- FaMYB5 TF could regulate the metabolism of anthocyan"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-novel-r2r3myb-transcription-factor-famyb5]]"

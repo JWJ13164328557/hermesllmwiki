@@ -1,6 +1,6 @@
 ---
 title: "This insight into the composite nature of the complex provides clues about how the polymerase intera"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-tpj-70959]]"

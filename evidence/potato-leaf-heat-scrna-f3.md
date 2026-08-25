@@ -1,6 +1,6 @@
 ---
 title: "Among these, epidermal cells (ECs), as primary sensors of external tem­ perature, play a critical ro"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"

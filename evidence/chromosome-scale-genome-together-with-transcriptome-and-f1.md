@@ -1,6 +1,6 @@
 ---
 title: "We found complete and parallel syntenic orthologs at one end of chromosome 1 and on the other six ch"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-scale-genome-together-with-transcriptome-and]]"

@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that loss of VvBBX44 function resulted in increased anthocyanin accumulation"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[vvbbx44-and-vvmyba1-form-a-regulatory]]"

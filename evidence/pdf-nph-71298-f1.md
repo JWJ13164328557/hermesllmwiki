@@ -1,6 +1,6 @@
 ---
 title: "Altogether, by inte- grating the time-course transcriptomic data, we conclude that emf2 calli are ab"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[pdf-nph-71298]]"

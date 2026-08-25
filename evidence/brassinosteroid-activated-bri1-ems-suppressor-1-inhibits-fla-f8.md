@@ -1,6 +1,6 @@
 ---
 title: "BES1 directly binds to the promoters of 42 these MYBs in a BR-enhanced manner to repress their expre"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"

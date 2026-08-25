@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these data reveal Figure 1."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbhlh162-connects-the-gibberellin-and-jasmonic]]"

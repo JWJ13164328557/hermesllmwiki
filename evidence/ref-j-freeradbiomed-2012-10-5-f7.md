@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that H2O2 generated via NADPH oxidases might be required for the appropriate g"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

@@ -1,6 +1,6 @@
 ---
 title: " In conclusion, the high-resolution spatiotemporal atlas of gene expression provided by scRNA-Seq r"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-rna-sequencing-of-i-nicotiana-attenuata-i]]"

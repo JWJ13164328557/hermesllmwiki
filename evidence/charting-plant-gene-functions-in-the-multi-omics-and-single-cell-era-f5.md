@@ -1,6 +1,6 @@
 ---
 title: "For example, using an in vitro kinase assay and transient expression in Nicotiana benthamiana, a pre"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[charting-plant-gene-functions-in-the-multi-omics-and-single-cell-era]]"

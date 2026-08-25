@@ -25,17 +25,7 @@ SUMMARYFormation of secondary cell wall (SCW) is tightly regulated spatiotempora
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Malus domestica, Glycine max, Manihot esculenta, Ficus carica
-**方法**: ChIP-seq/qPCR, qRT-PCR validation, EMSA, overexpression, Western blot, promoter-GUS assay
-**来源**: DOI:10.1111/tpj.16541
-**来源类型**: PDF全文 (41 茉莉酸通过MYC2-MYB46模块激活次生细胞壁生物合成.pdf)
-
 ### 核心发现
-1. Taken together, we conclude that this MYC2-MYB46 module is a key compo- nent of the JA signaling that controls SCW formation.
-2. Hence, we conclude that the G-box variant of the MYB46 promoter is a MYC2 binding motif and is required for MYC2-dependent activation.
-3. JA-dependent SCW formation is mediated by MYC2 With the conclusion that JA activates SCW formation (Fig- ure 2) and MYC2 directly activates MYB46 expression (Figure 3), we hypothesized that MYC2 plays a critical role in JA-mediated SCW formation.
-4. Based on these observations and prior knowl- edge that MYC2 is a central regulator in JA signaling, we conclude that MYC2 is necessary for JA-activated SCW formation.
-5. The MYC2OX/nst1-1 pLants had increased expression of MYB46 downstream target genes (Figure S6b) and SCW formation in the stem (Figure S6c), conﬁrming that MYC2 directly activates MYB46 without the involvement of NST1.
-6. To further conﬁrm the JA-mediated up-regulation of MYB46, we ana- lyzed the expression of MYB46 downstream target genes CESA4, CESA8, 4CL1, and PAL4 at 24 hpt.
-7. MYC2 binds to and activates the MYB46 promoter In light of the JA-mediated upregulation of MYB46 function (Figures 1 and 2), we carried out Yeast-1-Hybrid (Y1H) screening using MYB46 promoter as bait to ﬁgure out MYB46 upstream regulator.
-8. We conclude that this MYC2-MYB46 module is a key component of the plant response to JA in SCW formation.
+
+
+**全文来源**: PubMed摘要

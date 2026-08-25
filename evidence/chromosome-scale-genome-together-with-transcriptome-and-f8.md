@@ -1,6 +1,6 @@
 ---
 title: "In summary, we provided a multidimensional perspective on the genetic foundation and molecular mecha"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[chromosome-scale-genome-together-with-transcriptome-and]]"

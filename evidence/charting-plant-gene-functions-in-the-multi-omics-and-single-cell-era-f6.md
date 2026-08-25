@@ -1,6 +1,6 @@
 ---
 title: "Aside from genes known to be essential in anaerobic metabolism and hypoxia response, such as the PCO"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[charting-plant-gene-functions-in-the-multi-omics-and-single-cell-era]]"

@@ -1,6 +1,6 @@
 ---
 title: "All of these sgRNAs were designed to target the ﬁrst exon or conserved domain of each BnaTT gene and"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]"

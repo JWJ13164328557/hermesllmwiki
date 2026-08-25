@@ -1,6 +1,6 @@
 ---
 title: "The target genes of PIFs45,46 (PIF1, PIF3, PIF4, PIF5) were enriched in both ME1 (43/333) and ME6 (3"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]"

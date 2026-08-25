@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, our observation that at least one gene in the phenylpropanoid pathway, PAL1 , shifts "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-koac167]]"

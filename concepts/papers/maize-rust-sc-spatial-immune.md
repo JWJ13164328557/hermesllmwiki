@@ -39,10 +39,7 @@ Chili pepper (Capsicum annuum L.) produces specialized metabolites, notably the 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Triticum aestivum, Citrus spp., Capsicum annuum
-**方法**: transcriptomics (RNA-seq), single-cell RNA-seq
-**来源**: DOI:10.1038/s41477-026-02293-w
-**来源类型**: PDF全文 (s41477-026-02293-w.pdf)
-
 ### 核心发现
-1. Notably, photosynthetic, stress-responsive and meristematic cells in both palisade and spongy mesophylls were inter- spersed rather than forming continuous, distinct spatial layers at the cur- rent spatial resolution (Fig.
+
+
+**全文来源**: PubMed摘要

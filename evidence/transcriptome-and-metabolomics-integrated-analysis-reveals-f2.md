@@ -1,6 +1,6 @@
 ---
 title: "In summary, volatile esters are essential aroma compounds for flavor formation in apple fruit, but t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-and-metabolomics-integrated-analysis-reveals]]"

@@ -1,6 +1,6 @@
 ---
 title: "These data suggest that transcription of histone-modifying genes is also dependent on histone acetyl"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-j-bbaexp-2007-04-007]]"

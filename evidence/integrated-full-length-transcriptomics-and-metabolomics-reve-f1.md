@@ -1,6 +1,6 @@
 ---
 title: "After KEGG annotation of DAMs, we found that they were primarily concentrated in metabolic pathways,"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-full-length-transcriptomics-and-metabolomics-reve]]"

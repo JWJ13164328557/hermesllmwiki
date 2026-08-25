@@ -1,6 +1,6 @@
 ---
 title: "In total, we identified 184 representative regulons governed by 181 141 distinct TFs across all cell"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]"

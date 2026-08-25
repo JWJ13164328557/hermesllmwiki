@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our study determined that CPPU-induced melon fruit set is dependent on GA biosynthesis"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[gibberellin-biosynthesis-is-required-for-cppu-induced]]"

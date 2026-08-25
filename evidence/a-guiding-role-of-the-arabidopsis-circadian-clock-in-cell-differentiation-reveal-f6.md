@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the circa- dian clock is generally involved in the process of cell differ"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]"

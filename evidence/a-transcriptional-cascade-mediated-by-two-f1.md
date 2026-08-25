@@ -1,6 +1,6 @@
 ---
 title: "The transcription factor SlBBX20 directly binds to the G‐box 2 motif in the PSY1 promoter and regula"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"
@@ -8,8 +8,8 @@ doi: "10.1111/jipb.13650"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [SlMYB72, SlBBX20]
-compounds: [lycopene, carotenoid]
+genes: [SlBBX20, SlMYB72]
+compounds: [carotenoid, lycopene]
 ---
 
 # The transcription factor SlBBX20 directly binds to the G‐box 2 motif in the PSY1 promoter and regula

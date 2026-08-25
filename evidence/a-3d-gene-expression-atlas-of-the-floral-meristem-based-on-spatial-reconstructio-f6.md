@@ -1,6 +1,6 @@
 ---
 title: "✉email: jose.muino@hu-berlin.de NATURE COMMUNICATIONS | (2022) 13:2838 | https://doi.org/10.1038/s41"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio]]"

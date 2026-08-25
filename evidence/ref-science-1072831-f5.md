@@ -1,6 +1,6 @@
 ---
 title: "Experiments showing that COP1 interacts with HY5 through the WD-40 repeats both in vitro and in vivo"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

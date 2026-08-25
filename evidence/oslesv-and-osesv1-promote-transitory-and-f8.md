@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results demonstrated that the Trp-enriched regions, 225 functioning as SBDs, are"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[oslesv-and-osesv1-promote-transitory-and]]"

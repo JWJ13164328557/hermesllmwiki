@@ -1,6 +1,6 @@
 ---
 title: "We found that the ap2-6 mutant with a much darker seed color accumulates more PA than the wild type "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

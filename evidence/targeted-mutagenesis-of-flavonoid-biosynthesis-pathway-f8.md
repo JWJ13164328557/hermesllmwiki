@@ -1,6 +1,6 @@
 ---
 title: "A total of 96 putative off-target sites were identiﬁed for 15 sgRNAs, and no off-target editing was "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]"

@@ -1,6 +1,6 @@
 ---
 title: "As two key H2S assimilation pathways, notably, the levels of the relative substrates (i.e., O-acetyl"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-transcriptome-volatile-and-non-volatile]]"

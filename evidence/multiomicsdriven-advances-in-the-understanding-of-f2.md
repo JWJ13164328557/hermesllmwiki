@@ -1,6 +1,6 @@
 ---
 title: "Subsequently, we emphasize the pro- gress made in the biological roles of key genes involved in FA a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"

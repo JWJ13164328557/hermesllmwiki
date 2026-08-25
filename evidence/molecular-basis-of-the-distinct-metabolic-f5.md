@@ -1,6 +1,6 @@
 ---
 title: "The target genes of lncRNAs were predicted by two approaches based on two modes."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[molecular-basis-of-the-distinct-metabolic]]"

@@ -1,6 +1,6 @@
 ---
 title: "The MYC2OX/nst1-1 pLants had increased expression of MYB46 downstream target genes (Figure S6b) and "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"

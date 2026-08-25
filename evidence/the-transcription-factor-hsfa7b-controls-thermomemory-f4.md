@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our data suggest that HSFA7b, with a minor effect from HSFA7a, regulates expression of"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-hsfa7b-controls-thermomemory]]"

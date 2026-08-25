@@ -1,6 +1,6 @@
 ---
 title: "Taken together, procambial cells were at the centre of light sensing and signalling in the shoot vas"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]"

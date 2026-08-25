@@ -1,6 +1,6 @@
 ---
 title: "These results show that wounding stress promoted the accumulation of dragon’s blood in the tissue of"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-profiling-reveals-candidate-flavonoid-related]]"

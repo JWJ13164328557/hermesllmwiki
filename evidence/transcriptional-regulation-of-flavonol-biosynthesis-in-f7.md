@@ -1,6 +1,6 @@
 ---
 title: "hybrida, an SG19 R2R3-MYB protein, FhMYB21L2, could directly target and regulate one FLS member, FhF"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that three ﬂavones (luteolin, apigenin, and vitexin), one ﬂavanonol (taxifolin), and two ﬂa"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[temporospatial-flavonoids-metabolism-variation-in-ginkgo]]"

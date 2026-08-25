@@ -1,6 +1,6 @@
 ---
 title: "These comprehensive in vitro and in vivo biochemical assays systematically demonstrate that GsCDC48-"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b5-EshzCwiRQQAcBvprSyR5VA]]"

@@ -1,6 +1,6 @@
 ---
 title: "In summary, there have been no studies so far that have unrav­ eled the mechanisms that allow maize "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[pdf-ppl-70937]]"

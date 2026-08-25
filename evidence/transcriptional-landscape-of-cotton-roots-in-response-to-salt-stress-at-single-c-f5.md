@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the root sur- face could play important roles as the ﬁrst barrier and sit"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]"

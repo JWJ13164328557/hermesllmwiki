@@ -1,6 +1,6 @@
 ---
 title: "As a massive element, N plays a important role in apple growth and development and organ building, a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdbt2-regulates-nitrogen-mediated-cuticular-wax-biosynthesis]]"

@@ -1,6 +1,6 @@
 ---
 title: "In recent decades, with the rapid development of high-throughput omics technology (e.g., genomics, t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-lysine]]"

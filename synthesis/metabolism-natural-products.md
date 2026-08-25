@@ -1,8 +1,8 @@
 ---
 title: "代谢与天然产物 — Synthesis"
 created: 2026-06-01
-total_evidence: 1032
-total_papers: 149
+total_evidence: 197
+total_papers: 92
 type: synthesis
 tags: [synthesis, metabolism]
 
@@ -145,7 +145,7 @@ relevance_soybean: "低 — 间接关联"
 auto_discovered: true
 cluster_size: 8 tags
 status: auto-generated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 🍇 Synthesis: Flavonoid & Terpenoid & Starch-Sugar
@@ -170,7 +170,7 @@ relevance_soybean: "低 — 间接关联"
 auto_discovered: true
 cluster_size: 8 tags
 status: auto-generated
-updated: 2026-08-24
+updated: 2026-06-01
 ---
 
 # 📄 Synthesis: Papers & #Metabolism-Np & Development

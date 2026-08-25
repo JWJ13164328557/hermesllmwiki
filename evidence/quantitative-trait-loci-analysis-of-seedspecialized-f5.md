@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, however, two UGTs, Solyc12g096870 and Solyc12g098600, were highly expressed and showe"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[quantitative-trait-loci-analysis-of-seedspecialized]]"

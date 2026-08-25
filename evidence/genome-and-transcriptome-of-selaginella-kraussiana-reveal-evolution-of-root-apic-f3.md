@@ -1,6 +1,6 @@
 ---
 title: "The auxin signaling pathway directly upre- gulates euAINTEGUMENTAb (SkeuANTb), and then SkeuANTb dir"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.cub.2023.08.061"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtPLT, SkeuANTa, AtWOX5, SkWOX13b, SkeuANTb]
+genes: [AtWOX5, SkeuANTa, SkeuANTb, SkWOX13b, AtPLT]
 compounds: [auxin]
 ---
 

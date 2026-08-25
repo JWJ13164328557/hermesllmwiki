@@ -1,6 +1,6 @@
 ---
 title: "120 Here we report that BRs negatively affect plant tolerance to UV-B stress."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"

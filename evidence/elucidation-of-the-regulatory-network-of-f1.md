@@ -1,6 +1,6 @@
 ---
 title: "One study previously revealed that rutin contents were majorly ﬂavone metabolites in the ﬂowers and "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"

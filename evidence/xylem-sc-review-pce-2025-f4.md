@@ -1,6 +1,6 @@
 ---
 title: "Notably, these differences in xylem composition occur not only between primary and sec- ondary tissu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[xylem-sc-review-pce-2025]]"

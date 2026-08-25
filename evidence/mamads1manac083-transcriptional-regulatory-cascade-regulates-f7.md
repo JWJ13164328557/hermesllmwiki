@@ -1,6 +1,6 @@
 ---
 title: "MaMADS1 directly binds to the MaNAC083 promoter To assess MaNAC083 upstream regulators, a Y1H screen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[mamads1manac083-transcriptional-regulatory-cascade-regulates]]"

@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that CsPH8 serves as a direct target of CsAN1."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"

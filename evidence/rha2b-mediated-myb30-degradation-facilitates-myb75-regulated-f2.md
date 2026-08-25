@@ -1,6 +1,6 @@
 ---
 title: "We found that MYB30 competes with TT8 and EGL3 to interact with MYB75, therefore inhibiting the asse"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"

@@ -1,6 +1,6 @@
 ---
 title: "In these cases, using chromatin accessibility determined by a standard ATAC in combination with the "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btac117]]"

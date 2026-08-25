@@ -1,6 +1,6 @@
 ---
 title: "SlEIL2 also directly binds to the EBS elements in the promoters of SlMIOX1 and SlGPP3 genes, thus re"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-insensitive-3-like-2-regulates-β-carotene-and]]"

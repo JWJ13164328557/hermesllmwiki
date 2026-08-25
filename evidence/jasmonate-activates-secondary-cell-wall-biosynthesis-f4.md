@@ -1,6 +1,6 @@
 ---
 title: "Based on these observations and prior knowl- edge that MYC2 is a central regulator in JA signaling, "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"

@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that both the BnaTT2 and BnaTT8 genes exhibited lower expression in Bnatts t"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]"

@@ -23500,17 +23500,7 @@ Scutellaria baicalensis , a widely used medicinal plant, has had its active ingr
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Medicago spp., Daucus carota, Salvia miltiorrhiza, Ficus carica
-**方法**: transcriptomics (RNA-seq), multi-omics integration, proteomics, CRISPR/Cas9, Western blot, subcellular localization, phylogenetics
-**来源**: DOI:10.1093/hr/uhad258
-**来源类型**: PDF全文 (81 多组学图谱解密黄芩在多个组织中不同的类薰衣草素生物合成过程.pdf)
-
 ### 核心发现
-1. From Pearson’s correlation coefficient, we found that sample groups displayed obvious clustering (Supplementary Data Fig.
-2. We found that 1075 proteins were upregulated and 1074 proteins were downregulated in phloem versus aerial parts (Sup- plementary Data Fig.
-3. By sequence alignment, we found that CHS1 in this study and SbCHS2 (protein accession number, AMW91736), reported previously, have 99% sequence similarity, with only three amino acids differing (Supplemen- tary Data Fig.
-4. For the first time, we report the phosphorylation of UGAT1 at site 33, which obviously affected protein expression.
-5. Furthermore, recent research has identified certain members of the MYB and WRKY gene families as key transcription factors (TFs) that play a crucial role in promoting flavone biosynthesis in S.
-6. Of particular note is that contig 239.110 is a 4-CoA ligase enzyme that predominantly interacts with PAL enzymes (Fig.
-7. In eukaryotes, TFs play a vital role in plant growth, develop- ment, and stress responses via the self-regulation and expression regulation of target genes [24].
-8. In a previous study, SbMYB3, functioning as a positive regulator, was shown to bind to the promoter of SbFNSII-2, thereby promoting RSF biosynthesis in S.
+
+
+**全文来源**: PubMed摘要

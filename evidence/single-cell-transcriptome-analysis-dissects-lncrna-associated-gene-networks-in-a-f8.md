@@ -1,6 +1,6 @@
 ---
 title: "As expected, the 184 regulon activity and the expression level of target genes colocalized over the "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]"

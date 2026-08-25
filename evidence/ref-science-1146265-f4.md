@@ -1,6 +1,6 @@
 ---
 title: "We found that maternal b-cell mass increased by twofold (fig."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1146265]]"

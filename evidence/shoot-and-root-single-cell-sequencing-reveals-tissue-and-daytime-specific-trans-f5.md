@@ -1,6 +1,6 @@
 ---
 title: "Further, we found clusters that are specified by dominant expression patterns possessed by cells at "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]"

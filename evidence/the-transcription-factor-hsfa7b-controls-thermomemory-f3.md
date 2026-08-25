@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our data show that HSFA7b controls ethylene homeostasis during thermopriming, enabli"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-hsfa7b-controls-thermomemory]]"

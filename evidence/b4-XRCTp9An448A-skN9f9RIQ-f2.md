@@ -1,6 +1,6 @@
 ---
 title: "Importantly, the stopping condition can be specified such that the algorithm continues to recluster "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[b4-XRCTp9An448A-skN9f9RIQ]]"

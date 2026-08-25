@@ -1,6 +1,6 @@
 ---
 title: "We found that GULP1 knockdown reduced proliferation of both cell lines as measured by a colorimetric"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aax0249]]"

@@ -1,6 +1,6 @@
 ---
 title: "AATC encodes aspartate aminotransferase which is important for the metabolism of Asp and Asp-derived"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[study-on-the-accumulation-mechanism-of]]"

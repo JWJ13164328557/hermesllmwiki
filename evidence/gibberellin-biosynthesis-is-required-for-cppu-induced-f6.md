@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that CmRR2 may directly activate CmGA20ox1 expression."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[gibberellin-biosynthesis-is-required-for-cppu-induced]]"

@@ -1,6 +1,6 @@
 ---
 title: "In the ﬂavone synthesis regulation network, we found that FtMYB31 could contribute to the regulation"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[elucidation-of-the-regulatory-network-of]]"
@@ -8,7 +8,7 @@ doi: "10.1021/acs.jafc.1c00190"
 species: [Oryza sativa, Nicotiana tabacum, Citrus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [FtMYB31, FtCHS3, FtCHI]
+genes: [FtCHS3, FtMYB31, FtCHI]
 compounds: []
 ---
 

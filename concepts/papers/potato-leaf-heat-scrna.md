@@ -56,17 +56,7 @@ In this study, through a comprehensive analysis of cell‐type‐specific marker
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Solanum lycopersicum, Populus spp., Gossypium hirsutum
-**方法**: qRT-PCR validation, EMSA, RNAi/VIGS, overexpression, promoter-GUS assay
-**来源**: DOI:10.1111/pbi.70546
-**来源类型**: PDF全文 (10.1111_pbi.70546WILEYl.pdf)
-
 ### 核心发现
-1. Heat stress significantly inhibits potato plant growth and tuber development, constraining the sustainable development of the potato indus­ try.
-2. 1 | Introduction Potato (Solanum tuberosum L.), a globally important food crop, plays a crucial role in global food security and economic development (Gao et al.
-3. Among these, epidermal cells (ECs), as primary sensors of external tem­ perature, play a critical role in heat-­stress response.
-4. Two thresholds were applied: (1) higher average expression in the target clusters compared to all other clusters, and (2) expression in ≥ 25% of cells within the target clusters and < 25% of cells in non-­target clus­ ters.
-5. Node 1 corresponds to the differenti­ ation of PLCs toward MCs, while Node 2 is associated with EC aggregation, which becomes more pronounced under elevated temperatures, suggesting that genes associated with Node 2 may play a critical role in thermal responses (Table S8).
-6. The genes of this subclus­ ter activate under heat stress, suggesting that VCs play a crucial role in heat stress responses.
-7. Collectively, these results demonstrated that StPIF4 was a positive regulator of heat-­stress response pathway in potato.
-8. LUC assays demonstrated that StPIF4 binds to the StHSFA2 promoter and enhances its transcriptional activity (Figure S6B,C).
+
+
+**全文来源**: PubMed摘要

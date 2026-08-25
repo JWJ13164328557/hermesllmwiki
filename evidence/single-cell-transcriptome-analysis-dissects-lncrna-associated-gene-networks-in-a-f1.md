@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these findings suggest that the 225 identified xylem-specific lncRNAs might have poten"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]"

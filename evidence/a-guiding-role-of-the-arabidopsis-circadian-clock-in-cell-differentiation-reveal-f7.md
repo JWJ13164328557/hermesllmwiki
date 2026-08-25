@@ -1,6 +1,6 @@
 ---
 title: "BES1 directly suppressed LHY expression during cell differentiation BES1 plays a pivotal role in the"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]"

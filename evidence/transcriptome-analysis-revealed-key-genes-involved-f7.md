@@ -1,6 +1,6 @@
 ---
 title: "This is supported by the enriched 15/20 DEGs in the Isoflavonoid biosynthesis pathway at 3 and 6 h o"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[transcriptome-analysis-revealed-key-genes-involved]]"

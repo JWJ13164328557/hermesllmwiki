@@ -1,6 +1,6 @@
 ---
 title: "Notably, there are six screened-genes concentrated in lysine biosynthesis (Table S6): one AK (XP_021"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-lysine]]"

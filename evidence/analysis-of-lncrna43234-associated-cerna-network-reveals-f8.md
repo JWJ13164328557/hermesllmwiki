@@ -1,6 +1,6 @@
 ---
 title: "The lncRNAs MSTRG.33053 and targeted protein-coding genes showed upregulated expression levels, and "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[analysis-of-lncrna43234-associated-cerna-network-reveals]]"

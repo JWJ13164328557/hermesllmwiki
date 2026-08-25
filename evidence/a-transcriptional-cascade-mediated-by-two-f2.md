@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that SlAP2c represses lycopene bi- osynthesis by interacting w"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
 genes: [SlAP2c]
-compounds: [lycopene, carotenoid]
+compounds: [carotenoid, lycopene]
 ---
 
 # Taken together, these results suggest that SlAP2c represses lycopene bi- osynthesis by interacting w

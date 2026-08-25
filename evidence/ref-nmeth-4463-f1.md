@@ -1,6 +1,6 @@
 ---
 title: "The transcriptional state of a cell emerges from an underlying gene regulatory network (GRN) in whic"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nmeth-4463]]"

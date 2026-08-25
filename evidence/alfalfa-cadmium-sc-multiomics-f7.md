@@ -1,6 +1,6 @@
 ---
 title: "The GSH1 and GSH2 genes are essential for the biosynthesis of GSH [19], a key 91 player in Cd detoxi"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[alfalfa-cadmium-sc-multiomics]]"

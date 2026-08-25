@@ -1,6 +1,6 @@
 ---
 title: "Collectively, the enriched GO terms induced by idr1–1 mutation appear to be concentrated on alterati"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-djae258]]"

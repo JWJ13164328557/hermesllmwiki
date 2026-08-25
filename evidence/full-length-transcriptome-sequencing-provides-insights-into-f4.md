@@ -1,6 +1,6 @@
 ---
 title: "Metabolite and target transcript analyses during Crocus sativus stigma development."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[full-length-transcriptome-sequencing-provides-insights-into]]"

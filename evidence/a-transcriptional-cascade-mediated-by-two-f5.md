@@ -1,6 +1,6 @@
 ---
 title: "Notably, the EAR motif‐containing transcription factor MaERF11 was also shown to directly interact w"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13650"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MaACO1, MaHDA1, MaERF11]
+genes: [MaHDA1, MaERF11, MaACO1]
 compounds: []
 ---
 

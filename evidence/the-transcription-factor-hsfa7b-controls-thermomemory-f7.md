@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that expression of HSFA7b, but not HSFA7a, is mediated by ethylene during HS"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[the-transcription-factor-hsfa7b-controls-thermomemory]]"

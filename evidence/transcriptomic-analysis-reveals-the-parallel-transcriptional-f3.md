@@ -1,6 +1,6 @@
 ---
 title: "Our recent work showed that, overexpression of AaHY5 increased the artemisinin content in trans­ gen"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-analysis-reveals-the-parallel-transcriptional]]"

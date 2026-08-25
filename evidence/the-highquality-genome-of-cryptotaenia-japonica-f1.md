@@ -1,6 +1,6 @@
 ---
 title: "The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjapo- nica_2.2062 (bHLH) and Cjaponica_1."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-highquality-genome-of-cryptotaenia-japonica]]"
@@ -8,7 +8,7 @@ doi: "10.1111/tpj.16628"
 species: [Arabidopsis thaliana, Citrus spp., Daucus carota]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CjANSa, CjDFRb, CjF3H]
+genes: [CjF3H, CjANSa, CjDFRb]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "These results suggested that loss of OpAVT1 impaired intracellular tryptophan transport, disrupting "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"

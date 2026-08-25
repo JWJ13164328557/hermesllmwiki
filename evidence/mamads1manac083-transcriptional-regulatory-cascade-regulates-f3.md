@@ -1,6 +1,6 @@
 ---
 title: "MaNAC083 directly targets ethylene biosynthesis genes To understand the regulatory techniques that i"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[mamads1manac083-transcriptional-regulatory-cascade-regulates]]"

@@ -1,6 +1,6 @@
 ---
 title: "As predicted, we found that myb30 plants accumulated higher levels of anthocyanins than Col-0 plants"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"

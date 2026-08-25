@@ -1,6 +1,6 @@
 ---
 title: "Our findings reveal the relationship between massive elemental N and wax biosynthesis and systematic"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdbt2-regulates-nitrogen-mediated-cuticular-wax-biosynthesis]]"

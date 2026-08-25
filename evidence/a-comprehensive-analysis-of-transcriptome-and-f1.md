@@ -1,6 +1,6 @@
 ---
 title: "The internal reference gene, ribosomal protein subunit 9 (Rsp9), was employed to assess the expresse"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-comprehensive-analysis-of-transcriptome-and]]"

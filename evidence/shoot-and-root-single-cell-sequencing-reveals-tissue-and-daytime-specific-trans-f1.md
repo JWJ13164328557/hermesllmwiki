@@ -1,6 +1,6 @@
 ---
 title: "For the root, we found 11,750 dif- ferentially expressed genes (DEGs) (6,121 up- and 5,629 down-regu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]"

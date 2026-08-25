@@ -25,14 +25,7 @@ Summary Hydrolyzable tannins (HTs), predominant polyphenols in oaks, are widely 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum, Nicotiana tabacum, Populus spp.
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), multi-omics integration, genomics, qRT-PCR validation, dual-luciferase reporter, subcellular localization, phylogenetics
-**来源**: DOI:10.1111/nph.19711
-**来源类型**: PDF全文 (30 三种橡树中可水解单宁生产的生化标记--b-葡萄糖醛酸不同生物合成的基因组基础.pdf)
-
 ### 核心发现
-1. Notably, sequence variations in UGT84A13 promoters led to different trans-activating activities of WRKY32/59, explaining the different expression patterns of UGT84A13 among the three species.
-2. Notably, different oak species, particularly Q.
-3. Notably, the b-glucogallin had the highest correlation coefﬁcient with the total HTs, whereas gallic acid showed a negative correlation with b-glucogallin (Fig.
-4. Notably, this UGT was the closest homolog of QrUGT84A13, which has been functionally characterized in Q.
-5. Notably, Qva contained one more W-box in the promoter of UGT84A13 than Qal and Qde, suggesting a possible distinct regulation by WRKY TFs.
+
+
+**全文来源**: PubMed摘要

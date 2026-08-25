@@ -1,6 +1,6 @@
 ---
 title: "When handling hundreds or thousands of plants in several different experiments per day or week, it i"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-erv265]]"

@@ -1,6 +1,6 @@
 ---
 title: "Knockout of SlAP2c in two tomato cultivars resulted in greater accumulation of carotenoids, particul"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "genetic perturbation"
 quality: "high"
 genes: [SlAP2c]
-compounds: [lycopene, carotene]
+compounds: [carotene, lycopene]
 ---
 
 # Knockout of SlAP2c in two tomato cultivars resulted in greater accumulation of carotenoids, particul

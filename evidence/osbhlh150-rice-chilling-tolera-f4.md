@@ -1,6 +1,6 @@
 ---
 title: "Further investigations 26 mechanistically uncovered a phosphorylation-dependent regulatory axis of 2"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[osbhlh150-rice-chilling-tolera]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.xplc.2026.101919"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [OsMAPK3, OsNCED3, OsbHLH150]
+genes: [OsbHLH150, OsNCED3, OsMAPK3]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Solanum lycopersicum BEL1‐LIKE HOMEODOMAIN11 (SlBEL11) directly promotes SlMYB111 expression in the "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[slbel11-regulates-flavonoid-biosynthesis-thus-finetuning]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13627"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SlBEL11, SlMYB111, SlBEL111]
+genes: [SlMYB111, SlBEL11, SlBEL111]
 compounds: []
 ---
 

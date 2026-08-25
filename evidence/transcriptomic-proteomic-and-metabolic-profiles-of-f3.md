@@ -1,6 +1,6 @@
 ---
 title: "It is speculated that the upregulation of NAC and HD-ZIP transcription factors activates the express"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-proteomic-and-metabolic-profiles-of]]"

@@ -25,17 +25,7 @@ ABSTRACTTranscriptional regulation is essential for balancing multiple metabolic
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Malus domestica, Nicotiana tabacum
-**方法**: ChIP-seq/qPCR, qRT-PCR validation, Y2H, BiFC, Co-IP, EMSA, dual-luciferase reporter, CRISPR/Cas9
-**来源**: DOI:10.1111/jipb.13606
-**来源类型**: PDF全文 (40 拮抗的 MADS-box 转录因子 SEEDSTICK 和 SEPALLATA3 形成了调控种子油脂积累的转录调控)
-
 ### 核心发现
-1. Collectively, these results demonstrate that STK directly suppresses the expression of MYB5 and SFAR4.
-2. In summary, these results imply that STK interacts with SEP3 in vivo and in vitro.
-3. In short, these results suggest that STK directly inhibits SEP3 expression at the transcriptional level during seed maturation.
-4. Interestingly, another MADS‐box TF of SEPALLATA3 (SEP3) was identiﬁed, consistent with the previous result that STK interacts with SEP3 in the yeast system (Favaro et al., 2003; Folter et al., 2005; Immink et al., 2009).
-5. Interestingly, STK's ability to bind to them was not altered when an empty MBP was added, whereas incubation of STK together with SEP3 weakened the signals of shifted probes (Figure 7D–F), sug- gesting that SEP3 weakened the binding ability of STK in vitro.
-6. We found that STK, highly expressed in the devel- oping embryo, positively regulates seed oil ac- cumulation in Arabidopsis (Arabidopsis thaliana).
-7. In the present study, we found that STK positively regu- lated seed oil accumulation in Arabidopsis.
-8. We found that the STK expression was restored to the wild‐type level in six transgenic lines, separately named stk‐3 35S:STK–6HA#1–#6 (Figure S1D), and was lower in other 16 independent transgenic lines than that in wild‐type (Figure S1F).
+
+
+**全文来源**: PubMed摘要

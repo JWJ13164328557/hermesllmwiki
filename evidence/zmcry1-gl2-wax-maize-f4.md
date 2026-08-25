@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that these CRY1s may function redundantly in mediating blue light signaling in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[zmcry1-gl2-wax-maize]]"

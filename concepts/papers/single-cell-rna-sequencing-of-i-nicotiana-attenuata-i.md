@@ -55,17 +55,7 @@ Summary
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum, Cucumis spp., Ficus carica
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), single-cell RNA-seq, qRT-PCR validation, RNAi/VIGS
-**来源**: DOI:10.1111/nph.17992
-**来源类型**: PDF全文 (对烟草烟草花冠细胞的单细胞RNA测序揭示了花香的生物合成途径.pdf)
-
 ### 核心发现
-1. We found several hypothetical proteins, ethylene- responsive factors, and zinc ﬁnger proteins that were highly induced in scRNA-Seq libraries compared to in bulk RNA-Seq results (Table S1, log2 FC > 5).
-2. Furthermore, we found that levels of BA emission in NaIFR3-silenced corollas did not differ signiﬁcantly from levels in control corollas (Fig.
-3. Among these homologs, we found that one homolog of PhODO1 and two homologs of PhEOBI/II were expressed in N.
-4.  In conclusion, the high-resolution spatiotemporal atlas of gene expression provided by scRNA-Seq reveals the molecular features underlying cell-type-speciﬁc metabolism in a plant.
-5. Candidate genes have been prioritized by investigating correlations among transcript abundances and target compounds (Verdonk et al., 2005; Mag- nard et al., 2015; Xu et al., 2018).
-6. Cells with the value 1 of target gene were regarded as the cells expressing the gene.
-7. Virus-induced gene silencing To silence a target gene in N.
-8. The Agrobacterium tumefaciens AGL1 strain har- boring the TRV2 target gene was mixed with Agrobacterium con- taining TRV1 just before inﬁltration.
+
+
+**全文来源**: PubMed摘要

@@ -1,6 +1,6 @@
 ---
 title: "They can recognize and bind to a specific W-box sequence (C/T) TGAC (T/C) to play regulatory roles ["
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multifaceted-roles-of-lhwrky44-in-promoting]]"

@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that SlBIN2 interacts with SlBZR1 to negatively regulate BR signaling."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-brassinosteroid-signaling-component-slbzr1-promotes]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb.13491"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Malus domestica]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [SlBIN2, SlBZR1]
+genes: [SlBZR1, SlBIN2]
 compounds: []
 ---
 

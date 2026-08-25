@@ -1,6 +1,6 @@
 ---
 title: "AtSKP2 binds to S-PHASE KINASE-ASSOCIATED PROTEIN 1 (Skp1) via its F-box domain and recognizes speci"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3--bs1tAYpaCxa0fWZ49R6kw]]"

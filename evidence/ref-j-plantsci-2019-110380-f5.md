@@ -1,6 +1,6 @@
 ---
 title: "All genes within LD decay centered on the signiﬁcantly associated SNPs were extracted as potential c"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

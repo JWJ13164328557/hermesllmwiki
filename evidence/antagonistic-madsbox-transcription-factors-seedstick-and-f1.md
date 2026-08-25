@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results demonstrate that STK directly suppresses the expression of MYB5 and SFAR"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[antagonistic-madsbox-transcription-factors-seedstick-and]]"

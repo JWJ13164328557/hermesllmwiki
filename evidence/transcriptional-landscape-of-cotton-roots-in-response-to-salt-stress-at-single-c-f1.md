@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that GaGH3.6 might participate in cotton salt tolerance by regulating redox pr"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]"

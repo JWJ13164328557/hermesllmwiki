@@ -1,6 +1,6 @@
 ---
 title: "Besides, overexpression of MdbZIP44 promoted sucrose accumulation by regulating the activities of su"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]"

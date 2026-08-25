@@ -1,6 +1,6 @@
 ---
 title: "When taken together, we annotated these peaks putatively as querce- tin-3-O-sophoroside-O-rhamnoside"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[quantitative-trait-loci-analysis-of-seedspecialized]]"

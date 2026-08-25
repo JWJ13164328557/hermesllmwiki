@@ -1,6 +1,6 @@
 ---
 title: "Homozy- gous mutations in single and/or double allele(s) of GmFAD2-1A and GmFAD2-1B in soybean, whic"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"

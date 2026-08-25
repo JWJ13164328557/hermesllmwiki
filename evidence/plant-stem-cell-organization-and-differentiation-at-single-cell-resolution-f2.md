@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these data suggest that cells in the maize SAM tip are engaged in genome protective fu"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that LAX2 (Ghir_D01G017380) is only expressed in cambium cells and exhibits a distinctly di"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[single-cell-resolution-analysis-reveals-the-preparation-for-reprogramming-the-fa]]"

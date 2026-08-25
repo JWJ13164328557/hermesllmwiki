@@ -1,6 +1,6 @@
 ---
 title: "In cotton, overexpression of GhBCCP1, GhBC1, or GhCTb resulted in increased CSO content by 17% to 22"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"
@@ -8,7 +8,7 @@ doi: "10.1111/tpj.16545"
 species: [Arabidopsis thaliana, Zea mays, Glycine max]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [GhBC1, GhCTb, GhCTa2, GhBCCP1]
+genes: [GhBCCP1, GhBC1, GhCTb, GhCTa2]
 compounds: []
 ---
 

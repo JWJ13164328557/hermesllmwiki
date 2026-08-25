@@ -1,6 +1,6 @@
 ---
 title: "Finally, we suggest future directions for improving xylem developmental studies, including deeper in"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pce]]"

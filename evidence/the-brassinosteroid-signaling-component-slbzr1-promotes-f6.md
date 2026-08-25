@@ -1,6 +1,6 @@
 ---
 title: "However, because fruit ripening is a complex devel- opmental decision ﬁne‐tuned by various factors, "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-brassinosteroid-signaling-component-slbzr1-promotes]]"

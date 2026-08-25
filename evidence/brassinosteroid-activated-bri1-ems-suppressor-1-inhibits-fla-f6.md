@@ -1,6 +1,6 @@
 ---
 title: "Therefore, 130 we conclude that BES1 mediates the tradeoff between plant growth and UV-B stress 131 "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"

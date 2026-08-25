@@ -1,6 +1,6 @@
 ---
 title: "The conserved NAC domain is also a functional region that binds to DNA and other proteins."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"

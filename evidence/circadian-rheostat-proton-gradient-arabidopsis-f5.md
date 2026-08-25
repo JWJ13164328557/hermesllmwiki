@@ -1,6 +1,6 @@
 ---
 title: "DISCUSSION The connection between CCA1 and hypocotyl growth has been previously established,8–10 but"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[circadian-rheostat-proton-gradient-arabidopsis]]"

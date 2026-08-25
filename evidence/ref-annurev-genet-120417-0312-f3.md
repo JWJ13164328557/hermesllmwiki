@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the activation of CD4+ T cells in young mice and old mice did not show any average ex"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-annurev-genet-120417-0312]]"

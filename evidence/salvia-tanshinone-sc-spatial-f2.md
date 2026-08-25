@@ -1,6 +1,6 @@
 ---
 title: "We found that cork cells were present exclusively in the 2Y subcluster 2Y_C4 and were nearly absent "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[salvia-tanshinone-sc-spatial]]"

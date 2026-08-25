@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results provided support for the identiﬁcation of key regulators involved in S"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

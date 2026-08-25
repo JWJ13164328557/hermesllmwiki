@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the enhanced tolerance of idr1–1 mutant seedlings to osmotic stress may stem from ma"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[sel-djae258]]"

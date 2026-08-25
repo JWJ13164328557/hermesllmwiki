@@ -1,6 +1,6 @@
 ---
 title: "The bHLH family members are associated with anthocyanin biosynthesis in fruit trees and have been sh"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-and-transcriptome-analysis-of-flavor]]"

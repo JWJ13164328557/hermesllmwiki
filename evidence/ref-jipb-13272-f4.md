@@ -1,6 +1,6 @@
 ---
 title: "We found several HDACs including HDA5, HDA8, and HDA15 as potential interaction partners of WHIRLY1 "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

@@ -1,6 +1,6 @@
 ---
 title: "Nevertheless, the plant community continues its quest towards the functional elucidation of all gene"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[charting-plant-gene-functions-in-the-multi-omics-and-single-cell-era]]"

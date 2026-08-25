@@ -1,6 +1,6 @@
 ---
 title: "Hoxa-13 and Hoxd-13 play a crucial role in the patterning of the limb autopod."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nature08152]]"

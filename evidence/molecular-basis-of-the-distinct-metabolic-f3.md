@@ -1,6 +1,6 @@
 ---
 title: "Among those MYB TFs, we found that the PB.18673.1 transcript was highly expressed in the root and sh"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[molecular-basis-of-the-distinct-metabolic]]"

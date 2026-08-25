@@ -55,14 +55,7 @@ Here, we summarize the settings and parameters used for other methods for compar
 
 ## 深度提炼
 
-**物种**: Ficus carica
-**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, ATAC-seq
-**来源**: DOI:10.1093/bioinformatics/btaf528
-**来源类型**: PDF全文 (btaf528.pdf)
-
 ### 核心发现
-1. 5 Conclusion In summary, CLUEY is a method that enables knowledge- guided cell type detection and clustering of single-cell omics data.
-2. Importantly, the stopping condition can be specified such that the algorithm continues to recluster until no less than a minimum number of cells is specified by the user (default ¼ 30 cells).
-3. Notably, while CLUEY also overpredicted the number of clusters in the TEA-seq dataset (Fig.
-4. Importantly, CLUEY aggregates each cluster’s cell profiles to reduce data sparsity and amplify shared expression signals, thereby improving clustering stability (Murphy and Skene 2022).
-5. Importantly, the final clusters can have heterogeneous correlations scores, allowing users to identify potential novel subpopulations in the data.
+
+
+**全文来源**: PubMed摘要

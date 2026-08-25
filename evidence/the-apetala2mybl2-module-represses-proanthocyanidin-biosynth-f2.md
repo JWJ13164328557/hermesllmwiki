@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results clearly indicate that neither AP2-like miR172-target clade members nor m"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-apetala2mybl2-module-represses-proanthocyanidin-biosynth]]"

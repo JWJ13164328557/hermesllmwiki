@@ -1,6 +1,6 @@
 ---
 title: "For example, the aliphatic GS transcription factor MYB28 consisted of four members in Chinese kale b"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [metabolism]
 source: "[[comparative-transcriptomic-analyses-of-glucosinolate-metabol]]"

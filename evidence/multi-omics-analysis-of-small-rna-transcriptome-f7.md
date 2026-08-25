@@ -1,6 +1,6 @@
 ---
 title: "In Ginkgo biloba, miR167 targets AACT, miR457 targets HMGR, and they all regulate the biosynthesis o"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-of-small-rna-transcriptome]]"

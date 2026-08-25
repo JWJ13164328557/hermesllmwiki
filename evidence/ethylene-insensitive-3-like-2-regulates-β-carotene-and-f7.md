@@ -1,6 +1,6 @@
 ---
 title: "A yeast 1-hybrid assay and EMSA confirmed that SlERF.G6 and SlERF.H30 bind to the same GCC-box regio"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-insensitive-3-like-2-regulates-β-carotene-and]]"

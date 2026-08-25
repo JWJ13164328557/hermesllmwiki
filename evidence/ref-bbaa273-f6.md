@@ -1,6 +1,6 @@
 ---
 title: "Notably, peak calling and poly(A) read anchoring are two independent steps in scAPAtrap and both ste"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bbaa273]]"

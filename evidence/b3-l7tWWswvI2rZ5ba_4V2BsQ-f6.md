@@ -1,6 +1,6 @@
 ---
 title: "For instance, the snRNA-seq data demon- strated that the epidermal cell gene Zm00001eb101750 ( ZmHSP"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-l7tWWswvI2rZ5ba_4V2BsQ]]"
@@ -8,7 +8,7 @@ doi: "10.1002/advs.202512295"
 species: [Oryza sativa, Zea mays, Triticum aestivum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [ZmHSP90, ZmWAK2]
+genes: [ZmWAK2, ZmHSP90]
 compounds: []
 ---
 

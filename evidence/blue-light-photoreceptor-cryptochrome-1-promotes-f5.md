@@ -1,6 +1,6 @@
 ---
 title: "Moreover, overexpression of PagCRY1 dramatically increased anthocyanin accumulation."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[blue-light-photoreceptor-cryptochrome-1-promotes]]"

@@ -1,6 +1,6 @@
 ---
 title: "WOX13-like genes are required for reprogramming of leaf and protoplast cells into stem cells in the "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[genome-and-transcriptome-of-selaginella-kraussiana-reveal-evolution-of-root-apic]]"

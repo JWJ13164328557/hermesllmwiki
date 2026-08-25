@@ -1,6 +1,6 @@
 ---
 title: "Notably, the pelargonidin derivatives were uniquely accumulated in red fleshed potatoes, suggesting "
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomic-and-metabolomic-analysis-revealed]]"

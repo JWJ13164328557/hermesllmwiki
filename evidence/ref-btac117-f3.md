@@ -1,6 +1,6 @@
 ---
 title: "We show this by applying the Inferelator to a large (1.3 million cells of scRNAseq data), publicly a"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btac117]]"

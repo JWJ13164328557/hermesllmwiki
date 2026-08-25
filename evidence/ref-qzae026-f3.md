@@ -1,6 +1,6 @@
 ---
 title: "The target can detect 500– 10,000 cells, and the use of UMIs and median gene numbers also depends on"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-qzae026]]"

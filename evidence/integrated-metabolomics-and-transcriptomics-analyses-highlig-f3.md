@@ -1,6 +1,6 @@
 ---
 title: "These findings provide novel insights into the response of G."
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomics-and-transcriptomics-analyses-highlig]]"

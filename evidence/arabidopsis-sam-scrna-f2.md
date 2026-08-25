@@ -1,6 +1,6 @@
 ---
 title: "As expected, we found that the mutations in AT5G22580 and AT1G25230, which encode an A/B barrel doma"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[arabidopsis-sam-scrna]]"

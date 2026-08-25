@@ -1,6 +1,6 @@
 ---
 title: "We found that approximately one-third of the transcripts showed a significant correlation with pseud"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [scrnaseq, plant-single-cell]
 source: "[[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]"

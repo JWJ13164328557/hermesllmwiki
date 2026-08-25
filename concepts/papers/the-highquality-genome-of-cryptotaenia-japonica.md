@@ -25,15 +25,7 @@ SUMMARYCryptotaenia japonica, a traditional medicinal and edible vegetable crops
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Citrus spp., Daucus carota, Panax spp., Cryptotaenia japonica
-**方法**: transcriptomics (RNA-seq), genomics, Y2H, phylogenetics
-**来源**: DOI:10.1111/tpj.16628
-**来源类型**: PDF全文 (91 鸭儿芹的高质量基因组和比较基因组学分析揭示了伞形科花青素的生物合成.pdf)
-
 ### 核心发现
-1. The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjapo- nica_2.2062 (bHLH) and Cjaponica_1.3743 (MYB).
-2. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License (PK) was a large and widely distributed protein super-family found in Apiaceae species and played important roles in var- ious signaling pathways via phosphorylation of serine, thre- onine, and tyrosine ami
-3. It showed that CjbHLH could interact with CjANSa, CjF3H, and CjDFRb.
-4. Here, the Y2H assay indicated CjbHLH could interact with CjANSa, CjF3H, and CjDFRb.
-5. MYB proteins could interact with the partner bHLH proteins to regulate anthocyanins biosynthesis in many plant species (Duan et al., 2023; Yan et al., 2020).
-6. Remarkably, a recent species-speciﬁc WGD event was investigated in water dropwort, together with the report for O.
+
+
+**全文来源**: PubMed摘要

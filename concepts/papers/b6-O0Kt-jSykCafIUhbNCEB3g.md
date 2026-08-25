@@ -54,17 +54,7 @@ Artificial light intensity is crucial in producing high-quality vegetable seedli
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum, Vitis vinifera, Picea spp.
-**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), multi-omics integration, qRT-PCR validation
-**来源**: DOI:10.1093/hr/uhaf293
-**来源类型**: PDF全文 (uhaf293.pdf)
-
 ### 核心发现
-1. This study provides new insights into optimizing PFAL light strategies to suppress rootstock regrowth and enhance the efficiency of cotyledon-less splice grafted watermelon transplants, strengthening the foundation for grafted watermelon production.
-2. In conclusion, our findings underscore the critical role of light intensity in orchestrating transcriptional and metabolic networks to optimize graft healing, providing a physiological and molecular foundation for improving cotyledon-less grafting efficiency.
-3. Collectively, these findings indicate that MEturquoise modules in both scion and rootstock are key regulators of gene expression, signal transduction, and structural regeneration associated with callus formation and vascular reconnection during graft healing.
-4. These enzymes play a crucial role in carbohydrate metabolism and energy regulation.
-5. Thus, improving this emerging grafting technique is essential for enhancing efficiency and reducing costs.
-6. In addition, phytohormone levels in the rootstock are crucial for grafting, as auxin-enriched rootstocks accelerate graft healing [18].
-7. Furthermore, cytokinins are crucial for graft formation, as cytokinin-induced WIND1 promotes callus formation and vascular reconnection [21].
-8. The presence of sugars and proper energy levels at the graft junction is essential for callus production, vascular reconnection, and overall graft success [23].
+
+
+**全文来源**: PubMed摘要

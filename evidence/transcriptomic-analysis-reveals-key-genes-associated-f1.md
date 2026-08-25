@@ -1,6 +1,6 @@
 ---
 title: "These data ensured the subsequent accurate sequence assembly, which are essential for further analys"
-created: 2026-08-24
+created: 2026-08-25
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[transcriptomic-analysis-reveals-key-genes-associated]]"
