@@ -13,7 +13,12 @@ import os, sys, subprocess, json, re, glob
 from datetime import datetime, timedelta
 
 # JCR 2024 植物/农学/相关期刊权威白名单 (防多源导入引入非植物期刊污染)
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scripts'))
+# ⚠️ 2026-08-25 修复: 本脚本位于 scripts/, 所在目录即 scripts/; 原写法拼成 scripts/scripts/ 导致
+#    jcr_whitelist/theme_filter import 全失败(被except吞掉)→ theme_filter 从未真正生效 → 每日引入污染
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, SCRIPT_DIR)          # scripts/ 本身
+sys.path.insert(0, os.path.dirname(SCRIPT_DIR))  # 仓库根 (BASE)
+APP_DIR = os.path.dirname(SCRIPT_DIR)
 try:
     from jcr_whitelist import journal_in_jcr
 except ImportError:
@@ -38,7 +43,51 @@ def is_plant_content(text):
     return any(p in t for p in PLANT_TERMS)
 
 
-BASE = '/mnt/g/hermes_obsidian/hermes'
+def theme_selfcheck_all(target_pages):
+    """
+    污染自检 (2026-08-25 审稿建议): 对指定概念页跑 theme_filter 三重门,
+    输出被标非植物的 slug + 原因, 供人工复核。返回被标列表。
+    """
+    try:
+        from theme_filter import is_relevant_plant_paper
+    except Exception as e:
+        log(f"  ⚠️ 自检跳过(theme_filter 不可用: {e})")
+        return []
+    flagged = []
+    for fp in target_pages:
+        if not os.path.exists(fp):
+            continue
+        try:
+            c = open(fp, encoding='utf-8', errors='ignore').read(3000)
+        except Exception:
+            continue
+        tm = re.search(r'^#\s+(.+)$', c, re.M)
+        title = tm.group(1).strip() if tm else ''
+        ab = ''
+        am = re.search(r'## 摘要\s*\n+(.*?)(?=\n##|\Z)', c, re.DOTALL)
+        if am:
+            ab = re.sub(r'\s+', ' ', am.group(1))
+        jm = re.search(r'期刊\*\*:?\s*(.+)', c)
+        jrn = re.sub(r'\*\*DOI\*\*.*', '', jm.group(1)).split('(')[0].strip() if jm else ''
+        if not title and not ab:
+            continue
+        try:
+            ok, why = is_relevant_plant_paper(title, ab, jrn)
+        except Exception:
+            continue
+        if not ok:
+            flagged.append((os.path.basename(fp), why, title[:60]))
+    if flagged:
+        log(f"  ⛔ 污染自检: {len(flagged)} 篇被标非植物! 请人工复核:")
+        for f, w, t in flagged:
+            log(f"     - [{w[:30]}] {t}")
+    else:
+        log(f"  污染自检通过: 0 篇被标非植物")
+    return flagged
+
+
+# 仓库根 (BASE) — 优先从脚本位置推导, 失败则回退硬编码(固定路径项目)
+BASE = APP_DIR if 'APP_DIR' in dir() and APP_DIR else '/mnt/g/hermes_obsidian/hermes'
 SCRIPTS = f'{BASE}/scripts'
 CONCEPTS = f'{BASE}/concepts/papers'
 EVIDENCE = f'{BASE}/evidence'
@@ -310,6 +359,10 @@ source: {source}
     log(f"Phase 8: 整合后整理 (Hypothesis + Research Program)")
     ok, out = run(f'python3 -u {SCRIPTS}/batch_hypotheses.py', timeout=600)
     log(f"Hypotheses/Programs: {out[:200]}")
+    
+    # ── Phase 8.5: 污染自检 (2026-08-25 审稿建议) — 对今日新增概念页跑 theme_filter ──
+    log("Phase 8.5: 污染自检 (theme_filter 三重门)")
+    theme_selfcheck_all(today_pages)
     
     # ── 收尾 ──
     log("收尾: 翻译 + 交叉引用")
