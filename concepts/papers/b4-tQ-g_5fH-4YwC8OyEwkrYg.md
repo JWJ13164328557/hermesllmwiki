@@ -56,9 +56,15 @@ Although questions about the evolution and homology of the cotyledon remain unre
 
 ## 深度提炼
 
-**方法**: RNA-seq
+**物种**: Arabidopsis thaliana, Zea mays, Physcomitrium patens, Ficus carica
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq
+**来源**: DOI:10.1038/s41467-024-55803-9
+**来源类型**: PDF全文 (10.1038_s41467-024-55803-9.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Notably, these proposed plant phylotypes reﬂect shared processes of embryo development, not morphological similarity13.
+2. Notably, BOPa was undetected throughout scutellum ontogeny, in a manner similar to the accumu- lation patterns noted for the BOPa paralog TASSELS REPLACE UPPER EARS1 (TRU1) (Supplementary Fig.
+3. Interestingly, the expression of ARF3 in the scutellum moved from the ventral (i.e., abaxial) region in the Transi- tion stage to adaxial region at Stage 1 (Fig.
+4. Notably, the expression of these genes during the Transition stage and the Coleoptilar stage was similar to that of leaf 1 during Stage 1 (Sup- plementary Data 4)34.
+5. Notably, the stage-speciﬁc accumulation patterns of these homologous maize transcripts in the emerging scutellum (Transition stage), coleoptile (Coleoptilar stage), and foliar leaf (Stage 1) were signiﬁcantly corre- lated with the reported expression of the corresponding Arabidopsis orthologs during speciﬁc stages in cotyledon initiation and develop- ment in this eudicot embryo50 (Fig.
+6. Notably, the majority of these genes appear within the Bryophyte phylostratum PS4, which marks the ﬁrst appearance of the plant embryo30.

@@ -78,9 +78,15 @@ Declaration of interests:The authors declare no conflict of interest related to 
 
 ## 深度提炼
 
-**方法**: scRNA-seq, RNA-seq, Microscopy
+**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum, Populus spp.
+**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, qRT-PCR validation, overexpression, subcellular localization
+**来源**: DOI:10.1146/annurev-arplant-081720-010120
+**来源类型**: PDF全文 (10.1146_annurev-arplant-081720-010120.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PMC全文
+1. In conclusion, plant research has fully embraced single cell transcriptomics and its application to a variety of plant species is ongoing.
+2. Upon encapsulation in the droplets, cells are lysed which allows the poly-A-tailed mRNA to bind to the beads.
+3. Elaborating these comparisons to include transcription factors and their respective target genes can shed further light into cell-to-cell communication to orchestrate cell proliferation and differentiation.
+4. Multiplexing Using Lipid-Tagged Indices for single-cell and single-nucleus RNA-seq (MULTI-Seq) uses lipid-or cholesterol-conjugated oligonucleotides that bind to plasma membranes to provide cells from each sample with an additional barcode (44).
+5. Validation of the obtained protoplast is required to determine the composition of retrieved cell types; this could be performed by quantitative real-time PCR analysis to determine the relative expression levels of specific reporter genes.
+6. In all cases, however, biological validation is required to ensure the predicted trajectories match biological data.

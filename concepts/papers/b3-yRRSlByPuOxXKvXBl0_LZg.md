@@ -50,9 +50,17 @@ Here, we describe a new dissociation workflow for isolating QC protoplasts where
 
 ## 深度提炼
 
-**方法**: RNA-seq
+**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum, Populus spp.
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, qRT-PCR validation, CRISPR/Cas9, overexpression, knockout/mutant, subcellular localization
+**来源**: DOI:10.1186/s13059-026-03989-0
+**来源类型**: PDF全文 (10.1186_s13059-026-03989-0.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. We found that more genes and transcripts could be detected in all 10 QC samples sequenced by the SCAN-seq TGS platform compared to transcriptomic con- tents generated with the 10 × genomics NGS platform (Fig.
+2. Specifically, we found that QC-associated genes, such as WOX5, TEL1, WOUND-INDUCED POLYPEPTIDE 2 (WIP2), WIP5, ROOT MERISTEM GROWTH FACTOR 10 (RGF10), and INDUCER OF CBF EXPRESSION 2 (ICE2) were highly expressed in our samples compared to adja- cent tissues (Fig.
+3. Alter- natively, we found that PLT1 showed high expression in QC_10D samples, suggesting that genes involved in hormone pathways and cell division contributed to QC transition from cell proliferation to root differentiation states.
+4. We found that genes specific to the rice QC were primarily enriched in pathways including cellular homeostasis, oligosaccharide metabolic process, and regulation of cel- lular process (Fig.
+5. Specifically, we found enrichment in cell growth, auxin response, and cell divi- sion (i.e., proliferation) regulatory pathways.
+6. Conclusions: This study provides a method for isolating rare cell types and gener- ates long- and short-read transcriptomic atlases, offering novel mechanistic insights into stem cell maintenance in monocot and eudicot roots.
+7. QC-specific NMD target genes were significantly enriched in fundamental pathways such as nucleotide and amino acid metabolism and protein maturation.
+8. These findings reveal the high specificity of alternative splicing regulation in QC cells, where NS introduces novel pro- tein functions (e.g., differentiation), while the IR–NMD mechanism modulates funda- mental processes such as transport and metabolism.
