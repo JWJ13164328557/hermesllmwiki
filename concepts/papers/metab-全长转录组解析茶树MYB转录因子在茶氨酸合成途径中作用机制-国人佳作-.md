@@ -1,5 +1,4 @@
 ---
-doi: 10.2139/ssrn.4779029
 title: "全长转录组解析茶树MYB转录因子在茶氨酸合成途径中作用机制（国人佳作）"
 journal: "unknown"
 year: ""

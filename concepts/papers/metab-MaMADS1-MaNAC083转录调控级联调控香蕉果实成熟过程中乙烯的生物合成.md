@@ -1,5 +1,4 @@
 ---
-doi: 10.5376/mpb.cn.2012.10.0038
 title: "MaMADS1-MaNAC083转录调控级联调控香蕉果实成熟过程中乙烯的生物合成"
 journal: "unknown"
 year: ""

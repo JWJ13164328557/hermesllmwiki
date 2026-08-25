@@ -1,5 +1,4 @@
 ---
-doi: 10.1360/csb2006-51-14-1675
 title: "紫外线-B 通过诱导 GbHY5-GbMYB1-GbFLS 模块促进银杏叶中褐藻糖苷类化合物的生物合成"
 journal: "unknown"
 year: ""

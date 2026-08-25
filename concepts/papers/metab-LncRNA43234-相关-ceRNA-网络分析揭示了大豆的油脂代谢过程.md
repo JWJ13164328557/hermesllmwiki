@@ -1,5 +1,4 @@
 ---
-doi: 10.1360/zc2009-39-12-1162
 title: "LncRNA43234 相关 ceRNA 网络分析揭示了大豆的油脂代谢过程"
 journal: "unknown"
 year: ""

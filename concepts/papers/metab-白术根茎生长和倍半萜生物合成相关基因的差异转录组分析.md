@@ -1,5 +1,4 @@
 ---
-doi: 10.21769/bioprotoc.2003379
 title: "白术根茎生长和倍半萜生物合成相关基因的差异转录组分析"
 journal: "unknown"
 year: ""

@@ -1,5 +1,4 @@
 ---
-doi: 10.1360/csb2002-47-20-1578
 title: "梨 S1-bZIP 转录因子 PpbZIP44 可调节果实中的碳水化合物代谢、氨基酸和类钙积累"
 journal: "unknown"
 year: ""

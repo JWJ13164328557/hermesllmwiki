@@ -1,5 +1,4 @@
 ---
-doi: 10.3724/cbb-tb5-1-14
 title: "miR156SPL12模块通过直接调控蓝莓的乙烯生产途径，协调果实颜色的变化"
 journal: "unknown"
 year: ""

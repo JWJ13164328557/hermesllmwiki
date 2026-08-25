@@ -1,5 +1,4 @@
 ---
-doi: 10.5376/mpb.cn.2011.09.0075
 title: "转录组学分析揭示了与鲜切火龙果（Hylocereus undatus）酚类物质生物合成调控相关的关键基因"
 journal: "unknown"
 year: ""

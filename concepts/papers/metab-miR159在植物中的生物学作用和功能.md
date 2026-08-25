@@ -1,5 +1,4 @@
 ---
-doi: 10.5376/gab.cn.2010.29.0001
 title: "miR159在植物中的生物学作用和功能"
 journal: "unknown"
 year: ""

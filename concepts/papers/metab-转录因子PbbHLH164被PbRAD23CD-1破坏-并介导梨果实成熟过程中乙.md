@@ -1,5 +1,4 @@
 ---
-doi: 10.5376/mpb.cn.2012.10.0038
 title: "转录因子PbbHLH164被PbRAD23CD.1破坏，并介导梨果实成熟过程中乙烯的生物合成"
 journal: "unknown"
 year: ""

@@ -1,5 +1,4 @@
 ---
-doi: 10.5376/gab.cn.2011.30.0010
 title: "多组学分析揭示了色素马铃薯块茎的化学和遗传基础"
 journal: "unknown"
 year: ""

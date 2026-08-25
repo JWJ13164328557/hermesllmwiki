@@ -1,5 +1,4 @@
 ---
-doi: 10.2139/ssrn.4779029
 title: "综合代谢组、全长测序和转录组分析揭示了Bougainvillea × buttiana 'Chitra'金丝雀黄色和红色苞片颜色形成的分子机制"
 journal: "unknown"
 year: ""

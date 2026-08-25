@@ -1,5 +1,4 @@
 ---
-doi: 10.21769/bioprotoc.2003693
 title: "冬凌草小RNA、转录组和降解组多组学分析以确定与的 MeJA 调节和冬凌草素生物合成相关的假定 miRNAs"
 journal: "unknown"
 year: ""

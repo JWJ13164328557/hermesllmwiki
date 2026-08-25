@@ -1,5 +1,4 @@
 ---
-doi: 10.1360/052005-169
 title: "茉莉酸通过MYC2-MYB46模块激活次生细胞壁生物合成"
 journal: "unknown"
 year: ""
