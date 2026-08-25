@@ -217,11 +217,20 @@ source: {source}
     
     log(f"Phase 4: 全文下载 ({len(dois)} 篇，多通道 + Sci-Hub 兜底)")
     
-    # 写今日新增 DOI 到临时文件 → 复用 fill_missing_pdfs.py 完整多通道下载
+    # 写今日新增 DOI 到临时文件 → ① Europe PMC 优先 → ② fill_missing_pdfs.py 多通道兜底
     if dois:
         tmp_dois = f'{BASE}/.phase4_today_dois.txt'
         with open(tmp_dois, 'w') as fh:
             fh.write('\n'.join(sorted(dois)))
+        # ① Europe PMC 优先通道 (稳定 OA, 成功率 ~70%; 2026-08-25 整合)
+        ok0, out0 = run(
+            f'/usr/bin/python3 -u {SCRIPTS}/download_epmc.py --from-file {tmp_dois} '
+            f'--outdir raw/papers/all_pdfs',
+            timeout=1800
+        )
+        if ok0 and out0:
+            log(out0.strip().splitlines()[-1] if out0.strip() else '')
+        # ② OpenAlex/Sci-Hub 多通道兜底 (Europe PMC 未覆盖的)
         ok, out = run(
             f'/usr/bin/python3 -u {SCRIPTS}/fill_missing_pdfs.py '
             f'--from-file {tmp_dois} --workers 4 --scihub --skip-deep '
@@ -239,7 +248,7 @@ source: {source}
                         dl += 1
             except Exception:
                 pass
-        log(f"Phase 4 完成: 获取 {dl}/{len(dois)} 篇 PDF")
+        log(f"Phase 4 完成: EuropePMC + 多通道 获取 PDF (secondary {dl}/{len(dois)})")
     
     # ── Phase 5: 增量深度提炼 (仅今日新增论文) ──
     log(f"Phase 5: 增量深度提炼 ({len(today_pages)} 篇新论文)")
