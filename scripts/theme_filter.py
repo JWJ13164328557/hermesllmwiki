@@ -49,15 +49,15 @@ NONPLANT_JOURNAL_BLACKLIST = [
     'hematolog','blood','infectious disease','virology','forensic',
     'legal medicine','biomarker','liquid biopsy',
     # 兽医/动物/水产
-    'veterinary','livestock','aquaculture','fisheries','poultry','zoolog','zool','entomolog (med',
+    'veterinary','livestock','aquaculture','fisheries','poultry','zoolog','zool','entomolog',
     # 物理/化学/材料/工程/能源/核
     'physics','nuclear','fuel','petroleum','electrical','mechanical engineering','civil engineering',
     'aerospace','automotive','robotic','combustion','semiconductor','chemical engineering',
-    'materials science','cataly (eng','electrochem','high energy','applied physics','power',
+    'materials science','cataly','electrochem','high energy','applied physics','power',
     # 法学/社科/经济/人文
     'law','legal','sociolog','anthropolog','political','economic','finance','banking','business',
     'marketing','human resource','accounting','criminal','litigation','history','philosophy',
-    'geography','urban','transport','education (social','media','linguistic','theology','journalism',
+    'geography','urban','transport','education','media','linguistic','theology','journalism',
     # 明确杂项/造假期刊
     'preprints','research square','ssrn','cureus','open mind','porn',
 ]
@@ -65,19 +65,21 @@ NONPLANT_JOURNAL_BLACKLIST = [
 # ── ② 内容"人类/动物医学强词"（标题+摘要命中即强烈提示非植物）──
 HUMAN_ANIMAL_TERMS = [
     'cancer patient','patient survival','clinical trial','clinical outcome','drug delivery',
-    'pharmacokinetic','therapeutic target','immune checkpoint','t cell therapy','antibody (human',
+    'pharmacokinetic','therapeutic target','immune checkpoint','t cell therapy','antibody',
     'patient-derived','prostate cancer','breast cancer','lung cancer','colorectal cancer',
     'hepatocellular carcinoma','leukemia','lymphoma','tumor microenviron',
     'serum level','plasma level','blood pressure','renal function','kidney injury',
     'cardiovascular disease','myocardial','neuronal','neurodegener','alzheimer','parkinson',
     'depression','schizophren','autism','psychiatric','maternal','neonatal','fetal','prenatal',
-    'obesity (human','diabetes (human','clinical (diagnos','hospital','surgical',
-    'human cell line','hela','hek293','ipsc','embryonic stem cell (human','t cell','b cell (human',
-    'macrophage (human','mammalian','mouse model (human','rat model (human','zebrafish (nonplant',
-    'postpartum','menstrual','menopause','gestational','hematopoietic','bone marrow (human',
-    'vaccine (human','immunotherapy (human','stroke (human','ischemic','thrombosis',
-    'pyrolysis','gasification','syngas','biochar (energy','liquefaction','torrefaction',
-    'power plant','combustion (energy','biofuel (energy','biodiesel (energy','hydrogen production',
+    'obesity','diabetes','clinical diagnos','hospital','surgical',
+    'glioma','glioblastoma','brain cancer','cerebral','melanoma','angina','cardiac arrest',
+    'cancer','carcinoma','cardio','coronary','heart disease','heart failure','cardiac','tumor',
+    'human cell line','hela','hek293','ipsc','embryonic stem cell','t cell','b cell',
+    'macrophage','mammalian','mouse model','rat model','zebrafish',
+    'postpartum','menstrual','menopause','gestational','hematopoietic','bone marrow',
+    'vaccine','immunotherapy','stroke','ischemic','thrombosis',
+    'pyrolysis','gasification','syngas','biochar','liquefaction','torrefaction',
+    'power plant','combustion','biofuel','biodiesel','hydrogen production',
     'quantum','particle physics','nuclear reactor','distillation',
     'legislation','constitutional','litigation','separation of powers','economic growth',
     'stock market','marketing strategy','urban planning','real estate','pornography',
@@ -91,7 +93,7 @@ STUDY_PLANT_TERMS = [
     'genome-wide','biosynth','chloroplast','photosynth','flavonoid','anthocyanin','lignin',
     'xylem','phloem','meristem','stomata','trichome','hormone','kinase','transcription factor',
     'abiotic stress','drought','salt stress','osmotic','cold acclimation','heat stress',
-    'immune response (plant','pathogen','effector','cell wall (plant','secondary metab',
+    'immune response','pathogen','effector','cell wall','secondary metab',
     'signal transduction','regulatory network','expression profile','somatic embry','crispr',
     'genome editing','breeding','qtl','association study','phenotyp','genome assembly',
     'chlorophyll','photosynth','flowering','vernalization','photoperiod','gravitrop',
@@ -115,6 +117,14 @@ SPECIES_PLANT_TERMS = [
     'glycyrrhiza','licorice','coptis','taxus','chlamydomonas','chlorella','microalga','seaweed',
     'kelp','laminaria','porphyra',
 ]
+
+# 泛组织/泛词（不单独作为"植物自证"）—— 在人类医学拒绝对抗中不计为物种证据,
+# 避免 "power plant" / "chemical plant" / "leaf disease" 等非植物语境绕过拦截
+SPECIES_GENERIC_TERMS = {
+    'plant','crop','seedling','leaf','root','flower','pollen','anther','seed',
+    'floral','inflorescence','grain','chlorophyll','canopy','rootstock','scion',
+    'leaf senescence',
+}
 
 
 def _hit(text, terms):
@@ -145,8 +155,12 @@ def is_relevant_plant_paper(title, abstract, journal):
     study_hit  = _hit(text, STUDY_PLANT_TERMS)   # 生物学研究强词
     species_hit= _hit(text, SPECIES_PLANT_TERMS) # 物种/组织宽词
 
+    # 具体物种命中（排除 plant/crop/leaf/root 等泛词）—— 用于"人类医学拒绝对抗",
+    # 避免 "power plant" / "chemical plant" / "leaf" 等泛词误当植物自证而绕过拦截
+    species_concrete_hit = [k for k in species_hit if k not in SPECIES_GENERIC_TERMS]
+
     # 1) 强人类医学（无植物研究自证）→ 拒绝
-    if human_hit and not study_hit and not species_hit:
+    if human_hit and not study_hit and not species_concrete_hit:
         return False, f'human/medical: {human_hit[0]}'
 
     # 2) 黑名单期刊（Fuel/医学/能源/物理等）：
