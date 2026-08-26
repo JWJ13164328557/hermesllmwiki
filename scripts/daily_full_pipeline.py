@@ -208,6 +208,21 @@ source: {source}
             log(f"  多源导入: {imported} 篇 (总候选 {candidates.get('total', 0)})")
             print(out2[-500:] if out2 else "no output")
     
+    # ── Phase 3c: 白名单期刊 × 主题 双限定检索 (2026-08-26 新增) ──
+    # 解决"期刊白名单只做事后过滤不做检索范围"的架构缺陷:
+    # 在 100 本核心植物/农学期刊内用 13 组主题词检索, 天然排除医学/能源/社科污染.
+    # 结果走 daily_update 相同过滤链(theme_filter+is_plant)直接导入概念页.
+    # 与全网检索(Phase 3)结果去重; 100刊×13主题 ≈ 6 分钟.
+    log("Phase 3c: 白名单期刊×主题双限定检索 (100刊 × 13主题)")
+    if not os.path.exists(f'{BASE}/.phase3c_disable'):
+        ok3, out3 = run(
+            f'/usr/bin/python3 -u {SCRIPTS}/journal_focus_search.py --core-only --days=1095 --max=10 --import',
+            timeout=1800
+        )
+        print(out3[-600:] if out3 else "no output")
+    else:
+        log("  ⛔ journal_focus_search 手动禁用 (存在 .phase3c_disable)")
+    
     # 检测今天新增的论文 (三层检测，覆盖 git tracked + untracked + mtime)
     today_pages = set()
     
