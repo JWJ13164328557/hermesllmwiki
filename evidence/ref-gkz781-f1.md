@@ -1,21 +1,21 @@
 ---
-title: "Notably, the most popular scRNA-seq protocols specifically sequence the 3' end of transcripts."
-created: 2026-06-01
+title: "Using pA site annotations from PolyA DB, we found that in the analysed datasets, while we robustly s"
+created: 2026-08-26
 type: evidence
-tags: [single-cell]
+tags: [#single-cell-spatial, papers]
 source: "[[ref-gkz781]]"
 doi: "10.1093/nar/gkz781"
-species: [Plant (unspecified)]
+species: [Citrus spp., Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
 compounds: []
 ---
 
-# Notably, the most popular scRNA-seq protocols specifically sequence the 3' end of transcripts.
+# Using pA site annotations from PolyA DB, we found that in the analysed datasets, while we robustly s
 
 ## Claim
-Notably, the most popular scRNA-seq protocols specifically sequence the 3' end of transcripts.
+Using pA site annotations from PolyA DB, we found that in the analysed datasets, while we robustly separated adjacent pA sites with distances above 300–400 nt, we were able to separate ∼30% of successive sites whose distance is 200–300 nt and only ∼5% of the sites whose distance is <200 nt (Supplementary Figure S10).
 
 ## Biological Context
 Cell-type-specific analysis of alternative polyadenylation using single-cell tra

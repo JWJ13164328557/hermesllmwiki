@@ -1,6 +1,6 @@
 ---
 title: "We found aforementioned PtoTFIIIB60.SL and PtoMYB5 also differ­ ently expressed, and the expression "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.indcrop.2021.113612"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PtoMYB5, PtoTFIIIB60]
+genes: [PtoTFIIIB60, PtoMYB5]
 compounds: []
 ---
 

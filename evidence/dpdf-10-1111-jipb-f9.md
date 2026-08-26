@@ -1,6 +1,6 @@
 ---
 title: "In summary, the conserved mechanisms of oil biosynthesis can be better understood by comparing the r"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

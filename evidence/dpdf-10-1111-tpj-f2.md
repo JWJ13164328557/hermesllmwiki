@@ -1,6 +1,6 @@
 ---
 title: "We discovered multiple new marker genes and developmental features of leaf veins."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

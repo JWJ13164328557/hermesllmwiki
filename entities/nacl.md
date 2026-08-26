@@ -1,6 +1,6 @@
 ---
 title: "NaCl"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -9,12 +9,11 @@ tags: [metabolism, gene]
 # NaCl
 
 ## Evidence Summary
-**Total evidence objects**: 8
+**Total evidence objects**: 7
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[daily-42206449-f5]] | We found that the yield per ten plants of the NIL was significantly higher than  |
 | [[ms-10-1007_s00217-026-05178-6-f4]] | These results suggest that NaCl may acts as a general regulatory signal affectin |
 | [[ms-10-1007_s44372-026-00629-6-f2]] | 5 Conclusion This study demonstrates that NaCl-induced salinity stress markedly  |
 | [[ms-10-22179_revmacn-20-479-f2]] | Interestingly, the presence of 90 mM NaCl significantly decreased the percent­ a |

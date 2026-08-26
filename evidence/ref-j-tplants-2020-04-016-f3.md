@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, this study also found that ~9% of pollens in a regular maize line carry aneuploid spe"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-tplants-2020-04-016]]"

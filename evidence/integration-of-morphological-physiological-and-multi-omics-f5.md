@@ -1,6 +1,6 @@
 ---
 title: "Based on the results of leaf yield and quality, we conclude that MD as the ideal density for opti­ m"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

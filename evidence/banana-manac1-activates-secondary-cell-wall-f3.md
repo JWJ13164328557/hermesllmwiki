@@ -1,6 +1,6 @@
 ---
 title: "We found that Ma02_p10970.1, Ma06_p28730.1 and Ma06_p07110.1 had a close genetic relationship with S"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"
@@ -15,7 +15,7 @@ compounds: []
 # We found that Ma02_p10970.1, Ma06_p28730.1 and Ma06_p07110.1 had a close genetic relationship with S
 
 ## Claim
-We found that Ma02_p10970.1, Ma06_p28730.1 and Ma06_p07110.1 had a close genetic relationship with SND2/3/4 in Arabidopsis, respec- tively, and that Ma11_p16010.1, Ma07_p06730.1 and Ma06_p38820.1 fell into VND and NST branches (Figure 2a).
+We found that Ma02_p10970.1, Ma06_p28730.1 and Ma06_p07110.1 had a close genetic relationship with SND2/3/4 in Arabidopsis, respectively, and that Ma11_p16010.1, Ma07_p06730.1 and Ma06_p38820.1 fell into ª 2023 The Authors.
 
 ## Biological Context
 Banana MaNAC1 激活 secondary cell wall 纤维素 生物合成 to enhance chilling resistance in fruit

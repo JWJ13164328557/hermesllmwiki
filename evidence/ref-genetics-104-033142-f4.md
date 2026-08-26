@@ -1,6 +1,6 @@
 ---
 title: "2001), histone ace- tylation targets speciﬁc loci and does not affect the adja- gous for the knockou"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-genetics-104-033142]]"

@@ -1,6 +1,6 @@
 ---
 title: "In summary, the OC-derived WUS protein must be present in both the OC and the stem cells to maintain"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-042811-10]]"

@@ -1,6 +1,6 @@
 ---
 title: "Here we identify the ALTERED PHLOEM DEVELOPMENT (APL) gene, which encodes a MYB coiled-coil-type tra"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

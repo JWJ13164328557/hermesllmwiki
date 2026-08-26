@@ -1,6 +1,6 @@
 ---
 title: "Therefore, more sophisticated and cost-efficient approaches are necessary for profiling the landscap"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bbaa273]]"

@@ -1,6 +1,6 @@
 ---
-title: "Plant Biotechnology Journal published by Society for Experimental Biology and The Association of App"
-created: 2026-08-25
+title: "It should be noted that the expression of Ma06_g28730 in postharvest banana peel was obviously up- r"
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"
@@ -9,13 +9,13 @@ species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
 genes: [MaICE1, MaCBF1, MaNAC1]
-compounds: [cellulose]
+compounds: []
 ---
 
-# Plant Biotechnology Journal published by Society for Experimental Biology and The Association of App
+# It should be noted that the expression of Ma06_g28730 in postharvest banana peel was obviously up- r
 
 ## Claim
-Plant Biotechnology Journal published by Society for Experimental Biology and The Association of Applied Biologists and John Wiley & Sons Ltd., 1–14 MaNAC1 activates cellulose biosynthesis 3 named MaNAC1 (Shan et al., 2012), which is the direct target gene of MaICE1, and interacts with MaCBF1 (Shan et al., 2014).
+It should be noted that the expression of Ma06_g28730 in postharvest banana peel was obviously up- regulated under chilling stress (Figure 2d), and it was named MaNAC1 (Shan et al., 2012), which is the direct target gene of MaICE1, and interacts with MaCBF1 (Shan et al., 2014).
 
 ## Biological Context
 Banana MaNAC1 激活 secondary cell wall 纤维素 生物合成 to enhance chilling resistance in fruit

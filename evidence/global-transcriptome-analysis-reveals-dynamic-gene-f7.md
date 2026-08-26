@@ -1,6 +1,6 @@
 ---
 title: "Strikingly, resveratrol and emodin were only detected in the root tissue (Fig."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"

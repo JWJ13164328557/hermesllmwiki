@@ -1,6 +1,6 @@
 ---
 title: "Thus, understanding the regulation of expression via APA events across diverse cell types may provid"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pone-0217196]]"

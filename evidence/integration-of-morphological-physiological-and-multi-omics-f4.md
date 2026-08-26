@@ -1,6 +1,6 @@
 ---
 title: "In our study, we found that the expression levels of some genes encoding components of SA signaling "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

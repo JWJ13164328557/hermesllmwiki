@@ -1,6 +1,6 @@
 ---
 title: "starch"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,21 +9,21 @@ tags: [metabolism, compound]
 # starch
 
 ## Evidence Summary
-**Total evidence objects**: 27
+**Total evidence objects**: 10
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
 | [[10-1146-annurev-arplant-070225-032745-f7]] | In this process, we demonstrated that starch-accumulated Plants 2020, 9, 615 3 o |
-| [[b6-HkI9coXBppIC9b6SC65oKA-f1]] | At one hand, we found a strong positive correlation between GC PGLP1 amounts and |
-| [[b6-HkI9coXBppIC9b6SC65oKA-f4]] | Both enzymes share a strong posi- tive correlation with the photorespiratory ﬂux |
 | [[dpdf-10-1038-s41467-017-02782-9-f3]] | Among the pericarp cell types, we found that several genes encoding key enzymes  |
 | [[dpdf-10-1038-s41467-017-02782-9-f4]] | This observation was consistent with previous reports that starch accumulates pr |
 | [[insights-into-the-evolution-and-hypoglycemic-f1]] | For the 6,138 DE-mRNAs, we found that KEGG enrichment of the upregulated genes w |
 | [[integration-of-morphological-physiological-and-multi-omics-f2]] | In our study, we found that, in MD and HD plants, the levels of photosynthesis-r |
-| [[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo-f1]] | In conclusion, this study provides a new reference for potential mechanisms unde |
-| [[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo-f2]] | In summary, our findings indicate that MdbZIP44 protein and its interaction prot |
-| [[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo-f6]] | In plants with crassulacean acid metabolism, PHS1 also plays a critical role in  |
+| [[ms-10-1007_s00468-026-02816-0-f1]] | By combining six decades of tree-ring records with radial and seasonal analyses  |
+| [[ms-10-1007_s11627-026-10653-6-f3]] | While nitrogen is necessary for the production and maintenance of the growth enz |
+| [[ms-10-3389_fpls-2026-1880438-f6]] | NSC, composed primarily of soluble sugars and starch, repre- sents the carbon st |
+| [[ref-j-xplc-2020-100136-f6]] | Surprisingly, genes encoding all the enzymes required for starch biosynthesis we |
+| [[ref-plants9050615-f7]] | In this process, we demonstrated that starch-accumulated Plants 2020, 9, 615 3 o |
 
 ## Biosynthetic Pathway
 -

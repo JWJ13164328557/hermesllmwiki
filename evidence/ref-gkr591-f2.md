@@ -1,8 +1,8 @@
 ---
-title: "As an example of such applications, we show that Spec identifies a new class of biomarkers, which ex"
-created: 2026-06-01
+title: "Using global gene expression data from the mouse brain, plant root and human white blood cells, we s"
+created: 2026-08-26
 type: evidence
-tags: [development, single-cell]
+tags: [#single-cell-spatial, papers]
 source: "[[ref-gkr591]]"
 doi: "10.1093/nar/gkr591"
 species: [Plant (unspecified)]
@@ -12,10 +12,10 @@ genes: []
 compounds: []
 ---
 
-# As an example of such applications, we show that Spec identifies a new class of biomarkers, which ex
+# Using global gene expression data from the mouse brain, plant root and human white blood cells, we s
 
 ## Claim
-As an example of such applications, we show that Spec identifies a new class of biomarkers, which exhibit variable expression without compromising specificity.
+Using global gene expression data from the mouse brain, plant root and human white blood cells, we show that Spec identifies genes with variable expression levels that are none- theless highly specific of particular cell types.
 
 ## Biological Context
 Measuring cell identity in noisy biological systems.

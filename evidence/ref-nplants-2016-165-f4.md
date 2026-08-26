@@ -1,6 +1,6 @@
 ---
 title: "Correspondingly, the ERF115–PAT1 complex plays an important role in full stem cell niche recovery up"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

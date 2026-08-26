@@ -1,6 +1,6 @@
 ---
 title: "Many target genes of differentially expressed lncRNAs (DELs) were enriched in terpenoid biosynthesis"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

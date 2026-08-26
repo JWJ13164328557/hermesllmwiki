@@ -1,6 +1,6 @@
 ---
 title: "In summary, we provide a novel genetic and regulatory mechanism for Z-abienol and labd-13-ene-diol b"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-variance-and-transcriptional-regulation-modulate]]"

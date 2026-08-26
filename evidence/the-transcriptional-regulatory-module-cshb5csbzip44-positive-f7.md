@@ -1,6 +1,6 @@
 ---
 title: "For instance, in apple, the bZIP TF MdbZIP4-like directly binds to the promoter of MdMYB114, enhanci"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14219"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Malus domestica]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [MdMYB114, MdbZIP4]
+genes: [MdbZIP4, MdMYB114]
 compounds: [anthocyanin]
 ---
 

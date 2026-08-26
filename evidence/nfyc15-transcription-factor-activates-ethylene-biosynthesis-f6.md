@@ -1,6 +1,6 @@
 ---
 title: "NF-Y transcription factors usually function as heterotrimeric forms, including NF-YA, NF-YB and NF-Y"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"

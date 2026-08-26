@@ -1,6 +1,6 @@
 ---
 title: "Here we show that genes that specifically promote the development of root hairs in diploid sporophyt"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1142618]]"

@@ -1,21 +1,21 @@
 ---
-title: "Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO pr"
-created: 2026-08-25
+title: "napus Despite very few common transcriptional targets among seven hormones, other evidence suggests "
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"
 doi: "10.1111/pbi.14063"
 species: [Brassica napus, Citrus spp.]
-evidence_type: "DNA binding/regulation"
+evidence_type: "expression/regulation"
 quality: "medium"
-genes: [BnaA6, BnaC2]
+genes: []
 compounds: []
 ---
 
-# Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO pr
+# napus Despite very few common transcriptional targets among seven hormones, other evidence suggests 
 
 ## Claim
-Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO promoter (Figure 3g,h).
+napus Despite very few common transcriptional targets among seven hormones, other evidence suggests that one hormone-regulating gene is involved in another hormone metabolism pathway (Nemhauser et al., 2006).
 
 ## Biological Context
 比较 transcriptome 分析 揭示 the multiple levels of crosstalk in phytohormone networks in Brassica napus
@@ -24,7 +24,7 @@ Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 sit
 *Source: [[comparative-transcriptome-profiling-reveals-the-multiple]]*
 
 ## Evidence Quality
-**Type**: DNA binding/regulation
+**Type**: expression/regulation
 **Level**: medium
 
 ## Contradictory Evidence

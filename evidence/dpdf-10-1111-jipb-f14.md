@@ -1,6 +1,6 @@
 ---
 title: "Notably, 26 of these loci explained up to 83% of phenotypic variation (Li et al., 2013)."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

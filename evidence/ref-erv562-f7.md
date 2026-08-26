@@ -1,6 +1,6 @@
 ---
 title: "HDA9 may interact with proteins associated in stress responses In addition, we performed bioinformat"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

@@ -1,6 +1,6 @@
 ---
 title: "This result strongly suggested that the identified module plays a crucial role in regulating terpene"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

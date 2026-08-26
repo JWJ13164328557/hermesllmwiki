@@ -1,6 +1,6 @@
 ---
 title: "We reasoned that co-variation across single cells between the mRNA levels of a transcription factor "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nature12172]]"

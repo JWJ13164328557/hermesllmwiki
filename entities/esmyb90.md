@@ -1,6 +1,6 @@
 ---
 title: "EsMYB90"
-created: 2026-06-01
+created: 2026-08-26
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

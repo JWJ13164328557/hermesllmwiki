@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, PIF3-like, PIF4-like, and PIF5 were strongly affected by FR-6, followed by FR-3, whic"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[far-red-light-suppresses-glucosinolate-profiles-of]]"

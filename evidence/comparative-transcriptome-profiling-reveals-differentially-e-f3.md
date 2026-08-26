@@ -1,6 +1,6 @@
 ---
 title: "We found that there was a total of 889 GO terms enriched in at least one DEG group, and 194 shared G"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"

@@ -1,11 +1,11 @@
 ---
 title: "2.5 | The Synthesis of Andrographolide Is Influenced by Light 7 ­ ­ 7a ­ 7b–d ­ ­ ­ ­ 7d 7c ­ ­ ­ 7c"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b3-dUSuUm6U9HU_uM2NcC4AWg]]"
 doi: "10.1111/pbi.70534"
-species: [Oryza sativa, Coffea spp., Camellia sinensis]
+species: [Oryza sativa, Sorghum bicolor, Coffea spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []

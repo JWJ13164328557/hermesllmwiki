@@ -1,6 +1,6 @@
 ---
 title: "SlNOR"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -14,12 +14,12 @@ tags: [metabolism, gene]
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[dpdf-10-1093-plcell-koag144-8678491-f1]] | Collectively, these data suggest 9 that O-glycosylation is required to maintain  |
-| [[dpdf-10-1093-plcell-koag144-8678491-f3]] | Similarly, our data show that O-glycosylation does 7 not alter SlNOR's nuclear l |
-| [[dpdf-10-1093-plcell-koag144-8678491-f4]] | Together, 22 these results suggest that O-glycosylation potentiates SlNOR's tran |
-| [[dpdf-10-1093-plcell-koag144-8678491-f5]] | Interestingly, domain mapping 29 revealed that SlSEC1 and SlSPY interact with th |
-| [[dpdf-10-1093-plcell-koag144-8678491-f7]] | We found that 1 SlNOR is a substrate for both SlSEC1 and SlSPY. |
-| [[dpdf-10-1093-plcell-koag144-8678491-f8]] | Collectively, 16 our findings uncover a key PTM-based regulatory mechanism in wh |
+| [[daily-42135064-f1]] | Collectively, these data suggest that O-glycosylation is required to maintain Sl |
+| [[daily-42135064-f3]] | Similarly, our data show that O-glycosylation does not alter SlNOR’s nu­ clear l |
+| [[daily-42135064-f4]] | Together, these results suggest that O-glycosylation potentiates SlNOR’s transcr |
+| [[daily-42135064-f6]] | Notably, coexpression of SlNOR with either Figure 6 O-glycosylation of SlNOR is  |
+| [[daily-42135064-f7]] | Here, we report that O-glycosylation regulates NON-RIPENING (SlNOR), the master  |
+| [[daily-42135064-f8]] | We found that SlNOR is a substrate for both SlSEC1 and SlSPY. |
 
 ## Functional Roles
 _（待从证据深入提炼）_

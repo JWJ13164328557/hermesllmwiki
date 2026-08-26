@@ -1,6 +1,6 @@
 ---
 title: "AtGCN5"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -9,14 +9,11 @@ tags: [metabolism, gene]
 # AtGCN5
 
 ## Evidence Summary
-**Total evidence objects**: 9
+**Total evidence objects**: 6
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[ref-j-bbaexp-2007-04-007-f3]] | Similarly, AtGCN5 appears to interact with the Arabidopsis homologs of the yeast |
-| [[ref-j-bbaexp-2007-04-007-f6]] | The Arabidopsis AtGCN5 and ADA2 proteins interact with transcription factor (e.g |
-| [[ref-j-bbaexp-2007-04-007-f7]] | However, it is not clear whether WUS is the direct or indirect target of AtGCN5. |
 | [[ref-ssq018-f1]] | AtGCN5 targets to a large number of promoters and is required for acetylation of |
 | [[ref-ssq018-f2]] | Recruitment of AtGCN5 to target promoters is likely to be mediated by direct or  |
 | [[ref-ssq018-f4]] | HAT Activity of AtGCN5 Histone H3K9, K14, K18, and K27 and histone H4K5, K8, K12 |

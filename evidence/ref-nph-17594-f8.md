@@ -1,6 +1,6 @@
 ---
 title: "1b), strongly suggesting that WIND1 primarily targets transcriptional regulators."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nph-17594]]"

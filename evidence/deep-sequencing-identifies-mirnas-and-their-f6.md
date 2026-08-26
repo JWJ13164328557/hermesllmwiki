@@ -1,6 +1,6 @@
 ---
 title: "Recently, the roles of miRNAs and their targets in the regulation of the biosynthesis and accumulati"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

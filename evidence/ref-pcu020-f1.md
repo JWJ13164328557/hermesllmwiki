@@ -1,21 +1,21 @@
 ---
-title: "Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is invo"
-created: 2026-06-01
+title: "Taken together, we conclude that SGR6 may act on formation and/or maintenance of invaginated VM stru"
+created: 2026-08-26
 type: evidence
-tags: [reference]
+tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"
 doi: "10.1093/pcp/pcu020"
-species: [Plant (unspecified)]
+species: [Arabidopsis thaliana, Zea mays, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
 compounds: []
 ---
 
-# Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is invo
+# Taken together, we conclude that SGR6 may act on formation and/or maintenance of invaginated VM stru
 
 ## Claim
-Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is involved in the control of morphological changes and dynamics of VM structures in endodermal cells, which are the gravity-sensing cells in shoots.
+Taken together, we conclude that SGR6 may act on formation and/or maintenance of invaginated VM structures and indirectly modulates amyloplast dynamics in endodermal cells.
 
 ## Biological Context
 A unique HEAT repeat-containing protein SHOOT GRAVITROPISM6 is involved in vacuo

@@ -1,11 +1,11 @@
 ---
 title: "Through their binding to TGACG elements in the activation sequence-1 (as-1), TGAs, a type of basic l"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"
 doi: "10.1093/hr/uhad066"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Taxus spp.]
+species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "protein interaction"
 quality: "medium"
 genes: []

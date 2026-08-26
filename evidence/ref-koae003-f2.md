@@ -1,6 +1,6 @@
 ---
 title: "Downloaded from https://academic.oup.com/plcell/article/36/4/812/7564676 by Forest Product Lab user "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-koae003]]"

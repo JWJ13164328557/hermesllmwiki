@@ -1,6 +1,6 @@
 ---
 title: "Importantly, the independence from reporter lines allows the analysis of any given tissue in any pla"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-tplants-2019-10-008]]"

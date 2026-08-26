@@ -1,6 +1,6 @@
 ---
 title: "Notably, virus-induced silencing of Sl4CLL6 not only decreased the expression of genes downstream of"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"

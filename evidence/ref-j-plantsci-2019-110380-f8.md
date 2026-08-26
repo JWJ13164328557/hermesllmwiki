@@ -1,6 +1,6 @@
 ---
 title: "[64] suggested that ZmIAA15 interacts with rum1."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

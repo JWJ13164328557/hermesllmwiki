@@ -1,6 +1,6 @@
 ---
 title: "Aldo-keto reductase (AKR4B) has been associated to ASA generation, since overexpression of this gene"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-role-of-light-intensity-in]]"

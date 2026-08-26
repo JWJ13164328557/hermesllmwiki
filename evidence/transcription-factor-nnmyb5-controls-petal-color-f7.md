@@ -1,6 +1,6 @@
 ---
 title: "In apple, an MdMYB1 protein could directly bind to the pro­ moter of MdGSTF6 and activate its expres"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiad363"
 species: [Arabidopsis thaliana, Zea mays, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MdMYB1, MdGSTF6]
+genes: [MdGSTF6, MdMYB1]
 compounds: []
 ---
 

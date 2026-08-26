@@ -1,6 +1,6 @@
 ---
 title: "Previous studies of plant defense against pest infestations have shown that the expression of AevPAL"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"

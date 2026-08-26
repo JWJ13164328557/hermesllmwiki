@@ -2,8 +2,8 @@
 
 title: "单细胞与空间组学 — Synthesis"
 created: 2026-06-01
-total_evidence: 371
-total_papers: 56
+total_evidence: 359
+total_papers: 52
 type: synthesis
 tags: [synthesis, single-cell, spatial-omics, transcriptomics, plant-atlas]
 
@@ -148,8 +148,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: spatial-omics, signaling | 全部标签: spatial-omics, signaling
 
 **统计**:
-- 涵盖论文: ~56 篇
-- 证据条目: 371 条
+- 涵盖论文: ~52 篇
+- 证据条目: 359 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: spatial-omics, signaling
@@ -195,8 +195,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: spatial-transcriptomics | 全部标签: spatial-transcriptomics
 
 **统计**:
-- 涵盖论文: ~56 篇
-- 证据条目: 371 条
+- 涵盖论文: ~52 篇
+- 证据条目: 359 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: spatial-transcriptomics
@@ -241,8 +241,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: single-cell | 全部标签: single-cell
 
 **统计**:
-- 涵盖论文: ~56 篇
-- 证据条目: 371 条
+- 涵盖论文: ~52 篇
+- 证据条目: 359 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: single-cell
@@ -294,8 +294,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: plant-single-cell, scrnaseq | 全部标签: plant-single-cell, scrnaseq
 
 **统计**:
-- 涵盖论文: ~56 篇
-- 证据条目: 371 条
+- 涵盖论文: ~52 篇
+- 证据条目: 359 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: plant-single-cell, scrnaseq

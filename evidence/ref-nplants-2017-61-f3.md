@@ -1,6 +1,6 @@
 ---
 title: "iii, Species-speciﬁc treatments for tissue permeabilization are applied to allow a controlled vertic"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2017-61]]"

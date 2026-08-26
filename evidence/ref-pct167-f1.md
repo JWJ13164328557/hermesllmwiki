@@ -1,6 +1,6 @@
 ---
 title: "necator, we found that AtNPF3.1 is up-regulated in the leaves of infected Arabidopsis similarly to V"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pct167]]"
@@ -8,7 +8,7 @@ doi: "10.1093/pcp/pct167"
 species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtNPF3, VvNPF3]
+genes: [VvNPF3, AtNPF3]
 compounds: []
 ---
 

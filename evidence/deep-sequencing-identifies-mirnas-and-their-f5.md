@@ -1,6 +1,6 @@
 ---
 title: "The analysis of microRNAs and their target unigenes in C."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

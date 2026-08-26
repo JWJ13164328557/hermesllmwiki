@@ -1,21 +1,21 @@
 ---
-title: "For instance, DELLA proteins act as repressors of a central growth regulatory pathway that are rapid"
-created: 2026-08-25
+title: "Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO pr"
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"
 doi: "10.1111/pbi.14063"
 species: [Brassica napus, Citrus spp.]
-evidence_type: "expression/regulation"
+evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: []
+genes: [BnaA6, BnaC2]
 compounds: []
 ---
 
-# For instance, DELLA proteins act as repressors of a central growth regulatory pathway that are rapid
+# Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO pr
 
 ## Claim
-For instance, DELLA proteins act as repressors of a central growth regulatory pathway that are rapidly degraded or accumulated in the presence or absence of GA respectively (Sun, 2011; Wang and Deng, 2014), and the turnover of DELLA protein levels is required for a normal GA growth response (Van De Velde et al., 2017).
+Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO promoter (Figure 3g,h).
 
 ## Biological Context
 比较 transcriptome 分析 揭示 the multiple levels of crosstalk in phytohormone networks in Brassica napus
@@ -24,7 +24,7 @@ For instance, DELLA proteins act as repressors of a central growth regulatory pa
 *Source: [[comparative-transcriptome-profiling-reveals-the-multiple]]*
 
 ## Evidence Quality
-**Type**: expression/regulation
+**Type**: DNA binding/regulation
 **Level**: medium
 
 ## Contradictory Evidence

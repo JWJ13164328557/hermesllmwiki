@@ -1,0 +1,34 @@
+---
+title: "Yet, it emerges that the impact of 3′ UTR APA on miRNA-mediated regulation of mR- NAs is more compli"
+created: 2026-08-26
+type: evidence
+tags: [#single-cell-spatial, papers]
+source: "[[ref-gkz781]]"
+doi: "10.1093/nar/gkz781"
+species: [Citrus spp., Ficus carica]
+evidence_type: "expression/regulation"
+quality: "medium"
+genes: []
+compounds: []
+---
+
+# Yet, it emerges that the impact of 3′ UTR APA on miRNA-mediated regulation of mR- NAs is more compli
+
+## Claim
+Yet, it emerges that the impact of 3′ UTR APA on miRNA-mediated regulation of mR- NAs is more complicated than mere inclusion/exclusion of miRNA target sites in/from the 3′ UTR, as the efficiency of mRNA targeting is also affected by the location of the miRNA target site––sites located at the start or end of the 3′ UTRs are more efficient than those located in the middle (62).
+
+## Biological Context
+Cell-type-specific analysis of alternative polyadenylation using single-cell tra
+
+## Supporting Evidence
+*Source: [[ref-gkz781]]*
+
+## Evidence Quality
+**Type**: expression/regulation
+**Level**: medium
+
+## Contradictory Evidence
+_None identified_
+
+## Open Questions
+-

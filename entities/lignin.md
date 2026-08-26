@@ -1,6 +1,6 @@
 ---
 title: "lignin"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,21 +9,21 @@ tags: [metabolism, compound]
 # lignin
 
 ## Evidence Summary
-**Total evidence objects**: 28
+**Total evidence objects**: 16
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
 | [[10-1177-002070207503000209-f5]] | Carbohydrates and Role of Lignin Biosynthesis Lignin and cellulose contents are  |
-| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f1]] | Strikingly, we found that NAA is involved in the inhibition of lignin and cellul |
-| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f2]] | In conclusion, our study shows that the ‘PbrARF13- PbrNSC-PbrMYB132’ regulatory  |
-| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f3]] | Taken together, our study highlights the important role of the ‘PbrARF13-PbrNSC- |
-| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f8]] | We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for |
-| [[blue-light-photoreceptor-cryptochrome-1-promotes-f3]] | Consistent with these observations, we found the lignin biosynthesis genes were  |
-| [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f5]] | For instance, we found in the C5 marker genes, CASPL4D2 and CASPL1D1, corroborat |
 | [[daily-42174430-f4]] | Lignin, a fun damental component of the plant cell wall, is essential for long-d |
-| [[genetic-transcriptional-and-regulatory-landscape-of-f3]] | These results suggest the potential utilization of genetic manipulation of ligni |
-| [[integrated-metabolomic-and-transcriptomic-strategies-to-f6]] | Taken together, the decreased accumulation of flavonoid possibly attributed to t |
+| [[ms-10-1007_s44372-026-00649-2-f1]] | Interestingly, among the constant R: B treatments, the lower proportions of red  |
+| [[ms-10-1007_s44372-026-00654-5-f1]] | The phenylpropanoid pathway plays a central role in the biosynthesis of diverse  |
+| [[ms-10-1038_s41598-026-56477-7-f6]] | While animal extracellular matrix is composed of fibrous proteins that serve as  |
+| [[ms-10-1126_sciadv-aee2172-f1]] | Collectively, these find- ings uncover a regulatory module for lignin metabolite |
+| [[ms-10-1126_sciadv-aee2172-f2]] | Collectively, these findings suggest that PtoCPK3 regulates lignin metabolite ac |
+| [[ms-10-1126_sciadv-aee2172-f7]] | These findings suggest that drought stress preferentially redi- rects carbon flu |
+| [[ms-10-1371_journal-pone-0353726-f2]] | In vascular tissues, particularly the xylem, lignin plays a crucial role in tran |
+| [[ms-10-17221_37_2026-cjgpb-f5]] | Accumulating evidence has demonstrated that peroxidases play a crucial role in t |
 
 ## Biosynthetic Pathway
 -

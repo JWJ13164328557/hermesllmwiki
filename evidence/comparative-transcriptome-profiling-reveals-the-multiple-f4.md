@@ -1,6 +1,6 @@
 ---
-title: "These common transcriptional targets of ABA and GA were as likely to be affected in the same as in t"
-created: 2026-08-25
+title: "napus Phytohormones play a central role in plant growth and development."
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"
@@ -12,10 +12,10 @@ genes: []
 compounds: []
 ---
 
-# These common transcriptional targets of ABA and GA were as likely to be affected in the same as in t
+# napus Phytohormones play a central role in plant growth and development.
 
 ## Claim
-These common transcriptional targets of ABA and GA were as likely to be affected in the same as in the opposite direction.
+napus Phytohormones play a central role in plant growth and development.
 
 ## Biological Context
 比较 transcriptome 分析 揭示 the multiple levels of crosstalk in phytohormone networks in Brassica napus

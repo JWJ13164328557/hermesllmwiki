@@ -1,6 +1,6 @@
 ---
 title: "Oleosins play a key role in maintaining the size and stability of oil bodies, ensuring they remain a"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

@@ -1,6 +1,6 @@
 ---
 title: "Because RBR is expressed in all cells of the plant, it is difficult to measure whether our cell-type"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

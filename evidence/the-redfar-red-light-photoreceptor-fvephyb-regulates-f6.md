@@ -1,6 +1,6 @@
 ---
 title: "The active phytochromes would interact with the bHLH transcription factors phytochrome interacting f"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

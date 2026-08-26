@@ -1,6 +1,6 @@
 ---
 title: "To determine if AtRHD6 and AtRSL1 are required for the de- velopment of the only other tip-growing c"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1142618]]"
@@ -8,7 +8,7 @@ doi: "10.1126/science.1142618"
 species: [Arabidopsis thaliana, Physcomitrium patens, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtRSL1, AtRHD6]
+genes: [AtRHD6, AtRSL1]
 compounds: []
 ---
 

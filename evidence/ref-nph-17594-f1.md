@@ -1,6 +1,6 @@
 ---
 title: "ALD1 also shows WRKY33-dependent expression man- ner, and importantly, plants defective in this gene"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nph-17594]]"

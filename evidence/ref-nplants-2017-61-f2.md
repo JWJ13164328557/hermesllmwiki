@@ -1,6 +1,6 @@
 ---
 title: "Moreover, we show that the pollen exine formation pathway was altered in ﬂoral stages 10 and 11; at "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2017-61]]"

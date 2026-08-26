@@ -1,6 +1,6 @@
 ---
 title: "Again, we found an unannotated gene, KIAA1462, with- in this cluster."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aaa6090]]"

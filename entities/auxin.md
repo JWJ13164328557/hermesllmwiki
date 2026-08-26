@@ -1,6 +1,6 @@
 ---
 title: "auxin"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,21 +9,21 @@ tags: [metabolism, compound]
 # auxin
 
 ## Evidence Summary
-**Total evidence objects**: 150
+**Total evidence objects**: 115
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
 | [[10-1146-annurev-arplant-042817-f3]] | More in-depth studies found that WUS directly regulates additional cytokinin- an |
 | [[10-1146-annurev-arplant-070225-032745-f1]] | Taken together, LZY proteins likely play a central role in gravity-sensing cells |
-| [[a-single-cell-transcriptome-atlas-reveals-the-trajectory-of-early-cell-fate-tran-f4]] | In our dataset, we found that the wound-responsive genes WIND1/2/3 and the auxin |
-| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f1]] | Strikingly, we found that NAA is involved in the inhibition of lignin and cellul |
-| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f2]] | In conclusion, our study shows that the ‘PbrARF13- PbrNSC-PbrMYB132’ regulatory  |
-| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f4]] | PbrNSC was shown to bind to an auxin response factor, PbrARF13. |
-| [[b3--bs1tAYpaCxa0fWZ49R6kw-f2]] | In summary, PsiSKP2B plays a crucial role in LR development by modulating the pr |
-| [[b3--bs1tAYpaCxa0fWZ49R6kw-f3]] | Taken together, these results suggest that PsiSKP2B is involved in regulating LR |
-| [[b3--bs1tAYpaCxa0fWZ49R6kw-f7]] | It interacts with light, glucose, and auxin signaling pathways to finely regulat |
 | [[b3-yRRSlByPuOxXKvXBl0_LZg-f5]] | Specifically, we found enrichment in cell growth, auxin response, and cell divi- |
+| [[dpdf-10-1101-767764-f5]] | kraussiana as well as the genetic complementation results, 209 we propose that r |
+| [[dpdf-10-1101-767764-f7]] | Our results reveal that the auxin- 263 euANT-WOX module as well as SHR-SCR and p |
+| [[dpdf-10-1146-annurev-arplant-083123073106-f5]] | Computational models have played a critical role in unraveling the mechanisms un |
+| [[dpdf-10-1146-annurev-arplant-083123073106-f7]] | Zooming out from auxin alone, modeling studies have played a key role in elucida |
+| [[dpdf-10-1146-annurev-arplant-083123073106-f10]] | Surprisingly, these results indicate that while PIN polarity is important, diffe |
+| [[dpdf-10-1146-annurev-arplant-083123073106-f11]] | Beyond Auxin: Cytokinin and Ethylene Finite-element model: uses meshed geometric |
+| [[dpdf-10-1146-annurev-arplant-083123073106-f12]] | Similarly, for longitudinal zonation, the interplay between auxin and cytokinin  |
 
 ## Biosynthetic Pathway
 -

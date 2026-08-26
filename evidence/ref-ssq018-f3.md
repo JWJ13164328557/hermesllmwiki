@@ -1,6 +1,6 @@
 ---
 title: "N-terminal lysine residues of histone H3 (K9, K14, K18, K23, and K27) and H4 (K5, K8, K12, K16, and "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

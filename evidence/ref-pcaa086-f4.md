@@ -1,6 +1,6 @@
 ---
 title: "We found that OsARF8 and OsARF18 were upregulated in the scutellum of hda710 when the mature seeds w"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

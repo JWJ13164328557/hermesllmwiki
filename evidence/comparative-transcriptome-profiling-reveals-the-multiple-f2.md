@@ -1,6 +1,6 @@
 ---
-title: "Differentially expressed gene analysis revealed few common target genes that co- regulated (up- and "
-created: 2026-08-25
+title: "We found that the GA biosynthesis genes, CPS, KS, KO and GA20ox were induced by TZ, and the endogeno"
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"
@@ -12,10 +12,10 @@ genes: []
 compounds: []
 ---
 
-# Differentially expressed gene analysis revealed few common target genes that co- regulated (up- and 
+# We found that the GA biosynthesis genes, CPS, KS, KO and GA20ox were induced by TZ, and the endogeno
 
 ## Claim
-Differentially expressed gene analysis revealed few common target genes that co- regulated (up- and down-regulated) by seven hormones; instead, different hormones appear to regulate distinct members of protein families.
+We found that the GA biosynthesis genes, CPS, KS, KO and GA20ox were induced by TZ, and the endogenous GA3 levels were induced by TZ treatment (Figures 4g,h and S14; Table S23).
 
 ## Biological Context
 比较 transcriptome 分析 揭示 the multiple levels of crosstalk in phytohormone networks in Brassica napus

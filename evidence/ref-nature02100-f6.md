@@ -1,6 +1,6 @@
 ---
 title: "We conclude that WOLpro::APL is sufﬁcient to inhibit differentiation of TE."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

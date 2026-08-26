@@ -1,6 +1,6 @@
 ---
 title: "Importantly, caution is required when removing outlier cells so as to avoid removing rare cells that"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2015-04-005]]"

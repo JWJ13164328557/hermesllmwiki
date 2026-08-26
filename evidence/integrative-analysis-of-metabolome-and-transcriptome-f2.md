@@ -1,6 +1,6 @@
 ---
 title: "Additionally, we found the enrichment degrees of substances in flavone and flavonol biosynthesis pat"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrative-analysis-of-metabolome-and-transcriptome]]"

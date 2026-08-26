@@ -1,6 +1,6 @@
 ---
 title: "multiflora remains lagging behind, and the lack of genomic data seriously hinders the construction o"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

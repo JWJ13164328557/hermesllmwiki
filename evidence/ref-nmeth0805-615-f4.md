@@ -1,6 +1,6 @@
 ---
 title: "Typical gates set in forward versus side scatter plots to eliminate dead animal cells or debris may "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nmeth0805-615]]"

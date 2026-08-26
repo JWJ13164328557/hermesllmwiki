@@ -1,6 +1,6 @@
 ---
-title: "1–14 doi: 10.1111/pbi.14195 the ability to directly interact with its promoter (Yamaguchi et al., 20"
-created: 2026-08-25
+title: "Furthermore, the interaction between a NAC domain TF Vascular-Related NAC-Domain7 (VND7) and a VND I"
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"
@@ -12,10 +12,10 @@ genes: []
 compounds: []
 ---
 
-# 1–14 doi: 10.1111/pbi.14195 the ability to directly interact with its promoter (Yamaguchi et al., 20
+# Furthermore, the interaction between a NAC domain TF Vascular-Related NAC-Domain7 (VND7) and a VND I
 
 ## Claim
-1–14 doi: 10.1111/pbi.14195 the ability to directly interact with its promoter (Yamaguchi et al., 2010a; Yang et al., 2011).
+Furthermore, the interaction between a NAC domain TF Vascular-Related NAC-Domain7 (VND7) and a VND Interacting 2 (VNI2) TF contributes to the regulation of Cold- regulated (Marquez-Garcıa et al., 2012) transcription and shows the ability to directly interact with its promoter (Yamaguchi et al., 2010a; Yang et al., 2011).
 
 ## Biological Context
 Banana MaNAC1 激活 secondary cell wall 纤维素 生物合成 to enhance chilling resistance in fruit

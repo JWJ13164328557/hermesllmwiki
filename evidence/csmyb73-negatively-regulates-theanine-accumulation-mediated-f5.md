@@ -1,6 +1,6 @@
 ---
 title: "Therefore, it can be inferred that the growth of yeast cells was robust when exposed to AbA, suggest"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae012"
 species: [Nicotiana tabacum, Citrus spp., Camellia sinensis]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CsMYB73, CsGGT2]
+genes: [CsGGT2, CsMYB73]
 compounds: []
 ---
 

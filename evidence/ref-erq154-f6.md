@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that NaCl can induce H3K4 trime- thylation in abiotic stress-responsive genes "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erq154]]"

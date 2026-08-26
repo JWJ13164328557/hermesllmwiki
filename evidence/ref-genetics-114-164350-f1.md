@@ -1,8 +1,8 @@
 ---
 title: "Furthermore, our results show that the heuristic scores for choosing model complexity provide a reas"
-created: 2026-06-01
+created: 2026-08-26
 type: evidence
-tags: [development]
+tags: [#methods-tools, papers]
 source: "[[ref-genetics-114-164350]]"
 doi: "10.1534/genetics.114.164350"
 species: [Plant (unspecified)]

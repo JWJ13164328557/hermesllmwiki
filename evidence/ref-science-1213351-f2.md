@@ -1,6 +1,6 @@
 ---
 title: "The Arabidopsis ge- nome encodes several SWEET paralogs, includ- ing the closely related transporter"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1213351]]"

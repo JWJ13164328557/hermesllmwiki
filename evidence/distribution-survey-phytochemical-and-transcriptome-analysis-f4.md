@@ -1,6 +1,6 @@
 ---
 title: "Notably, aurantiamarin (hesper- idin) in the root of Z."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[distribution-survey-phytochemical-and-transcriptome-analysis]]"

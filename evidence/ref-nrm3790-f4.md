@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, inducible overexpression of PLT1 or PLT2 is sufficient for the formation of ectopic r"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nrm3790]]"

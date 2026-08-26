@@ -1,6 +1,6 @@
 ---
 title: "PsbZIP1 and PsbZIP10 were not able to bind to the PsUFGTm (Fig."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PsUFGTm, PsbZIP10, PsbZIP1]
+genes: [PsbZIP1, PsbZIP10, PsUFGTm]
 compounds: []
 ---
 

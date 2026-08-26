@@ -1,6 +1,6 @@
 ---
 title: "In particular, we found support for 1,454 intron retention events (Figure S3G), providing conﬁrmatio"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

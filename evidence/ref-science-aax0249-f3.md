@@ -1,6 +1,6 @@
 ---
 title: "These data suggest a possi- ble role for GULP1 in human breast cancer tumorigenesis."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aax0249]]"

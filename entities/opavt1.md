@@ -1,6 +1,6 @@
 ---
 title: "OpAVT1"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -9,14 +9,11 @@ tags: [metabolism, gene]
 # OpAVT1
 
 ## Evidence Summary
-**Total evidence objects**: 10
+**Total evidence objects**: 7
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[b4-B6ORjNkH1VSkcVpnv9C7xQ-f1]] | Collectively, these results demon- strated that knockout of the OpAVT1 gene tran |
-| [[b4-B6ORjNkH1VSkcVpnv9C7xQ-f6]] | Notably, co-­expression of OpAVT1 with AtAAP6 inhibited yeast growth compared to |
-| [[b4-B6ORjNkH1VSkcVpnv9C7xQ-f7]] | Notably, OpAVT1-­KO lines showed yellowish-­brown colour, suppressed root elonga |
 | [[dpdf-10-1111-pbi-f2]] | Concurrently, this gene cluster has evolved a novel functional gene, OpAVT1, whi |
 | [[dpdf-10-1111-pbi-f7]] | Notably, co-­expression of OpAVT1 with AtAAP6 inhibited yeast growth compared to |
 | [[dpdf-10-1111-pbi-f8]] | These results suggested that loss of OpAVT1 impaired intracellular tryptophan tr |

@@ -1,8 +1,8 @@
 ---
-title: "Using global gene expression data from the mouse brain, plant root and human white blood cells, we s"
-created: 2026-06-01
+title: "Interestingly, in both organisms, we found that certain functional categories of genes tended to hav"
+created: 2026-08-26
 type: evidence
-tags: [development, single-cell]
+tags: [#single-cell-spatial, papers]
 source: "[[ref-gkr591]]"
 doi: "10.1093/nar/gkr591"
 species: [Plant (unspecified)]
@@ -12,10 +12,10 @@ genes: []
 compounds: []
 ---
 
-# Using global gene expression data from the mouse brain, plant root and human white blood cells, we s
+# Interestingly, in both organisms, we found that certain functional categories of genes tended to hav
 
 ## Claim
-Using global gene expression data from the mouse brain, plant root and human white blood cells, we show that Spec identifies genes with variable expression levels that are nonetheless highly specific of particular cell types.
+Interestingly, in both organisms, we found that certain functional categories of genes tended to have similar domain sizes even if they were ex- pressed in different cell types (Supplementary Tables S2 and S3).
 
 ## Biological Context
 Measuring cell identity in noisy biological systems.

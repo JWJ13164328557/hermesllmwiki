@@ -1,6 +1,6 @@
 ---
-title: "See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online "
-created: 2026-08-25
+title: " 2023 The Authors New Phytologist  2023 New Phytologist Foundation New Phytologist (2024) 241: 471"
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"
@@ -12,10 +12,10 @@ genes: []
 compounds: []
 ---
 
-# See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online 
+#  2023 The Authors New Phytologist  2023 New Phytologist Foundation New Phytologist (2024) 241: 471
 
 ## Claim
-See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License We then examined both PAP1a and PAP1b lineages, looking at the MYB-bHLH interacting domain (N-terminal, R3 repeat), which is essential for canonical MBW complex formation.
+ 2023 The Authors New Phytologist  2023 New Phytologist Foundation New Phytologist (2024) 241: 471–489 www.newphytologist.com New Phytologist Research 479 We then examined both PAP1a and PAP1b lineages, looking at the MYB-bHLH interacting domain (N-terminal, R3 repeat), which is essential for canonical MBW complex formation.
 
 ## Biological Context
 Multiple mechanisms explain loss of anthocyanins from betalain‐pigmented Caryophyllales, including repeated wholesale loss of a 关键 anthocyanidin synthesis enzyme

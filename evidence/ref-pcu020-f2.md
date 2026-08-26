@@ -1,21 +1,21 @@
 ---
-title: "Our results suggest that SGR6 is a novel protein invol The plant vacuole is a single membrane-bound "
-created: 2026-06-01
+title: "Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is invo"
+created: 2026-08-26
 type: evidence
-tags: [reference]
+tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"
 doi: "10.1093/pcp/pcu020"
-species: [Plant (unspecified)]
+species: [Arabidopsis thaliana, Zea mays, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
 compounds: []
 ---
 
-# Our results suggest that SGR6 is a novel protein invol The plant vacuole is a single membrane-bound 
+# Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is invo
 
 ## Claim
-Our results suggest that SGR6 is a novel protein invol The plant vacuole is a single membrane-bound organelle required for many physiological functions, including development, growth, senescence and defense response.
+Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is involved in the control of morpho- logical changes and dynamics of VM structures in endoder- mal cells, which are the gravity-sensing cells in shoots.
 
 ## Biological Context
 A unique HEAT repeat-containing protein SHOOT GRAVITROPISM6 is involved in vacuo

@@ -1,6 +1,6 @@
 ---
 title: "We found that the expression of MYB44 was induced by dehydration treatment (S4A Fig)."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

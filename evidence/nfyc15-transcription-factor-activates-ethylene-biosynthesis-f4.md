@@ -1,6 +1,6 @@
 ---
 title: "Since these downstream genes (nine MeERFs and MeAIL5) are regulated by ethylene, we conclude that Me"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14355"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MeNF, MeAIL5, MeERFs]
+genes: [MeERFs, MeAIL5, MeNF]
 compounds: [ethylene]
 ---
 

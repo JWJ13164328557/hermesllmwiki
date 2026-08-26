@@ -1,6 +1,6 @@
 ---
 title: "Notably, all four methods can substantially mitigate discrepancy between the two datasets."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

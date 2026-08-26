@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that WRKY genes in C."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrative-analysis-of-metabolome-and-transcriptome]]"

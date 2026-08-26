@@ -1,6 +1,6 @@
 ---
 title: "Notably, the research on biosynthetic pathway of resveratrol in F."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

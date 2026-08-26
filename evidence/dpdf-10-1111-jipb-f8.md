@@ -1,6 +1,6 @@
 ---
 title: "Notably, the module promotes oil body formation via upregulation of GmOLEO2, but not GmOLEO1 (Lu et "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

@@ -1,6 +1,6 @@
 ---
 title: "Plant roots play a crucial role in the absorption of water and nu- trients from the soil and are als"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

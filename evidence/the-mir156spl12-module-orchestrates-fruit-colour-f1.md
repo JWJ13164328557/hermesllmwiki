@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our results show that VcMIR156a/VcSPL12 alters ethylene production through targeting V"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14193"
 species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VcMIR156a, VcSPL12, VcACO6, VcACS1]
+genes: [VcACO6, VcACS1, VcSPL12, VcMIR156a]
 compounds: [ethylene]
 ---
 

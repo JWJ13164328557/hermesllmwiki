@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, plant research has fully embraced single cell transcriptomics and its application to "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[cr-annurev-arplant-0817]]"

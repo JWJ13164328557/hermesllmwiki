@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that EAR motifs are required for the in­ hibition of anthocyanin biosynthesis "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"

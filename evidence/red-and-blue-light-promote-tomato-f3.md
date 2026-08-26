@@ -1,6 +1,6 @@
 ---
 title: "Our findings reveal that red and blue light treatments cause significant shifts in molecular, bioche"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

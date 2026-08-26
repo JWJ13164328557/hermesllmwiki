@@ -1,6 +1,6 @@
 ---
 title: "It has been reported before that the related PSK2 and PSK5 genes are both a target of ERF115, but on"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-koad028]]"

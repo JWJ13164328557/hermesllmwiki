@@ -1,6 +1,6 @@
 ---
 title: "CmNAC25"
-created: 2026-06-04
+created: 2026-08-26
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

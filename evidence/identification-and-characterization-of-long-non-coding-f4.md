@@ -1,6 +1,6 @@
 ---
 title: "By analyzing the target genes of lncRNAs, we found that 28 differentially expressed structural genes"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-and-characterization-of-long-non-coding]]"

@@ -1,6 +1,6 @@
 ---
 title: "Based on these results, NnGST2 was designated as a candidate downstream target gene of NnMYB5 (Fig."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"

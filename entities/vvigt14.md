@@ -1,6 +1,6 @@
 ---
 title: "VviGT14"
-created: 2026-08-25
+created: 2026-08-26
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

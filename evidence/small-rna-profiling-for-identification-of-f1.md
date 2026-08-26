@@ -1,6 +1,6 @@
 ---
 title: "Conclusions: This study provides new insights into the important regulatory roles of miRNAs in the s"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "Even if the pgm has a minor impact on the lateral branch phenotype of lzy1;2;3 plants, our results s"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-plants9050615]]"

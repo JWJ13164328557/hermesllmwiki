@@ -1,6 +1,6 @@
 ---
 title: "We found that a transcription factor named ethylene response factor 109 (ERF109) (At4g34410) was rem"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"

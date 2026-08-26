@@ -1,6 +1,6 @@
 ---
 title: "miltiorrhiza Plant miRNAs can guide RNA-induced silencing complexes to target transcripts and then s"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"

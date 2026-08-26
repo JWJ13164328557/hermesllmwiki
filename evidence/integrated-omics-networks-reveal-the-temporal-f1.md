@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our results support our kinase-signaling network prediction that S179 and S180 are B"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[integrated-omics-networks-reveal-the-temporal]]"

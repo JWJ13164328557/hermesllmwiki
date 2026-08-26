@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that the poly(A) proﬁle of FPA, another ﬂowering time pathway gene (Schombur"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

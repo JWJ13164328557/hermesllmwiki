@@ -1,6 +1,6 @@
 ---
 title: "Thus, whereas Gfi1 and Irf8 are required for generating normal granulocytes and monocytes, other reg"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nmeth-4402]]"

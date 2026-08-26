@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that JA could play a key role in the regulation of cell death associated with "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

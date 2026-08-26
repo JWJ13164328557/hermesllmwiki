@@ -1,6 +1,6 @@
 ---
 title: "In plants JA plays a central role in the systemic wound response."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

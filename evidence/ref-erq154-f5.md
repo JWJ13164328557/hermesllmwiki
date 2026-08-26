@@ -1,6 +1,6 @@
 ---
 title: "Histone modiﬁcations of the DNA sequences corresponding to the promoter (P) of about 400–1000 bp ups"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erq154]]"

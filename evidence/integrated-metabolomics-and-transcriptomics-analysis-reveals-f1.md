@@ -1,11 +1,11 @@
 ---
 title: "We found that individual elevated O3 significantly enhanced the accumulation of dihydroflavone, flav"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomics-and-transcriptomics-analysis-reveals]]"
 doi: "10.1016/j.jhazmat.2023.133202"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
+species: [Arabidopsis, maize, rice]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []

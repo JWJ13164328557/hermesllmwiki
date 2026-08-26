@@ -1,6 +1,6 @@
 ---
-title: "napus Despite very few common transcriptional targets among seven hormones, other evidence suggests "
-created: 2026-08-25
+title: "These common transcriptional targets of ABA and GA were as likely to be affected in the same as in t"
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"
@@ -12,10 +12,10 @@ genes: []
 compounds: []
 ---
 
-# napus Despite very few common transcriptional targets among seven hormones, other evidence suggests 
+# These common transcriptional targets of ABA and GA were as likely to be affected in the same as in t
 
 ## Claim
-napus Despite very few common transcriptional targets among seven hormones, other evidence suggests that one hormone-regulating gene is involved in another hormone metabolism pathway (Nemhauser et al., 2006).
+These common transcriptional targets of ABA and GA were as likely to be affected in the same as in the opposite direction.
 
 ## Biological Context
 比较 transcriptome 分析 揭示 the multiple levels of crosstalk in phytohormone networks in Brassica napus

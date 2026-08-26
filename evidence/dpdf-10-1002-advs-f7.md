@@ -1,6 +1,6 @@
 ---
 title: "Based on the distance (threshold of 1 Mb) between eQTLs and elncRNAs, we uncovered 591 local and 335"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

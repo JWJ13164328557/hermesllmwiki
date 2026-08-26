@@ -1,6 +1,6 @@
 ---
 title: "Notably, the expression of these genes during the Transition stage and the Coleoptilar stage was sim"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b4-tQ-g_5fH-4YwC8OyEwkrYg]]"

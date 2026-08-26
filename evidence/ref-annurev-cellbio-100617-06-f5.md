@@ -1,6 +1,6 @@
 ---
 title: "Both the WOX and HAM families are highly conserved and include multiple members whose expression dom"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

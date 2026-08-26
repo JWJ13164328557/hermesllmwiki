@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the studies described above demonstrate that a complex network of various NADPH oxid"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

@@ -1,6 +1,6 @@
 ---
 title: "The co- expression network analysis between OsERF48 and root-specific overexpression of ERF48 root R"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"
@@ -8,7 +8,7 @@ doi: "10.1111/ppl.13651"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [OsCML16, OsERF48]
+genes: [OsERF48, OsCML16]
 compounds: []
 ---
 

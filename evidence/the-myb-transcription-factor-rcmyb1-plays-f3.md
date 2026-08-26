@@ -1,6 +1,6 @@
 ---
 title: "In summary, we found that RcMYB1 widely participates in the transcriptional regulation of ABGs (anth"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

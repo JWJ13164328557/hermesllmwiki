@@ -1,6 +1,6 @@
 ---
 title: "terpenoid"
-created: 2026-08-24
+created: 2026-08-26
 type: entity
 entity_type: compound
 tags: [metabolism, compound]

@@ -1,6 +1,6 @@
 ---
 title: "We found that the SA content was increased by Fv infection, however, its accumulation in ZmPAL6-sile"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"

@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest MdNAC1 may activate the expression of downstream target genes."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"

@@ -1,11 +1,11 @@
 ---
 title: "Root characteristics like length, diameter and volume are critical to measure to understand plant an"
-created: 2026-06-01
+created: 2026-08-26
 type: evidence
-tags: [reference]
+tags: [#methods-tools, papers]
 source: "[[ref-plab056]]"
 doi: "10.1093/aobpla/plab056"
-species: [Plant (unspecified)]
+species: [Zea mays, Glycine max, Triticum aestivum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []

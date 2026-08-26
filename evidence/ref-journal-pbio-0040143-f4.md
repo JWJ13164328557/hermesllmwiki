@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, we have shown that the promoters of four of the eight putative direct targets we iden"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

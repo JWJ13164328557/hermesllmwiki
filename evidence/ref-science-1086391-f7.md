@@ -1,6 +1,6 @@
 ---
 title: "Ca- veats of this conclusion are that the exact cell-type infected by Agrobacterium is not known and"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found potential MYB binding sites in these metabolic pathways genes promoters."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

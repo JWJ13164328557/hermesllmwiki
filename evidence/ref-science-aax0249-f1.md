@@ -1,6 +1,6 @@
 ---
 title: "We found that previously de- scribed marker genes of less-differentiated normal LPs [ALDH1A3 and MFG"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aax0249]]"

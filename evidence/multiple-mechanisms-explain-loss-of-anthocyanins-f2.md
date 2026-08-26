@@ -1,6 +1,6 @@
 ---
-title: "Applying bioinformatic approaches, we found further"
-created: 2026-08-25
+title: "Applying bioinformatic approaches, we found further evidence for clear divergence (JSD) in the ident"
+created: 2026-08-26
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"
@@ -9,13 +9,13 @@ species: [Spinacia oleracea, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: []
+compounds: [anthocyanin]
 ---
 
-# Applying bioinformatic approaches, we found further
+# Applying bioinformatic approaches, we found further evidence for clear divergence (JSD) in the ident
 
 ## Claim
-Applying bioinformatic approaches, we found further
+Applying bioinformatic approaches, we found further evidence for clear divergence (JSD) in the identity of residues found in betalain vs anthocyanin PAP1s, coupled with greater site-speciﬁc variation (Neff) in betalain vs anthocyanin PAP1s.
 
 ## Biological Context
 Multiple mechanisms explain loss of anthocyanins from betalain‐pigmented Caryophyllales, including repeated wholesale loss of a 关键 anthocyanidin synthesis enzyme

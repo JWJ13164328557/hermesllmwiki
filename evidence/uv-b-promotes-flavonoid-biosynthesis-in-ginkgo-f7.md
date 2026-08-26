@@ -1,6 +1,6 @@
 ---
 title: "Combined with results from our previous studies, we determined that the transcription factor GbHY5 m"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that ~90% (6901 peaks) of pwr hyperacetylated peaks over- lapped with those increased peaks"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

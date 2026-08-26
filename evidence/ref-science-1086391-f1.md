@@ -1,6 +1,6 @@
 ---
 title: "Our findings suggest that Reln may affect synaptic maturation in the brain."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

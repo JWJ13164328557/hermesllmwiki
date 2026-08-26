@@ -1,6 +1,6 @@
 ---
 title: "Under hypoxic conditions created by limited gas exchange in developing calli, the hypoxia-activated "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"

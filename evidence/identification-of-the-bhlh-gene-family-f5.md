@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that DcbHLHs in the subfamilies III(d + e) and IIIf may regulate ﬂavonoid bios"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"

@@ -1,6 +1,6 @@
 ---
 title: "Changes in histone acetylation are detected within the gate the role of a speciﬁc histone modiﬁcatio"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-genetics-104-033142]]"

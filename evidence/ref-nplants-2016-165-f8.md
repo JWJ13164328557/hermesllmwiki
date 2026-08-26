@@ -1,6 +1,6 @@
 ---
 title: "Similarly, ERF115–PAT1OE plants displayed strong expression of the stem cell marker genes PLT3, PLT5"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

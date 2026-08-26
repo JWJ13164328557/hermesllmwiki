@@ -1,6 +1,6 @@
 ---
 title: "Another direct target of SCR is a MYB transcription factor that regulates formation of the Casparian"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

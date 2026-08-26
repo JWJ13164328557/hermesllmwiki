@@ -1,11 +1,11 @@
 ---
 title: "Overall, our results reveal the molecular mechanism of salicylic acid regulating phenolic acid biosy"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"
 doi: "10.1093/hr/uhad066"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Taxus spp.]
+species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []

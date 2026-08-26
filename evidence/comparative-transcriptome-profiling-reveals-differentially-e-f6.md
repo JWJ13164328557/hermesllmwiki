@@ -1,6 +1,6 @@
 ---
 title: "In many plants, DEG analyses have been conducted to identify genes directly or indirectly involved i"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"

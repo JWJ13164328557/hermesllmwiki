@@ -1,6 +1,6 @@
 ---
 title: "The relative expression of each target gene was calculated by the 2−△△Ct method."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"

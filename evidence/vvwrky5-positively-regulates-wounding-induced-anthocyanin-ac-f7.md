@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, cold stress strongly induces anthocyanin production in purple head Chinese cabbage by t"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [BrTT8, BrMYB2]
+genes: [BrMYB2, BrTT8]
 compounds: [anthocyanin]
 ---
 

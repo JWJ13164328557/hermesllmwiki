@@ -1,6 +1,6 @@
 ---
 title: "MdSnRK1.1-mediated phosphorylation was critical for MdGLK1 binding to the target gene MdHEMA1 promot"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad288"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [MdHEMA1, MdGLK1, MdSnRK1]
+genes: [MdGLK1, MdSnRK1, MdHEMA1]
 compounds: []
 ---
 

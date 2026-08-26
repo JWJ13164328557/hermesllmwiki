@@ -1,6 +1,6 @@
 ---
 title: "If centriole loss lowers colony counts, the centriole is required for reprogramming and the hypothes"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers]
 source: "[[ms-10-65649_jlokccxi]]"

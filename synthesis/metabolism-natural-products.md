@@ -1,8 +1,8 @@
 ---
 title: "代谢与天然产物 — Synthesis"
 created: 2026-06-01
-total_evidence: 197
-total_papers: 92
+total_evidence: 194
+total_papers: 90
 type: synthesis
 tags: [synthesis, metabolism]
 
@@ -139,8 +139,8 @@ soybean_relevance: ⭐中
 
 ### flavonoid-terpenoid (absorbed)
 id]
-total_evidence: 197
-total_papers: 92
+total_evidence: 194
+total_papers: 90
 relevance_soybean: "低 — 间接关联"
 auto_discovered: true
 cluster_size: 8 tags
@@ -155,8 +155,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: flavonoid, terpenoid, starch-sugar | 全部标签: metabolism, flavonoid, transcriptomics, secondary-metabolism, metabolomics, terpenoid, starch-sugar, phenylpropanoid, multi-omics, lipid, immunity, light, epigenetic, cell-cycle
 
 **统计**:
-- 涵盖论文: ~92 篇
-- 证据条目: 197 条
+- 涵盖论文: ~90 篇
+- 证据条目: 194 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: metabolism, flavonoid, transcriptomics, secondary-metabolism
@@ -164,8 +164,8 @@ updated: 2026-06-01
 ### papers-metabolism-np (absorbed)
 Evidence links: 2
 ity, #genomics-evolution]
-total_evidence: 197
-total_papers: 92
+total_evidence: 194
+total_papers: 90
 relevance_soybean: "低 — 间接关联"
 auto_discovered: true
 cluster_size: 8 tags
@@ -180,8 +180,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: papers, #metabolism-np, development | 全部标签: papers, #metabolism-np, development, #developmental-biology, #single-cell-spatial, #epigenetics-gr, #stress-immunity, #genomics-evolution, stress
 
 **统计**:
-- 涵盖论文: ~92 篇
-- 证据条目: 197 条
+- 涵盖论文: ~90 篇
+- 证据条目: 194 条
 - 共识发现: 1 项
 - 潜在争议: 0 项
 - 核心标签: papers, #metabolism-np, development, #developmental-biology, #sing

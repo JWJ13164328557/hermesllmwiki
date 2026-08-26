@@ -1,6 +1,6 @@
 ---
 title: "Upon linking cell states over time based on their gene expression, we found a strong match to known "
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-aar5780]]"

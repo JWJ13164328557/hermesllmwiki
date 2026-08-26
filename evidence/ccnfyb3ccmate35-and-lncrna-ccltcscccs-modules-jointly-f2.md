@@ -1,6 +1,6 @@
 ---
-title: "We found 1093 known LncRNAs and 513 novel LncRNAs in the data (Figure S9)."
-created: 2026-08-25
+title: "We found 1093 known LncRNAs and 513 novel ª 2023 The Authors."
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"
@@ -12,10 +12,10 @@ genes: [LncRNAs]
 compounds: []
 ---
 
-# We found 1093 known LncRNAs and 513 novel LncRNAs in the data (Figure S9).
+# We found 1093 known LncRNAs and 513 novel ª 2023 The Authors.
 
 ## Claim
-We found 1093 known LncRNAs and 513 novel LncRNAs in the data (Figure S9).
+We found 1093 known LncRNAs and 513 novel ª 2023 The Authors.
 
 ## Biological Context
 CcNFYB3‐CcMATE35 and LncRNA CcLTCS‐CcCS modules jointly regulate the efflux and synthesis of citrate to enhance aluminium tolerance in pigeon pea

@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found a novel mechanism for thickening the cell wall of banana peel under chilling"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

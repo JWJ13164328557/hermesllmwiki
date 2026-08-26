@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that VcSPL12 may speciﬁcally bind to the promoters of VcACO6 and VcACS1."
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14193"
 species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [VcSPL12, VcACS1, VcACO6]
+genes: [VcACS1, VcSPL12, VcACO6]
 compounds: []
 ---
 

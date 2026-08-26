@@ -1,6 +1,6 @@
 ---
 title: "“Wood Transcriptome Profiling Identifies Critical Pathway Genes of Secondary Wall Biosynthesis and N"
-created: 2026-08-25
+created: 2026-08-26
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pce]]"
