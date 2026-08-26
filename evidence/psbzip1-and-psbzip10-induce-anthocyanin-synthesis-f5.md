@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PsbZIP1, PsUFGT, PsbZIP10]
+genes: [PsUFGT, PsbZIP1, PsbZIP10]
 compounds: []
 ---
 

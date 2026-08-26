@@ -8,7 +8,7 @@ doi: "10.1016/j.scienta.2021.110738"
 species: [Oryza sativa, Zea mays, Glycine max]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [SmTAT1, SmbHLH53, SmPAL1]
+genes: [SmTAT1, SmPAL1, SmbHLH53]
 compounds: []
 ---
 

@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae047"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmMYB6, SmMYB111, SmMYB97, SmMYB112, SmMYB]
+genes: [SmMYB6, SmMYB111, SmMYB112, SmMYB, SmMYB97]
 compounds: []
 ---
 

@@ -8,7 +8,7 @@ doi: "10.1111/pbi"
 species: [Populus, Camptotheca acuminata, Oryza sativa]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtAAP6, OpAVT1]
+genes: [OpAVT1, AtAAP6]
 compounds: []
 ---
 

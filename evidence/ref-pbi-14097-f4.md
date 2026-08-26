@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14097"
 species: [Oryza sativa, Zea mays, Triticum aestivum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [ZmPAL6, ZmCOMT, ZmCCoAOMT2]
+genes: [ZmPAL6, ZmCCoAOMT2, ZmCOMT]
 compounds: []
 ---
 

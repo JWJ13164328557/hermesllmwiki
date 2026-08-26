@@ -8,7 +8,7 @@ doi: "10.1093/pcp/pcaa086"
 species: [Oryza sativa, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [OsARF22, OsARF18, OsHDA710]
+genes: [OsARF18, OsARF22, OsHDA710]
 compounds: []
 ---
 

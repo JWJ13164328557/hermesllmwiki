@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PpMYB114, PpERF9]
+genes: [PpERF9, PpMYB114]
 compounds: [anthocyanin]
 ---
 

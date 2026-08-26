@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MdMYB10, MdHY5]
+genes: [MdHY5, MdMYB10]
 compounds: [anthocyanin]
 ---
 

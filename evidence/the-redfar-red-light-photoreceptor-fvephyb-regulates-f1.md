@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad232"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [FveRGA1, FvePhyB]
+genes: [FvePhyB, FveRGA1]
 compounds: []
 ---
 

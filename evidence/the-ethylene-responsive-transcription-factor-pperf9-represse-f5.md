@@ -8,8 +8,8 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PpMYB114, PpTPL1, PpRAP2, PpERF9]
-compounds: [ethylene, anthocyanin]
+genes: [PpRAP2, PpTPL1, PpERF9, PpMYB114]
+compounds: [anthocyanin, ethylene]
 ---
 
 # Collectively, these results indicate that ethylene inhibits anthocyanin biosynthesis by a mechanism 

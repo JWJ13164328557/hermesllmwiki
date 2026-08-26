@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koab243"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [OsMADS34, OsMADS5, OsMADS1]
+genes: [OsMADS34, OsMADS1, OsMADS5]
 compounds: []
 ---
 

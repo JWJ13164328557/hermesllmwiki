@@ -8,7 +8,7 @@ doi: "10.1111/jipb"
 species: [Populus, Camelina sativa, Oryza sativa]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmDREBL, GmWRI1]
+genes: [GmWRI1, GmDREBL]
 compounds: []
 ---
 

@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14193"
 species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [VcACS1, VcSPL12, VcACO6]
+genes: [VcSPL12, VcACO6, VcACS1]
 compounds: []
 ---
 

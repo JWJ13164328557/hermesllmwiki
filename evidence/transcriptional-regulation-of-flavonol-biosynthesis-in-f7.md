@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae043"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [FhMYB21L2, FhFLS2]
+genes: [FhFLS2, FhMYB21L2]
 compounds: [flavonol]
 ---
 

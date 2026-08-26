@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae043"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [FtPAL, FtMYB14]
+genes: [FtMYB14, FtPAL]
 compounds: []
 ---
 

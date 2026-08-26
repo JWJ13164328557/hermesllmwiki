@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14219"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Malus domestica]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CsGGPPs, CsbZIP44, CsBCH1, CsDXR, CsNCED2]
+genes: [CsbZIP44, CsGGPPs, CsDXR, CsNCED2, CsBCH1]
 compounds: [carotenoid]
 ---
 

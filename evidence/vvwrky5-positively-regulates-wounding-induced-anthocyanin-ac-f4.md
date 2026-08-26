@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvWRKY5, VvMYBA1]
+genes: [VvMYBA1, VvWRKY5]
 compounds: [anthocyanin]
 ---
 

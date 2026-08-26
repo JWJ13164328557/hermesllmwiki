@@ -8,7 +8,7 @@ doi: "10.1016/j.indcrop.2020.112407"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [DcbHLH56, DcbHLH2]
+genes: [DcbHLH2, DcbHLH56]
 compounds: []
 ---
 

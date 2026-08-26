@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # starch
 
 ## Evidence Summary
-**Total evidence objects**: 10
+**Total evidence objects**: 9
 
 ## Evidence Table
 | Evidence | Finding |
@@ -22,7 +22,6 @@ tags: [metabolism, compound]
 | [[ms-10-1007_s00468-026-02816-0-f1]] | By combining six decades of tree-ring records with radial and seasonal analyses  |
 | [[ms-10-1007_s11627-026-10653-6-f3]] | While nitrogen is necessary for the production and maintenance of the growth enz |
 | [[ms-10-3389_fpls-2026-1880438-f6]] | NSC, composed primarily of soluble sugars and starch, repre- sents the carbon st |
-| [[ref-j-xplc-2020-100136-f6]] | Surprisingly, genes encoding all the enzymes required for starch biosynthesis we |
 | [[ref-plants9050615-f7]] | In this process, we demonstrated that starch-accumulated Plants 2020, 9, 615 3 o |
 
 ## Biosynthetic Pathway

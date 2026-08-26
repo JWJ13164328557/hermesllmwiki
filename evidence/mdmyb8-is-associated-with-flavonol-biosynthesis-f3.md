@@ -8,7 +8,7 @@ doi: "10.1038/s41438-020-0238-z"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [AtMYB111, AtMYB11, AtMYB12]
+genes: [AtMYB12, AtMYB111, AtMYB11]
 compounds: []
 ---
 

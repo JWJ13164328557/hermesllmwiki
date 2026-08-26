@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae043"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [FhMYB1, ChIP, FhFLS1, FhCHI2]
+genes: [FhCHI2, FhFLS1, FhMYB1, ChIP]
 compounds: []
 ---
 

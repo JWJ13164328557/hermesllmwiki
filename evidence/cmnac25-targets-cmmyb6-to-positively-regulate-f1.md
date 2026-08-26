@@ -8,7 +8,7 @@ doi: "10.1186/s12915-023-01719-7"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CmbHLH2, CmNAC25, CmMYB6, BiFC]
+genes: [CmbHLH2, BiFC, CmNAC25, CmMYB6]
 compounds: [anthocyanin]
 ---
 

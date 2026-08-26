@@ -9,7 +9,7 @@ species: [Zea mays, Quercus spp., Juglans regia]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [sucrose, fructose, glucose]
+compounds: [glucose, fructose, sucrose]
 ---
 
 # We found that the upregula­ tion of these genes in the 10M-ML or 10M-OL group led to an increase in 

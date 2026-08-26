@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14193"
 species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [VcSPL12, VcDVR]
+genes: [VcDVR, VcSPL12]
 compounds: [chlorophyll]
 ---
 

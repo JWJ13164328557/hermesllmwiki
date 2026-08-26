@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [BrMYB2, BrTT8]
+genes: [BrTT8, BrMYB2]
 compounds: [anthocyanin]
 ---
 

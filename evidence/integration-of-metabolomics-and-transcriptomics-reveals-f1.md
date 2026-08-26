@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad277"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [AevPAL1, AevTDC1]
+genes: [AevTDC1, AevPAL1]
 compounds: [salicylic acid]
 ---
 

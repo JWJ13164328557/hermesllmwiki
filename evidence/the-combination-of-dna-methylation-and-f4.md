@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PrANS, PrDFR]
+genes: [PrDFR, PrANS]
 compounds: []
 ---
 

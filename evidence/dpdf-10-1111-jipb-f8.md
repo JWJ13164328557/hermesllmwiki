@@ -8,7 +8,7 @@ doi: "10.1111/jipb"
 species: [Populus, Camelina sativa, Oryza sativa]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmOLEO1, GmOLEO2]
+genes: [GmOLEO2, GmOLEO1]
 compounds: []
 ---
 

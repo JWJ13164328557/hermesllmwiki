@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad277"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SlHCT, SlCHI, SlCAD]
+genes: [SlCAD, SlHCT, SlCHI]
 compounds: [phenylpropanoid]
 ---
 

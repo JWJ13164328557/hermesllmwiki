@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # glucose
 
 ## Evidence Summary
-**Total evidence objects**: 20
+**Total evidence objects**: 15
 
 ## Evidence Table
 | Evidence | Finding |

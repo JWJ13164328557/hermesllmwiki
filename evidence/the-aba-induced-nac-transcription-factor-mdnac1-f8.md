@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad049"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [MdMYB10, MdNAC1]
+genes: [MdNAC1, MdMYB10]
 compounds: [anthocyanin]
 ---
 

@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14195"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MaICE1, MaCBF1, MaNAC1]
+genes: [MaICE1, MaNAC1, MaCBF1]
 compounds: []
 ---
 

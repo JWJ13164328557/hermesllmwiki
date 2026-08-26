@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14193"
 species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VcACO6, VcACS1, VcSPL12, VcMIR156a]
+genes: [VcSPL12, VcACO6, VcMIR156a, VcACS1]
 compounds: [ethylene]
 ---
 

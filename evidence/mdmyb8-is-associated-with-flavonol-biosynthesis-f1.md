@@ -8,7 +8,7 @@ doi: "10.1038/s41438-020-0238-z"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtMYB113, MdMYB62, AtMYB114, PbWER, AtMYB90]
+genes: [PbWER, AtMYB75, MdMYB10, AtMYB113, MdMYB62]
 compounds: []
 ---
 

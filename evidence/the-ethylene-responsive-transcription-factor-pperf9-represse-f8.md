@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [PpMYB114, PpbHLH3, PpMYB140]
+genes: [PpMYB140, PpbHLH3, PpMYB114]
 compounds: [anthocyanin]
 ---
 

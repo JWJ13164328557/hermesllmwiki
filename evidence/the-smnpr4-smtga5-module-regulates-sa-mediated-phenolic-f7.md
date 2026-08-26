@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad066"
 species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [SmTGA5, SmNPR4]
+genes: [SmNPR4, SmTGA5]
 compounds: []
 ---
 

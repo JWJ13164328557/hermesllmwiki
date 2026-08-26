@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae044"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [LaTPS27, LaTPS76, LaMYC7, LaTPS26]
+genes: [LaTPS26, LaTPS27, LaMYC7, LaTPS76]
 compounds: []
 ---
 

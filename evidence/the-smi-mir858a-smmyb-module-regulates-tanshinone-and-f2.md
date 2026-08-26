@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae047"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmKSL1, SmCPS1, SmTAT1, SmPAL1]
+genes: [SmCPS1, SmPAL1, SmTAT1, SmKSL1]
 compounds: [tanshinone, phenolic]
 ---
 

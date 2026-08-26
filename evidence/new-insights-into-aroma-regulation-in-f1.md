@@ -9,7 +9,7 @@ species: [Zea mays, Solanum lycopersicum, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: [MeJA]
-compounds: [terpenoid, phenylpropanoid]
+compounds: [phenylpropanoid, terpenoid]
 ---
 
 # Furthermore, we found that MeJA treatment not only affected the pathways related to the synthesis of

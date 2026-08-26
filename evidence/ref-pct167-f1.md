@@ -8,7 +8,7 @@ doi: "10.1093/pcp/pct167"
 species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvNPF3, AtNPF3]
+genes: [AtNPF3, VvNPF3]
 compounds: []
 ---
 

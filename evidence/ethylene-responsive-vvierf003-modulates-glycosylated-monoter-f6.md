@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae065"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [VviGT14, VviERF003]
+genes: [VviERF003, VviGT14]
 compounds: []
 ---
 

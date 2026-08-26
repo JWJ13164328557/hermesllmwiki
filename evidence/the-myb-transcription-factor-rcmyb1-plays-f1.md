@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad080"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [RcMYB1, RcLYCE, RcLYCB]
+genes: [RcLYCE, RcLYCB, RcMYB1]
 compounds: []
 ---
 

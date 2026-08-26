@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [VvWRKY5, VvUFGT, VvMYBA1]
+genes: [VvUFGT, VvMYBA1, VvWRKY5]
 compounds: [anthocyanin]
 ---
 

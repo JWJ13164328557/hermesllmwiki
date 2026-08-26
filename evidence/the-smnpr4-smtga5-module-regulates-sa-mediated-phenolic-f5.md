@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [phenolic, salicylic acid]
+compounds: [salicylic acid, phenolic]
 ---
 
 # Overall, our results reveal the molecular mechanism of salicylic acid regulating phenolic acid biosy

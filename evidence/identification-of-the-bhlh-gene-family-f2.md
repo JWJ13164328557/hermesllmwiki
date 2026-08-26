@@ -8,7 +8,7 @@ doi: "10.1016/j.indcrop.2020.112407"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [DcbHLH46, DcbHLH2]
+genes: [DcbHLH2, DcbHLH46]
 compounds: []
 ---
 

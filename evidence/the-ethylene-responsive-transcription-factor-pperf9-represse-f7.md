@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [PpTOPLESS1, PpMYB114, PpRAP2, PpERF9]
+genes: [PpRAP2, PpTOPLESS1, PpERF9, PpMYB114]
 compounds: []
 ---
 

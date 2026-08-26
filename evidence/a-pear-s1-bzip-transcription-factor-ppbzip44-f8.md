@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad140"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PpADT, PpSDH9, PpProDH1, PpbZIP44, PpF3H]
+genes: [PpF3H, PpSDH9, PpProDH1, PpbZIP44, PpADT]
 compounds: []
 ---
 

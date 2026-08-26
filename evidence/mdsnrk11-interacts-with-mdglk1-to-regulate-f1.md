@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad288"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MdGLK1, MdSnRK1]
+genes: [MdSnRK1, MdGLK1]
 compounds: []
 ---
 

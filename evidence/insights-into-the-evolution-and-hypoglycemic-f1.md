@@ -9,7 +9,7 @@ species: [Zea mays, Quercus spp., Juglans regia]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [starch, sucrose, phenylpropanoid]
+compounds: [starch, phenylpropanoid, sucrose]
 ---
 
 # For the 6,138 DE-mRNAs, we found that KEGG enrichment of the upregulated genes was mainly associated

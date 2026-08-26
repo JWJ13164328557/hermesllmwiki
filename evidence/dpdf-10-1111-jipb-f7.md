@@ -8,7 +8,7 @@ doi: "10.1111/jipb"
 species: [Populus, Camelina sativa, Oryza sativa]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmZF392, GmZF351, GmNFYA]
+genes: [GmZF392, GmNFYA, GmZF351]
 compounds: []
 ---
 

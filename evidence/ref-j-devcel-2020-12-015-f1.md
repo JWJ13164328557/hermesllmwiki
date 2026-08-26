@@ -8,7 +8,7 @@ doi: "10.1016/j.devcel.2020.12.015"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [ZmSEP3, ZmM16, ZmAGL8, ZmMADS7, ChIP]
+genes: [ChIP, ZmM16, ZmSEP3, ZmAGAMOUS, ZmAGL8]
 compounds: []
 ---
 
