@@ -60,6 +60,10 @@ CORE_JOURNALS = [
     'Botanical Studies','Journal of Soil Science and Plant Nutrition','Botanical Review','South African Journal of Botany',
     'American Journal of Botany','Plant Nano Biology','Plant Signaling and Behavior','Journal of Applied Genetics',
     'Plant Reproduction Biology','Crop Design','Plant Phenomics Research',
+    # ── 生物信息学/计算生物学专业刊 (2026-08-27 新增, 供"生物信息"主题检索)
+    'Bioinformatics','Nucleic Acids Research','Briefings in Bioinformatics','Genome Research','BMC Bioinformatics',
+    'PLOS Computational Biology','Database','GigaScience','Nature Methods','Nature Biotechnology',
+    'Frontiers in Genetics','Journal of Molecular Biology','BioData Mining','PeerJ',
 ]
 
 def get_journals(core_only=False):
@@ -72,7 +76,7 @@ def get_journals(core_only=False):
             and len(j) < 50]
 
 # ══════════════════════════════════════════════════════════════
-# 13 组主题关键词 (与 daily_update 对齐 + 2026-08-26 新增 3 组)
+# 14 组主题关键词 (与 daily_update 对齐 + 2026-08-26 新增3组 + 2026-08-27 新增生物信息)
 # 胁迫原本就是主题7(胁迫与免疫), 未新增主题组, 仅在关键词补泛化 stress
 # ══════════════════════════════════════════════════════════════
 TOPICS = [
@@ -102,6 +106,8 @@ TOPICS = [
     'genome-wide association OR quantitative trait locus OR GWAS OR marker-assisted selection OR genome editing OR CRISPR OR breeding OR genetic diversity OR QTL mapping OR molecular marker OR genomic selection',
     # 13 基因组 (2026-08-26 新增)
     'genome assembly OR pan-genome OR pangenome OR comparative genomics OR genomic variation OR structural variant OR gene family OR homeolog OR whole genome',
+    # 14 生物信息学 (2026-08-27 新增, 偏向植物生信方法/工具/数据库)
+    'plant bioinformatics OR bioinformatics pipeline OR computational tool OR sequence analysis OR transcriptome assembly OR gene expression analysis OR machine learning OR deep learning OR network analysis OR pathway analysis OR ortholog OR phylogenetic analysis OR functional annotation OR genomic database OR single-cell bioinformatics OR spatial analysis tool OR de novo assembly OR variant calling OR gene ontology OR database resource',
 ]
 
 def search_pubmed_term(term, days, max_results):
@@ -118,10 +124,43 @@ def search_pubmed_term(term, days, max_results):
 
 
 # ══════════════════════════════════════════════════════════════
-# --import: 检索后把 PMID 走 daily_update 相同过滤链导入概念页
-# 复用 daily_update.fetch_full_paper + JCR/journal 校验 + theme_filter + is_plant
-# (期刊限定通道, 结果天然是植物刊; 仍跑过滤做双保险)
+# 检索核心: 每主题一次 [Journal] OR 大查询 (2026-08-26 优化)
+# 原设计 100刊×13主题=1300 次串行 esearch, PubMed 限流下极慢(~25min未完成)。
+# 现改为: 全部期刊用 [Journal] OR 组合成一次查询 × 13 主题 = 13 次。
+# 100 刊 OR ≈ 3758 字符 < PubMed 4800 上限, 无需分组。
+# 13 次查询 ≈ 15-30s, 提升 ~100 倍。
 # ══════════════════════════════════════════════════════════════
+def journal_or_clause(journals):
+    """把期刊列表构造成 [Journal] OR 子句。"""
+    return '(' + ' OR '.join(f'"{j}"[Journal]' for j in journals) + ')'
+
+def search_topic_in_journals(journals, topic, days, max_results):
+    """在给定期刊组内按主题词检索一次, 返回 PMID 列表。"""
+    from_date = (datetime.now() - timedelta(days=days)).strftime('%Y/%m/%d')
+    jc = journal_or_clause(journals)
+    full = f'({jc}) AND ({topic}) AND ("{from_date}"[Date - Publication] : "3000"[Date - Publication])'
+    url = ('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term='
+           + urllib.parse.quote(full) + f'&retmax={max_results}&sort=date&retmode=json')
+    try:
+        d = json.loads(urllib.request.urlopen(url, timeout=20).read())
+        return d.get('esearchresult', {}).get('idlist', [])
+    except Exception as e:
+        print(f'  ⚠ {str(e)[:40]}')
+        return []
+
+# 兼容旧单刊查询(保留)
+def search_pubmed_term(term, days, max_results):  # noqa: F811 (保留, main及外部调用)
+    from_date = (datetime.now() - timedelta(days=days)).strftime('%Y/%m/%d')
+    full = f'({term}) AND ("{from_date}"[Date - Publication] : "3000"[Date - Publication])'
+    url = ('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term='
+           + urllib.parse.quote(full) + f'&retmax={max_results}&sort=date&retmode=json')
+    try:
+        d = json.loads(urllib.request.urlopen(url, timeout=20).read())
+        return d.get('esearchresult', {}).get('idlist', [])
+    except Exception as e:
+        print(f'  ⚠ {str(e)[:40]}')
+        return []
+
 def import_pmids(pmids):
     """把 PMID 清单导入为概念页(与 daily_update 过滤链一致), 返回导入数。"""
     import daily_update as du
@@ -209,28 +248,30 @@ def main():
 
     journals = get_journals(core_only)
     print(f'期刊数: {len(journals)} (core_only={core_only}), 主题数: {len(TOPICS)}, 天数: {days}')
-    expected = len(journals) * len(TOPICS)
-    print(f'计划检索 {expected} 次 (期刊×主题), 预计耗时 ~{expected*0.25/60:.0f} 分钟')
+    # 2026-08-26 优化: 全部期刊 OR 太大触发 414; 按组批量 OR。
+    # 每 20 刊一组 × 13 主题 = 65 次查询 (URL ~1365 字符安全)
+    GROUP = 20
+    import math
+    jgroups = [journals[i:i+GROUP] for i in range(0, len(journals), GROUP)]
+    total_q = len(jgroups) * len(TOPICS)
+    print(f'计划检索 {total_q} 次 ({len(jgroups)}组 × {len(TOPICS)}主题, 每20刊OR), 预计 ~{total_q*0.5/60:.1f} 分钟')
 
     all_ids = set()
-    query_plan = []
-    for jname in journals:
+    for jg in jgroups:
         for topic in TOPICS:
-            term = f'("{jname}"[Journal]) AND ({topic})'
-            query_plan.append(term)
-            if not dry:
-                ids = search_pubmed_term(term, days, maxr)
-                if ids:
-                    print(f'  {jname[:28]:30s} : {len(ids)} hits')
-                all_ids.update(ids)
-                time.sleep(0.25)  # 限速防 429
+            if dry:
+                continue
+            ids = search_topic_in_journals(jg, topic, days, maxr)
+            if ids:
+                print(f'  [{jg[0][:14]}... +{len(jg)-1}刊, {topic.split(" OR ")[0][:16]}] {len(ids)} hits')
+            all_ids.update(ids)
+            time.sleep(0.5)  # 限速防 429
 
     if dry:
-        print(f'[dry-run] 将检索 {expected} 次')
-        for q in query_plan[:5]:
-            print(f'  {q[:110]}')
-        print(f'  ... 胁迫主题含 stress')
-        print(f'  ("Stress Biology"[Journal]) AND ({TOPICS[6][:60]}...)')
+        print(f'[dry-run] 将检索 {total_q} 次 ({len(jgroups)}组×{len(TOPICS)}主题)')
+        jc = journal_or_clause(jgroups[0])
+        print(f'  示例: ({jc[:150]}...) AND ({TOPICS[0][:50]}...)')
+        print(f'  胁迫主题含 stress: TOPICS[6] 含 "stress"')
         return
 
     print(f'\n去重后 PMID 总数: {len(all_ids)}')
