@@ -38,6 +38,14 @@ NONPLANT_DOI_PREFIX = [
     '10.1007/s10971','10.1007/s10853','10.1007/s00339',
     # 结构/膜生物化学
     '10.1007/s00232',
+    # 2026-08-26 增量: 本次污染清理(糖尿病/医学/掠夺刊/流行病)发现的非植物前缀
+    '10.51601',        # IJSE 掠夺刊(糖尿病SVM)
+    '10.1253',         # Circ Reports 循环医学
+    '10.5114',         # Archives of Medical Science 医学
+    '10.15167',        # 意大利医学刊
+    '10.5281/zenodo',  # Zenodo 归档(病毒/医学预印, HAA哲学)
+    '10.3389/fepid',   # Frontiers in Epidemiology 流行病
+    '10.1016/j.toxrep',# Toxicology Reports
 ]
 
 
