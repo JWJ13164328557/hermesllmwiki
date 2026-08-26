@@ -26,16 +26,12 @@ except ImportError:
         return False
 
 # 植物物种关键词 (is_plant 内容校验, 多源导入的二次防线)
-PLANT_TERMS = ['arabidopsis','thaliana','rice','oryza','maize','zea','wheat','triticum',
-               'soybean','glycine','tomato','solanum','barley','hordeum','sorghum','cassava',
-               'potato','cucumber','pepper','capsicum','melon','rapeseed','brassica','sunflower',
-               'cotton','gossypium','sugarcane','tobacco','nicotiana','medicago','lotus','phaseolus',
-               'pea','vigna','poplar','populus','eucalyptus','pine','pinus','spruce','moss',
-               'marchantia','physcomitrella','fern','algae','chlamydomonas','grape','vitis',
-               'citrus','malus','pear','banana','strawberry','tea','camellia','orchid','bamboo',
-               'ginger','garlic','onion','plant','crop','seedling','leaf','root','inflorescence',
-               'xylem','phloem','chlorophyll','photosynth','chloroplast','phytochrome','flower',
-               'pollen','anther','seed','fruit','floral']
+# 2026-08-26 重整: 统一来自 species_registry.py (CONTENT_SPECIES 210 词),
+#   消除与 daily_update/multi_source_search/theme_filter 的物种漂移.
+try:
+    from species_registry import CONTENT_SPECIES as PLANT_TERMS
+except ImportError:
+    PLANT_TERMS = ['plant','crop','leaf','root','flower','seed','rice','maize','wheat']
 
 def is_plant_content(text):
     """标题+摘要是否有植物物种词。"""

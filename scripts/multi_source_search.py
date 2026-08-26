@@ -11,35 +11,38 @@ from datetime import datetime, timedelta
 BASE = '/mnt/g/hermes_obsidian/hermes'
 OUTPUT = f'{BASE}/scripts/multi_source_candidates.json'
 
-PLANT_SPECIES = (
-    'plant OR Arabidopsis OR rice OR wheat OR maize OR soybean OR tomato OR poplar OR cotton '
-    'OR tobacco OR potato OR grape OR tea OR alfalfa OR Medicago OR Brassica OR barley '
-    'OR cassava OR Marchantia OR Physcomitrium OR sunflower OR peanut OR chrysanthemum '
-    'OR Salvia OR Artemisia OR Panax OR Andrographis'
-)
+# ══════════════════════════════════════════════════════════════
+# 物种限定 — 统一来源 species_registry.py (2026-08-26 重整)
+# 原:仅 plant/Arabidopsis/rice 3种硬编码, 导致多源通道检索召回远小于
+#    PubMed 通道(大豆/玉米/番茄等作物完全未覆盖). 现: 153 种, 与
+#    daily_update.py / daily_full_pipeline.py / theme_filter.py 同源.
+# ══════════════════════════════════════════════════════════════
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from species_registry import build_search_or_clause_plain
+PLANT_SPECIES = build_search_or_clause_plain()
 
-# 10 search queries — same as daily_update.py
+# 10 search queries — same as daily_update.py (物种限定统一来自 registry)
 SEARCH_QUERIES = [
     # ⭐ FOCUS 1: Plant single-cell omics
-    '("single-cell" OR "scRNA-seq" OR "single nucleus" OR "snRNA-seq" OR "scATAC-seq" OR "single cell atlas" OR "cell atlas") AND (plant OR Arabidopsis OR rice)',
+    f'("single-cell" OR "scRNA-seq" OR "single nucleus" OR "snRNA-seq" OR "scATAC-seq" OR "single cell atlas" OR "cell atlas") AND {PLANT_SPECIES}',
     # ⭐ FOCUS 2: Plant spatial transcriptomics
-    '("spatial transcriptom" OR "Stereo-seq" OR "Visium" OR "Xenium" OR "MERFISH" OR "spatial multi-omics" OR "spatially resolved") AND (plant OR Arabidopsis OR rice)',
+    f'("spatial transcriptom" OR "Stereo-seq" OR "Visium" OR "Xenium" OR "MERFISH" OR "spatial multi-omics" OR "spatially resolved") AND {PLANT_SPECIES}',
     # ⭐ FOCUS 3: Light signaling & photosynthesis
-    '("light signaling" OR "photomorphogenesis" OR "phytochrome" OR "photoreceptor" OR "blue light" OR "red light" OR "far-red" OR "shade avoidance" OR "photosynthesis" OR "chloroplast" OR "stomatal" OR "circadian" OR "light quality") AND (plant OR Arabidopsis OR rice)',
+    f'("light signaling" OR "photomorphogenesis" OR "phytochrome" OR "photoreceptor" OR "blue light" OR "red light" OR "far-red" OR "shade avoidance" OR "photosynthesis" OR "chloroplast" OR "stomatal" OR "circadian" OR "light quality") AND {PLANT_SPECIES}',
     # ⭐ FOCUS 4: Plant development
-    '("plant development" OR "root development" OR "shoot apical" OR "flower development" OR "seed development" OR "vascular development" OR "wood formation" OR "secondary growth" OR "xylem" OR "phloem" OR "meristem" OR "organogenesis" OR "embryogenesis" OR "cambium") AND (plant OR Arabidopsis OR rice)',
+    f'("plant development" OR "root development" OR "shoot apical" OR "flower development" OR "seed development" OR "vascular development" OR "wood formation" OR "secondary growth" OR "xylem" OR "phloem" OR "meristem" OR "organogenesis" OR "embryogenesis" OR "cambium") AND {PLANT_SPECIES}',
     # Supplementary: ATAC / multi-omics
-    '("ATAC-seq" OR "multi-omics" OR "snATAC" OR "CUT&Tag") AND (plant OR Arabidopsis OR rice)',
+    f'("ATAC-seq" OR "multi-omics" OR "snATAC" OR "CUT&Tag") AND {PLANT_SPECIES}',
     # Supplementary: regeneration
-    '("callus" OR "regeneration" OR "somatic embryo" OR "de novo organogenesis" OR "reprogramming") AND (plant OR Arabidopsis OR rice)',
+    f'("callus" OR "regeneration" OR "somatic embryo" OR "de novo organogenesis" OR "reprogramming") AND {PLANT_SPECIES}',
     # Supplementary: stress & immunity
-    '("salt stress" OR "drought stress" OR "cold stress" OR "heat stress" OR "heavy metal" OR "pathogen" OR "immunity" OR "defense" OR "herbivory") AND (plant OR Arabidopsis OR rice)',
+    f'("salt stress" OR "drought stress" OR "cold stress" OR "heat stress" OR "heavy metal" OR "pathogen" OR "immunity" OR "defense" OR "herbivory") AND {PLANT_SPECIES}',
     # Supplementary: metabolism
-    '("flavonoid" OR "anthocyanin" OR "terpenoid" OR "alkaloid" OR "tanshinone" OR "artemisinin" OR "metabolic engineering" OR "biosynthesis") AND (plant OR Arabidopsis OR rice)',
+    f'("flavonoid" OR "anthocyanin" OR "terpenoid" OR "alkaloid" OR "tanshinone" OR "artemisinin" OR "metabolic engineering" OR "biosynthesis") AND {PLANT_SPECIES}',
     # Supplementary: epigenetics
-    '("histone" OR "chromatin" OR "DNA methylation" OR "H3K27" OR "epigenetic") AND (plant OR Arabidopsis OR rice)',
+    f'("histone" OR "chromatin" OR "DNA methylation" OR "H3K27" OR "epigenetic") AND {PLANT_SPECIES}',
     # Supplementary: hormone signaling
-    '("auxin" OR "gibberellin" OR "abscisic acid" OR "jasmonic acid" OR "salicylic acid" OR "ethylene" OR "brassinosteroid" OR "strigolactone" OR "cytokinin") AND (plant OR Arabidopsis OR rice)',
+    f'("auxin" OR "gibberellin" OR "abscisic acid" OR "jasmonic acid" OR "salicylic acid" OR "ethylene" OR "brassinosteroid" OR "strigolactone" OR "cytokinin") AND {PLANT_SPECIES}',
 ]
 
 def http_get(url, timeout=15, retries=2):

@@ -103,9 +103,17 @@ SPECIES_PLANT_TERMS = [
     'tobacco','nicotiana','tomato','solanum','potato','barley','hordeum','cassava','cucumber',
     'pepper','capsicum','brassica','sunflower','cotton','gossypium','moss','marchantia','fern',
     'grape','vitis','citrus','malus','poplar','eucalyptus','pine','orchid','banana','strawberry',
-    'tea (plant','camellia','medicago','lotus','phaseolus','pea','vigna','plant','crop',
-    'seedling','leaf','root ','flower','pollen','anther','seed ','floral','inflorescence',
+    'tea','camellia','medicago','lotus','phaseolus','pea','vigna','plant','crop',
+    'seedling','leaf','root','flower','pollen','anther','seed','floral','inflorescence',
     'grain','chlorophyll','leaf senescence','canopy','rootstock','scion',
+    # 2026-08-26 重整: 并入知识库高频/领域物种, 修掉原 'tea (plant' 误字符 bug.
+    #   防污染逻辑不受影响: 拒绝仍由 human_hit + 黑名单期刊 + study_hit 决定, species 仅作放行参考.
+    'apple','pear','pyrus','fig','ficus','carrot','daucus','sesame','sesamum','chickpea','cicer',
+    'sugarcane','saccharum','oat','millet','setaria','ginkgo','rubber','hevea','oil palm','elaeis',
+    'rose','rosa','avocado','persea','mango','mangifera','kiwi','actinidia','coffee','coffea',
+    'cocoa','theobroma','rapeseed','canola','salvia','artemisia','panax','ginseng','andrographis',
+    'glycyrrhiza','licorice','coptis','taxus','chlamydomonas','chlorella','microalga','seaweed',
+    'kelp','laminaria','porphyra',
 ]
 
 

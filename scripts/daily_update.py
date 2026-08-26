@@ -22,7 +22,15 @@ BASE = '/mnt/g/hermes_obsidian/hermes'
 CONCEPTS_DIR = f'{BASE}/concepts/papers'  # SCHEMA: papers/
 METHODS_DIR = f'{BASE}/concepts/methods'   # SCHEMA: methods/
 
-PLANT_SPECIES = '"plant"[Title/Abstract] OR "Arabidopsis"[Title/Abstract] OR "rice"[Title/Abstract] OR "wheat"[Title/Abstract] OR "maize"[Title/Abstract] OR "soybean"[Title/Abstract] OR "tomato"[Title/Abstract] OR "poplar"[Title/Abstract] OR "cotton"[Title/Abstract] OR "tobacco"[Title/Abstract] OR "potato"[Title/Abstract] OR "grape"[Title/Abstract] OR "tea"[Title/Abstract] OR "alfalfa"[Title/Abstract] OR "Medicago"[Title/Abstract] OR "Brassica"[Title/Abstract] OR "barley"[Title/Abstract] OR "cassava"[Title/Abstract] OR "Marchantia"[Title/Abstract] OR "Physcomitrium"[Title/Abstract] OR "sunflower"[Title/Abstract] OR "peanut"[Title/Abstract] OR "chrysanthemum"[Title/Abstract] OR "Salvia"[Title/Abstract] OR "Artemisia"[Title/Abstract] OR "Panax"[Title/Abstract] OR "Andrographis"[Title/Abstract]'
+# ══════════════════════════════════════════════════════════════
+# 物种限定 — 统一来源 species_registry.py (2026-08-26 重整)
+# 原 :28 种硬编码; 现:153 种(检索) 由权威注册表提供, 消除与
+#     multi_source_search / daily_full_pipeline / theme_filter 的漂移.
+#     PLANT_SPECIES 保留为检索 AND 子句 (主题词 AND 物种)。
+# ══════════════════════════════════════════════════════════════
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from species_registry import build_search_and_clause
+PLANT_SPECIES = build_search_and_clause()
 
 SEARCH_QUERIES = [
     # ⭐ FOCUS 1: Plant single-cell omics
@@ -189,11 +197,17 @@ def get_existing_dois():
 def search_pubmed(query, days=1, max_results=10):
     from_date = (datetime.now() - timedelta(days=days)).strftime('%Y/%m/%d')
     full_query = f'({query}) AND ("{from_date}"[Date - Publication] : "3000"[Date - Publication])'
-    encoded = urllib.parse.quote(full_query[:500])
+    # 2026-08-26 修复: 原 [:500] 会把长查询截断 → 153 物种的限定子句被静默丢弃.
+    # NCBI esearch 支持长 term, quote 后完整传递; 日期子句放末尾, 即使截断也不影响核心检索.
+    encoded = urllib.parse.quote(full_query)
     proc = subprocess.run(['curl','-sL','--connect-timeout','10',
         f'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term={encoded}&retmax={max_results}&sort=date&retmode=json'],
-        capture_output=True, text=True, timeout=15)
-    data = json.loads(proc.stdout)
+        capture_output=True, text=True, timeout=20)
+    try:
+        data = json.loads(proc.stdout)
+    except (json.JSONDecodeError, ValueError):
+        print(f"  ⚠ esearch JSON 解析失败 (query len={len(full_query)})", file=sys.stderr)
+        return []
     return data.get('esearchresult',{}).get('idlist',[])
 
 def fetch_full_paper(pmid):
