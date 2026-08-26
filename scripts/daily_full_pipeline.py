@@ -361,7 +361,8 @@ source: {source}
             fh.write('\n'.join(new_dois))
         
         ok, out = run(
-            f'python3 -u {SCRIPTS}/deep_curate_all.py --dois {dois_file}',
+            # 2026-08-26 修复: 用 /usr/bin/python3 (有 PyMuPDF/fitz), 默认 python3 缺 fitz 致深度提炼全失败
+            f'/usr/bin/python3 -u {SCRIPTS}/deep_curate_all.py --dois {dois_file}',
             timeout=1800
         )
         log(f"deep_curate_all: {out[-300:] if out else 'no output'}")
