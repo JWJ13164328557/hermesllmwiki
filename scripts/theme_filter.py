@@ -78,8 +78,6 @@ HUMAN_ANIMAL_TERMS = [
     'macrophage','mammalian','mouse model','rat model','zebrafish',
     'postpartum','menstrual','menopause','gestational','hematopoietic','bone marrow',
     'vaccine','immunotherapy','stroke','ischemic','thrombosis',
-    'pyrolysis','gasification','syngas','biochar','liquefaction','torrefaction',
-    'power plant','combustion','biofuel','biodiesel','hydrogen production',
     'quantum','particle physics','nuclear reactor','distillation',
     'legislation','constitutional','litigation','separation of powers','economic growth',
     'stock market','marketing strategy','urban planning','real estate','pornography',
