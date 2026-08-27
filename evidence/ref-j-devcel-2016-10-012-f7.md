@@ -1,6 +1,6 @@
 ---
 title: "By contrast, we found that the major- ity of the major isoforms (70.5%, Figure 3A) have longer codin"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

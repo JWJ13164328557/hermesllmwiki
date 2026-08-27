@@ -1,6 +1,6 @@
 ---
 title: "Moreover, we found that exogenous spraying of ethylene precursor ACC rescued the susceptibility of M"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"

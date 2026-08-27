@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, blocking of H2O2 production by inhibition of the NADPH oxidase Duox1 prevented the pr"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

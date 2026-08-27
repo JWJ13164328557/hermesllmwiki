@@ -1,6 +1,6 @@
 ---
 title: "The network of ester content, transcription factors and candidate target genes were visualized by Cy"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

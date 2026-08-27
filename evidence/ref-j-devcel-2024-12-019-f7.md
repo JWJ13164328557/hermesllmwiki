@@ -1,6 +1,6 @@
 ---
 title: "Using a survival of G1 cells again, we found that the time cells remained in G1 was significantly pr"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-devcel-2024-12-019]]"

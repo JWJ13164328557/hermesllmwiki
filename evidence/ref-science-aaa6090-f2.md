@@ -1,6 +1,6 @@
 ---
 title: "Here, we report multiplexed error-robust fluorescence in situ hybridization (MERFISH), a single-mole"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aaa6090]]"

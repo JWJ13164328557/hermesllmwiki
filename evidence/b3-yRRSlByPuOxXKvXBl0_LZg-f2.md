@@ -1,6 +1,6 @@
 ---
 title: "Specifically, we found that QC-associated genes, such as WOX5, TEL1, WOUND-INDUCED POLYPEPTIDE 2 (WI"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[b3-yRRSlByPuOxXKvXBl0_LZg]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, CEL-seq2/C1 and MARS-seq showed a steeper slope at low sequencing depths than both Drop-seq"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2017-01-023]]"

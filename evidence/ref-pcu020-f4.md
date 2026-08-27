@@ -1,6 +1,6 @@
 ---
 title: "Here, we show that the gene responsible for the sgr6 mutant is At2g36810 that encodes the HEAT (Hunt"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"

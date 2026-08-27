@@ -1,6 +1,6 @@
 ---
 title: "We found that the GA biosynthesis genes, CPS, KS, KO and GA20ox were induced by TZ, and the endogeno"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"

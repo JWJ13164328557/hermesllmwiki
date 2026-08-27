@@ -1,6 +1,6 @@
 ---
 title: "Another KNOX gene target is ISOPENTENYL TRANSFERASE7 (IPT7), a gene involved in cytokinin biosynthes"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

@@ -1,6 +1,6 @@
 ---
 title: "With double-gene transgenic plants, we found that CcNFYB3-RNAi/CcMATE35-OE lines had less citrate re"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

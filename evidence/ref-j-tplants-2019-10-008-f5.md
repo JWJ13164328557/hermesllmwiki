@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, they deﬁned some clusters as ‘meristematic’ tissue, indicating that despite cell fate"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-tplants-2019-10-008]]"

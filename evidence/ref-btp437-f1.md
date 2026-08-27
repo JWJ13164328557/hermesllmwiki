@@ -1,6 +1,6 @@
 ---
 title: "To understand these transcriptional networks it is essential to obtain whole-genome expression data "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btp437]]"

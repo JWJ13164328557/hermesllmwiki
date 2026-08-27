@@ -1,6 +1,6 @@
 ---
 title: "The banana fruit Dof transcription factor MaDof23 acts as a repressor and interacts with MaERF9 in r"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s12870-020-2314-9"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MaERF9, MaDof23]
+genes: [MaDof23, MaERF9]
 compounds: []
 ---
 

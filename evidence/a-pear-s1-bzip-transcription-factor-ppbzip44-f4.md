@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, down- or up-regulation of SDH genes, as well as S6PDH and A6PR, modulates sorbitol co"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"

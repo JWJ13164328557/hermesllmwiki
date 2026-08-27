@@ -1,6 +1,6 @@
 ---
 title: "RGF1 further increased meristematic activity of tpst-1 to a level compa- rable to that of the wild t"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1191132]]"

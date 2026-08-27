@@ -1,6 +1,6 @@
 ---
 title: "Notably, the AtGenExpress project, a multinational initiative to document the transcriptome of Arabi"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

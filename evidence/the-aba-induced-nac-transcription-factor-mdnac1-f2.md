@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that ABA can promote MdNAC1 expression and enhance the transcription of the d"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad049"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MdNAC1, MdMYB10, MdUFGT]
+genes: [MdMYB10, MdUFGT, MdNAC1]
 compounds: []
 ---
 

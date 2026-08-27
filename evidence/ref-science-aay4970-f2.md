@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results show that the increase in root hair density upon low phosphate conditi"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aay4970]]"

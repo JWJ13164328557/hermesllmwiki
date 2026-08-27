@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, cold stress strongly induces anthocyanin production in purple head Chinese cabbage by t"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

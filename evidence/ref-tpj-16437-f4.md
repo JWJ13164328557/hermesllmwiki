@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these pioneering ST studies on various plant tissue fully demonstrate the potential of"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-tpj-16437]]"

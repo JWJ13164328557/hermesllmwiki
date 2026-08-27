@@ -1,6 +1,6 @@
 ---
 title: "These findings are consistent with our previous results demonstrating that autophagy plays a crucial"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b3-qnkDB6_AeT3N0ZaAwqrgng]]"

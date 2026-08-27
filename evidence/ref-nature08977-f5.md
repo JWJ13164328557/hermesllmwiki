@@ -1,6 +1,6 @@
 ---
 title: "The resulting differential distribution of target mRNA in the vascular cylinder determines xylem cel"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature08977]]"

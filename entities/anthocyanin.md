@@ -1,6 +1,6 @@
 ---
 title: "anthocyanin"
-created: 2026-08-26
+created: 2026-08-27
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # anthocyanin
 
 ## Evidence Summary
-**Total evidence objects**: 48
+**Total evidence objects**: 49
 
 ## Evidence Table
 | Evidence | Finding |

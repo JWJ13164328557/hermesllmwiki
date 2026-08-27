@@ -1,6 +1,6 @@
 ---
 title: "Industrial Crops & Products 173 (2021) 114154 8 of 10M-YL vs 10M-OL, we found that the different mem"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"

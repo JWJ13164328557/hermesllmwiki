@@ -1,6 +1,6 @@
 ---
 title: "This makes GmDREBL a novel linking between the LAFL network and GmWRI1 in oil regulation (Zhang et a"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

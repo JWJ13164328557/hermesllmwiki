@@ -1,6 +1,6 @@
 ---
 title: "However, the best characterized interaction partners of Aux/IAAs, such as AXR3/IAA17, are auxin-resp"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

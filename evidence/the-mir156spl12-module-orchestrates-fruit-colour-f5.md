@@ -1,6 +1,6 @@
 ---
 title: "Additionally, VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14193"
 species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [VcDVR, VcSPL12]
+genes: [VcSPL12, VcDVR]
 compounds: [chlorophyll]
 ---
 

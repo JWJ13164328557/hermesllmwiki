@@ -1,6 +1,6 @@
 ---
 title: "Plants in the right panel represent a higher stock of nitrogen and phosphorus in plant biomass and i"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-19676]]"

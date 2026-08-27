@@ -1,6 +1,6 @@
 ---
 title: "We then obtained HDT4 T-DNA insertion line (hdt4-1) and explored its drought phenotype (S5B–S5D Fig)"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

@@ -1,6 +1,6 @@
 ---
 title: "In addition, in our experiments, we found the double RNAi line exhibited a further increase in callo"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14179"
 species: [Arabidopsis thaliana, Zea mays, Glycine max]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CcNFYB3, CcMATE35, CcLTCS]
+genes: [CcNFYB3, CcLTCS, CcMATE35]
 compounds: []
 ---
 

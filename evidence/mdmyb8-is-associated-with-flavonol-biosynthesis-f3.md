@@ -1,6 +1,6 @@
 ---
 title: "thaliana, AtMYB11, AtMYB12, and AtMYB111 have been shown to interact with the promoters of chal- con"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"

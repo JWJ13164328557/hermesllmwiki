@@ -1,6 +1,6 @@
 ---
 title: "We found that 55 DEGs were involved in this pathway, including 11 cinnamate 4-hydroxylase (C4H) gene"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [flavonoid, flavonol]
+compounds: [flavonol, flavonoid]
 ---
 
 # We found that 55 DEGs were involved in this pathway, including 11 cinnamate 4-hydroxylase (C4H) gene

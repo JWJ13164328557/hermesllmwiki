@@ -1,6 +1,6 @@
 ---
 title: "Although it cannot be ruled out that these distinct phenotypes originate from differences in ectopic"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-koad028]]"

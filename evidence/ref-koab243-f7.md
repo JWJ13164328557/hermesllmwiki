@@ -1,6 +1,6 @@
 ---
 title: "In the comparisons between developing spikes of vrn1 and vrn1 ful2 mutants at the VEG and DR stages,"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

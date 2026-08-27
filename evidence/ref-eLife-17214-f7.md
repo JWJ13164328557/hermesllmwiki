@@ -1,6 +1,6 @@
 ---
 title: "We found that HDA9 acts in complex with a SANT domain-containing protein POWERDRESS (PWR) and transc"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

@@ -1,6 +1,6 @@
 ---
 title: "However, the mechanisms of how innate immunity interacts with regenerative processes in plants remai"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"

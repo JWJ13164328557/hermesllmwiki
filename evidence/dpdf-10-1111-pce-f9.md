@@ -1,6 +1,6 @@
 ---
 title: "“Single‐Cell Transcriptome Atlas Reveals Developmental Trajectories and a Novel Metabolic Pathway of"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pce]]"

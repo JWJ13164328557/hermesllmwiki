@@ -1,6 +1,6 @@
 ---
 title: "Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO pr"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14063"
 species: [Brassica napus, Citrus spp.]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [BnaA6, BnaC2]
+genes: [BnaC2, BnaA6]
 compounds: []
 ---
 

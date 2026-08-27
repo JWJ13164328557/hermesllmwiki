@@ -1,6 +1,6 @@
 ---
 title: "Strikingly, cells with characteristics of the tracheary elements (TE) of xylem are often observed in"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

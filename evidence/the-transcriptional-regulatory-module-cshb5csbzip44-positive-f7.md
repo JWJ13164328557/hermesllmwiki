@@ -1,6 +1,6 @@
 ---
 title: "For instance, in apple, the bZIP TF MdbZIP4-like directly binds to the promoter of MdMYB114, enhanci"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"

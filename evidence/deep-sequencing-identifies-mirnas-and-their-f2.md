@@ -1,6 +1,6 @@
 ---
 title: "Here, we proﬁled the microRNA population and their targets in C."
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

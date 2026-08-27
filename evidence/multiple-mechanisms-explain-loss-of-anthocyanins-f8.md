@@ -1,6 +1,6 @@
 ---
 title: " 2023 The Authors New Phytologist  2023 New Phytologist Foundation New Phytologist (2024) 241: 471"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

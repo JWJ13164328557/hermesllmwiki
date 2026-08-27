@@ -1,6 +1,6 @@
 ---
 title: "Degradome se- quencing combines 5′ rapid ampliﬁcation of cDNA ends and high- throughput sequencing t"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

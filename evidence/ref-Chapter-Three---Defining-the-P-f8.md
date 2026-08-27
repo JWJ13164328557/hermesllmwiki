@@ -1,6 +1,6 @@
 ---
 title: "Both the conserved GRAS domain and nuclear localization are required for SHORT-ROOT movement."
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

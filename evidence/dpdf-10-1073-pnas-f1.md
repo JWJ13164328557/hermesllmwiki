@@ -1,6 +1,6 @@
 ---
 title: "We show that the number of cell identities exceeds the number of anatomically distinguishable cell t"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1073-pnas]]"

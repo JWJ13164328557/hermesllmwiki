@@ -1,6 +1,6 @@
 ---
 title: "Differentially expressed gene analysis revealed few common target genes that co- regulated (up- and "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"

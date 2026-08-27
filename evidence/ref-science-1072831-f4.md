@@ -1,6 +1,6 @@
 ---
 title: "The E2 interacts with a ubiquitin-protein li- gase (E3) and transfers ubiquitin to E3-bound substrat"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

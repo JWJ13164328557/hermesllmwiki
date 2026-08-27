@@ -1,6 +1,6 @@
 ---
 title: "The mechanisms by which FAMA regulates cell division and terminal differentiation are not known, but"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

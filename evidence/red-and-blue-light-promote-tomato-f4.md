@@ -1,6 +1,6 @@
 ---
 title: "Concor­ dantly, we found that exposure to light led to a reduction in ACC accumulation during the in"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

@@ -1,6 +1,6 @@
 ---
 title: "Together, our findings provided novel insights into the cellular basis of camptothecin biosynthesis "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"

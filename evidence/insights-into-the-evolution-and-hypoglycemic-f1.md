@@ -1,6 +1,6 @@
 ---
 title: "For the 6,138 DE-mRNAs, we found that KEGG enrichment of the upregulated genes was mainly associated"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"
@@ -9,7 +9,7 @@ species: [Zea mays, Quercus spp., Juglans regia]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [starch, phenylpropanoid, sucrose]
+compounds: [sucrose, phenylpropanoid, starch]
 ---
 
 # For the 6,138 DE-mRNAs, we found that KEGG enrichment of the upregulated genes was mainly associated

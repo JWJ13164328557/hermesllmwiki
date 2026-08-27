@@ -1,6 +1,6 @@
 ---
 title: "Here we show by three-dimensional ﬂuorescence in situ hybridization on intact root epidermal tissue "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature04269]]"

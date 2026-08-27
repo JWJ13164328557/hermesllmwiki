@@ -1,6 +1,6 @@
 ---
 title: "We show that optimal transport analysis, a technique originally designed for analysing time-courses,"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pcbi-1009466]]"

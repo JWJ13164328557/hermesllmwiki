@@ -1,6 +1,6 @@
 ---
 title: "NnMYB5 targets and interacts with the anthocyanin transporter NnGST2 gene in N."
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiad363"
 species: [Arabidopsis thaliana, Zea mays, Malus domestica]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [NnMYB5, NnGST2]
+genes: [NnGST2, NnMYB5]
 compounds: [anthocyanin]
 ---
 

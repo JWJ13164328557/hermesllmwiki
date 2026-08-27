@@ -1,6 +1,6 @@
 ---
 title: "BMC Biology CmNAC25 targets CmMYB6 to positively regulate anthocyanin biosynthesis during the post‑f"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s12915-023-01719-7"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CmNAC25, CmMYB6]
+genes: [CmMYB6, CmNAC25]
 compounds: [anthocyanin]
 ---
 

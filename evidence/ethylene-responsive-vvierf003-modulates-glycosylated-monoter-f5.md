@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that VviERF003 may positively regulate the expression of VviGT14 and accumulat"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae065"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VviERF003, VviGT14]
+genes: [VviGT14, VviERF003]
 compounds: []
 ---
 

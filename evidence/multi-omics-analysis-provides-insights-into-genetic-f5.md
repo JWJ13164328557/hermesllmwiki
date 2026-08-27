@@ -1,6 +1,6 @@
 ---
 title: "The detected eQTL located within 30-kb region of the target genes were determined as cis-eQTL, and o"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"

@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, our findings suggest that SmTGA5 has a positive regulatory role in the accumulation o"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad066"
 species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmTAT1, SmTGA5]
+genes: [SmTGA5, SmTAT1]
 compounds: [phenolic]
 ---
 

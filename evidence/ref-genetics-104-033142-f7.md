@@ -1,6 +1,6 @@
 ---
 title: "The of GCN5 and ADA transcription factors interact with work was supported in part by grants from th"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-genetics-104-033142]]"

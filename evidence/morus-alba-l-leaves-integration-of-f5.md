@@ -1,6 +1,6 @@
 ---
 title: "Compared with previous studies, we found more genes related to certain key enzymes in ﬂavonoid synth"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[morus-alba-l-leaves-integration-of]]"

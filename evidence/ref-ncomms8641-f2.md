@@ -1,6 +1,6 @@
 ---
 title: "We conclude that the circadian clock acts to gate auxin signalling during LR development to facilita"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

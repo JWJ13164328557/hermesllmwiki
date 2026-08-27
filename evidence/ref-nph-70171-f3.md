@@ -1,6 +1,6 @@
 ---
 title: "Commensal and beneﬁcial microbes also interact with the host immunity and inﬂuence the hormonal syst"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"

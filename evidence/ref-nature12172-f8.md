@@ -1,6 +1,6 @@
 ---
 title: "One compelling possibility is that upstream noise is propagated from the interferon-signalling pathw"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nature12172]]"

@@ -1,6 +1,6 @@
 ---
 title: "A recent study revealed that PpMYB140 inhibits the expression of anthocyanin biosynthetic structural"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"

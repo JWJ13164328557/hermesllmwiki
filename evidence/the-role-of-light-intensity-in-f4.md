@@ -1,6 +1,6 @@
 ---
 title: "Therefore, the light intensity effect on ASA content is highly localized, and in situ biosynthesis i"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-role-of-light-intensity-in]]"

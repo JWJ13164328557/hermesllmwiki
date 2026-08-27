@@ -1,6 +1,6 @@
 ---
 title: "In summary, we ﬁnd that Drop-seq, SCRB-seq, and MARS-seq are the most cost-effective methods, closel"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2017-01-023]]"

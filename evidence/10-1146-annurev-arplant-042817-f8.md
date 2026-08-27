@@ -1,6 +1,6 @@
 ---
 title: "CT2/Gα interacts with the β and γ subunits (130), and, indeed, Gβ mutants in Arabidopsis have enlarg"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

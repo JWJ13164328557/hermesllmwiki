@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we have recently reported that the concentration of total carotenoids in the flavedo "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[accumulation-of-tocopherols-and-transcriptional-regulation]]"

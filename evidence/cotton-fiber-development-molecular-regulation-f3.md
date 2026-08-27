@@ -1,6 +1,6 @@
 ---
 title: "Journal of Cotton Research (2026) 9:18 demonstrated that GhMYB212 directly activates the sucrose tra"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s42397-026-00264-2"
 species: [Gossypium hirsutum, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GhMYB212, GhSWEET12]
+genes: [GhSWEET12, GhMYB212]
 compounds: [sucrose]
 ---
 

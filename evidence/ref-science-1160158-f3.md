@@ -1,6 +1,6 @@
 ---
 title: "In higher plants, these activities are essential to shape the final root architecture because the fu"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1160158]]"

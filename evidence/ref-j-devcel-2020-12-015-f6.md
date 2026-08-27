@@ -1,6 +1,6 @@
 ---
 title: "Therefore, meta-clusters 4 and 5 correspond to xylem and phloem cells, respectively, and we found si"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-devcel-2020-12-015]]"

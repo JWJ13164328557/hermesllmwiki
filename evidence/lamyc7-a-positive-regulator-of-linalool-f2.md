@@ -1,6 +1,6 @@
 ---
 title: "In addition, we found four homologous genes of linalool synthase (based on the published ‘Jingxun 2’"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[lamyc7-a-positive-regulator-of-linalool]]"

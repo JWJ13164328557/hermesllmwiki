@@ -1,6 +1,6 @@
 ---
 title: "These results confirm the expression patterns of these novel marker genes."
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

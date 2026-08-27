@@ -1,6 +1,6 @@
 ---
 title: "Collectively, the results demonstrate that ectopic expression of the EsMYB90 gene not only led to th"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analysis-reveals]]"

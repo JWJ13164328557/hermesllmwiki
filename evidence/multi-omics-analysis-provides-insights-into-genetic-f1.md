@@ -1,6 +1,6 @@
 ---
 title: "For example, we found that Chr1_26190064 (T/G), whose candidate genes PtoTFIIIB60.SL (Tran­ scriptio"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"

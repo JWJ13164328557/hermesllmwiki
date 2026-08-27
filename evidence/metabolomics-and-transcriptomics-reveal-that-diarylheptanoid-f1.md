@@ -1,6 +1,6 @@
 ---
 title: "PKSs belong to a family of condensing enzymes and play a key role in the biosynthesis of a variety o"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolomics-and-transcriptomics-reveal-that-diarylheptanoid]]"

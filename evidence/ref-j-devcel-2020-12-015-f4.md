@@ -1,6 +1,6 @@
 ---
 title: "We found epidermis marker gene ZmHOMEODOMAIN LEUCINE ZIPPER IV8 (ZmHDZIV8) (Javelle et al., 2011) wa"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-devcel-2020-12-015]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.devcel.2020.12.015"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [ZmYAB14, ZmHDZIV8, ZmYABBY14]
+genes: [ZmHDZIV8, ZmYAB14, ZmYABBY14]
 compounds: []
 ---
 

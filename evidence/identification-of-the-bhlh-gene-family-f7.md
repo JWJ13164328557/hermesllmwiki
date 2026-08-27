@@ -1,6 +1,6 @@
 ---
 title: "Twenty proteins that were predicted to interact with DcbHLH2 (homologous to MYC4 for Arabidopsis) an"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.indcrop.2020.112407"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [DcbHLH2, DcbHLH56]
+genes: [DcbHLH56, DcbHLH2]
 compounds: []
 ---
 

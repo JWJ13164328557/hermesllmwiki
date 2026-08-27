@@ -1,6 +1,6 @@
 ---
 title: "(ii) PpERF9 directly inhibits PpMYB114 expression by binding to its promoter, thereby repressing ant"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PpERF9, PpMYB114]
+genes: [PpMYB114, PpERF9]
 compounds: [anthocyanin]
 ---
 

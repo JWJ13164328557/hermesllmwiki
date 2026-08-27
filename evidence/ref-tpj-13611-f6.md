@@ -1,6 +1,6 @@
 ---
 title: "We found that the expres- sion levels of full-length isoforms of 507 genes were signiﬁcantly affecte"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

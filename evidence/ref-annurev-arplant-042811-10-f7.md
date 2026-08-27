@@ -1,6 +1,6 @@
 ---
 title: "In summary, control of WUS gene ex- pression and multiple levels of lateral inhi- bition contribute "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-042811-10]]"

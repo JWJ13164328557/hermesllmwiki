@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that subregions, even at different developmental stages, can be distinguished"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b5-QQGRDlevUx_vfZRV-iYuwA]]"

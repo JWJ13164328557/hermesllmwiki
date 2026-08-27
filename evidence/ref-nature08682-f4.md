@@ -1,6 +1,6 @@
 ---
 title: "Taken together, three putative signalling factors—stomagen, EPF1 and EPF2—regulate stomatal developm"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

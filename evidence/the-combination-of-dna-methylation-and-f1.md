@@ -1,6 +1,6 @@
 ---
 title: "PrMYBa3 binds to the promoters of LBGs PrDFR and PrANS and directly activates their transcription Bo"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"

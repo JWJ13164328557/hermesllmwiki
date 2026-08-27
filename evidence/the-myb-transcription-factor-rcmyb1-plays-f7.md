@@ -1,6 +1,6 @@
 ---
 title: "We found that RcMYB1 has a high expression level in yellow flowers and fragrant white flowers (Fig."
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

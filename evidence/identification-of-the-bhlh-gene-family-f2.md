@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that DcbHLH2 and DcbHLH46, which belonged to the III(d + e) subfamily, may be involve"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.indcrop.2020.112407"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [DcbHLH2, DcbHLH46]
+genes: [DcbHLH46, DcbHLH2]
 compounds: []
 ---
 

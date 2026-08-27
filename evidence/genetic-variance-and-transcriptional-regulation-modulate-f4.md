@@ -1,6 +1,6 @@
 ---
 title: "In addition to known phenotypic and physiological responses in other model plants (Shanker et al., 2"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-variance-and-transcriptional-regulation-modulate]]"

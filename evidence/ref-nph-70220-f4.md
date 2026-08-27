@@ -1,6 +1,6 @@
 ---
 title: "Notably, there are cases in which changes in chromatin accessibility do not correlate with gene expr"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nph-70220]]"

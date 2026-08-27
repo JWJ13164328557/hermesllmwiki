@@ -1,6 +1,6 @@
 ---
 title: "Many pairs of cells are then used to generate a vector that realigns the two batches, but, important"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-annurev-genet-120417-0312]]"

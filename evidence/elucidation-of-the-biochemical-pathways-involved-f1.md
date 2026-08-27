@@ -1,6 +1,6 @@
 ---
 title: "qRT-PCR Primers were designed for target transcripts from sequences located on the lettuce genome se"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[elucidation-of-the-biochemical-pathways-involved]]"

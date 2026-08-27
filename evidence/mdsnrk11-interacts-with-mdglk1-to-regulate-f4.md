@@ -1,6 +1,6 @@
 ---
 title: "Meanwhile, we screened Ser468 of MdGLK1 as a potential target site for MdSnRK1.1 phosphorylation, an"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad288"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MdHEMA1, MdSnRK1, MdGLK1]
+genes: [MdGLK1, MdSnRK1, MdHEMA1]
 compounds: []
 ---
 

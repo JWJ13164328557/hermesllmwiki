@@ -1,6 +1,6 @@
 ---
 title: "Notably, a large number of dark red and orange-yellow ‘oil packs’ were observed throughout the micro"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[unveiling-the-spatial-distribution-and-molecular]]"

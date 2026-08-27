@@ -1,6 +1,6 @@
 ---
 title: "For example, PROTACs typically possess large molecular weights (> 800 Da), violating Lipinski’s Rule"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [papers]
 source: "[[ms-10-20517_microstructures-2025-173]]"

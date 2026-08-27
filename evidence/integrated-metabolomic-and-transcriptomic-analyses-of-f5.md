@@ -1,6 +1,6 @@
 ---
 title: "The tomato mads-box transcription factor ripening inhibitor interacts with promoters involved in num"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analyses-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "(iv) PpERF9 interacts with the co-repressor PpTOPLESS1 via EAR motifs to form a complex that removes"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [PpRAP2, PpTOPLESS1, PpERF9, PpMYB114]
+genes: [PpRAP2, PpTOPLESS1, PpMYB114, PpERF9]
 compounds: []
 ---
 

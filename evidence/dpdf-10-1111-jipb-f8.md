@@ -1,6 +1,6 @@
 ---
 title: "Notably, the module promotes oil body formation via upregulation of GmOLEO2, but not GmOLEO1 (Lu et "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb"
 species: [Populus, Camelina sativa, Oryza sativa]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmOLEO2, GmOLEO1]
+genes: [GmOLEO1, GmOLEO2]
 compounds: []
 ---
 

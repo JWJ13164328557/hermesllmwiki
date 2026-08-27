@@ -1,6 +1,6 @@
 ---
 title: "Calcium ions interact with Ca2+ sensors, like inositol-3-phosphate (IP3), phospholi- pase C and calc"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

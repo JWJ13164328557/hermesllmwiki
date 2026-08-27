@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that AtCPSF100 is essential for maintaining a suitable express"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

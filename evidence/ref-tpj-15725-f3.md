@@ -1,6 +1,6 @@
 ---
 title: "We found that a total of 4234 DRGs, including 268 TFs in clusters C5–C8 and C13–C16, started to resp"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-15725]]"

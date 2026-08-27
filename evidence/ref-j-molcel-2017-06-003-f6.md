@@ -1,6 +1,6 @@
 ---
 title: "To our surprise, we found that only 20% of AS events shared between pluripotent stem cells and the "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

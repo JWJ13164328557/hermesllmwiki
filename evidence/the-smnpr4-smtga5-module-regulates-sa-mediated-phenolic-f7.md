@@ -1,6 +1,6 @@
 ---
 title: "Moreover, a basic leucine zipper family transcription factor SmTGA5 was identified and was found to "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad066"
 species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [SmNPR4, SmTGA5]
+genes: [SmTGA5, SmNPR4]
 compounds: []
 ---
 

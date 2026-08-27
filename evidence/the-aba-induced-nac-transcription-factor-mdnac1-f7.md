@@ -1,6 +1,6 @@
 ---
 title: "Specifi- cally, MdNAC1 enhances anthocyanin production by interacting with the basic leucine zipper "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"

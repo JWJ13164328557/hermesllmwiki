@@ -1,6 +1,6 @@
 ---
 title: "Although SERK1’s contribution to plant immunity is unclear, it interacts with EFR- and FLS2-containi"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"

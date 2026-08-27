@@ -1,6 +1,6 @@
 ---
 title: "Notably, GUS activity was detected in the mesophyll tissues but not in the epidermal tissues where s"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

@@ -1,6 +1,6 @@
 ---
 title: "SmNPR4"
-created: 2026-08-26
+created: 2026-08-27
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

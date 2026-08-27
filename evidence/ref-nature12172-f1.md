@@ -1,6 +1,6 @@
 ---
 title: "Using cells from knockout mice, we show that variability in this module may be propagated through an"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nature12172]]"

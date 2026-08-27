@@ -1,6 +1,6 @@
 ---
 title: "Notably, other methods also showed strong performance when oriented by CytoTRACE (fig."
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aax0249]]"

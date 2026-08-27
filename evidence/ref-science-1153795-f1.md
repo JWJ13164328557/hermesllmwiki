@@ -1,6 +1,6 @@
 ---
 title: "We found, however, that internal tissues tend to be highly responsive; 48% of salt-responsive genes "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-1153795]]"

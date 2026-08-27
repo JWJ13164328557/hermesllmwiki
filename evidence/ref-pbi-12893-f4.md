@@ -1,6 +1,6 @@
 ---
 title: "In the absence of ABA, we found that 35S:PeCHYR1 plants showed slightly elevated H2O2 content compar"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

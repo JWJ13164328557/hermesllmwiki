@@ -1,6 +1,6 @@
 ---
 title: "The high expression of FA de novo biosynthesis-related genes, encompassed ACCase, MAT, KAS, KAR, EAR"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-analysis-reveals-key-genes-involved]]"

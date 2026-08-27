@@ -1,6 +1,6 @@
 ---
 title: "For miRNAs, 3,424 (90.80 %) of 3,771 predicted miRNA- target genes showed at least one hit in the ab"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"

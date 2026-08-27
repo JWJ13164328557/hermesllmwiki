@@ -1,6 +1,6 @@
 ---
 title: "Homeobox-leucine zipper protein 3 (GhHOX3), which is highly expressed during the elon- gation stage,"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s42397-026-00264-2"
 species: [Gossypium hirsutum, Ficus carica]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [GhTCP4, GhHOX3]
+genes: [GhHOX3, GhTCP4]
 compounds: []
 ---
 

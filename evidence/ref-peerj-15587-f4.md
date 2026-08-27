@@ -1,6 +1,6 @@
 ---
 title: "Full-size DOI: 10.7717/peerj.15587/fig-5 Notably, the root length density of plants under LK and HK "
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-peerj-15587]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that the meridional component best explained the increase in flight speed during a foraging"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1213351]]"

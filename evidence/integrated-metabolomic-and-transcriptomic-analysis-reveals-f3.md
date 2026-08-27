@@ -1,6 +1,6 @@
 ---
 title: "Moreover, the structural diversity of ﬂavonoids leading to the diversity of physicochemical and biol"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analysis-reveals]]"

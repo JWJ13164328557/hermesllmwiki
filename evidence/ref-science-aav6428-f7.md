@@ -1,6 +1,6 @@
 ---
 title: "Our data suggest that the prophase expression transitions relate not only to nuclear events during p"
-created: 2026-08-26
+created: 2026-08-27
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aav6428]]"
