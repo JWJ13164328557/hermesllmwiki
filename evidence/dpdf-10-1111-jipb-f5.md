@@ -1,6 +1,6 @@
 ---
 title: "Mutations in CDK8 signiﬁcantly reduce oil accumulation in Arabidopsis mutants, emphasizing its criti"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

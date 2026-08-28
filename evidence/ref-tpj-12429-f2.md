@@ -1,6 +1,6 @@
 ---
 title: "shr lacks the endodermis in Arabidopsis), manual annota- tion of the layers is required for a few sa"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-tpj-12429]]"

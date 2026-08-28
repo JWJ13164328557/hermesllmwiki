@@ -1,6 +1,6 @@
 ---
 title: "found that the reason for white appearance of ‘Jinba’ at the blooming stage was that the R3 MYB tran"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"

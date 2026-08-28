@@ -1,6 +1,6 @@
 ---
 title: "When we examined the transcript data, we found that only 208 transcripts (17 up, 191 down) were DE i"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[integrated-omics-networks-reveal-the-temporal]]"

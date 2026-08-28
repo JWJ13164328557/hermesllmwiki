@@ -1,6 +1,6 @@
 ---
 title: "Simultaneous overexpression of CcNFYB3 and CcLTCS further increased Al resistance."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14179"
 species: [Arabidopsis thaliana, Zea mays, Glycine max]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [CcNFYB3, CcLTCS]
+genes: [CcLTCS, CcNFYB3]
 compounds: []
 ---
 

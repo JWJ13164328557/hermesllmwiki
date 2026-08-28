@@ -1,6 +1,6 @@
 ---
 title: "(2020) showed that SmbHLH53 binds to the promoters of SmTAT1, SmPAL1, and Sm4CL9 and activates the p"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

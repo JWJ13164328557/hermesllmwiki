@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, wheat exhibits variation in root hair length and density, and cultivars with long roo"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-erac048]]"

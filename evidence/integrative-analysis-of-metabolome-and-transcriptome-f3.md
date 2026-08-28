@@ -1,6 +1,6 @@
 ---
 title: "Moreover, we found the number of DEGs was enhanced with the salinity increase (Fig."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrative-analysis-of-metabolome-and-transcriptome]]"

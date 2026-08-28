@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our results indicate that anthocyanin depletion has side-effects on grape composition "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"
@@ -9,7 +9,7 @@ species: [Vitis vinifera, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [anthocyanin, phenylpropanoid]
+compounds: [phenylpropanoid, anthocyanin]
 ---
 
 # Collectively, our results indicate that anthocyanin depletion has side-effects on grape composition 

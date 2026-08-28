@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, GmZF392‐transgenic soybean seeds exhibit a higher sugar consumption rate than wild‐ty"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

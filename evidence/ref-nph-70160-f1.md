@@ -1,6 +1,6 @@
 ---
 title: "As the primary tissue responsible for nutrient and water absorption, the root tip interacts with bio"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nph-70160]]"

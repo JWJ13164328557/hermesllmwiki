@@ -1,6 +1,6 @@
 ---
 title: "Notably, the stage-speciﬁc accumulation patterns of these homologous maize transcripts in the emergi"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b4-tQ-g_5fH-4YwC8OyEwkrYg]]"

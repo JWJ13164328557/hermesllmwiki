@@ -1,6 +1,6 @@
 ---
 title: "We show in this work that optimal transport can be applied in a natural way to the case of a single "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pcbi-1009466]]"

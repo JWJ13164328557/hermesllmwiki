@@ -1,6 +1,6 @@
 ---
 title: "We found that the ethylene biosynthetic genes were mainly repressed by IAA (up-regulated/down-regula"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"

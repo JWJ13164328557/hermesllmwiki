@@ -1,6 +1,6 @@
 ---
 title: "Our algorithm showed the highest percentage of TFs and their targets coexisting in the two indexes ("
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, most eQTL hotspots overlapped with previously reported QTLs and known genes related to seed"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

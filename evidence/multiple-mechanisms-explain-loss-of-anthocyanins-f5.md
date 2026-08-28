@@ -1,6 +1,6 @@
 ---
 title: "In summary, PAP1a and PAP1b exhibit reciprocal patterns of retention and loss that are a mirror imag"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

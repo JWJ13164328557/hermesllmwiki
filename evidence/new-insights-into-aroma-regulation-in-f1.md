@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that MeJA treatment not only affected the pathways related to the synthesis of"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

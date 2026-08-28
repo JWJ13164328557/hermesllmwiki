@@ -1,6 +1,6 @@
 ---
 title: "Soils As soil is a complex growth medium and its physical structure and compos- ition interact with "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-erac048]]"

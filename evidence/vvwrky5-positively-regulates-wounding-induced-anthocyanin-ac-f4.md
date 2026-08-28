@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results suggest that VvWRKY5 may promote wounding-induced anthocyanin deposition"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvMYBA1, VvWRKY5]
+genes: [VvWRKY5, VvMYBA1]
 compounds: [anthocyanin]
 ---
 

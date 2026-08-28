@@ -1,6 +1,6 @@
 ---
 title: "Protein- DNA interaction assays indicated that VcSPL12 could speciﬁcally bind to the promoters and i"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"

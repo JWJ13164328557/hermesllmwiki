@@ -1,6 +1,6 @@
 ---
 title: "The DEmiRNAs of the target genes were predicted using PatMatch software (version 1.2)."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

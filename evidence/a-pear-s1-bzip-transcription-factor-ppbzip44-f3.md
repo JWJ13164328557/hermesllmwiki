@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that PpbZIP44 is a positive regulator of soluble sugars accumulation in pear fru"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"

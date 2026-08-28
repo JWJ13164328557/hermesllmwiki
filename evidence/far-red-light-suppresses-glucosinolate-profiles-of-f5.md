@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, although the contents of sourness and umami amino acids (total C) were significant hi"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[far-red-light-suppresses-glucosinolate-profiles-of]]"

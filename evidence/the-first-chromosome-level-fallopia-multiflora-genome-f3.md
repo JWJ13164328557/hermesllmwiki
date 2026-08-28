@@ -1,6 +1,6 @@
 ---
 title: "vinifera, and Polygonum cuspidatum, we found 13 PALs, 13 C4Hs, 33 4CLs, and nine STSs in the F."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

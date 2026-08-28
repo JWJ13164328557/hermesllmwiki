@@ -1,6 +1,6 @@
 ---
 title: "rockii ‘Shu Sheng Peng Mo’ and our qRT–PCR analysis, we found that the differences in pigmentation b"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PrDFR, PrANS]
+genes: [PrANS, PrDFR]
 compounds: []
 ---
 

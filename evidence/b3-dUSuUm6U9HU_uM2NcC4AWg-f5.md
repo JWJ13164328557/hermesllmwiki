@@ -1,6 +1,6 @@
 ---
 title: "2.5 | The Synthesis of Andrographolide Is Influenced by Light 7 ­ ­ 7a ­ 7b–d ­ ­ ­ ­ 7d 7c ­ ­ ­ 7c"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b3-dUSuUm6U9HU_uM2NcC4AWg]]"

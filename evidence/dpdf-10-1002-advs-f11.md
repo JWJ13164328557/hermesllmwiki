@@ -1,6 +1,6 @@
 ---
 title: "Notably, even in soybean accessions with smaller seed weight, approximately half of local eQTLs exhi"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

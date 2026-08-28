@@ -1,6 +1,6 @@
 ---
 title: "Here, we show that the 2-day time lag is a consequence of a regulated molecular mechanism and that t"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1248559]]"

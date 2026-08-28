@@ -1,6 +1,6 @@
 ---
 title: "After SA treatment, the conformation of SmNPR4 protein bind to SA is changed, which releases its rep"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad066"
 species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmTGA5, SmTAT1, SmNPR4]
+genes: [SmTAT1, SmTGA5, SmNPR4]
 compounds: [phenolic]
 ---
 

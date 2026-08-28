@@ -1,6 +1,6 @@
 ---
 title: "Here we show that the organizers of both niches employ related regulators to provide stem cell maint"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature05703]]"

@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that VviERF003 may positively regulate the expression of VviGT14 and accumulat"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that SmNPR4 inhib- ited the transcriptional activation activity of SmTGA5 by Dual- LUC assa"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"

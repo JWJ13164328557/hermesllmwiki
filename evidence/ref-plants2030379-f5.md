@@ -1,6 +1,6 @@
 ---
 title: "In rice, both Plants 2013, 2 388 FUL1 and FUL2 proteins (OsMADS14 and OsMADS15, respectively) intera"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"
@@ -8,7 +8,7 @@ doi: "10.3390/plants2030379"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [OsMADS14, OsMADS1, OsMADS15]
+genes: [OsMADS15, OsMADS1, OsMADS14]
 compounds: []
 ---
 

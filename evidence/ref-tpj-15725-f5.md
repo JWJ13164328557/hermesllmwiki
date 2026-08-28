@@ -1,6 +1,6 @@
 ---
 title: "We found that the expression proﬁles of circadian genes in the samples col- lected at the same time "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-15725]]"

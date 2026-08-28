@@ -1,6 +1,6 @@
 ---
 title: "This makes GmDREBL a novel linking between the LAFL network and GmWRI1 in oil regulation (Zhang et a"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"
@@ -8,7 +8,7 @@ doi: "10.1111/jipb"
 species: [Populus, Camelina sativa, Oryza sativa]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmWRI1, GmDREBL]
+genes: [GmDREBL, GmWRI1]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "In the presence of drought stress, the upregulation of MYB44 and the downregulation of HDT4 lead to "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

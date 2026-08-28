@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, we found that HDA9 is preferentially enriched in the pro- moters of active genes but n"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

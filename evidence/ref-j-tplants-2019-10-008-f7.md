@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, cells lose their ability to regenerate a root stem cell niche once these start to dif"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-tplants-2019-10-008]]"

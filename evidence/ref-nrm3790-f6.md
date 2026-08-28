@@ -1,6 +1,6 @@
 ---
 title: "WUS-binding sites of different affinity have been identified and, inter­ estingly, WUS was found to "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nrm3790]]"

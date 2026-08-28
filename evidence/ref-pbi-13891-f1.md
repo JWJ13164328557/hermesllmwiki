@@ -1,6 +1,6 @@
 ---
 title: "Our results show that the single-cell transcriptome atlas allows the identiﬁcation of most of the ma"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-pbi-13891]]"

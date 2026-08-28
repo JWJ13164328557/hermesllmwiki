@@ -1,6 +1,6 @@
 ---
 title: "(A and B) An eQTL (A to T substitution, highlighted in green) located in the TFBS of AT5G67580 predi"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

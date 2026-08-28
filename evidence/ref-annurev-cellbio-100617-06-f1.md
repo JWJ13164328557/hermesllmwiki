@@ -1,6 +1,6 @@
 ---
 title: "In contrast, cytokinin signaling relies on a two-component phosphorelay to phosphorylate and activat"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

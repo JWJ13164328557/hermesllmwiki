@@ -1,6 +1,6 @@
 ---
 title: "Despite the low predicted on-target cut efficiency score, this crRNA successfully yielded CDT-knock-"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers]
 source: "[[ms-10-17504_protocols-io-rm7vzw87xvx1_v1]]"

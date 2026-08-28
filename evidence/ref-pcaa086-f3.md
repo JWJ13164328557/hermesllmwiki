@@ -1,6 +1,6 @@
 ---
 title: "We found that the repression of HDAC activity by trichostatin A (TSA) or by OsHDA710 mutation (hda71"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

@@ -1,6 +1,6 @@
 ---
 title: "DISCUSSION This study demonstrates that AtLAZY1 is a functional ortholog of rice LAZY1, identiﬁes si"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-12118]]"

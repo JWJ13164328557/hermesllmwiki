@@ -1,6 +1,6 @@
 ---
 title: "By immuno-electron microscopy, we found that width and position of the CASP1–GFP signals at the plas"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature10070]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that the potential target- function proteins related to the petal bloom- and pollen tube el"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-15725]]"

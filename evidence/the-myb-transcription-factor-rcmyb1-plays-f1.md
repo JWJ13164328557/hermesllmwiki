@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that the expression level of RcLYCB, RcLYCE-1, and RcLYCE-2 were significant"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad080"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [RcLYCB, RcLYCE, RcMYB1]
+genes: [RcLYCE, RcMYB1, RcLYCB]
 compounds: []
 ---
 

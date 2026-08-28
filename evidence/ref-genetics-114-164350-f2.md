@@ -1,6 +1,6 @@
 ---
 title: "Additionally, we pro- pose a useful heuristic to choose K based on the tendency of mean-ﬁeld variati"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-genetics-114-164350]]"

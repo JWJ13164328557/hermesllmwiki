@@ -1,6 +1,6 @@
 ---
 title: "Within biocrusts, phototrophic groups such as cyanobacteria and mosses play a crucial role in promot"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-19676]]"

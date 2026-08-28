@@ -1,6 +1,6 @@
 ---
 title: "With this, we found that three types of methylation (CG, CNG and CHH) were decreased in AtMu1 and in"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"
@@ -8,7 +8,7 @@ doi: "10.1111/tpj.13611"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtMu1, AtSN1]
+genes: [AtSN1, AtMu1]
 compounds: []
 ---
 

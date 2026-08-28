@@ -1,6 +1,6 @@
 ---
 title: "More importantly, the Urea-related transporter gene CsUPS1 displayed the highest expression levels i"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[dissection-of-the-spatial-dynamics-of]]"

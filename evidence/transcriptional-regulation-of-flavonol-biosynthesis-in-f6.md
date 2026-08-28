@@ -1,6 +1,6 @@
 ---
 title: "These results demonstrate that SG7 R2R3-MYBs can directly target the key gene FLS and other early ge"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"

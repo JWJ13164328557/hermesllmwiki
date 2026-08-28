@@ -1,6 +1,6 @@
 ---
 title: "When expression of shoot meristem (SHOOT MERISTEMLESS, STM), root meristem (WUS HOMEOBOX, WOX5) or e"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

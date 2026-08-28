@@ -1,6 +1,6 @@
 ---
 title: "When comparing sorted cells with unsorted whole roots, we found 4% of all detected genes (1,113 gene"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

@@ -1,6 +1,6 @@
 ---
 title: "(2020) demonstrated that GhTCP4 interacts with GhHOX3 and represses its transcriptional activity."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s42397-026-00264-2"
 species: [Gossypium hirsutum, Ficus carica]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [GhHOX3, GhTCP4]
+genes: [GhTCP4, GhHOX3]
 compounds: []
 ---
 

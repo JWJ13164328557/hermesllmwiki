@@ -1,6 +1,6 @@
 ---
 title: "These results demonstrated that duplicated biosynthetic genes retained ancestral catalytic functions"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"

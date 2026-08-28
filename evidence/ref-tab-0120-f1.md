@@ -1,6 +1,6 @@
 ---
 title: "In tobacco, these are MYB factors that have been identified to inter- act with MSA boxes present in "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

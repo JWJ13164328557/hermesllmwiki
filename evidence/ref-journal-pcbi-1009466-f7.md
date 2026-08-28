@@ -1,6 +1,6 @@
 ---
 title: "In Fig 3D we show the inferred process for k = 1, 5, 10, 20 where we have taken π0 to be uniform on "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pcbi-1009466]]"

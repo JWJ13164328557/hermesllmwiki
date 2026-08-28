@@ -1,6 +1,6 @@
 ---
 title: "Notably, these differences in xylem composition occur not only between primary and secondary tissues"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pce]]"

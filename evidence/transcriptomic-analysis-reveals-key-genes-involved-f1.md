@@ -1,6 +1,6 @@
 ---
 title: "In summary, the high expression of ﬁve GPATs, one LPAT, one LPCAT and two PLA2s from S1~S2 were sync"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-analysis-reveals-key-genes-involved]]"

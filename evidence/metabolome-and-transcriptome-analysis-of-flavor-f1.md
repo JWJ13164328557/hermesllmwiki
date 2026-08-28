@@ -1,6 +1,6 @@
 ---
 title: "This study provides new insights into the effects of bagging on changes in the intrinsic and appeara"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-and-transcriptome-analysis-of-flavor]]"

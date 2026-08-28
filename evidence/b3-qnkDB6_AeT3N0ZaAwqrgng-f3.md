@@ -1,6 +1,6 @@
 ---
 title: "Moreover, we found that most genes exhibited complex cascade interactions in phloem regions and also"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b3-qnkDB6_AeT3N0ZaAwqrgng]]"

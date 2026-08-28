@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that SGR6 is a novel protein involved in the formation and/or maintenance of inv"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"

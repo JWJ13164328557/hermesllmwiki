@@ -1,6 +1,6 @@
 ---
 title: "We show that both processes are impaired by a recessive apl mutation."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

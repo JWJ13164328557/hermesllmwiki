@@ -1,6 +1,6 @@
 ---
 title: "Here, we report a novel TF, PpbZIP44, as a positive regulator of primary and secondary metabolism in"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"

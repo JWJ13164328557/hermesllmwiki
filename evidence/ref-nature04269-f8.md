@@ -1,6 +1,6 @@
 ---
 title: "To establish at what stage of the cell cycle changes in chromatin Figure 2 | FAS2 is required to con"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature04269]]"

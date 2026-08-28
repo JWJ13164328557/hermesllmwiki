@@ -1,6 +1,6 @@
 ---
 title: "Ca2+ binding to the CPK activation domain activates kinase activity, phosphorylating downstream targ"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

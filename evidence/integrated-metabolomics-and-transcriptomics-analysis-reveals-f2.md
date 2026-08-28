@@ -1,6 +1,6 @@
 ---
 title: "In the present study, we found that GABA significantly reduced the wheat y"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomics-and-transcriptomics-analysis-reveals]]"

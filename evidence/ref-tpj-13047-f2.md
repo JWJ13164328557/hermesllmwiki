@@ -1,6 +1,6 @@
 ---
 title: "From this and previous work we found a resolu- tion of 25 lm3 and below to be suitable for the detec"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-13047]]"

@@ -1,6 +1,6 @@
 ---
 title: "E-mail: Abstract Targeted protein degradation (TPD) technology offers a revolutionary approach for p"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers]
 source: "[[ms-10-20517_microstructures-2025-173]]"

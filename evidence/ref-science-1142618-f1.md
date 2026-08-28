@@ -1,6 +1,6 @@
 ---
 title: "If this hypothesis is correct, our data suggest that the increase in morphological complexity of the"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1142618]]"

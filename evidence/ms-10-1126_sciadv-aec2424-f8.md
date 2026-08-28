@@ -1,6 +1,6 @@
 ---
 title: "The transcriptional effects of estrogen are rapid, on the order of minutes, resulting in transcripti"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aec2424]]"

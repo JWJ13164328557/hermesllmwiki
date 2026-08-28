@@ -1,6 +1,6 @@
 ---
 title: "This suggests that the four SmMYBs are authentic targets of Smi-miR858s."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"

@@ -1,6 +1,6 @@
 ---
 title: "While there is a distinction between when a tree grows and the climate window to which annual growth"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-ady7139]]"

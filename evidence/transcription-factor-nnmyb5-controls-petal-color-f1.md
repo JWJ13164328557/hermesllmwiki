@@ -1,6 +1,6 @@
 ---
 title: "Further analyses identified an anthocyanin transport­ er NnGST2 as the downstream target gene of NnM"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plphys/kiad363"
 species: [Arabidopsis thaliana, Zea mays, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [NnGST2, NnMYB5]
+genes: [NnMYB5, NnGST2]
 compounds: [anthocyanin]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "(2005) A CPSF-73 homologue is required for cell cycle progression but not cell growth and interacts "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

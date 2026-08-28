@@ -1,6 +1,6 @@
 ---
 title: "We found that the fusion protein VvMYBA1-GST could be pulled down by the VvWRKY5- HIS fusion protein"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, by pairwise compari- sons among the four seed development stages in each line, we found"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"

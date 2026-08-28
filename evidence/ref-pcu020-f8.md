@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the formation/maintenance of invaginated VM structures is important for a"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"

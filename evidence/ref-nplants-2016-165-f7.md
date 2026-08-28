@@ -1,6 +1,6 @@
 ---
 title: "SCL21 −HIS +HIS −HIS +HIS ERF115 ERF115-A GUS ERF115-B ERF115-C PAT1 pDEST32 pDEST22 b −HIS ERF2 ERF"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

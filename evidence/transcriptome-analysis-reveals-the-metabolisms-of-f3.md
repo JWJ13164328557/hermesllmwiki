@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the expression of ADH1 in both kiwifruit ‘Bruno’ and ‘White’ decreased during posthar"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-the-metabolisms-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, three CPO unigenes were closely clustered with the only CYP80B2 and CNMT-1 from eight CNMT "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[distribution-survey-phytochemical-and-transcriptome-analysis]]"

@@ -1,6 +1,6 @@
 ---
 title: "Empirically determine a higher forward scatter threshold that eliminates debris, but not potential t"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nmeth0805-615]]"

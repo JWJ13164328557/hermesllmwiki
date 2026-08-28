@@ -1,6 +1,6 @@
 ---
 title: "YUC-mediated auxin biosynthesis is involved in de novo root organogenesis from leaf explants To stud"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

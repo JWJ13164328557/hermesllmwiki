@@ -1,6 +1,6 @@
 ---
 title: "Taken together, LZY proteins likely play a central role in gravity-sensing cells to connect signals "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-plants9050615]]"

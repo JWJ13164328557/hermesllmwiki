@@ -1,6 +1,6 @@
 ---
 title: "In summary, our data indicate that miR165/6 post-transcriptionally restricts PHB within the root mer"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature08977]]"

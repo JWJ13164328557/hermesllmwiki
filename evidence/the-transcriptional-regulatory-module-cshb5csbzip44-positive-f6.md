@@ -1,6 +1,6 @@
 ---
 title: "Additionally, CsHB5 interacts with CsbZIP44 to form a transcriptional regulatory module CsHB5-CsbZIP"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14219"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Malus domestica]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CsbZIP44, CsHB5]
+genes: [CsHB5, CsbZIP44]
 compounds: [carotenoid]
 ---
 

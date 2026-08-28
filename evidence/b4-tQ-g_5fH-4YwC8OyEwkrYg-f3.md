@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the expression of ARF3 in the scutellum moved from the ventral (i.e., abaxial) region"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b4-tQ-g_5fH-4YwC8OyEwkrYg]]"

@@ -1,6 +1,6 @@
 ---
 title: "It is also noteworthy that BAK1 (also known as SERK3), a co-receptor involved in recognizing many mi"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"

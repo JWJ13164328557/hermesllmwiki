@@ -1,6 +1,6 @@
 ---
 title: "We found epidermis marker gene ZmHOMEODOMAIN LEUCINE ZIPPER IV8 (ZmHDZIV8) (Javelle et al., 2011) wa"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-devcel-2020-12-015]]"

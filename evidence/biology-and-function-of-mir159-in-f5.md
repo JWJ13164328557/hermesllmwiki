@@ -1,6 +1,6 @@
 ---
 title: "Some species have even more variant miR159 isoforms (e.g., poplar; grape, soybean, and maize with 3–"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[biology-and-function-of-mir159-in]]"

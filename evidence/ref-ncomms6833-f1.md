@@ -1,6 +1,6 @@
 ---
 title: "Here, we report that the highly JA-responsive ethylene response factor 109 (ERF109) mediates cross-t"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Nicotiana tabacum, Allium spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [auxin, ethylene]
+compounds: [ethylene, auxin]
 ---
 
 # Here, we report that the highly JA-responsive ethylene response factor 109 (ERF109) mediates cross-t

@@ -1,6 +1,6 @@
 ---
 title: "The cell specificity of bZIP9 is consistent with a possible role in the activation of target genes i"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-G2N-JJNNVwoyPpAiZEWa8w]]"

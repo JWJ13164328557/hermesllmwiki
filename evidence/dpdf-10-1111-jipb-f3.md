@@ -1,6 +1,6 @@
 ---
 title: "The production of FAs and their transport from the plastid to the ER play a crucial role in TAG accu"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

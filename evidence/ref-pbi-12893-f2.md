@@ -1,6 +1,6 @@
 ---
 title: "We found that PeCHYR1 was a functional homolog of CHYR1."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

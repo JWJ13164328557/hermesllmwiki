@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we note that the stamen ﬁla- ment development pathway was enriched in ﬂoral stage 11,"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2017-61]]"

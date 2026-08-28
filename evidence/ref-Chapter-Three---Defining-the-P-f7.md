@@ -1,6 +1,6 @@
 ---
 title: "The SCARECROW gene regulates an asymmetric cell division that is essential for generating the radial"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

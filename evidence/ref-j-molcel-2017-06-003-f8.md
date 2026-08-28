@@ -1,6 +1,6 @@
 ---
 title: "Among properties investigated, we found that MNs favor splicing that generates more disordered and b"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

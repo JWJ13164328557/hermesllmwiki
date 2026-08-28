@@ -1,6 +1,6 @@
 ---
 title: "RGFs are required for maintenance of the root stem cell niche and transit amplifying cell proliferat"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1191132]]"

@@ -1,6 +1,6 @@
 ---
 title: "Collectively, this study provides new insights into understanding TBS in C."
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

@@ -1,6 +1,6 @@
 ---
 title: "To understand how CsGGT2 and CsGGT4 were transcriptionally regulated, we explored the potential for "
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae012"
 species: [Nicotiana tabacum, Citrus spp., Camellia sinensis]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CsGGT4, CsMYB73, CsGGT2]
+genes: [CsMYB73, CsGGT2, CsGGT4]
 compounds: []
 ---
 

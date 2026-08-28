@@ -1,6 +1,6 @@
 ---
 title: "VcSPL12"
-created: 2026-08-27
+created: 2026-08-28
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

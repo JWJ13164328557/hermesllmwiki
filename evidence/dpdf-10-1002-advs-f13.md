@@ -1,6 +1,6 @@
 ---
 title: "Notably, we found that TWAS-signiﬁcant lncRNAs were over-represented in module M1 but not in other m"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

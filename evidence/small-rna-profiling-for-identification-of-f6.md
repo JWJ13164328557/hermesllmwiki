@@ -1,6 +1,6 @@
 ---
 title: "Using quanti- tative real-time PCR and an integrated analysis of miRNA and mRNA expression, miRNA-ta"
-created: 2026-08-27
+created: 2026-08-28
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"
