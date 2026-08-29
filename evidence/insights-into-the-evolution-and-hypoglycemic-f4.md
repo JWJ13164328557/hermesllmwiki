@@ -1,6 +1,6 @@
 ---
 title: "miRNA target genes were predicted using TargetFinder software (version 1.6) with the default paramet"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"

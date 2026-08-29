@@ -1,6 +1,6 @@
 ---
 title: "In each of the homologous cell types, we found that 79%–95% of expressed genes were shared between B"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"

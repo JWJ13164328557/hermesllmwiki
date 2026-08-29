@@ -1,6 +1,6 @@
 ---
 title: "MeNF-YC15 interacts with the 2C-type protein phosphatase 1 (MePP2C1) to ﬁne-tune the transcription o"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14355"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MePP2C1, MeNF, MeACO1]
+genes: [MeNF, MePP2C1, MeACO1]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "As predicted, we found these two transcripts were anticorrelated and absent from mitotic figures, wi"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-devcel-2024-12-019]]"

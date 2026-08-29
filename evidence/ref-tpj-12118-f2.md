@@ -1,6 +1,6 @@
 ---
 title: "(1999) indicate more investiga- tion is necessary to elucidate how lazy1 mutations impair the format"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-12118]]"

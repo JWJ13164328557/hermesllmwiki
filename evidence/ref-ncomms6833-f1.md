@@ -1,6 +1,6 @@
 ---
 title: "Here, we report that the highly JA-responsive ethylene response factor 109 (ERF109) mediates cross-t"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"

@@ -1,6 +1,6 @@
 ---
 title: "VvWRKY5 directly interacts with VvMYBA1 WRKY-MYB module plays a crucial role in anthocyanin synthesi"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [VvWRKY5, VvMYBA1]
+genes: [VvMYBA1, VvWRKY5]
 compounds: [anthocyanin]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "This is the case for the three diﬀerent miR159 isoforms found in Arabidopsis that vary by 1–2 nucleo"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[biology-and-function-of-mir159-in]]"

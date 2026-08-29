@@ -1,6 +1,6 @@
 ---
 title: "For example, we found that SLC5A3, CENPF, MKI67, TNC, and KIAA1199 displayed Fano factor values subs"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aaa6090]]"

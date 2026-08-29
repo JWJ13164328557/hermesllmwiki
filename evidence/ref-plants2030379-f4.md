@@ -1,6 +1,6 @@
 ---
 title: "Yeast two- and three-hybrid analyses showed that WFUL2 interacts with class B and class E proteins ["
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"

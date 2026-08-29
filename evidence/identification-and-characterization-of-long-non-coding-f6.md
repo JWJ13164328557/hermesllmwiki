@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that the flavonol glycoside contents of G."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-and-characterization-of-long-non-coding]]"

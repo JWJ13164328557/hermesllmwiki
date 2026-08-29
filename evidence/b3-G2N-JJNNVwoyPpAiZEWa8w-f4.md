@@ -1,6 +1,6 @@
 ---
 title: "Consistent with our hypothesis, we found UmamiT18/SIAR1 mRNA in PP (Figure 5, J–L)."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-G2N-JJNNVwoyPpAiZEWa8w]]"

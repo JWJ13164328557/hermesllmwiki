@@ -1,6 +1,6 @@
 ---
 title: "12 | Horticulture Research, 2023, 10: uhad080 Conclusion In conclusion, we revealed that R2R3-MYB Rc"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

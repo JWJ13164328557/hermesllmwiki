@@ -1,6 +1,6 @@
 ---
 title: "We estimated 99 % confidence intervals (CIs) of Qst by resampling individuals with replacement 1000 "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"

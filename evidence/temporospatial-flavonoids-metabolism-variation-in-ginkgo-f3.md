@@ -1,6 +1,6 @@
 ---
 title: "We found more DEGs diﬀerences existed between QJ and YN samples (number of stage-speciﬁc genes varie"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[temporospatial-flavonoids-metabolism-variation-in-ginkgo]]"

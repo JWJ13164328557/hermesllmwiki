@@ -1,6 +1,6 @@
 ---
 title: "Importantly, only anthocyanin-pigmented species are represented in this tree, and no sequences were "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

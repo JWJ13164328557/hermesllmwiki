@@ -1,6 +1,6 @@
 ---
 title: "Because VviERF003 was identified via DNA pull-down screen- ing using the VviGT14 promoter as the bai"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae065"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [VviGT14, VviERF003]
+genes: [VviERF003, VviGT14]
 compounds: []
 ---
 

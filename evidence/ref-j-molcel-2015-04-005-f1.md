@@ -1,6 +1,6 @@
 ---
 title: "Importantly, it also enables enrichment of particular cells of interest if they are ﬂuo- rescently l"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2015-04-005]]"

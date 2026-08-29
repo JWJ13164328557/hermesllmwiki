@@ -1,6 +1,6 @@
 ---
 title: "Pr1 markers (Rmf and C3h3) were expressed at low levels during premeiotic interphase and early lepto"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aav6428]]"

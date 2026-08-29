@@ -1,6 +1,6 @@
 ---
 title: "Our data suggest that ACR4 signaling is a critical homeostatic mech- anism in mediating formative di"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1160158]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that AtSWEET11 and 12 are expressed in phloem cells, and that inhibition by mutation reduce"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1213351]]"

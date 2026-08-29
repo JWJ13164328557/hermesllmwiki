@@ -1,6 +1,6 @@
 ---
 title: "In order to analyse an acquired time- series of a plant showing a certain phenotype it is necessary "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-erv265]]"

@@ -1,6 +1,6 @@
 ---
 title: "During mitotic prolifera- tion before meiotic prophase I, we found a cy- clical pattern of genes ass"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aav6428]]"

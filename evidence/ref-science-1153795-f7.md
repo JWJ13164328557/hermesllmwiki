@@ -1,6 +1,6 @@
 ---
 title: "This suggests that cell-type–specific biological pro- cesses are common targets for stress regulatio"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-1153795]]"

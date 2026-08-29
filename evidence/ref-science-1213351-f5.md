@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the data indicate that clade III SWEETs are involved in export of sucrose and are re"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1213351]]"

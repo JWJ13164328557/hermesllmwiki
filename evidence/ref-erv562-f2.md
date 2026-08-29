@@ -1,6 +1,6 @@
 ---
 title: "Here, we report that HDA9 mutation led to up-regulation of many genes, among which those involved in"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

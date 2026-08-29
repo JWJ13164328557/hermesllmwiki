@@ -1,6 +1,6 @@
 ---
 title: "It was demonstrated that HDA19 may interact with the transcription factors to regulate gene expressi"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erq154]]"

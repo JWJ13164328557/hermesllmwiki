@@ -1,6 +1,6 @@
 ---
 title: "SlNOR"
-created: 2026-08-28
+created: 2026-08-29
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

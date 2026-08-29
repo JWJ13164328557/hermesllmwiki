@@ -1,6 +1,6 @@
 ---
 title: "ethylene"
-created: 2026-08-28
+created: 2026-08-29
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # ethylene
 
 ## Evidence Summary
-**Total evidence objects**: 35
+**Total evidence objects**: 36
 
 ## Evidence Table
 | Evidence | Finding |
@@ -23,7 +23,7 @@ tags: [metabolism, compound]
 | [[ms-10-1007_s44372-026-00844-1-f7]] | Ethylene, jasmonic acid, and brassinosteroids further fine-tune stress responses |
 | [[ms-10-1186_s43897-026-00236-9-f6]] | Furthermore, ABA promotes leaf senescence through a pathway distinct from ethyle |
 | [[ms-10-14719_pst-15098-f4]] | Hormone signalling pathways Hormone signalling pathways play a central role in r |
-| [[ms-10-3389_fpls-2026-1806063-f8]] | This study employed multi-population GWAS, comprehen- sive ﬁne-mapping strategie |
+| [[ms-10-3389_fagro-2026-1855179-f1]] | In addition to ABA, ethylene plays a critical role in drought-related stress res |
 
 ## Biosynthetic Pathway
 -

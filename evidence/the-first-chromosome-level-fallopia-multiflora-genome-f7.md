@@ -1,6 +1,6 @@
 ---
 title: "Notably, the 11 CYP450 genes mainly belonged to the CYP76, CYP82, CYP86, and CYP81 superfamilies bas"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

@@ -1,6 +1,6 @@
 ---
 title: "When targets interact, each tracker will tend to lock on the tar- get that best ﬁts the model."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-13047]]"

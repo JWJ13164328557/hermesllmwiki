@@ -1,6 +1,6 @@
 ---
 title: "HOMEODOMAIN LEUCINE ZIPPER (HD-ZIP III) genes, whose protein products interact with the type-B RRs a"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

@@ -1,6 +1,6 @@
 ---
 title: "When applied to plants, these methods will provide new insights such as cell-type-speciﬁc organizati"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nph-70220]]"

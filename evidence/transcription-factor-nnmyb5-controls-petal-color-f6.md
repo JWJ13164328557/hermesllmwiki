@@ -1,6 +1,6 @@
 ---
 title: "Yeast 1-hybrid (Y1H) assay to verify the regulatory role of NnMYB5 revealed that it could bind to th"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"

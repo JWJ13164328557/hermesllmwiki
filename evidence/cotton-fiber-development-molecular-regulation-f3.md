@@ -1,6 +1,6 @@
 ---
 title: "Journal of Cotton Research (2026) 9:18 demonstrated that GhMYB212 directly activates the sucrose tra"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"

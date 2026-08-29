@@ -1,6 +1,6 @@
 ---
 title: "VcSPL12 negatively regulates ethylene production through directly targeting VcACO6 and VcACS1 To inv"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14193"
 species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [VcSPL12, VcACS1, VcACO6]
+genes: [VcACO6, VcACS1, VcSPL12]
 compounds: [ethylene]
 ---
 

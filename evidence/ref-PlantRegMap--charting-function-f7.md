@@ -1,6 +1,6 @@
 ---
 title: "Download individual files via HTTP Batch download via FTP http://plantregmap.cbi.pku.edu.cn/ downloa"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

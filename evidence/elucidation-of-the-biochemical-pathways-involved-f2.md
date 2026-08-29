@@ -1,6 +1,6 @@
 ---
 title: "Primers were tested on RNA extracts from the parent plants of the cross, the optimum annealing tempe"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[elucidation-of-the-biochemical-pathways-involved]]"

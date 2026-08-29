@@ -1,6 +1,6 @@
 ---
 title: "AP2/ERF TFs have been previ­ ously reported to play a pivotal role in Taxol biosynthesis."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[transcriptome-wide-analysis-of-ap2erf-transcription-factors]]"

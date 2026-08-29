@@ -1,6 +1,6 @@
 ---
 title: "In summary, extensive simulation and real data benchmark- ing suggest that our SMNN can not only bet"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

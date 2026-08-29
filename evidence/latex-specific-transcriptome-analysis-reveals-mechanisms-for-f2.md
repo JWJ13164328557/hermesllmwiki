@@ -1,6 +1,6 @@
 ---
 title: "Among multi-subunit RING finger-type E3, the anaphase promoting complex (APC complex) presented the "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[latex-specific-transcriptome-analysis-reveals-mechanisms-for]]"

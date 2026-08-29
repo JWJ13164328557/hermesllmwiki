@@ -1,6 +1,6 @@
 ---
 title: "LCR was suggested to target proteins that are involved in WUS function and/or movement94."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nrm3790]]"

@@ -1,6 +1,6 @@
 ---
 title: "multiflora STS is crucial for stilbene biosynthesis and is used as a substrate- precursor molecule t"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

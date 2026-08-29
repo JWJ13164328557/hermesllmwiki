@@ -1,6 +1,6 @@
 ---
 title: "KNOLLE (AT1G08560), among others, are targets of MYB3RA1, MYB3RA2 and MYB3R2 (Ito et al., 1998; Ito "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

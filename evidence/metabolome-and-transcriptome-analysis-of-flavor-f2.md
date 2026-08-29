@@ -1,6 +1,6 @@
 ---
 title: "BMC Plant Biology (2021) 21:396 Page 6 of 14 Flavonoid biosynthesis pathway and transcriptional regu"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-and-transcriptome-analysis-of-flavor]]"
@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Malus domestica, Vitis vinifera]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [flavonoid, anthocyanin]
+compounds: [anthocyanin, flavonoid]
 ---
 
 # BMC Plant Biology (2021) 21:396 Page 6 of 14 Flavonoid biosynthesis pathway and transcriptional regu

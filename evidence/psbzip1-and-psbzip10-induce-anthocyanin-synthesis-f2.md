@@ -1,6 +1,6 @@
 ---
 title: "(2022) have reported that MdHY5-like interacts with bZIP transcription factor gene MdHY5 and plays a"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MdMYB10, MdHY5]
+genes: [MdHY5, MdMYB10]
 compounds: [anthocyanin]
 ---
 

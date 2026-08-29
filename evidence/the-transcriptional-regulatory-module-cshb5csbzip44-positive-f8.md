@@ -1,6 +1,6 @@
 ---
 title: "Additionally, we observed that CsHB5 interacts with and activates CsbZIP44, which serves as a positi"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"

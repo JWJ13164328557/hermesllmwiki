@@ -1,6 +1,6 @@
 ---
 title: "Postharvest Biology and Technology 207 (2024) 112588 3 control was adopted to calculate relative exp"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that the fluorescence signal of MdHEMA1pro:LUC + 35Spro:MdGLK1 (S468A) was comparable to th"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad288"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [MdGLK1, MdHEMA1, MdHEMA1pro]
+genes: [MdHEMA1pro, MdGLK1, MdHEMA1]
 compounds: []
 ---
 

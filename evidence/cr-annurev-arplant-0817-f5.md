@@ -1,6 +1,6 @@
 ---
 title: "Validation of the obtained protoplast is required to determine the composition of retrieved cell typ"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[cr-annurev-arplant-0817]]"

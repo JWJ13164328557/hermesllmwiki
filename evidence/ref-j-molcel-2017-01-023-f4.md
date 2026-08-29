@@ -1,6 +1,6 @@
 ---
 title: "In summary, we ﬁnd that Smart-seq2 is the most sensitive method, as it detects the highest number of"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2017-01-023]]"

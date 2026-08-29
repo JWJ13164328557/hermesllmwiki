@@ -1,6 +1,6 @@
 ---
 title: "We found that S2 (PEDOT:PSS HTL Solar) was the most reactive to moisture, while S3, S8, and S13 (PAN"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aec7965]]"

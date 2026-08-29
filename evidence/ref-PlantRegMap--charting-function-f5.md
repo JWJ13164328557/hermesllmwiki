@@ -1,6 +1,6 @@
 ---
 title: "(C) The transcriptional regulatory network consisting of AT3G22830 and its target genes predicted by"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

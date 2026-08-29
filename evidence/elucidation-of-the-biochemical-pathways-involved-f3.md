@@ -1,6 +1,6 @@
 ---
 title: "London UK), and 1 μL each of 3 μM target specific forward and reverse primer in a LightCycler 480 mu"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[elucidation-of-the-biochemical-pathways-involved]]"

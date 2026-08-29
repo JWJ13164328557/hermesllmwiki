@@ -1,6 +1,6 @@
 ---
 title: "We found that multiple BR- response terms are enriched at different time points and for different DE"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[integrated-omics-networks-reveal-the-temporal]]"

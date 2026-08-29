@@ -1,6 +1,6 @@
 ---
 title: "In summary, the root of Arabidopsis has yielded important insights into the pathways that lead from "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

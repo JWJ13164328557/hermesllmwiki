@@ -1,6 +1,6 @@
 ---
 title: "syr- ingaeHopM effector targets at least one ARF-GEF protein likely to be involved in host cell vesi"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

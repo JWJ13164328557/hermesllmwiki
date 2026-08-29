@@ -1,6 +1,6 @@
 ---
 title: "These findings reveal the high specificity of alternative splicing regulation in QC cells, where NS "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[b3-yRRSlByPuOxXKvXBl0_LZg]]"

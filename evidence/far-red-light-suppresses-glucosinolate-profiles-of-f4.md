@@ -1,6 +1,6 @@
 ---
 title: "Notably, the transcription factors (TFs) such as PHYTOCHROME INTERACTING FACTORs (PIFs), ELONGATED H"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[far-red-light-suppresses-glucosinolate-profiles-of]]"

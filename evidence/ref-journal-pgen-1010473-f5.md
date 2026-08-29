@@ -1,6 +1,6 @@
 ---
 title: "By com- paring the drought induced genes in Col-0 and in enap1-1enap2, we found a large number of th"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

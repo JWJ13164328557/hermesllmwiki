@@ -1,6 +1,6 @@
 ---
 title: "A novel regulatory module GmNFYA‐GmZF392‐GmZF351 plays a crucial role in the oil biosynthesis pathwa"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

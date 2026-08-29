@@ -1,6 +1,6 @@
 ---
 title: "This mutant had a point mutation in the miR165/6 target site in the class III homeo- domain leucine "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature08977]]"

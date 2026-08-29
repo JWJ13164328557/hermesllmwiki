@@ -1,6 +1,6 @@
 ---
 title: "In contrast, we found that meta-cluster 5 represented phloem cells, as shown by speciﬁc expression o"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-devcel-2020-12-015]]"

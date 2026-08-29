@@ -1,6 +1,6 @@
 ---
 title: "VviERF003 binds directly to VviGT14 promoter and stimulates its activity To determine if VviGT14 is "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae065"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [VviGT14, VviERF003]
+genes: [VviERF003, VviGT14]
 compounds: []
 ---
 

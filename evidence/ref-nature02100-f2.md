@@ -1,6 +1,6 @@
 ---
 title: "The HCV-encoded NS3 protease is essential for viral replication7,8 and has long been considered an a"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

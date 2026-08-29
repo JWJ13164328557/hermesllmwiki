@@ -1,6 +1,6 @@
 ---
 title: "It can interact with other secondary metabolic pathways and work together with them to provide resis"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"

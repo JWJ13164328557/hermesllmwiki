@@ -1,6 +1,6 @@
 ---
 title: "We found that ABA increased the MdSnRK1.1 transcription level (Fig."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"

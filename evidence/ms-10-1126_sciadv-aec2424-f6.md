@@ -1,6 +1,6 @@
 ---
 title: "The binding of ERα to genomic DNA promotes the coordinated recruitment of co-­regulator proteins [e."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aec2424]]"

@@ -1,6 +1,6 @@
 ---
 title: "CUX1 represses targets in several developmental contexts through binding site competition24."
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

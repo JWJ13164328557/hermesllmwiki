@@ -1,6 +1,6 @@
 ---
 title: "By measuring the rot symptoms and DSI of these plants, we found that the silencing of ZmPAL6, ZmCOMT"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14097"
 species: [Oryza sativa, Zea mays, Triticum aestivum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [ZmCOMT, ZmPAL6, ZmCCoAOMT2]
+genes: [ZmPAL6, ZmCOMT, ZmCCoAOMT2]
 compounds: []
 ---
 

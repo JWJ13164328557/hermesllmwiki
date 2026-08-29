@@ -1,6 +1,6 @@
 ---
 title: "Importantly, HY5 and PIFs competitively bind to the same G-box ele­ ments in the promoter of PSY, re"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

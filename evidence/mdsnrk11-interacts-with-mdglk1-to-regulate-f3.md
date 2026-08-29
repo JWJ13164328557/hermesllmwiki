@@ -1,6 +1,6 @@
 ---
 title: "In general, MdSnRK1.1-mediated phos- phorylation was critical for MdGLK1 binding to the target gene "
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"

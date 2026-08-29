@@ -1,6 +1,6 @@
 ---
 title: "Meanwhile, we found some candidate differentially expressed TFs in RNAi-CmNAC25 trans- genic line co"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"

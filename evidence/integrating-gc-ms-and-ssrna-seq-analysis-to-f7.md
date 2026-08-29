@@ -1,6 +1,6 @@
 ---
 title: "Based on their location relationships, 20,335 cis-target genes of 8662 lncRNAs were predicted and fo"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

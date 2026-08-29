@@ -1,6 +1,6 @@
 ---
 title: "Notably, the majority of these genes appear within the Bryophyte phylostratum PS4, which marks the ﬁ"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b4-tQ-g_5fH-4YwC8OyEwkrYg]]"

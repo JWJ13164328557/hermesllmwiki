@@ -1,6 +1,6 @@
 ---
 title: "These ﬁndings underscore the critical role of efﬁcient sugar transport as a foundational process for"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

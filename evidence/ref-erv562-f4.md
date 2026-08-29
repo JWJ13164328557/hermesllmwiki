@@ -1,6 +1,6 @@
 ---
 title: "In addition, we found that in the mutants, salt and drought stresses led to much higher levels of hi"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

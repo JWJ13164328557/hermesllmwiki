@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, these results show that the SHR pathway regulates the expression of a large number of"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

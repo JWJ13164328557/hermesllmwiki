@@ -1,6 +1,6 @@
 ---
 title: "Our results reveal a regu­ latory pattern of ethylene-inhibited anthocyanin biosynthesis in pear, wh"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"
@@ -9,7 +9,7 @@ species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [ethylene, anthocyanin]
+compounds: [anthocyanin, ethylene]
 ---
 
 # Our results reveal a regu­ latory pattern of ethylene-inhibited anthocyanin biosynthesis in pear, wh

@@ -1,6 +1,6 @@
 ---
 title: "As module M1 not only showed signiﬁcant correlation with 100-seed weight but also contained the high"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

@@ -1,6 +1,6 @@
 ---
 title: "Indeed, they are mainly involved in regulating the function, rather than the development of leaf vei"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

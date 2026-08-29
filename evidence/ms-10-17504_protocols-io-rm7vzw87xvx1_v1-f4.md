@@ -1,6 +1,6 @@
 ---
 title: "Validation: genotyping and ICE CRISPR analysis 27 To validate the bulk knock-in cells, genomic DNA i"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [papers]
 source: "[[ms-10-17504_protocols-io-rm7vzw87xvx1_v1]]"

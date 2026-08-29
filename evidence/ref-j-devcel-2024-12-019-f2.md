@@ -1,6 +1,6 @@
 ---
 title: "Overall, we show that GSH acts as a signal in regeneration where, upon wounding, GSH enters the nucl"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-devcel-2024-12-019]]"

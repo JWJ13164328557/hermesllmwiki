@@ -1,6 +1,6 @@
 ---
 title: "After SA treatment, the conformation of SmNPR4 protein bind to SA is changed, which releases its rep"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"

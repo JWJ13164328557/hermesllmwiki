@@ -1,6 +1,6 @@
 ---
 title: "CsMYB73 targets and differentially regulates the promoters of CsGGT2 and CsGGT4 In general, MYBRs pr"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae012"
 species: [Nicotiana tabacum, Citrus spp., Camellia sinensis]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CsMYB73, CsGGT2, CsGGT4]
+genes: [CsGGT4, CsMYB73, CsGGT2]
 compounds: []
 ---
 

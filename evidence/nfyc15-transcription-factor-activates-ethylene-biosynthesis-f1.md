@@ -1,6 +1,6 @@
 ---
 title: "Meanwhile, NF-Ys as ﬂowering activa- tors bind to SUPPRESSOR OF OVEREXPRESSION OF CO1 (SOC1) via int"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"

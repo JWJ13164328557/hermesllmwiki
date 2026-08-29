@@ -1,6 +1,6 @@
 ---
 title: "(2015) reported that CmbHLH2 binds to the promoter of CmDFR and increases the content of anthocyanin"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.scienta.2021.110738"
 species: [Oryza sativa, Zea mays, Glycine max]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CmbHLH2, CmDFR]
+genes: [CmDFR, CmbHLH2]
 compounds: [anthocyanin]
 ---
 

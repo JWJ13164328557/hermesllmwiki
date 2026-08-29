@@ -2,8 +2,8 @@
 
 title: "激素与信号转导 — Synthesis"
 created: 2026-06-01
-total_evidence: 47
-total_papers: 33
+total_evidence: 48
+total_papers: 34
 type: synthesis
 tags: [hormone, signaling, synthesis]
 
@@ -294,8 +294,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: #hormone-signaling, hormone-signaling | 全部标签: #hormone-signaling, hormone-signaling
 
 **统计**:
-- 涵盖论文: ~33 篇
-- 证据条目: 47 条
+- 涵盖论文: ~34 篇
+- 证据条目: 48 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: #hormone-signaling, hormone-signaling

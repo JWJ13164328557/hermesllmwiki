@@ -1,6 +1,6 @@
 ---
 title: "necator, we found that AtNPF3.1 is up-regulated in the leaves of infected Arabidopsis similarly to V"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pct167]]"

@@ -1,6 +1,6 @@
 ---
 title: "In total, 56 candidate proteins were predicted to interact with these DcbHLHs, and most in- teractin"
-created: 2026-08-28
+created: 2026-08-29
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"
