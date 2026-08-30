@@ -1,6 +1,6 @@
 ---
 title: "In addition, we analyzed the very top and bottom of our list of the DEGs, and we found that the bott"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[morus-alba-l-leaves-integration-of]]"

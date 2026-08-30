@@ -1,6 +1,6 @@
 ---
 title: "The orientation of the target fragment ligated into the pSPT18 or pSPT19 vector determines the orien"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b3-qnkDB6_AeT3N0ZaAwqrgng]]"

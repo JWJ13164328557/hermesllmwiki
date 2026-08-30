@@ -1,6 +1,6 @@
 ---
 title: "We found that 39% of WT petioles transported the dye into grafted leaves."
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nph-17594]]"

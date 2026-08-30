@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that GbHY5 promoted most flavonoid synthesis-related genes but inhibited the"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"

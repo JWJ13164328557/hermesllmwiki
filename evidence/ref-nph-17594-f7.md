@@ -1,6 +1,6 @@
 ---
 title: "This study provides deeper mechanistic insights into how plants control multiple physiological respo"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nph-17594]]"

@@ -1,6 +1,6 @@
 ---
 title: "Our genetic interaction analyses strongly suggested that gravity-sensing cells are required for the "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-plants9050615]]"

@@ -1,6 +1,6 @@
 ---
 title: "However, in all cases, validation is required to ensure the predicted tra- jectories match detectabl"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[10-1146-annurev-arplant-081720]]"

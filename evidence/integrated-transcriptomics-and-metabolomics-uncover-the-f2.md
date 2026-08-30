@@ -1,6 +1,6 @@
 ---
 title: "The reference gene ACTIN was used to normalize therelative expression level of the target genes acco"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

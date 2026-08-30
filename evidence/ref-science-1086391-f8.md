@@ -1,6 +1,6 @@
 ---
 title: "Thus far, the only described direct target of this family of transcription factors is ERF1 (ETHYLENE"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

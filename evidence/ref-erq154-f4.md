@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these studies show that epigenetic modiﬁcations of chromatin are important in plant "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erq154]]"

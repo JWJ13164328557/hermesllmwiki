@@ -1,6 +1,6 @@
 ---
 title: "In summary, epidermal cells primarily function in energy metabolism and defence responses, where enr"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b3-dUSuUm6U9HU_uM2NcC4AWg]]"

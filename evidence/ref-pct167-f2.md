@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, we anticipate that the Arabidopsis pen2-1 pad4-1 sag101-2 triple mutant will be a use"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pct167]]"

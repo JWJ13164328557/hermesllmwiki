@@ -1,6 +1,6 @@
 ---
 title: "Target identiﬁcation analyses revealed that some of the microRNAs, including miR4995, miR5021 and mi"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

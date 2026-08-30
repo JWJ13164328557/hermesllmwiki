@@ -1,6 +1,6 @@
 ---
 title: "We found aforementioned PtoTFIIIB60.SL and PtoMYB5 also differ­ ently expressed, and the expression "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"

@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these markedly increased ﬂavonoid metabolites were tightly associ- ated with the up-"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analysis-reveals]]"

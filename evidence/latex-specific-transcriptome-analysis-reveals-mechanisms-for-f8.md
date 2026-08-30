@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results indicate that the ubiquitination is involved in latex-specific metabol"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[latex-specific-transcriptome-analysis-reveals-mechanisms-for]]"

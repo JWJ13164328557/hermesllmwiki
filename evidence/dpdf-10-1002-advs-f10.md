@@ -1,6 +1,6 @@
 ---
 title: "Based on published resequencing data for wild and cultivated soybeans, including landraces and culti"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

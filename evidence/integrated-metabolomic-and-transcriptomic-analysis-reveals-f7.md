@@ -1,6 +1,6 @@
 ---
 title: "In summary, EsMYB90 could strikingly increase the level of ﬂavonoid metabolites via modulating the ﬂ"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analysis-reveals]]"

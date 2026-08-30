@@ -1,6 +1,6 @@
 ---
 title: "Deciphering the different functions of cell types in a tissue is essential to understand plant devel"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-tplants-2019-10-008]]"

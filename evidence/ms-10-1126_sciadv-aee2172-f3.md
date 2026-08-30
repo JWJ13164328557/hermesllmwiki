@@ -1,6 +1,6 @@
 ---
 title: "Mechanistically, drought-­induced Ca2+ signaling activates PtoCPK3 to phosphorylate PtoERF72 at Ser9"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"
@@ -8,7 +8,7 @@ doi: "10.1126/sciadv.aee2172"
 species: [Populus spp., Citrus spp., Quercus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PtoWOX13b, PtoERF72, PtoCPK3, PtoUGT72AZ2]
+genes: [PtoUGT72AZ2, PtoERF72, PtoCPK3, PtoWOX13b]
 compounds: []
 ---
 

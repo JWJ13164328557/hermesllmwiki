@@ -1,6 +1,6 @@
 ---
 title: "Therefore, our results suggest that wound‐induced RBOHD‐dependent ROS production may impact adventit"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

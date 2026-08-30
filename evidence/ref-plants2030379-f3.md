@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, it is recently reported that the two class C genes interacts with OsMADS16 (a class B g"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"

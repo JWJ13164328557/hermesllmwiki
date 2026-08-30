@@ -1,6 +1,6 @@
 ---
 title: "Cultivar Gene Proven/potential target genes Reference ‘Qing Hai Hu Yin Bo’ PsMYB12 PsCHS [32] ‘Shima"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PsCHS, PsFLS, PsMYB57, PsMYB111, PsMYB30]
+genes: [PsDFR, PsMYB114L, PsF3, PsMYB57, PsANS]
 compounds: [anthocyanin]
 ---
 

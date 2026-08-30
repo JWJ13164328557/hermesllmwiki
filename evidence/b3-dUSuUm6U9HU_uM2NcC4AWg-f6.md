@@ -1,6 +1,6 @@
 ---
 title: "The optimal conditions were determined through iterative testing, where the best combina­ tion of pa"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b3-dUSuUm6U9HU_uM2NcC4AWg]]"

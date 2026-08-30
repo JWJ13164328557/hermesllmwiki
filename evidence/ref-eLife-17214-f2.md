@@ -1,6 +1,6 @@
 ---
 title: "We found that the enrichment of HDA9 at WRKY57, APG9, NPX1, and four other randomly selected loci wa"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

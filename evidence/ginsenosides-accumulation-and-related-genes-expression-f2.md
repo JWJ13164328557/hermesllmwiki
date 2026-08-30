@@ -1,6 +1,6 @@
 ---
 title: "Functional annotation and KEGG pathway analysis We found that BLASTX-based homology search for P."
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ginsenosides-accumulation-and-related-genes-expression]]"

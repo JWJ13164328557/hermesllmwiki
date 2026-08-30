@@ -1,6 +1,6 @@
 ---
 title: "ROS-activated NF-kB plays a key role in the release of inﬂammatory cytokines that induce expression "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

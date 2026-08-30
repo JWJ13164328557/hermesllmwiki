@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that the global enrichment of H3K9ac increased in leaves of the why1 mutant "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

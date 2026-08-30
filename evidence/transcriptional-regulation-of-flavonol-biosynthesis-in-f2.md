@@ -1,6 +1,6 @@
 ---
 title: "Direct transcriptional regulation involves TFs, such as MYB, AP2/ERF, and WRKY, which can directly t"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"

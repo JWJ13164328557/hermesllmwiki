@@ -1,6 +1,6 @@
 ---
 title: "We found that SGR6 was not solubilized in high salt, urea or alkaline buffer at room temperature (Su"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"

@@ -1,6 +1,6 @@
 ---
 title: "Similarly, among the 55 co-expressed ChIP-seq targets identiﬁed for ZmM16, we found additional membe"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-devcel-2020-12-015]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.devcel.2020.12.015"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [ZmM16, ZmAGAMOUS, ChIP, ZmSEP3, ZmAGL8]
+genes: [ZmAGAMOUS, ZmAGL8, ZmM16, ZmSEP3, ZmMADS7]
 compounds: []
 ---
 

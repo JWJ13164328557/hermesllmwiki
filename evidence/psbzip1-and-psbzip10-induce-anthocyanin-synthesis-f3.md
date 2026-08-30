@@ -1,6 +1,6 @@
 ---
 title: "In tomato, SlHY5 can bind to promoters of SlCHS1, SlCHS2, and SlDFR at sites containing G-box and AC"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

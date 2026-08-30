@@ -1,6 +1,6 @@
 ---
 title: "(D) Enriched GO terms for the target genes of AT3G22830."
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

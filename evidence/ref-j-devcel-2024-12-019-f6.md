@@ -1,6 +1,6 @@
 ---
 title: "We found that treatment with BSO significantly decreased the number of cells with de novo amyloplast"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-devcel-2024-12-019]]"

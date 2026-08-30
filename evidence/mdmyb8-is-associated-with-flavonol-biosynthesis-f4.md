@@ -1,6 +1,6 @@
 ---
 title: "3, 4, and 5) and that it binds to the MdFLS promoter to regulate ﬂavonol biosynthesis (Figs."
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"

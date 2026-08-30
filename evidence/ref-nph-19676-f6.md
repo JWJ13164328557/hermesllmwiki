@@ -1,6 +1,6 @@
 ---
 title: "Given the projected increases in aridity (Feng & Fu, 2013; Spinoni et al., 2021) and changes in use,"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-19676]]"

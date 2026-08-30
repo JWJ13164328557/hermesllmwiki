@@ -1,6 +1,6 @@
 ---
 title: "Banana MaDof23 can interact with MaERF9 in regulating fruit ripening [38], however, the roles of Dof"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

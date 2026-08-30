@@ -1,6 +1,6 @@
 ---
 title: "Throughout this investigation, we found that CI resulted in increases in both the thickness of the s"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

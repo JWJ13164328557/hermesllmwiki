@@ -1,6 +1,6 @@
 ---
 title: "We conclude that the ERF115–PAT1 complex accounts for the high regenerative potential of plants, gra"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

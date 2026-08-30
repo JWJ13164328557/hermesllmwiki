@@ -1,6 +1,6 @@
 ---
 title: "More importantly, the Urea-related transporter gene CsUPS1 displayed the highest expression levels i"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[dissection-of-the-spatial-dynamics-of]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae060"
 species: [Oryza sativa, Nicotiana tabacum, Camellia sinensis]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CsDUR3a, CsUPS1]
+genes: [CsUPS1, CsDUR3a]
 compounds: []
 ---
 

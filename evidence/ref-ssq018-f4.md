@@ -1,6 +1,6 @@
 ---
 title: "HAT Activity of AtGCN5 Histone H3K9, K14, K18, and K27 and histone H4K5, K8, K12, and K16 are the ma"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

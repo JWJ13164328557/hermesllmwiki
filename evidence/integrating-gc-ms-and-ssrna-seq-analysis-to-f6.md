@@ -1,6 +1,6 @@
 ---
 title: "GOseq R packages (v1.10.0) (Young et al., 2010) and KOBAS (v2.0.12) (Mao et al., 2005) were used to "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

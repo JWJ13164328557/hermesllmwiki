@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our results indicate different FOXA1 and GATA3 usage at picomolar-­ and nanomolar-­ re"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aec2424]]"

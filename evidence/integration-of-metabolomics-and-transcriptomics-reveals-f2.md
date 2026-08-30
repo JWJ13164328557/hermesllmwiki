@@ -1,6 +1,6 @@
 ---
 title: "Notably, virus-induced silencing of Sl4CLL6 not only decreased the expression of genes downstream of"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad277"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SlHCT, SlCHI, SlCAD]
+genes: [SlCAD, SlHCT, SlCHI]
 compounds: [phenylpropanoid]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "HDA19 interacts with SCARECROW (SCR) to regulate the root cortical cell fate (Chen et al."
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

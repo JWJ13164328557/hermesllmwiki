@@ -1,6 +1,6 @@
 ---
 title: "A recent study revealed that PpMYB140 inhibits the expression of anthocyanin biosynthetic structural"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"
@@ -8,7 +8,7 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [PpMYB114, PpbHLH3, PpMYB140]
+genes: [PpMYB114, PpMYB140, PpbHLH3]
 compounds: [anthocyanin]
 ---
 

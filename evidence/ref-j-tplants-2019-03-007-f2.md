@@ -1,6 +1,6 @@
 ---
 title: "Concluding Remarks and Outstanding Questions In summary, the plant-speciﬁc, intrinsic polarity prote"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-tplants-2019-03-007]]"

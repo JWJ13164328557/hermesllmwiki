@@ -1,6 +1,6 @@
 ---
 title: "Auxin can induce PLT expression, and PLT directly controls PIN-mediated auxin transport and auxin bi"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

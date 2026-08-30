@@ -1,6 +1,6 @@
 ---
 title: "Phytochrome may also regulate COP1 function because the COOH terminus of phytochrome B (PhyB) intera"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

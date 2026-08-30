@@ -1,6 +1,6 @@
 ---
 title: "We found that mean UMI counts from sequencing was highly correlated (r ¼ 0.96) with molecule counts "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-ncomms14049]]"

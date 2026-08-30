@@ -1,6 +1,6 @@
 ---
 title: "More interestingly, both MYB44 and ENAP1 preferred binding to their shared target genes over binding"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

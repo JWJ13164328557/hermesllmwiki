@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, a similar dual role for the maize homolog CRINKLY4 was proposed in the L1 layer based"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1160158]]"

@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, we generated evidence that MdMYB8 regulates ﬂavonol biosynthesis and that auxin, ethy"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: [MdMYB8]
-compounds: [ethylene, auxin]
+compounds: [auxin, ethylene]
 ---
 
 # In conclusion, we generated evidence that MdMYB8 regulates ﬂavonol biosynthesis and that auxin, ethy

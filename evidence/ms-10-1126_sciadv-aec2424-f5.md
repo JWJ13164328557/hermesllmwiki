@@ -1,6 +1,6 @@
 ---
 title: "It dimerizes after binding its ligands, including the pre- dominant naturally occurring estrogen E2,"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aec2424]]"

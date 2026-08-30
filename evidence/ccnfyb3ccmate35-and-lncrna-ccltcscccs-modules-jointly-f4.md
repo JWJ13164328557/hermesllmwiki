@@ -1,6 +1,6 @@
 ---
 title: "In addition, in our experiments, we found the double RNAi line exhibited a further increase in callo"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

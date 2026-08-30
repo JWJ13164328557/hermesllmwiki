@@ -1,6 +1,6 @@
 ---
 title: "Our results reveal a regu­ latory pattern of ethylene-inhibited anthocyanin biosynthesis in pear, wh"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"

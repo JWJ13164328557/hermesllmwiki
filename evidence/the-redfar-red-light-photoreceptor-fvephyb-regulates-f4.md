@@ -1,6 +1,6 @@
 ---
 title: "The light treatment assay revealed that FvePhyB is a bona fide red/far-red light photoreceptor, as i"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

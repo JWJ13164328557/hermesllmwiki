@@ -1,6 +1,6 @@
 ---
 title: "Abscisic acid is necessary for the timely closure of stomata in response to drought stress, as well "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-tpj-12129]]"

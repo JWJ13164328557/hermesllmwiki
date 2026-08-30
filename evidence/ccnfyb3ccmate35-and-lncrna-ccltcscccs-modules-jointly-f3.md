@@ -1,6 +1,6 @@
 ---
 title: "With double-gene transgenic plants, we found that CcNFYB3-RNAi/CcMATE35-OE lines had less citrate re"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14179"
 species: [Arabidopsis thaliana, Zea mays, Glycine max]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CcNFYB3, CcMATE35]
+genes: [CcMATE35, CcNFYB3]
 compounds: []
 ---
 

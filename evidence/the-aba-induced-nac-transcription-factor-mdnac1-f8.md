@@ -1,6 +1,6 @@
 ---
 title: "Results MdNAC1 binds to the MdMYB10 promoter Earlier research confirmed that MdMYB10 is a major regu"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"

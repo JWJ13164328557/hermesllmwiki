@@ -1,6 +1,6 @@
 ---
 title: "miR394 targets the mRNA that encodes the F‑box protein LEAF CURLING RESPONSIVENESS (LCR), which is a"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nrm3790]]"

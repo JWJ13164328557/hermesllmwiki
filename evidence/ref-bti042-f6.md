@@ -1,6 +1,6 @@
 ---
 title: "Notably, the same ﬁve tissues with the most single-tissue speciﬁc proﬁles (brain, bone marrow, pancr"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-bti042]]"

@@ -1,6 +1,6 @@
 ---
 title: "We show that for datasets drawn from a population of cells in equilibrium and when esti- mates of ce"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pcbi-1009466]]"

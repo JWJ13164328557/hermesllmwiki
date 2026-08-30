@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the most prominent phenotypes of P8 are increased tissue elongation and reduced pigm"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, PCGs were signiﬁcantly enriched in 10–50 kb surrounding regions of TWAS-signiﬁcant lncRNAs "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

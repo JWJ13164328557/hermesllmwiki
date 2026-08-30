@@ -1,6 +1,6 @@
 ---
 title: "KEGG enrichment of these DE- miRNA-target genes suggested that they were enriched in mono­ terpenoid"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"

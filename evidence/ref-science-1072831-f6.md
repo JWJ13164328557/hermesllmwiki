@@ -1,6 +1,6 @@
 ---
 title: "In a recent report (16), a COP1-interacting protein called CIP8, itself a RING-finger protein, was s"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

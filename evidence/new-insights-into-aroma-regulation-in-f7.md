@@ -1,6 +1,6 @@
 ---
 title: "Based on their positions on chromosomes, we predicted the potential cis- and trans-target mRNAs of D"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

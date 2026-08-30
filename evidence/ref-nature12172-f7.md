@@ -1,6 +1,6 @@
 ---
 title: "As both Stat2 and Irf7 are targets of the interferon-signalling pathway, we stimulated and profiled "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nature12172]]"

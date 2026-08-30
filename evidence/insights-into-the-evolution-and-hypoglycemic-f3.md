@@ -1,6 +1,6 @@
 ---
 title: "We found that the upregula­ tion of these genes in the 10M-ML or 10M-OL group led to an increase in "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"
@@ -9,7 +9,7 @@ species: [Zea mays, Quercus spp., Juglans regia]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [glucose, sucrose, fructose]
+compounds: [glucose, fructose, sucrose]
 ---
 
 # We found that the upregula­ tion of these genes in the 10M-ML or 10M-OL group led to an increase in 

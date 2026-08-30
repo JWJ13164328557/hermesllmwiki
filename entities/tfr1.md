@@ -1,6 +1,6 @@
 ---
 title: "TfR1"
-created: 2026-08-29
+created: 2026-08-30
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

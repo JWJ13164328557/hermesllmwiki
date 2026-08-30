@@ -1,6 +1,6 @@
 ---
 title: "The accumulation of anthocyanins has been reported to be positively correlated with the expression o"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[temporospatial-flavonoids-metabolism-variation-in-ginkgo]]"

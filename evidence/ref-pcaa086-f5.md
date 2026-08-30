@@ -1,6 +1,6 @@
 ---
 title: "HDA19 can physically interact with some transcriptional repressors to further repress the downstream"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

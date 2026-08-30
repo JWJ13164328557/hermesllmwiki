@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that DcbHLH2 and DcbHLH46 may be involved in JA-regulated regu"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"

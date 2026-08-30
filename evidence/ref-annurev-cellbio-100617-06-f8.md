@@ -1,6 +1,6 @@
 ---
 title: "Unlike CLV3, which is expressed in shoot stem cells, CLE40 is expressed in differentiated columella "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

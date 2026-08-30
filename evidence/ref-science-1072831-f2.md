@@ -1,6 +1,6 @@
 ---
 title: "However, the known targets of the pathway in plants, and the developmental processes they regulate, "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that the hypermethy- lation of structural gene promoters in the white area could be a poten"
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"

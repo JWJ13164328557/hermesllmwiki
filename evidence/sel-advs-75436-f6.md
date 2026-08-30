@@ -1,6 +1,6 @@
 ---
 title: "Together, these results suggest that the gsnor1 mutation is epistatic to camta1/2/3 and that GSNOR1 "
-created: 2026-08-29
+created: 2026-08-30
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[sel-advs-75436]]"
