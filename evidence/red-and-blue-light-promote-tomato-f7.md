@@ -1,6 +1,6 @@
 ---
 title: "Light plays a critical role in fruit color development by regulating biochemical pathways that pro­ "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

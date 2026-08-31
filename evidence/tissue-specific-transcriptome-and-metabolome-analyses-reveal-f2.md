@@ -1,6 +1,6 @@
 ---
 title: "Up to an optical density at 600 nm (OD600) of 0.5~0.7, target proteins were induced with 0.5 mM IPTG"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

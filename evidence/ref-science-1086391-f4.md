@@ -1,6 +1,6 @@
 ---
 title: "Of particular interest, in addition to ERF1, we found that the expression levels of 14 of 141 AP2 do"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

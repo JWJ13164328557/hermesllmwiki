@@ -1,6 +1,6 @@
 ---
 title: "(2012) NRT/PTR transporters are essential for translocation of glucosinolate defence compounds to se"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pct167]]"

@@ -1,6 +1,6 @@
 ---
 title: "In contrast, in direct confirmation of the CLV–WUS feedback prediction, one study found CLV3 as a di"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

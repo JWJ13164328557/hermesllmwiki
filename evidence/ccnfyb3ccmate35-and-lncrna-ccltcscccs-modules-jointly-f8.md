@@ -1,6 +1,6 @@
 ---
 title: "In addition to the increased efﬂux of citrate, which enhances Al tolerance in plants, the synthesis "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

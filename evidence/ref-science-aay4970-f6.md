@@ -1,6 +1,6 @@
 ---
 title: "This complex is required and sufficient to control cell proliferation by inducing expression of the "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aay4970]]"

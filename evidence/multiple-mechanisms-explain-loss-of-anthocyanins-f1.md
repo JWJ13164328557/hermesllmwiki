@@ -1,6 +1,6 @@
 ---
 title: "First, we found no evidence for the presence of F3050H in 15 out of 17 betalain-pigmented families i"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

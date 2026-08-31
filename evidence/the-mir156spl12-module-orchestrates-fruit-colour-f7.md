@@ -1,6 +1,6 @@
 ---
 title: "Ethylene plays a critical role in fruit colour change, and its biosynthesis involves several enzyme "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"

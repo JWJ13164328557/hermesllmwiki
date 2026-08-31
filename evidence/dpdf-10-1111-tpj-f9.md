@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that DELLA is required for the regulation of the early development of the leaf"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

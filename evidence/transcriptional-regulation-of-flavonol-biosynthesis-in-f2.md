@@ -1,6 +1,6 @@
 ---
 title: "Direct transcriptional regulation involves TFs, such as MYB, AP2/ERF, and WRKY, which can directly t"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [flavonol, flavonoid]
+compounds: [flavonoid, flavonol]
 ---
 
 # Direct transcriptional regulation involves TFs, such as MYB, AP2/ERF, and WRKY, which can directly t

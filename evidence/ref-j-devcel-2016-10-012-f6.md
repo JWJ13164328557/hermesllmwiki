@@ -1,6 +1,6 @@
 ---
 title: "We found a low detection level of new isoforms in the PacBio dataset; however, this is due to dilu- "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

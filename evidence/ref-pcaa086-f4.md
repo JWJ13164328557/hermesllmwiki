@@ -1,6 +1,6 @@
 ---
 title: "We found that OsARF8 and OsARF18 were upregulated in the scutellum of hda710 when the mature seeds w"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"
@@ -8,7 +8,7 @@ doi: "10.1093/pcp/pcaa086"
 species: [Oryza sativa, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [OsARF8, OsARF18]
+genes: [OsARF18, OsARF8]
 compounds: []
 ---
 

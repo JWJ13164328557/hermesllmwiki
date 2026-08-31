@@ -1,6 +1,6 @@
 ---
 title: "Here we found that supplementary FR was conducive to the accumulation of all individual EAAs (7 type"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[far-red-light-suppresses-glucosinolate-profiles-of]]"

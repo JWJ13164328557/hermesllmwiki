@@ -1,6 +1,6 @@
 ---
 title: "In summary, the method we established is suitable for the quantification of andrographolide-­type di"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b3-dUSuUm6U9HU_uM2NcC4AWg]]"

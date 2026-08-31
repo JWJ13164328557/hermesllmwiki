@@ -1,6 +1,6 @@
 ---
 title: "The co- expression network analysis between OsERF48 and root-specific overexpression of ERF48 root R"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

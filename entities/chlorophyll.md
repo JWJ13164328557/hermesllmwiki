@@ -1,6 +1,6 @@
 ---
 title: "chlorophyll"
-created: 2026-08-30
+created: 2026-08-31
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # chlorophyll
 
 ## Evidence Summary
-**Total evidence objects**: 14
+**Total evidence objects**: 15
 
 ## Evidence Table
 | Evidence | Finding |
@@ -22,8 +22,8 @@ tags: [metabolism, compound]
 | [[ms-10-1186_s12870-026-09548-w-f5]] | Notably, chlo­ rophyll b exhibited the strongest synergistic response under the  |
 | [[ms-10-1186_s13765-026-01101-5-f7]] | These findings suggest that the reduction in chlorophyll and tissue softening as |
 | [[ms-10-1186_s43897-026-00236-9-f5]] | Specifically, AtNAP, a well-characterized NAC transcription factor, can directly |
+| [[ms-10-21474_ijar01_23982-f4]] | These changes can be linked with the role of Zn, as it is required for chlorophy |
 | [[ms-10-3389_fmicb-2026-1860545-f1]] | In summary, the increase in chlorophyll under uranium stress is a combined outco |
-| [[ms-10-3389_fpls-2026-1845397-f1]] | Iron sulphate plays a critical role in enzymatic processes and redox reactions f |
 
 ## Biosynthetic Pathway
 -

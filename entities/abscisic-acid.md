@@ -1,6 +1,6 @@
 ---
 title: "abscisic acid"
-created: 2026-08-30
+created: 2026-08-31
 type: entity
 entity_type: compound
 tags: [metabolism, compound]

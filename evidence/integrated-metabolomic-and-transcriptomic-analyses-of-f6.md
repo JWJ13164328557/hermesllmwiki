@@ -1,6 +1,6 @@
 ---
 title: "The results could provide new insight into the main metabolite compounds that affect passion fruit q"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analyses-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "Here we show that a novel secretory peptide, which we designate as stomagen, is a positive intercell"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

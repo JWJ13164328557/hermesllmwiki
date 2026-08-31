@@ -1,6 +1,6 @@
 ---
 title: "This implied that LaMYC7 could directly bind to the LaTPS76 promoter but was unable to bind to the L"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[lamyc7-a-positive-regulator-of-linalool]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae044"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [LaTPS76, LaTPS26, LaMYC7]
+genes: [LaTPS26, LaTPS76, LaMYC7]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that the synthesis and efﬂux of citric acid played an important role in pige"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

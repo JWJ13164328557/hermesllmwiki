@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our data suggest that Arabidopsis can sense ﬂavonoids as a signal for multiple funda"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-tpj-12129]]"

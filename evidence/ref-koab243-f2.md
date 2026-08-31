@@ -1,6 +1,6 @@
 ---
 title: "Rice SEP proteins of the LOFSEP subclade (OsMADS1, OsMADS5, and OsMADS34) are critical for spikelet "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

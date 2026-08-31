@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that PWR is important for HDA9 nuclear accumulation."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

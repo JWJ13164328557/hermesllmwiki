@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that the circadian clock functions like a developmental ‘metronome’ during LR de"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

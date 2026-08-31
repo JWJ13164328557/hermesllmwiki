@@ -1,6 +1,6 @@
 ---
 title: "Although the key enzymes in GSL biosynthesis pathway have been unscrambled with relative clarity, th"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[far-red-light-suppresses-glucosinolate-profiles-of]]"

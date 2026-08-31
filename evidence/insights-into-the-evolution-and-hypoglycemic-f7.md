@@ -1,6 +1,6 @@
 ---
 title: "For the 2,573 DE-miRNA-target genes, we conducted GO enrichment because the BP (biological process) "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"

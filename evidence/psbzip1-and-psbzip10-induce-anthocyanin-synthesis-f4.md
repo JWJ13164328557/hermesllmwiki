@@ -1,6 +1,6 @@
 ---
 title: "The bZIP transcription factors can bind to the G-box and ABRE motifs."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

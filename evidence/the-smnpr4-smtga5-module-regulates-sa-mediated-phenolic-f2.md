@@ -1,6 +1,6 @@
 ---
 title: "The C-terminal sequence of NPR4 has a conserved motif (VDLNETP) that is highly similar to the EAR mo"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"

@@ -1,6 +1,6 @@
 ---
 title: "Loss of PRDM16 is sufficient to induce senescence-­associated phenotypes and aging-­like transcripti"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aeg2614]]"

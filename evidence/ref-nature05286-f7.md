@@ -1,6 +1,6 @@
 ---
 title: "The key tenets of this hypothesis are that: (1) an effector acting as a virulence factor has a targe"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

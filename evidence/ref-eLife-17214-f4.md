@@ -1,6 +1,6 @@
 ---
 title: "Together, these results suggest that PWR binds to the same genomic regions as HDA9 at HDA9 targets."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

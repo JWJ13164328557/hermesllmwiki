@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the MD as the optimal density could not only enhance leaf yield, but also"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

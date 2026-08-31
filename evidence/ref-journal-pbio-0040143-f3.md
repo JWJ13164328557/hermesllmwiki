@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggests that the SHR:GR fusion protein fully complements the shr-2 mu"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

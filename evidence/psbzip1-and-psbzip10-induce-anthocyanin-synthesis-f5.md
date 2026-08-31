@@ -1,6 +1,6 @@
 ---
 title: "PsbZIP1 and PsbZIP10 bind to the G-box sequence in the PsUFGT promoter In order to confirm the bindi"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

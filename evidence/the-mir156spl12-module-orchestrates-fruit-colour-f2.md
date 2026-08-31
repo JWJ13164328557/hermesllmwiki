@@ -1,6 +1,6 @@
 ---
 title: "VcSPL12 negatively regulates ethylene production through directly targeting VcACO6 and VcACS1 To inv"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"

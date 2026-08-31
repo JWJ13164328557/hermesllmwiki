@@ -1,6 +1,6 @@
 ---
 title: "Together, our results reveal that exons with highly variant AS events have sequence and evolutionary"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

@@ -1,6 +1,6 @@
 ---
 title: "At both Pace Forest–VA and Tonzi Ranch– CA, we found that growth activity at the diel scale is most "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-ady7139]]"

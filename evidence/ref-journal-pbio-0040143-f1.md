@@ -1,6 +1,6 @@
 ---
 title: "Of the 389 indirect targets repressed by SHR, we found 37 genes (9.5%) that encode proteins annotate"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

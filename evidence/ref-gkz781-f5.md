@@ -1,6 +1,6 @@
 ---
 title: "Notably, the most popular scRNA-seq protocols speciﬁcally se- quence the 3′ end of transcripts."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkz781]]"

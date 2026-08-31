@@ -1,6 +1,6 @@
 ---
 title: "CmNAC25 also directly activates the promoter of CmDFR, which encodes the key enzyme in anthocyanin b"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s12915-023-01719-7"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CmNAC25, CmDFR]
+genes: [CmDFR, CmNAC25]
 compounds: [anthocyanin]
 ---
 

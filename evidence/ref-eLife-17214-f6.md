@@ -1,6 +1,6 @@
 ---
 title: "DOI: 10.7554/eLife.17214 13 of 23 Research article Genes and Chromosomes Plant Biology Interestingly"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

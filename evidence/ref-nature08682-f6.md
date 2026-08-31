@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, overexpression of the At4g12970 gene resulted in an increase of stomatal density of v"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

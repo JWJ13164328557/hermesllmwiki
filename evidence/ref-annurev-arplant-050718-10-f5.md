@@ -1,6 +1,6 @@
 ---
 title: "PIN3 and PIN7 are key to redirecting the auxin as they relocalize in the columella upon directional "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

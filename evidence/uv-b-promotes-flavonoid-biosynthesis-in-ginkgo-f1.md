@@ -1,6 +1,6 @@
 ---
 title: "We found that the flavonoid content in ginkgo leaves increases significantly at high altitudes (Qing"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"

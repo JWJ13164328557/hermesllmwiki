@@ -1,6 +1,6 @@
 ---
 title: "Two mitochondria Arg/Orn transporter gene CsBAC1/2 homologs consistently displayed the highest expre"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[dissection-of-the-spatial-dynamics-of]]"

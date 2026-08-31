@@ -1,6 +1,6 @@
 ---
 title: "Notably, integration of major-eﬀect proximal and minor-eﬀect distal eQTLs enhances phenotype predict"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

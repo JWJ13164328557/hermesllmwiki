@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these findings suggest that PtoCPK3 regulates lignin metabolite accumulation through p"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

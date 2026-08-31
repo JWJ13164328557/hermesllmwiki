@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the promoter of VvNPF3.2 allowed induced expression of GUS in minor veins in PM-infec"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pct167]]"

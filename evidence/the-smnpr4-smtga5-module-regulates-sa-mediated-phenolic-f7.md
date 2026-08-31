@@ -1,6 +1,6 @@
 ---
 title: "Moreover, a basic leucine zipper family transcription factor SmTGA5 was identified and was found to "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"

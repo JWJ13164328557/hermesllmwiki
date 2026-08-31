@@ -1,6 +1,6 @@
 ---
 title: "Whether this is common is not well known, but at least these data suggest coordination of C allocati"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-13111]]"

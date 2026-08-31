@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, our observation that at least one gene in the phenylpropanoid pathway, PAL1 , shifts "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-koac167]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis thaliana]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [phenylpropanoid, flavonoid]
+compounds: [flavonoid, phenylpropanoid]
 ---
 
 # Interestingly, our observation that at least one gene in the phenylpropanoid pathway, PAL1 , shifts 

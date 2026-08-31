@@ -1,6 +1,6 @@
 ---
 title: "Leaf growth and biosynthesis of characteristic secondary metabolites are critical for tea production"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-pbi-13891]]"

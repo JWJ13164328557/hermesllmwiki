@@ -1,6 +1,6 @@
 ---
 title: "These observations suggest that ACR4 is required to coordinate pericycle cell divisions during later"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1160158]]"

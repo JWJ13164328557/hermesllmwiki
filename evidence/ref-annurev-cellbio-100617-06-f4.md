@@ -1,6 +1,6 @@
 ---
 title: "HAIRYMERISTEM (HAM) functions as a WUS cofactor in regulating a number of WUS target genes (Zhou et "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

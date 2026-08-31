@@ -1,6 +1,6 @@
 ---
 title: "Further- more, we found that leaf RWC in 35S:PeCHYR1 poplar was obviously higher than that in WT pop"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

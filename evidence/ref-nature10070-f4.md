@@ -1,6 +1,6 @@
 ---
 title: "Casparian strips are easily visualized by their intrinsic h 50 40 S P S P S P S P S P pH2 pH11 β-ME "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature10070]]"

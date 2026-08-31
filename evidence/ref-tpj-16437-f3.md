@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these stud- ies demonstrate that ST enables precise analyses of plant tissue architect"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-tpj-16437]]"

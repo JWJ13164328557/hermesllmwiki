@@ -1,6 +1,6 @@
 ---
 title: "Therefore, it can be inferred that the growth of yeast cells was robust when exposed to AbA, suggest"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"

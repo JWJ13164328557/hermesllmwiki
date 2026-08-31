@@ -1,6 +1,6 @@
 ---
 title: "For example, a majority of the lines in these collections represent null or hypomorphic alleles and "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

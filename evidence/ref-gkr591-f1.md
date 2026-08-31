@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, in both organisms, we found that certain functional categories of genes tended to hav"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkr591]]"

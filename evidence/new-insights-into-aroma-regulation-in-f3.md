@@ -1,6 +1,6 @@
 ---
 title: "Circular RNAs (circRNAs) that target alanine-glyoxylate aminotransferase 2 contribute to pepper arom"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

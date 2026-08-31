@@ -1,6 +1,6 @@
 ---
 title: "We observed that while ARF7 and ARF19 are not required for the initial rapid auxin-dependent upregul"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

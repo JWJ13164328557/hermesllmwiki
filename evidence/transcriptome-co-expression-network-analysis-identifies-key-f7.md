@@ -1,6 +1,6 @@
 ---
 title: "Discussion Regulatory roles of ethylene and 1-MCP on esters accumulation Understanding aroma formati"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

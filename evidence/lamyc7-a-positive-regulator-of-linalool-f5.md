@@ -1,6 +1,6 @@
 ---
 title: "LaMYC7 directly binds to the LaTPS76 promoter Because LaMYC7,LaTPS27,and LaTPS76 were related to car"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[lamyc7-a-positive-regulator-of-linalool]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae044"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [LaTPS76, LaTPS27, LaTPS26, LaMYC7]
+genes: [LaTPS26, LaTPS76, LaMYC7, LaTPS27]
 compounds: []
 ---
 

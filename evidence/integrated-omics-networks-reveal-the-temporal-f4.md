@@ -1,6 +1,6 @@
 ---
 title: "In BRZ- treated seedlings, we found that BES1 predominantly exists in its phosphorylated form, while"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[integrated-omics-networks-reveal-the-temporal]]"

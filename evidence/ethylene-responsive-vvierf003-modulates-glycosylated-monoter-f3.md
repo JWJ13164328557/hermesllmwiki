@@ -1,6 +1,6 @@
 ---
 title: "In Arabidopsis thaliana, AtMYC2 binds to the promoters of AtTPS21 and AtTPS11, trig- gering their ex"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"

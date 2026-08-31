@@ -1,6 +1,6 @@
 ---
 title: "These data show that the photosynthetic season spanned late April to October (~7 months) in the East"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-ady7139]]"

@@ -1,6 +1,6 @@
 ---
 title: "A ChlP-PCR analysis confirmed that CsMYB73 binds to the promoters of CsGGT2 and CsGGT4 in tea plants"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae012"
 species: [Nicotiana tabacum, Citrus spp., Camellia sinensis]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CsGGT2, CsMYB73, CsGGT4]
+genes: [CsGGT4, CsGGT2, CsMYB73]
 compounds: []
 ---
 

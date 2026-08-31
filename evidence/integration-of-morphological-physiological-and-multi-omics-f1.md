@@ -1,6 +1,6 @@
 ---
 title: "We found continuous reductions in chloro­ phyll a content, total chlorophyll content, and chlorophyl"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

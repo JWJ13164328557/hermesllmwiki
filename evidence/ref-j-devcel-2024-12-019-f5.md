@@ -1,6 +1,6 @@
 ---
 title: "We found that, in control roots, Blue CMAC signal was higher in G1-phase nuclei than in S phase nucl"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-devcel-2024-12-019]]"

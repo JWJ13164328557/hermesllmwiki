@@ -1,6 +1,6 @@
 ---
 title: "This module links drought signaling to xylem remodeling, providing genetic targets for breeding drou"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

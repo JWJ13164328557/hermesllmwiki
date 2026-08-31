@@ -1,6 +1,6 @@
 ---
 title: "BMC Plant Biology (2021) 21:396 Page 6 of 14 Flavonoid biosynthesis pathway and transcriptional regu"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[metabolome-and-transcriptome-analysis-of-flavor]]"

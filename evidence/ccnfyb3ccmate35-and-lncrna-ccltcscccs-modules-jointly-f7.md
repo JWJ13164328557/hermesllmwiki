@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these ﬁndings suggest that the two modules, CcNFYB3-CcMATE35 and CcLTCS-CcCS, jointl"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14179"
 species: [Arabidopsis thaliana, Zea mays, Glycine max]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CcMATE35, CcLTCS, CcNFYB3, CcCS]
+genes: [CcMATE35, CcNFYB3, CcCS, CcLTCS]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results will help to uncover the molecular basis of tissue-specific accu­ mula"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"

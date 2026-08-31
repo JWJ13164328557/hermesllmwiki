@@ -1,6 +1,6 @@
 ---
 title: "Here, we report an NPR protein, SmNPR4, that showed strong expression in hairy root after SA treatme"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"

@@ -1,6 +1,6 @@
 ---
 title: "413–426 doi: 10.1111/pbi.14195 and other secondary wall NACs (SWNs), such as Secondary wall- associa"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

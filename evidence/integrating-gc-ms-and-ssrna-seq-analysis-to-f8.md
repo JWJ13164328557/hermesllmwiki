@@ -1,6 +1,6 @@
 ---
 title: "A total of 2066 PCgenes were classified as cis-target genes of 242 CT-specific lncRNAs."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

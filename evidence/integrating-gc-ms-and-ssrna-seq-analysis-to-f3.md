@@ -1,6 +1,6 @@
 ---
 title: "We also identified the differentially expressed lncRNAs (DELs) and predicted their target genes."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

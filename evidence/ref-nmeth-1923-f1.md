@@ -1,6 +1,6 @@
 ---
 title: "We found that the Bowtie 2 default mode was faster than all BWA modes we tried and more than 3 times"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nmeth-1923]]"

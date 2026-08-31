@@ -1,6 +1,6 @@
 ---
 title: "In addition, we found that the expression levels of AtCESA1, 2, 3, Figure 5."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

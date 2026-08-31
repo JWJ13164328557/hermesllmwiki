@@ -1,6 +1,6 @@
 ---
 title: "From our results, we found that the most abundant differentially expressed TFs in S."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"

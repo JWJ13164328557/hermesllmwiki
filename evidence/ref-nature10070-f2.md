@@ -1,6 +1,6 @@
 ---
 title: "We found that CASP1 transcription precedes formation of the CSD by 2.66 0.8 cells, visualized as a z"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature10070]]"

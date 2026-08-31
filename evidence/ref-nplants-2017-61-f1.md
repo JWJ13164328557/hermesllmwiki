@@ -1,6 +1,6 @@
 ---
 title: "We show that the auxin-signalling pathway, which is important for pattern formation, growth and deve"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2017-61]]"

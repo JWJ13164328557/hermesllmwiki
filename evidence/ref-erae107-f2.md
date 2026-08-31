@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, whether to isolate single cells or nuclei relies primarily on the biological question"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-erae107]]"

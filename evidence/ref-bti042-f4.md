@@ -1,6 +1,6 @@
 ---
 title: "More generally, we found that for most ancestral tissues, including all but one of the most closely "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-bti042]]"

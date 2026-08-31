@@ -1,6 +1,6 @@
 ---
 title: "To- gether, these data suggest that RBOHD mediates ROS propagation in hypocotyl cuttings."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

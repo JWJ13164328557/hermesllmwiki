@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that SMNN can eliminate the overcor- rection between different cell types and "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

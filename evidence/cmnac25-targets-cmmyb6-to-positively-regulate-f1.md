@@ -1,6 +1,6 @@
 ---
 title: "An MBW complex formed by the CmMYB6-CmbHLH2 protein complex is crucial for activating anthocyanin ac"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s12915-023-01719-7"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CmNAC25, CmbHLH2, CmMYB6, BiFC]
+genes: [BiFC, CmbHLH2, CmNAC25, CmMYB6]
 compounds: [anthocyanin]
 ---
 

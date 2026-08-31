@@ -1,6 +1,6 @@
 ---
 title: "We found that SGR6 is a novel gene that may function in vacuolar dynamics in plant cells."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"

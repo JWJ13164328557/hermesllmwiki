@@ -1,6 +1,6 @@
 ---
 title: "With the advent of increasing types of economically viable sequencing technologies, GWAS has become "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

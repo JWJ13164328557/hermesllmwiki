@@ -1,6 +1,6 @@
 ---
 title: "Therefore, polytetrafluoroethy- lene (PTFE)-imprinted leaves were used for detecting the distribu- t"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[unveiling-the-spatial-distribution-and-molecular]]"

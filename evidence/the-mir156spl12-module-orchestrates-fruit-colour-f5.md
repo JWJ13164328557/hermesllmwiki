@@ -1,6 +1,6 @@
 ---
 title: "Additionally, VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"

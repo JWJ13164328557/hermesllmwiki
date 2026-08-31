@@ -1,6 +1,6 @@
 ---
 title: "These data suggest an intimate relationship between cell death and ERF115 activity."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

@@ -1,6 +1,6 @@
 ---
 title: "ERF109 encodes a plant speciﬁc transcription factor of the ERF family, which contains only one APETA"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"

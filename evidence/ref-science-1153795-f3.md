@@ -1,6 +1,6 @@
 ---
 title: "Our results reveal that the transcriptional state of a cell is largely a reaction to environmental c"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-1153795]]"

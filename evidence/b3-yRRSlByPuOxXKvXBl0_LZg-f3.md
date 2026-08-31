@@ -1,6 +1,6 @@
 ---
 title: "Alter- natively, we found that PLT1 showed high expression in QC_10D samples, suggesting that genes "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[b3-yRRSlByPuOxXKvXBl0_LZg]]"

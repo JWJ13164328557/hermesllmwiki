@@ -1,6 +1,6 @@
 ---
 title: "Some NAC proteins can form homodimers or interact with other NAC proteins to produce heterodimers [2"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"

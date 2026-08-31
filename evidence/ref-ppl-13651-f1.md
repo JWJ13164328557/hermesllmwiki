@@ -1,6 +1,6 @@
 ---
 title: "3.4 | Ethylene interacts with ABA signaling to regulate RSA Evidently, ethylene is produced in respo"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

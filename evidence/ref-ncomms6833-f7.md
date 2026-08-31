@@ -1,6 +1,6 @@
 ---
 title: "To identify downstream targets of ERF109, we searched for GCC-boxes in the promoters of auxin biosyn"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"

@@ -1,6 +1,6 @@
 ---
 title: "(iv) PpERF9 interacts with the co-repressor PpTOPLESS1 via EAR motifs to form a complex that removes"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"

@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that HDA6 is involved in the ABA and abiotic stress response."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erq154]]"

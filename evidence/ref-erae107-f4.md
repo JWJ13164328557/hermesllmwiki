@@ -1,6 +1,6 @@
 ---
 title: "Notably, another scRNA-seq study reported that a significant portion of Toll/interleukin-1 receptor/"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-erae107]]"

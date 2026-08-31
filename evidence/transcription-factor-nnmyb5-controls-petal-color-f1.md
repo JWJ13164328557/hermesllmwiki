@@ -1,6 +1,6 @@
 ---
 title: "Further analyses identified an anthocyanin transport­ er NnGST2 as the downstream target gene of NnM"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"

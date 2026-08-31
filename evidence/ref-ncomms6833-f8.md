@@ -1,6 +1,6 @@
 ---
 title: "The data showed that both the candidate target genes could be downregulated in the shoot and root ti"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"

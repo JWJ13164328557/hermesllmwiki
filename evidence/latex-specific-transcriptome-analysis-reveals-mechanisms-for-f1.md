@@ -1,6 +1,6 @@
 ---
 title: "We found at least one or two genes of each family in the MVA pathway being highly expressed in latex"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[latex-specific-transcriptome-analysis-reveals-mechanisms-for]]"

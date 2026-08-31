@@ -1,6 +1,6 @@
 ---
 title: "Our results show that multiple subpopulations of G1 cells exist and are characterized by distinct tr"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-devcel-2024-12-019]]"

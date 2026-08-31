@@ -1,6 +1,6 @@
 ---
 title: "Additionally, HDA19 interacts with HSL1 to regulate seed germination and embryogenesis (Zhou et al."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

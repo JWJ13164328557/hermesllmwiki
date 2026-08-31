@@ -1,6 +1,6 @@
 ---
 title: "Taken together, we conclude that SGR6 may act on formation and/or maintenance of invaginated VM stru"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"

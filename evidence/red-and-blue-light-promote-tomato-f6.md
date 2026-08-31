@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our data provide new threads on the regulation of fruit coloration by light quality an"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

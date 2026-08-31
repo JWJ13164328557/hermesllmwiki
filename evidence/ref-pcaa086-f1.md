@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that OsARF18 and OsARF22 were regulated through the OsHDA710 recruitment to th"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

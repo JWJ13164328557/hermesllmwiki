@@ -1,6 +1,6 @@
 ---
 title: "The largest transcriptional response was induced at 3 d, indicating that this period was critical fo"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-role-of-light-intensity-in]]"

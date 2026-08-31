@@ -1,6 +1,6 @@
 ---
 title: "3, A and B), we found significant ethylene insensitivity in multiple-mutant plants (Fig."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

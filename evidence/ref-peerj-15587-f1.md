@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the application amount of potassium fertilizer increased, and the root li"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-peerj-15587]]"

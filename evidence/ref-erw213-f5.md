@@ -1,6 +1,6 @@
 ---
 title: "During de novo root organogenesis from Arabidopsis thaliana leaf explants, endogenic auxin is essent"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

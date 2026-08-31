@@ -1,6 +1,6 @@
 ---
 title: "CabZIP1 in pepper could bind to the G-box region of the CaPR-1 promoter (Carre­ tero-Paulet et al., "
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

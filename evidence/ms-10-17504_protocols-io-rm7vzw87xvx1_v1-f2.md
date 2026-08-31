@@ -1,6 +1,6 @@
 ---
 title: "The predicted on-target cut efficiency score was 45 (moderate to low) and the off-target specificity"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers]
 source: "[[ms-10-17504_protocols-io-rm7vzw87xvx1_v1]]"

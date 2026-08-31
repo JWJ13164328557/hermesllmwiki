@@ -1,6 +1,6 @@
 ---
 title: "Although there were no effects of G  C content on T-DNA integration sites observed at the genome sc"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

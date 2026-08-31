@@ -1,6 +1,6 @@
 ---
 title: "Collectively, we established a high-resolution cell atlas of maize root tips, constructed six immune"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"

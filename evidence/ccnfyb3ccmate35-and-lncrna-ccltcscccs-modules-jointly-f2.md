@@ -1,6 +1,6 @@
 ---
 title: "We found 1093 known LncRNAs and 513 novel ª 2023 The Authors."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

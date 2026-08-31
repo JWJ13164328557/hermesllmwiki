@@ -1,6 +1,6 @@
 ---
 title: "Repetitive elements such as Alu are known to be stochas- tically exonized (Stower, 2013), and we fou"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, co-­expression of OpAVT1 with AtAAP6 inhibited yeast growth compared to AtAAP6 alone, indic"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi"
 species: [Populus, Camptotheca acuminata, Oryza sativa]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [OpAVT1, AtAAP6]
+genes: [AtAAP6, OpAVT1]
 compounds: []
 ---
 

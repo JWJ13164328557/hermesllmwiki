@@ -1,6 +1,6 @@
 ---
 title: "In summary, Smart-seq2 detects the common set of 13,361 genes in more cells than the UMI methods, bu"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2017-01-023]]"

@@ -1,6 +1,6 @@
 ---
 title: "Together, these results suggest that WUS recruits local co‑activators and co‑repressors to target pr"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nrm3790]]"

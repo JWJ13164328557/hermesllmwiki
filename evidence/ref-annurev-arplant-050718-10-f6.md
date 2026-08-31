@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, inhibition of auxin signaling via expression of a stabilized AXR3/INDOLE-3-ACETIC ACI"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

@@ -1,6 +1,6 @@
 ---
 title: "For example, the plant VIP2 protein, which is thought to interact with the transcriptional machinery"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

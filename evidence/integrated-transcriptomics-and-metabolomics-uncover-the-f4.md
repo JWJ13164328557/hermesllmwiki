@@ -1,6 +1,6 @@
 ---
 title: "(2020) showed that SmbHLH53 binds to the promoters of SmTAT1, SmPAL1, and Sm4CL9 and activates the p"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.scienta.2021.110738"
 species: [Oryza sativa, Zea mays, Glycine max]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [SmTAT1, SmbHLH53, SmPAL1]
+genes: [SmPAL1, SmTAT1, SmbHLH53]
 compounds: []
 ---
 

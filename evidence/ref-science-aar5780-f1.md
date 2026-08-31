@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that TFs deployed just once over the observed time series were more conserve"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-aar5780]]"

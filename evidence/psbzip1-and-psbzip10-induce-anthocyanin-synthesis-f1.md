@@ -1,6 +1,6 @@
 ---
 title: "Yeast one-hybrid assays and motif mu­ tation demonstrated that PsbZIP1 and PsbZIP10 can directly bin"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

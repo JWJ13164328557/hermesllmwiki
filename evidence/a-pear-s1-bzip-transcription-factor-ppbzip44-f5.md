@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that the S1-bZIP TFs have a broad role in sugar accumulation and regulating c"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"

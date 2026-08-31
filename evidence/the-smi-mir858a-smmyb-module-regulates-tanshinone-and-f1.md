@@ -1,6 +1,6 @@
 ---
 title: "Smi-miR858a targeted SmMYBs to regulate the expression of downstream genes Through computational pre"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae047"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmMYB112, SmMYB6, SmMYB97, SmMYBs, SmMYB111]
+genes: [SmMYB112, SmMYBs, SmMYB97, SmMYB6, SmMYB111]
 compounds: []
 ---
 

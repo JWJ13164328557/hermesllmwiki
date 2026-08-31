@@ -1,6 +1,6 @@
 ---
 title: "However, while the developmental plasticity of plant cells has been demonstrated 1 , it is not known"
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature07597]]"

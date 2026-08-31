@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, ac­ cording to the hypothesised ginsenoside biosynthesis pathway shown in Fig."
-created: 2026-08-30
+created: 2026-08-31
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ginsenosides-accumulation-and-related-genes-expression]]"
