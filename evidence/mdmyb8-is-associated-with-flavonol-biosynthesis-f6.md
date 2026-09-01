@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, we generated evidence that MdMYB8 regulates ﬂavonol biosynthesis and that auxin, ethy"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"

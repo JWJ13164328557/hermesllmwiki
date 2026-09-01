@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, K*cv estimated using ADMIXTURE and K* ∅C estimated using fast- STRUCTURE tend to under"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-genetics-114-164350]]"

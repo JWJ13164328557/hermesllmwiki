@@ -1,6 +1,6 @@
 ---
 title: "Using a root-tip regeneration system in Arabidopsis to track the molecular and functional recovery o"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature07597]]"

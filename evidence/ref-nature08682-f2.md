@@ -1,6 +1,6 @@
 ---
 title: "Our findings show that stomatal development is regulated by two classes of signals which have opposi"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

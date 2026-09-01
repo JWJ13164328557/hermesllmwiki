@@ -1,6 +1,6 @@
 ---
 title: "Result VviERF003 and VviGT14 exhibit co-expression patterns Our prior research indicated that VviERF"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"

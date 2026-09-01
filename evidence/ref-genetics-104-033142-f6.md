@@ -1,6 +1,6 @@
 ---
 title: "2001) that MAPK Hog1 recruits RPD3-SIN3 and targets to the promoter of osmotic responsive genes lead"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-genetics-104-033142]]"

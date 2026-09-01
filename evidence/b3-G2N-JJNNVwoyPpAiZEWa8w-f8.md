@@ -1,6 +1,6 @@
 ---
 title: "The MYB coiled-coil-type transcription factor APL plays a key role for the definition of phloem iden"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-G2N-JJNNVwoyPpAiZEWa8w]]"

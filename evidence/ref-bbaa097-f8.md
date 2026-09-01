@@ -1,6 +1,6 @@
 ---
 title: "More importantly, the wrongly matched cell pairs may wipe out the distinguishing features of cell ty"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

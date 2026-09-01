@@ -1,6 +1,6 @@
 ---
 title: "Early ideas on plant hormone signaling were heavily inﬂuenced by animal models of plasma membrane re"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

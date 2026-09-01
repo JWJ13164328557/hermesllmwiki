@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, MrMYB12 from Chinese bayberry (Morella rubra) was found to bind to the MYBCORE element "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"

@@ -1,6 +1,6 @@
 ---
 title: "Although there is sequence variation in both the miR159 and its binding site within the GAMYB-like g"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[biology-and-function-of-mir159-in]]"

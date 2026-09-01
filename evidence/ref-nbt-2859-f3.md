@@ -1,6 +1,6 @@
 ---
 title: "Of these, only miR-1 and miR-206 target sites were significantly enriched among genes found to be tr"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

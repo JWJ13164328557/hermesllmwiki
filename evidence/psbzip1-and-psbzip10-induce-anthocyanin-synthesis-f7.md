@@ -1,6 +1,6 @@
 ---
 title: "CabZIP1 in pepper could bind to the G-box region of the CaPR-1 promoter (Carre­ tero-Paulet et al., "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CabZIP1, CaPR]
+genes: [CaPR, CabZIP1]
 compounds: []
 ---
 

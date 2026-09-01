@@ -1,6 +1,6 @@
 ---
 title: "These common transcriptional targets of ABA and GA were as likely to be affected in the same as in t"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"

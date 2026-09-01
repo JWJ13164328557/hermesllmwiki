@@ -1,6 +1,6 @@
 ---
 title: "We found intact-LTRs and examined the insertion timings of all intact-LTRs in F."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-first-chromosome-level-fallopia-multiflora-genome]]"

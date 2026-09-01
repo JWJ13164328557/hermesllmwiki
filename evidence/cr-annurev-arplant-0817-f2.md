@@ -1,6 +1,6 @@
 ---
 title: "Upon encapsulation in the droplets, cells are lysed which allows the poly-A-tailed mRNA to bind to t"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[cr-annurev-arplant-0817]]"

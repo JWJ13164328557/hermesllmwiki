@@ -1,6 +1,6 @@
 ---
 title: "When we cloned the coding sequences of these 2 ERF genes, we found that Pbr000396.1 had a 41-bp dele"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"

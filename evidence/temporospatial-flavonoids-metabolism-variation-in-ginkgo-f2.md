@@ -1,6 +1,6 @@
 ---
 title: "We found that part of these GbTFs (Gb_11316, Gb_32143, and Gb_00128) expressions was negatively corr"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[temporospatial-flavonoids-metabolism-variation-in-ginkgo]]"

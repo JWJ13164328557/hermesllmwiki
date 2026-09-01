@@ -1,6 +1,6 @@
 ---
 title: "The ubiquitin ligase (E3) interacts with the target protein and adds ubiquitin molecules derived fro"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[latex-specific-transcriptome-analysis-reveals-mechanisms-for]]"

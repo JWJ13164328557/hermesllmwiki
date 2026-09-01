@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, our data suggest that HDA9 may be a major histone deacetylase that modulates the expr"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

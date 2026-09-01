@@ -1,6 +1,6 @@
 ---
 title: "Notably, BOPa was undetected throughout scutellum ontogeny, in a manner similar to the accumu- latio"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[b4-tQ-g_5fH-4YwC8OyEwkrYg]]"

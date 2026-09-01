@@ -1,6 +1,6 @@
 ---
 title: "However, the complementary results of Seurat’s and our analysis suggest that more sophisticated clus"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-ncomms14049]]"

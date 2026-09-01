@@ -1,6 +1,6 @@
 ---
 title: "The function takes a vector of gene identifiers as an input and returns a data frame that includes a"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-f1000research-24956-2]]"

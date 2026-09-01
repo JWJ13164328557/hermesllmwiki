@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that the glandular heads of type VI trichomes were clearly distinguishable between AC"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"

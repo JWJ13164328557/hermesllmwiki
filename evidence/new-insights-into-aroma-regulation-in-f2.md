@@ -1,6 +1,6 @@
 ---
 title: "We further analyzed and constructed the associated competitive endogenous RNA (ceRNA) and miRNA-TF-t"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

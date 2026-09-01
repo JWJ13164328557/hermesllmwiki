@@ -1,6 +1,6 @@
 ---
 title: "Notably, the magnitude of this effect ranged depending on the APX subcellular localization (Fig."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-role-of-light-intensity-in]]"

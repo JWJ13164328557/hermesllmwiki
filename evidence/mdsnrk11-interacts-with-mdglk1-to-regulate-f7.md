@@ -1,6 +1,6 @@
 ---
 title: "We found that DMSO restored the leaf yellowing phenotype caused by ABA treatment."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"

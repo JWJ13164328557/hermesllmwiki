@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, the observed physical interaction between ERF115 and PAT1 combined with the co-expres"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

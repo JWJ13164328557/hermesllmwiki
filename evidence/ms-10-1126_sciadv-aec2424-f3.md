@@ -1,6 +1,6 @@
 ---
 title: "In agreement with the results described above, we found that while ERα bound at initially open regio"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aec2424]]"

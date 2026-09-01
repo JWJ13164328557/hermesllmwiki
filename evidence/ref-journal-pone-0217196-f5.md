@@ -1,6 +1,6 @@
 ---
 title: "Although the biological significance is widely accepted, its clinical application as a prognostic bi"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pone-0217196]]"

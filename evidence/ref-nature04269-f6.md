@@ -1,6 +1,6 @@
 ---
 title: "The fact that we see a signal for the ﬂanking BACs shows that the target sequences of the non-overla"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature04269]]"

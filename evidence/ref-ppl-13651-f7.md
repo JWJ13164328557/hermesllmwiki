@@ -1,6 +1,6 @@
 ---
 title: "The miR828 targets the MYB transcrip- tion factor and regulates root hair patterning (Xia et al., 20"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

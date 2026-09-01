@@ -1,6 +1,6 @@
 ---
 title: "By measuring the rot symptoms and DSI of these plants, we found that the silencing of ZmPAL6, ZmCOMT"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"

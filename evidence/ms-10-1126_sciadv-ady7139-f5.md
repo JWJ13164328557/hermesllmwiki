@@ -1,6 +1,6 @@
 ---
 title: "We found that while aboveground, woody biomass growth started syn- chronously with canopy expansion "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-ady7139]]"

@@ -2,8 +2,8 @@
 
 title: "发育生物学 — Synthesis"
 created: 2026-06-01
-total_evidence: 765
-total_papers: 325
+total_evidence: 769
+total_papers: 329
 type: synthesis
 tags: [synthesis, development]
 
@@ -124,8 +124,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: leaf, rice | 全部标签: leaf, rice
 
 **统计**:
-- 涵盖论文: ~325 篇
-- 证据条目: 765 条
+- 涵盖论文: ~329 篇
+- 证据条目: 769 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: leaf, rice
@@ -175,8 +175,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: maize | 全部标签: maize
 
 **统计**:
-- 涵盖论文: ~325 篇
-- 证据条目: 765 条
+- 涵盖论文: ~329 篇
+- 证据条目: 769 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: maize
@@ -219,7 +219,7 @@ updated: 2026-06-01
 
 ### root-arabidopsis-thaliana (absorbed)
 ence: 562
-total_papers: 325
+total_papers: 329
 relevance_soybean: "低 — 间接关联"
 auto_discovered: true
 cluster_size: 8 tags
@@ -234,8 +234,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: root, Arabidopsis thaliana, observation | 全部标签: arabidopsis, root, Arabidopsis thaliana, observation, method, multiple, association, Homo sapiens, Oryza sativa, developing ear, Zea mays, root tip, whole embryo, peripheral blood, Mus musculus, pancreatic islet, Danio rerio, not applicable
 
 **统计**:
-- 涵盖论文: ~325 篇
-- 证据条目: 765 条
+- 涵盖论文: ~329 篇
+- 证据条目: 769 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: ara
@@ -252,8 +252,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: regeneration | 全部标签: regeneration
 
 **统计**:
-- 涵盖论文: ~325 篇
-- 证据条目: 765 条
+- 涵盖论文: ~329 篇
+- 证据条目: 769 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: regeneration
@@ -302,8 +302,8 @@ updated: 2026-06-01
 自动发现主题 — 核心: cell-wall | 全部标签: cell-wall
 
 **统计**:
-- 涵盖论文: ~325 篇
-- 证据条目: 765 条
+- 涵盖论文: ~329 篇
+- 证据条目: 769 条
 - 共识发现: 0 项
 - 潜在争议: 0 项
 - 核心标签: cell-wall

@@ -1,6 +1,6 @@
 ---
 title: "There were also another two latex-specific com­ plexes, Skp-cullin-F-box protein (SCF) and cullin 3 "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[latex-specific-transcriptome-analysis-reveals-mechanisms-for]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found more than 50% of enriched GO terms to be speciﬁc to a single cell type, consistent with our"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

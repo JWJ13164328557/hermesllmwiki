@@ -1,6 +1,6 @@
 ---
 title: "Phenylpropanoid gene activity in the palisade was required for production of the ultraviolet (UV)-B "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-koac167]]"

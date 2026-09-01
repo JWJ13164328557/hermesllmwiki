@@ -1,6 +1,6 @@
 ---
 title: "Thus, WT plants continued to receive more damage than transgenic plants, and we conclude that overex"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

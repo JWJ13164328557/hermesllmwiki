@@ -1,6 +1,6 @@
 ---
 title: "The ubiquitination process plays a crucial role in plant development and response to environmental s"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

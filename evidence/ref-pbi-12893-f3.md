@@ -1,6 +1,6 @@
 ---
 title: "When the leaves of the different lines were treated with ABA, we found that the brown colour of 35S:"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

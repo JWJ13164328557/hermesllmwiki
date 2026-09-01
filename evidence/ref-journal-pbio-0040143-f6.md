@@ -1,6 +1,6 @@
 ---
 title: "Using quantitative real-time PCR (QRT-PCR), we found SCR mRNA levels to be similarly induced 6 and 2"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

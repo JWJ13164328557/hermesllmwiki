@@ -1,6 +1,6 @@
 ---
 title: "Using global gene expression data from the mouse brain, plant root and human white blood cells, we s"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkr591]]"

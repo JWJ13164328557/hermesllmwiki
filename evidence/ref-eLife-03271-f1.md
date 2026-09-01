@@ -1,6 +1,6 @@
 ---
 title: "Here we show that FAMA is required for the irreversible differentiation of GCs and that it fulfills "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

@@ -1,6 +1,6 @@
 ---
 title: "For alternative 30 acceptors or exon-skipping events (Figure 3C) we found that more have LPSI R80% t"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

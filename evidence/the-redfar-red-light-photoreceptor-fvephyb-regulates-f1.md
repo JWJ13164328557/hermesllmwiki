@@ -1,6 +1,6 @@
 ---
 title: "We found that the P8 srl double mutant has much longer internodes than srl, suggesting a synergistic"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

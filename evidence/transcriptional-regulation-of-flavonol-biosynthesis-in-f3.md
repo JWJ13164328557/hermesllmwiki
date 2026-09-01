@@ -1,6 +1,6 @@
 ---
 title: "Each repeat of ∼50–53 amino acids forms a helix–turn–helix structure, allowing them to bind to the m"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"

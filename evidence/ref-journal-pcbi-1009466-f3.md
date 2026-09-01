@@ -1,6 +1,6 @@
 ---
 title: "In this paper we show that optimal transport analysis, a technique originally applied to ana- lyse t"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pcbi-1009466]]"

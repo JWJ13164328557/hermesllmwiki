@@ -1,6 +1,6 @@
 ---
 title: "Simultaneous overexpression of CcNFYB3 and CcLTCS further increased Al resistance."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

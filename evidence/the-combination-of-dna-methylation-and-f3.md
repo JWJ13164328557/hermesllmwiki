@@ -1,6 +1,6 @@
 ---
 title: "When the reporter construct was co-transfected with the effector plasmid, we found that one of the s"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PrMYBs, PrF3H]
+genes: [PrF3H, PrMYBs]
 compounds: []
 ---
 

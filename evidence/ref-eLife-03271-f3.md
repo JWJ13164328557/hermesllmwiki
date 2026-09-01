@@ -1,6 +1,6 @@
 ---
 title: "As with FAMA targets, RBR is required for repression of SCR target genes and can associate with thei"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

@@ -1,6 +1,6 @@
 ---
 title: "The transcriptional regulatory module CsHB5-CsbZIP44 positively regulates carotenoid biosynthesis Th"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"

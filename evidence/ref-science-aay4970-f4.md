@@ -1,6 +1,6 @@
 ---
 title: "The TMO5 homologs seem redundantly required for this response, as we found no significant difference"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aay4970]]"

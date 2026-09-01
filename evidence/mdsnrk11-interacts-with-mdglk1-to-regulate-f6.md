@@ -1,6 +1,6 @@
 ---
 title: "We found that the fluorescence signal of MdHEMA1pro:LUC + 35Spro:MdGLK1 (S468A) was comparable to th"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"

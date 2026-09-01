@@ -1,6 +1,6 @@
 ---
 title: "Taken together, gene sets from the coexpression modules as exploitable gene resources, facilitate ex"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

@@ -1,6 +1,6 @@
 ---
 title: "Putative TFs involved in the regulation of flavonoid biosynthesis Previous studies have shown that M"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

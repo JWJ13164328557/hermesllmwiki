@@ -1,6 +1,6 @@
 ---
 title: "We identified the cell types and novel marker genes of leaf veins and characterized the novel regula"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

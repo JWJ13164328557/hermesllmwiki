@@ -1,6 +1,6 @@
 ---
 title: "(B) During the differentiation from iPSCs to MNs or from iPSCs to NPCs, we found that 1,586 (17.6%) "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

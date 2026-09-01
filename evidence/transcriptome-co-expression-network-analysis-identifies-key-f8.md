@@ -1,6 +1,6 @@
 ---
 title: "Overall, these find- ings provide new insights into the production of volatiles in ripening kiwifrui"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

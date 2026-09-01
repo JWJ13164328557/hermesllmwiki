@@ -1,6 +1,6 @@
 ---
 title: "Notably,reactive oxygen species (ROS) signaling affects root growth independently from auxin."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

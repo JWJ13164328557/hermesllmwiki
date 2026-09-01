@@ -1,6 +1,6 @@
 ---
 title: "In each of these settings, different argonaute (AGO) proteins act in meristematic cells to sequester"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

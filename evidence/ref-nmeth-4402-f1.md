@@ -1,6 +1,6 @@
 ---
 title: "Here we show that cells from mice that lack transcription factors required for estab­ lishing specif"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nmeth-4402]]"

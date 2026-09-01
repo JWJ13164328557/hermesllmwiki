@@ -1,6 +1,6 @@
 ---
 title: "We found that WHIRLY1 interacts with Histone Deacetylase (HDA)15, a Reduced Potassium Dependence3 (R"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found 53 genes associ- ated with shorter 3’UTR usage and over-expression specific to each cell ty"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pone-0217196]]"

@@ -1,6 +1,6 @@
 ---
 title: "Accordingly, ectopic DOF3.4 expression drives periclinal cell division, while its downstream D3-type"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-koad028]]"

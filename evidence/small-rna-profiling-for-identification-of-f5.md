@@ -1,6 +1,6 @@
 ---
 title: "Bioinformatic analysis was used to predict a total of 2654 target genes for 141 differentially expre"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"

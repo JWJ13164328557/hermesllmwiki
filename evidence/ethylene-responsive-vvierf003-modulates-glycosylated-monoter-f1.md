@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the VviERF003 protein can directly bind to the promoter fragment P7 of Vv"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"

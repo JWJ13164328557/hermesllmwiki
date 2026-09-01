@@ -1,6 +1,6 @@
 ---
 title: "However, we found that, in the rin tomato mutant, both red and blue LED light could facil­ itate fru"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

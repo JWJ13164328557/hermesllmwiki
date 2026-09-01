@@ -1,6 +1,6 @@
 ---
 title: "For instance, in Arabidopsis, miR156-targeted SPL9 negatively regulates anthocyanin biosynthesis by "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"

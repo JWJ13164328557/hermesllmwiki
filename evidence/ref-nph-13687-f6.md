@@ -1,6 +1,6 @@
 ---
 title: "Unsuccessful ‘pray and spray’ approaches to biochemically dissect mechanisms of action have given wa"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

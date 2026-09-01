@@ -1,6 +1,6 @@
 ---
 title: "4K, L), suggesting that WOX11-mediated cell fate transition is a target of auxin in de novo root org"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

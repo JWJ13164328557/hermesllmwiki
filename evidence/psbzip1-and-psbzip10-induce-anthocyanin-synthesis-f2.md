@@ -1,6 +1,6 @@
 ---
 title: "(2022) have reported that MdHY5-like interacts with bZIP transcription factor gene MdHY5 and plays a"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

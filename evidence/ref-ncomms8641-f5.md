@@ -1,6 +1,6 @@
 ---
 title: "Discussion We conclude that a fully operating circadian clock is necessary during LR emergence."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

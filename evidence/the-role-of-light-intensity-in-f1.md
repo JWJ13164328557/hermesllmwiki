@@ -1,6 +1,6 @@
 ---
 title: "We show that photosynthetic photon transduction mediates fruit adaptation to light intensity, and pr"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-role-of-light-intensity-in]]"

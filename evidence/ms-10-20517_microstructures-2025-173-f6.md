@@ -1,6 +1,6 @@
 ---
 title: "Lysosome-targeting technologies such as LYTACs have broadened the target scope to include membrane a"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers]
 source: "[[ms-10-20517_microstructures-2025-173]]"

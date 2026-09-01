@@ -1,6 +1,6 @@
 ---
 title: "After KEGG annotation of DAMs, we found that they were primarily concentrated in metabolic pathways,"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-full-length-transcriptomics-and-metabolomics-reve]]"
@@ -9,7 +9,7 @@ species: [Arabidopsis, maize, soybean]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [flavonoid, flavonol]
+compounds: [flavonol, flavonoid]
 ---
 
 # After KEGG annotation of DAMs, we found that they were primarily concentrated in metabolic pathways,

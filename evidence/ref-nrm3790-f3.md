@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, sequestra­ tion of miR165/miR166 by ZLL is essential for shoot meri­stem maintenance "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nrm3790]]"

@@ -1,6 +1,6 @@
 ---
 title: "thaliana, AtMYB11, AtMYB12, and AtMYB111 have been shown to interact with the promoters of chal- con"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1038/s41438-020-0238-z"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [AtMYB11, AtMYB111, AtMYB12]
+genes: [AtMYB12, AtMYB11, AtMYB111]
 compounds: []
 ---
 

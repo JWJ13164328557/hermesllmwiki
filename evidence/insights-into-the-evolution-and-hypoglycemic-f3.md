@@ -1,6 +1,6 @@
 ---
 title: "We found that the upregula­ tion of these genes in the 10M-ML or 10M-OL group led to an increase in "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"

@@ -1,6 +1,6 @@
 ---
 title: "The analysis revealed that there were 12 candidate proteins that might interact with HDA9 (Supplemen"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

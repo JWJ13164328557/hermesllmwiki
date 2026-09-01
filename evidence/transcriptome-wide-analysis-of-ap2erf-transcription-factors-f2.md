@@ -1,6 +1,6 @@
 ---
 title: "Notably, the AP2/ERF proteins also contain motifs other than the AP2/ERF domain that share the same "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[transcriptome-wide-analysis-of-ap2erf-transcription-factors]]"

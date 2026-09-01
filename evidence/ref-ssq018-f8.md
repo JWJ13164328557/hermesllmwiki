@@ -1,6 +1,6 @@
 ---
 title: "Thebro- modomain binds to acetylated histone lysine motifs (Zeng and Zhou, 2002), and therefore can "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

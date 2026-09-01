@@ -1,6 +1,6 @@
 ---
 title: "(8)], we found that T-Coffee was unable to align more than approximately 102 sequences of typical le"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-gkh340]]"

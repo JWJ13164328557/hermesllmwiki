@@ -1,6 +1,6 @@
 ---
 title: "In Arabidopsis, these two families are identical at 17 of 21 nucleotide positions, but have distinct"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[biology-and-function-of-mir159-in]]"

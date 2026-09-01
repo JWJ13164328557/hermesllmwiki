@@ -1,6 +1,6 @@
 ---
 title: "We found that VvWRKY5 can interact with VvMYBA1 to enhance VvMYBA1’s activation of VvUFGT promoter, "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [VvWRKY5, VvMYBA1, VvUFGT]
+genes: [VvMYBA1, VvUFGT, VvWRKY5]
 compounds: [anthocyanin]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The problem of ‘coalescence’ of interacting targets is a widespread feature of multiple target track"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-13047]]"

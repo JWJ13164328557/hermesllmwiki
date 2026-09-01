@@ -1,6 +1,6 @@
 ---
 title: "AtbHLH113 in Arabidopsis interacts with PAP1/MYB75 modulating anthocyanin biosynthesis [74]."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[combined-analysis-of-the-metabolome-and]]"

@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these findings highlight the integral role of cellular compartmentalization and interc"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b3-dUSuUm6U9HU_uM2NcC4AWg]]"

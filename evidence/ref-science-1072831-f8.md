@@ -1,6 +1,6 @@
 ---
 title: "COP10 is part of a 300-kD nuclear complex, and a truncated form of COP10 interacts with COP1 in a t"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

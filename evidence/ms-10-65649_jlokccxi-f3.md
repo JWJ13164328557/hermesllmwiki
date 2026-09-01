@@ -1,6 +1,6 @@
 ---
 title: "Thirteen groups are required to distinguish five competing hypotheses (Table 1)."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers]
 source: "[[ms-10-65649_jlokccxi]]"

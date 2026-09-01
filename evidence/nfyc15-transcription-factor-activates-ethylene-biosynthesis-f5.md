@@ -1,6 +1,6 @@
 ---
 title: "In summary, MePP2C1-MeNF-YC15 interaction modulates ethylene biosynthesis and cassava disease resist"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14355"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MePP2C1, MeNF]
+genes: [MeNF, MePP2C1]
 compounds: [ethylene]
 ---
 

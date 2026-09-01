@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the upstream intermediates of the tanshinone synthesis pathway were significantly con"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[unveiling-the-spatial-distribution-and-molecular]]"

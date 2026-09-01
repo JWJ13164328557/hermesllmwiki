@@ -1,6 +1,6 @@
 ---
 title: "We found that the P8 mutant had much longer epidermal cells than the wild type (Fig."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

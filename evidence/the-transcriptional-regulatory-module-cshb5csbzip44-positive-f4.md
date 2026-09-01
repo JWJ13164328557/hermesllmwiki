@@ -1,6 +1,6 @@
 ---
 title: "Further- more, we found a positive feedback regulation loop between the ABA signal and functions of "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"

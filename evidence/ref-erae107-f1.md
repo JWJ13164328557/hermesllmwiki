@@ -1,6 +1,6 @@
 ---
 title: "In conclusion, single-cell transcriptome studies confirmed the importance of different cell types of"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-erae107]]"

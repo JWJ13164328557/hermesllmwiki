@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that TSA, an inhibitor of HDAC activity, can suppress callus formation of rice"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-pcaa086]]"

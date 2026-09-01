@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found that splicing patterns also showed previ- ously unobserved levels of heterogen"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nature12172]]"

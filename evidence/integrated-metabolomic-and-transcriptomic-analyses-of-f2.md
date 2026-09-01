@@ -1,6 +1,6 @@
 ---
 title: "In addition, we found that ten of these organic acids, such as L-ascorbic acid, shikimic acid and 4-"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analyses-of]]"

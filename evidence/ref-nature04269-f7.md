@@ -1,6 +1,6 @@
 ---
 title: "This indicates that the correct assembly of chromatin is required to propagate the positional cues t"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature04269]]"

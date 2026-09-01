@@ -1,6 +1,6 @@
 ---
 title: "For instance, by comparing the numbers of common diﬀerential genes (Figure 3C) among the groups, we "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[morus-alba-l-leaves-integration-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "While white grapes and wines tend to display more flowery and white-fruit notes (Petronilho et al., "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"

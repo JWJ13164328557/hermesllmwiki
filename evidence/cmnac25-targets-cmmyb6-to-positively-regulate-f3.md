@@ -1,6 +1,6 @@
 ---
 title: "We found two ACGT elements in the promoter region of CmMYB6 at the − 400 ~ 0 bp region."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"

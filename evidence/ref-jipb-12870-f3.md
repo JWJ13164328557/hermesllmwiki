@@ -1,6 +1,6 @@
 ---
 title: "In summary, our data suggest that wound‐induced ROS positively regulate AR induction in Arabidopsis "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

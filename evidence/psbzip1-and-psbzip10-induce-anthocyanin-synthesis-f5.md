@@ -1,6 +1,6 @@
 ---
 title: "PsbZIP1 and PsbZIP10 bind to the G-box sequence in the PsUFGT promoter In order to confirm the bindi"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PsbZIP1, PsbZIP10, PsUFGT]
+genes: [PsbZIP1, PsUFGT, PsbZIP10]
 compounds: []
 ---
 

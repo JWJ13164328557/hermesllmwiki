@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results indicate that PRDM16 is a functional regulator of CM aging."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aeg2614]]"

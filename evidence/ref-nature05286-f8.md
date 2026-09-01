@@ -1,6 +1,6 @@
 ---
 title: "Three important consequences of this model, now supported by experimental evidence, are that: (1) mu"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

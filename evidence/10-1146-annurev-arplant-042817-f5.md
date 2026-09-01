@@ -1,6 +1,6 @@
 ---
 title: "Another target gene of WUS is CLV1, but its expression is repressed by WUS, not activated as predict"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

@@ -1,6 +1,6 @@
 ---
 title: "Identification of genes that are essential for a given cell type is critical for understanding the b"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-BBZ062]]"

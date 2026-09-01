@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that pear PpbZIP44 was involved in regulating the expression of a sorbitol–fructose c"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"

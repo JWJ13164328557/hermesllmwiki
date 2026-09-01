@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these challenges suggest that focusing solely on structural optimization of TPD molecu"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers]
 source: "[[ms-10-20517_microstructures-2025-173]]"

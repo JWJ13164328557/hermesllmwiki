@@ -1,6 +1,6 @@
 ---
 title: "We report here a variance component approach implemented in publicly available software, EMMA eXpedi"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-ng-548]]"

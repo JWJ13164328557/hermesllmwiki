@@ -1,6 +1,6 @@
 ---
 title: "We show that this reduced SA responsiveness in gsnor1 plants arises from impaired vascular-­associat"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[sel-advs-75436]]"

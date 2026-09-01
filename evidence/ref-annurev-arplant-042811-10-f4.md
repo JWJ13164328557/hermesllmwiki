@@ -1,6 +1,6 @@
 ---
 title: "CLV2 interacts with CORYNE (CRN)/SUPPRESSOR OF LLP1 2 (SOL2) (which shares similarity with serine/th"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-042811-10]]"

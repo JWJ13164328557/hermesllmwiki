@@ -1,6 +1,6 @@
 ---
 title: "Hydraulic descent (downward siphoning) plays a signiﬁcant role in young plants to facilitate root ex"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-19676]]"

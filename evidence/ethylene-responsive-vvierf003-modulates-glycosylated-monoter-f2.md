@@ -1,6 +1,6 @@
 ---
 title: "VviERF003 can bind to the VviGT14 promoter and promote its activity according to yeast one-hybrid an"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"

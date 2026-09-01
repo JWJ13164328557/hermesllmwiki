@@ -1,6 +1,6 @@
 ---
 title: "Comparing the DEGs in why1, hda15 and why1hda15, we found that 1 543 genes were up‐regulated and 1 4"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

@@ -1,6 +1,6 @@
 ---
 title: "OsMADS16 interacts with OsMADS3 and OsMADS58 in specifying floral patterning in rice."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"
@@ -8,7 +8,7 @@ doi: "10.3390/plants2030379"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [OsMADS16, OsMADS58, OsMADS3]
+genes: [OsMADS3, OsMADS16, OsMADS58]
 compounds: []
 ---
 

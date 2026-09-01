@@ -1,6 +1,6 @@
 ---
 title: "We found that the gradual accu- mulation of anthocyanins caused the above phenotype."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"

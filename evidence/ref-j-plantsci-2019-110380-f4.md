@@ -1,6 +1,6 @@
 ---
 title: "These studies provided general insight into root development and abiotic stress responses, but the i"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

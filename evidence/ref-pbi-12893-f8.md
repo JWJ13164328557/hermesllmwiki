@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of PeCHYR1 enhanced drought tolerance by promoting H2O2-mediated stomatal closure in "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

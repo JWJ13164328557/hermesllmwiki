@@ -1,6 +1,6 @@
 ---
 title: "Notably, there were significant differences between the lifespan of the first and second lateral roo"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-peerj-15587]]"

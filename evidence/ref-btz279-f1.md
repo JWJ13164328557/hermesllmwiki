@@ -1,6 +1,6 @@
 ---
 title: "The format can be used with all single-cell RNA-seq technologies, and we show that BUS files can be "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-btz279]]"

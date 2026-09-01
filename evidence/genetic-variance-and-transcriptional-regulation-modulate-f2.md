@@ -1,6 +1,6 @@
 ---
 title: "We found that both Z-abienol and labd-13-ene-8, 15-diol were absent in K326 and only detected in BX "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-variance-and-transcriptional-regulation-modulate]]"

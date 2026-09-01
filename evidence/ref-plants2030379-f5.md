@@ -1,6 +1,6 @@
 ---
 title: "In rice, both Plants 2013, 2 388 FUL1 and FUL2 proteins (OsMADS14 and OsMADS15, respectively) intera"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"

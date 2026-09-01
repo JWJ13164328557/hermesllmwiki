@@ -1,6 +1,6 @@
 ---
 title: "Pathway enrichment analysis of DPM-­prioritized targets revealed 320 biological process- es, includi"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

@@ -1,6 +1,6 @@
 ---
 title: "Finally, consistent with the upregulation of ERF115 and ANAC071 by WIND1, their downstream target ge"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nph-17594]]"

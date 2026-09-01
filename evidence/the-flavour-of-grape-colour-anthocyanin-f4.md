@@ -1,6 +1,6 @@
 ---
 title: "Grape anthocyanins play a crucial role in wine organoleptic attributes."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"

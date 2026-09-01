@@ -1,6 +1,6 @@
 ---
 title: "Further research is required to identify whether these MYB and bHLH TFs play a regulatory role in th"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[combined-analysis-of-the-metabolome-and]]"

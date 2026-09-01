@@ -1,6 +1,6 @@
 ---
 title: "In Tartary buckwheat, SG4 R2R3-MYB members FtMYB14/15/16 could directly target FtPAL gene and inhibi"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"

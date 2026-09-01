@@ -1,6 +1,6 @@
 ---
 title: "Except for SmMYB6, SmMYB97, SmMYB111, and SmMYB112, another seven predicted SmMYB targets could not "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae047"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmMYB112, SmMYB97, SmMYB6, SmMYB, SmMYB111]
+genes: [SmMYB6, SmMYB111, SmMYB97, SmMYB112, SmMYB]
 compounds: []
 ---
 

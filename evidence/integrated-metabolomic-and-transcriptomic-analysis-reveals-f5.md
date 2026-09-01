@@ -1,6 +1,6 @@
 ---
 title: "In summary, the level of ﬂavonoid metabolites such as cyanidin O-syringic acid, myricetin and chryso"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analysis-reveals]]"

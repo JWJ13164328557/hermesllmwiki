@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our data indicate that WOX5 expression depends on the induction in the root pole by MP"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature05703]]"

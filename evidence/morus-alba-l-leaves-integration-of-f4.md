@@ -1,6 +1,6 @@
 ---
 title: "enrichment signiﬁcance, we found fewer diﬀerentially expressed genes associated with the ﬂavonoid sy"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[morus-alba-l-leaves-integration-of]]"

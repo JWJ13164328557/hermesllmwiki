@@ -1,6 +1,6 @@
 ---
 title: "Micro ribonucleic acids (miRNAs) of 21–24 nucleotide length regulate various aspects of plant develo"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

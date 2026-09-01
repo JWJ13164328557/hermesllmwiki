@@ -1,6 +1,6 @@
 ---
 title: "Together, our data suggest that the ERF115–PAT1 complex plays a crucial role in granting plants thei"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2016-165]]"

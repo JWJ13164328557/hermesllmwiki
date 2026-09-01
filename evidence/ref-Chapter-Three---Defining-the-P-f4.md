@@ -1,6 +1,6 @@
 ---
 title: "This posed a conundrum: if RBR binding to SCR reduced its activity, how would enough SCR be made to "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

@@ -1,6 +1,6 @@
 ---
 title: "Using single-cell RNA-seq profiles and live imaging during regeneration, we found that a subset of c"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-devcel-2024-12-019]]"

@@ -1,6 +1,6 @@
 ---
 title: "Many additional bacterial type III effectors protein families have been identified26–28; their targe"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that irreversible differentiation of guard cells involves RETINOBLASTOMA-RELATED (RBR) recr"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

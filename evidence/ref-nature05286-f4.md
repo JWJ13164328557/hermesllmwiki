@@ -1,6 +1,6 @@
 ---
 title: "The extent to which ETI and PTI involve distinct mechanisms is still an open question, and some effe"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

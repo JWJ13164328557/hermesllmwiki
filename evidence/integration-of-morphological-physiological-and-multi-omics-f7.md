@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that increasing planting density significantly improved the total leaf product"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

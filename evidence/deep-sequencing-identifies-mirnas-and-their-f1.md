@@ -1,6 +1,6 @@
 ---
 title: "Notably, in some cases, an individual conserved miRNA was involved in the regulation of multiple tar"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

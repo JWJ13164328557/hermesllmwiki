@@ -1,6 +1,6 @@
 ---
 title: "Taken together, this study provides not only a global view of maize cell fate determination during r"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"

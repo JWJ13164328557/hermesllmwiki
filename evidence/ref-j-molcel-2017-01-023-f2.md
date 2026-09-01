@@ -1,6 +1,6 @@
 ---
 title: "However, we found that genes speciﬁc to Smart-seq2 and Smart-seq/C1 map as well to 30 ends as genes "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2017-01-023]]"

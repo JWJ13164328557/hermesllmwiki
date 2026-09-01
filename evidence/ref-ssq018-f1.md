@@ -1,6 +1,6 @@
 ---
 title: "AtGCN5 targets to a large number of promoters and is required for acetylation of several histone H3 "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

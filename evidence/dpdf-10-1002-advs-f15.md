@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that binding motifs of ERF3 in hot4 and ERF017 in hot14 were signiﬁcantly en"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

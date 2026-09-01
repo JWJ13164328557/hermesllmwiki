@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that RHD6-LIKE genes func- tioned in the haploid generation (gametophyte) of the"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1142618]]"

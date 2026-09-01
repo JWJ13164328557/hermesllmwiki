@@ -1,6 +1,6 @@
 ---
 title: "We found a high correlation (R = 0.85) between the τ indices of genes across the two datasets for di"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-bti042]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that Bowtie 2, a method that combines the advantages of the full-text minute index and SIMD"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nmeth-1923]]"

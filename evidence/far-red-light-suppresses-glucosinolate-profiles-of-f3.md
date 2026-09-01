@@ -1,6 +1,6 @@
 ---
 title: "In summary, with FR supplementation, the aliphatic transcriptional activators MYB28 and MYB28-like, "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[far-red-light-suppresses-glucosinolate-profiles-of]]"

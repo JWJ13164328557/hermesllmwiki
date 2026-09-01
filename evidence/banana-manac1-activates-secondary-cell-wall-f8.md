@@ -1,6 +1,6 @@
 ---
 title: "It should be noted that the expression of Ma06_g28730 in postharvest banana peel was obviously up- r"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14195"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MaICE1, MaNAC1, MaCBF1]
+genes: [MaCBF1, MaNAC1, MaICE1]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "All of them interact with cyclins D both physically and functionally (Wang et al., 1998; Lui et al.,"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

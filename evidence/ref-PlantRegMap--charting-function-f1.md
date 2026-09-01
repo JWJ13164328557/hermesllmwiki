@@ -1,6 +1,6 @@
 ---
 title: "By browsing our functional TFBSs, we found a TF (AT5G67580) that could bind to that position, and an"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

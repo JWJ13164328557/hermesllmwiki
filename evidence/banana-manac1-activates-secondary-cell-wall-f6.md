@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, the interaction between a NAC domain TF Vascular-Related NAC-Domain7 (VND7) and a VND I"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

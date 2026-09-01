@@ -1,6 +1,6 @@
 ---
 title: "Additionally, we found two differential miRNAs (upregulated miR156e- p3_1 and downregulated miR172b)"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"

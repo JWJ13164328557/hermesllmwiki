@@ -1,6 +1,6 @@
 ---
 title: "We found drought affects trichome type, trichome density, and abundance of major terpenoids examined"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[genetic-variance-and-transcriptional-regulation-modulate]]"

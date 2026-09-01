@@ -1,6 +1,6 @@
 ---
 title: "Our data suggest that HDA15 strongly interacts with WHY1 at the onset (7‐week stage) of leaf senesce"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

@@ -1,6 +1,6 @@
 ---
 title: "Here, we show that c1121_g1 is highly homologous to DcMYB1 based on phylogenetic tree analysis."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

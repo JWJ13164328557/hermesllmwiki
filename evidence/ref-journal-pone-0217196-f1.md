@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results show that APA-associated gene signatures have a biological and clinica"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pone-0217196]]"

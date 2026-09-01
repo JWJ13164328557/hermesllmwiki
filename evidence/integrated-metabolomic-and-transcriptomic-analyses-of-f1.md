@@ -1,6 +1,6 @@
 ---
 title: "Our results were consistent with previous studies, and we found that compared with PA, all identifie"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analyses-of]]"

@@ -1,6 +1,6 @@
 ---
 title: "Spatial proteomics and metabolomics Spatial protein expression is crucial for understanding the func"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nph-70220]]"

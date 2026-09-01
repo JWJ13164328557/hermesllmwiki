@@ -1,6 +1,6 @@
 ---
 title: "R egulated protein degradation plays a crucial role during development in all organisms."
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

@@ -1,6 +1,6 @@
 ---
 title: "anthocyanin"
-created: 2026-08-31
+created: 2026-09-01
 type: entity
 entity_type: compound
 tags: [metabolism, compound]

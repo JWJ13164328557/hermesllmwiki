@@ -1,6 +1,6 @@
 ---
 title: "We found that ﬂavonoid-related metabolism was more active in the early stage of leaf development, an"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[temporospatial-flavonoids-metabolism-variation-in-ginkgo]]"

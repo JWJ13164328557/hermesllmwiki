@@ -1,6 +1,6 @@
 ---
 title: "Notably, in line with previous reports, these events were strongly inclined towards 3′ UTR shortenin"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkz781]]"

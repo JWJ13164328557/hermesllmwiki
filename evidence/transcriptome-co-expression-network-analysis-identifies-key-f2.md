@@ -1,6 +1,6 @@
 ---
 title: "Moreover, overexpression of FAD (FAD3 and FAD7) in tomato fruit promoted lino- lenic acid content an"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

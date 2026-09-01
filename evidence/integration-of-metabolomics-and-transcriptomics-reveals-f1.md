@@ -1,6 +1,6 @@
 ---
 title: "Previous studies of plant defense against pest infestations have shown that the expression of AevPAL"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad277"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [AevPAL1, AevTDC1]
+genes: [AevTDC1, AevPAL1]
 compounds: [salicylic acid]
 ---
 

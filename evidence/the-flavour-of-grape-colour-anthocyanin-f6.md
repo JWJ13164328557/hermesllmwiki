@@ -1,6 +1,6 @@
 ---
 title: "This locus overlaps with a cluster of tandemly duplicated MYBA genes (Wong et al., 2016), including "
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"
@@ -8,7 +8,7 @@ doi: "10.1093/jxb/erad223"
 species: [Vitis vinifera, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VviMYBA2, VviMYBA1]
+genes: [VviMYBA1, VviMYBA2]
 compounds: [anthocyanin]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Conclusion In summary, we found that the contents of total flavonoids are higher in triennial than b"
-created: 2026-08-31
+created: 2026-09-01
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"
