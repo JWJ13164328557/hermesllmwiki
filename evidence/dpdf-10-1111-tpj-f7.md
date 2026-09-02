@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the expression of some marker genes is activated during the development o"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

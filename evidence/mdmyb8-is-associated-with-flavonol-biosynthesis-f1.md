@@ -1,6 +1,6 @@
 ---
 title: "Through amino acid sequence alignments and a phylogenetic tree analysis, we found that it shared hig"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1038/s41438-020-0238-z"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtMYB113, AtMYB114, AtMYB75, AtMYB90, MdMYB62]
+genes: [PbWER, AtMYB75, AtMYB113, MdMYB62, AtMYB114]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Concurrently, this gene cluster has evolved a novel functional gene, OpAVT1, which annotated as a va"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"

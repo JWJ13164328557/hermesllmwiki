@@ -1,6 +1,6 @@
 ---
 title: "In Freesia hybrida, chromatin immunoprecipitation-quantitative polymerase chain reaction (ChIP–qPCR)"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae043"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [FhMYB1, FhCHI2, ChIP, FhFLS1]
+genes: [FhCHI2, FhMYB1, FhFLS1, ChIP]
 compounds: []
 ---
 

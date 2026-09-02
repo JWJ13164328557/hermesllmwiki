@@ -1,6 +1,6 @@
 ---
 title: "These results suggest a dual role for H2O2 in the nervous system as both a stimulator of axon regene"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

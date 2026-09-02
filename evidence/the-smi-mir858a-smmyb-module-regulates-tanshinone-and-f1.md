@@ -1,6 +1,6 @@
 ---
 title: "Smi-miR858a targeted SmMYBs to regulate the expression of downstream genes Through computational pre"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"

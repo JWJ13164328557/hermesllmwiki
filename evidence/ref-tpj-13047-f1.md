@@ -1,6 +1,6 @@
 ---
 title: "Importantly, the method proposed here is not limited to recovering and separating two plants, but ca"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-13047]]"

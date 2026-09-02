@@ -1,6 +1,6 @@
 ---
 title: "Notably, the prototypic animal CATERPILLAR protein is CIITA, a transcriptional co-activator of MHC c"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

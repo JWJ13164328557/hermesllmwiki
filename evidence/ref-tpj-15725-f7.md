@@ -1,6 +1,6 @@
 ---
 title: "For DD samples, we found that mild drought (4 h of drought stress treatment) caused negligible chang"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-15725]]"

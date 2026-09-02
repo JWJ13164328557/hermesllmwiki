@@ -1,6 +1,6 @@
 ---
 title: "It should be noted that the expression of Ma06_g28730 in postharvest banana peel was obviously up- r"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

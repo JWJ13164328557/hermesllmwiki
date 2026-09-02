@@ -1,6 +1,6 @@
 ---
 title: "Incorporating a matched time series of zebrafish development from a companion paper, we reveal conse"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-aar5780]]"

@@ -1,6 +1,6 @@
 ---
 title: "Notably, up to 1307 3′ UTR poly(A) sites identified by scAPAtrap were exclusively found in the mouse"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bbaa273]]"

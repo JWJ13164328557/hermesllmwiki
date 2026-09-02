@@ -1,6 +1,6 @@
 ---
 title: "6 are critical for quantifying carbon, water and nutrient fluxes (Warren et al."
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-plab056]]"

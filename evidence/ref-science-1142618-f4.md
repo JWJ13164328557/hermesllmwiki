@@ -1,6 +1,6 @@
 ---
 title: "To determine if AtRHD6 and AtRSL1 are required for the de- velopment of the only other tip-growing c"
-created: 2026-09-01
+created: 2026-09-02
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1142618]]"
