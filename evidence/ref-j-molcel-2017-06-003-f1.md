@@ -1,6 +1,6 @@
 ---
 title: "Applying Expe- dition to single pluripotent stem cells undergoing neuronal differentiation, we disco"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

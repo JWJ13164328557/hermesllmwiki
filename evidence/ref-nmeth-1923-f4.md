@@ -1,6 +1,6 @@
 ---
 title: "For BWA, separate invocations of the software were required for aligning each end and for processing"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nmeth-1923]]"

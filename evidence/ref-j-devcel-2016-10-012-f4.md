@@ -1,6 +1,6 @@
 ---
 title: "We found that most consensus isoforms support TAIR10 isoforms or map to transcript regions that are "
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-devcel-2016-10-012]]"

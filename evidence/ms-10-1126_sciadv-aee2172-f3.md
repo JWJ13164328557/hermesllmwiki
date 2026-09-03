@@ -1,6 +1,6 @@
 ---
 title: "Mechanistically, drought-­induced Ca2+ signaling activates PtoCPK3 to phosphorylate PtoERF72 at Ser9"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

@@ -1,6 +1,6 @@
 ---
 title: "ethylene"
-created: 2026-09-02
+created: 2026-09-03
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # ethylene
 
 ## Evidence Summary
-**Total evidence objects**: 36
+**Total evidence objects**: 39
 
 ## Evidence Table
 | Evidence | Finding |
@@ -21,9 +21,9 @@ tags: [metabolism, compound]
 | [[mdmyb8-is-associated-with-flavonol-biosynthesis-f6]] | In conclusion, we generated evidence that MdMYB8 regulates ﬂavonol biosynthesis  |
 | [[ms-10-1007_s11084-026-09761-5-f4]] | In terms of systems biology, microbial elicitation plays a key role in plant hor |
 | [[ms-10-1007_s44372-026-00844-1-f7]] | Ethylene, jasmonic acid, and brassinosteroids further fine-tune stress responses |
+| [[ms-10-1007_s44372-026-00856-x-f2]] | Ethylene interacts with hormones like jasmonic acid and ABA and helps in the reg |
 | [[ms-10-1186_s43897-026-00236-9-f6]] | Furthermore, ABA promotes leaf senescence through a pathway distinct from ethyle |
 | [[ms-10-14719_pst-15098-f4]] | Hormone signalling pathways Hormone signalling pathways play a central role in r |
-| [[ms-10-3389_fagro-2026-1855179-f1]] | In addition to ABA, ethylene plays a critical role in drought-related stress res |
 
 ## Biosynthetic Pathway
 -

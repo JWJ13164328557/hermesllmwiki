@@ -1,6 +1,6 @@
 ---
 title: "The regulatory function of a few key miRNAs and their targets in root development under drought stre"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

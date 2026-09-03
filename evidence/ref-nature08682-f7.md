@@ -1,6 +1,6 @@
 ---
 title: "Other STOMAGEN- silenced lines made with another artificial microRNA (12 independent T2 lines) and d"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

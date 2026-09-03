@@ -1,6 +1,6 @@
 ---
 title: "In summary, a diverse array of ﬂavonoids in higher plants have evolved according to their physiologi"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analysis-reveals]]"

@@ -1,6 +1,6 @@
 ---
 title: "This locus overlaps with a cluster of tandemly duplicated MYBA genes (Wong et al., 2016), including "
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"

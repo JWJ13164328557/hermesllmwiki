@@ -1,6 +1,6 @@
 ---
 title: "CsGGT2"
-created: 2026-09-02
+created: 2026-09-03
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

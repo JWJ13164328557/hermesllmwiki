@@ -1,6 +1,6 @@
 ---
 title: "Notably, HK treatment did not increase the root hair lifespan of the first lateral root and even red"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-peerj-15587]]"

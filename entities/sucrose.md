@@ -1,6 +1,6 @@
 ---
 title: "sucrose"
-created: 2026-09-02
+created: 2026-09-03
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # sucrose
 
 ## Evidence Summary
-**Total evidence objects**: 12
+**Total evidence objects**: 13
 
 ## Evidence Table
 | Evidence | Finding |
@@ -21,9 +21,9 @@ tags: [metabolism, compound]
 | [[insights-into-the-evolution-and-hypoglycemic-f3]] | We found that the upregula­ tion of these genes in the 10M-ML or 10M-OL group le |
 | [[ms-10-1007_s11627-026-10653-6-f3]] | While nitrogen is necessary for the production and maintenance of the growth enz |
 | [[ms-10-1038_s41598-026-54565-2-f2]] | It has been reported that K acts as a key role in the transport of photosyntheti |
+| [[ms-10-1038_s41598-026-69041-0-f6]] | We found that in general there is a preference for sucrose water over regular wa |
 | [[ms-10-1186_s42397-026-00265-1-f2]] | For instance, a recent study found that the SWI/SFN (Switch/Sucrose Non-Ferment- |
 | [[ref-pnas-250473797-f1]] | In this paper, we report the use of a reverse genetic approach to test the in pl |
-| [[ref-pnas-250473797-f3]] | It has been predicted that sucrose transporters are essential for this process i |
 
 ## Biosynthetic Pathway
 -

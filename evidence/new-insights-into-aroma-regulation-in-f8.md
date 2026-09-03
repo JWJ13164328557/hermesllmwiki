@@ -1,6 +1,6 @@
 ---
 title: "As described previously, the protein-coding genes within 10 kb upstream or downstream of a lncRNA we"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

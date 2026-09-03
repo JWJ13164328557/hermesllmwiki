@@ -1,6 +1,6 @@
 ---
 title: "The SQUAMOSA genes promote the downregulation of SVP genes, and this facilitates the interac- tions "
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

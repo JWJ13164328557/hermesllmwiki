@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, while the cell bodies of trichoblasts on the roots of the high vigour lines were smal"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-erac048]]"

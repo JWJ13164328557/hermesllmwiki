@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that one or more ﬂavonol compounds play a repressive role in steady-state mRNA"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-tpj-12129]]"

@@ -1,6 +1,6 @@
 ---
 title: "Our data reveal the existence of a complex network of transcriptional and signaling events downstrea"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

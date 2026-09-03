@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that VRT2 and FUL2 have antagonistic effects on spikelet devel"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

@@ -1,6 +1,6 @@
 ---
 title: "Recruitment of AtGCN5 to target promoters is likely to be mediated by direct or indirect interaction"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

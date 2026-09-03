@@ -1,6 +1,6 @@
 ---
 title: "Transcription factor bind to the promoter of structural genes."
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[combined-analysis-of-the-metabolome-and]]"

@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, these target sequences were aligned against the human genome using BLAT (Kent, 2002), a"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-bti042]]"

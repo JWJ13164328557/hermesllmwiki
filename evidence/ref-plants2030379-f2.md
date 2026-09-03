@@ -1,6 +1,6 @@
 ---
 title: "A yeast two-hybrid assay indicated that OsMADS16 interacts with both OsMADS2 and OsMADS4 [32]."
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"

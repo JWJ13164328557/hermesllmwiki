@@ -1,6 +1,6 @@
 ---
 title: "The SHORTROOT (SHR) gene plays a central role in controlling the asymmetric cell divisions of the co"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-tpj-12429]]"

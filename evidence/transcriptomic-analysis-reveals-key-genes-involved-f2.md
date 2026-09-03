@@ -1,6 +1,6 @@
 ---
 title: "Conclusions In summary, the content of seed oil in A."
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptomic-analysis-reveals-key-genes-involved]]"

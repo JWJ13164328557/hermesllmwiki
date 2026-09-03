@@ -1,6 +1,6 @@
 ---
 title: "Here we show that SQUAMOSA genes contribute to spikelet identity by repressing MADS-box genes VEGETA"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

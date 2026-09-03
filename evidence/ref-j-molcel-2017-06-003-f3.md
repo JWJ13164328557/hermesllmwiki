@@ -1,6 +1,6 @@
 ---
 title: "We conclude that bimodal and multimodal events are enriched for longer ﬂanking introns with higher c"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

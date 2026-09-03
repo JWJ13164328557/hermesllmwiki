@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the analysis provided insights into the cellular composition and possible presence o"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-ncomms14049]]"

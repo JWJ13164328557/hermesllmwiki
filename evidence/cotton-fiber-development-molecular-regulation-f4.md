@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the regulation of fiber initiation versus elongation involves specific interactions; "
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"

@@ -2,8 +2,8 @@
 
 title: "胁迫与免疫 — Synthesis"
 created: 2026-06-01
-total_evidence: 144
-total_papers: 99
+total_evidence: 147
+total_papers: 102
 type: synthesis
 tags: [synthesis, stress, immunity, abiotic-stress, biotic-stress, hormone]
 

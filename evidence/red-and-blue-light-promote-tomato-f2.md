@@ -1,6 +1,6 @@
 ---
 title: "We show that both lights expedite the progress of skin coloration in tomato fruit by promoting chlor"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"

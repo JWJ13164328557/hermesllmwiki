@@ -1,6 +1,6 @@
 ---
 title: "All visual trackers rely heavily on an appearance model of some form; similar targets will always be"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-13047]]"

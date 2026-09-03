@@ -1,6 +1,6 @@
 ---
 title: "We found a single C to T substi- tution in the open reading frame of At2g36810, resulting in a nonse"
-created: 2026-09-02
+created: 2026-09-03
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"
