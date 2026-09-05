@@ -1,6 +1,6 @@
 ---
 title: "We found three AtMAPKKK16 homolo- gous genes, Seita.3G160800, Seita.5G284300 and Sei- ta.5G284400, i"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-15725]]"

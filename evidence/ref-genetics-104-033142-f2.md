@@ -1,6 +1,6 @@
 ---
 title: "E-mail: zjchen@tamu.edu the target genes and plant development."
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-genetics-104-033142]]"

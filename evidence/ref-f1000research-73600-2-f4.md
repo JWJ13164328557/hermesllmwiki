@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, despite several new publications, the initial benchmark found the oldest method, Doub"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-f1000research-73600-2]]"

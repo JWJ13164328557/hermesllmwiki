@@ -1,6 +1,6 @@
 ---
 title: "Knockdown of XBP1, USF1, ZIC1 and MZF1 enhanced myotube formation, with larger myotubes containing a"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

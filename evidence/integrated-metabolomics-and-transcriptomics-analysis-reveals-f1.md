@@ -1,6 +1,6 @@
 ---
 title: "We found that individual elevated O3 significantly enhanced the accumulation of dihydroflavone, flav"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomics-and-transcriptomics-analysis-reveals]]"

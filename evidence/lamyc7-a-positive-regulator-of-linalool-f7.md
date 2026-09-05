@@ -1,6 +1,6 @@
 ---
 title: "LaMYC7 binds to the LaTPS76 promoter and activates its transcription."
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[lamyc7-a-positive-regulator-of-linalool]]"

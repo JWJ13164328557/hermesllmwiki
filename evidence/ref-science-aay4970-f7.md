@@ -1,6 +1,6 @@
 ---
 title: "As the TMO5/LHW pathway induces production of cytokinin as mobile intermediate that functions in nei"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aay4970]]"

@@ -1,6 +1,6 @@
 ---
 title: "Expression analysis indicated that MYB36 could be a direct target of SCR, which was confirmed throug"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

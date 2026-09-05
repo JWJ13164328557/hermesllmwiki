@@ -1,6 +1,6 @@
 ---
 title: "In comparison with fruit stored at 22 °C (room temperature), we found that the texture was ﬁrmer wit"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"

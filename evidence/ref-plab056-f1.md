@@ -1,6 +1,6 @@
 ---
 title: "Root characteristics like length, diameter and volume are critical to measure to understand plant an"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-plab056]]"

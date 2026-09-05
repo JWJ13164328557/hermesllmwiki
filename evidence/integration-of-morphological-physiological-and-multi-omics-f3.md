@@ -1,6 +1,6 @@
 ---
 title: "We found that compared with controls, most MYB genes, including MYB3, 4, 5, and 111, were downregula"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

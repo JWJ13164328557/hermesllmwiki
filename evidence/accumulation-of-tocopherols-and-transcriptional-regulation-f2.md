@@ -1,6 +1,6 @@
 ---
 title: "They seem to play a crucial role in the adaptation of plants to low temperatures, and mutants impair"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[accumulation-of-tocopherols-and-transcriptional-regulation]]"

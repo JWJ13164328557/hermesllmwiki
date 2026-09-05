@@ -1,6 +1,6 @@
 ---
 title: "We found that introns ﬂanking exons that exhibit bimodal and included modalities are enriched for U-"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-j-molcel-2017-06-003]]"

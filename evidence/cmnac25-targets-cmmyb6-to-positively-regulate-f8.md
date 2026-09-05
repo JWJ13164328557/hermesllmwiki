@@ -1,6 +1,6 @@
 ---
 title: "Our results thus revealed a crucial role of CmNAC25 in regulating flower color change during petal s"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"

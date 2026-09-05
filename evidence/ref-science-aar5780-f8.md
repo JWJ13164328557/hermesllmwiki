@@ -1,6 +1,6 @@
 ---
 title: "We found that this expression plasticity is independent of variation in protein sequence itself, sur"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-aar5780]]"

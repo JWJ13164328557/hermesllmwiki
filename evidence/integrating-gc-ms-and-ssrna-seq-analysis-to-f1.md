@@ -1,6 +1,6 @@
 ---
 title: "Notably, most target genes of DELs were enriched downstream of the terpenoid biosynthesis pathway, s"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

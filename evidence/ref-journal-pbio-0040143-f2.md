@@ -1,6 +1,6 @@
 ---
 title: "We found 12 genes implicated in auxin-related processes that are repressed by SHR and none among the"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

@@ -1,6 +1,6 @@
 ---
 title: "(1992) Degenerate oligonucleotide-primed PCR: general ampliﬁcation of target DNA by a single degener"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-tplants-2020-04-016]]"

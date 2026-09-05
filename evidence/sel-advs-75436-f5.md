@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the elevated NO levels observed in gsnor1 plants are independent of regul"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[sel-advs-75436]]"

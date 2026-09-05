@@ -1,6 +1,6 @@
 ---
 title: "Conclusion In conclusion, a set of high-quality transcriptomes were present for P."
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"

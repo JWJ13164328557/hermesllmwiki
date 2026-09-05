@@ -1,6 +1,6 @@
 ---
 title: "In summary, a palea, lodicules, stamens and a pistil are wheat floral organs developed in the whorl "
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"

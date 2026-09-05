@@ -1,6 +1,6 @@
 ---
 title: "glucose"
-created: 2026-09-03
+created: 2026-09-05
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # glucose
 
 ## Evidence Summary
-**Total evidence objects**: 17
+**Total evidence objects**: 18
 
 ## Evidence Table
 | Evidence | Finding |
@@ -23,7 +23,7 @@ tags: [metabolism, compound]
 | [[ms-10-1007_s00216-026-06595-y-f7]] | Comparative studies of CD–polymer-based enzymatic glucose biosen- sors highlight |
 | [[ms-10-1007_s11295-026-01747-8-f2]] | Heterologous overexpression of EgrARF10 in hybrid poplar did not alter overall g |
 | [[ms-10-1007_s11676-026-02078-z-f6]] | Notably, the cross-feeding strategy employ- ing HDJT1 pre-cultured with mixed hi |
-| [[ms-10-1007_s44281-026-00106-w-f1]] | Here, we found that soluble sug- ars—particularly glucose and fructose—were mark |
+| [[ms-10-1007_s12026-026-09803-0-f6]] | These results suggest that SIX1 may enhance the prolif­ erative capacity of AML  |
 
 ## Biosynthetic Pathway
 -

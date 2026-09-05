@@ -1,6 +1,6 @@
 ---
 title: "Within the epidermis, the population of hair cells was enriched for root hair-specific genes that ar"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-erae107]]"

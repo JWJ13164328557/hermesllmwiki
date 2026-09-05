@@ -1,6 +1,6 @@
 ---
 title: "Individualized clinical treatment also will be the target and direction of scRNA-seq technology."
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-BBZ062]]"

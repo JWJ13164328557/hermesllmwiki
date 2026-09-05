@@ -1,6 +1,6 @@
 ---
 title: "More recently, as few as 100 cells could be used as input to enrich for TF binding sites via ultra-l"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-j-tplants-2020-04-016]]"

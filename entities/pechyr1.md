@@ -1,6 +1,6 @@
 ---
 title: "PeCHYR1"
-created: 2026-09-03
+created: 2026-09-05
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

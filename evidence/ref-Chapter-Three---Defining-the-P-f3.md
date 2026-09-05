@@ -1,6 +1,6 @@
 ---
 title: "It turned out that this D-type cyclin is a direct target of both SHR and SCR."
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

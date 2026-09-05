@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that some GbTFs expression was negatively correlated with mean minimum tempe"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[temporospatial-flavonoids-metabolism-variation-in-ginkgo]]"

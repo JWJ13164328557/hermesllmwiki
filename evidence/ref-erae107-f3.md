@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, by taking a multi-omics approach, integrating snRNA-seq and snATAC (assay for transpo"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-erae107]]"

@@ -1,6 +1,6 @@
 ---
 title: "Additionally, these regulated genes not only helpful to understand the regulation mechanism of flavo"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

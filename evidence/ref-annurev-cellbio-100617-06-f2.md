@@ -1,6 +1,6 @@
 ---
 title: "WUS binds to these elements as monomers at low concentrations and as dimers at higher concentrations"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

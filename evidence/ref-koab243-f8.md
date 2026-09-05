@@ -1,6 +1,6 @@
 ---
 title: "In summary, these results indicate that VRT2 and SVP1 have overlapping functions during early reprod"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

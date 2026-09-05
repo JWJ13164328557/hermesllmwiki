@@ -1,6 +1,6 @@
 ---
 title: "Abstract The leaf vasculature plays a key role in solute translocation."
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-G2N-JJNNVwoyPpAiZEWa8w]]"

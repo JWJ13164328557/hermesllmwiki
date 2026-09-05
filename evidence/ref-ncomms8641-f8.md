@@ -1,6 +1,6 @@
 ---
 title: "Disrupting clock function or oscillatory expression of downstream auxin-related targets impairs LR e"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results suggest that VvWRKY5 may promote wounding-induced anthocyanin deposition"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

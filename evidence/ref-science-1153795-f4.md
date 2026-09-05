@@ -1,6 +1,6 @@
 ---
 title: "Recently, potential direct targets of DREB2A have been identified (25)."
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-1153795]]"

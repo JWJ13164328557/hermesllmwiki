@@ -1,6 +1,6 @@
 ---
 title: "By comparing these transitions to chromosome cytology, we found that the first occurs within leptote"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aav6428]]"

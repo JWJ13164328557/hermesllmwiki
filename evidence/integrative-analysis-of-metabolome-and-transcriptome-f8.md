@@ -1,6 +1,6 @@
 ---
 title: "Recently, the WGCNA analysis has been developed and applied to explore target genes and TFs from RNA"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrative-analysis-of-metabolome-and-transcriptome]]"

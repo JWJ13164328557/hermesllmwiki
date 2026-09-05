@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our study pro­ vides new insights into the genetic basis of flavonoids biosynthesis, a"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"

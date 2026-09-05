@@ -1,6 +1,6 @@
 ---
 title: "Either AtGCN5 has several target lysine residues or synergistic interaction between different lysine"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

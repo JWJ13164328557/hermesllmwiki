@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the genes that are induced by dis­ sociation are also induced by muscle injury6, whic"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nmeth-4437]]"

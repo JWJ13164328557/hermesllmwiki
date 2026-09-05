@@ -1,6 +1,6 @@
 ---
 title: "Each root cross- section is thought of as a moving target belonging to and emerging from a root syst"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-13047]]"

@@ -1,6 +1,6 @@
 ---
 title: "Together, this study provides a comprehensive single-­nucleus resource of the human heart across the"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aeg2614]]"

@@ -1,6 +1,6 @@
 ---
 title: "Here, we found that its homologous genes in foxtail millet, SiPYL5-1 and SiPYL5-2, were also downreg"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-15725]]"

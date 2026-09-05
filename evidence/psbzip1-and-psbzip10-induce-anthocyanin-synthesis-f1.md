@@ -1,6 +1,6 @@
 ---
 title: "Yeast one-hybrid assays and motif mu­ tation demonstrated that PsbZIP1 and PsbZIP10 can directly bin"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PsUFGT, PsbZIP1, PsbZIP10]
+genes: [PsUFGT, PsbZIP10, PsbZIP1]
 compounds: []
 ---
 

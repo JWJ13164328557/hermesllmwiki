@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that germination treatment contributed the significant increase of nutrients"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-lysine]]"

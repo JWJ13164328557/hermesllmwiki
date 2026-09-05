@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that PAP2 is probably the major ﬂavonoid biosynthesis gene regulator under the"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-tpj-12129]]"

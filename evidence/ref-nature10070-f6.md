@@ -1,6 +1,6 @@
 ---
 title: "f Wild type g casp1-1 casp3-1 Casparian strip autofluorescence a b c D d e casp1-1 casp3-1 casp1-1 c"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature10070]]"

@@ -1,6 +1,6 @@
 ---
 title: "Together, these results confirm that the transcription factors identified as possible regulators in "
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

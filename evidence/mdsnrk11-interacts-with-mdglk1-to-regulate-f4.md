@@ -1,6 +1,6 @@
 ---
 title: "Meanwhile, we screened Ser468 of MdGLK1 as a potential target site for MdSnRK1.1 phosphorylation, an"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[mdsnrk11-interacts-with-mdglk1-to-regulate]]"

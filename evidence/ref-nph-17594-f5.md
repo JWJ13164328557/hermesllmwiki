@@ -1,6 +1,6 @@
 ---
 title: "Consistent with this transcriptional activation, we found that overexpression of WIND1 induced ectop"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nph-17594]]"

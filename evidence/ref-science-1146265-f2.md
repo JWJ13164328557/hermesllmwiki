@@ -1,6 +1,6 @@
 ---
 title: "In accord with this published report (15), we found root hair cell differentia- tion genes, kinases,"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1146265]]"

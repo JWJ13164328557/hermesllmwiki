@@ -1,6 +1,6 @@
 ---
 title: "Ethylene-responsive transcription factors interact with promoters of ADH and PDC involved in persimm"
-created: 2026-09-03
+created: 2026-09-05
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-the-metabolisms-of]]"
