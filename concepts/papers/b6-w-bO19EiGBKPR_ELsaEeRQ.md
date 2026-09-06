@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1016/j.jgg.2026.03.024
 confidence: medium
-aliases: ["一个综合的基因调控网络识别转录枢纽，"]
+aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases_extra: ["一个综合的基因调控网络识别转录枢纽，"]
 aliases_extra: ["An integrative gene regulatory network identifies transcriptional hubs governing"]
 status: draft
 updated: "2026-05-29"

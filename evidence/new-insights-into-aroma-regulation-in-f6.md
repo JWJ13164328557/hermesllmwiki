@@ -1,6 +1,6 @@
 ---
 title: "Identification and target gene prediction of lncRNAs We identified novel lncRNAs using the following"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

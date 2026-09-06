@@ -1,6 +1,6 @@
 ---
 title: "SD/–Ade/–His/–Leu/–Trp dropout medium (quadruple dropout medium, QDO) was used to confirm protein in"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

@@ -1,6 +1,6 @@
 ---
 title: "Lactate dehydrogenase A: a potential new target for tumor drug resistance intervention."
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [papers]
 source: "[[ms-10-32607_actanaturae-27815]]"

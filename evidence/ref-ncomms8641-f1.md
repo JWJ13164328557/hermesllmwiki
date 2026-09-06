@@ -1,6 +1,6 @@
 ---
 title: "We report that the circadian clock is rephased during LR development."
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

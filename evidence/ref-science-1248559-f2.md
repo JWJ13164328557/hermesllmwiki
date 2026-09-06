@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the 153-bp fragment containing AG binding sites is sufficient to silence "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1248559]]"

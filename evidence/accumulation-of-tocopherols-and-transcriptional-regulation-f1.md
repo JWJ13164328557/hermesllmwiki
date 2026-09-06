@@ -1,6 +1,6 @@
 ---
 title: "Collectively, results suggest that the concentration of tocopherols at harvest may play a function i"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[accumulation-of-tocopherols-and-transcriptional-regulation]]"

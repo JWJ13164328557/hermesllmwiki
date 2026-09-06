@@ -1,6 +1,6 @@
 ---
 title: "The CALMO- DULIN BINDING PROTEIN 60G (CBP60g), a transcriptional target of NPR3/4, is required for S"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"

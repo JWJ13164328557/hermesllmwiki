@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1038/s41477-026-02293-w
 confidence: medium
-aliases: ["层状图案化转录因子协调空间代谢产物部分"]
+aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases_extra: ["层状图案化转录因子协调空间代谢产物部分"]
 aliases_extra: ["Laminar patterning transcription factors orchestrate spatial metabolite partitio"]
 status: draft
 updated: "2026-05-29"

@@ -1,6 +1,6 @@
 ---
 title: "This study demonstrates that Monocle can exploit the inherent temporal variability during differenti"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

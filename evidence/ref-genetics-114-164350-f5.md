@@ -1,6 +1,6 @@
 ---
 title: "For the larger choice of model complexity, we observe that fastSTRUCTURE with the simple prior uses "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-genetics-114-164350]]"

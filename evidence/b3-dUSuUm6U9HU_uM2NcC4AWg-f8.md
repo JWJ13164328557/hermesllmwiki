@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, light may enhance the accumulation of andrographolide biosynthesis, confirming the li"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[b3-dUSuUm6U9HU_uM2NcC4AWg]]"

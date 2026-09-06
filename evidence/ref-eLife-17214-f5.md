@@ -1,6 +1,6 @@
 ---
 title: "Consistent with the delayed leaf senescence phenotype in hda9, we found the downregulation of hallma"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-eLife-17214]]"

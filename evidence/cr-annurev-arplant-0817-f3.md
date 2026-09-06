@@ -1,6 +1,6 @@
 ---
 title: "Elaborating these comparisons to include transcription factors and their respective target genes can"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[cr-annurev-arplant-0817]]"

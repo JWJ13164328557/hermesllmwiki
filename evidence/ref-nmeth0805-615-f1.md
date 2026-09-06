@@ -1,6 +1,6 @@
 ---
 title: "Genomics methods have tremendous potential to infer developmental circuits and, in combination with "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nmeth0805-615]]"

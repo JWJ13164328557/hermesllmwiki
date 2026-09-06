@@ -1,6 +1,6 @@
 ---
 title: "With regard to higher emission of terpenoids in rhizome1, it can be explained that plant rhizosphere"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

@@ -1,6 +1,6 @@
 ---
 title: "Some of these have been experimentally demonstrated to be actually E2F target genes (Ramirez-Parra e"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

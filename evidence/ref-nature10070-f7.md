@@ -1,6 +1,6 @@
 ---
 title: "The SCARECROW gene regulates an asymmetric cell division that is essential for generating the radial"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature10070]]"

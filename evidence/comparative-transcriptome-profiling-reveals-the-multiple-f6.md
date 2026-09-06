@@ -1,6 +1,6 @@
 ---
 title: "napus Despite very few common transcriptional targets among seven hormones, other evidence suggests "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"

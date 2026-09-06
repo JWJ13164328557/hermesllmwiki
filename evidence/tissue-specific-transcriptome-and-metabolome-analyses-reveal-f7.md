@@ -1,6 +1,6 @@
 ---
 title: "Technological advances in high-throughput sequencing have facilitated the development of effec­ tive"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

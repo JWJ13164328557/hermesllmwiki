@@ -1,6 +1,6 @@
 ---
 title: "INTRODUCTION Traditional drug development strategies have primarily focused on inhibiting or activat"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [papers]
 source: "[[ms-10-20517_microstructures-2025-173]]"

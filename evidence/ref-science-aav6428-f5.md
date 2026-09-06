@@ -1,6 +1,6 @@
 ---
 title: "Discussion During the transit-amplifying divisions of arche- sporial cells and their cessation of mi"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aav6428]]"

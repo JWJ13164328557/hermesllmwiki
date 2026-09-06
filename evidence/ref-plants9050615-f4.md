@@ -1,6 +1,6 @@
 ---
 title: "Therefore, we deduce that the endodermis plays a crucial role for AGO as well as gravitropism in sho"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-plants9050615]]"

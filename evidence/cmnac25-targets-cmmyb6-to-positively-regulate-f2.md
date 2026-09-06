@@ -1,6 +1,6 @@
 ---
 title: "found that the reason for white appearance of ‘Jinba’ at the blooming stage was that the R3 MYB tran"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s12915-023-01719-7"
 species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CmMYB6, CmMYB, CmbHLH2]
+genes: [CmbHLH2, CmMYB6, CmMYB]
 compounds: [anthocyanin]
 ---
 

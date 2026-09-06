@@ -1,6 +1,6 @@
 ---
 title: "We found that the application of marker genes from Arabidopsis and other herbs is still limited in w"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-pbi-13891]]"

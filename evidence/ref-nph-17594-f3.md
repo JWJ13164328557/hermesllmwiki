@@ -1,6 +1,6 @@
 ---
 title: "Our data show that WIND1 transcriptionally activates over 2000 genes implicated in cellular reprogra"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nph-17594]]"

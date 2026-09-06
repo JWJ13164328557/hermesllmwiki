@@ -1,6 +1,6 @@
 ---
 title: "Applying bioinformatic approaches, we found further evidence for clear divergence (JSD) in the ident"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

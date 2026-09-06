@@ -1,6 +1,6 @@
 ---
 title: "Candidate target genes for ester biosynthesis Beyond the physiology studies, the molecular aspects u"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

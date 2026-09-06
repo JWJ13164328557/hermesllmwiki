@@ -1,6 +1,6 @@
 ---
 title: "Conclusion In conclusion, based on the transcriptomic and metabolomics tech­ nologies, we successful"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

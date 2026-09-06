@@ -1,6 +1,6 @@
 ---
 title: "Here we found that reactive oxygen species (ROS) are rapidly generated at the excision site as a wou"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

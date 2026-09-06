@@ -1,6 +1,6 @@
 ---
 title: "Notably, ADMIXTURE splits the Central and South American populations into two groups while fastSTRUC"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-genetics-114-164350]]"

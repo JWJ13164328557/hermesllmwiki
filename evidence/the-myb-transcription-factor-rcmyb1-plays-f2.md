@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that a key R2R3-MYB transcription factor, RcMYB1, plays a central role in ro"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

@@ -4,7 +4,8 @@ type: concept
 tags: [#genomics-evolution, papers]
 doi: 10.1093/hr/uhaf228
 confidence: medium
-aliases: ["泛基因组学和单细胞转录组学揭示了连续性的遗传基础"]
+aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases_extra: ["泛基因组学和单细胞转录组学揭示了连续性的遗传基础"]
 aliases_extra: ["Pangenomics and single-cell transcriptomics uncover the genetic basis of continu"]
 status: draft
 updated: "2026-05-29"

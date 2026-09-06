@@ -1,6 +1,6 @@
 ---
 title: "Centrinone has off-target effects on PLK1 at high concentrations; dose-response curves and orthogona"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [papers]
 source: "[[ms-10-65649_jlokccxi]]"

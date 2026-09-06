@@ -1,6 +1,6 @@
 ---
 title: "S1 at JXB online), it is possible that a certain auxin concentration is required to induce WOX11 exp"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

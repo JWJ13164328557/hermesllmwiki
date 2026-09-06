@@ -1,6 +1,6 @@
 ---
 title: "Identification of differentially expressed lncRNAs and target genes To identify DELs and differentia"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrating-gc-ms-and-ssrna-seq-analysis-to]]"

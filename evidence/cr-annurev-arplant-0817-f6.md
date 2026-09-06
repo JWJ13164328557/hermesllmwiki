@@ -1,6 +1,6 @@
 ---
 title: "In all cases, however, biological validation is required to ensure the predicted trajectories match "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[cr-annurev-arplant-0817]]"

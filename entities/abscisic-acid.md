@@ -1,6 +1,6 @@
 ---
 title: "abscisic acid"
-created: 2026-09-05
+created: 2026-09-06
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # abscisic acid
 
 ## Evidence Summary
-**Total evidence objects**: 15
+**Total evidence objects**: 16
 
 ## Evidence Table
 | Evidence | Finding |
@@ -22,8 +22,8 @@ tags: [metabolism, compound]
 | [[ms-10-1007_s44378-026-00276-z-f1]] | 2.4 Production of plant growth regulators (PGRs) PGPR have the ability to produc |
 | [[ms-10-1038_s41598-026-68020-9-f2]] | Abscisic acid (ABA) plays a central role in drought response by regulating stoma |
 | [[ms-10-1186_s12870-026-09091-8-f1]] | In response to drought, especially abscisic acid (ABA) is a key regulator as it  |
+| [[ms-10-1371_journal-pgen-1012295-f2]] | Through gene expression analysis and physiological experiments, we found that Os |
 | [[ms-10-14719_pst-15098-f4]] | Hormone signalling pathways Hormone signalling pathways play a central role in r |
-| [[red-and-blue-light-promote-tomato-f2]] | We show that both lights expedite the progress of skin coloration in tomato frui |
 
 ## Biosynthetic Pathway
 -

@@ -1,6 +1,6 @@
 ---
 title: "Notably, scATAC-seq has expanded the under- standing of distal ACRs – regions beyond the traditional"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nph-70220]]"

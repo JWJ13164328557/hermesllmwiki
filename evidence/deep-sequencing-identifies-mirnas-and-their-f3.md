@@ -1,6 +1,6 @@
 ---
 title: "Based on the degradome sequencing analysis of the combined leaf samples, 363 and 144 target unigenes"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

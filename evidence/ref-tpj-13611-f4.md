@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that the expression levels and APA proﬁles of the genes responsible for Pol "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

@@ -1,6 +1,6 @@
 ---
 title: "(2008) Proliferating cells express mRNAs with shortened 3′ untranslated regions and fewer microRNA t"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkz781]]"

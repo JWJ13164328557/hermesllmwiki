@@ -1,6 +1,6 @@
 ---
 title: "ARF1, a transcription factor that binds to auxin response elements."
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature05703]]"

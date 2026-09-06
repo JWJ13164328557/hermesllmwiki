@@ -1,6 +1,6 @@
 ---
 title: "We expect that this study can provide new insights for passion fruit breeding to improve fruit quali"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analyses-of]]"

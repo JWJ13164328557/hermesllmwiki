@@ -1,6 +1,6 @@
 ---
 title: "Here, we applied sin­ gle-cell mRNA sequencing (scRNA-seq) to muscle stem cells, and we found a subp"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nmeth-4437]]"

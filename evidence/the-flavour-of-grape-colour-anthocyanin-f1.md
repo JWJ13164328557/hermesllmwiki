@@ -1,6 +1,6 @@
 ---
 title: "Our findings show how fruit colour can condition other fruit features, such as flavour potential and"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"

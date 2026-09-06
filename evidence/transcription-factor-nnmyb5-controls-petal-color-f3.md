@@ -1,6 +1,6 @@
 ---
 title: "As a result, 62 and 48 genes were detected in the target regions, of which, NNU_03972 in the first i"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"

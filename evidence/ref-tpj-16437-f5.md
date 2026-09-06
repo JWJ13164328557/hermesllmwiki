@@ -1,6 +1,6 @@
 ---
 title: "Fur- thermore, as secondary metabolites in plant tissues can inﬂuence mRNA capture, these compounds "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-tpj-16437]]"

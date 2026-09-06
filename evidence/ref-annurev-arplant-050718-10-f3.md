@@ -1,6 +1,6 @@
 ---
 title: "Recently, the identification of the TARGET OF LBD SIXTEEN 2–RECEPTOR-LIKE KINASE7 (TOLS2-RLK7) pathw"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

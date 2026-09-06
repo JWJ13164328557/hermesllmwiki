@@ -1,6 +1,6 @@
 ---
 title: "Since the GRAS proteins interact with ERF115 and the tri­ ple GRAS mutant shows a regeneration pheno"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-koad028]]"

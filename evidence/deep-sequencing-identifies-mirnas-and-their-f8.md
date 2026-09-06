@@ -1,6 +1,6 @@
 ---
 title: "Numerous targets of miRNAs have been revealed by degradome sequencing in Arabidopsis (Addo-Quaye et "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[deep-sequencing-identifies-mirnas-and-their]]"

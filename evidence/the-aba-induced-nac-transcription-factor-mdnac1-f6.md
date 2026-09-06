@@ -1,6 +1,6 @@
 ---
 title: "The released SNRK2 phosphorylates ABA- responsive element (ABRE)-binding factors (ABFs), which bind "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"

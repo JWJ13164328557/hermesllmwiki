@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that ssDNA binding protein WHY1 directly recruits histone deacetylase HDA15 "
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

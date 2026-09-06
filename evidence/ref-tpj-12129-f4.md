@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that, even the not very stringent cut-off conditions used for the microarray a"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-tpj-12129]]"

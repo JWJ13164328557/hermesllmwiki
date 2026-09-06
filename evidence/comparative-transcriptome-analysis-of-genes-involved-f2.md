@@ -1,6 +1,6 @@
 ---
 title: "However, we found that the concentration of linalool decreased during the first four days and then i"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-analysis-of-genes-involved]]"

@@ -1,6 +1,6 @@
 ---
 title: "Collectively, Fv only spread above the RAM regions in the inoculated roots of both resistant (Qi319)"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-pbi-14097]]"

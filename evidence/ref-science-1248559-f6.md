@@ -1,6 +1,6 @@
 ---
 title: "This chimeric reporter was silenced because of the PRE-like activity, but when the LacI-GR was induc"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1248559]]"

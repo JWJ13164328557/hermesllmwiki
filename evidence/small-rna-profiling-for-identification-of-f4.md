@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that the AGL61 gene, targeted by miR7760-p3_1, showed higher expression in H"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"

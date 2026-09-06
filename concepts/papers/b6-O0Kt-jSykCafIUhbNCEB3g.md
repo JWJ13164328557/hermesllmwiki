@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1093/hr/uhaf293
 confidence: medium
-aliases: ["综合多组学分析揭示了光强的分子机制"]
+aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases_extra: ["综合多组学分析揭示了光强的分子机制"]
 aliases_extra: ["Integrated multiomics analysis reveals the molecular mechanism of light intensit"]
 status: draft
 updated: "2026-05-29"

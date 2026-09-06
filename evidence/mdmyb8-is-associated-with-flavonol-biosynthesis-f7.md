@@ -1,6 +1,6 @@
 ---
 title: "Notably, proteins related to JA signal transduction or responsiveness were not signiﬁcantly enriched"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"

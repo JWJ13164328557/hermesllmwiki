@@ -1,6 +1,6 @@
 ---
 title: "Our results reveal that CCA1 transcript abundance starts to oscillate in the root bend itself (Fig."
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

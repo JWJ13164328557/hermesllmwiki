@@ -4,7 +4,8 @@ type: concept
 tags: [#hormone-signaling, papers]
 doi: 10.1186/s42397-026-00264-2
 confidence: medium
-aliases: ["棉纤维发育的分子和激素调节：从单c"]
+aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases_extra: ["棉纤维发育的分子和激素调节：从单c"]
 aliases_extra: ["The molecular and hormonal regulation of cotton fiber development: from single-c"]
 status: draft
 updated: "2026-05-29"

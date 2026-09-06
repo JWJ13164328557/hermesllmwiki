@@ -1,6 +1,6 @@
 ---
 title: "Endodermally produced microRNA165/6 then acts to degrade its target mRNAs encoding class III homeodo"
-created: 2026-09-05
+created: 2026-09-06
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature08977]]"

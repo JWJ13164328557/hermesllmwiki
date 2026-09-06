@@ -1,6 +1,6 @@
 ---
 title: "flavonoid"
-created: 2026-09-05
+created: 2026-09-06
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
