@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that drought stress preferentially redi- rects carbon flux toward lignin bios"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

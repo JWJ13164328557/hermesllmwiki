@@ -1,6 +1,6 @@
 ---
 title: "T he circadian clock plays a key role in controlling plant growth and development."
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-ncomms8641]]"

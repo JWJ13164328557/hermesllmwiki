@@ -1,6 +1,6 @@
 ---
 title: "We found that the phloem parenchyma cells are enriched for various transporters, including sugar tra"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-G2N-JJNNVwoyPpAiZEWa8w]]"

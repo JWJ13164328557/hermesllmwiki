@@ -1,6 +1,6 @@
 ---
 title: "These are the GFP-positive targets of sorting."
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nmeth0805-615]]"

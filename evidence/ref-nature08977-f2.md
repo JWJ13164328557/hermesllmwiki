@@ -1,6 +1,6 @@
 ---
 title: "We show that this patterning occurs through crosstalk between the vascular cylinder and the surround"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature08977]]"

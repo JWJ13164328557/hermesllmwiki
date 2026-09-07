@@ -1,6 +1,6 @@
 ---
 title: "(2015) reported that CmbHLH2 binds to the promoter of CmDFR and increases the content of anthocyanin"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-transcriptomics-and-metabolomics-uncover-the]]"

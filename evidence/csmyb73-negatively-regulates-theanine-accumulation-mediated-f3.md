@@ -1,6 +1,6 @@
 ---
 title: "CsMYB73 targets and differentially regulates the promoters of CsGGT2 and CsGGT4 In general, MYBRs pr"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"

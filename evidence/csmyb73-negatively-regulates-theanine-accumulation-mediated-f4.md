@@ -1,6 +1,6 @@
 ---
 title: "To understand how CsGGT2 and CsGGT4 were transcriptionally regulated, we explored the potential for "
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"

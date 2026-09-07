@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we discovered that the expression of VvMYBA1 and its target gene VvUFGT was also up-r"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

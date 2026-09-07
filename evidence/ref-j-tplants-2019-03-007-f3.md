@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, iron accumulation is not observed during the infection of rice by a virulent or compa"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-tplants-2019-03-007]]"

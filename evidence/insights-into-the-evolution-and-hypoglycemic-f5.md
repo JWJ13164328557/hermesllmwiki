@@ -1,6 +1,6 @@
 ---
 title: "The ceRNA network was constructed based on the miRNA-target relationship (miRNAs>5, P-value<0.05, FD"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[insights-into-the-evolution-and-hypoglycemic]]"

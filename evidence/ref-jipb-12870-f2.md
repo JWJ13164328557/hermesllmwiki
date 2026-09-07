@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our results reveal an important role of ROS as a wound‐induced signal during the induc"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

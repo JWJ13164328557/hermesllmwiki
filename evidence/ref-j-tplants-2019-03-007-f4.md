@@ -1,6 +1,6 @@
 ---
 title: "6 483 analysis is necessary for better character- ization of such multifunctional signaling molecule"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-j-tplants-2019-03-007]]"

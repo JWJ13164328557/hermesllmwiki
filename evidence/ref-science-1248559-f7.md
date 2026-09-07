@@ -1,6 +1,6 @@
 ---
 title: "The transient as- say in the leaf protoplasts revealed the specific induction of the endogenous KNU,"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1248559]]"

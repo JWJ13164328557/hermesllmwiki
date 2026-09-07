@@ -1,6 +1,6 @@
 ---
 title: "KNU Upstream Regions Contain a Polycomb Response Element PcG proteins are recruited to a specific si"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1248559]]"

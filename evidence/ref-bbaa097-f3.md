@@ -1,6 +1,6 @@
 ---
 title: "These results suggest improved batch effect correction by SMNN, compared with unsupervised correctio"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

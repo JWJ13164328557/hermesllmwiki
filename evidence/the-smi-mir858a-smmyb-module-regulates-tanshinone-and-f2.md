@@ -1,6 +1,6 @@
 ---
 title: "We found that both of them could activate the expression of SmKSL1, SmCPS1, SmPAL1, and SmTAT1, of w"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae047"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmKSL1, SmPAL1, SmCPS1, SmTAT1]
+genes: [SmTAT1, SmPAL1, SmKSL1, SmCPS1]
 compounds: [tanshinone, phenolic]
 ---
 

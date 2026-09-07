@@ -1,6 +1,6 @@
 ---
 title: "We found that the plant height, DBH, leaf fresh and dry weights, and leaf area of ginkgo grown at HA"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"

@@ -1,6 +1,6 @@
 ---
 title: "inability to bind to the pro-CsGGT2 and pro-CsGGT4 sequences, whereas MBP-CsMYB73 displayed specific"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"

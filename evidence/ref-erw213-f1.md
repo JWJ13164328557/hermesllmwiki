@@ -1,6 +1,6 @@
 ---
 title: "In this study, we show that YUC-mediated de novo synthesis of auxin is enhanced after detachment of "
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

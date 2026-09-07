@@ -1,6 +1,6 @@
 ---
 title: "To determine whether CsMYB73 directly binds to the promoters of CsGGT2 and CsGGT4, recombinant prote"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"

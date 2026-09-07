@@ -1,6 +1,6 @@
 ---
 title: "flavescens during cultivation, which can provide a clue for identifying candidate genes as promising"
-created: 2026-09-06
+created: 2026-09-07
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"
