@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that the absence of ﬂavo- noids in tt5 has a temporal quantitative effect on t"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-tpj-12129]]"

@@ -1,6 +1,6 @@
 ---
 title: "Therefore, we conclude that FvePhyB is indeed the causal gene for P8 according to this complementati"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"

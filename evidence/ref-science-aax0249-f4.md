@@ -1,6 +1,6 @@
 ---
 title: "In summary, we have shown that the num- ber of expressed genes per cell is a hallmark of development"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aax0249]]"

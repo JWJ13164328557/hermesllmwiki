@@ -1,6 +1,6 @@
 ---
 title: "This parameter is critical for defining coexpression networks."
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1073-pnas]]"

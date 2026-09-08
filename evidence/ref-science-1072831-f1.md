@@ -1,6 +1,6 @@
 ---
 title: "Further studies are required to determine whether COP1 directly regulates CIP4 and/or CIP7 levels."
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1072831]]"

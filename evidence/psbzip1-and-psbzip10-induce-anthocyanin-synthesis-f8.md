@@ -1,6 +1,6 @@
 ---
 title: "(2022) have found that MdERF78 directly bind to the promoters of MdF3H and MdANS and activated their"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

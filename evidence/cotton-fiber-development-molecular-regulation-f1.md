@@ -1,6 +1,6 @@
 ---
 title: "DNA Affinity Purification Sequencing (DAP-seq) analy- sis revealed that GhSBP1 binds to the GTAC mot"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"
@@ -8,7 +8,7 @@ doi: "10.1186/s42397-026-00264-2"
 species: [Gossypium hirsutum, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GhEzrA, GhSH3P2, GhNRT1, GhSBP1]
+genes: [GhNRT1, GhSH3P2, GhSBP1, GhEzrA]
 compounds: []
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "The banana fruit Dof transcription factor MaDof23 acts as a repressor and interacts with MaERF9 in r"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

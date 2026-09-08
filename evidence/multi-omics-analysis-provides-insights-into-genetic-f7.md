@@ -1,6 +1,6 @@
 ---
 title: "Therefore, the selection of allele corresponding to high target flavonoid will be of great importanc"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"

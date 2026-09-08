@@ -1,6 +1,6 @@
 ---
 title: "By constructing lncRNA–PCgene regu­ latory networks, we found that 3 of the 35 DEGs may be cis-regul"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-and-characterization-of-long-non-coding]]"

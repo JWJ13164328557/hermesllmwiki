@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our study paves the way for molecular biology study and serves as a genetic resource"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"

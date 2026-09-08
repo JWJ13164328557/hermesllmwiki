@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1111/pbi.70687
 confidence: medium
-aliases: ["喜树碱B的细胞特异性表达和细胞区室调节"]
+aliases: ["Cell-Specific 表达 和 Cellular Compartmental 调控 中 Camptothecin B"]
+aliases_extra: ["喜树碱B的细胞特异性表达和细胞区室调节"]
 aliases_extra: ["Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin B"]
 status: draft
 updated: "2026-05-29"

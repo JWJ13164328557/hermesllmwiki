@@ -1,6 +1,6 @@
 ---
 title: "We report here the isolation and character- ization of a novel Arabidopsis mutant defective in forma"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

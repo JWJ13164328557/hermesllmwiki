@@ -1,6 +1,6 @@
 ---
 title: "VvWRKY5 directly interacts with VvMYBA1 WRKY-MYB module plays a crucial role in anthocyanin synthesi"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

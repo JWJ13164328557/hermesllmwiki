@@ -1,6 +1,6 @@
 ---
 title: "DNA methylation also plays a critical role in regulating plant development."
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

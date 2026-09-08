@@ -1,6 +1,7 @@
 title: Single-cell network analysis reveals gene expression programs for Arabidopsis ep
 tags: [#developmental-biology, papers]
-aliases: ["单细胞网络分析揭示拟南芥ep的基因表达程序"]
+aliases: ["Single-cell 网络 分析 揭示 gene 表达 programs Arabidopsis ep"]
+aliases_extra: ["单细胞网络分析揭示拟南芥ep的基因表达程序"]
 type: paper
 status: draft
 updated: "2026-05-29"

@@ -1,6 +1,6 @@
 ---
 title: "Here, we show the complementary and overlapping roles of SQUAMOSA and SVP genes in the early reprodu"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

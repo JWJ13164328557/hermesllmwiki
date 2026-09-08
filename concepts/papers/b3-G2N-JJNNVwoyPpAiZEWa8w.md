@@ -5,7 +5,8 @@ tags: [#single-cell-spatial, papers]
 doi: 10.1093/plcell/koaa060
 pmid: "33955487"
 confidence: medium
-aliases: ["单细胞转录组学揭示的叶韧皮部细胞的独特身份"]
+aliases: ["Distinct identities 的 leaf phloem cells revealed by single cell transcriptomics"]
+aliases_extra: ["单细胞转录组学揭示的叶韧皮部细胞的独特身份"]
 aliases_extra: ["Distinct identities of leaf phloem cells revealed by single cell transcriptomics"]
 status: draft
 updated: "2026-05-29"

@@ -1,6 +1,6 @@
 ---
 title: "Moreover, this study provides a better understanding of ginsenoside distribution in different medica"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ginsenosides-accumulation-and-related-genes-expression]]"

@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1111/nph.71137
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases: ["Guard cell photorespiration 控制 stomata behavior 和 发育."]
+aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 00 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
 aliases_extra: ["保护细胞光呼吸控制气孔行为和发育。"]
 aliases_extra: ["Guard cell photorespiration controls stomata behavior and development."]
 status: draft

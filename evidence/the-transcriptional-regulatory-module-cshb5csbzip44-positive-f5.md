@@ -1,6 +1,6 @@
 ---
 title: "CsbZIP44 directly binds to the promoters of four carotenoid metabolism-related genes (CsDXR, CsGGPPs"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14219"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Malus domestica]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CsGGPPs, CsBCH1, CsbZIP44, CsDXR, CsNCED2]
+genes: [CsDXR, CsBCH1, CsGGPPs, CsNCED2, CsbZIP44]
 compounds: [carotenoid]
 ---
 

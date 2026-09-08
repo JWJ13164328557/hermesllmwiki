@@ -1,6 +1,6 @@
 ---
 title: "Indeed, a steep auxin-signaling gradient with its peak on the quiescent center is required to mainta"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-050718-10]]"

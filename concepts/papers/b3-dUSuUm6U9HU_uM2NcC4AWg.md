@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1111/pbi.70534
 confidence: medium
-aliases: ["质谱成像结合单细胞转录谱分析"]
+aliases: ["Mass Spectrometry Imaging Combined Single-Cell Transcriptional 分析 Re"]
+aliases_extra: ["质谱成像结合单细胞转录谱分析"]
 aliases_extra: ["Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Re"]
 status: draft
 updated: "2026-05-29"

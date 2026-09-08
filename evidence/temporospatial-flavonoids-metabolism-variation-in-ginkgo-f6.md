@@ -1,6 +1,6 @@
 ---
 title: "Additionally, we found two genes encoding UGT (Gb_24439 and Gb_26148) whose expression was signiﬁcan"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[temporospatial-flavonoids-metabolism-variation-in-ginkgo]]"

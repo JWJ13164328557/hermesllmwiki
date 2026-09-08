@@ -1,6 +1,6 @@
 ---
 title: "The ordering in ‘‘pseudotime’’ identiﬁed genes with switch-like behavior that are crucial for muscle"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2015-04-005]]"

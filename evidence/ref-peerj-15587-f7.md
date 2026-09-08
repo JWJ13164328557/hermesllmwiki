@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the leaf area of cotton decreased earlier than that of photosynthesis under low potas"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-peerj-15587]]"

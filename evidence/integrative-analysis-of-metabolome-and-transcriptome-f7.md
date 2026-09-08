@@ -1,6 +1,6 @@
 ---
 title: "Therefore, it is important to set a reasonable salt treatment intensity, which could induce the accu"
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrative-analysis-of-metabolome-and-transcriptome]]"

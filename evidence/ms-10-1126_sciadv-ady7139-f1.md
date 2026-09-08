@@ -1,6 +1,6 @@
 ---
 title: "Here, in this study, we show that photosynthesis and aboveground growth occur asynchronously across "
-created: 2026-09-07
+created: 2026-09-08
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-ady7139]]"
