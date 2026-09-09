@@ -1,6 +1,6 @@
 ---
 title: "When several crRNAs qualify, also weigh: • highest predicted on-target cut efficiency • lowest predi"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [papers]
 source: "[[ms-10-17504_protocols-io-rm7vzw87xvx1_v1]]"

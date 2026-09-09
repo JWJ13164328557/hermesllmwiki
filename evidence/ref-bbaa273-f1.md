@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that scAPAtrap detects much more poly(A) sites with higher confidence and loca"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-bbaa273]]"

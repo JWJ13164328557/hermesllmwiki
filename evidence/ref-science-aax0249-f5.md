@@ -1,6 +1,6 @@
 ---
 title: "Notably, this relationship was also observed in other organisms, including Caenorhabditis elegans (F"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-aax0249]]"

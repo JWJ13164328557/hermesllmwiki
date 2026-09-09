@@ -1,6 +1,6 @@
 ---
 title: "Accord­ ingly, individual overexpression of GME resulted in little or even no ASA increase, indicati"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-role-of-light-intensity-in]]"

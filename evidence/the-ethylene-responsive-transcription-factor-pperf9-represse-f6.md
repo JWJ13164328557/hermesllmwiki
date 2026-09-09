@@ -1,6 +1,6 @@
 ---
 title: "(ii) PpERF9 directly inhibits PpMYB114 expression by binding to its promoter, thereby repressing ant"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"

@@ -1,6 +1,6 @@
 ---
 title: "Our study provides new insights into flavonoid biosynthesis and potential targets for molecular bree"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-profiling-reveals-differentially-e]]"

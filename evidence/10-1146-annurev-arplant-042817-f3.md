@@ -1,6 +1,6 @@
 ---
 title: "More in-depth studies found that WUS directly regulates additional cytokinin- and auxin-related gene"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

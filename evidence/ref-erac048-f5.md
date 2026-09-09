@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, using similar germplasm, Zhang et al."
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-erac048]]"

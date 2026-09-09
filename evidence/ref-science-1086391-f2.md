@@ -1,6 +1,6 @@
 ---
 title: "We found preferred sites of T-DNA integration or “hot spots,” as well as “cold spots” [Fig."
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-science-1086391]]"

@@ -1,6 +1,6 @@
 ---
 title: "Conclusions In summary, using GC-MS the present study indicated the role of the four main esters (me"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-co-expression-network-analysis-identifies-key]]"

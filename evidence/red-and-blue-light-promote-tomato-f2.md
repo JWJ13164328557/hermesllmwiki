@@ -1,6 +1,6 @@
 ---
 title: "We show that both lights expedite the progress of skin coloration in tomato fruit by promoting chlor"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[red-and-blue-light-promote-tomato]]"
@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Citrus spp., Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [abscisic acid, chlorophyll, carotenoid, ethylene]
+compounds: [ethylene, abscisic acid, chlorophyll, carotenoid]
 ---
 
 # We show that both lights expedite the progress of skin coloration in tomato fruit by promoting chlor

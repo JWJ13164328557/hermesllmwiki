@@ -4,7 +4,8 @@ type: concept
 tags: [#metabolism-np, papers]
 doi: 10.1111/nph.71235
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+aliases: ["MYC2-MYB113 模块 governs JA signaling regulate anthocyanin 积累"]
+aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
 aliases_extra: ["MYC2-MYB113模块控制JA信号传导以调节花青素积累"]
 aliases_extra: ["The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation"]
 status: draft

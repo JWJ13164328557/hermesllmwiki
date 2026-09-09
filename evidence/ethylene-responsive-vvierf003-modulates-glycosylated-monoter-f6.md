@@ -1,6 +1,6 @@
 ---
 title: "VviERF003 binds to the promoter of VviGT14 and activates the expression of VviGT14."
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"

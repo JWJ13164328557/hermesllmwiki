@@ -1,6 +1,6 @@
 ---
 title: "Taken together, the chemical and genetics approaches used here resulted in identiﬁca- tion of unknow"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-tpj-12129]]"

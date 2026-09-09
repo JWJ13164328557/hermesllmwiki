@@ -1,6 +1,6 @@
 ---
 title: "Relative to BMMCs from two healthy controls, we found the median number of UMI counts per cell to be"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-ncomms14049]]"

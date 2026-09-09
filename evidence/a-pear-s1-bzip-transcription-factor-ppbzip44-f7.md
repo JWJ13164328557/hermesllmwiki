@@ -1,6 +1,6 @@
 ---
 title: "The overexpression of PpbZIP44 also strongly increased other dihydro flavones such as hesperetin-7-O"
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"

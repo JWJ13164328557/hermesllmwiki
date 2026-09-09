@@ -1,6 +1,6 @@
 ---
 title: "Notably, the overexpression of MdNAC1 also resulted in increased MdANS, MdDFR, and MdF3H expression "
-created: 2026-09-08
+created: 2026-09-09
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"
