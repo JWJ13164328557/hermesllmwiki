@@ -1,6 +1,6 @@
 ---
 title: "Only the k-mer length and the mean of the fragment length distribution are required for quantificati"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nbt-3519]]"

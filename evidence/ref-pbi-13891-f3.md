@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, eight differently expressed genes were found to co-exist at four branch points."
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-pbi-13891]]"

@@ -1,6 +1,6 @@
 ---
 title: "We found that U usage was much higher than the other three nucleotides in esp5 in contrast to previo"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, we found that RcMYB1 regulates the biosynthesis of carotenoids and aromatic volatiles"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

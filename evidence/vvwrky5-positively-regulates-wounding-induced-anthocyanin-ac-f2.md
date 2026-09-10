@@ -1,6 +1,6 @@
 ---
 title: "We found that VvWRKY5 can interact with VvMYBA1 to enhance VvMYBA1’s activation of VvUFGT promoter, "
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

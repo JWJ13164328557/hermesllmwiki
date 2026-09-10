@@ -1,6 +1,6 @@
 ---
 title: "On the basis of these criteria, we found a can- didate polypeptide family with a C-terminal con- Gra"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1191132]]"

@@ -1,6 +1,6 @@
 ---
 title: "auxin"
-created: 2026-09-09
+created: 2026-09-10
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # auxin
 
 ## Evidence Summary
-**Total evidence objects**: 127
+**Total evidence objects**: 128
 
 ## Evidence Table
 | Evidence | Finding |

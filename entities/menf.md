@@ -1,6 +1,6 @@
 ---
 title: "MeNF"
-created: 2026-09-09
+created: 2026-09-10
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

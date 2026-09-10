@@ -1,6 +1,6 @@
 ---
 title: "The direct targets of PLT proteins are still unknown."
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-042811-10]]"

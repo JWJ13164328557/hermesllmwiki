@@ -1,6 +1,6 @@
 ---
 title: "In summary, MePP2C1-MeNF-YC15 interaction modulates ethylene biosynthesis and cassava disease resist"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"

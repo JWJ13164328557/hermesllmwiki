@@ -1,6 +1,6 @@
 ---
 title: "Identification and target gene prediction of miRNAs Clean small RNA reads were obtained after discar"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[new-insights-into-aroma-regulation-in]]"

@@ -1,6 +1,6 @@
 ---
 title: "Additionally, CsMYB73 was confirmed to act as a nucleus-localized transcription factor (TF), directl"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae012"
 species: [Nicotiana tabacum, Citrus spp., Camellia sinensis]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CsGGT2, CsGGT4, CsMYB73]
+genes: [CsMYB73, CsGGT2, CsGGT4]
 compounds: []
 ---
 

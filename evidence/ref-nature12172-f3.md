@@ -1,6 +1,6 @@
 ---
 title: "We found substantial expression variability in overall Irf7 levels between individual cells (as refl"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nature12172]]"

@@ -1,6 +1,6 @@
 ---
 title: "However, tissue dissociation is necessary to isolate single cells from their original spatial contex"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-qzae026]]"

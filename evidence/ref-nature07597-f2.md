@@ -1,6 +1,6 @@
 ---
 title: "These results show that stem cell-like properties that mediate complete organ regeneration are dispe"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature07597]]"

@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that AG binds to the upstream region of KNU in a competitive manner with PcG p"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1248559]]"

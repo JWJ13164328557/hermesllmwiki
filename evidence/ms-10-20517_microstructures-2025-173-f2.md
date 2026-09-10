@@ -1,6 +1,6 @@
 ---
 title: "However, its clinical translation faces significant challenges, including limited delivery efficienc"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [papers]
 source: "[[ms-10-20517_microstructures-2025-173]]"

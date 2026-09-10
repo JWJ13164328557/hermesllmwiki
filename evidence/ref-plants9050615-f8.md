@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, directional growth against gravity was eliminated by adding the pgm mutation in lzy2;"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-plants9050615]]"

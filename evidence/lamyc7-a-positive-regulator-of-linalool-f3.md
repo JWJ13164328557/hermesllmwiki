@@ -1,6 +1,6 @@
 ---
 title: "Thus, TFs are considered the best targets for pathway engineering [28]."
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[lamyc7-a-positive-regulator-of-linalool]]"

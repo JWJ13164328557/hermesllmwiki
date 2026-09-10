@@ -1,6 +1,6 @@
 ---
 title: "In summary, research focused on the identification of lipid biosynthe- sis-related genes in yellowho"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[small-rna-profiling-for-identification-of]]"

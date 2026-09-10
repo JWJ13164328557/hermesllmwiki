@@ -1,6 +1,6 @@
 ---
 title: "Remarkably, the DEGs identified in any of the cultivars and tissues overlapping with the specific he"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"
@@ -8,7 +8,7 @@ doi: "10.1093/jxb/erad223"
 species: [Vitis vinifera, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [InDel, VvMYBA8, VviMYBA1, VviMYBA2]
+genes: [VvMYBA8, VviMYBA1, InDel, VviMYBA2]
 compounds: [phenylpropanoid]
 ---
 

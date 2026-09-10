@@ -1,6 +1,6 @@
 ---
 title: "We found that the contents of total ﬂavonoid and anthocyanin in young leaves (YL), mature leaves (ML"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integrated-metabolomic-and-transcriptomic-analysis-reveals]]"

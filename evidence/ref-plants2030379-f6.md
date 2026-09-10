@@ -1,6 +1,6 @@
 ---
 title: "OsMADS16 interacts with OsMADS3 and OsMADS58 in specifying floral patterning in rice."
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"

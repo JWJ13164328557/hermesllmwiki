@@ -1,6 +1,6 @@
 ---
 title: "Together, these results suggest that the OC promotes stem cell fate in its apical neighbors but repr"
-created: 2026-09-09
+created: 2026-09-10
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-arplant-042811-10]]"
