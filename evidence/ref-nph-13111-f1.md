@@ -1,6 +1,6 @@
 ---
 title: "Synthesizing 87 observations of whole-plant phenol- ogy from 40 studies, we found that, on average, "
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-13111]]"

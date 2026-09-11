@@ -1,6 +1,6 @@
 ---
 title: "In a parallel article in this issue, we show that maize homologs of these sugar and amino acid trans"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-G2N-JJNNVwoyPpAiZEWa8w]]"

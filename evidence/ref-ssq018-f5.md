@@ -1,6 +1,6 @@
 ---
 title: "This in vitro activity is con- ﬁrmed by chromatin immunoprecipitation analysis of gcn5 mutants on ta"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

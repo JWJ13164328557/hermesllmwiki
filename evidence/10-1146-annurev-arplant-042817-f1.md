@@ -1,6 +1,6 @@
 ---
 title: "Indeed, energy supply in the form of sucrose and perception of light signals from outside of the sho"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[10-1146-annurev-arplant-042817]]"

@@ -1,6 +1,6 @@
 ---
 title: "The discovery and description of more bryophyte fossils from the middle Paleozoic is necessary to un"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-science-1142618]]"

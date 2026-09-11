@@ -1,6 +1,6 @@
 ---
 title: "Red arrow shows the target interval related to petal color."
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"

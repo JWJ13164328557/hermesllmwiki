@@ -1,6 +1,6 @@
 ---
 title: "sucrose"
-created: 2026-09-10
+created: 2026-09-11
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # sucrose
 
 ## Evidence Summary
-**Total evidence objects**: 13
+**Total evidence objects**: 14
 
 ## Evidence Table
 | Evidence | Finding |
@@ -23,7 +23,7 @@ tags: [metabolism, compound]
 | [[ms-10-1038_s41598-026-54565-2-f2]] | It has been reported that K acts as a key role in the transport of photosyntheti |
 | [[ms-10-1038_s41598-026-69041-0-f6]] | We found that in general there is a preference for sucrose water over regular wa |
 | [[ms-10-1186_s42397-026-00265-1-f2]] | For instance, a recent study found that the SWI/SFN (Switch/Sucrose Non-Ferment- |
-| [[ref-pnas-250473797-f1]] | In this paper, we report the use of a reverse genetic approach to test the in pl |
+| [[ms-10-14719_pst-13939-f2]] | To integrate root-to-shoot communication this binding inhibits protein phosphata |
 
 ## Biosynthetic Pathway
 -

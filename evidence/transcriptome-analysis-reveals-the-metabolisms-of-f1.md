@@ -1,6 +1,6 @@
 ---
 title: "These findings might provide in­ sights into the molecular basis of alcoholic off-flavour developmen"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcriptome-analysis-reveals-the-metabolisms-of]]"

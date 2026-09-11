@@ -1,6 +1,6 @@
 ---
 title: "As we discuss in more detail later, we found that ε = 0.026 best matched the ground truth in terms o"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pcbi-1009466]]"

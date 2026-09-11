@@ -1,6 +1,6 @@
 ---
 title: "QC-specific NMD target genes were significantly enriched in fundamental pathways such as nucleotide "
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[b3-yRRSlByPuOxXKvXBl0_LZg]]"

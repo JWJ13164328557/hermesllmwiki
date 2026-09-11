@@ -1,6 +1,6 @@
 ---
 title: "E-mail: xianli@zju.edu.cn Abstract Flavonols are a class of flavonoids that play a crucial role in r"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[transcriptional-regulation-of-flavonol-biosynthesis-in]]"

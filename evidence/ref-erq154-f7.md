@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of HD2C, a HD2-type histone deacetylase, resulted in a higher germination rate and lo"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erq154]]"

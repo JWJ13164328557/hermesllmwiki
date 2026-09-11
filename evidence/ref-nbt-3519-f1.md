@@ -1,6 +1,6 @@
 ---
 title: "For each simulation, we report the accuracy as the median relative difference in the estimated read "
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nbt-3519]]"

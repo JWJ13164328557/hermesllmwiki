@@ -1,6 +1,6 @@
 ---
 title: "Both ENAP1 and ENAP2 interact with MYB44, a transcription factor that interacts with histone deacety"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

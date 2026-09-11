@@ -1,6 +1,6 @@
 ---
 title: "Here, we report that a novel HEAT-repeat protein, SHOOT GRAVITROPISM6 (SGR6), of Arabidopsis is invo"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pcu020]]"

@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, analysis of the OsMADS15 mutant degenerative palea (dep) indicated that OsMADS15 play"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-plants2030379]]"

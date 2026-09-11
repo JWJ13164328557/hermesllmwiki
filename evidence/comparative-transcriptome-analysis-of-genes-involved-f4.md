@@ -1,6 +1,6 @@
 ---
 title: "Notably, 1631, 2544, and 443 DEGs both exist in D0 vs D4 and D0 vs D8, D0 vs D4 and D4 vs D8, and D0"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[comparative-transcriptome-analysis-of-genes-involved]]"

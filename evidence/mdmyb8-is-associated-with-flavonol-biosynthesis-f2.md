@@ -1,6 +1,6 @@
 ---
 title: "Our results suggest that MdMYB8 is involved in ﬂavonoid biosynthesis (Figs."
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"

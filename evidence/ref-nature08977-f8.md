@@ -1,6 +1,6 @@
 ---
 title: "Taken together, our data indicate that SHR activates transcription of MIR165a and 166b in the endode"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature08977]]"

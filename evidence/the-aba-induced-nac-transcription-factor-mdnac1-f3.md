@@ -1,6 +1,6 @@
 ---
 title: "Notably, the overexpression of MdNAC1 also resulted in increased MdANS, MdDFR, and MdF3H expression "
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad049"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [MdANS, MdNAC1, MdF3H, MdDFR]
+genes: [MdF3H, MdANS, MdNAC1, MdDFR]
 compounds: []
 ---
 

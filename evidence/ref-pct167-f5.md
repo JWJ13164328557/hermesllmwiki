@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, expression of VvNPF3.2pro:GUS in E."
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pct167]]"

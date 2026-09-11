@@ -1,6 +1,6 @@
 ---
 title: "The TCP family protein GhTCP4 plays a critical role in the transition from elongation to SCW synthes"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"

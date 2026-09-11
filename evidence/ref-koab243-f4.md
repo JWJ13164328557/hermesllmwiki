@@ -1,6 +1,6 @@
 ---
 title: "Here we show that another group of developmental genes of the SVP family contributes to spikelet num"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-koab243]]"

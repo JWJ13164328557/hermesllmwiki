@@ -1,6 +1,6 @@
 ---
 title: "The existence of perfect or near- perfect complementarity between miRNAs and their targets is critic"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"

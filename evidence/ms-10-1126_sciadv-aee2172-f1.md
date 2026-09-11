@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these find- ings uncover a regulatory module for lignin metabolites, PtoCPK3-­ ERF72-­"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

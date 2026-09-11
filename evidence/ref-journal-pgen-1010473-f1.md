@@ -1,6 +1,6 @@
 ---
 title: "We found that the ENAP1 binding was reduced in the absence of MYB44 (S6B–S6D Fig), suggesting that M"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

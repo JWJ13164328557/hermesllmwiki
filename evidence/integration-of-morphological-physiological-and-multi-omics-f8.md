@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that flavonoid biosynthetic pathways may be activated in moderate planting den"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"

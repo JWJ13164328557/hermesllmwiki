@@ -1,6 +1,6 @@
 ---
 title: "PpbZIP44"
-created: 2026-09-10
+created: 2026-09-11
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

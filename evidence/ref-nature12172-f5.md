@@ -1,6 +1,6 @@
 ---
 title: "In these cells, we found markedly reduced expression for both Stat2 and Irf7, as well as all other m"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[ref-nature12172]]"

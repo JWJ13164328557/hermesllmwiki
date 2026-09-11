@@ -1,6 +1,6 @@
 ---
 title: "MeNF-YC15 directly regulates MeACO1 expression Consistent with RNA-sequencing data, MeNF-YC15 positi"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"

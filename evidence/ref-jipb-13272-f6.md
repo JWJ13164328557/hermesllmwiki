@@ -1,6 +1,6 @@
 ---
 title: "By comparing genes with signiﬁcantly changed H3K9ac levels in the why1, hda15, why1hda15 mutants, we"
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

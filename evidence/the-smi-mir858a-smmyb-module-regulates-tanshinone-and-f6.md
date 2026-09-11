@@ -1,6 +1,6 @@
 ---
 title: "We first predicted the targets of Smi-miR858a on the online web servers TAPIR and psRNAtarget using "
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"

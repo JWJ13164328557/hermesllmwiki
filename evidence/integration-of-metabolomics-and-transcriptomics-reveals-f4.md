@@ -1,6 +1,6 @@
 ---
 title: "To date, pesticides play a critical role in controlling pests and increasing crop yields worldwide."
-created: 2026-09-10
+created: 2026-09-11
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"
