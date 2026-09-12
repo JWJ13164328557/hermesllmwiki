@@ -1,6 +1,6 @@
 ---
 title: "This study provides evidence of a mesophyll-derived positive regulator of stomatal density."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

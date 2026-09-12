@@ -1,6 +1,6 @@
 ---
 title: "Further research is required to determine the role these genes play during the biosynthesis of speci"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[combined-analysis-of-the-metabolome-and]]"

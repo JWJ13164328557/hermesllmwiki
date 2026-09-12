@@ -1,6 +1,6 @@
 ---
 title: "Previously, we found that CsGGT2 functions as a photosensi- tive enzyme to degrade theanine in tea p"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[csmyb73-negatively-regulates-theanine-accumulation-mediated]]"

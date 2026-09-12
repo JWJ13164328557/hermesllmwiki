@@ -1,6 +1,6 @@
 ---
 title: "Notably, the abundance of MKI67+ CM-­progenitor–like cells de- clined markedly across fetal developm"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aeg2614]]"

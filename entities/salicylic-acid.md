@@ -1,6 +1,6 @@
 ---
 title: "salicylic acid"
-created: 2026-09-08
+created: 2026-09-12
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # salicylic acid
 
 ## Evidence Summary
-**Total evidence objects**: 10
+**Total evidence objects**: 11
 
 ## Evidence Table
 | Evidence | Finding |
@@ -23,7 +23,7 @@ tags: [metabolism, compound]
 | [[ms-10-3389_fpls-2026-1815183-f1]] | The signaling molecule jasmonate plays a central role in this process, and studi |
 | [[ms-10-3390_ijms27125408-f1]] | Because mutations in MED18 and MED20 result in downregulation of jasmonate-assoc |
 | [[ms-10-70737_8avhs053-f8]] | 42 Salicylic Acid (SA) Positive Part of ABA-independent pathways; interacts with |
-| [[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic-f5]] | Overall, our results reveal the molecular mechanism of salicylic acid regulating |
+| [[ms-10-7759_s44497-026-00268-5-f1]] | Our results confirm that PGRs like salicylic acid and cytokinins enhance the enz |
 
 ## Biosynthetic Pathway
 -

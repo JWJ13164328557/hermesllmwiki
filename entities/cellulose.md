@@ -1,6 +1,6 @@
 ---
 title: "cellulose"
-created: 2026-09-11
+created: 2026-09-12
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # cellulose
 
 ## Evidence Summary
-**Total evidence objects**: 13
+**Total evidence objects**: 14
 
 ## Evidence Table
 | Evidence | Finding |
@@ -21,9 +21,9 @@ tags: [metabolism, compound]
 | [[ms-10-1038_s41467-026-74052-6-f2]] | Collectively, these findings highlight the critical importance of the complex, m |
 | [[ms-10-1038_s41467-026-74052-6-f4]] | In summary, we have developed a bioinspired nano-orientation strategy enabling t |
 | [[ms-10-1038_s41467-026-74052-6-f7]] | Together, these experimental findings strongly validate that precise nano-orient |
+| [[ms-10-1038_s41467-026-77548-3-f5]] | To determine whether DPML@OVA-CpGs could effec- tively target the PPs, we fabric |
 | [[ms-10-1038_s41598-026-56477-7-f6]] | While animal extracellular matrix is composed of fibrous proteins that serve as  |
 | [[ref-ijms20174211-f5]] | Carbohydrates and Role of Lignin Biosynthesis Lignin and cellulose contents are  |
-| [[ref-pnas-1507691112-f8]] | Although both of these dyes stain cell walls, PI primarily interacts with lignin |
 
 ## Biosynthetic Pathway
 -

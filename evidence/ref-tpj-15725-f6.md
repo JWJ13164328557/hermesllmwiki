@@ -1,6 +1,6 @@
 ---
 title: "In our data, we found that almost 67% of circadian genes were DRGs (Figure S6)."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-15725]]"

@@ -1,6 +1,6 @@
 ---
 title: "However, the perturbation of only one target is sufficient for NB-LRR activation."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

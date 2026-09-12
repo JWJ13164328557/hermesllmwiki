@@ -1,6 +1,6 @@
 ---
 title: "For instance, although not at the single-cell resolution, proximity labelling can label proteins in "
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nph-70220]]"

@@ -1,6 +1,6 @@
 ---
 title: "This ‘guard hypothesis’ implies that R proteins indirectly recognize pathogen effectors by monitorin"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature05286]]"

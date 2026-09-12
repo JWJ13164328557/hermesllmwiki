@@ -1,6 +1,6 @@
 ---
 title: "BCV is therefore likely to be the dominant source of uncertainty for high-count genes, so reliable e"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-gks042]]"

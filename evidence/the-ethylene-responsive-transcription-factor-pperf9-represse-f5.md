@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results indicate that ethylene inhibits anthocyanin biosynthesis by a mechanism "
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"
@@ -8,8 +8,8 @@ doi: "10.1093/plcell/koad077"
 species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PpERF9, PpMYB114, PpRAP2, PpTPL1]
-compounds: [anthocyanin, ethylene]
+genes: [PpERF9, PpMYB114, PpTPL1, PpRAP2]
+compounds: [ethylene, anthocyanin]
 ---
 
 # Collectively, these results indicate that ethylene inhibits anthocyanin biosynthesis by a mechanism 

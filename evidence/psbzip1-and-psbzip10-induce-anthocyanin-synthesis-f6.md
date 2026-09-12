@@ -1,6 +1,6 @@
 ---
 title: "PsbZIP1 and PsbZIP10 were not able to bind to the PsUFGTm (Fig."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[psbzip1-and-psbzip10-induce-anthocyanin-synthesis]]"

@@ -1,6 +1,6 @@
 ---
 title: "First of all, we found that the transcription level of MePP2C1 was signiﬁcantly decreased during pat"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[nfyc15-transcription-factor-activates-ethylene-biosynthesis]]"

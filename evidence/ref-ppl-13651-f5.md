@@ -1,6 +1,6 @@
 ---
 title: "RHD6 action requires RSL4 (root hair defective6-like 4), which is a direct target of RHD6 and regula"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-ppl-13651]]"

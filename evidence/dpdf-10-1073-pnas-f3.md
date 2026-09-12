@@ -1,6 +1,6 @@
 ---
 title: "We conclude that the snRNA-Seq studies identified at least three different outer integument cell typ"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1073-pnas]]"

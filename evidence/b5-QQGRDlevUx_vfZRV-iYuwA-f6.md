@@ -1,6 +1,6 @@
 ---
 title: "This parameter is critical for defining coexpression networks."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b5-QQGRDlevUx_vfZRV-iYuwA]]"

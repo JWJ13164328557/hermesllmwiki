@@ -1,6 +1,6 @@
 ---
 title: "In summary, resolv- ing the regulatory mechanism of Sl4CLL6 in the formation of insect resistance tr"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"

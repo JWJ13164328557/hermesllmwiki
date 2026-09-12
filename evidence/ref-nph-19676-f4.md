@@ -1,6 +1,6 @@
 ---
 title: "Soil minerals also interact with nutrients diluted in the groundwater, which receivessomenutrientsfr"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-19676]]"

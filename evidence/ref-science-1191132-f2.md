@@ -1,6 +1,6 @@
 ---
 title: "We found that a loss-of-function mutant of PLETHORA (PLT) transcription fac- tors ( plt1-4 plt2-2 do"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1191132]]"

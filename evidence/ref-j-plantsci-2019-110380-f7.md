@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these ﬁndings indicate that seminal roots have a great positive eﬀect on maize seedl"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-plantsci-2019-110380]]"

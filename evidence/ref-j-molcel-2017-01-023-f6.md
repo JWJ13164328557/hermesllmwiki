@@ -1,6 +1,6 @@
 ---
 title: "In summary, SCRB-seq is the most powerful method at one million reads and half a million reads, but "
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-molcel-2017-01-023]]"

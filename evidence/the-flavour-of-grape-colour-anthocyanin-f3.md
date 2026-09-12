@@ -1,6 +1,6 @@
 ---
 title: "MYBA1 and MYBA2 trigger the expression of target genes such as VviUFGT, which in turn encodes the UD"
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"

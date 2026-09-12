@@ -1,6 +1,6 @@
 ---
 title: "In addition, DcbHLH5 also interacts with MYB75, which promotes anthocyanin biosynthesis (Teng et al."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-of-the-bhlh-gene-family]]"

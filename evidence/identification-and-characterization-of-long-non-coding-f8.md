@@ -1,6 +1,6 @@
 ---
 title: "We found that the expression of lncRNAs in G."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[identification-and-characterization-of-long-non-coding]]"

@@ -1,6 +1,6 @@
 ---
 title: "Jasmonic acid plays a central role in transmitting wound signals and regulating regeneration."
-created: 2026-09-11
+created: 2026-09-12
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-70171]]"
