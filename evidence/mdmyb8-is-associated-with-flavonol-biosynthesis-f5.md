@@ -1,6 +1,6 @@
 ---
 title: "Moreover, the overexpression of MdMYB8 pro- moted ﬂavonol biosynthesis, while RNAi knockdown of MdMY"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[mdmyb8-is-associated-with-flavonol-biosynthesis]]"

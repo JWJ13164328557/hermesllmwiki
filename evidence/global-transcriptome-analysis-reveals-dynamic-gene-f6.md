@@ -1,6 +1,6 @@
 ---
 title: "Cancer stem cells: the potential targets of chinese medicines and their active compounds."
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"

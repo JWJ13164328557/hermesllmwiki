@@ -1,6 +1,6 @@
 ---
 title: "In addition, based on the changes in the expres- sion of each key gene after 2 h of feeding by mites"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[integration-of-metabolomics-and-transcriptomics-reveals]]"

@@ -1,6 +1,6 @@
 ---
 title: "BMC Biology CmNAC25 targets CmMYB6 to positively regulate anthocyanin biosynthesis during the post‑f"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[cmnac25-targets-cmmyb6-to-positively-regulate]]"

@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these dif- ferences indicated gene dosage effects reducing expression in monosomic g"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-flavour-of-grape-colour-anthocyanin]]"

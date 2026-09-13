@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that H2O2-dependent axon regeneration is independent of H2O2 function in the i"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"

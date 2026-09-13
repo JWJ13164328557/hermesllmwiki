@@ -1,6 +1,6 @@
 ---
 title: "Keywords: novel regulators, development, leaf veins, cotyledons, single-cell RNA-sequencing, Arabido"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

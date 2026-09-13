@@ -1,6 +1,6 @@
 ---
 title: "A similar analysis of microRNA target sites identified miR-1, miR-206, miR-133 and many others as re"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

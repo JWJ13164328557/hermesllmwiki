@@ -1,6 +1,6 @@
 ---
 title: "For instance, DELLA proteins act as repressors of a central growth regulatory pathway that are rapid"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[comparative-transcriptome-profiling-reveals-the-multiple]]"

@@ -1,6 +1,6 @@
 ---
 title: "In this research, we show that ENAP1 and ENAP2 are positive regulators of drought tolerance in plant"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-journal-pgen-1010473]]"

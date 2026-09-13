@@ -1,6 +1,6 @@
 ---
 title: "Additionally, we identify BRONTOSAURUS (BRON) as a transcription factor that regulates cell division"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[integrated-omics-networks-reveal-the-temporal]]"

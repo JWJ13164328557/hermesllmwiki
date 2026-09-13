@@ -1,6 +1,6 @@
 ---
 title: "We found that the incorporation of distal eQTLs resulted in a 9% enhancement in predictive accuracy "
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

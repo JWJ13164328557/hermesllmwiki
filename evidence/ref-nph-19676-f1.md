@@ -1,6 +1,6 @@
 ---
 title: "Deserts play a crucial role in C sequestration, encompassing both soil inorganic (SIC) and soil orga"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-19676]]"

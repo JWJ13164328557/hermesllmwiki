@@ -1,6 +1,6 @@
 ---
 title: "Although marker genes play a critical role in cell‐type annotation, they should be used with great c"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pce]]"

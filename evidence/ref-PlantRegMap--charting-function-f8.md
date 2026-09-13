@@ -1,6 +1,6 @@
 ---
 title: "expert-curated de- scription) is crucial for users to become familiar with the research status of TF"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-PlantRegMap--charting-function]]"

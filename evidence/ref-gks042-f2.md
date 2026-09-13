@@ -1,6 +1,6 @@
 ---
 title: "When less replication is available, sharing information between genes is essential for reliable infe"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-gks042]]"

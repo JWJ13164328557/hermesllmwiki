@@ -1,6 +1,6 @@
 ---
 title: "In addition, we found unexpected roles of PP in hormone biosynthesis and defense-related responses."
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[b3-G2N-JJNNVwoyPpAiZEWa8w]]"

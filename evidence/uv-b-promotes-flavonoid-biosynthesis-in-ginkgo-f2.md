@@ -1,6 +1,6 @@
 ---
 title: "In this study, we found that the phenotypes of 5-year-old ginkgo trees from low-altitude (LA) Pizhou"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"

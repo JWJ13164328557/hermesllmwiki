@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that loss of prolif- erative CM potential occurs predominantly during fetal d"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aeg2614]]"

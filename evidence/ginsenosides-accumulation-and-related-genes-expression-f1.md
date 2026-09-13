@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results suggest that the mechanism of ginsenoside biosynthesis in P."
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ginsenosides-accumulation-and-related-genes-expression]]"

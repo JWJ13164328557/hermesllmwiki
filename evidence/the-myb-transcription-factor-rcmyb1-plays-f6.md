@@ -1,6 +1,6 @@
 ---
 title: "Nevertheless, we found that the transcript levels of these three genes were significantly elevated i"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-myb-transcription-factor-rcmyb1-plays]]"

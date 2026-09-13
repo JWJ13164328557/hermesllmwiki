@@ -1,6 +1,6 @@
 ---
 title: "Surprisingly, TF mRNA prevalence was broadly similar to that of all other mRNAs."
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1073-pnas]]"

@@ -1,6 +1,6 @@
 ---
 title: "In contrast to these seemingly conserved global features of transcriptional dynamics in embryos, we "
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-aar5780]]"

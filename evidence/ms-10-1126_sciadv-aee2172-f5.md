@@ -1,6 +1,6 @@
 ---
 title: "INTRODUCTION Forests, covering approximately 30% of terrestrial land, play a crucial role in regulat"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aee2172]]"

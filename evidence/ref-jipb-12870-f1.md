@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our results suggest that wound‐induced ROS participate in AR in- duction through regul"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-jipb-12870]]"

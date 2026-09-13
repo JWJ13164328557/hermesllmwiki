@@ -1,6 +1,6 @@
 ---
 title: "These methods each have their characteris- tics, so the most appropriate dimensionality reduction me"
-created: 2026-09-12
+created: 2026-09-13
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-BBZ062]]"
