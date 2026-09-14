@@ -1,6 +1,6 @@
 ---
 title: "Together, these findings reveal a substantial disconnect: Twenty-­six to 36% of annual photosynthesi"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-ady7139]]"

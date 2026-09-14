@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, single-cell omics revealed that one-third of the investigated HSFs in cabbage were in"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-erae107]]"

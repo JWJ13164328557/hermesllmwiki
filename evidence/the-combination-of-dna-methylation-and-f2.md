@@ -1,6 +1,6 @@
 ---
 title: "The SG6 member PrMYBa3 interacts with two SG5 (IIIf) bHLHs to synergistically activate the late bios"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [PrMYBa3, PrDFR, PrANS]
+genes: [PrDFR, PrANS, PrMYBa3]
 compounds: [anthocyanin]
 ---
 

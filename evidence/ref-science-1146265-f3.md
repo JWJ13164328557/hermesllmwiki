@@ -1,6 +1,6 @@
 ---
 title: "Here we show that menin, a protein previously characterized as an endocrine tumor suppressor and tra"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1146265]]"

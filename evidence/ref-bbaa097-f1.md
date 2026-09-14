@@ -1,6 +1,6 @@
 ---
 title: "We show t- SNE plot for each cell type before and after MNN and SMNN cor- rection under both the ort"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

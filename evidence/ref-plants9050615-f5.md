@@ -1,6 +1,6 @@
 ---
 title: "The arabidopsis LAZY1 family plays a key role in gravity signaling within statocytes and in branch a"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-plants9050615]]"

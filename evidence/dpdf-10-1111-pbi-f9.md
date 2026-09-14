@@ -1,6 +1,6 @@
 ---
 title: "Notably, OpAVT1-­KO lines showed yellowish-­ brown colour, suppressed root elongation and centralise"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pbi]]"

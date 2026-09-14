@@ -1,6 +1,6 @@
 ---
 title: "We found that GbHY5 was significantly upregulated upon UV-B irradiation and interacted with the GbMY"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad118"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [GbHY5, GbMYB1]
+genes: [GbMYB1, GbHY5]
 compounds: []
 ---
 

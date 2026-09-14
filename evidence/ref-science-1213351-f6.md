@@ -1,6 +1,6 @@
 ---
 title: "Clade III SWEETs had previously been im- plicated as key targets of biotrophic pathogens."
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1213351]]"

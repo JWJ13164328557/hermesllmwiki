@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, histone modiﬁcations can be used as the marker to understand the activity of target gen"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erq154]]"

@@ -1,6 +1,6 @@
 ---
 title: "Importantly, our data suggest a multiplex role for CPSF100 in precisely positioning polyadenylation "
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tpj-13611]]"

@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, genes encoding mitochondrial proteins were strongly expressed in cluster 9, suggestin"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-tpj]]"

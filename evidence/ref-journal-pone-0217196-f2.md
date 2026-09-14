@@ -1,6 +1,6 @@
 ---
 title: "Although the overall 3’UTR length of individual genes was distributed equally in tumor and non-tumor"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pone-0217196]]"

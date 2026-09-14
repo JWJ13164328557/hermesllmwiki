@@ -1,6 +1,6 @@
 ---
 title: "A genetic analysis showed that TMM is epistatic to STOMAGEN (At4g12970), suggesting that stomatal de"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-nature08682]]"

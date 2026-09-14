@@ -1,6 +1,6 @@
 ---
 title: "Additionally, using the annotation information of all genes, we found that certain genes related to "
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[morus-alba-l-leaves-integration-of]]"

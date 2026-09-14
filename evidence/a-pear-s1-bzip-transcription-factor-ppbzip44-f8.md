@@ -1,6 +1,6 @@
 ---
 title: "PpbZIP44 directly binds to the promoters of PpSDH9, PpADT, PpProDH1, and PpF3H To understand how bZI"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[a-pear-s1-bzip-transcription-factor-ppbzip44]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad140"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PpSDH9, PpbZIP44, PpADT, PpProDH1, PpF3H]
+genes: [PpbZIP44, PpSDH9, PpProDH1, PpF3H, PpADT]
 compounds: []
 ---
 

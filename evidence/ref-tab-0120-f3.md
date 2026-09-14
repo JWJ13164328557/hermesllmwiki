@@ -1,6 +1,6 @@
 ---
 title: "CDKA, with its typical PSTAIRE amino acid motif, plays a pivotal role in driving cell cycle progress"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

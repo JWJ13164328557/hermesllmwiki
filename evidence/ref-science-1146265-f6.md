@@ -1,6 +1,6 @@
 ---
 title: "These results expand our understanding of mechanisms underlying diabetes pathogenesis and reveal pot"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1146265]]"

@@ -1,6 +1,6 @@
 ---
 title: "Analogously, we found that the methylation level of the region −820 to −495 bp, which belongs to PS1"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"

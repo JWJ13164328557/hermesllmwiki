@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these data suggested that two tested CwTPS genes function in catalyzing the formatio"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

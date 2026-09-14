@@ -1,6 +1,6 @@
 ---
 title: "Accord­ ingly, individual overexpression of GME resulted in little or even no ASA increase, indicati"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[the-role-of-light-intensity-in]]"
@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2021.111622"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [SlGME, SlIMP, SlGGP]
+genes: [SlGGP, SlIMP, SlGME]
 compounds: []
 ---
 

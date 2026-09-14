@@ -1,6 +1,6 @@
 ---
 title: "abscisic acid"
-created: 2026-09-13
+created: 2026-09-14
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # abscisic acid
 
 ## Evidence Summary
-**Total evidence objects**: 16
+**Total evidence objects**: 17
 
 ## Evidence Table
 | Evidence | Finding |

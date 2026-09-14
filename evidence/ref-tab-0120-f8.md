@@ -1,6 +1,6 @@
 ---
 title: "The major target of CDKA/CYCD complexes in G1 is the RBR protein and a CDK-dependent phosphorylation"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

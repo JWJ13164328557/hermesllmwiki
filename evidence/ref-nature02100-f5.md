@@ -1,6 +1,6 @@
 ---
 title: "We found that APL is ﬁrst speciﬁcally expressed in the developing protophloem SE soon after the phlo"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature02100]]"

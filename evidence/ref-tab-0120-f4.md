@@ -1,6 +1,6 @@
 ---
 title: "CDKD and CDKF function as CDK-activating kinases (CAKs) as they phosphorylate CDKA at residue T161, "
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

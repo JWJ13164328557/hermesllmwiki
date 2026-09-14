@@ -1,6 +1,6 @@
 ---
 title: "Previous studies highlighted auxin-dependent transcription of the PLETHORA (PLT) genes and SHORTROOT"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature05703]]"

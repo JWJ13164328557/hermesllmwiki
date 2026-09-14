@@ -1,6 +1,6 @@
 ---
 title: "Gene B’s proﬁle exhibits inherently more variability among target cells, giving it reduced speciﬁcit"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkr591]]"

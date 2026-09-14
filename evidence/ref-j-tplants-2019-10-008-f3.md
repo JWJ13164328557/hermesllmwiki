@@ -1,6 +1,6 @@
 ---
 title: "Importantly, we introduce the technical principles of scRNA-seq approaches for plant-based studies, "
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-tplants-2019-10-008]]"

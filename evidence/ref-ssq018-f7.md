@@ -1,6 +1,6 @@
 ---
 title: "A protein phosphatase 2C interacts with AtGCN5 and dephosphorylates AtGCN5 in vitro."
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-ssq018]]"

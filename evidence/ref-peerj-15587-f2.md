@@ -1,6 +1,6 @@
 ---
 title: "Notably, there were no significant differences in aboveground morphology and photosynthetic characte"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-peerj-15587]]"

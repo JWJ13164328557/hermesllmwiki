@@ -1,6 +1,6 @@
 ---
 title: "726 In summary, the results obtained thus far collectively demon- strate that CsbZIP44 plays a cruci"
-created: 2026-09-13
+created: 2026-09-14
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"
@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14219"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Malus domestica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CsBCH1, CsDXR, CsbZIP44, CsGGPPs, CsNCED2]
+genes: [CsGGPPs, CsBCH1, CsNCED2, CsbZIP44, CsDXR]
 compounds: [carotenoid]
 ---
 
