@@ -8,7 +8,7 @@ doi: "10.1186/s12870-020-2314-9"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MaDof23, MaERF9]
+genes: [MaERF9, MaDof23]
 compounds: []
 ---
 

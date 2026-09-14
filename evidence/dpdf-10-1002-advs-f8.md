@@ -8,7 +8,7 @@ doi: "10.1002/advs"
 species: [Triticum aestivum, Oryza sativa, Arabidopsis thaliana]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmMaT4, GmCHR5, GmMaT2]
+genes: [GmMaT2, GmMaT4, GmCHR5]
 compounds: []
 ---
 

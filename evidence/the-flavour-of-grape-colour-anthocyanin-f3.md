@@ -9,7 +9,7 @@ species: [Vitis vinifera, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: [VviUFGT]
-compounds: [glucose, anthocyanin, flavonoid]
+compounds: [glucose, flavonoid, anthocyanin]
 ---
 
 # MYBA1 and MYBA2 trigger the expression of target genes such as VviUFGT, which in turn encodes the UD

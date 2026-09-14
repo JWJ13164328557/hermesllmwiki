@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Malus domestica, Vitis vinifera]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [anthocyanin, flavonoid]
+compounds: [flavonoid, anthocyanin]
 ---
 
 # BMC Plant Biology (2021) 21:396 Page 6 of 14 Flavonoid biosynthesis pathway and transcriptional regu

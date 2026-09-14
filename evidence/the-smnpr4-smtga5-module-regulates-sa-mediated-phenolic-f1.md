@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad066"
 species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [SmTGA5, SmTAT1]
+genes: [SmTAT1, SmTGA5]
 compounds: [phenolic]
 ---
 

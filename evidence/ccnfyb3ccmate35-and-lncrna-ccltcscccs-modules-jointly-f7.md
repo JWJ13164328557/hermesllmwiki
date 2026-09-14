@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14179"
 species: [Arabidopsis thaliana, Zea mays, Glycine max]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CcCS, CcLTCS, CcMATE35, CcNFYB3]
+genes: [CcLTCS, CcMATE35, CcNFYB3, CcCS]
 compounds: []
 ---
 

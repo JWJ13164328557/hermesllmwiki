@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PrMYBs, PrF3H]
+genes: [PrF3H, PrMYBs]
 compounds: []
 ---
 

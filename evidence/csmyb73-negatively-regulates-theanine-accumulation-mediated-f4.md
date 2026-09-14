@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae012"
 species: [Nicotiana tabacum, Citrus spp., Camellia sinensis]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [CsGGT2, CsGGT4, CsMYB73]
+genes: [CsGGT4, CsGGT2, CsMYB73]
 compounds: []
 ---
 

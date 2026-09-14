@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [CabZIP1, CaPR]
+genes: [CaPR, CabZIP1]
 compounds: []
 ---
 

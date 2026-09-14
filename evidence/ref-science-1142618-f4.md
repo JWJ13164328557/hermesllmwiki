@@ -8,7 +8,7 @@ doi: "10.1126/science.1142618"
 species: [Arabidopsis thaliana, Physcomitrium patens, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtRHD6, AtRSL1]
+genes: [AtRSL1, AtRHD6]
 compounds: []
 ---
 

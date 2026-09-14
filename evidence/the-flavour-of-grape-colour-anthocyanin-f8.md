@@ -8,7 +8,7 @@ doi: "10.1093/jxb/erad223"
 species: [Vitis vinifera, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvMYBA8, VviMYBA2, VviMYBA1, InDel]
+genes: [InDel, VviMYBA2, VviMYBA1, VvMYBA8]
 compounds: [phenylpropanoid]
 ---
 

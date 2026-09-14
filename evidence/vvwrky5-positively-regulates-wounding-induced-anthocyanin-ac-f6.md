@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae083"
 species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [VvMYBA1, VvUFGT]
+genes: [VvUFGT, VvMYBA1]
 compounds: []
 ---
 

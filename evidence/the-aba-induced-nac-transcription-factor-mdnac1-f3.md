@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad049"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [MdANS, MdDFR, MdNAC1, MdF3H]
+genes: [MdANS, MdF3H, MdDFR, MdNAC1]
 compounds: []
 ---
 

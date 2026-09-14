@@ -8,7 +8,7 @@ doi: "10.1186/s42397-026-00264-2"
 species: [Gossypium hirsutum, Ficus carica]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [GhTCP4, GhHOX3]
+genes: [GhHOX3, GhTCP4]
 compounds: []
 ---
 

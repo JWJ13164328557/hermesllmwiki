@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PrDFR, PrANS, PrMYBa3]
+genes: [PrANS, PrMYBa3, PrDFR]
 compounds: [anthocyanin]
 ---
 

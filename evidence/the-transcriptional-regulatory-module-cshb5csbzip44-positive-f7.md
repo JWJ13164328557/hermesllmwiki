@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14219"
 species: [Arabidopsis thaliana, Solanum lycopersicum, Malus domestica]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [MdbZIP4, MdMYB114]
+genes: [MdMYB114, MdbZIP4]
 compounds: [anthocyanin]
 ---
 

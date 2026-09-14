@@ -8,7 +8,7 @@ doi: "10.1111/tpj.13611"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [AtMu1, AtSN1]
+genes: [AtSN1, AtMu1]
 compounds: []
 ---
 

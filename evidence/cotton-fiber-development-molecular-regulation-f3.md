@@ -8,7 +8,7 @@ doi: "10.1186/s42397-026-00264-2"
 species: [Gossypium hirsutum, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GhSWEET12, GhMYB212]
+genes: [GhMYB212, GhSWEET12]
 compounds: [sucrose]
 ---
 

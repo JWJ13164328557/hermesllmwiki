@@ -8,7 +8,7 @@ doi: "10.1016/j.indcrop.2021.113612"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PtoMYB5, PtoTFIIIB60]
+genes: [PtoTFIIIB60, PtoMYB5]
 compounds: []
 ---
 

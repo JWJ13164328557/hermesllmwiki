@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PsMYB12L, PsMYB111, PsANS, PsFLS, PsCHS]
+genes: [PsMYB111, PsMYB12L, PsFLS, PsF3, PsDFR]
 compounds: [anthocyanin]
 ---
 

@@ -8,7 +8,7 @@ doi: "10.3390/plants2030379"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [OsMADS14, OsMADS15, OsMADS1]
+genes: [OsMADS1, OsMADS15, OsMADS14]
 compounds: []
 ---
 

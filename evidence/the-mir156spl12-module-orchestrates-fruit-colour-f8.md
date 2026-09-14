@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: [VcSPL12, VcMIR156a]
-compounds: [anthocyanin, chlorophyll]
+compounds: [chlorophyll, anthocyanin]
 ---
 
 # In a previous study, we demonstrated that VcMIR156a can inﬂuence anthocyanin and chlorophyll accumu-

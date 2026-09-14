@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [MdERF78, MdANS, MdF3H]
+genes: [MdANS, MdERF78, MdF3H]
 compounds: []
 ---
 

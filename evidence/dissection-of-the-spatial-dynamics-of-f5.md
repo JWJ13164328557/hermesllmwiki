@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae060"
 species: [Oryza sativa, Nicotiana tabacum, Camellia sinensis]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [CsDUR3a, CsUPS1]
+genes: [CsUPS1, CsDUR3a]
 compounds: []
 ---
 

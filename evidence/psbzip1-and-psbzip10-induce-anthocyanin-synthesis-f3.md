@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2023.112396"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [SlHY5, SlCHS1, SlDFR, SlCHS2]
+genes: [SlHY5, SlCHS2, SlCHS1, SlDFR]
 compounds: [anthocyanin]
 ---
 

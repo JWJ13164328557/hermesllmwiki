@@ -8,7 +8,7 @@ doi: "10.1016/j.devcel.2020.12.015"
 species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [ZmHDZIV8, ZmYABBY14, ZmYAB14]
+genes: [ZmHDZIV8, ZmYAB14, ZmYABBY14]
 compounds: []
 ---
 

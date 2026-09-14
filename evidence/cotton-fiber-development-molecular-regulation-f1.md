@@ -8,7 +8,7 @@ doi: "10.1186/s42397-026-00264-2"
 species: [Gossypium hirsutum, Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GhNRT1, GhEzrA, GhSH3P2, GhSBP1]
+genes: [GhSH3P2, GhNRT1, GhEzrA, GhSBP1]
 compounds: []
 ---
 

@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhae065"
 species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [AtMYC2, AtTPS21, AtTPS11]
+genes: [AtTPS21, AtTPS11, AtMYC2]
 compounds: []
 ---
 

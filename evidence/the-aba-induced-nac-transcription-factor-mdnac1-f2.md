@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad049"
 species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MdUFGT, MdNAC1, MdMYB10]
+genes: [MdUFGT, MdMYB10, MdNAC1]
 compounds: []
 ---
 

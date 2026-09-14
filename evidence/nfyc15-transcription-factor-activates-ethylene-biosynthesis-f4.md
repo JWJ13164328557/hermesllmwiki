@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14355"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [MeERFs, MeNF, MeAIL5]
+genes: [MeNF, MeAIL5, MeERFs]
 compounds: [ethylene]
 ---
 

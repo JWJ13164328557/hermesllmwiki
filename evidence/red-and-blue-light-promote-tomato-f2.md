@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Citrus spp., Ficus carica]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [chlorophyll, carotenoid, ethylene, abscisic acid]
+compounds: [abscisic acid, ethylene, carotenoid, chlorophyll]
 ---
 
 # We show that both lights expedite the progress of skin coloration in tomato fruit by promoting chlor

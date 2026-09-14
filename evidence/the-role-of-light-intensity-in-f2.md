@@ -8,7 +8,7 @@ doi: "10.1016/j.postharvbio.2021.111622"
 species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
 evidence_type: "genetic perturbation"
 quality: "high"
-genes: [SlGGP, SlIMP, SlGME]
+genes: [SlGGP, SlGME, SlIMP]
 compounds: []
 ---
 

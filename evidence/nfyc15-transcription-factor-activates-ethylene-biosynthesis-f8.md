@@ -8,7 +8,7 @@ doi: "10.1111/pbi.14355"
 species: [Oryza sativa, Zea mays, Solanum lycopersicum]
 evidence_type: "protein interaction"
 quality: "medium"
-genes: [MePP2C1, MeNF, MeACO1]
+genes: [MeNF, MeACO1, MePP2C1]
 compounds: []
 ---
 

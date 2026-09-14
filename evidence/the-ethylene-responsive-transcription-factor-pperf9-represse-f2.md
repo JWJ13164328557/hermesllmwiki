@@ -9,7 +9,7 @@ species: [Malus domestica, Nicotiana tabacum, Vitis vinifera]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: []
-compounds: [anthocyanin, ethylene]
+compounds: [ethylene, anthocyanin]
 ---
 
 # Our results reveal a regu­ latory pattern of ethylene-inhibited anthocyanin biosynthesis in pear, wh

@@ -8,7 +8,7 @@ doi: "10.1126/sciadv.aee2172"
 species: [Populus spp., Citrus spp., Quercus spp.]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [PtoUGT72AZ2, PtoWOX13b, PtoCPK3, PtoERF72]
+genes: [PtoUGT72AZ2, PtoCPK3, PtoERF72, PtoWOX13b]
 compounds: []
 ---
 
