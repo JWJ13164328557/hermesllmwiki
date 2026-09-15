@@ -1,6 +1,6 @@
 ---
 title: "Lastly, in both Beta vul- garis and Portulaca grandiﬂora, trans-acting Promoter of Anthocyanin Pigme"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[multiple-mechanisms-explain-loss-of-anthocyanins]]"

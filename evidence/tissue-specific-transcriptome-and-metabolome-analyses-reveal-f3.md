@@ -1,6 +1,6 @@
 ---
 title: "Collectively, a total of 86,772, 93,791, 88,299, and 90,363 genes were expressed in flower, leaf, rh"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[tissue-specific-transcriptome-and-metabolome-analyses-reveal]]"

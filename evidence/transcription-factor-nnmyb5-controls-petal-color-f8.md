@@ -1,6 +1,6 @@
 ---
 title: "In addition, an anthocyanin biosynthetic MYB activa­ tor, LEGUME ANTHOCYANIN PRODUCTION 1 (LAP1), co"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[transcription-factor-nnmyb5-controls-petal-color]]"

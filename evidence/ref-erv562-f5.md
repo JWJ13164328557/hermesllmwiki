@@ -1,6 +1,6 @@
 ---
 title: "We show that HDA9 repressed many water deprivation-related genes in both normal and stressed conditi"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-erv562]]"

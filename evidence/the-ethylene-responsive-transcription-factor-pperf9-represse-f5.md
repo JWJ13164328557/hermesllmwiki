@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these results indicate that ethylene inhibits anthocyanin biosynthesis by a mechanism "
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-ethylene-responsive-transcription-factor-pperf9-represse]]"

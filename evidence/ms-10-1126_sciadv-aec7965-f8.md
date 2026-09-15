@@ -1,6 +1,6 @@
 ---
 title: "It should be espe- cially noted that, in contrast to typical MOS devices, no thermal or light assist"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aec7965]]"

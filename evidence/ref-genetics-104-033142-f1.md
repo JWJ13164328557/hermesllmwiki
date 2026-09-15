@@ -1,6 +1,6 @@
 ---
 title: "Using Arabidopsis spotted oligo-gene microarray analysis, here we report that 7% of the transcripto"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-genetics-104-033142]]"

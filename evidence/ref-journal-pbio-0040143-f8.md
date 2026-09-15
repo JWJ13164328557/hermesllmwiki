@@ -1,6 +1,6 @@
 ---
 title: "By tiling across the SCR promoter, we found two regions of enriched SHR binding."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-journal-pbio-0040143]]"

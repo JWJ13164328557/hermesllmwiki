@@ -1,6 +1,6 @@
 ---
 title: "Notably, most eQTL hotspots overlapped with previously reported QTLs and known genes related to seed"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"
@@ -8,7 +8,7 @@ doi: "10.1002/advs"
 species: [Triticum aestivum, Oryza sativa, Arabidopsis thaliana]
 evidence_type: "expression/regulation"
 quality: "medium"
-genes: [GmMaT2, GmMaT4, GmCHR5]
+genes: [GmCHR5, GmMaT2, GmMaT4]
 compounds: []
 ---
 

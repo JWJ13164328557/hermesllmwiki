@@ -1,6 +1,6 @@
 ---
 title: "Arabidopsis MYC2 interacts with DELLA proteins in regulating sesquiterpene synthase gene expression."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[lamyc7-a-positive-regulator-of-linalool]]"

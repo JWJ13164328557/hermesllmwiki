@@ -1,6 +1,6 @@
 ---
 title: "PrMYBa3 binds to the promoters of LBGs PrDFR and PrANS and directly activates their transcription Bo"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"
@@ -8,7 +8,7 @@ doi: "10.1093/hr/uhad100"
 species: [Zea mays, Malus domestica, Nicotiana tabacum]
 evidence_type: "DNA binding/regulation"
 quality: "medium"
-genes: [PrANS, PrMYBa3, PrDFR]
+genes: [PrMYBa3, PrANS, PrDFR]
 compounds: [anthocyanin]
 ---
 

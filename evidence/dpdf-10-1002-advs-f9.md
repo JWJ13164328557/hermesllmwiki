@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the elncRNAs regulated by these eQTL hotspots at 14 DAF could form a genetic network "
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

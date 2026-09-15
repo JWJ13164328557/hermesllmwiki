@@ -1,6 +1,6 @@
 ---
 title: "T he study of specialized tissue domains and their interactions is essential for a comprehensive und"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nplants-2017-61]]"

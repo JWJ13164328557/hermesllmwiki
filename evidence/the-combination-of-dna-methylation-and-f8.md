@@ -1,6 +1,6 @@
 ---
 title: "They all reportedly act on one or several target genes to activate the flavonoid biosynthetic pathwa"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"

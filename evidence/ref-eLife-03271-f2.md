@@ -1,6 +1,6 @@
 ---
 title: "Importantly, FAMALGK could still interact with its dimerization partner bHLH93 (Ohashi-Ito and Bergm"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-eLife-03271]]"

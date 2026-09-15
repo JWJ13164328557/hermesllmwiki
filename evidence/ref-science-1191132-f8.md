@@ -1,6 +1,6 @@
 ---
 title: "Tyrosine sulfation is critical for the func- tion of this peptide (fig."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1191132]]"

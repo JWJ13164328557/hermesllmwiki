@@ -1,6 +1,6 @@
 ---
 title: "Because VviERF003 was identified via DNA pull-down screen- ing using the VviGT14 promoter as the bai"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"

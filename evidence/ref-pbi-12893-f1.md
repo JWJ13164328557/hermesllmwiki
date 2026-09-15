@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that PeCHYR1 plays a crucial role in enhancing drought toleran"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pbi-12893]]"

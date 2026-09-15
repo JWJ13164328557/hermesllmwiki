@@ -1,6 +1,6 @@
 ---
 title: "Moreover, Arabidopsis enables quick construction of complex genotypes, which is onerous in many plan"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

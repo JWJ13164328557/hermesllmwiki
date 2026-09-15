@@ -1,6 +1,6 @@
 ---
 title: "When expressed ectopically, most CASPs reach the plasma membrane, but none accumulates in CSD-like s"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature10070]]"

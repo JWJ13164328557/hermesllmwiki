@@ -1,6 +1,6 @@
 ---
 title: "Notably, when population structure is weak, both ADMIXTURE and fast- STRUCTURE fail to detect struct"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-genetics-114-164350]]"

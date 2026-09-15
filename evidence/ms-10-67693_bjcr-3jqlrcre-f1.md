@@ -1,6 +1,6 @@
 ---
 title: "These plants play a crucial role in maintaining ecological balance and possess significant medicinal"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [papers]
 source: "[[ms-10-67693_bjcr-3jqlrcre]]"

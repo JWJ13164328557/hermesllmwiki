@@ -1,6 +1,6 @@
 ---
 title: "Furthermore, we found in­ dividuals carrying “TT” genotype had nearly more than two-fold Kumatakenin"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"

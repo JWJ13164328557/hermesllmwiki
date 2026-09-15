@@ -1,6 +1,6 @@
 ---
 title: "Throughout plant evolution, xylem has developed diverse morphological and anatomical adaptations to "
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-pce]]"

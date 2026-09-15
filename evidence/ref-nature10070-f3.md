@@ -1,6 +1,6 @@
 ---
 title: "By structural and immunogold electron microscopy we found that misexpressed CASP5–GFP induces altere"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nature10070]]"

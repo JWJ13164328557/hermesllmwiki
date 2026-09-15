@@ -1,6 +1,6 @@
 ---
 title: "Whether YUC1 and YUC4 are the direct targets of wounding is also not known."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

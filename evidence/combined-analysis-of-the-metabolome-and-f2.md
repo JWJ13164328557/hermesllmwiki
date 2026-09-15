@@ -1,6 +1,6 @@
 ---
 title: "Normally, TF proteins function through the combination of their own DNA-binding domain and the cis-a"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[combined-analysis-of-the-metabolome-and]]"

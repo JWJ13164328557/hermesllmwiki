@@ -1,6 +1,6 @@
 ---
 title: "These findings suggest that GSNOR1 plays a key regulatory role in SA signaling."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[sel-advs-75436]]"

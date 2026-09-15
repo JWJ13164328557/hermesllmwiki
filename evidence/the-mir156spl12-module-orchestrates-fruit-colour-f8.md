@@ -1,6 +1,6 @@
 ---
 title: "In a previous study, we demonstrated that VcMIR156a can inﬂuence anthocyanin and chlorophyll accumu-"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"
@@ -9,7 +9,7 @@ species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
 evidence_type: "expression/regulation"
 quality: "medium"
 genes: [VcSPL12, VcMIR156a]
-compounds: [chlorophyll, anthocyanin]
+compounds: [anthocyanin, chlorophyll]
 ---
 
 # In a previous study, we demonstrated that VcMIR156a can inﬂuence anthocyanin and chlorophyll accumu-

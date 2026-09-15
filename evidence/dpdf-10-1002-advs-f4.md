@@ -1,6 +1,6 @@
 ---
 title: "These results indicate limited conservation of lncRNAs among soybean accessions."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1002-advs]]"

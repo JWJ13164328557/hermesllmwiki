@@ -1,6 +1,6 @@
 ---
 title: "For example, the enrichment of transiently upregulated genes for common miRNA target sites raises th"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-nbt-2859]]"

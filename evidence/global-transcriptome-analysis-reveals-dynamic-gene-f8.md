@@ -1,6 +1,6 @@
 ---
 title: "The genome of medicinal plant Macleaya cordata provides new insights into benzylisoquinoline alkaloi"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"

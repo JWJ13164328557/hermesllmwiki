@@ -1,6 +1,6 @@
 ---
 title: "Several protocols take this approach; for example, genome editing of synthetic target arrays for lin"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-annurev-genet-120417-0312]]"

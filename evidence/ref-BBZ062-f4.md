@@ -1,6 +1,6 @@
 ---
 title: "However, the cells in our bodies have almost the same genotype, but the transcriptome information on"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#methods-tools, papers]
 source: "[[ref-BBZ062]]"

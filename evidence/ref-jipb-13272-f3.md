@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these results suggest that WHY1 and HDA15 act together on the lipid/carbohydrate met"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-jipb-13272]]"

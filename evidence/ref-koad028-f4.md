@@ -1,6 +1,6 @@
 ---
 title: "Since constitutive overexpression of DOF3.4 resulted in a severe growth phenotype, inducible lines w"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-koad028]]"

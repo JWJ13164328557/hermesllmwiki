@@ -1,6 +1,6 @@
 ---
 title: "Tracking developmental events on the whole-plant level Germination A perfect timing of germination i"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-erv265]]"

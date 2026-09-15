@@ -1,6 +1,6 @@
 ---
 title: "Yet, given that desert plants predominantly acquire water through their roots from dry soils, the di"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-nph-19676]]"

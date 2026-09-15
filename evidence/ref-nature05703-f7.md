@@ -1,6 +1,6 @@
 ---
 title: "Notably, adjacent columella stem cells are even larger, suggesting that they have undergone differen"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-nature05703]]"

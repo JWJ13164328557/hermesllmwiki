@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that VcSPL12 may speciﬁcally bind to the promoters of VcACO6 and VcACS1."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"

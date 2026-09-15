@@ -1,6 +1,6 @@
 ---
 title: "CB34CH22_Benfey ARI 11 August 2018 10:45 WUS is a transcriptional target of CLV3 signaling, the mole"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-annurev-cellbio-100617-06]]"

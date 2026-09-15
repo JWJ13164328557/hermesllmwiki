@@ -1,6 +1,6 @@
 ---
 title: "Notably, cheler- ythrine was not detected in Z."
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[distribution-survey-phytochemical-and-transcriptome-analysis]]"

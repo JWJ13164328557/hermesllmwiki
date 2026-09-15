@@ -1,6 +1,6 @@
 ---
 title: "PRDM16-­deficient CMs reproducibly developed multiple senescence-­associated phenotypes, indicating "
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [papers]
 source: "[[ms-10-1126_sciadv-aeg2614]]"

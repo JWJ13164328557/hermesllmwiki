@@ -1,6 +1,6 @@
 ---
 title: "However, cur- rent methods do allow the capture and identiﬁcation of QC cells [9,10], highlighting t"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-j-tplants-2019-10-008]]"

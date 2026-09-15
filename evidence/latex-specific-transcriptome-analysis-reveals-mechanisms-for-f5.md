@@ -1,6 +1,6 @@
 ---
 title: "As a recognition signal for proteasomal degradation, a ubiquitin chain is covalently tagged to the t"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[latex-specific-transcriptome-analysis-reveals-mechanisms-for]]"

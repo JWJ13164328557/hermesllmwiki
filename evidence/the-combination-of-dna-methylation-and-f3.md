@@ -1,6 +1,6 @@
 ---
 title: "When the reporter construct was co-transfected with the effector plasmid, we found that one of the s"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-combination-of-dna-methylation-and]]"

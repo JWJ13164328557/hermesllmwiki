@@ -1,6 +1,6 @@
 ---
 title: "For example, tanshinone IIA, a diterpenoid component of tanshi- none has anticancer, anti-inflammato"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[unveiling-the-spatial-distribution-and-molecular]]"

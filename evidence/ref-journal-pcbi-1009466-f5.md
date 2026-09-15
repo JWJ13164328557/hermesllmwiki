@@ -1,6 +1,6 @@
 ---
 title: "We conclude that the coupling γΔt recovered by solving the entropy minimisation problem Eq (8) is an"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-journal-pcbi-1009466]]"

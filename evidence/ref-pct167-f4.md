@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, the VvNPF3.2 promoter caused inducible b-glucuronidase (GUS) expression in minor vein"
-created: 2026-09-14
+created: 2026-09-15
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-pct167]]"
