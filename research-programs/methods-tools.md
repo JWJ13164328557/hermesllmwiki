@@ -5,7 +5,7 @@ topic: "methods-tools"
 total_evidence: 179
 total_aims: 5
 auto_generated: true
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # 🔬 Synthesis: #Methods-Tools

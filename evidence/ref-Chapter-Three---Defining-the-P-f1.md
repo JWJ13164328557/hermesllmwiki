@@ -1,6 +1,6 @@
 ---
 title: "After initially interacting with another transcription factor, SCARECROW (SCR), together they activa"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-Chapter-Three---Defining-the-P]]"

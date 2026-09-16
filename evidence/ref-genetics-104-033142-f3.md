@@ -1,6 +1,6 @@
 ---
 title: "(b) ChIP assays show a correlation of histone acetyla- are locus speciﬁc: Although histone acetylati"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#epigenetics-gr, papers]
 source: "[[ref-genetics-104-033142]]"

@@ -1,6 +1,6 @@
 ---
 title: "Decoding plant-microbiota interactions through ST Plants interact with diverse microbiota, including"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-tpj-16437]]"

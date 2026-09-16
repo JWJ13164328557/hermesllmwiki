@@ -1,6 +1,6 @@
 ---
 title: "Collectively, these data suggested that the metabolic process of resveratrol maintains highly activa"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#genomics-evolution, papers]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"

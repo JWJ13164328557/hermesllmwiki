@@ -1,6 +1,6 @@
 ---
 title: "(2020) demonstrated that GhTCP4 interacts with GhHOX3 and represses its transcriptional activity."
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"

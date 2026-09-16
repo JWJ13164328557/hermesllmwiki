@@ -1,6 +1,6 @@
 ---
 title: "This step is crucial for improving their survival when moved to the field (Gamborg & Phillips, 1955)"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [papers]
 source: "[[ms-10-67693_bjcr-3jqlrcre]]"

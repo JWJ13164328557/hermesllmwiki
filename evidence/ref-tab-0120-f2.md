@@ -1,6 +1,6 @@
 ---
 title: "Overexpression of CDC6 or CDT1, E2F targets encoding subunits of the pre-replication complex are suf"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-tab-0120]]"

@@ -5,7 +5,7 @@ topic: "metabolism-natural-products"
 total_evidence: 246
 total_aims: 5
 auto_generated: true
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # 🔬 代谢与天然产物 — Synthesis
@@ -15,29 +15,29 @@ updated: 2026-09-15
 
 ## Research Aims
 
-### Aim 1: Test IMP3 function
+### Aim 1: Test ABA function
 
-**Hypothesis**: IMP3 modulates ABA and LED to control [process]
+**Hypothesis**: ABA modulates LED and IMP3 to control [process]
 
 **Experimental Design**:
-1. Generate IMP3 overexpression and CRISPR knockout lines in [model species]
+1. Generate ABA overexpression and CRISPR knockout lines in [model species]
 2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
 3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: IMP3-GFP fusion
+4. Subcellular localization: ABA-GFP fusion
 
 **Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
 
 **Validation**: Complementation test, tissue-specific expression analysis.
 
-### Aim 2: Test MYB function
+### Aim 2: Test EMS function
 
-**Hypothesis**: MYB regulates BES1 and BRI1 to control [process]
+**Hypothesis**: EMS regulates BIN2 and SCW to control [process]
 
 **Experimental Design**:
-1. Generate MYB overexpression and CRISPR knockout lines in [model species]
+1. Generate EMS overexpression and CRISPR knockout lines in [model species]
 2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
 3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: MYB-GFP fusion
+4. Subcellular localization: EMS-GFP fusion
 
 **Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
 

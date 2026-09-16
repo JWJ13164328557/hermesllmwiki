@@ -1,6 +1,6 @@
 ---
 title: "Collectively, our findings show that VvWRKY5 plays crucial roles in wounding-induced anthocyanin syn"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, these genes have been described in several satellite cell studies3,4,6 (Supplementary"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nmeth-4437]]"

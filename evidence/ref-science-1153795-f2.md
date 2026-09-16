@@ -1,6 +1,6 @@
 ---
 title: "S7, and tables S6 and S7), we found 50 to 82%, respectively, of enriched categories are zone- specif"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-science-1153795]]"

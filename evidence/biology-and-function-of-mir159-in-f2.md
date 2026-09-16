@@ -1,6 +1,6 @@
 ---
 title: "Then, overexpression of miR159 in Arabidopsis [ecotype Landsberg erecta, (Ler)] resulted in down-reg"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[biology-and-function-of-mir159-in]]"

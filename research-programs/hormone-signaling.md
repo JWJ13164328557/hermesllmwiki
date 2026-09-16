@@ -5,7 +5,7 @@ topic: "hormone-signaling"
 total_evidence: 231
 total_aims: 5
 auto_generated: true
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # 🔬 激素与信号转导 — Synthesis
@@ -17,7 +17,7 @@ updated: 2026-09-15
 
 ### Aim 1: Test HY5 function
 
-**Hypothesis**: HY5 interacts with DNRR and ASA1 to control [process]
+**Hypothesis**: HY5 interacts with ASA1 and SDG8 to control [process]
 
 **Experimental Design**:
 1. Generate HY5 overexpression and CRISPR knockout lines in [model species]
@@ -29,15 +29,15 @@ updated: 2026-09-15
 
 **Validation**: Complementation test, tissue-specific expression analysis.
 
-### Aim 2: Test ABPH1 function
+### Aim 2: Test CPPU function
 
-**Hypothesis**: ABPH1 regulates WUS and CPPU to control [process]
+**Hypothesis**: CPPU regulates PIN1 and WUS to control [process]
 
 **Experimental Design**:
-1. Generate ABPH1 overexpression and CRISPR knockout lines in [model species]
+1. Generate CPPU overexpression and CRISPR knockout lines in [model species]
 2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
 3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: ABPH1-GFP fusion
+4. Subcellular localization: CPPU-GFP fusion
 
 **Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
 

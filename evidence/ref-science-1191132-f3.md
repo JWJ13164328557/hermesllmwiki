@@ -1,6 +1,6 @@
 ---
 title: "These peptide signals play a crucial role in postembryonic root development."
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-science-1191132]]"

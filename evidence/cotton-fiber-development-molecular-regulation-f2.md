@@ -1,6 +1,6 @@
 ---
 title: "Taken together, these findings suggest that bHLH proteins contribute to fiber elongation through a c"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[cotton-fiber-development-molecular-regulation]]"

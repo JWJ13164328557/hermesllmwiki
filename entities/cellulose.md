@@ -1,6 +1,6 @@
 ---
 title: "cellulose"
-created: 2026-09-15
+created: 2026-09-16
 type: entity
 entity_type: compound
 tags: [metabolism, compound]

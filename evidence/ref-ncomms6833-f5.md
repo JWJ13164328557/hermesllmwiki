@@ -1,6 +1,6 @@
 ---
 title: "ERFs are also named as ethylene-responsive element binding proteins (EREBPs), which were ﬁrst identi"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-ncomms6833]]"

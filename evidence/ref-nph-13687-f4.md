@@ -1,6 +1,6 @@
 ---
 title: "Importantly, this collection of Arabidopsis papers has been widely cited outside of the Arabidopsis "
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[ref-nph-13687]]"

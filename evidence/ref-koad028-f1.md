@@ -1,6 +1,6 @@
 ---
 title: "Results SCL5 interacts with ERF114 and ERF115 Although ectopic coexpression of ERF115 and PAT1 was f"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-koad028]]"

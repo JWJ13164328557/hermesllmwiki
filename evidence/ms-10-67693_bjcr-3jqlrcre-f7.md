@@ -1,6 +1,6 @@
 ---
 title: "Elaeocarpus grandiflorus callus cultures exhibited differential growth responses on MS medium supple"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [papers]
 source: "[[ms-10-67693_bjcr-3jqlrcre]]"

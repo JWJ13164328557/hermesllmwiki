@@ -1,6 +1,6 @@
 ---
 title: "GSNO plays a pivotal role in mediating protein S-­nitrosylation, serving as a relatively stable form"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[sel-advs-75436]]"

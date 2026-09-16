@@ -1,6 +1,6 @@
 ---
 title: "Our results show that the SC isolation procedure induces transcriptome-wide changes in a subpopulati"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-nmeth-4437]]"

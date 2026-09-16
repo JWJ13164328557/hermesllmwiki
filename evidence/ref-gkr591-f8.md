@@ -1,6 +1,6 @@
 ---
 title: "Interestingly, its noise within the auxin data is relatively high and it is not likely to be identiﬁ"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkr591]]"

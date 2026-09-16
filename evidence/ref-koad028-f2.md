@@ -1,6 +1,6 @@
 ---
 title: "The synergetic effect of both transcription factor classes was confirmed for the ERF115-related cros"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#hormone-signaling, papers]
 source: "[[ref-koad028]]"

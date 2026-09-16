@@ -1,6 +1,6 @@
 ---
 title: "These results suggest that SMNN provides improved batch effect correction over MNN under both orthog"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-bbaa097]]"

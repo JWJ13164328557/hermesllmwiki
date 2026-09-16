@@ -1,6 +1,6 @@
 ---
 title: "The data from yuc mutants, together with yucasin treat- ment, reveal that YUC-mediated auxin biosynt"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#developmental-biology, papers]
 source: "[[ref-erw213]]"

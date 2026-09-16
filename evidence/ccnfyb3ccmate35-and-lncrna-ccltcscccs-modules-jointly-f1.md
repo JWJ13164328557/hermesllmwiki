@@ -1,6 +1,6 @@
 ---
 title: "Thus, we conclude that they are membrane- localized proteins (Figure 1c; Figure S2)."
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly]]"

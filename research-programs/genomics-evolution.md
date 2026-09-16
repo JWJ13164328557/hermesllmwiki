@@ -5,7 +5,7 @@ topic: "genomics-evolution"
 total_evidence: 345
 total_aims: 5
 auto_generated: true
-updated: 2026-09-15
+updated: 2026-09-16
 ---
 
 # 🔬 基因组与进化 — Synthesis
@@ -17,7 +17,7 @@ updated: 2026-09-15
 
 ### Aim 1: Test IAP function
 
-**Hypothesis**: IAP regulates FDR and AML to control [process]
+**Hypothesis**: IAP regulates MYB36 and FDR to control [process]
 
 **Experimental Design**:
 1. Generate IAP overexpression and CRISPR knockout lines in [model species]
@@ -59,7 +59,7 @@ updated: 2026-09-15
 
 ### Aim 4: Test FOS function
 
-**Hypothesis**: FOS regulates JUN and ZHD to control [process]
+**Hypothesis**: FOS regulates ZHD and PSAP to control [process]
 
 **Experimental Design**:
 1. Generate FOS overexpression and CRISPR knockout lines in [model species]
@@ -71,15 +71,15 @@ updated: 2026-09-15
 
 **Validation**: Complementation test, tissue-specific expression analysis.
 
-### Aim 5: Test PRESS function
+### Aim 5: Test PSPG function
 
-**Hypothesis**: PRESS plays a critical role PSPG and UDP to control [process]
+**Hypothesis**: PSPG plays a critical role PRESS and UDP to control [process]
 
 **Experimental Design**:
-1. Generate PRESS overexpression and CRISPR knockout lines in [model species]
+1. Generate PSPG overexpression and CRISPR knockout lines in [model species]
 2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
 3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: PRESS-GFP fusion
+4. Subcellular localization: PSPG-GFP fusion
 
 **Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
 

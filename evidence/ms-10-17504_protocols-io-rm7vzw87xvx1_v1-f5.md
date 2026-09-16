@@ -1,6 +1,6 @@
 ---
 title: "Validation of knock-in by immunoblot and Drug-induced target degradation 31 Once successful knock-in"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [papers]
 source: "[[ms-10-17504_protocols-io-rm7vzw87xvx1_v1]]"

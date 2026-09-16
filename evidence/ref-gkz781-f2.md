@@ -1,6 +1,6 @@
 ---
 title: "Since miRNAs mainly have a repressive effect on target genes, 3′ UTR shortening is expected to be ge"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#single-cell-spatial, papers]
 source: "[[ref-gkz781]]"

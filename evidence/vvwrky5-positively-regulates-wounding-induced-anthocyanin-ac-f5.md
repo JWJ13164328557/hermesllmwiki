@@ -1,6 +1,6 @@
 ---
 title: "Notably, we found that exogenous JA treatment contributes to anthocyanin accumulation in grape (Fig."
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"

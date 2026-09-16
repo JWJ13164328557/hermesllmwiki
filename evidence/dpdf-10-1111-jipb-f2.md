@@ -1,6 +1,6 @@
 ---
 title: "Importantly, several transcription factors involved in oil biosynthesis also participate in stress r"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [papers, dpdf]
 source: "[[dpdf-10-1111-jipb]]"

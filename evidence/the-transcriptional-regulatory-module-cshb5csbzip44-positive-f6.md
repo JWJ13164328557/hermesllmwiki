@@ -1,6 +1,6 @@
 ---
 title: "Additionally, CsHB5 interacts with CsbZIP44 to form a transcriptional regulatory module CsHB5-CsbZIP"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#metabolism-np, papers]
 source: "[[the-transcriptional-regulatory-module-cshb5csbzip44-positive]]"

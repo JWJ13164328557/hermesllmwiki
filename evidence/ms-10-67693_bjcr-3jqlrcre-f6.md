@@ -1,6 +1,6 @@
 ---
 title: "Hence, maintaining the correct PGR ratio is essential for successful organogenesis and plant regener"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [papers]
 source: "[[ms-10-67693_bjcr-3jqlrcre]]"

@@ -1,6 +1,6 @@
 ---
 title: "Keywords: X-ray computed tomography, root system interaction, multiple target tracking, technical ad"
-created: 2026-09-15
+created: 2026-09-16
 type: evidence
 tags: [#stress-immunity, papers]
 source: "[[ref-tpj-13047]]"
