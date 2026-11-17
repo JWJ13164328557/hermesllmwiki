@@ -1,15 +1,19 @@
-title: "Red and blue light promote tomato fruit coloration through modulation of hormone homeostasis and pigment accumulation"
+---
+
+title: Red and blue light promote tomato fruit coloration through modulation of hormone homeostasis and pigment accumulation
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1016/j.postharvbio.2023.112588
-pmid: 
-confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 06 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+pmid: ''
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Red and blue light promote tomato fruit coloration 通过 modulation of hormone homeostasis and pigment 积累
+species_status: unverified
+---
 
-> Red and blue light promote tomato fruit coloration through modulation of hormone homeostasis and pigment accumulation
+# Red and blue light promote tomato fruit coloration through modulation of hormone homeostasis and pigment accumulation
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2024)

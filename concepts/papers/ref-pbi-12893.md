@@ -1,12 +1,18 @@
+---
 title: PeCHYR1, a ubiquitin E3 ligase from Populus euphratica, enhances drought toleran
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags: [stress-immunity, papers]
 doi: 10.1111/pbi.12893
 confidence: medium
-aliases: ["PeCHYR1, a ubiquitin E3 ligase from Populus euphratica, enhances drought toleran"]
+aliases: ['PeCHYR1, a ubiquitin E3 ligase from Populus euphratica, enhances drought toleran']
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # PeCHYR1, a ubiquitin E3 ligase from Populus euphratica, enhances drought toleran
 
@@ -59,11 +65,11 @@ Correspondence(Tel 008610‐62336400; fax 8610‐62336400; email:xiaxl@bjfu.edu.
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

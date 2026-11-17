@@ -1,15 +1,22 @@
 ---
-title: "Single‐cell RNA‐seq describes the transcriptome landscape and identifies critical transcription factors in the leaf blade of the allotetraploid peanut (<i>Arachis hypogaea</i> L.)"
-aliases: ["single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica"]
-tags: [scrnaseq, plant-single-cell]
-doi: "10.1111/pbi.13656"
-journal: "Plant Biotechnology Journal"
+title: Single-cell RNA-seq describes the transcriptome landscape and identifies critical transcription factors in the leaf blade of the allotetraploid peanut (Arachis hypogaea L.)
+aliases:
+- single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica
+tags:
+- scrnaseq
+- plant-single-cell
+doi: 10.1111/pbi.13656
+journal: Plant Biotechnology Journal
 year: 2021
-authors: "Liu Hao, Hu Dongxiu, Du Puxuan, Wang Liping, Liang Xuanqiang, Li Haifen, Lu Qing, Li Shaoxiong"
+authors: Liu Hao, Hu Dongxiu, Du Puxuan, Wang Liping, Liang Xuanqiang, Li Haifen, Lu Qing, Li Shaoxiong
 created: 2026-06-01
+themes: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: tag+keyword
+
 ---
 
-# Single‐cell RNA‐seq describes the transcriptome landscape and identifies critical transcription factors in the leaf blade of the allotetraploid peanut (<i>Arachis hypogaea</i> L.)
+# Single-cell RNA-seq describes the transcriptome landscape and identifies critical transcription factors in the leaf blade of the allotetraploid peanut (Arachis hypogaea L.)
 
 **期刊**: Plant Biotechnology Journal (2021)
 **DOI**: 10.1111/pbi.13656
@@ -29,9 +36,18 @@ SummarySingle‐cell RNA‐seq (scRNA‐seq) has been highlighted as a powerful 
 
 ## 深度提炼
 
-**方法**: RNA-seq
+**主要物种**: Zea mays
+**物种**: Zea mays
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), single-cell RNA-seq, qRT-PCR validation, overexpression, subcellular localization, phylogenetics
+**来源**: DOI:10.1111/pbi.13656
+**来源类型**: PDF全文 (10-1111_pbi-13656.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Taken together, we conclude that AHL23 is a positive regulator of plant development, the functional explanation of which may contribute to future agronomic trait improvement in peanut breeding.
+2. We report precise spatiotemporal information, critical marker gene transcripts and deﬁne features of major leaf cell types that will allow for improvements in peanut cultivation.
+3. However, we found little evidence to support the hypothesis that the primordium directly converted into spongy tissue (Figure 4a).
+4. However, a small portion of epidermal tissue did appear to have evolved from the primordium (Figure 5a), and we found 11 TFs involved in this process after ﬁltering of the DEG proﬁle (Table S19, Figure S11).
+5. These results suggest that palisade cells likely differentiate into spongy cells, while the epidermal cells originated earlier than the primordium.
+6. As expected, the majority of upregulated DEGs participated in mechanisms associated with photosynthesis as mesophyll cells play a pivotal role in light capture.
+7. In summary, we proposed putative modes for epidermal development.
+8. In conclusion, we hypothesize that AHL23 positively promoted leaf cell growth, and in turn, a high growth index promoted the ﬂowering via the phytohormone pathway (Figure 7u).

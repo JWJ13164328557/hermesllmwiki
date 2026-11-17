@@ -1,34 +1,43 @@
 ---
-title: "We found that 55 DEGs were involved in this pathway, including 11 cinnamate 4-hydroxylase (C4H) gene"
-created: 2026-09-16
+title: "We found that the plant height, DBH, leaf fresh and dry weights, and leaf area of ginkgo …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["epigenetics-gene-regulation", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]"
 doi: "10.1093/hr/uhad118"
-species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Solanum lycopersicum"]
+primary_species: "Ginkgo biloba"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: [flavonol, flavonoid]
+compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# We found that 55 DEGs were involved in this pathway, including 11 cinnamate 4-hydroxylase (C4H) gene
+# We found that the plant height, DBH, leaf fresh and dry weights, and leaf area of ginkgo …
 
 ## Claim
-We found that 55 DEGs were involved in this pathway, including 11 cinnamate 4-hydroxylase (C4H) genes, 7 chalcone synthase (CHS) genes, 3 flavonoid 3-hydroxylase (F3H) genes, 2 flavonol synthase (FLS) genes, 12 flavonoid 3′-hydroxylase (F3′H) genes, 5 dihydroflavonol 4- reductaseand (DFR) genes, 5 anthocyanidin synthase (ANS) genes, and 10 flavonoid o-methyltransferase (FOMT) genes (Fig.
+We found that the plant height, DBH, leaf fresh and dry weights, and leaf area of ginkgo grown at HA were significantly lower than those of plants grown at LA.
 
-## Biological Context
-UV-B 促进 类黄酮 生物合成 in Ginkgo biloba by inducing the GbHY5-GbMYB1-GbFLS 模块
+## Source
+- 文献: [[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]
+- DOI: 10.1093/hr/uhad118
+- 主要物种: Ginkgo biloba
 
-## Supporting Evidence
-*Source: [[uv-b-promotes-flavonoid-biosynthesis-in-ginkgo]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

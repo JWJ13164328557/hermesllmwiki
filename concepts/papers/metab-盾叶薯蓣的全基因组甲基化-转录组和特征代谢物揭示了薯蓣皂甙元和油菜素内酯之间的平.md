@@ -1,12 +1,21 @@
-title: "盾叶薯蓣的全基因组甲基化、转录组和特征代谢物揭示了薯蓣皂甙元和油菜素内酯之间的平衡"
-journal: "unknown"
-year: ""
+---
+title: 盾叶薯蓣的全基因组甲基化、转录组和特征代谢物揭示了薯蓣皂甙元和油菜素内酯之间的平衡
+journal: unknown
+year: ''
 type: paper
-tags: [#epigenetics-gr, papers]
+themes: [genomics-evolution, hormone-signaling]
+tags: [papers]
 species: [Brassica]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

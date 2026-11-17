@@ -1,12 +1,21 @@
-title: "ABA 诱导的 NAC 转录因子 MdNAC1 与 bZIP 型转录因子相互作用，促进红皮苹果中花青素的合成"
-journal: "unknown"
-year: ""
+---
+title: ABA 诱导的 NAC 转录因子 MdNAC1 与 bZIP 型转录因子相互作用，促进红皮苹果中花青素的合成
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

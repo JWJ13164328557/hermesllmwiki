@@ -1,34 +1,43 @@
 ---
-title: "In summary, we generated high-quality spatiotemporal tran- scriptomic data using four S1000 chips, w"
-created: 2026-08-25
+title: "In summary, we generated high-quality spatiotemporal transcriptomic data using four S1000 …"
+created: 2026-11-03
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[rice-blast-sc-spatial]]"
 doi: "10.1002/advs.202507818"
-species: [Zea mays, Solanum lycopersicum, Glycine max]
-evidence_type: "DNA binding/regulation"
+species: ["Oryza sativa", "Spinacia oleracea", "Zea mays"]
+primary_species: "Oryza sativa"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# In summary, we generated high-quality spatiotemporal tran- scriptomic data using four S1000 chips, w
+# In summary, we generated high-quality spatiotemporal transcriptomic data using four S1000 …
 
 ## Claim
-In summary, we generated high-quality spatiotemporal tran- scriptomic data using four S1000 chips, which revealed dynamic gene expression patterns during the development of male and fe- male inﬂorescences.
+In summary, we generated high-quality spatiotemporal transcriptomic data using four S1000 chips, which revealed dynamic gene expression patterns during the development of male and female inflorescences.
 
-## Biological Context
-Spatiotemporal Transcriptomic Atlas Reveals the Regulatory Mechanisms Underlying
+## Source
+- 文献: [[rice-blast-sc-spatial]]
+- DOI: 10.1002/advs.202507818
+- 主要物种: Oryza sativa
 
-## Supporting Evidence
-*Source: [[rice-blast-sc-spatial]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

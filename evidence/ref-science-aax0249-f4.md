@@ -1,34 +1,43 @@
 ---
-title: "In summary, we have shown that the num- ber of expressed genes per cell is a hallmark of development"
-created: 2026-09-16
+title: "Other methods also showed strong performance when oriented by CytoTRACE (fig."
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-science-aax0249]]"
 doi: "10.1126/science.aax0249"
-species: [Citrus spp., Ficus carica, Dioscorea spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Dioscorea spp."]
+primary_species: "Dioscorea spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CytoTRACE"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In summary, we have shown that the num- ber of expressed genes per cell is a hallmark of development
+# Other methods also showed strong performance when oriented by CytoTRACE (fig.
 
 ## Claim
-In summary, we have shown that the num- ber of expressed genes per cell is a hallmark of developmental potential.
+Other methods also showed strong performance when oriented by CytoTRACE (fig.
 
-## Biological Context
-Single-cell transcriptional diversity is a hallmark of developmental potential.
+## Source
+- 文献: [[ref-science-aax0249]]
+- DOI: 10.1126/science.aax0249
+- 主要物种: Dioscorea spp.
 
-## Supporting Evidence
-*Source: [[ref-science-aax0249]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CytoTRACE
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

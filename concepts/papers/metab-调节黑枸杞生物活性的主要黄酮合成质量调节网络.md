@@ -1,12 +1,21 @@
-title: "调节黑枸杞生物活性的主要黄酮合成质量调节网络"
-journal: "unknown"
-year: ""
+---
+title: 调节黑枸杞生物活性的主要黄酮合成质量调节网络
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

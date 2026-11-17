@@ -1,34 +1,43 @@
 ---
-title: "We show that this reduced SA responsiveness in gsnor1 plants arises from impaired vascular-­associat"
-created: 2026-09-16
+title: "We show that this reduced SA responsiveness in gsnor1 plants arises from impaired …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[sel-advs-75436]]"
 doi: "10.1002/advs.75436"
-species: [Solanum lycopersicum, Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Solanum lycopersicum"]
+primary_species: "Solanum lycopersicum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# We show that this reduced SA responsiveness in gsnor1 plants arises from impaired vascular-­associat
+# We show that this reduced SA responsiveness in gsnor1 plants arises from impaired …
 
 ## Claim
-We show that this reduced SA responsiveness in gsnor1 plants arises from impaired vascular-­associated movement of SA, thereby compromising systemic acquired resistance (SAR).
+We show that this reduced SA responsiveness in gsnor1 plants arises from impaired vascular-associated movement of SA, thereby compromising systemic acquired resistance (SAR).
 
-## Biological Context
-Issue Information: (Adv. Sci. 29/2026)
+## Source
+- 文献: [[sel-advs-75436]]
+- DOI: 10.1002/advs.75436
+- 主要物种: Solanum lycopersicum
 
-## Supporting Evidence
-*Source: [[sel-advs-75436]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

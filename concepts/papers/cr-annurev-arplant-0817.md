@@ -1,12 +1,23 @@
+---
+
 title: Advances and Opportunities in Single-Cell Transcriptomics for Plant Research.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1146/annurev-arplant-081720-010120
 confidence: medium
-aliases: ["Advances and Opportunities in Single-Cell Transcriptomics for Plant Research."]
+aliases:
+- "Advances and Opportunities in Single-Cell Transcriptomics for Plant Research."
+- "dpdf-10-1146-annurev-arplant-081720010120"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+merged_from:
+- dpdf-10-1146-annurev-arplant-081720010120
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Advances and Opportunities in Single-Cell Transcriptomics for Plant Research.
 
@@ -90,3 +101,14 @@ Declaration of interests:The authors declare no conflict of interest related to 
 4. Multiplexing Using Lipid-Tagged Indices for single-cell and single-nucleus RNA-seq (MULTI-Seq) uses lipid-or cholesterol-conjugated oligonucleotides that bind to plasma membranes to provide cells from each sample with an additional barcode (44).
 5. Validation of the obtained protoplast is required to determine the composition of retrieved cell types; this could be performed by quantitative real-time PCR analysis to determine the relative expression levels of specific reporter genes.
 6. In all cases, however, biological validation is required to ensure the predicted trajectories match biological data.
+
+### 补充发现（PDF 全文提炼）
+1. In conclusion, plant research has fully embraced single-cell transcriptomics, and its application to a variety of plant species is ongoing.
+2. Although the field of single-cell technologies progresses at a very fast pace, in this review we provide the reader with an accessible guideline encompassing all steps, from sample preparation to data analysis.
+3. A combination of a low count depth, low number of genes, and high number of counts from mitochondrial or chloroplast genes per barcode can indicate a low-quality cell, while an unexpectedly high number of counts and genes per barcode can indicate a potential mixture of two or more cells (multiplets).
+4. For example, analyzing the dynamics of transcription factor expression during trichoblast cell differentiation in Arabidopsis revealed novel players and currently undescribed feedback mechanisms (19).
+5. A prime example is the identification of specific or novel subpopulations of cells.
+6. Indeed, snRNA-seq and snATAC-seq results correlated for most cell types, but snRNA-seq identified a novel cell cluster that was not captured in scRNA-seq data sets (26).
+7. A recent machine learning approach identified several novel marker genes for Arabidopsis root cell types (92), showing its potential in capturing detailed clustering signatures.
+
+> 合并说明：本页与 dpdf-10-1146-annurev-arplant-081720010120 指向同一 DOI（原页 DOI 因导入缺陷被写成带 citation-id 尾巴/缺少连字符），已将重复页移入 archive/duplicates/。

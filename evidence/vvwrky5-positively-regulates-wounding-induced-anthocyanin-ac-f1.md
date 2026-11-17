@@ -1,34 +1,43 @@
 ---
-title: "Collectively, our findings show that VvWRKY5 plays crucial roles in wounding-induced anthocyanin syn"
-created: 2026-09-16
+title: "Collectively, our findings show that VvWRKY5 plays crucial roles in wounding-induced …"
+created: 2026-11-01
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]"
 doi: "10.1093/hr/uhae083"
-species: [Oryza sativa, Malus domestica, Nicotiana tabacum]
-evidence_type: "expression/regulation"
+species: ["Oryza sativa", "Malus domestica", "Nicotiana tabacum"]
+primary_species: "Vitis vinifera"
+evidence_type: "phenotypic/association"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [VvWRKY5]
-compounds: [anthocyanin]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["VvWRKY5"]
+compounds: ["anthocyanin"]
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Collectively, our findings show that VvWRKY5 plays crucial roles in wounding-induced anthocyanin syn
+# Collectively, our findings show that VvWRKY5 plays crucial roles in wounding-induced …
 
 ## Claim
 Collectively, our findings show that VvWRKY5 plays crucial roles in wounding-induced anthocyanin synthesis in grape and elucidates the transcriptional regulatory mechanism of wounding-induced anthocyanin accumulation.
 
-## Biological Context
-VvWRKY5 positively 调控 wounding-induced 花青素 积累 in grape by interplaying with VvMYBA1 and promoting jasmonic acid 生物合成
+## Source
+- 文献: [[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]
+- DOI: 10.1093/hr/uhae083
+- 主要物种: Vitis vinifera
 
-## Supporting Evidence
-*Source: [[vvwrky5-positively-regulates-wounding-induced-anthocyanin-ac]]*
+## 标注信息
+- 证据类型: phenotypic/association
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: VvWRKY5
+- 自动标注化合物: anthocyanin
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

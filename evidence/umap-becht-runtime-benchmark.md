@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-nbt-4314]]"
+  - "[[dimensionality-reduction-for-visualizing-single-cell-data-using-umap]]"
 supporting_figures:
   - "xr-10-1038-nbt-4314#figure-1"
 experiments:
@@ -25,6 +25,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/nbt.4314"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # UMAP Provides Fastest Runtime for Single-Cell Dimensionality Reduction
@@ -41,7 +54,7 @@ Dimensionality reduction is critical for visualizing and analyzing scRNA-seq dat
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-nbt-4314]] | UMAP benchmarking | UMAP runtime faster than t-SNE, LargeVis, TriMap, and scvis across multiple single-cell datasets | Multiple datasets, up to 100K+ cells |
+| [[dimensionality-reduction-for-visualizing-single-cell-data-using-umap]] | UMAP benchmarking | UMAP runtime faster than t-SNE, LargeVis, TriMap, and scvis across multiple single-cell datasets | Multiple datasets, up to 100K+ cells |
 
 ## Evidence Quality
 

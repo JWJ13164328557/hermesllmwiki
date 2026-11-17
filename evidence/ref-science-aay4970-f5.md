@@ -1,34 +1,43 @@
 ---
-title: "RESEARCH ARTICLES First release: 17 September 2020 www.sciencemag.org (Page numbers not final at tim"
-created: 2026-09-16
+title: "This complex is required and sufficient to control cell proliferation by inducing …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[ref-science-aay4970]]"
 doi: "10.1126/science.aay4970"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Arabidopsis thaliana"
 evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: ""
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["GUY4", "LOG3", "LOG4"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# RESEARCH ARTICLES First release: 17 September 2020 www.sciencemag.org (Page numbers not final at tim
+# This complex is required and sufficient to control cell proliferation by inducing …
 
 ## Claim
-RESEARCH ARTICLES First release: 17 September 2020 www.sciencemag.org (Page numbers not final at time of first release) 1 Vascular cell proliferation in plant roots is, in part, controlled by the heterodimer complex formed by TARGET OF MONOPTEROS 5 and LONESOME HIGHWAY (TMO5/LHW) (1–7).
+This complex is required and sufficient to control cell proliferation by inducing expression of the direct downstream target LONELY GUY4 (LOG4) and its close homolog LOG3, which encode rate-limiting enzymes in the final conversion step of the phytohormone cytokinin into its bioactive form.
 
-## Biological Context
-Vascular transcription factors guide plant epidermal responses to limiting phosp
+## Source
+- 文献: [[ref-science-aay4970]]
+- DOI: 10.1126/science.aay4970
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-science-aay4970]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: GUY4, LOG3, LOG4
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

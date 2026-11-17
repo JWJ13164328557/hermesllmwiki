@@ -1,14 +1,24 @@
-title: Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA
+---
+title: Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA and RETINOBLASTOMA-RELATED module
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags:
+- developmental-biology
+- papers
 doi: 10.7554/eLife.03271
 confidence: medium
-aliases: ["Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA"]
+aliases:
+- Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA
+---
+
+# Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA and RETINOBLASTOMA-RELATED module
 
 
 
@@ -53,7 +63,7 @@ This section collects any data citations, data availability statements, or suppl
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Nicotiana tabacum, Citrus spp.
+**物种**: Arabidopsis thaliana, Nicotiana tabacum
 **方法**: ChIP-seq/qPCR, qRT-PCR validation, Y2H, BiFC, overexpression, knockout/mutant, subcellular localization, promoter-GUS assay
 **来源**: DOI:10.7554/eLife.03271
 **来源类型**: PDF全文 (10.7554_eLife.03271.pdf)

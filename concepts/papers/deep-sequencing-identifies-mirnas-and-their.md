@@ -1,15 +1,18 @@
-title: "Deep sequencing identifies miRNAs and their target genes involved in the biosynthesis of terpenoids in Cinnamomum campho"
+---
+title: Deep sequencing identifies miRNAs and their target genes involved in the biosynthesis of terpenoids in Cinnamomum campho
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1016/j.indcrop.2019.111853
-pmid: 
-confidence: medium
-aliases: ["深度测序鉴定参与樟树萜类化合物生物合成的miRNA及其靶基因"]
+pmid: ''
+aliases: [深度测序鉴定参与樟树萜类化合物生物合成的miRNA及其靶基因]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Deep 测序 identifies miRNAs and their 靶标 genes 参与的 in the 生物合成 of terpenoids in Cinnamomum camphora
+---
 
-> Deep sequencing identifies miRNAs and their target genes involved in the biosynthesis of terpenoids in Cinnamomum camphora
+# Deep sequencing identifies miRNAs and their target genes involved in the biosynthesis of terpenoids in Cinnamomum camphora
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2020)

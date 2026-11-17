@@ -1,12 +1,21 @@
-title: ""植物细胞类型的高通量单细胞转录组分析""
-journal: "unknown"
-year: ""
+---
+title: 植物细胞类型的高通量单细胞转录组分析
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

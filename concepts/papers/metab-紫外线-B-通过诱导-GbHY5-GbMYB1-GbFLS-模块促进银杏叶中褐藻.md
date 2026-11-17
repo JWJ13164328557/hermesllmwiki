@@ -3,11 +3,18 @@ title: "紫外线-B 通过诱导 GbHY5-GbMYB1-GbFLS 模块促进银杏叶中褐�
 journal: "unknown"
 year: ""
 type: paper
-tags: [development, gene-regulation, metabolism]
+themes: [metabolism-natural-products]
+tags: [metabolism]
 species: [plant]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

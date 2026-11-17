@@ -1,92 +1,150 @@
 ---
-title: "单细胞与空间组学 — Synthesis"
+title: "Research Program: Single-Cell & Spatial Omics"
+title_zh: "单细胞与空间组学：研究方案"
 type: research-program
 topic: "single-cell-spatial-omics"
-total_evidence: 512
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 276
+total_papers: 138
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 单细胞与空间组学 — Synthesis
+# 🔬 Single-Cell & Spatial Omics：从证据到可执行研究方案
 
-## Program Overview
-基于 512 条证据生成的 5 个实验目标。
+> 本方案由 276 条证据 / 138 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test [target gene] function
+- **主题**：Single-Cell & Spatial Omics
+- **证据规模**：276 条证据 / 138 篇独立论文
+- **候选靶点**：RCI2A, EPF1, RVE1, B104, 组织解离方式（原生质体 vs 细胞核）, 细胞类型的空间定位
+- **主体系**：Medicago spp.
+- **主题归属依据**：证据标签
 
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
+### 目标 1：建立 RCI2A 的剂量—效应曲线
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test TPR function
-
-**Hypothesis**: TPR regulates downstream targets to control [process]
-
-**Experimental Design**:
-1. Generate TPR overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: TPR-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：RCI2A 已有 8 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 RCI2A 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：检验 EPF1 的必要性
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：EPF1 在 4 项研究中被提名参与本主题，但本簇证据中未见在统一背景下检验其必要性的操纵实验（受检索覆盖限制，需回溯原文复核）。判别性检验：获得功能缺失等位基因，做表型、回补与组织特异性验证。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：EPF1 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：功能缺失等位基因产生稳定、可回补的表型缺陷
+- **止损条件**：功能缺失无表型，或表型不可回补（提示脱靶或冗余基因补偿）
+- **预计周期**：12–18 个月
+
+
+### 目标 3：检验 RVE1 的必要性
+
+- **对应假说**：RVE1 在两项研究中被提名参与本主题，但本簇证据中未见在统一背景下检验其必要性的操纵实验（受检索覆盖限制，需回溯原文复核）。判别性检验：获得功能缺失等位基因，做表型、回补与组织特异性验证。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：RVE1 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：功能缺失等位基因产生稳定、可回补的表型缺陷
+- **止损条件**：功能缺失无表型，或表型不可回补（提示脱靶或冗余基因补偿）
+- **预计周期**：12–18 个月
+
+
+### 目标 4：检验 B104 的必要性
+
+- **对应假说**：B104 在 3 项研究中被提名参与本主题，但本簇证据中未见在统一背景下检验其必要性的操纵实验（受检索覆盖限制，需回溯原文复核）。判别性检验：获得功能缺失等位基因，做表型、回补与组织特异性验证。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：B104 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：功能缺失等位基因产生稳定、可回补的表型缺陷
+- **止损条件**：功能缺失无表型，或表型不可回补（提示脱靶或冗余基因补偿）
+- **预计周期**：12–18 个月
+
+
+### 目标 5：检验组织解离方式（原生质体 vs 细胞核） 的必要性
+
+- **对应假说**：本主题 19 条证据涉及组织解离，其中原生质体法 7 条、细胞核法 16 条，而在同一份组织内并列比较两者的仅 4 条。因此"原生质体法报告的细胞类型比例能否在细胞核法数据中重现"在本库中没有对照证据；解离偏好与真实的生物学差异目前不可分离。判别性检验：同一样本分半，分别建库，比较类型比例与标记基因表达的一致性。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：组织解离方式（原生质体 vs 细胞核） 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：两种方式给出的类型比例偏差落在预注册容差内（例如每类 ±10 个百分点），且标记基因表达高度相关
+- **止损条件**：某一类细胞在原生质体数据中系统性富集或缺失，且偏差随酶解时间或渗透压条件变化，说明是解离偏好而非生物学差异
+- **预计周期**：12–18 个月
+
+
+### 目标 6：检验细胞类型的空间定位的必要性
+
+- **对应假说**：本主题 16 条证据（12 篇）涉及空间转录组或原位杂交，其中 8 条同时描述单细胞数据与空间数据。本库中未见报道在两个独立空间数据集上比较同一类型空间分布的条目（受检索覆盖限制），因此"scRNA-seq 定义的类型在组织中占据可复现位置"这一前提在本库中仍属单向支持。判别性检验：在两个独立空间数据集上用同一标记集重注释，比较类型—位置对应关系。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：细胞类型的空间定位的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：关键类型在两个独立空间数据集中的分布（层、区、邻域富集）一致，且与标记基因表达位置吻合
+- **止损条件**：同一类型在不同数据集定位到不同区域，或某类型在空间数据中缺乏对应信号，说明注释粒度或取样存在偏差
+- **预计周期**：12–18 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 参考与注释 | 0–6 月 | 统一参考图谱、marker 集与聚类分辨率；做批次/平台一致性审计 | 同一组织在 ≥2 个数据集中的主要细胞类型可重复注释 |
+| P1 平台互验 | 6–12 月 | scRNA-seq / snRNA-seq / spatial 交叉映射；评估解离偏好与核偏好 | 主要细胞类型的比例与标记基因一致，偏差可量化 |
+| P2 空间定位 | 12–20 月 | 用空间转录组或原位杂交验证候选细胞群的位置 | 至少 2 个关键细胞群获得空间证据 |
+| P3 功能扰动 | 20–30 月 | 对候选调控因子做细胞类型特异扰动，读出组成/状态变化 | 扰动引起可重复的细胞状态或比例改变 |
+
+> 本路线不把 ChIP-qPCR 当作单细胞主题的核心验证；注释一致性、平台偏差和空间定位优先。
+
+## 四、风险与对策
+
+- RVE1 仅 2 篇论文支撑 → 存在"单实验室效应"风险，需独立重复。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/single-cell-spatial-omics.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

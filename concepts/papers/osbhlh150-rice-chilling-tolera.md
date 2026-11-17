@@ -1,16 +1,27 @@
-title: Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing 
+---
+
+title: Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1016/j.xplc.2026.101919
 confidence: medium
-aliases: ["OsbHLH150的自然变异通过增加"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 07 MINUTES 01 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing"]
+aliases:
+- OsbHLH150的自然变异通过增加
+aliases_extra:
+- "Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing
+---
+
+# Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis
 
 
 
@@ -29,7 +40,7 @@ Elucidating the regulatory networks underlying rice response to chilling stress 
 
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-G2N-JJNNVwoyPpAiZEWa8w]]
@@ -40,7 +51,18 @@ Elucidating the regulatory networks underlying rice response to chilling stress 
 
 ## 深度提炼
 
+**主要物种**: Oryza sativa
+**物种**: Oryza sativa, Zea mays, Arabidopsis thaliana, Malus domestica
+**方法**: ChIP-seq/qPCR, qRT-PCR validation, Y2H, Co-IP, EMSA, dual-luciferase reporter, CRISPR/Cas9, overexpression
+**来源**: DOI:10.1016/j.xplc.2026.101919
+**来源类型**: PDF全文 (10.1016_j.xplc.2026.101919.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Collectively, our findings suggest that OsbHLH150 may orchestrate chilling 211 tolerance in rice by forming a phosphorylation-dependent signaling module with 212 OsMAPK3.
+2. Taken together, our results reveal a novel cascade, which is distinct 522 from the OsICE1 mechanism, in regulating chilling tolerance in rice.
+3. Here, we found 532 that OsbHLH150K specifically binds to the E-box motifs in the OsNCED3 promoter and 533 upregulates its expression to promote ABA biosynthesis under chilling stress (Figure.
+4. Further investigations 26 mechanistically uncovered a phosphorylation-dependent regulatory axis of 27 OsbHLH150: under chilling stress, OsMAPK3 phosphorylates and stabilizes 28 OsbHLH150 through physical interaction, which in turn directly promotes the 29 OsbHLH150-driven activation of ABA biosynthetic rate-limiting enzyme 30 OsNCED3, thereby enhancing chilling tolerance in rice through elevating 
+5. More 33 Journal Pre-proof importantly, the valine residue at 471 of OsbHLH150 protein is critical for its 34 transactivation activity, and the activity is impaired by substitution of valine with 35 leucine.
+6. Here, we report 113 successful cloning of the chilling tolerance QTL, CSS12b, with OsbHLH150 identified 114 as its causal gene, which encodes a bHLH transcription factor.
+7. We found that ABA content in both 355 NIL-CSS12b and knockout lines were significantly reduced compared to their 356 Journal Pre-proof respective controls under chilling stress (Figure.
+8. We found that co-transformation 405 of p35s::OsbHLH150K-HA (effector), p35s::OsMAPK3-HA (effector), and 406 P1OsNCED3::LUC (reporter) plasmids in rice protoplasts could significantly enhance 407 LUC expression.

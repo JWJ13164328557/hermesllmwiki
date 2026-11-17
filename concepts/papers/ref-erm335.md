@@ -1,17 +1,20 @@
+---
+
 title: Roles of the bundle sheath cells in leaves of C3 plants.
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 doi: 10.1093/jxb/erm335
 confidence: medium
-aliases: ["Roles 的 bundle sheath cells 中 leaves 的 C3 plants."]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 37 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 53 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["C3植物叶片中束鞘细胞的作用。"]
-aliases_extra: ["Roles of the bundle sheath cells in leaves of C3 plants."]
+aliases_extra:
+- "Roles 的 bundle sheath cells 中 leaves 的 C3 plants."
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Roles of the bundle sheath cells in leaves of C3 plants.
 
@@ -35,7 +38,7 @@ This review considers aspects of the structure and functions of the parenchymato
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-lBokIY101sor8t2t3d1CRQ]]
 - [[b6-HkI9coXBppIC9b6SC65oKA]]
 - [[daily-42178064]]

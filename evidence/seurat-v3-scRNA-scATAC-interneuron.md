@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1016-j-cell-2019-05-031]]"
+  - "[[comprehensive-integration-of-single-cell-data]]"
 supporting_figures:
   - "xr-10-1016-j-cell-2019-05-031#figure-2"
   - "xr-10-1016-j-cell-2019-05-031#figure-4"
@@ -28,6 +28,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.cell.2019.05.031"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [epigenetics-gene-regulation, single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Anchor-Based Integration Links scRNA-seq and scATAC-seq for Interneurons
@@ -44,7 +57,7 @@ Integrating scRNA-seq and scATAC-seq is challenging because they measure fundame
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1016-j-cell-2019-05-031]] | Anchor-based scRNA–scATAC integration | Pvalb, Sst, and Vip interneurons identified with distinct chromatin landscapes; cell-type-specific TF motifs enriched | Multiple interneuron subtypes, ~10K cells total |
+| [[comprehensive-integration-of-single-cell-data]] | Anchor-based scRNA–scATAC integration | Pvalb, Sst, and Vip interneurons identified with distinct chromatin landscapes; cell-type-specific TF motifs enriched | Multiple interneuron subtypes, ~10K cells total |
 
 ## Evidence Quality
 

@@ -1,15 +1,25 @@
-title: ScRNA-seq reveals dark- and light-induced differentially expressed gene atlases 
+---
+title: ScRNA-seq reveals dark-and light-induced differentially expressed gene atlases of seedling leaves in Arachis hypogaea L.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1111/pbi.14306
-pmid: "38391124"
+pmid: '38391124'
 confidence: medium
-aliases: ["ScRNA-seq reveals dark- and light-induced differentially expressed gene atlases"]
+aliases:
+- ScRNA-seq reveals dark- and light-induced differentially expressed gene atlases
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: ScRNA-seq reveals dark- and light-induced differentially expressed gene atlases
+theme_status: mapped
+theme_basis: tag+keyword
 
-# ScRNA-seq reveals dark- and light-induced differentially expressed gene atlases
+---
+
+# ScRNA-seq reveals dark-and light-induced differentially expressed gene atlases of seedling leaves in Arachis hypogaea L.
 
 
 
@@ -44,3 +54,21 @@ Correspondence(Tel +86 020 87511794; fax +86 020 85514269; emailliuhao@gdaas.cn(
 Light and darkness are environmental factors that significantly regulate plant growth and development. Seeds of the majority of terrestrial plants develop as etiolation seedlings under dark conditions, breaking through the soil to capture aerial light, which in turn promotes chloroplast maturation while slowing hypocotyl elongation (Shi et al ., 2018 ; Wit et al ., 2016 ; Wu et al ., 2020 ). Hence, light works as a switch to mediate photomorphogenesis and skotomorphogenesis, which is capable of activating the photosynthesis reaction, but directly represses seedling development (Deepika et al ., 2020 ; Lau and Deng, 2012 ). Seedling de‐etiolation to green cotyledons is an important stage to study seedling reversal from dark growth condition to a light environment (Liu et al ., 2017 ; Wu et al ., 2020 ). Overall, plant leaves play a key role in heterotrophic to autotrophic growth under light condition, which involves various regulatory transcription factors and phytohormones, and light circumstances mediate distinct transcriptional regulation of seedling development, cellular differentiation and tissue or organ development (Favero et al ., 2021 ; Wit et al ., 2016 ). Despite using many biological techniques in several molecular biology studies to understand plant and light interaction, the distinct light environment modulated cell atlases at the single‐cell level have not been developed. Elucidating the cellular heterogeneity of different light condition may unravel the molecul
 ### Discussion
 Peanut is completely distinguished from other crops due to their unique fruit development characteristics, aerial flowers and underground fruit development (Chen et al ., 2013 ; Sinha et al ., 2020 ). In our previous study, a transcriptome map for peanut pod developmental stages identified a total of 245 genes that responded to light stimulation, two involved in dark condition and six participated in de‐etiolation (Chen et al ., 2016 ). Furthermore, extra insights into transcriptome programming associated with peanut pods development were gained under dark condition, including TF regulation, phytohormone signalling and photosynthesis, which suggested that light suppressed aerial pod expansion and embryonic development, while underground fruit expansion is due to the absence of light induction (Liu et al ., 2020b ). Importantly, our previous scRNA‐seq study found that the cell differentiation fate of peanut leaf was regulated through the phytohormone accumulation pathway in etiolated seedlings (Liu et al ., 2021 ). However, the present single‐cell transcriptomic study describes the diversity of cellular clusters, cell development trajectories and cell cycle changes in leaves of peanut seedlings grown under dark and light conditions. scRNA‐seq results revealed DEGs profiles in light‐suppressed peanuts and explored the cellular and transcriptional heterogeneity in dark/light‐grown leaf cells.
+
+## 深度提炼
+
+**主要物种**: Oryza sativa
+**物种**: Oryza sativa
+**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, qRT-PCR validation, overexpression, subcellular localization, phylogenetics
+**来源**: DOI:10.1111/pbi.14306
+**来源类型**: PDF全文 (10-1111_pbi-14306.pdf)
+
+### 核心发现
+1. Overall, plant leaves play a key role in heterotrophic to autotrophic growth under light condition, which involves various regulatory transcription factors and phytohormones, and light circumstances mediate distinct transcriptional regulation of seedling development, cellular differentiation and tissue or organ development (Favero et al., 2021; Wit et al., 2016).
+2. Furthermore, DEGs between samples were analysed to narrow down the number of target DEGs and TFs.
+3. In addition, 10 target TFs were short-listed based on fold change, P-value and characterized by a t-SNE plot (Figure 3f–i, Table S9).
+4. In conclusion, a total of 21 TFs and 10 hub genes with their homologous were identiﬁed, which may be important candidate drivers for differences in peanut leaf epidermal cells in various light environments.
+5. Therefore, light development biological study enabled to provide novel insight for demonstrating the peanut tissues development features.
+6. Notably, peanut tissue ontology regarding transcriptional dynamic illustrating has entered a single-cell era, such as by using scRNA-seq approaches in conjunction with high-throughput multi-omics ﬁndings discovered the role of peanut AHL23 (AT-HOOK MOTIF NUCLEAR LOCALIZED PROTEIN 23) in leaf expansion on single-cell resolution (Liu et al., 2021).
+7. Additionally, leaf photosynthesis-speciﬁc cell types were identiﬁed to provide new insights into peanut cell biology and development.
+8. Importantly, the distribution of gene expression was more concentrated for all cells in the seedlings under dark condition compared to the seedlings under light condition, which contributed to demonstrating the distribution of gene expression in different cell types under dark/light condition (Figure 2e, f).

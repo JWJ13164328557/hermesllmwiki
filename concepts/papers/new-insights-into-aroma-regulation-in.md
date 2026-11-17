@@ -1,15 +1,21 @@
-title: "New insights into aroma regulation in pear peel and flesh under methyl jasmonate treatment obtained by metabolite and wh"
+---
+
+title: New insights into aroma regulation in pear peel and flesh under methyl jasmonate treatment obtained by metabolite and whole-transcriptome RNA sequencing analyses
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.postharvbio.2023.112347
-pmid: 
-confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 07 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+pmid: ''
+title_fixed_from: New insights into aroma regulation in pear peel and flesh under methyl jasmonate
+theme_status: mapped
+theme_basis: tag+keyword
 
-# New 深入 into aroma 调控 in pear peel and flesh under methyl jasmonate treatment obtained by metabolite and whole-transcriptome RNA 测序 analyses
+---
 
-> New insights into aroma regulation in pear peel and flesh under methyl jasmonate treatment obtained by metabolite and whole-transcriptome RNA sequencing analyses
+# New insights into aroma regulation in pear peel and flesh under methyl jasmonate treatment obtained by metabolite and whole-transcriptome RNA sequencing analyses
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2023)

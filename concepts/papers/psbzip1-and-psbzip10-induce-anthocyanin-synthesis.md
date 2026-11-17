@@ -1,15 +1,21 @@
-title: "PsbZIP1 and PsbZIP10 induce anthocyanin synthesis in plums (Prunus salicina cv. Taoxingli) via PsUFGT by methyl salicyla"
+---
+
+title: PsbZIP1 and PsbZIP10 induce anthocyanin synthesis in plums (Prunus salicina cv. Taoxingli) via PsUFGT by methyl salicylate treatment during postharvest
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.postharvbio.2023.112396
-pmid: 
-confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 06 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+pmid: ''
+title_fixed_from: 'PsbZIP1 and PsbZIP10 induce anthocyanin synthesis in plums (Prunus salicina cv. '
+theme_status: mapped
+theme_basis: tag+keyword
 
-# PsbZIP1 and PsbZIP10 induce 花青素 synthesis in plums (Prunus salicina cv. Taoxingli) via PsUFGT by methyl salicylate treatment 过程中 postharvest
+---
 
-> PsbZIP1 and PsbZIP10 induce anthocyanin synthesis in plums (Prunus salicina cv. Taoxingli) via PsUFGT by methyl salicylate treatment during postharvest
+# PsbZIP1 and PsbZIP10 induce anthocyanin synthesis in plums (Prunus salicina cv. Taoxingli) via PsUFGT by methyl salicylate treatment during postharvest
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2023)

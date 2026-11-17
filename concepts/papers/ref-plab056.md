@@ -1,14 +1,24 @@
-title: RhizoVision Explorer: open-source software for root image analysis and measureme
+---
+title: 'RhizoVision Explorer: open-source software for root image analysis and measurement standardization'
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/aobpla/plab056
 confidence: medium
-aliases: ["RhizoVision Explorer: open-source software for root image analysis and measureme"]
+aliases:
+- 'RhizoVision Explorer: open-source software for root image analysis and measureme'
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: 'RhizoVision Explorer: open-source software for root image analysis and measureme'
+theme_status: mapped
+theme_basis: tag
 
-# RhizoVision Explorer: open-source software for root image analysis and measureme
+---
+
+# RhizoVision Explorer: open-source software for root image analysis and measurement standardization
 
 
 
@@ -41,7 +51,7 @@ Corresponding author’s e-mail address:yorklm@ornl.gov Received 2021 Apr 11; Ac
 
 ## 深度提炼
 
-**物种**: Zea mays, Glycine max, Triticum aestivum, Medicago spp., Citrus spp.
+**物种**: Zea mays, Glycine max, Triticum aestivum, Medicago spp.
 **方法**: molecular biology / biochemistry
 **来源**: DOI:10.1093/aobpla/plab056
 **来源类型**: PDF全文 (10.1093_aobpla_plab056.pdf)
@@ -54,11 +64,11 @@ Corresponding author’s e-mail address:yorklm@ornl.gov Received 2021 Apr 11; Ac
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

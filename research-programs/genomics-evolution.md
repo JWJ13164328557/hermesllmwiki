@@ -1,92 +1,150 @@
 ---
-title: "基因组与进化 — Synthesis"
+title: "Research Program: Genomics & Evolution"
+title_zh: "基因组学与演化：研究方案"
 type: research-program
 topic: "genomics-evolution"
-total_evidence: 345
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 521
+total_papers: 273
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 基因组与进化 — Synthesis
+# 🔬 Genomics & Evolution：从证据到可执行研究方案
 
-## Program Overview
-基于 345 条证据生成的 5 个实验目标。
+> 本方案由 521 条证据 / 273 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test IAP function
+- **主题**：Genomics & Evolution
+- **证据规模**：521 条证据 / 273 篇独立论文
+- **候选靶点**：MaGELP81, MKK3, qtl, polyploid, PhCBP60b, CL249
+- **主体系**：Musa spp.
+- **主题归属依据**：证据标签
 
-**Hypothesis**: IAP regulates MYB36 and FDR to control [process]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate IAP overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: IAP-GFP fusion
+### 目标 1：排除 MaGELP81 与 （responses） 的共同上游解释
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test TWAS function
-
-**Hypothesis**: TWAS regulates ERF3 and DAF to control [process]
-
-**Experimental Design**:
-1. Generate TWAS overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: TWAS-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test CPSF30 function
-
-**Hypothesis**: CPSF30 regulates CDS to control [process]
-
-**Experimental Design**:
-1. Generate CPSF30 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: CPSF30-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test FOS function
-
-**Hypothesis**: FOS regulates ZHD and PSAP to control [process]
-
-**Experimental Design**:
-1. Generate FOS overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: FOS-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test PSPG function
-
-**Hypothesis**: PSPG plays a critical role PRESS and UDP to control [process]
-
-**Experimental Design**:
-1. Generate PSPG overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: PSPG-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：MaGELP81 与 （responses） 在本主题的多项研究中被同时报道，但二者目前只是表达层面的共变。判别性检验：阻断 MaGELP81，看 （responses） 是否随之改变，而非二者共受上游驱动。
+- **体系**：Musa spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：MaGELP81 的条件性敲低/诱导系统（可精确控制时间）
+- **关键实验**
+  1. 建立可诱导的 MaGELP81 敲低体系
+  2. 做时间序列采样，比较 （responses） 变化的先后顺序
+  3. 在共同上游因子被抑制时重复同一时间序列，检验两者是否解耦
+  4. 若 （responses） 的变化稳定滞后于 MaGELP81，判定为下游；同步则为平行
+- **判定标准**：阻断 MaGELP81 后 （responses） 发生可测变化，而共同上游因子的活性或丰度未同步改变
+- **止损条件**：阻断 MaGELP81 后 （responses） 不变，或共同上游因子改变时两者同步变化（提示平行而非上下游）
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：建立 MKK3 的剂量—效应曲线
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：MKK3 已有 18 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Musa spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 MKK3 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 3：检验 qtl 的必要性
+
+- **对应假说**："qtl" 相关结论主要来自有限物种与有限组装质量的数据。判别性检验：在新增独立基因组中复检，并检验信号是否随组装碎片化而消失。
+- **体系**：Musa spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：qtl 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量可重复性
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：新增独立基因组中检出方向一致的信号，且与组装质量指标无关
+- **止损条件**：新增基因组中信号消失，或完全可由组装碎片化解释
+- **预计周期**：12–18 个月
+
+
+### 目标 4：检验 polyploid 的必要性
+
+- **对应假说**："polyploid" 相关结论主要来自有限物种与有限组装质量的数据。判别性检验：在新增独立基因组中复检，并检验信号是否随组装碎片化而消失。
+- **体系**：Musa spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：polyploid 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量可重复性
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：新增独立基因组中检出方向一致的信号，且与组装质量指标无关
+- **止损条件**：新增基因组中信号消失，或完全可由组装碎片化解释
+- **预计周期**：12–18 个月
+
+
+### 目标 5：建立 PhCBP60b 的剂量—效应曲线
+
+- **对应假说**：PhCBP60b 已有 8 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Musa spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 PhCBP60b 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 6：检验 CL249 的必要性
+
+- **对应假说**：CL249 在 7 项研究中被提名参与本主题，但本簇证据中未见在统一背景下检验其必要性的操纵实验（受检索覆盖限制，需回溯原文复核）。判别性检验：获得功能缺失等位基因，做表型、回补与组织特异性验证。
+- **体系**：Musa spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：CL249 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：功能缺失等位基因产生稳定、可回补的表型缺陷
+- **止损条件**：功能缺失无表型，或表型不可回补（提示脱靶或冗余基因补偿）
+- **预计周期**：12–18 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 组装与注释 | 0–8 月 | 多平台组装、BUSCO/LAI 质控、重复序列与基因注释 | 组装连续性与注释完整度达到预设阈值 |
+| P1 比较基因组 | 8–16 月 | 共线性、基因家族扩张/收缩、全基因组复制与分化 | 关键家族变化有系统发育与拷贝数双重支持 |
+| P2 变异与选择 | 16–24 月 | 重测序/GWAS/选择清除扫描，控制群体结构 | 候选区间在独立群体中可重复 |
+| P3 功能验证 | 24–36 月 | 对候选基因做表达、单倍型与遗传关联验证 | 至少 1 个候选获得独立功能或关联证据 |
+
+> 本路线从组装质控开始；没有合格组装与注释，不做“基因组演化”结论。
+
+## 四、风险与对策
+
+- 未从证据层识别到显著风险；仍应按标准做法设置生物学重复与盲法测量。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/genomics-evolution.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

@@ -1,9 +1,18 @@
+---
 title: Spatial transcriptomics reveals expression gradients in developing wheat inflore
-tags: [#methods-tools, papers]
-aliases: ["空间转录组学揭示小麦花蕾发育过程中的表达梯度"]
+tags: [papers]
+aliases: [空间转录组学揭示小麦花蕾发育过程中的表达梯度]
 type: paper
+themes: [developmental-biology, single-cell-spatial-omics]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Spatial transcriptomics reveals expression gradients in developing wheat inflore
 
@@ -45,7 +54,7 @@ Triticum, Inflorescence, Gene Expression Regulation, Plant, Transcriptome, Gene 
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]] 🌱wheat
 - [[plantcellchat-tool]]
 - [[reed-b-chromosome-sc-spatial]]
-- [[b3-Q__01uAq9RU85RON6eeUaQ]] 🌱wheat
-- [[b4-KF8GanK2tQYoK7m4CSoIDA]] 🌱wheat
+- [[ref-s13059-025-03811-3]] 🌱wheat
+- [[ref-s13059-025-03811-3]] 🌱wheat
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[capsicum-metabolite-spatial-patterning]]

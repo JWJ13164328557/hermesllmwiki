@@ -1,15 +1,26 @@
-title: Reversible histone acetylation and deacetylation mediate genome-wide, promoter-d
+---
+title: Reversible Histone Acetylation and Deacetylation Mediate Genome-Wide, Promoter-Dependent and Locus-Specific Changes in Gene Expression During Plant Development
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1534/genetics.104.033142
 confidence: medium
-aliases: ["可逆组蛋白乙酰化和脱乙酰化介导全基因组，启动子-d"]
-aliases_extra: ["Reversible histone acetylation and deacetylation mediate genome-wide, promoter-d"]
+aliases:
+- 可逆组蛋白乙酰化和脱乙酰化介导全基因组，启动子-d
+aliases_extra:
+- Reversible histone acetylation and deacetylation mediate genome-wide, promoter-d
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Reversible histone acetylation and deacetylation mediate genome-wide, promoter-d
+theme_status: mapped
+theme_basis: tag
 
-# Reversible histone acetylation and deacetylation mediate genome-wide, promoter-d
+---
+
+# Reversible Histone Acetylation and Deacetylation Mediate Genome-Wide, Promoter-Dependent and Locus-Specific Changes in Gene Expression During Plant Development
 
 
 
@@ -43,7 +54,7 @@ Corresponding author:Departments of Soil and Crop Sciences, MS 2474/Molecular Ge
 ## 相关文献
 
 - [[daily-42207342]]
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-cadmium-sc-multiomics]]
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
@@ -53,13 +64,13 @@ Corresponding author:Departments of Soil and Crop Sciences, MS 2474/Molecular Ge
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Nicotiana tabacum, Ficus carica
+**物种**: Arabidopsis thaliana, Nicotiana tabacum
 **方法**: genomics, RNAi/VIGS, knockout/mutant
 **来源**: DOI:10.1534/genetics.104.033142
 **来源类型**: PDF全文 (10.1534_genetics_104.033142.pdf)
 
 ### 核心发现
-1. Using Arabidopsis spotted oligo-gene microarray analysis, here we report that 7% of the transcriptome was up- or downregulated in A.
+1. Using Arabidopsis spotted oligo-gene microarray analysis, here we report that 7% of the transcriptome was up- or downregulated in A.
 2. E-mail: zjchen@tamu.edu the target genes and plant development.
 3. (b) ChIP assays show a correlation of histone acetyla- are locus speciﬁc: Although histone acetylation directly tion and methylation with gene activation and silencing, re- affects the expression of target genes, it is unclear spectively.
 4. 2001), histone ace- tylation targets speciﬁc loci and does not affect the adja- gous for the knockout mutation.

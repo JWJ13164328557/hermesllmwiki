@@ -1,34 +1,43 @@
 ---
-title: "Indeed, x-6 LA and x-3 ALA are required for the function of multiple physiological systems, and both"
-created: 2026-08-25
+title: "In cotton, knockout of GhFAD2 genes using the same approach increased the OA level to …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"
 doi: "10.1111/tpj.16545"
-species: [Arabidopsis thaliana, Zea mays, Glycine max]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Zea mays", "Glycine max", "Brassica napus"]
+primary_species: "Zea mays"
+evidence_type: "genetic perturbation"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "high"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["GhFAD2"]
 compounds: []
+evidence_type_confidence: "high"
+evidence_type_prior: ""
+
 ---
 
-# Indeed, x-6 LA and x-3 ALA are required for the function of multiple physiological systems, and both
+# In cotton, knockout of GhFAD2 genes using the same approach increased the OA level to …
 
 ## Claim
-Indeed, x-6 LA and x-3 ALA are required for the function of multiple physiological systems, and both are essential in that they cannot be de novo synthesized by mammals; instead, they must be obtained from dietary sources (Galili et al., 2016; Wilson et al., 2014).
+In cotton, knockout of GhFAD2 genes using the same approach increased the OA level to 77.7%, with concomitant decreases in LA (from 58.6% to 6.9%) and PA (from 23.95% to 13.18%) (Chen et al., 2021).
 
-## Biological Context
-Multi‐omics‐driven advances in the understanding of triacylglycerol 生物合成 in oil seeds
+## Source
+- 文献: [[multiomicsdriven-advances-in-the-understanding-of]]
+- DOI: 10.1111/tpj.16545
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[multiomicsdriven-advances-in-the-understanding-of]]*
+## 标注信息
+- 证据类型: genetic perturbation
+- 论断角色: finding
+- 论断证据完备度: high（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: GhFAD2
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

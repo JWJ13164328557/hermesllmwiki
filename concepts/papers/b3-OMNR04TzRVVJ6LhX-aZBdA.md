@@ -1,14 +1,24 @@
-title: Single-cell and tissue transcriptomes unveil factors regulating vein initiation 
+---
+title: Single-cell and tissue transcriptomes unveil factors regulating vein initiation and development in grass leaf primordia
 created: 2026-05-28
 type: concept
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags:
+- hormone-signaling
+- papers
 doi: 10.1093/plcell/koag035
 confidence: medium
-aliases: ["Single-cell and tissue transcriptomes unveil factors regulating vein initiation"]
+aliases:
+- Single-cell and tissue transcriptomes unveil factors regulating vein initiation
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Single-cell and tissue transcriptomes unveil factors regulating vein initiation
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Single-cell and tissue transcriptomes unveil factors regulating vein initiation
+---
+
+# Single-cell and tissue transcriptomes unveil factors regulating vein initiation and development in grass leaf primordia
 
 
 

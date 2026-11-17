@@ -1,34 +1,43 @@
 ---
-title: "Supporting this, we found that a miRNA-resistant version of PHB (with a silent mutation) expressed i"
-created: 2026-09-16
+title: "We show that this patterning occurs through crosstalk between the vascular cylinder and …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["developmental-biology", "papers"]
 source: "[[ref-nature08977]]"
 doi: "10.1038/nature08977"
-species: [Arabidopsis thaliana, Zea mays, Ficus carica]
-evidence_type: "genetic perturbation"
-quality: "high"
+species: ["Arabidopsis thaliana", "Zea mays"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Supporting this, we found that a miRNA-resistant version of PHB (with a silent mutation) expressed i
+# We show that this patterning occurs through crosstalk between the vascular cylinder and …
 
 ## Claim
-Supporting this, we found that a miRNA-resistant version of PHB (with a silent mutation) expressed in the meristematic region under the stele-specific CRE1 promoter was sufficient for ectopic metaxylem to form both in wild type and in the phb shr double mutant (Supplementary Fig.
+We show that this patterning occurs through crosstalk between the vascular cylinder and the surrounding endodermis mediated by cell-to-cell movement of a transcription factor in one direction and microRNAs in the other.
 
-## Biological Context
-Cell signalling by microRNA165/6 directs gene dose-dependent root cell fate.
+## Source
+- 文献: [[ref-nature08977]]
+- DOI: 10.1038/nature08977
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-nature08977]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: genetic perturbation
-**Level**: high
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,92 +1,13 @@
 #!/usr/bin/env python3
 """全量深度提炼：扫描 raw/ 所有 PDF → 匹配概念页 → 提取物种/方法/发现 → 更新概念页"""
-import os, re, sys, subprocess
+import io, os, re, sys, subprocess
 
-BASE = '/mnt/g/hermes_obsidian/hermes'
+from kb_paths import BASE  # 统一根目录解析: KB_BASE/APP_DIR 环境变量优先
+from species_patterns import order_species  # 物种识别唯一权威表（规范名+同义写法）
+import article_kind
+import themes as theme_mod
 CONCEPTS_DIR = os.path.join(BASE, 'concepts', 'papers')
 RAW_DIR = os.path.join(BASE, 'raw')
-
-SPECIES_PATTERNS = [
-    (r'\bArabidopsis\s+thaliana\b', 'Arabidopsis thaliana'),
-    (r'\bOryza\s+sativa\b|\brice\b', 'Oryza sativa'),
-    (r'\bZea\s+mays\b|\bmaize\b|\bcorn\b', 'Zea mays'),
-    (r'\bSolanum\s+lycopersicum\b|\btomato\b', 'Solanum lycopersicum'),
-    (r'\bMalus\s+(domestica|x\s+domestica)\b|\bapple\b', 'Malus domestica'),
-    (r'\bGlycine\s+max\b|\bsoybean\b', 'Glycine max'),
-    (r'\bNicotiana\s+(tabacum|benthamiana)\b|\btobacco\b', 'Nicotiana tabacum'),
-    (r'\bBrassica\s+napus\b|\brapeseed\b|\bcanola\b', 'Brassica napus'),
-    (r'\bTriticum\s+aestivum\b|\bwheat\b', 'Triticum aestivum'),
-    (r'\bHordeum\s+vulgare\b|\bbarley\b', 'Hordeum vulgare'),
-    (r'\bPopulus\b|\bpoplar\b', 'Populus spp.'),
-    (r'\bMedicago\s+(truncatula|sativa)\b|\balfalfa\b', 'Medicago spp.'),
-    (r'\bVitis\s+vinifera\b|\bgrapevine\b|\bgrape\b', 'Vitis vinifera'),
-    (r'\bCitrus\s+(sinensis|reticulata|clementina)\b|\b(citrus|orange)\b', 'Citrus spp.'),
-    (r'\bFragaria\b|\bstrawberry\b', 'Fragaria × ananassa'),
-    (r'\bGossypium\b|\bcotton\b', 'Gossypium hirsutum'),
-    (r'\bSorghum\s+bicolor\b|\bsorghum\b', 'Sorghum bicolor'),
-    (r'\bMusa\s+(acuminata|balbisiana)\b|\bbanana\b', 'Musa spp.'),
-    (r'\bManihot\s+esculenta\b|\bcassava\b', 'Manihot esculenta'),
-    (r'\bHelianthus\s+annuus\b|\bsunflower\b', 'Helianthus annuus'),
-    (r'\bTheobroma\s+cacao\b|\bcacao\b|\bcocoa\b', 'Theobroma cacao'),
-    (r'\bCoffea\b|\bcoffee\b', 'Coffea spp.'),
-    (r'\bCamellia\s+sinensis\b|\btea\s+plant\b', 'Camellia sinensis'),
-    (r'\bPinus\b|\bpine\b', 'Pinus spp.'),
-    (r'\bPicea\b|\bspruce\b', 'Picea spp.'),
-    (r'\bEucalyptus\b', 'Eucalyptus spp.'),
-    (r'\bQuercus\b|\boak\b', 'Quercus spp.'),
-    (r'\bSetaria\s+(viridis|italica)\b|\bfoxtail\s+millet\b', 'Setaria spp.'),
-    (r'\bPhaseolus\s+vulgaris\b|\bcommon\s+bean\b', 'Phaseolus vulgaris'),
-    (r'\bCicer\s+arietinum\b|\bchickpea\b', 'Cicer arietinum'),
-    (r'\bPisum\s+sativum\b|\bpea\b', 'Pisum sativum'),
-    (r'\bBeta\s+vulgaris\b|\bsugar\s+beet\b|\bbeetroot\b', 'Beta vulgaris'),
-    (r'\bBrachypodium\s+distachyon\b', 'Brachypodium distachyon'),
-    (r'\bSelaginella\b', 'Selaginella spp.'),
-    (r'\bPhyscomitrium\s+patens\b|\bPhyscomitrella\b', 'Physcomitrium patens'),
-    (r'\bMarchantia\s+polymorpha\b', 'Marchantia polymorpha'),
-    (r'\bChlamydomonas\s+reinhardtii\b', 'Chlamydomonas reinhardtii'),
-    (r'\bAmborella\s+trichopoda\b', 'Amborella trichopoda'),
-    (r'\bCeratopteris\s+richardii\b|\bfern\b', 'Ceratopteris richardii'),
-    (r'\bDaucus\s+carota\b|\bcarrot\b', 'Daucus carota'),
-    (r'\bSolanum\s+tuberosum\b|\bpotato\b', 'Solanum tuberosum'),
-    (r'\bCucumis\s+(sativus|melo)\b|\b(cucumber|melon)\b', 'Cucumis spp.'),
-    (r'\bCapsicum\s+annuum\b|\bpepper\b', 'Capsicum annuum'),
-    (r'\bAllium\s+(cepa|sativum)\b|\b(onion|garlic)\b', 'Allium spp.'),
-    (r'\bSpinacia\s+oleracea\b|\bspinach\b', 'Spinacia oleracea'),
-    (r'\bLactuca\s+sativa\b|\blettuce\b', 'Lactuca sativa'),
-    (r'\bPrunus\s+persica\b|\bpeach\b', 'Prunus persica'),
-    (r'\bPyrus\b|\bpear\b', 'Pyrus spp.'),
-    (r'\bPanax\s+(ginseng|notoginseng|quinquefolius)\b|\bginseng\b', 'Panax spp.'),
-    (r'\bTaxus\b|\byew\b', 'Taxus spp.'),
-    (r'\bArtemisia\s+annua\b|\bsweet\s+wormwood\b', 'Artemisia annua'),
-    (r'\bSalvia\s+miltiorrhiza\b|\bdanshen\b', 'Salvia miltiorrhiza'),
-    (r'\bGinkgo\s+biloba\b', 'Ginkgo biloba'),
-    (r'\bCatharanthus\s+roseus\b|\bperiwinkle\b', 'Catharanthus roseus'),
-    (r'\bHevea\s+brasiliensis\b|\brubber\b', 'Hevea brasiliensis'),
-    (r'\bJuglans\s+regia\b|\bwalnut\b', 'Juglans regia'),
-    (r'\bAnanas\s+comosus\b|\bpineapple\b', 'Ananas comosus'),
-    (r'\bMorus\b|\bmulberry\b', 'Morus alba'),
-    (r'\bFicus\s+carica\b|\bfig\b', 'Ficus carica'),
-    (r'\bPunica\s+granatum\b|\bpomegranate\b', 'Punica granatum'),
-    (r'\bActinidia\b|\bkiwifruit\b', 'Actinidia spp.'),
-    (r'\bVaccinium\b|\bblueberry\b|\bcranberry\b', 'Vaccinium spp.'),
-    (r'\bRubus\b|\b(blackberry|raspberry)\b', 'Rubus spp.'),
-    (r'\bFagopyrum\b|\bbuckwheat\b', 'Fagopyrum esculentum'),
-    (r'\bIpomoea\s+batatas\b|\bsweet\s+potato\b', 'Ipomoea batatas'),
-    (r'\bDioscorea\b|\byam\b', 'Dioscorea spp.'),
-    (r'\bRosa\s+(hybrida|rugosa|chinensis)\b|\brose\b', 'Rosa spp.'),
-    (r'\bZingiber\s+officinale\b|\bginger\b', 'Zingiber officinale'),
-    (r'\bCrocus\b|\bsaffron\b', 'Crocus sativus'),
-    (r'\bLilium\b|\blily\b', 'Lilium spp.'),
-    (r'\bPetunia\b', 'Petunia hybrida'),
-    (r'\bCoptis\b', 'Coptis spp.'),
-    (r'\bFallopia\s+multiflora\b', 'Fallopia multiflora'),
-    (r'\bDracaena\b', 'Dracaena spp.'),
-    (r'\bLycium\b|\bgoji\b|\bwolfberry\b', 'Lycium barbarum'),
-    (r'\bPaeonia\b|\bpeony\b', 'Paeonia spp.'),
-    (r'\bCarthamus\b|\bsafflower\b', 'Carthamus tinctorius'),
-    (r'\bCryptotaenia\b', 'Cryptotaenia japonica'),
-    (r'\bMiscanthus\b', 'Miscanthus spp.'),
-]
 
 METHOD_PATTERNS = [
     (r'\b(RNA-seq|RNAseq|transcriptom(ic|e)\s+(analysis|profiling|sequenc))\b', 'transcriptomics (RNA-seq)'),
@@ -117,8 +38,44 @@ METHOD_PATTERNS = [
 ]
 
 
+def clean_pdf_text(text):
+    """PDF 抽取后的最小清洗：修断词、并接被换行切断的句子。
+
+    2026-11-03：回灌的全文直接进了「核心发现」，于是正文里出现
+    "over- lapped"、"pro- moters" 这类断词，以及 "> <sub>" 之类的
+    行尾残留。证据是要被引用进综述的，断词会污染行内引文。
+    """
+    if not text:
+        return text
+    # 1) 行尾连字符断词：alphabet-\nbeta -> alphabetbeta
+    text = re.sub(r'([A-Za-z])-\s*\n\s*([a-z])', r'\1\2', text)
+    # 2) 软换行：句中断行（下一行不是大写开头/编号/图注）-> 空格
+    text = re.sub(r'(?<=[a-z,;])\s*\n\s*(?=[a-z(])', ' ', text)
+    # 2b) PDF 抽取残留控制字符（0x01-0x08）：PyYAML 直接拒解析，
+    #     写进 title 会让整页 frontmatter 失效（2026-11-03 实测 29 页）
+    text = re.sub(r'[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]', ' ', text)
+    # 3) 多余空白
+    text = re.sub(r'[ \t]{2,}', ' ', text)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text
+
+
 def extract_fulltext(pdf_path):
-    """Extract text from PDF via pymupdf (first 15 pages)"""
+    """取全文：PDF 走 pymupdf（前 15 页），.txt 走纯文本（Europe PMC JATS 转写）。
+
+    2026-11-02：Europe PMC 的两个 PDF 端点对脚本请求返回 403，PDF 通道当日
+    0/37；同一篇文献的 fullTextXML 仍可取到，转成 .txt 后由本函数读取。
+    """
+    if str(pdf_path).lower().endswith('.txt'):
+        try:
+            with open(pdf_path, encoding='utf-8', errors='ignore') as fh:
+                text = fh.read()
+            if len(text.strip()) > 200:
+                return text[:50000]
+        except Exception as e:
+            print(f"  ⚠ extract failed: {os.path.basename(pdf_path)[:50]}: {e}",
+                  file=sys.stderr)
+        return ''
     try:
         import fitz
         doc = fitz.open(pdf_path)
@@ -127,9 +84,8 @@ def extract_fulltext(pdf_path):
             text += page.get_text()
         doc.close()
         if len(text.strip()) > 200:
-            return text[:50000]
+            return clean_pdf_text(text)[:50000]
     except Exception as e:
-        import sys
         print(f"  ⚠ extract failed: {os.path.basename(pdf_path)[:50]}: {e}", file=sys.stderr)
     return ''
 
@@ -168,6 +124,10 @@ def extract_findings(text):
                 score += weight
         if score >= 3:
             clean = re.sub(r'\s+', ' ', sent).strip()
+            # 去掉句首残留的引用编号/编号列表标记（"33 20 , Notably, ..."）
+            clean = re.sub(r'^[\d\s,;:\[\]\.]+(?=[A-Z])', '', clean).strip()
+            if '## ' in clean or len(clean) < 40:
+                continue
             scored.append((score, clean[:400]))
     scored.sort(key=lambda x: -x[0])
     seen = set()
@@ -180,6 +140,43 @@ def extract_findings(text):
         if len(findings) >= 8:
             break
     return findings
+
+
+def _file_mentions_doi(path, doi, max_bytes=200000):
+    """确认文件确实属于该 DOI（防 glob 误配）。"""
+    try:
+        if path.lower().endswith('.txt'):
+            with open(path, encoding='utf-8', errors='ignore') as fh:
+                head = fh.read(max_bytes)
+        else:
+            import fitz
+            doc = fitz.open(path)
+            head = ''
+            for page in doc[:3]:
+                head += page.get_text()
+            doc.close()
+    except Exception:
+        return False
+    norm = lambda x: re.sub(r'\s+', '', x).lower()
+    return norm(doi) in norm(head)
+
+
+def _frontmatter(text):
+    if not text.startswith('---'):
+        return ''
+    end = text.find('\n---', 3)
+    return text[3:end] if end > 0 else ''
+
+
+def _fm_set(fm, key, value):
+    pat = re.compile(r'^%s\s*:.*$' % re.escape(key), re.M)
+    line = '%s: %s' % (key, value)
+    return pat.sub(line, fm, count=1) if pat.search(fm) else fm.rstrip('\n') + '\n' + line + '\n'
+
+
+def _fm_get(fm, key):
+    m = re.search(r'^%s\s*:\s*(.*)$' % re.escape(key), fm, re.M)
+    return m.group(1).strip().strip('"') if m else ''
 
 
 def main():
@@ -195,22 +192,55 @@ def main():
                     target_dois = set(line.strip().rstrip('./') for line in f if line.strip())
             else:
                 target_dois = set(d.strip().rstrip('./') for d in dois_arg.split(',') if d.strip())
+
+    # --pdf-map FILE : TSV  doi<TAB>page<TAB>pdf
+    # 2026-11-03：回灌通道此前把「已解析好的 PDF→页面」三元组丢掉，交给
+    # 本脚本再猜一次文件名，63 个目标只猜中 7 个（其余因前缀/后缀差异漏配）。
+    # 现在由调用方直接给出确定的映射，本脚本不再二次解析。
+    pdf_map_rows = None
+    page_override = {}
+    if '--pdf-map' in args:
+        idx = args.index('--pdf-map')
+        if idx + 1 < len(args):
+            rows = []
+            with io.open(args[idx + 1], encoding='utf-8') as fh:
+                for line in fh:
+                    parts = line.rstrip("\n").split("\t")
+                    if len(parts) < 3:
+                        continue
+                    doi, page, pdf = parts[0].strip(), parts[1].strip(), parts[2].strip()
+                    if not doi or not pdf or not os.path.exists(pdf):
+                        continue
+                    key = doi.rstrip('./')
+                    page_override[key] = page
+                    rows.append((pdf, key))
+            pdf_map_rows = rows
+            print("  -> %d pairs from --pdf-map" % len(rows), file=sys.stderr)
     
-    # Build DOI → concept mapping
+    # Build DOI → concept mapping (scan BOTH concepts/ and concepts/papers/, dedup)
     print("Building DOI → concept mapping...", file=sys.stderr)
+    # 2026-09-14: 补回/每日导入的概念页写在 concepts/ 顶层, 而此前只扫 concepts/papers/.
+    # 两处都扫描: 顶层 + papers/ 子目录.
+    scan_dirs = [CONCEPTS_DIR]
+    top_dir = os.path.join(BASE, 'concepts')
+    if os.path.isdir(top_dir) and os.path.abspath(top_dir) != os.path.abspath(CONCEPTS_DIR):
+        scan_dirs.append(top_dir)
     doi_to_concept = {}
-    for fname in os.listdir(CONCEPTS_DIR):
-        if not fname.endswith('.md'):
+    for sdir in scan_dirs:
+        if not os.path.isdir(sdir):
             continue
-        path = os.path.join(CONCEPTS_DIR, fname)
-        try:
-            with open(path, 'r', encoding='utf-8') as f:
-                content = f.read(3000)
-            dm = re.search(r'doi:\s*"?\s*(10\.\d{4,}/[^\s\n"\]]+)', content, re.I)
-            if dm:
-                doi_to_concept[dm.group(1).rstrip('/')] = path
-        except:
-            pass
+        for fname in os.listdir(sdir):
+            if not fname.endswith('.md'):
+                continue
+            path = os.path.join(sdir, fname)
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    content = f.read(3000)
+                dm = re.search(r'doi:\s*"?\s*(10\.\d{4,}/[^\s\n"\]\]]+)', content, re.I)
+                if dm:
+                    doi_to_concept.setdefault(dm.group(1).rstrip('/'), path)
+            except:
+                pass
     print(f"  → {len(doi_to_concept)} concept pages with DOI", file=sys.stderr)
 
     # Filter to target DOIs if specified
@@ -224,7 +254,9 @@ def main():
     import glob as _glob
 
     matched = []
-    if target_dois:
+    if pdf_map_rows is not None:
+        matched = pdf_map_rows
+    elif target_dois:
         # Fast path: direct filename lookup per target DOI
         print(f"  -> fast lookup for {len(doi_to_concept)} target DOIs", file=sys.stderr)
         for doi in doi_to_concept:
@@ -238,6 +270,17 @@ def main():
             if doi_abbrev != doi_slug:
                 candidates.append(doi_abbrev)
 
+            # 2026-11-03：DOI 后缀容错。Annual Reviews 等期刊的页面 DOI 带
+            # 文章号（...-042817-040549），而 PDF 常以短前缀命名
+            # （10.1146_annurev-arplant-042817.pdf）。逐个剥掉末尾
+            # `-segment` 生成候选，命中后仍由 _file_mentions_doi 校验。
+            for extra in range(1, 4):
+                parts = doi_slug.rsplit('-', extra)
+                if len(parts) > 1:
+                    cand = parts[0]
+                    if cand not in candidates:
+                        candidates.append(cand)
+
             found = None
             for fname in candidates:
                 # 2026-08-24: PDF 已汇总到 papers/all_pdfs/，加入定位目录
@@ -246,26 +289,52 @@ def main():
                     if os.path.exists(path):
                         found = path
                         break
+                if not found:
+                    # Europe PMC JATS 转写的全文（PDF 端点被 403 时的主通道）
+                    for subdir in ['papers/fulltext/', 'papers/fulltext_trial/', '']:
+                        path = os.path.join(RAW_DIR, subdir, fname + '.txt')
+                        if os.path.exists(path):
+                            found = path
+                            break
                 if found:
-                    break
+                    if _file_mentions_doi(found, doi_clean) or len(candidates) <= 2:
+                        break
+                    found = None
             if not found:
-                # glob fallback
-                for pat in [f'**/*{doi_slug[:50]}*.pdf', f'**/*{doi_slug[:50].replace(".", "-")}*.pdf']:
+                # glob fallback（2026-11-03 修复）：旧实现把 slug 截到 50 字符，
+                # 长 DOI 会命中**别的**论文的 PDF。现在用完整 slug，且命中后
+                # 校验文件内确实出现该 DOI，否则丢弃。
+                for pat in [f'**/*{doi_slug}*.pdf',
+                            f'**/*{doi_slug.replace(".", "-")}*.pdf',
+                            f'**/*{doi_slug}*.txt']:
                     hits = _glob.glob(os.path.join(RAW_DIR, pat), recursive=True)
-                    if hits:
-                        found = hits[0]
+                    ok = None
+                    for h in hits:
+                        if _file_mentions_doi(h, doi_clean):
+                            ok = h
+                            break
+                    if ok:
+                        found = ok
                         break
             if found:
                 matched.append((found, doi))
         print(f"  -> {len(matched)} PDFs matched via fast lookup", file=sys.stderr)
     else:
         # Full scan (no --dois filter)
+        # 2026-11-03: 全量扫描此前只收 .pdf，Europe PMC JATS 转写的
+        # papers/fulltext/*.txt 全部漏掉——这类全文已有 1500+ 份，是当前
+        # 深度提炼最容易回收的增量。这里把 .txt 一并纳入（跳过 _index.txt
+        # 等下划线开头的索引/日志文件）。
         pdf_files = []
         for root, dirs, files in os.walk(RAW_DIR):
             for f in files:
+                if f.startswith('_'):
+                    continue
                 if f.endswith('.pdf'):
                     pdf_files.append(os.path.join(root, f))
-        print(f"  -> {len(pdf_files)} PDFs found", file=sys.stderr)
+                elif f.endswith('.txt') and 'fulltext' in root.replace(os.sep, '/'):
+                    pdf_files.append(os.path.join(root, f))
+        print(f"  -> {len(pdf_files)} fulltext files found", file=sys.stderr)
 
         def doi_from_fname(fname):
             doi = fname.rsplit('.', 1)[0].replace('_', '/')
@@ -295,25 +364,77 @@ def main():
 
     print(f"  → {len(matched)} PDFs matched to concepts", file=sys.stderr)
 
+    # 2026-11-03: 同一 DOI 可能同时有 PDF 和 JATS .txt，若都送去提炼，
+    # 后一轮会用另一个来源覆盖前一轮，结果随 os.walk 顺序漂移。
+    # 这里按 DOI 去重，优先 PDF（原始版面，含图表与正文主体）。
+    _seen_doi = {}
+    _ordered = []
+    for _p, _d in matched:
+        _k = _d.rstrip('./')
+        _is_pdf = str(_p).lower().endswith('.pdf')
+        if _k in _seen_doi:
+            _prev_p = _seen_doi[_k]
+            if _is_pdf and not str(_prev_p).lower().endswith('.pdf'):
+                _ordered = [((_p, _d) if _d.rstrip('./') == _k else _x) for _x in _ordered]
+                _seen_doi[_k] = _p
+            continue
+        _seen_doi[_k] = _p
+        _ordered.append((_p, _d))
+    if len(_ordered) != len(matched):
+        print("  -> deduped to %d sources by DOI" % len(_ordered), file=sys.stderr)
+    matched = _ordered
+
     # Deep curate
     curated = 0
     no_text = 0
+    skipped_nonresearch = 0
+    nonresearch_pages = 0
     for pdf_path, doi in matched:
         fulltext = extract_fulltext(pdf_path)
         if not fulltext:
             no_text += 1
             continue
 
-        # Extract species
-        species = []
-        for pat, name in SPECIES_PATTERNS:
-            if re.search(pat, fulltext, re.I):
-                species.append(name)
-        species = list(dict.fromkeys(species))[:5]
-        if not species:
-            species = ['Plant (unspecified)']
+        key = doi.rstrip('./')
+        concept_path = page_override.get(key) or doi_to_concept.get(key)
+        if not concept_path:
+            print('  ! no concept page for', doi, file=sys.stderr)
+            continue
+        # 2026-11-03 修复：必须先读页面正文，再做标题/摘要判定。
+        # 旧实现把 content 的读取放在判定之后，实际复用了上一轮（乃至 DOI
+        # 索引循环）遗留的 content，导致物种与摘要张冠李戴。
+        with open(concept_path, 'r', encoding='utf-8', errors='ignore') as fh:
+            content = fh.read()
 
-        # Extract methods
+        fm = _frontmatter(content)
+        page_title = ''
+        tm = re.search(r'^# (.+)$', content, re.M)
+        if tm:
+            page_title = tm.group(1).strip()
+        # 概念页正文（深度提炼之前的部分）通常就是这篇文献的中文摘要
+        summary = content.split('## 深度提炼')[0]
+        if len(summary) > 4000:
+            summary = summary[:4000]
+        journal = _fm_get(fm, 'journal')
+
+        kind = article_kind.kind_of(fm)
+        if kind == 'research':
+            kind, _reasons = article_kind.classify(
+                title=page_title, doi=doi, journal=journal, body=summary)
+        eligible = article_kind.is_evidence_eligible(kind)
+
+        # 2026-11-03 第18轮：物种字段曾被全文污染——一篇大豆疫霉(Phytophthora
+        # sojae)论文仅因正文讨论提到 citrus，**物种** 行就多出 Citrus spp.，
+        # 自检判为"文献描述与实际不符"。研究物种的判据应是题目/摘要；全文只在
+        # 摘要判不出任何物种时兜底取最高频的单个物种。此口径与 evidence 层
+        # primary_species（batch_evidence_objects 用 fulltext=''）保持一致。
+        species = order_species(title=page_title, abstract=summary,
+                                fulltext='', limit=5)
+        # 摘要判不出物种时**不再**回退到全文 top-1：实测 6 例回退里 4 例错
+        # （纳米银综述→Citrus、火星植树→Pinus、菊花多倍体→Citrus），错误物种
+        # 会污染下游 primary_species 与假说。宁可留空并如实标注，也不猜。
+        primary = species[0] if species and species != ['Plant (unspecified)'] else 'Plant'
+
         methods = []
         for pat, name in METHOD_PATTERNS:
             if re.search(pat, fulltext, re.I):
@@ -322,33 +443,38 @@ def main():
         if not methods:
             methods = ['molecular biology / biochemistry']
 
-        # Extract findings
-        findings = extract_findings(fulltext)
+        if eligible:
+            findings = extract_findings(fulltext)
+            findings_str = ('\n'.join(f'{i+1}. {f}' for i, f in enumerate(findings))
+                            if findings else '_（无显著信号句）_')
+            body_block = '### 核心发现\n%s' % findings_str
+        else:
+            # 非研究页（更正/撤稿/社论/会员表/目录页）：不产出"核心发现"，
+            # 只记录变更对象——这正是"提炼内容与文献实体不符"的根治点。
+            findings = []
+            nonresearch_pages += 1
+            body_block = ('### 文献变更要点\n'
+                          '文献类型为 `%s`，不属于可作证据的研究/综述，'
+                          '不产出机制性发现。\n\n- 标题: %s\n- DOI: %s\n'
+                          % (kind, page_title or '（缺）', doi))
 
-        # Update concept page
-        concept_path = doi_to_concept[doi]
-        with open(concept_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-
-        species_str = ', '.join(species)
+        species_str = ', '.join(species) if species else '—'
         methods_str = ', '.join(methods)
-        findings_str = '\n'.join(f'{i+1}. {f}' for i, f in enumerate(findings)) if findings else '_（无显著信号句）_'
-
         curation_new = f"""## 深度提炼
 
+**主要物种**: {primary}
 **物种**: {species_str}
 **方法**: {methods_str}
 **来源**: DOI:{doi}
-**来源类型**: PDF全文 ({os.path.basename(pdf_path)[:60]})
+**来源类型**: {('XML全文' if str(pdf_path).lower().endswith('.txt') else 'PDF全文')} ({os.path.basename(pdf_path)[:60]})
 
-### 核心发现
-{findings_str}
+{body_block}
 """
 
         if '## 深度提炼' in content:
             content = re.sub(
                 r'## 深度提炼.*?(?=\n## (?!深度)|## 相关文献|---\s*\n\Z|\Z)',
-                curation_new.strip(),
+                lambda _m: curation_new.strip(),
                 content, flags=re.DOTALL
             )
         else:
@@ -358,16 +484,39 @@ def main():
             else:
                 content = content.rstrip() + '\n\n' + curation_new
 
-        with open(concept_path, 'w', encoding='utf-8') as f:
+        # 主题归属：用"标题 + 摘要 + 核心发现"作上下文，写规范 themes
+        ctx = page_title + '\n' + summary + '\n' + ' '.join(findings[:4])
+        tset, tbasis = theme_mod.assign_themes(
+            _fm_get(fm, 'tags').strip('[]').split(','), ctx)
+        tset = theme_mod.filter_supported_themes(tset, ctx)
+        tset = set(list(tset)[:theme_mod.MAX_THEMES_PER_EVIDENCE])
+
+        fm2 = _frontmatter(content)
+        if fm2:
+            end = content.find('\n---', 3)
+            if tset:
+                fm2 = _fm_set(fm2, 'themes', '[%s]' % ', '.join(sorted(tset)))
+                fm2 = _fm_set(fm2, 'theme_status', 'mapped')
+            elif _fm_get(fm2, 'themes') in ('', '[other]', 'other'):
+                fm2 = _fm_set(fm2, 'themes', '[other]')
+                fm2 = _fm_set(fm2, 'theme_status', 'out-of-scope')
+            fm2 = _fm_set(fm2, 'theme_basis', tbasis or 'none')
+            if not article_kind.is_evidence_eligible(article_kind.kind_of(fm2)):
+                fm2 = _fm_set(fm2, 'article_kind', kind)
+            content = '---' + fm2 + content[end:]
+
+        with open(concept_path, 'w', encoding='utf-8', newline='\n') as f:
             f.write(content)
 
         curated += 1
         if curated % 100 == 0:
-            print(f"  [{curated}/{len(matched)}] {species[0]}: {len(findings)} findings", file=sys.stderr)
+            print(f"  [{curated}/{len(matched)}] {primary}: {len(findings)} findings",
+                  file=sys.stderr)
 
     print(f"\n=== DONE ===")
     print(f"Matched PDFs: {len(matched)}")
     print(f"Curated: {curated}")
+    print(f"  of which non-research (no findings): {nonresearch_pages}")
     print(f"No text: {no_text}")
 
 

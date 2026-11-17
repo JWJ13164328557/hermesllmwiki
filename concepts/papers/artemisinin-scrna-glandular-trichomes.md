@@ -1,17 +1,25 @@
-title: "Tracing the evolutionary and genetic footprints of atmospheric tillandsioids transition from land to air."
-pmid: "39505856"
-doi: "10.1093/hr/uhac136"
-pmcid: "PMC9437724"
-journal: "Nature communications"
-year: "2024"
-authors: "Xiaolong Lyu, Ping Li, Liang Jin, Feng Yang, Boas Pucker"
+---
+title: Tracing the evolutionary and genetic footprints of atmospheric tillandsioids transition from land to air.
+pmid: '39505856'
+doi: 10.1038/s41467-024-53756-7
+pmcid: PMC9437724
+journal: Nature communications
+year: '2024'
+authors: Xiaolong Lyu, Ping Li, Liang Jin, Feng Yang, Boas Pucker
 type: paper
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 species: [Arabidopsis thaliana, Zea mays (maize), Triticum aestivum (wheat), Physcomitrium patens (moss)]
 methods: [multi-omics, RNA-seq, RNA-FISH, QTL, phylogenetics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Tracing the evolutionary and genetic footprints of atmospheric tillandsioids transition from land to air.
 
 ## 1. Scientific Context
 
@@ -128,10 +136,10 @@ To investigate the inheritance pattern of the hull-less trait in pumpkins, we de
 - 物种: Arabidopsis thaliana, Zea mays (maize), Triticum aestivum (wheat), Physcomitrium patens (moss)
 - 关键基因: CESA3, MYB63, CESA9, GL2, MUM4, MYB46, TTG1, CESA5
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Phylogeny, Biological Evolution, Bromeliaceae, Nitrogen Fixation, Ecosystem, Transcriptome, Atmosphere, Evolution, Molecular
 
@@ -147,3 +155,21 @@ To investigate the inheritance pattern of the hull-less trait in pumpkins, we de
 - 基于PMC全文分析，可靠性较高
 - 自动分析可能遗漏关键细节
 - 统计方法和
+
+## 深度提炼
+
+**主要物种**: Zea mays
+**物种**: Zea mays, Cucumis spp., Hordeum vulgare, Triticum aestivum, Medicago spp.
+**方法**: transcriptomics (RNA-seq), phylogenetics, GWAS, QTL mapping
+**来源**: DOI:10.1038/s41467-024-53756-7
+**来源类型**: XML全文 (10.1038_s41467-024-53756-7.txt)
+
+### 核心发现
+1. Interestingly, through secondary cell wall compositional analysis, we found that the main SCW components differed among cell layers in the seed coat.
+2. Collectively, our findings provide mechanistic insight into seed coat SCW biosynthesis, and a target gene for breeders to introduce this hull-less trait for commercial exploitation.
+3. Surprisingly, we found that the SCWs of the three cell layers were composed of different components.
+4. These results suggest that CpNST1 plays a key role in the pumpkin seed coat SCW regulatory network, and its loss of function will interrupt this regulatory network ( ).
+5. Here, by bulked segregant analysis and fine mapping, we found that mutation of a single gene, NAC SECONDARY WALL THICKENING PROMOTING FACTOR 1 ( NST1 ), accounts for the hull-less trait.
+6. At 20 DAP we found the GO terms of the biological process categories ‘cellulose biosynthesis process’, ‘cellulose metabolic process’, ‘glucan biosynthetic process’, ‘beta glucan biosynthetic process’, ‘beta glucan metabolic process’, ‘polysaccharide biosynthetic process’, and ‘cellular polysaccharide biosynthetic process’ were most significantly enriched ( ), indicating that the cellulose biosynth
+7. In addition, through the expression analysis of pumpkin-homologous genes related to SCW biosynthesis in the Arabidopsis in the seed coat, we found several TFs and enzymes participating in pumpkin seed coat SCW biosynthesis ( ).
+8. In addition, from RNA-seq analysis, we found the expression level of CpNST1 at 20 DAP in the HL even higher than that in the H cultivar.

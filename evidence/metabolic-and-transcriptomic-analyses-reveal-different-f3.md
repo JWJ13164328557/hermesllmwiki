@@ -1,34 +1,43 @@
 ---
-title: "Taken together, these results indicated that the flavonoids – in the jujube leaves accumulated in a "
-created: 2026-08-25
+title: "These results indicated that the flavonoids – in the jujube leaves accumulated in a …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[metabolic-and-transcriptomic-analyses-reveal-different]]"
 doi: "10.1016/j.foodchem.2021.129005"
-species: [Oryza sativa, Camellia sinensis, Solanum tuberosum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Ipomoea batatas", "Camellia sinensis", "Oryza sativa"]
+primary_species: "Ipomoea batatas"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, these results indicated that the flavonoids – in the jujube leaves accumulated in a 
+# These results indicated that the flavonoids – in the jujube leaves accumulated in a …
 
 ## Claim
-Taken together, these results indicated that the flavonoids – in the jujube leaves accumulated in a light-dependent manner.
+These results indicated that the flavonoids – in the jujube leaves accumulated in a light-dependent manner.
 
-## Biological Context
-Metabolic and transcriptomic analyses 揭示 different metabolite 生物合成 profiles between leaf buds and mature leaves in Ziziphus jujuba mill
+## Source
+- 文献: [[metabolic-and-transcriptomic-analyses-reveal-different]]
+- DOI: 10.1016/j.foodchem.2021.129005
+- 主要物种: Ipomoea batatas
 
-## Supporting Evidence
-*Source: [[metabolic-and-transcriptomic-analyses-reveal-different]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

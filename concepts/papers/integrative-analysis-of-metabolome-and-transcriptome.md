@@ -1,15 +1,22 @@
-title: "Integrative analysis of metabolome and transcriptome reveals molecular regulatory mechanism of flavonoid biosynthesis in"
+---
+title: Integrative analysis of metabolome and transcriptome reveals molecular regulatory mechanism of flavonoid biosynthesis in Cyclocarya paliurus under salt stress
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.113823
-pmid: 
-confidence: medium
-aliases: ["代谢组和转录组综合分析揭示盐胁迫下青钱柳类黄酮生物合成的分子调控机制"]
+pmid: ''
+aliases:
+- 代谢组和转录组综合分析揭示盐胁迫下青钱柳类黄酮生物合成的分子调控机制
+title_fixed_from: Integrative analysis of metabolome and transcriptome reveals molecular regulator
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Integrative 分析 of metabolome and transcriptome 揭示 分子 regulatory 机制 of 类黄酮 生物合成 in Cyclocarya paliurus under salt 胁迫
+---
 
-> Integrative analysis of metabolome and transcriptome reveals molecular regulatory mechanism of flavonoid biosynthesis in Cyclocarya paliurus under salt stress
+# Integrative analysis of metabolome and transcriptome reveals molecular regulatory mechanism of flavonoid biosynthesis in Cyclocarya paliurus under salt stress
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

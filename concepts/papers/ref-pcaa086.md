@@ -1,14 +1,27 @@
-title: OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Matur
+---
+title: OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Mature Embryo
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation, hormone-signaling]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1093/pcp/pcaa086
 confidence: medium
-aliases: ["OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Matur"]
+aliases:
+- OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Matur
+- cr-10-1093-pcp_pcaa086
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Matur
+merged_from:
+- cr-10-1093-pcp_pcaa086
+theme_status: mapped
+theme_basis: tag+keyword
 
-# OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Matur
+---
+
+# OsHDA710-Mediated Histone Deacetylation Regulates Callus Formation of Rice Mature Embryo
 
 
 
@@ -29,16 +42,16 @@ Histone deacetylases (HDACs) play important roles in the regulation of eukaryoti
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Ficus carica
+**物种**: Oryza sativa
 **方法**: transcriptomics (RNA-seq), ChIP-seq/qPCR, qRT-PCR validation, CRISPR/Cas9, RNAi/VIGS, overexpression, knockout/mutant, promoter-GUS assay
 **来源**: DOI:10.1093/pcp/pcaa086
 **来源类型**: PDF全文 (10.1093_pcp_pcaa086.pdf)
@@ -52,3 +65,5 @@ Histone deacetylases (HDACs) play important roles in the regulation of eukaryoti
 6. HDA19 can interact with TOPLESS/TOPLESS-LIKE PROTEIN (TPL/TPR) to form the TPL-HDA19 repression complex, which represses transcription (Bollier et al.
 7. Additionally, HDA19 interacts with HSL1 to regulate seed germination and embryogenesis (Zhou et al.
 8. HDA19 interacts with SCARECROW (SCR) to regulate the root cortical cell fate (Chen et al.
+
+> 合并说明：本页与 cr-10-1093-pcp_pcaa086 指向同一 DOI（10.1093/pcp/pcaa086），已将重复页移入 archive/duplicates/。

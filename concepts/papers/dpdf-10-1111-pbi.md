@@ -1,19 +1,28 @@
 ---
-title: 10.1111/pbi
+
+
+title: Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin
 created: 2026-06-04
 type: concept
+themes: [metabolism-natural-products, single-cell-spatial-omics]
 tags: [papers, dpdf]
 doi: 10.1111/pbi
 confidence: moderate
 source: dPDF
 species: —
 methods: —
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 32 MINUTES 50 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["10.1111/pbi"]
+aliases_extra:
+- "10.1111/pbi"
+needs_review: true
+doi_quality: journal_level
+title_source: pdf_filename
+title_quality: from_pdf_filename
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# 10.1111/pbi
+# Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin
 
 ## 论文信息
 - **期刊**:  (None)

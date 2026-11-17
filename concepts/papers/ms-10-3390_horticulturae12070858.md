@@ -1,14 +1,20 @@
 ---
-title: Effects of IBA Combined with NAA/Melatonin/Citric Acid on Rooting Characteristic
+title: Effects of IBA Combined with NAA/Melatonin/Citric Acid on Rooting Characteristics of Grape Rootstocks
 created: 2026-07-23
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12070858
 confidence: moderate
 source: openalex
+title_fixed_from: Effects of IBA Combined with NAA/Melatonin/Citric Acid on Rooting Characteristic
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Effects of IBA Combined with NAA/Melatonin/Citric Acid on Rooting Characteristics of Grape Rootstocks
+# Effects of IBA Combined with NAA/Melatonin/Citric Acid on Rooting Characteristics of Grape Rootstockss of Grape Rootstocks
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

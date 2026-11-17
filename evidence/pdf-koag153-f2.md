@@ -1,34 +1,43 @@
 ---
-title: "To further investigate how OsNPR1 affects IPA1 activity, 7 the authors used ChIP-qPCR and in vitro b"
-created: 2026-08-25
+title: "RNA sequencing revealed that OsNPR1 and IPA1 largely regulate the 5 expression of a …"
+created: 2026-11-03
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["epigenetics-gene-regulation", "stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["stress-immunity", "papers"]
 source: "[[pdf-koag153]]"
 doi: "10.1093/plcell/koag153"
-species: [Arabidopsis thaliana, Oryza sativa, Solanum tuberosum]
-evidence_type: "DNA binding/regulation"
+species: ["Oryza sativa", "Arabidopsis thaliana", "Solanum tuberosum"]
+primary_species: "Oryza sativa"
+evidence_type: "omics/co-occurrence"
+claim_role: "background"
+non_finding_kind: "textbook"
 quality: "medium"
-genes: [ChIP, OsNPR1]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["IPA1", "OsNPR1"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# To further investigate how OsNPR1 affects IPA1 activity, 7 the authors used ChIP-qPCR and in vitro b
+# RNA sequencing revealed that OsNPR1 and IPA1 largely regulate the 5 expression of a …
 
 ## Claim
-To further investigate how OsNPR1 affects IPA1 activity, 7 the authors used ChIP-qPCR and in vitro binding assays to reveal that IPA1 shows 8 reduced binding to its defense-related gene targets in the absence of OsNPR1.
+RNA sequencing revealed that OsNPR1 and IPA1 largely regulate the 5 expression of a common set of genes, and that OsNPR1 is required for IPA1-mediated 6 regulation expression for many.
 
-## Biological Context
-Teamwork Makes the Dream Work: IPA1 and OsNPR1 work together to enhance immunity in rice
+## Source
+- 文献: [[pdf-koag153]]
+- DOI: 10.1093/plcell/koag153
+- 主要物种: Oryza sativa
 
-## Supporting Evidence
-*Source: [[pdf-koag153]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: background
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: IPA1, OsNPR1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

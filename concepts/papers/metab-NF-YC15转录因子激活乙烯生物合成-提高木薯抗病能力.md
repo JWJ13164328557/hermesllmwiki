@@ -3,11 +3,18 @@ title: "NF-YC15转录因子激活乙烯生物合成，提高木薯抗病能力"
 journal: "unknown"
 year: ""
 type: paper
-tags: [gene-regulation, metabolism]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags: [metabolism]
 species: [plant]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

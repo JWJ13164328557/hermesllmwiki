@@ -1,15 +1,22 @@
-title: "Integrated metabolome, full‐length sequencing, and transcriptome analyses unveil the molecular mechanisms of color forma"
+---
+title: Integrated metabolome, full-length sequencing, and transcriptome analyses unveil the molecular mechanisms of color formation of the canary yellow and red bracts of Bougainvillea × buttiana ‘Chitra’
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/tpj.16439
-pmid: 
-confidence: medium
-aliases: ["综合代谢组、全长测序和转录组分析揭示了金丝雀黄色和金丝雀红色瓣形成的分子机制"]
+pmid: ''
+aliases:
+- 综合代谢组、全长测序和转录组分析揭示了金丝雀黄色和金丝雀红色瓣形成的分子机制
+title_fixed_from: Integrated metabolome, full‐length sequencing, and transcriptome analyses unveil
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 整合 metabolome, full‐length 测序, and transcriptome analyses 揭示 the 分子 mechanisms of color formation of the canary yellow and red bracts of Bougainvillea × buttiana ‘Chitra’
+---
 
-> Integrated metabolome, full‐length sequencing, and transcriptome analyses unveil the molecular mechanisms of color formation of the canary yellow and red bracts of Bougainvillea × buttiana ‘Chitra’
+# Integrated metabolome, full‐length sequencing, and transcriptome analyses unveil the molecular mechanisms of color formation of the canary yellow and red bracts of Bougainvillea × buttiana ‘Chitra’
 
 ## 论文信息
 - **期刊**: The Plant Journal (2023)
@@ -25,9 +32,16 @@ SUMMARYBougainvillea is a typical tropical flower of great ornamental value due 
 
 ## 深度提炼
 
-**方法**: RNA-seq, Metabolomics
+**主要物种**: Nicotiana tabacum
+**物种**: Nicotiana tabacum, Beta vulgaris, Ipomoea batatas, Malus domestica, Oryza sativa
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation, overexpression, phylogenetics
+**来源**: DOI:10.1111/tpj.16439
+**来源类型**: PDF全文 (51 综合代谢组、全长测序和转录组分析揭示了Bougainvillea × buttiana 'Chitra'金丝雀黄色)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Further investigation revealed that several putative transcription factors (TFs) might interact with the promoters of the genes mentioned above.
+2. Among them, 21 TFs and 11 TFs were signiﬁcantly and positively or negatively related to the expression levels of corresponding target gene.
+3. Thereafter, Pearson correlation analysis was conducted for the purpose of determining the gene expression levels between the predicted TFs and the relevant target genes.
+4. Among them, 78 TFs were signiﬁcantly positively, and 92 TFs were signiﬁcantly negatively related to the expression levels of corresponding target genes, respectively.
+5. The number of TFs was counted after eliminating the repetitions based on the fact that one TF binds to many structural genes.
+6. Prediction and screening of transcription factors Identifying several TFs is crucial for gaining a comprehensive understanding of the molecular regulatory mechanism of the structural genes that contribute to the formation of red bract color.

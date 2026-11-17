@@ -1,34 +1,43 @@
 ---
-title: "These results suggest that CmRR2 may directly activate CmGA20ox1 expression."
-created: 2026-08-25
+title: "CK plays a key role in various developmental processes, including seed germination …"
+created: 2026-11-03
 type: evidence
-tags: [#hormone-signaling, papers]
+themes: ["hormone-signaling", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["hormone-signaling", "papers"]
 source: "[[gibberellin-biosynthesis-is-required-for-cppu-induced]]"
 doi: "10.1093/hr/uhad084"
-species: [Solanum lycopersicum, Vitis vinifera, Citrus spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [CmGA20ox1, CmRR2]
+species: ["Cucumis spp.", "Solanum lycopersicum", "Actinidia spp."]
+primary_species: "Cucumis spp."
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# These results suggest that CmRR2 may directly activate CmGA20ox1 expression.
+# CK plays a key role in various developmental processes, including seed germination …
 
 ## Claim
-These results suggest that CmRR2 may directly activate CmGA20ox1 expression.
+CK plays a key role in various developmental processes, including seed germination, meristem activation and identity, and leaf senescence [23, 24, 33].
 
-## Biological Context
-Gibberellin 生物合成 is required for CPPU-induced parthenocarpy in melon
+## Source
+- 文献: [[gibberellin-biosynthesis-is-required-for-cppu-induced]]
+- DOI: 10.1093/hr/uhad084
+- 主要物种: Cucumis spp.
 
-## Supporting Evidence
-*Source: [[gibberellin-biosynthesis-is-required-for-cppu-induced]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

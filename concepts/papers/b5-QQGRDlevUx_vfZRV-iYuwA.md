@@ -1,12 +1,18 @@
+---
 title: Dissecting the cellular architecture and genetic circuitry of the soybean seed.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1073/pnas.2416987121
 confidence: medium
-aliases: ["Dissecting the cellular architecture and genetic circuitry of the soybean seed."]
+aliases: [Dissecting the cellular architecture and genetic circuitry of the soybean seed.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Dissecting the cellular architecture and genetic circuitry of the soybean seed.
 
@@ -32,8 +38,8 @@ Seeds are complex structures composed of three regions, embryo, endosperm, and s
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]
-- [[b3-MweGEIei1VoObhk3boSJog]]
-- [[b3-Q__01uAq9RU85RON6eeUaQ]]
+- [[b3-peg1lwq2yaEXfDY9yfqzZg]]
+- [[ref-s13059-025-03811-3]]
 
 
 
@@ -51,7 +57,7 @@ To obtain a comprehensive understanding of seed biology, we profiled mRNAs in re
 
 ## 深度提炼
 
-**物种**: Glycine max, Ficus carica
+**物种**: Glycine max
 **方法**: single-cell RNA-seq
 **来源**: DOI:10.1073/pnas.2416987121
 **来源类型**: PDF全文 (10.1073_pnas.2416987121.pdf)

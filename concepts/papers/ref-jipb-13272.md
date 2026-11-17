@@ -1,14 +1,24 @@
-title: WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and fl
+---
+title: WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and flowering in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1111/jipb.13272
 confidence: medium
-aliases: ["WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and fl"]
+aliases:
+- WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and fl
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and fl
+theme_status: mapped
+theme_basis: tag+keyword
 
-# WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and fl
+---
+
+# WHIRLY1 recruits the histone deacetylase HDA15 repressing leaf senescence and flowering in Arabidopsis
 
 
 
@@ -29,11 +39,11 @@ Leaf senescence is controlled by a complex regulatory network in which robustnes
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

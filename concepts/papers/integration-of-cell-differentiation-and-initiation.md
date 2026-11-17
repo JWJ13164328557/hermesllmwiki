@@ -1,15 +1,22 @@
-title: "Integration of cell differentiation and initiation of monoterpenoid indole alkaloid metabolism in seed germination of Ca"
+---
+title: Integration of cell differentiation and initiation of monoterpenoid indole alkaloid metabolism in seed germination of Catharanthus roseus
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/nph.19662
-pmid: 
-confidence: medium
-aliases: ["长春花种子萌发中细胞分化和单萜吲哚生物碱代谢起始的整合"]
+pmid: ''
+aliases:
+- 长春花种子萌发中细胞分化和单萜吲哚生物碱代谢起始的整合
+title_fixed_from: Integration of cell differentiation and initiation of monoterpenoid indole alkal
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 整合 of cell differentiation and initiation of monoterpenoid indole 生物碱 metabolism in seed germination of Catharanthus roseus
+---
 
-> Integration of cell differentiation and initiation of monoterpenoid indole alkaloid metabolism in seed germination of Catharanthus roseus
+# Integration of cell differentiation and initiation of monoterpenoid indole alkaloid metabolism in seed germination of Catharanthus roseus
 
 ## 论文信息
 - **期刊**: New Phytologist (2024)
@@ -25,7 +32,12 @@ Summary In Catharanthus roseus, monoterpenoid indole alkaloids (MIAs) are produc
 
 ## 深度提炼
 
+**主要物种**: Catharanthus roseus
+**物种**: Catharanthus roseus, Arabidopsis thaliana, Artemisia annua
+**方法**: transcriptomics (RNA-seq), knockout/mutant
+**来源**: DOI:10.1111/nph.19662
+**来源类型**: PDF全文 (21 长春花种子萌发过程中的细胞分化与单萜吲哚生物碱代谢的启动相结合.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. We found that laticifers in developing embryos were morphologically differentiated and noted gradual induction of MIA biosynthesis during germination, with variation in the timing of MIA biosynthetic gene expression.
+2. These metabolites, although not essential for the survival of these organisms, are crucial for their environmental adaptation and interactions with other organisms.

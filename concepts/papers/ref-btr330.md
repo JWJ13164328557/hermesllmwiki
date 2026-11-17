@@ -1,14 +1,24 @@
-title: "变体调用格式和VCFtools。"
+---
+title: 变体调用格式和VCFtools。
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/bioinformatics/btr330
 confidence: medium
-aliases: ["变体调用格式和VCFtools。"]
+aliases:
+- 变体调用格式和VCFtools。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: The variant call format and VCFtools
+theme_status: mapped
+theme_basis: tag
 
-# 变体调用格式和VCFtools。
+---
+
+# The variant call format and VCFtools
 
 
 
@@ -18,7 +28,11 @@ updated: "2026-05-29"
 **作者**: 
 
 ## 摘要
-<h4>Summary</h4>The variant call format (VCF) is a generic format for storing DNA polymorphism data such as SNPs, insertions, deletions and structural variants, together with rich annotations. VCF is usually stored in a compressed manner and can be indexed for fast data retrieval of variants from a range of positions on the reference genome. The format was developed for the 1000 Genomes Project, and has also been adopted by other projects such as UK10K, dbSNP and the NHLBI Exome Project. VCFtools is a software suite that implements various utilities for processing VCF files, including validation, merging, comparing and also provides a general Perl API.<h4>Availability</h4>http://vcftools.sourceforge.net
+
+
+**Summary**  The variant call format (VCF) is a generic format for storing DNA polymorphism data such as SNPs, insertions, deletions and structural variants, together with rich annotations. VCF is usually stored in a compressed manner and can be indexed for fast data retrieval of variants from a range of positions on the reference genome. The format was developed for the 1000 Genomes Project, and has also been adopted by other projects such as UK10K, dbSNP and the NHLBI Exome Project. VCFtools is a software suite that implements various utilities for processing VCF files, including validation, merging, comparing and also provides a general Perl API.
+
+**Availability**  http://vcftools.sourceforge.net
 
 
 
@@ -27,7 +41,7 @@ updated: "2026-05-29"
 
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-anther-sc-atlas]]
 - [[arabidopsis-root-sc-atlas-plantcell]]
 - [[arabidopsis-root-sc-atlas-review]]

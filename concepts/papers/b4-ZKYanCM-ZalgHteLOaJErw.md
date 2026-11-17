@@ -1,12 +1,21 @@
-title: "The multidimensional significance of virus-host protein inte"
-journal: "unknown"
-year: ""
+---
+title: The multidimensional significance of virus-host protein inte
+journal: unknown
+year: ''
 type: paper
-tags: [#developmental-biology, papers]
+themes: [stress-immunity]
+tags: [papers]
 species: [Arabidopsis thaliana]
-status: frontmatter-enhanced
-curation_depth: "基础整理"
+status: pollution
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -31,8 +40,8 @@ updated: 2026-05-30
 ## 相关文献
 
 - [[b4-_dqlLGuPZxhNXXs6caCEwg]] 🌱Arabidopsis
-- [[b6-jpXamO-lS-eyCqULAU9qnA]] 🌱Arabidopsis
-- [[plant-sc-omics-opportunities-challenges]] 🌱Arabidopsis
+- [[cr-s41477-023-01387-z]] 🌱Arabidopsis
+- [[ref-pnas-2310163120]] 🌱Arabidopsis
 - [[tillandsia-evolution-land-to-air]] 🌱Arabidopsis
 - [[xylem-sc-review-pce-2025]] 🌱Arabidopsis
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]]

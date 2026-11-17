@@ -1,14 +1,20 @@
 ---
-title: The Gshdz4-GsNAC019-GsEXPA8 Multi-Component Module Enhances Alkaline Stress Tole
+title: The Gshdz4-GsNAC019-GsEXPA8 Multi-Component Module Enhances Alkaline Stress Tolerance in Lupinus angustifolius
 created: 2026-06-20
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12060741
 confidence: moderate
 source: openalex
+title_fixed_from: The Gshdz4-GsNAC019-GsEXPA8 Multi-Component Module Enhances Alkaline Stress Tole
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# The Gshdz4-GsNAC019-GsEXPA8 Multi-Component Module Enhances Alkaline Stress Tolerance in Lupinus angustifolius
+# The Gshdz4-GsNAC019-GsEXPA8 Multi-Component Module Enhances Alkaline Stress Tolerance in Lupinus angustifoliusrance in Lupinus angustifolius
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

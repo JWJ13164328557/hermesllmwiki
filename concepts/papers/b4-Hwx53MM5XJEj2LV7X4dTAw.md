@@ -1,12 +1,21 @@
-title: "Gene-expression patterns can be used to estimate mortality r"
-journal: "unknown"
-year: ""
+---
+title: Gene-expression patterns can be used to estimate mortality r
+journal: unknown
+year: ''
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [papers]
 species: [Arabidopsis thaliana]
-status: frontmatter-enhanced
-curation_depth: "基础整理"
+status: pollution
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

@@ -1,17 +1,25 @@
-title: "Single-Cell and Spatial Transcriptomics Reveals a Stereoscopic Response of Rice Leaf Cells to Magnaporthe oryzae Infection."
-pmid: "40123572"
-doi: "10.1002/advs.202416846"
-pmcid: "PMC10959940"
-journal: "Advanced science (Weinheim, Baden-Wurttemberg, Germany)"
-year: "2025"
-authors: "Wei Wang, Xianyu Zhang, Yong Zhang, Zhe Zhang, Chang Yang"
+---
+title: Single-Cell and Spatial Transcriptomics Reveals a Stereoscopic Response of Rice Leaf Cells to Magnaporthe oryzae Infection.
+pmid: '40123572'
+doi: 10.1002/advs.202416846
+pmcid: PMC10959940
+journal: Advanced science (Weinheim, Baden-Wurttemberg, Germany)
+year: '2025'
+authors: Wei Wang, Xianyu Zhang, Yong Zhang, Zhe Zhang, Chang Yang
 type: paper
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags: [stress-immunity, papers]
 species: [Arabidopsis thaliana, Oryza sativa (rice), Zea mays (maize), Triticum aestivum (wheat), Setaria viridis]
 methods: [scRNA-seq, spatial transcriptomics, reporter assay, Y2H, Co-IP, phylogenetics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Single-Cell and Spatial Transcriptomics Reveals a Stereoscopic Response of Rice Leaf Cells to Magnaporthe oryzae Infection.
 
 ## 1. Scientific Context
 
@@ -115,4 +123,22 @@ Infection by the fungal pathogen Magnaporthe oryzae elicits dynamic responses in
 
 
 **E8** [ev-40123572-08]
-- 声明: The images or other third party material in 
+- 声明: The images or other third party material in
+
+## 深度提炼
+
+**主要物种**: Oryza sativa
+**物种**: Oryza sativa, Glycine max, Gossypium hirsutum, Hordeum vulgare
+**方法**: genomics, qRT-PCR validation, CRISPR/Cas9, knockout/mutant, subcellular localization
+**来源**: DOI:10.1002/advs.202416846
+**来源类型**: XML全文 (10.1002_advs.202416846.txt)
+
+### 核心发现
+1. Surprisingly, we found that the vein or near vein regions were the main targets of M.
+2. Surprisingly, we found that procambium cells significantly enriched key phytoalexin biosynthesis gene transcripts, especially at 48 hpi.
+3. Overall, plant vascular tissue appears to play a pivotal role in impeding pathogen infection through heightened immunity compared to other cells, rendering it a promising target for enhancing disease resistance in crops.
+4. In order to reveal the actual expression levels of the genes, we also analyzed the PRR gene expression in the cell types, where we found that PRR expression levels were generally low across all cell types at 12 hpi, many DEGs induced only in mestome sheath cells at 48 hpi (Figure; Table, Supporting Information).
+5. By pathogen inoculation assays, we found that NLRs ( LOC_Os10g22510 and LOC_Os08g29809 ) knock‐out lines were more susceptible to M.
+6. By analyzing the gene expression patterns related to these two hormones' signaling pathways, we found that they did not exhibit cell‐type‐specific responses, showing similar expression patterns across all cell types.
+7. As anticipated, our findings reveal a polarized expression pattern of immune genes during blast infection.
+8. Our data suggest that cell‐specific immunity along the longitudinal axis prevents continuous infection, which may subsequently compel the hyphae to transition into the necrotrophic stage.

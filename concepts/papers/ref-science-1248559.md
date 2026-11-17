@@ -1,14 +1,25 @@
-title: Timing mechanism dependent on cell division is invoked by Polycomb eviction in p
+---
+title: Timing Mechanism Dependent on Cell Division Is Invoked by Polycomb Eviction in Plant Stem Cells
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1126/science.1248559
 confidence: medium
-aliases: ["Timing mechanism dependent on cell division is invoked by Polycomb eviction in p"]
+aliases:
+- cr-10-1126-science-1248559
+- Timing mechanism dependent on cell division is invoked by Polycomb eviction in p
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Timing mechanism dependent on cell division is invoked by Polycomb eviction in p
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Timing mechanism dependent on cell division is invoked by Polycomb eviction in p
+---
+
+# Timing Mechanism Dependent on Cell Division Is Invoked by Polycomb Eviction in Plant Stem Cells
 
 
 
@@ -29,16 +40,16 @@ Plant floral stem cells divide a limited number of times before they stop and te
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: ChIP-seq/qPCR, qRT-PCR validation, overexpression, subcellular localization, promoter-GUS assay
 **来源**: DOI:10.1126/science.1248559
 **来源类型**: PDF全文 (10.1126_science.1248559.pdf)

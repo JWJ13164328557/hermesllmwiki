@@ -1,12 +1,21 @@
-title: "油菜素内酯信号成分SlBZR1促进番茄果实成熟和类胡萝卜素积累"
-journal: "unknown"
-year: ""
+---
+title: 油菜素内酯信号成分SlBZR1促进番茄果实成熟和类胡萝卜素积累
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags: [papers]
 species: [Solanum lycopersicum, Brassica]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

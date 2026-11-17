@@ -1,12 +1,21 @@
-title: "CPPU诱导的甜瓜孤性生殖需要赤霉素的生物合成"
-journal: "unknown"
-year: ""
+---
+title: CPPU诱导的甜瓜孤性生殖需要赤霉素的生物合成
+journal: unknown
+year: ''
 type: paper
-tags: [#epigenetics-gr, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

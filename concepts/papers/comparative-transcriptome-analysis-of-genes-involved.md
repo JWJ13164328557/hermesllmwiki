@@ -1,15 +1,22 @@
-title: "Comparative transcriptome analysis of genes involved in volatile compound synthesis in blueberries (Vaccinium virgatum) "
+---
+title: Comparative transcriptome analysis of genes involved in volatile compound synthesis in blueberries (Vaccinium virgatum) during postharvest storage
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.postharvbio.2020.111327
-pmid: 
-confidence: medium
-aliases: ["采后贮藏期间蓝莓（ Vaccinium virgatum ）挥发性化合物合成相关基因的比较转录组分析"]
+pmid: ''
+aliases:
+- 采后贮藏期间蓝莓（ Vaccinium virgatum ）挥发性化合物合成相关基因的比较转录组分析
+title_fixed_from: Comparative transcriptome analysis of genes involved in volatile compound synthe
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 比较 transcriptome 分析 of genes 参与的 in volatile compound synthesis in blueberries (Vaccinium virgatum) 过程中 postharvest storage
+---
 
-> Comparative transcriptome analysis of genes involved in volatile compound synthesis in blueberries (Vaccinium virgatum) during postharvest storage
+# Comparative transcriptome analysis of genes involved in volatile compound synthesis in blueberries (Vaccinium virgatum) during postharvest storage
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2020)

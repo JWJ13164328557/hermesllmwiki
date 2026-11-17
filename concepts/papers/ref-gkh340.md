@@ -1,17 +1,18 @@
-title: MUSCLE: multiple sequence alignment with high accuracy and high throughput.
+---
+
+title: 'MUSCLE: multiple sequence alignment with high accuracy and high throughput.'
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products, methods-tools]
+tags: [metabolism-natural-products, papers]
 doi: 10.1093/nar/gkh340
 confidence: medium
-aliases: ["MUSCLE: multiple sequence alignment high accuracy 和 high throughput."]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 48 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 31 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 45 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["肌肉：多序列对齐，高精度和高通量。"]
-aliases_extra: ["MUSCLE: multiple sequence alignment with high accuracy and high throughput."]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # MUSCLE: multiple sequence alignment with high accuracy and high throughput.
 
@@ -46,9 +47,9 @@ Received 2004 Jan 19; Revised 2004 Jan 30; Accepted 2004 Feb 24; Issue date 2004
 
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-cadmium-sc-multiomics]]
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-G2N-JJNNVwoyPpAiZEWa8w]]
@@ -57,7 +58,7 @@ Received 2004 Jan 19; Revised 2004 Jan 30; Accepted 2004 Feb 24; Issue date 2004
 
 ## 深度提炼
 
-**物种**: Coffea spp., Ficus carica, Rosa spp.
+**物种**: Coffea spp., Rosa spp.
 **方法**: molecular biology / biochemistry
 **来源**: DOI:10.1093/nar/gkh340
 **来源类型**: PDF全文 (10.1093_nar_gkh340.pdf)

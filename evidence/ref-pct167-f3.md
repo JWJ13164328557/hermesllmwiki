@@ -1,34 +1,43 @@
 ---
-title: "Interestingly, the promoter of VvNPF3.2 allowed induced expression of GUS in minor veins in PM-infec"
-created: 2026-09-16
+title: "The promoter of VvNPF3.2 allowed induced expression of GUS in minor veins in PM-infected …"
+created: 2026-11-02
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["developmental-biology", "stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-pct167]]"
 doi: "10.1093/pcp/pct167"
-species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
-evidence_type: "DNA binding/regulation"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Nicotiana tabacum"]
+primary_species: "Vitis vinifera"
+evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: ""
 quality: "medium"
-genes: [VvNPF3]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["VvNPF3"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Interestingly, the promoter of VvNPF3.2 allowed induced expression of GUS in minor veins in PM-infec
+# The promoter of VvNPF3.2 allowed induced expression of GUS in minor veins in PM-infected …
 
 ## Claim
-Interestingly, the promoter of VvNPF3.2 allowed induced expression of GUS in minor veins in PM-infected leaves.
+The promoter of VvNPF3.2 allowed induced expression of GUS in minor veins in PM-infected leaves.
 
-## Biological Context
-Members of the NPF3 transporter subfamily encode pathogen-inducible nitrate/nitr
+## Source
+- 文献: [[ref-pct167]]
+- DOI: 10.1093/pcp/pct167
+- 主要物种: Vitis vinifera
 
-## Supporting Evidence
-*Source: [[ref-pct167]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: VvNPF3
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

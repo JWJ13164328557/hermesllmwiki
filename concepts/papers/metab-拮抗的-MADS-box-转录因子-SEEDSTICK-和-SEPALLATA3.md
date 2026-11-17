@@ -3,11 +3,18 @@ title: "拮抗的 MADS-box 转录因子 SEEDSTICK 和 SEPALLATA3 形成了调控
 journal: "unknown"
 year: ""
 type: paper
-tags: [gene-regulation, metabolism]
+themes: [epigenetics-gene-regulation]
+tags: [metabolism]
 species: [plant]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

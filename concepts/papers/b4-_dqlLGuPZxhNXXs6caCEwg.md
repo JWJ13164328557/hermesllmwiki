@@ -1,17 +1,25 @@
-title: "Establishment of single-cell transcriptional states during seed germination."
-pmid: "39256563"
-doi: "10.1111/tpj.12197"
-pmcid: "PMC6434952"
-journal: "Nature plants"
-year: "2024"
-authors: "Lim Chee Liew, Yue You, Lucas Auroux, Marina Oliva, Marta Peirats-Llobet"
+---
+title: Establishment of single-cell transcriptional states during seed germination.
+pmid: '39256563'
+doi: 10.1038/s41477-024-01771-3
+pmcid: PMC6434952
+journal: Nature plants
+year: '2024'
+authors: Lim Chee Liew, Yue You, Lucas Auroux, Marina Oliva, Marta Peirats-Llobet
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [Arabidopsis thaliana]
 methods: [scRNA-seq, RNA-seq, RNA-FISH, GRN, pseudotime]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Establishment of single-cell transcriptional states during seed germination.
 
 ## 1. Scientific Context
 
@@ -127,10 +135,10 @@ Germination involves highly dynamic transcriptional programs as the cells of see
 - 物种: Arabidopsis thaliana
 - 关键基因: TDE1, VM11
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Germination, Arabidopsis, Seeds, Gene Expression Regulation, Plant, Single-Cell Analysis, Gene Regulatory Networks, Transcription Factors, Arabidopsis Proteins
 
@@ -141,3 +149,21 @@ Germination involves highly dynamic transcriptional programs as the cells of see
 **优势**:
 - 使用scRNA-seq, RNA-seq, RNA-FISH等先进技术
 - 发表于Na
+
+## 深度提炼
+
+**主要物种**: Vitis vinifera
+**物种**: Vitis vinifera, Arabidopsis thaliana, Hevea brasiliensis
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq
+**来源**: DOI:10.1038/s41477-024-01771-3
+**来源类型**: XML全文 (10.1038_s41477-024-01771-3.txt)
+
+### 核心发现
+1. The set of markers identified through this heuristic is sufficient to distinguish the target subcluster from all 571 other non-doublet subclusters on the basis of >4-fold expression differences.
+2. Nonetheless, our results support the view that cell types are readily distinguishable despite hundreds rather than thousands of UMIs per cell.
+3. Importantly for future atlasing efforts, we found the annotation of temporally-resolved developmental trajectories to be much more straightforward than that of cell types.
+4. 4) To identify markers that separate the target cluster from the remaining subclusters, we repeat steps 2–3 until a marker with a >4-fold expression difference between the target cluster and all remaining subclusters is identified.
+5. We then applied non-negative least squares (NNLS) regression to predict the gene expression of target cell type ( T a ) in dataset A with the gene expression of all cell types ( M b ) in dataset B: T a = β 0 a + β 1 a M b where T a and M b represent filtered gene expression for target cell type from data set A and all cell types from data set B, respectively.
+6. To improve accuracy and specificity, we selected cell type-specific genes for each target cell type by: 1) ranking genes based on the expression fold-change between the target cell type vs.
+7. 2) ranking genes based on the expression fold-change between the target cell type vs.
+8. Similarly, we then switch the order of datasets A and B, and predict the gene expression of target cell type ( T b ) in dataset B with the gene expression of all cell types ( M a ) in dataset A: T b = β 0 b + β 1 b M a Thus, each cell type a in dataset A and each cell type b in dataset B are linked by two correlation coefficients from the above analysis: β ab for predicting cell type a using b, an

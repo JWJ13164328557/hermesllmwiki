@@ -1,9 +1,18 @@
+---
 title: Histone deacetylases and cell-cycle regulators orchestrate cell-identity transit
-tags: [#developmental-biology, papers]
-aliases: ["组蛋白脱乙酰酶和细胞周期调节因子协调细胞同一性转运"]
+tags: [papers]
+aliases: [组蛋白脱乙酰酶和细胞周期调节因子协调细胞同一性转运]
 type: paper
+themes: [developmental-biology, epigenetics-gene-regulation]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Histone deacetylases and cell-cycle regulators orchestrate cell-identity transit
 
@@ -42,8 +51,8 @@ Arabidopsis, Histone Deacetylases, Plant Roots, Arabidopsis Proteins, Gene Expre
 
 ## 相关文献
 
-- [[b6-jpXamO-lS-eyCqULAU9qnA]] 🌱Arabidopsis
-- [[andrographis-msi-sc-spatial]] 🌱Arabidopsis
+- [[cr-s41477-023-01387-z]] 🌱Arabidopsis
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]] 🌱Arabidopsis
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]] 🌱Arabidopsis
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]] 🌱Arabidopsis
 - [[b4-0HHlYZ0Qe2l1HbA9cCPFaQ]] 🌱Arabidopsis

@@ -8,9 +8,9 @@ status: reviewed
 confidence: medium
 updated: "2026-05-29"
 related_papers:
-  - "[[rice-chilling-tolerance]]"
+  - "rice-chilling-tolerance"
   - "[[osbhlh150-rice-chilling-tolera]]"
-  - "[[aba-biosynthesis-stress]]"
+  - "aba-biosynthesis-stress"
 related_evidence:
   - "[[rice-root-hormone-celltype-map]]"
   - "[[rice-root-cell-types-10x]]"
@@ -71,11 +71,11 @@ Tissue- and cell-type-level expression in cold-treated rice not characterized by
 
 | Function | Species | Tissue | Evidence Type | Evidence Object | Strength |
 |---|---|---|---|---|---|
-| ABA biosynthesis — rate-limiting enzyme | Rice (*O. sativa*) | — | Biochemical pathway (established) | [[aba-biosynthesis-stress]] | Strong |
-| OsbHLH150 direct target — E-box binding | Rice (*O. sativa*) | — | ChIP + LUC reporter | [[rice-chilling-tolerance]] | Strong |
-| Cold-induced expression (OsbHLH150-dependent) | Rice (*O. sativa*) | Seedling | qRT-PCR (WT vs. CR-OsbHLH150) | [[rice-chilling-tolerance]] | Moderate |
-| Genetic rescue of CR-OsbHLH150 | Rice (*O. sativa*) | Seedling | OE-OsNCED3 in CR-OsbHLH150 background | [[rice-chilling-tolerance]] | Strong |
-| KO phenotype — cold sensitive, low ABA | Rice (*O. sativa*) | Seedling | CRISPR knockout | [[rice-chilling-tolerance]] | Moderate |
+| ABA biosynthesis — rate-limiting enzyme | Rice (*O. sativa*) | — | Biochemical pathway (established) | aba-biosynthesis-stress | Strong |
+| OsbHLH150 direct target — E-box binding | Rice (*O. sativa*) | — | ChIP + LUC reporter | rice-chilling-tolerance | Strong |
+| Cold-induced expression (OsbHLH150-dependent) | Rice (*O. sativa*) | Seedling | qRT-PCR (WT vs. CR-OsbHLH150) | rice-chilling-tolerance | Moderate |
+| Genetic rescue of CR-OsbHLH150 | Rice (*O. sativa*) | Seedling | OE-OsNCED3 in CR-OsbHLH150 background | rice-chilling-tolerance | Strong |
+| KO phenotype — cold sensitive, low ABA | Rice (*O. sativa*) | Seedling | CRISPR knockout | rice-chilling-tolerance | Moderate |
 
 ---
 
@@ -208,7 +208,7 @@ NCED3 orthologs are present across Poaceae; stress-inducible function conserved.
 
 ## Key References
 
-1. Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: [10.1016/j.xplc.2026.101919](https://doi.org/10.1016/j.xplc.2026.101919) — [[rice-chilling-tolerance]]
+1. Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: [10.1016/j.xplc.2026.101919](https://doi.org/10.1016/j.xplc.2026.101919) — rice-chilling-tolerance
 
 ---
 
@@ -219,8 +219,8 @@ NCED3 orthologs are present across Poaceae; stress-inducible function conserved.
 - [[osmapk3-rice]] — Upstream kinase; phosphorylates OsbHLH150 to enhance OsNCED3 activation
 
 ### Related Pathways
-- [[aba-biosynthesis-stress]] — ABA biosynthesis and stress response pathway
+- aba-biosynthesis-stress — ABA biosynthesis and stress response pathway
 
 ### Related Entities
-- [[rice-chilling-tolerance]] — Paper concept
+- rice-chilling-tolerance — Paper concept
 - [[guangxi-university-luo-lab]] — Research group

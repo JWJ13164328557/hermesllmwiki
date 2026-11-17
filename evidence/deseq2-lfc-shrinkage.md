@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1186-s13059-014-0550-8]]"
+  - "[[moderated-estimation-of-fold-change-and-dispersion-for-rna]]"
 supporting_figures:
   - "xr-10-1186-s13059-014-0550-8#figure-1"
   - "xr-10-1186-s13059-014-0550-8#figure-3"
@@ -27,6 +27,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1186/s13059-014-0550-8"
+evidence_type: "expression/regulation"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: []
+theme_status: out-of-scope
+theme_basis: none
+claim_role: "finding"
+non_finding_kind: "result"
+evidence_type_prior: ""
+
 ---
 
 # DESeq2 Fold Change Shrinkage Improves DEG Stability
@@ -43,7 +56,7 @@ In RNA-seq differential expression analysis, log fold change estimates for lowly
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1186-s13059-014-0550-8]] | LFC shrinkage | Shrinkage reduces false positives in DEG ranking; improves gene set enrichment analysis results by preventing low-count gene inflation | Multiple RNA-seq datasets |
+| [[moderated-estimation-of-fold-change-and-dispersion-for-rna]] | LFC shrinkage | Shrinkage reduces false positives in DEG ranking; improves gene set enrichment analysis results by preventing low-count gene inflation | Multiple RNA-seq datasets |
 
 ## Evidence Quality
 

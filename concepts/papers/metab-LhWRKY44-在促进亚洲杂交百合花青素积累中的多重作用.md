@@ -1,12 +1,21 @@
-title: "LhWRKY44 在促进亚洲杂交百合花青素积累中的多重作用"
-journal: "unknown"
-year: ""
+---
+title: LhWRKY44 在促进亚洲杂交百合花青素积累中的多重作用
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

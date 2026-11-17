@@ -1,34 +1,43 @@
 ---
-title: "413–426 doi: 10.1111/pbi.14195 and other secondary wall NACs (SWNs), such as Secondary wall- associa"
-created: 2026-09-16
+title: "The expression of Ma06_g28730 in postharvest banana peel was obviously upregulated under …"
+created: 2026-11-02
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["stress-immunity", "papers"]
 source: "[[banana-manac1-activates-secondary-cell-wall]]"
 doi: "10.1111/pbi.14195"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Musa spp."
+evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["MaCBF1", "MaICE1", "MaNAC1"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# 413–426 doi: 10.1111/pbi.14195 and other secondary wall NACs (SWNs), such as Secondary wall- associa
+# The expression of Ma06_g28730 in postharvest banana peel was obviously upregulated under …
 
 ## Claim
-413–426 doi: 10.1111/pbi.14195 and other secondary wall NACs (SWNs), such as Secondary wall- associated NAC domain protein1 (SND1, also called NST3/ ANAC012), NAC Secondary Wall Thickening Promoting Factor1 (NST1), NST2 and VND6, bind to a 19-bp consensus sequence designated as secondary wall NAC binding element (SNBE), (T/A) NN(C/T)(T/C/G)TNNNNNNNA(A/C)GN(A/C/T)(A/T), within direct target’s promo
+The expression of Ma06_g28730 in postharvest banana peel was obviously upregulated under chilling stress (Figure 2d), and it was named MaNAC1 (Shan et al., 2012), which is the direct target gene of MaICE1, and interacts with MaCBF1 (Shan et al., 2014).
 
-## Biological Context
-Banana MaNAC1 激活 secondary cell wall 纤维素 生物合成 to enhance chilling resistance in fruit
+## Source
+- 文献: [[banana-manac1-activates-secondary-cell-wall]]
+- DOI: 10.1111/pbi.14195
+- 主要物种: Musa spp.
 
-## Supporting Evidence
-*Source: [[banana-manac1-activates-secondary-cell-wall]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: MaCBF1, MaICE1, MaNAC1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

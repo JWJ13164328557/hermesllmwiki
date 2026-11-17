@@ -17,7 +17,7 @@ del_concept_cascade.py — 强制级联删除概念页及其 evidence (2026-08-2
 import os, re, glob, sys, shutil, argparse
 from datetime import datetime
 
-BASE = '/mnt/g/hermes_obsidian/hermes'
+from kb_paths import BASE  # 统一根目录解析: KB_BASE/APP_DIR 环境变量优先
 CONCEPTS = f'{BASE}/concepts/papers'
 
 

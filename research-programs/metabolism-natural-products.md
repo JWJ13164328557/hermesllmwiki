@@ -1,92 +1,153 @@
 ---
-title: "代谢与天然产物 — Synthesis"
+title: "Research Program: Metabolism & Natural Products"
+title_zh: "代谢与天然产物：研究方案"
 type: research-program
 topic: "metabolism-natural-products"
-total_evidence: 246
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 2789
+total_papers: 592
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 代谢与天然产物 — Synthesis
+# 🔬 Metabolism & Natural Products：从证据到可执行研究方案
 
-## Program Overview
-基于 246 条证据生成的 5 个实验目标。
+> 本方案由 2789 条证据 / 592 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test ABA function
+- **主题**：Metabolism & Natural Products
+- **证据规模**：2789 条证据 / 592 篇独立论文
+- **候选靶点**：FaMYB5, EfCGT1, MvPG11, 转录因子—代谢物连接的直接证据, 代谢物含量变化的通量归因, 代谢物的区室分配与转运
+- **主体系**：Fragaria × ananassa
+- **主题归属依据**：证据标签
 
-**Hypothesis**: ABA modulates LED and IMP3 to control [process]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate ABA overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: ABA-GFP fusion
+### 目标 1：建立 FaMYB5 的剂量—效应曲线
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test EMS function
-
-**Hypothesis**: EMS regulates BIN2 and SCW to control [process]
-
-**Experimental Design**:
-1. Generate EMS overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: EMS-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test [target gene] function
-
-**Hypothesis**: [Key factor] control [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test NAA function
-
-**Hypothesis**: NAA target SCPL to control [process]
-
-**Experimental Design**:
-1. Generate NAA overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: NAA-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：FaMYB5 已有 300 项独立研究；但其中仅 3 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 FaMYB5 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：建立 EfCGT1 的剂量—效应曲线
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：EfCGT1 已有 67 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 EfCGT1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 3：建立 MvPG11 的剂量—效应曲线
+
+- **对应假说**：MvPG11 已有 45 项独立研究；但其中仅 1 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 MvPG11 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 4：把转录因子—代谢物连接的直接证据从表达相关推进到直接结合
+
+- **对应假说**：本主题 65 条证据（37 篇）把转录因子与某类代谢物联系起来，但其中只有 1 条给出启动子直接结合或反式激活证据。也就是说，"该 TF 调控该代谢分支"在本库中主要建立在表达相关与突变体表型之上，结合事件本身多为推定。缺失环节是：结合位点是否真实、是否在同一组织与生育期发生、以及结合强度是否足以解释代谢物变化幅度。
+- **体系**：原报道物种；同遗传背景、同生育期、同组织部位
+- **材料**：候选 TF 的诱导型敲低/敲除系、靶启动子报告系统、结合位点突变版启动子（65 条证据 / 37 篇；直接结合证据（ChIP/EMSA/Y1H/反式激活） 1 条）
+- **关键实验**
+  1. 用 ChIP-seq 或 CUT&Tag 定位体内结合位点
+  2. 对候选位点做 EMSA 与染色质免疫沉淀 qPCR 验证
+  3. 双荧光素酶报告系统检验结合位点突变后的转录变化
+  4. 在 tf 突变体与回补系中定量靶基因转录与代谢物含量
+  5. 按时间序列确定"结合—转录—代谢物"的先后
+- **判定标准**：ChIP 峰与候选靶基因启动子共定位，EMSA 证实结合，反式激活报告系统给出剂量依赖，且 tf 突变体中靶基因转录先于代谢物变化
+- **止损条件**：TF 结合位点突变后代谢物含量不变，或结合事件发生在与代谢变化不同的组织，说明该连接是间接的（经发育或胁迫程序）
+- **预计周期**：12-18 个月
+
+
+### 目标 5：分解代谢物含量变化的通量归因的合成、降解与转运
+
+- **对应假说**：本主题 104 条证据（72 篇）报告了代谢物含量或积累量的变化，但仅 1 条给出同位素标记、通量或周转测量。含量是合成、降解与转运三者叠加的稳态结果，因此"某基因提高某代谢物含量"无法区分是合成增强、降解减少还是外排受阻。这一缺口直接限制了代谢工程的靶点选择。
+- **体系**：原报道物种；同一组织、同一生育期，标记喂养条件一致
+- **材料**：13C/14C 标记喂养体系、目标基因操纵系、代谢物绝对定量方法（104 条证据 / 72 篇；同位素标记或通量测量 1 条）
+- **关键实验**
+  1. 建立标记喂养与绝对定量流程并做回收率校正
+  2. 在目标基因操纵系中测标记掺入速率（合成通量）
+  3. 用脉冲—追踪估算降解速率常数
+  4. 测定组织外排或区室转运速率
+  5. 把稳态含量变化分解为三者贡献，判定限速步骤
+- **判定标准**：标记喂养显示合成通量按预期改变，且降解速率与转运速率不变；通量变化的时间早于稳态含量变化
+- **止损条件**：含量升高但合成通量不变、降解或外排速率下降，说明原靶点并非限速步骤
+- **预计周期**：12-24 个月
+
+
+### 目标 6：测定代谢物的区室分配与转运的区室分配与转运
+
+- **对应假说**：本主题 5 条证据（3 篇）涉及代谢物的亚细胞区室，但仅 1 条涉及转运蛋白或直接的区室分离测量。多数"在液泡/质体中积累"的判断来自共定位或间接推论，区室间的实际分配比例与转运速率未被测定。
+- **体系**：原报道物种；原生质体与完整组织并行
+- **材料**：液泡/质体分离体系、区室特异荧光报告、候选转运蛋白突变体（5 条证据 / 3 篇；转运蛋白或区室分离证据 1 条）
+- **关键实验**
+  1. 用非水相分离或区室特异报告测定代谢物区室浓度
+  2. 在转运蛋白突变体中重测分配比例与转运速率
+  3. 用异源系统做转运活性实验（酵母/卵母细胞）
+  4. 把分配变化与表型变化做剂量对应
+  5. 排除抗体交叉反应与荧光渗漏造成的定位伪影
+- **判定标准**：非水相分离或同位素示踪给出区室浓度，转运蛋白突变体中分配比例发生可预测的改变
+- **止损条件**：区室标记与代谢物定位不一致，或转运蛋白突变不影响分配，说明原定位判断来自成像伪影或抗体交叉反应
+- **预计周期**：12-18 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 代谢物定位 | 0–6 月 | 靶向/非靶向代谢组，建立组织与时序基线 | 关键代谢物可定量、批间 CV 达标 |
+| P1 酶功能 | 6–15 月 | 候选酶体外活性、异源表达与底物特异性 | 体外反应可复现，产物结构确认 |
+| P2 通路通量 | 15–24 月 | 同位素示踪/前体喂养/突变体组合 | 通量改变与代谢物积累方向一致 |
+| P3 工程化 | 24–36 月 | 在目标作物中重构或调节通路 | 目标化合物产量提升且农艺性状可接受 |
+
+> 本路线以代谢物定量与酶功能为核心；转录共表达只用于候选排序，不作为通路证明。
+
+## 四、风险与对策
+
+- FaMYB5 的效应方向在文献中不一致 → 必须先做条件分层（组织/处理/生育期）再下结论。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/metabolism-natural-products.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

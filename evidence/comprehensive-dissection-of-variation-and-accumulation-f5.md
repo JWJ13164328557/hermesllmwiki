@@ -1,34 +1,43 @@
 ---
-title: "Taken together, these results indicated that CsPIF1 negatively influenced Thea content by effecting "
-created: 2026-08-25
+title: "These results allow us to conclude that CsPIF1 negatively regulates the Thea content by …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[comprehensive-dissection-of-variation-and-accumulation]]"
 doi: "10.1093/hr/uhad263"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Camellia sinensis]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [CsPIF1]
+species: ["Camellia sinensis", "Arabidopsis thaliana", "Nicotiana tabacum"]
+primary_species: "Camellia sinensis"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CsPIF1"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, these results indicated that CsPIF1 negatively influenced Thea content by effecting 
+# These results allow us to conclude that CsPIF1 negatively regulates the Thea content by …
 
 ## Claim
-Taken together, these results indicated that CsPIF1 negatively influenced Thea content by effecting vitally functional genes associated with Thea biosynthesis and transport.
+These results allow us to conclude that CsPIF1 negatively regulates the Thea content by mainly co-effecting the expression of genes involved in the regulation of Thea biosynthesis, transport, and hydrolysis in tea plants.
 
-## Biological Context
-全面 解析 of variation and 积累 of free amino acids in tea accessions
+## Source
+- 文献: [[comprehensive-dissection-of-variation-and-accumulation]]
+- DOI: 10.1093/hr/uhad263
+- 主要物种: Camellia sinensis
 
-## Supporting Evidence
-*Source: [[comprehensive-dissection-of-variation-and-accumulation]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CsPIF1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

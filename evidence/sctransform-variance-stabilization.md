@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1186-s13059-019-1874-1]]"
+  - "[[normalization-and-variance-stabilization-of-single-cell-rna-seq]]"
 supporting_figures:
   - "xr-10-1186-s13059-019-1874-1#figure-1"
   - "xr-10-1186-s13059-019-1874-1#figure-2"
@@ -27,6 +27,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1186/s13059-019-1874-1"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # sctransform Variance Stabilization Removes Technical Variation
@@ -43,7 +56,7 @@ scRNA-seq data exhibits a mean-variance relationship driven by both technical (s
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1186-s13059-019-1874-1]] | sctransform benchmarking | Pearson residuals produce normalized data with minimal depth-dependence; preserves biological variation better than log-normalization | Multiple scRNA-seq datasets |
+| [[normalization-and-variance-stabilization-of-single-cell-rna-seq]] | sctransform benchmarking | Pearson residuals produce normalized data with minimal depth-dependence; preserves biological variation better than log-normalization | Multiple scRNA-seq datasets |
 
 ## Evidence Quality
 

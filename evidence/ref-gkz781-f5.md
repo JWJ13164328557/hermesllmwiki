@@ -1,34 +1,43 @@
 ---
-title: "Notably, the most popular scRNA-seq protocols speciﬁcally se- quence the 3′ end of transcripts."
-created: 2026-09-16
+title: "The most popular scRNA-seq protocols specifically sequence the 3′ end of transcripts."
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: ["methods-tools", "single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-gkz781]]"
 doi: "10.1093/nar/gkz781"
-species: [Citrus spp., Ficus carica]
-evidence_type: "expression/regulation"
+species: ["—"]
+primary_species: "Medicago spp."
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: ""
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Notably, the most popular scRNA-seq protocols speciﬁcally se- quence the 3′ end of transcripts.
+# The most popular scRNA-seq protocols specifically sequence the 3′ end of transcripts.
 
 ## Claim
-Notably, the most popular scRNA-seq protocols speciﬁcally se- quence the 3′ end of transcripts.
+The most popular scRNA-seq protocols specifically sequence the 3′ end of transcripts.
 
-## Biological Context
-Cell-type-specific analysis of alternative polyadenylation using single-cell tra
+## Source
+- 文献: [[ref-gkz781]]
+- DOI: 10.1093/nar/gkz781
+- 主要物种: Medicago spp.
 
-## Supporting Evidence
-*Source: [[ref-gkz781]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

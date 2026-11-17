@@ -1,15 +1,19 @@
-title: "Far-red light suppresses glucosinolate profiles of Chinese kale through inhibiting genes related to glucosinolate biosyn"
+---
+title: Far-red light suppresses glucosinolate profiles of Chinese kale through inhibiting genes related to glucosinolate biosyn
 created: 2026-05-30
 type: concept
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags: [hormone-signaling, papers]
 doi: 10.1016/j.envexpbot.2021.104507
-pmid: 
-confidence: medium
-aliases: ["远红光通过抑制与硫苷酸生物合成相关的基因来抑制芥蓝的硫苷酸谱"]
+pmid: ''
+aliases: [远红光通过抑制与硫苷酸生物合成相关的基因来抑制芥蓝的硫苷酸谱]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Far-red light suppresses glucosinolate profiles of Chinese kale 通过 inhibiting genes related to glucosinolate 生物合成
+species_status: unverified
+---
 
-> Far-red light suppresses glucosinolate profiles of Chinese kale through inhibiting genes related to glucosinolate biosynthesis
+# Far-red light suppresses glucosinolate profiles of Chinese kale through inhibiting genes related to glucosinolate biosynthesis
 
 ## 论文信息
 - **期刊**: Environmental and Experimental Botany (2021)

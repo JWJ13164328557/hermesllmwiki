@@ -1,12 +1,21 @@
-title: "综合分析转录组和代谢组，揭示合成生长素对提高葡萄香气品质的影响：聚焦ABA在与生长素串扰中的中介作用"
-journal: "unknown"
-year: ""
+---
+title: 综合分析转录组和代谢组，揭示合成生长素对提高葡萄香气品质的影响：聚焦ABA在与生长素串扰中的中介作用
+journal: unknown
+year: ''
 type: paper
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

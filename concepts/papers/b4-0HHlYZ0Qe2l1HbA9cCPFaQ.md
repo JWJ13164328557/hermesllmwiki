@@ -1,17 +1,25 @@
-title: "A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution."
-pmid: "40962852"
-doi: "10.1093/nar/gku1039"
-pmcid: "PMC4383887"
-journal: "Nature plants"
-year: "2025"
-authors: "Haidong Yan, John P Mendieta, Xuan Zhang, Ziliang Luo, Alexandre P Marand"
+---
+title: A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution.
+pmid: '40962852'
+doi: 10.1038/s41477-025-02106-6
+pmcid: PMC4383887
+journal: Nature plants
+year: '2025'
+authors: Haidong Yan, John P Mendieta, Xuan Zhang, Ziliang Luo, Alexandre P Marand
 type: paper
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags: [genomics-evolution, papers]
 species: [Oryza sativa (rice), Zea mays (maize)]
 methods: [phylogenetics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# A single-cell rice atlas integrates multi-species data to reveal cis-regulatory evolution.
 
 ## 1. Scientific Context
 
@@ -123,10 +131,10 @@ Cis-regulatory elements (CREs) are essential for regulating gene expression, yet
 - 物种: Oryza sativa (rice), Zea mays (maize)
 - 关键基因: IR8
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Oryza, Evolution, Molecular, Chromatin, Gene Expression Regulation, Plant, Genome, Plant, Regulatory Sequences, Nucleic Acid, Single-Cell Analysis
 
@@ -167,11 +175,11 @@ Cis-regulatory elements (CREs) are essential for regulating gene expression, yet
 
 ## 深度提炼
 
+**主要物种**: Oryza sativa
 **物种**: Oryza sativa, Zea mays, Sorghum bicolor
-**方法**: molecular biology
-**来源**: DOI:
-**来源类型**: PMC全文
-**基因**: —
+**方法**: genomics
+**来源**: DOI:10.1038/s41477-025-02106-6
+**来源类型**: XML全文 (10.1038_s41477-025-02106-6.txt)
 
 ### 核心发现
-_（信号句不足）_
+_（无显著信号句）_

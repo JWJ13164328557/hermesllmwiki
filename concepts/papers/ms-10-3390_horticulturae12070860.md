@@ -1,14 +1,20 @@
 ---
-title: Piriformospora indica in Improving Stress Resistance in Horticultural Plants: Fu
+title: 'Piriformospora indica in Improving Stress Resistance in Horticultural Plants: Function and Mechanism'
 created: 2026-07-23
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12070860
 confidence: moderate
 source: openalex
+title_fixed_from: 'Piriformospora indica in Improving Stress Resistance in Horticultural Plants: Fu'
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Piriformospora indica in Improving Stress Resistance in Horticultural Plants: Function and Mechanism
+# Piriformospora indica in Improving Stress Resistance in Horticultural Plants: Function and Mechanismnction and Mechanism
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

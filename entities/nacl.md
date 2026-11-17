@@ -1,6 +1,6 @@
 ---
 title: "NaCl"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -9,30 +9,24 @@ tags: [metabolism, gene]
 # NaCl
 
 ## Evidence Summary
-**Total evidence objects**: 7
+**Total evidence objects**: 29
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[ms-10-1007_s00217-026-05178-6-f4]] | These results suggest that NaCl may acts as a general regulatory signal affectin |
-| [[ms-10-1007_s44372-026-00629-6-f2]] | 5 Conclusion This study demonstrates that NaCl-induced salinity stress markedly  |
-| [[ms-10-22179_revmacn-20-479-f2]] | Interestingly, the presence of 90 mM NaCl significantly decreased the percent­ a |
-| [[ms-10-22179_revmacn-20-479-f4]] | Interestingly, NBT staining was markedly down-regulated when germination was per |
-| [[ref-erq154-f6]] | These results suggest that NaCl can induce H3K4 trime- thylation in abiotic stre |
-| [[ref-j-cell-2019-01-005-f3]] | In the presence of 140 mM NaCl, we found signiﬁcantly more cell death in the roo |
-| [[ref-nature10070-f4]] | Casparian strips are easily visualized by their intrinsic h 50 40 S P S P S P S  |
+| [[daily-40893112-f5]] | These findings suggest that the overexpression of LfVP1 enhances the ability of  |
+| [[daily-41085122-f2]] | Upon examining the overlap of the loading plot with the metabolic compounds, we  |
+| [[daily-42206449-f4]] | We found that the yield per ten plants of the NIL was significantly higher than  |
+| [[daily-42217142-f1]] | However, at 4 and 6% NaCl, high and stable OD600 values were still obtained afte |
+| [[daily-42217142-f2]] | Soil dehydrogenase values in soil inoculated with KF23, regardless of NaCl level |
+| [[daily-42226099-f2]] | We show that dual phosphorus deficiency and NaCl treatment significantly increas |
+| [[daily-42231161-f1]] | Stable overexpression of PavNHX37 in Nicotiana benthamiana significantly improve |
+| [[daily-42231161-f7]] | Under normal control conditions (0 mM NaCl) the basal expression level of the ta |
+| [[daily-42298416-f1]] | The NaCl concentration was then doubled incrementally every 2 days until the tar |
+| [[daily-42298416-f4]] | The control treatment (0 mM NaCl) was maintained without NaCl application throug |
 
 ## Functional Roles
 _（待从证据深入提炼）_
 
-## Expression Pattern
--
-
-## Species Distribution
--
-
 ## Regulatory Network
 _（见 relationships/）_
-
-## Open Questions
--

@@ -1,34 +1,43 @@
 ---
-title: "We show that HDA9 repressed many water deprivation-related genes in both normal and stressed conditi"
-created: 2026-09-16
+title: "SD/–Ade/–His/–Leu/–Trp dropout medium (quadruple dropout medium, QDO) was used to confirm …"
+created: 2026-11-01
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation", "stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-erv562]]"
 doi: "10.1093/jxb/erv562"
-species: [Arabidopsis thaliana, Oryza sativa, Ficus carica]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis thaliana", "Oryza sativa"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "protein interaction"
+claim_role: "method"
+non_finding_kind: "method"
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["ADE2", "HIS3"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# We show that HDA9 repressed many water deprivation-related genes in both normal and stressed conditi
+# SD/–Ade/–His/–Leu/–Trp dropout medium (quadruple dropout medium, QDO) was used to confirm …
 
 ## Claim
-We show that HDA9 repressed many water deprivation-related genes in both normal and stressed conditions by modulating histone H3K9 acetylation.
+SD/–Ade/–His/–Leu/–Trp dropout medium (quadruple dropout medium, QDO) was used to confirm protein interactions, because colonies that grow on this medium need to contain both bait and prey plasmids and also express proteins that interact with each other to activate HIS3 and ADE2.
 
-## Biological Context
-Histone deacetylase HDA9 negatively regulates salt and drought stress responsive
+## Source
+- 文献: [[ref-erv562]]
+- DOI: 10.1093/jxb/erv562
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-erv562]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: method
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: ADE2, HIS3
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

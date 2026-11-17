@@ -1,15 +1,23 @@
-title: "Insights into the evolution and hypoglycemic metabolite biosynthesis of autotetraploid Cyclocarya paliurus by combining "
+---
+title: Insights into the evolution and hypoglycemic metabolite biosynthesis of autotetraploid Cyclocarya paliurus by combining genomic, transcriptomic and metabolomic analyses
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.114154
-pmid: 
-confidence: medium
-aliases: ["通过结合基因组、转录组和代谢组分析，深入了解同源四倍体Cyclocarya paliurus的进化和低血糖代谢物生物合成"]
+pmid: ''
+aliases:
+- 通过结合基因组、转录组和代谢组分析，深入了解同源四倍体Cyclocarya paliurus的进化和低血糖代谢物生物合成
+title_fixed_from: Insights into the evolution and hypoglycemic metabolite biosynthesis of autotetr
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 深入 into the 进化 and hypoglycemic metabolite 生物合成 of autotetraploid Cyclocarya paliurus by combining genomic, transcriptomic and metabolomic analyses
+species_status: unverified
+---
 
-> Insights into the evolution and hypoglycemic metabolite biosynthesis of autotetraploid Cyclocarya paliurus by combining genomic, transcriptomic and metabolomic analyses
+# Insights into the evolution and hypoglycemic metabolite biosynthesis of autotetraploid Cyclocarya paliurus by combining genomic, transcriptomic and metabolomic analyses
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

@@ -1,34 +1,43 @@
 ---
-title: "The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjapo- nica_2.2062 (bHLH) and Cjaponica_1."
-created: 2026-08-25
+title: "The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjaponica_2.2062 (bHLH) and …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[the-highquality-genome-of-cryptotaenia-japonica]]"
 doi: "10.1111/tpj.16628"
-species: [Arabidopsis thaliana, Citrus spp., Daucus carota]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [CjF3H, CjANSa, CjDFRb]
+species: ["Cryptotaenia japonica", "Daucus carota", "Panax spp."]
+primary_species: "Cryptotaenia japonica"
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "speculation"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CjANSa", "CjDFRb", "CjF3H"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjapo- nica_2.2062 (bHLH) and Cjaponica_1.
+# The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjaponica_2.2062 (bHLH) and …
 
 ## Claim
-The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjapo- nica_2.2062 (bHLH) and Cjaponica_1.3743 (MYB).
+The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjaponica_2.2062 (bHLH) and Cjaponica_1.3743 (MYB).
 
-## Biological Context
-The high‐quality 基因组 of Cryptotaenia japonica and 比较 genomics 分析 揭示 花青素 生物合成 in Apiaceae
+## Source
+- 文献: [[the-highquality-genome-of-cryptotaenia-japonica]]
+- DOI: 10.1111/tpj.16628
+- 主要物种: Cryptotaenia japonica
 
-## Supporting Evidence
-*Source: [[the-highquality-genome-of-cryptotaenia-japonica]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CjANSa, CjDFRb, CjF3H
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

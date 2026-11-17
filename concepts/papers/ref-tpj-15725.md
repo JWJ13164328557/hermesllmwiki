@@ -1,14 +1,25 @@
-title: Time-series transcriptomics reveals a drought-responsive temporal network and cr
+---
+title: Time-series transcriptomics reveals a drought-responsive temporal network and crosstalk between drought stress and the circadian clock in foxtail millet
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [epigenetics-gene-regulation, stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1111/tpj.15725
 confidence: medium
-aliases: ["Time-series transcriptomics reveals a drought-responsive temporal network and cr"]
+aliases:
+- cr-10-1111-tpj-15725
+- Time-series transcriptomics reveals a drought-responsive temporal network and cr
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Time-series transcriptomics reveals a drought-responsive temporal network and cr
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Time-series transcriptomics reveals a drought-responsive temporal network and cr
+---
+
+# Time-series transcriptomics reveals a drought-responsive temporal network and crosstalk between drought stress and the circadian clock in foxtail millet
 
 
 
@@ -29,16 +40,16 @@ Drought stress is a serious factor affecting crop growth and production worldwid
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Zea mays, Glycine max, Triticum aestivum, Setaria spp., Ficus carica
+**物种**: Zea mays, Glycine max, Triticum aestivum, Setaria spp.
 **方法**: transcriptomics (RNA-seq), qRT-PCR validation
 **来源**: DOI:10.1111/tpj.15725
 **来源类型**: PDF全文 (10.1111_tpj.15725.pdf)

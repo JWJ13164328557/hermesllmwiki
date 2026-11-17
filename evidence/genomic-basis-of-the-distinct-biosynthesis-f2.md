@@ -1,34 +1,43 @@
 ---
-title: "Notably, different oak species, particularly Q."
-created: 2026-08-25
+title: "This UGT was the closest homolog of QrUGT84A13, which has been functionally characterized …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[genomic-basis-of-the-distinct-biosynthesis]]"
 doi: "10.1111/nph.19711"
-species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Quercus spp.", "Vitis vinifera", "Punica granatum"]
+primary_species: "Quercus spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["QrUGT84A13"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Notably, different oak species, particularly Q.
+# This UGT was the closest homolog of QrUGT84A13, which has been functionally characterized …
 
 ## Claim
-Notably, different oak species, particularly Q.
+This UGT was the closest homolog of QrUGT84A13, which has been functionally characterized in Q.
 
-## Biological Context
-Genomic basis of the distinct 生物合成 of β‐glucogallin, a biochemical marker for hydrolyzable tannin production, in three oak species
+## Source
+- 文献: [[genomic-basis-of-the-distinct-biosynthesis]]
+- DOI: 10.1111/nph.19711
+- 主要物种: Quercus spp.
 
-## Supporting Evidence
-*Source: [[genomic-basis-of-the-distinct-biosynthesis]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: QrUGT84A13
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

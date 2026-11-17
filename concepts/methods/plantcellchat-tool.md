@@ -1,13 +1,13 @@
 ---
-title: PlantCellChat: an R-based toolkit for predicting plant cell-cell communication f
+title: 'PlantCellChat: an R-based toolkit for predicting plant cell-cell communication f'
 created: 2026-05-28
 type: concept
 tags: [development, stress, immunity, light, spatial-omics, single-cell, multi-omics, signaling]
 doi: 10.1111/tpj.70905
 confidence: medium
-aliases: ["PlantCellChat: an R-based toolkit for predicting plant cell-cell communication f"]
+aliases: ['PlantCellChat: an R-based toolkit for predicting plant cell-cell communication f']
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
 ---
 
 # PlantCellChat: an R-based toolkit for predicting plant cell-cell communication f
@@ -32,8 +32,8 @@ Cell-cell communication (CCC) plays a fundamental role in coordinating plant dev
 - [[reed-b-chromosome-sc-spatial]]
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
-- [[b4-78WuUWiztOxRe4n5MS2Pag]]
-- [[spinach-inflorescence-spatial]]
+- [[b3--bs1tAYpaCxa0fWZ49R6kw]]
+- [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-Lj9ToIUf0z9y77oj4ELKlQ]]
 

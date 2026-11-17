@@ -7,7 +7,7 @@ PubMed 爬虫 — 知识库集成版
 import requests, os, re, json, time, random, sys
 from bs4 import BeautifulSoup
 
-BASE = '/mnt/g/hermes_obsidian/hermes'
+from kb_paths import BASE, paper_path  # 统一根目录 + schema 路径
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120',
@@ -186,12 +186,16 @@ confidence: high
 - {paper['cite']}
 
 ## 摘要
-{paper['abstract'][:2000]}
+{paper['abstract']}
 
 ## 关键词
 {', '.join(paper['keywords']) if paper['keywords'] else '—'}
 """
-        with open(f'{BASE}/concepts/{slug}.md','w',encoding='utf-8') as f:
+        _t = paper_path(slug)
+        if os.path.exists(_t):
+            print(f"  = exists, skip: {slug}")
+            continue
+        with open(_t, 'w', encoding='utf-8') as f:
             f.write(content)
         crawled += 1
         print(f"  ✓ {paper['title'][:55]}")

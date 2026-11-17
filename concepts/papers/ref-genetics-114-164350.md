@@ -1,12 +1,18 @@
-title: fastSTRUCTURE: variational inference of population structure in large SNP data s
+---
+title: 'fastSTRUCTURE: variational inference of population structure in large SNP data s'
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [genomics-evolution, methods-tools]
+tags: [methods-tools, papers]
 doi: 10.1534/genetics.114.164350
 confidence: medium
-aliases: ["fastSTRUCTURE: variational inference of population structure in large SNP data s"]
+aliases: ['fastSTRUCTURE: variational inference of population structure in large SNP data s']
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # fastSTRUCTURE: variational inference of population structure in large SNP data s
 
@@ -61,7 +67,7 @@ Communicating editor: M. K. Uyenoyama
 
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-anther-sc-atlas]]
 - [[arabidopsis-root-sc-atlas-plantcell]]
 - [[arabidopsis-root-sc-atlas-review]]

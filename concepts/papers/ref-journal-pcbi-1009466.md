@@ -1,12 +1,18 @@
+---
 title: Optimal transport analysis reveals trajectories in steady-state systems.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1371/journal.pcbi.1009466
 confidence: medium
-aliases: ["Optimal transport analysis reveals trajectories in steady-state systems."]
+aliases: [Optimal transport analysis reveals trajectories in steady-state systems.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Optimal transport analysis reveals trajectories in steady-state systems.
 
@@ -69,7 +75,7 @@ This section collects any data citations, data availability statements, or suppl
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Ficus carica
+**物种**: Arabidopsis thaliana
 **方法**: single-cell RNA-seq, ATAC-seq
 **来源**: DOI:10.1371/journal.pcbi.1009466
 **来源类型**: PDF全文 (10.1371_journal.pcbi.1009466.pdf)
@@ -82,16 +88,16 @@ This section collects any data citations, data availability statements, or suppl
 5. We conclude that the coupling γΔt recovered by solving the entropy minimisation problem Eq (8) is an approximation to the true evolution of Eq (1), corresponding to the drift-diffusion step Eq (5) of the splitting scheme.
 6. As we discuss in more detail later, we found that ε = 0.026 best matched the ground truth in terms of average fate probability correlation across the three lineages.
 7. In Fig 3D we show the inferred process for k = 1, 5, 10, 20 where we have taken π0 to be uniform on the source sites.
-8. Since the transition probabilities encode the displace- ment law of the underlying process over a time interval Δt, we can also recover an estimate ^v of the velocity field v by computing the expected time-Δt displacement of each cell: ^vðxiÞ ¼ EPðXDt   X0jX0 ¼ xiÞ Dt : In Fig 4F we show the estimated velocity field ^v alongside the ground truth v, and we measure Fig 4.
+8. Since the transition probabilities encode the displace- ment law of the underlying process over a time interval Δt, we can also recover an estimate ^v of the velocity field v by computing the expected time-Δt displacement of each cell: ^vðxiÞ ¼ EPðXDt  X0jX0 ¼ xiÞ Dt : In Fig 4F we show the estimated velocity field ^v alongside the ground truth v, and we measure Fig 4.
 ## 相关文献
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

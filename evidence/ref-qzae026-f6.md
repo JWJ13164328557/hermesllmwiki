@@ -1,34 +1,43 @@
 ---
-title: "Overall, addressing these challenges is essential for the successful implementation of single-cell s"
-created: 2026-09-16
+title: "[28] demonstrated that a reliable and suitable sample preparation tactic is essential for …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-qzae026]]"
 doi: "10.1093/gpbjnl/qzae026"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Glycine max"
 evidence_type: "expression/regulation"
-quality: "medium"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Overall, addressing these challenges is essential for the successful implementation of single-cell s
+# [28] demonstrated that a reliable and suitable sample preparation tactic is essential for …
 
 ## Claim
-Overall, addressing these challenges is essential for the successful implementation of single-cell sequencing technologies in plant systems, which has the potential to re­ veal new insights into the biology and genetics of plant cells.
+[28] demonstrated that a reliable and suitable sample preparation tactic is essential for subse quent MS analysis, by utilizing caffeic acid as a standard or ganic acid matrix for endogenous protein imaging of soybean seeds using marix-assisted laser desorption ionization MSI (MALDI-MSI).
 
-## Biological Context
-Opportunities and Challenges in Advancing Plant Research with Single-cell Omics.
+## Source
+- 文献: [[ref-qzae026]]
+- DOI: 10.1093/gpbjnl/qzae026
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[ref-qzae026]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

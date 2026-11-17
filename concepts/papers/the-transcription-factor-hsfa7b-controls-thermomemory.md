@@ -1,15 +1,22 @@
-title: "The transcription factor HSFA7b controls thermomemory at the shoot apical meristem by regulating ethylene biosynthesis a"
+---
+title: The transcription factor HSFA7b controls thermomemory at the shoot apical meristem by regulating ethylene biosynthesis and signaling in Arabidopsis
 created: 2026-05-30
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1016/j.xplc.2023.100743
-pmid: 
-confidence: medium
-aliases: ["The transcription factor HSFA7b 控制 thermomemory at the shoot apical meristem by regulating ethylene 生物合成 and signaling in Arabidopsis"]
+pmid: ''
+aliases:
+- The transcription factor HSFA7b 控制 thermomemory at the shoot apical meristem by regulating ethylene 生物合成 and signaling in Arabidopsis
+title_fixed_from: The transcription factor HSFA7b controls thermomemory at the shoot apical merist
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The transcription factor HSFA7b 控制 thermomemory at the shoot apical meristem by regulating ethylene 生物合成 and signaling in Arabidopsis
+---
 
-> The transcription factor HSFA7b controls thermomemory at the shoot apical meristem by regulating ethylene biosynthesis and signaling in Arabidopsis
+# The transcription factor HSFA7b controls thermomemory at the shoot apical meristem by regulating ethylene biosynthesis and signaling in Arabidopsis
 
 ## 论文信息
 - **期刊**: Plant Communications (2024)

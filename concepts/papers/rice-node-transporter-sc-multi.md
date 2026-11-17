@@ -1,18 +1,25 @@
-title: "Functional characterization of transporter genes in rice node at single-cell resolution through multi-omics technologies."
-pmid: "41896984"
-doi: "10.1007/s11103-015-0342-x"
-pmcid: "PMC12451262"
-journal: "Genome biology"
-year: "2026"
-authors: "Hu Li, Huiling Jin, Min Ning, Fenglin Deng, Wenyi Chen"
+---
+title: Functional characterization of transporter genes in rice node at single-cell resolution through multi-omics technologies.
+pmid: '41896984'
+doi: 10.1186/s13059-026-04046-6
+pmcid: PMC12451262
+journal: Genome biology
+year: '2026'
+authors: Hu Li, Huiling Jin, Min Ning, Fenglin Deng, Wenyi Chen
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [Oryza sativa (rice)]
 methods: [snRNA-seq, multi-omics, RNA-seq, metabolomics, proteomics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
 
+---
+
+# Functional characterization of transporter genes in rice node at single-cell resolution through multi-omics technologies.
 ## 1. Scientific Context
 
 BACKGROUND: The rice node is a critical hub for the distribution of mineral nutrients, mediated by transporters. Manganese (Mn) is an essential micronutrient for plant growth. However, the precise cell types and the cell-type-enriched transporter genes in rice node, and the molecular mechanisms underlying the translocation and distribution of Mn in rice remain poorly understood.
@@ -64,13 +71,11 @@ RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched 
 
 以下为自动提取的核心声明 (需人工审查确认):
 
-
 **E1** [ev-41896984-01]
 - 声明: Functional characterization of transporter genes in rice node at single-cell resolution through multi-omics technologies
 - 证据类型: 转录组 / 遗传 / 生化 (需审查确认)
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
-
 
 **E2** [ev-41896984-02]
 - 声明: RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched genes in rice node I through single-nucleus RNA sequencing (snRNA-seq), systematically profile the expression patterns of putative 1,144 transporter genes within 11 cell types, and identify six candidate transporter gene
@@ -78,13 +83,11 @@ RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched 
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
 
-
 **E3** [ev-41896984-03]
 - 声明: Furthermore, we functionally characterize OsMTP7 that is highly expressed in phloem cells in node, as well as in root stele cells and anther
 - 证据类型: 转录组 / 遗传 / 生化 (需审查确认)
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
-
 
 **E4** [ev-41896984-04]
 - 声明: OsMTP7 is localized to plasma membrane in rice and shows efflux activity for Mn
@@ -92,13 +95,11 @@ RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched 
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
 
-
 **E5** [ev-41896984-05]
 - 声明: We reveal that OsMTP7 knockout alters expression of genes for multiple biological processes in spikelets using bulk RNA-seq, resulting in increased oxidative stress in anther and low fertility
 - 证据类型: 转录组 / 遗传 / 生化 (需审查确认)
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
-
 
 **E6** [ev-41896984-06]
 - 声明: CONCLUSIONS: Our study reveals the precise cell types and the cell-type-enriched transporter genes in node, identifies candidate transporters for elements deposition in node, and demonstrates a novel and critical Mn efflux transporter mediating Mn uptake, translocation and distribution for improving
@@ -106,13 +107,11 @@ RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched 
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
 
-
 **E7** [ev-41896984-07]
 - 声明: GSA directly uses the BioSample database to register and manage sample information, while GSA-Human synchronizes its de-identified sample records with BioSample to support secure cross-database linkage
 - 证据类型: 转录组 / 遗传 / 生化 (需审查确认)
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
-
 
 **E8** [ev-41896984-08]
 - 声明: Each study is identified by a BioProject ( https://ngdc.cncb.ac.cn/bioproject ), which serves as a key metadata repository providing structured storage for project descriptions
@@ -120,18 +119,16 @@ RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched 
 - 证据强度: 中等 (自动分析，需人工评级)
 - 来源: Genome biology 2026
 
-
-
 ## 6. Knowledge Graph Extraction
 
 **实体**:
 - 物种: Oryza sativa (rice)
 - 关键基因: OsMTP7
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Oryza, Manganese, Single-Cell Analysis, Plant Proteins, Gene Expression Regulation, Plant, Membrane Transport Proteins, Plant Roots, Biological Transport
 
@@ -169,10 +166,41 @@ RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched 
 
 **下一步关键实验**: 基于核心发现的遗传学验证 (需人工设计具体实验)
 
-
 ## 深度提炼
 
-**物种**: Oryza sativa
-**方法**: scRNA-seq, transcriptomics (RNA-seq)
-**来源**: DOI:
-**来源类型**: P
+**主要物种**: Spinacia oleracea
+**物种**: Spinacia oleracea, Oryza sativa, Zea mays, Cucumis spp., Triticum aestivum
+**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, qRT-PCR validation, CRISPR/Cas9, knockout/mutant, subcellular localization
+**来源**: DOI:10.1186/s13059-026-04046-6
+**来源类型**: XML全文 (10.1186_s13059-026-04046-6.txt)
+
+### 核心发现
+1. We reveal that OsMTP7 knockout alters expression of genes for multiple biological processes in spikelets using bulk RNA-seq, resulting in increased oxidative stress in anther and low fertility.
+2. We found that the expression patterns of OsMTP1, OsVIT2, OsSPX-MFS3, OsHMA4, OsMTP8.1 and OsABCC1, which encoding the tonoplast-localized transporter for vacuolar ions accumulation [, – ], showed strong correlation with the specific deposition patterns of Zn, Fe, P, Cu, Mn and As in differential tissues in node I (Fig., Additional file 1: Fig.
+3. These findings suggest that ​Cluster 6​ might represent xylem of NVA or small VBs (SVB) (Fig.
+4. Knockout of OsMTP7 hardly affected panicle number, but significantly inhibited plant height and dramatically reduced the dry weight of straw by 38%, panicles by 68%, and grains by 53%, as well as the fertility by 60% compared to WT at the repining stage grown in soil (Fig.
+5. These results indicated that knockout of OsMTP7 disturbed genes expression involved in synthesis and metabolic processes for growth and development in spikelets, leading to increased ROS level and oxidative stress in anther, resulting in low fertility and yield loss.
+6. On the other hand, knockout of OsMTP1 or OsVIT2 greatly increased Zn or Fe concentration in grain because of the decreased Zn or Fe accumulation in nodes (Fig.
+7. Knockout of OsMTP7 decreased Mn distribution from basal stems to leaves and from old leaves to the newest leaf at the vegetative stage, and from nodes and leaves to grains at the reproductive stage (Fig.
+8. Knockout of OsNRAMP5, OsNRAMP1, OsMTP9 or OsNRAMP3 resulted in inhibited growth or low fertility [ –, ].
+## 摘要
+
+BACKGROUND: The rice node is a critical hub for the distribution of mineral nutrients, mediated by transporters. Manganese (Mn) is an essential micronutrient for plant growth. However, the precise cell types and the cell-type-enriched transporter genes in rice node, and the molecular mechanisms underlying the translocation and distribution of Mn in rice remain poorly understood.
+
+RESULTS: We characterize 11 distinct cell types using multiple cluster-enriched genes in rice node I through single-nucleus RNA sequencing (snRNA-seq), systematically profile the expression patterns of putative 1,144 transporter genes within 11 cell types, and identify six candidate transporter genes linked to the tissue-specific deposition of six elements through combining spatial ionomics in node, respectively. Furthermore, we functionally characterize OsMTP7 that is highly expressed in phloem cells in node, as well as in root stele cells and anther. OsMTP7 is localized to plasma membrane in rice and shows efflux activity for Mn. OsMTP7 knockout inhibites Mn uptake and xylem-mediated Mn translocation in root and Mn distribution in node, leading to decreased Mn concentration in various organs and root xylem sap, resulting in reduced biomass and yield. We reveal that OsMTP7 knockout alters expression of genes for multiple biological processes in spikelets using bulk RNA-seq, resulting in increased oxidative stress in anther and low fertility.
+
+CONCLUSIONS: Our study reveals the precise cell types and the cell-type-enriched transporter genes in node, identifies candidate transporters for elements deposition in node, and demonstrates a novel and critical Mn efflux transporter mediating Mn uptake, translocation and distribution for improving growth and yield in rice.
+
+## 关键词
+
+Oryza, Manganese, Single-Cell Analysis, Plant Proteins, Gene Expression Regulation, Plant, Membrane Transport Proteins, Plant Roots, Biological Transport, Cation Transport Proteins, Multiomics
+
+## 相关文献
+
+- [[rice-node-transporter-sc-multi]] 🌱rice
+- [[tillandsia-evolution-land-to-air]] 🌱rice
+- [[alfalfa-cadmium-sc-multiomics]]
+- [[b4-0Ai2UdSwKz-GbYdfit26vw]]
+- [[ref-s13059-025-03811-3]] 🌱rice
+- [[b4-0HHlYZ0Qe2l1HbA9cCPFaQ]] 🌱rice
+- [[ref-s13059-025-03811-3]] 🌱rice

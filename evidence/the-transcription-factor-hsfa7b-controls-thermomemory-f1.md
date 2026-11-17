@@ -1,34 +1,43 @@
 ---
-title: "Here, we report that HEAT SHOCK TRAN- SCRIPTION FACTOR A7b (HSFA7b) plays a crucial role in this pro"
-created: 2026-08-25
+title: "We found that HSFA7b directly regulates ethylene response at the SAM by binding to the …"
+created: 2026-11-02
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-transcription-factor-hsfa7b-controls-thermomemory]]"
 doi: "10.1016/j.xplc.2023.100743"
-species: [Arabidopsis thaliana, Citrus spp.]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "DNA binding/regulation"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: []
+compounds: ["ethylene"]
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Here, we report that HEAT SHOCK TRAN- SCRIPTION FACTOR A7b (HSFA7b) plays a crucial role in this pro
+# We found that HSFA7b directly regulates ethylene response at the SAM by binding to the …
 
 ## Claim
-Here, we report that HEAT SHOCK TRAN- SCRIPTION FACTOR A7b (HSFA7b) plays a crucial role in this process in Arabidopsis, as the absence of functional HSFA7b results in the temporal suppression of SAM activity after thermopriming.
+We found that HSFA7b directly regulates ethylene response at the SAM by binding to the promoter of the key ethylene signaling gene ETHYLENE-INSENSITIVE 3 to establish thermotolerance.
 
-## Biological Context
-The transcription factor HSFA7b 控制 thermomemory at the shoot apical meristem by regulating ethylene 生物合成 and signaling in Arabidopsis
+## Source
+- 文献: [[the-transcription-factor-hsfa7b-controls-thermomemory]]
+- DOI: 10.1016/j.xplc.2023.100743
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[the-transcription-factor-hsfa7b-controls-thermomemory]]*
+## 标注信息
+- 证据类型: DNA binding/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: ethylene
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

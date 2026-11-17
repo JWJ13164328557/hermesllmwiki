@@ -20,7 +20,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-nbt-4096]]"
+  - "[[integrating-single-cell-transcriptomic-data-across-different-condition]]"
 supporting_figures:
   - "xr-10-1038-nbt-4096#figure-4"
 experiments:
@@ -30,6 +30,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/nbt.4096"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # CCA Integration Aligns Human and Mouse Pancreatic Islet Data
@@ -46,7 +59,7 @@ Cross-species scRNA-seq alignment is challenging because of gene orthology drift
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-nbt-4096]] | CCA cross-species integration | Human and mouse islet cells cluster by cell type, not species; conserved programs identified | 2 species, 4 conserved cell types |
+| [[integrating-single-cell-transcriptomic-data-across-different-condition]] | CCA cross-species integration | Human and mouse islet cells cluster by cell type, not species; conserved programs identified | 2 species, 4 conserved cell types |
 
 ## Evidence Quality
 

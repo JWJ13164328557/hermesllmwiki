@@ -1,14 +1,24 @@
-title: "PlantRegMap ：绘制工厂中的功能监管图。"
+---
+title: PlantRegMap ：绘制工厂中的功能监管图。
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/nar/gkz1020
 confidence: medium
-aliases: ["PlantRegMap ：绘制工厂中的功能监管图。"]
+aliases:
+- PlantRegMap ：绘制工厂中的功能监管图。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: 'PlantRegMap: charting functional regulatory maps in plants'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# PlantRegMap ：绘制工厂中的功能监管图。
+---
+
+# PlantRegMap: charting functional regulatory maps in plants
 
 
 
@@ -41,7 +51,7 @@ To whom correspondence should be addressed. Tel: +86 10 6275 5206; Fax: +86 10 6
 
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-anther-sc-atlas]]
 - [[arabidopsis-sam-scrna]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
@@ -63,7 +73,7 @@ Comparisons of multiple related genomes with substantial divergence are widely u
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Glycine max, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Glycine max
 **方法**: genomics, ChIP-seq/qPCR, phylogenetics
 **来源**: DOI:10.1093/nar/gkz1020
 **来源类型**: PDF全文 (10.1093_nar_gkz1020.pdf)

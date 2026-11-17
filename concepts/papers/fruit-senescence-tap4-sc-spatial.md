@@ -1,17 +1,25 @@
-title: "Single-cell and spatial transcriptomics reveals the spatiotemporal trajectory of the small peptide TAP4 in delaying postharvest fruit senescence."
-pmid: "41947460"
-doi: "10.1016/j.xplc.2026.101846"
-pmcid: ""
-journal: "Plant communications"
-year: "2026"
-authors: "Xin Li, Yajing Tian, Xu Duan, Mingyue Lv, Xingfeng Shao"
+---
+title: Single-cell and spatial transcriptomics reveals the spatiotemporal trajectory of the small peptide TAP4 in delaying postharvest fruit senescence.
+pmid: '41947460'
+doi: 10.1016/j.xplc.2026.101846
+pmcid: ''
+journal: Plant communications
+year: '2026'
+authors: Xin Li, Yajing Tian, Xu Duan, Mingyue Lv, Xingfeng Shao
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [scRNA-seq, spatial transcriptomics]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Single-cell and spatial transcriptomics reveals the spatiotemporal trajectory of the small peptide TAP4 in delaying postharvest fruit senescence.
 
 ## 1. Scientific Context
 
@@ -116,10 +124,10 @@ Trypsin (Try) has been reported to possess specific superoxide anion-scavenging 
 - 物种: unknown
 - 关键基因: TAP4
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 

@@ -1,34 +1,43 @@
 ---
-title: "Notably, two phospho­ enolpyruvate carboxykinase (ATP) genes (Soltu.DM.12G006430 and Soltu.DM.12G006"
-created: 2026-08-25
+title: "Unlike the other flavonoid compounds, most of the quercetin derivatives (6/9) were highly …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[integrated-transcriptomic-and-metabolomic-analysis-revealed]]"
 doi: "10.1016/j.foodres.2023.112997"
-species: [Malus domestica, Nicotiana tabacum, Populus spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Solanum tuberosum", "Nicotiana tabacum", "Malus domestica"]
+primary_species: "Solanum tuberosum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: []
+compounds: ["flavonoid"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Notably, two phospho­ enolpyruvate carboxykinase (ATP) genes (Soltu.DM.12G006430 and Soltu.DM.12G006
+# Unlike the other flavonoid compounds, most of the quercetin derivatives (6/9) were highly …
 
 ## Claim
-Notably, two phospho­ enolpyruvate carboxykinase (ATP) genes (Soltu.DM.12G006430 and Soltu.DM.12G006400) also exhibited high connectivity, with 38 and 37 edges, respectively.
+Unlike the other flavonoid compounds, most of the quercetin derivatives (6/9) were highly accumulated in red fleshed potatoes grown at moderate altitude.
 
-## Biological Context
-整合 transcriptomic and metabolomic 分析 revealed altitude-related regulatory mechanisms on 类黄酮 积累 in potato tubers
+## Source
+- 文献: [[integrated-transcriptomic-and-metabolomic-analysis-revealed]]
+- DOI: 10.1016/j.foodres.2023.112997
+- 主要物种: Solanum tuberosum
 
-## Supporting Evidence
-*Source: [[integrated-transcriptomic-and-metabolomic-analysis-revealed]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: flavonoid
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,9 +1,18 @@
-title: Dynamics of alternative polyadenylation in single root cells of 
-tags: [#single-cell-spatial, papers]
-aliases: ["单根细胞替代多聚腺苷酸化动力学"]
+---
+title: Dynamics of alternative polyadenylation in single root cells of
+tags: [papers]
+aliases: [单根细胞替代多聚腺苷酸化动力学]
 type: paper
+themes: [methods-tools, single-cell-spatial-omics]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Dynamics of alternative polyadenylation in single root cells of
 
@@ -48,7 +57,7 @@ DISCUSSION: This study reveals that APA provides an additional layer of informat
 - [[arabidopsis-root-regeneration-sc-multi]] 🌱Arabidopsis
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]] 🌱Arabidopsis
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]] 🌱Arabidopsis
-- [[b3-MweGEIei1VoObhk3boSJog]] 🌱Arabidopsis
-- [[b3-Q__01uAq9RU85RON6eeUaQ]] 🌱Arabidopsis
+- [[b3-peg1lwq2yaEXfDY9yfqzZg]] 🌱Arabidopsis
+- [[ref-s13059-025-03811-3]] 🌱Arabidopsis
 - [[b3-peg1lwq2yaEXfDY9yfqzZg]] 🌱Arabidopsis
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]] 🌱Arabidopsis

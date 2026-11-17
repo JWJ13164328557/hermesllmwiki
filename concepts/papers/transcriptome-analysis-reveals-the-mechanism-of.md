@@ -1,15 +1,22 @@
-title: "Transcriptome analysis reveals the mechanism of nitrogen fertilizers in starch synthesis and quality in waxy and non-wax"
+---
+title: Transcriptome analysis reveals the mechanism of nitrogen fertilizers in starch synthesis and quality in waxy and non-waxy proso millet
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: []
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.carbpol.2023.121372
-pmid: 
-confidence: medium
-aliases: ["Transcriptome 分析 揭示 the 机制 of nitrogen fertilizers in 淀粉 synthesis and quality in waxy and non-waxy proso millet"]
+pmid: ''
+aliases:
+- Transcriptome 分析 揭示 the 机制 of nitrogen fertilizers in 淀粉 synthesis and quality in waxy and non-waxy proso millet
+title_fixed_from: Transcriptome analysis reveals the mechanism of nitrogen fertilizers in starch s
+theme_status: out-of-scope
+theme_basis: scope:agronomy-management
 
-# Transcriptome 分析 揭示 the 机制 of nitrogen fertilizers in 淀粉 synthesis and quality in waxy and non-waxy proso millet
+---
 
-> Transcriptome analysis reveals the mechanism of nitrogen fertilizers in starch synthesis and quality in waxy and non-waxy proso millet
+# Transcriptome analysis reveals the mechanism of nitrogen fertilizers in starch synthesis and quality in waxy and non-waxy proso millet
 
 ## 论文信息
 - **期刊**: Carbohydrate Polymers (2024)

@@ -17,17 +17,29 @@ condition:
   - standard
 support:
   - "[[xr-10-1104-pp-18-01482]]"
-  - "[[nuclei-scRNA-seq-plant-paper]]"
 supporting_figures:
-  - "nuclei-scRNA-seq-plant-paper#figure-1"
-  - "nuclei-scRNA-seq-plant-paper#figure-2"
 experiments:
   - snRNA-seq
   - scRNA-seq comparison
   - protoplast vs. nuclei
 contradictions: []
 contradiction_type: null
+pending_source:
+  - "nuclei-scRNA-seq-plant-paper"
 updated: "2026-05-29"
+doi: "10.1104/pp.18.01482"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Nuclei-Based Methods Avoid Protoplasting Transcriptional Artifacts
@@ -45,7 +57,7 @@ Plant scRNA-seq typically requires protoplast generation via cell wall digestion
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
 | [[xr-10-1104-pp-18-01482]] | Protoplast scRNA-seq | Some cell types may be underrepresented in protoplast-based methods | >10,000 cells |
-| [[nuclei-scRNA-seq-plant-paper]] | snRNA-seq vs. scRNA-seq comparison | Nuclei methods reduce stress gene induction and improve cell-type representation | Plant tissues |
+| nuclei scRNA seq plant paper | snRNA-seq vs. scRNA-seq comparison | Nuclei methods reduce stress gene induction and improve cell-type representation | Plant tissues |
 
 ## Evidence Quality
 

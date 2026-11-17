@@ -1,14 +1,23 @@
-title: POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in <i>Arabidops
+---
+title: POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.7554/eLife.17214
 confidence: medium
-aliases: ["POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in <i>Arabidops"]
+aliases:
+- POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in <i>Arabidops
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in <i>Arabidops
+---
+
+# POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in Arabidopsis
 
 
 
@@ -53,7 +62,7 @@ This section collects any data citations, data availability statements, or suppl
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Zea mays, Ficus carica
+**物种**: Arabidopsis thaliana, Zea mays
 **方法**: transcriptomics (RNA-seq), ChIP-seq/qPCR, qRT-PCR validation, Co-IP, RNAi/VIGS, overexpression, knockout/mutant
 **来源**: DOI:10.7554/eLife.17214
 **来源类型**: PDF全文 (elife-17214-v1.pdf)
@@ -73,7 +82,7 @@ This section collects any data citations, data availability statements, or suppl
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
 - [[alfalfa-cadmium-sc-multiomics]]
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]
 

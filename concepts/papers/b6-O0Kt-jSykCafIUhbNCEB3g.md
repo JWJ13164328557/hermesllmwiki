@@ -1,18 +1,25 @@
-title: Integrated multiomics analysis reveals the molecular mechanism of light intensit
+---
+
+title: Integrated multiomics analysis reveals the molecular mechanism of light intensity-enhanced healing in cotyledon-less splice grafted watermelon
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1093/hr/uhaf293
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 33 MINUTES 05 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["整合 multiomics 分析 揭示 分子 机制 的 light intensit"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 59 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["综合多组学分析揭示了光强的分子机制"]
-aliases_extra: ["Integrated multiomics analysis reveals the molecular mechanism of light intensit"]
+aliases_extra:
+- "整合 multiomics 分析 揭示 分子 机制 的 light intensit"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Integrated multiomics analysis reveals the molecular mechanism of light intensit
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Integrated multiomics analysis reveals the molecular mechanism of light intensit
+---
+
+# Integrated multiomics analysis reveals the molecular mechanism of light intensity-enhanced healing in cotyledon-less splice grafted watermelon
 
 
 
@@ -34,7 +41,7 @@ Grafting in watermelon using traditional methods often causes rootstock regrowth
 - [[cotton-fiber-development-molecular-regulation]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b6-_4lVabIoRyC91sLMxSI_ig]]
 - [[b6-w-bO19EiGBKPR_ELsaEeRQ]]
 - [[circadian-rheostat-proton-gradient-arabidopsis]]

@@ -1,12 +1,21 @@
-title: "转录组和代谢组学综合分析发现MdMYB94与苹果中酯的合成有关"
-journal: "unknown"
-year: ""
+---
+title: 转录组和代谢组学综合分析发现MdMYB94与苹果中酯的合成有关
+journal: unknown
+year: ''
 type: paper
-tags: [#hormone-signaling, papers]
+themes: []
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

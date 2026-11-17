@@ -95,6 +95,13 @@ for i, p in enumerate(papers):
 
 {chr(10).join(ft_parts)}
 """
+    # 幂等保护：同一 PMC 全文只允许存在一份。
+    # 历史事故：缺少此判断时，脚本每被调用一次就追加一份，
+    # 单页最多累积 1460 份副本（3.9GB），见 vol_collapse 修复记录。
+    if '## PMC 全文' in content:
+        import re as _re
+        content = _re.sub(r'\n*## PMC 全文.*?(?=\n## (?!PMC 全文)|\Z)', '', content, flags=_re.S)
+        content = content.rstrip() + '\n'
     if '## 深度提炼' in content:
         content = content.split('## 深度提炼', 1)
         content = content[0] + block + '\n## 深度提炼' + content[1]

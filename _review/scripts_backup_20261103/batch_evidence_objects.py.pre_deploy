@@ -1,0 +1,1056 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""生成 Evidence Objects + Entity 页面。
+
+设计约束（2026-11 整改）
+------------------------
+1. **确定性**：同一输入必须产出逐字节相同的文件。所有集合输出都经过排序，
+   不再依赖 set 迭代顺序（旧实现 list(genes)[:5] 会随 PYTHONHASHSEED 变化，
+   既制造 git 噪音，也让"哪 5 个基因被保留"随机漂移）。
+2. **幂等**：内容未变化时不重写文件，避免每次运行都刷新 mtime 与 git diff。
+3. **时间戳可信**：created 只在首次创建时写入；已有文件的 created 沿用它自己的值，
+   旧实现每次都写成"今天"，导致历史证据的时间信息被抹掉。
+4. **不伪造分析**：不再输出 "Contradictory Evidence: None identified" 与空的
+   "Open Questions"。这两段从未真正做过检索，留着会让读者误以为核对过。
+   现在改为明确标注字段来源（自动标注 + 启发式），把"未做"和"做了没发现"区分开。
+"""
+import argparse, json, os, re, time
+from collections import defaultdict, Counter
+from datetime import datetime
+
+from kb_paths import BASE  # 统一根目录解析: KB_BASE/APP_DIR 环境变量优先
+from species_patterns import primary_species
+from organism_scope import import_decision, clean_abstract
+
+CONCEPTS_DIR = os.path.join(BASE, 'concepts', 'papers')
+EVIDENCE_DIR = os.path.join(BASE, 'evidence')
+ENTITIES_DIR = os.path.join(BASE, 'entities')
+
+os.makedirs(EVIDENCE_DIR, exist_ok=True)
+os.makedirs(ENTITIES_DIR, exist_ok=True)
+
+TODAY = datetime.now().strftime('%Y-%m-%d')
+
+MAX_GENES = 10       # 每条证据最多标注的基因数（按出现频次取前 N，确定性）
+MAX_COMPOUNDS = 8    # 同上，化合物
+
+# 迁移到句首常见的废话，提取结论时应剥离
+LEADIN = re.compile(
+    r'^(?:It (?:should|is|must) (?:also )?be (?:noted|mentioned|emphasized) that|'
+    r'It is worth noting that|Notably|Interestingly|Importantly|Moreover|Furthermore|'
+    r'In addition|Additionally|Consistently|Taken together|Together,? these results? '
+    r'(?:suggest|indicate|show) that|These results? (?:suggest|indicate|show) that)\s*[,:]?\s*',
+    re.I)
+
+
+def slugify(text):
+    """Create URL-friendly slug from text"""
+    s = re.sub(r'[^\w\s-]', '', text.lower())
+    s = re.sub(r'\s+', '-', s.strip())
+    return s[:80].rstrip('-')
+
+
+def _ranked_counts(pattern_counts):
+    """{名称: 出现次数} -> 按 (次数降序, 名称升序) 的确定性列表。"""
+    return [name for name, _n in sorted(pattern_counts.items(), key=lambda kv: (-kv[1], kv[0]))]
+
+
+def extract_gene_compounds(text):
+    """从结论句中抽取基因符号与化合物，按出现频次排序后截断。
+
+    旧实现返回 list(set)[:5]：顺序随进程随机，且截断保留了哪 5 个也不固定。
+    """
+    gene_counts = Counter()
+    compound_counts = Counter()
+
+    gene_patterns = [
+        r'\b([A-Z][a-z]{1,3}[A-Z][A-Za-z0-9]{1,8})\b',   # AtMYB2, OsNAC1
+        r'\b([a-z]{2,4}[A-Z][a-z]{2,4}[A-Z][A-Za-z0-9]{0,6})\b',  # SlBZR1, MdBT2
+        r'\b([A-Z]{2,6}[0-9]{1,3}[A-Z]?)\b',  # WRKY33, MPK3, NAC1（补全全大写基因符号）
+        r'\b([A-Z]{2,6}[0-9]{1,3}[A-Z]?)\b',  # WRKY33, MPK3, NAC1（补全全大写基因符号）
+    ]
+    stopwords = {
+        'the', 'and', 'for', 'was', 'were', 'with', 'that', 'this', 'from', 'have',
+        'been', 'also', 'into', 'more', 'after', 'such', 'than', 'while', 'over',
+        'both', 'each', 'most', 'some', 'many', 'between', 'these', 'those', 'other',
+        'which', 'their', 'about', 'could', 'would', 'should', 'during', 'within',
+        'through', 'however', 'furthermore', 'moreover', 'therefore', 'because',
+        'although', 'typically', 'including', 'whereas',
+        # 全大写基因模式容易命中方法与统计缩写，显式排除
+        'fdr', 'pca', 'pcd', 'log2', 'ppi', 'atp', 'abc', 'cds', 'mz',
+        # 全大写基因模式容易命中方法与统计缩写，显式排除
+        'fdr', 'pca', 'pcd', 'log2', 'ppi', 'atp', 'abc', 'cds', 'mz',
+    }
+    for pat in gene_patterns:
+        for match in re.finditer(pat, text):
+            gene = match.group(1)
+            if gene.lower() not in stopwords:
+                gene_counts[gene] += 1
+
+    compound_patterns = [
+        r'\b(flavonoid|flavonol|anthocyanin|proanthocyanidin|carotenoid)\b',
+        r'\b(terpenoid|monoterpene|sesquiterpene|diterpene|triterpene)\b',
+        r'\b(alkaloid|caffeine|theanine|nicotine)\b',
+        r'\b(lignin|cellulose|hemicellulose|xylan|xyloglucan)\b',
+        r'\b(starch|sucrose|glucose|fructose|maltose)\b',
+        r'\b(phenylpropanoid|phenolic|coumarin)\b',
+        r'\b(ginsenoside|tanshinone|artemisinin|taxol|saponin)\b',
+        r'\b(wax|cutin|suberin)\b',
+        r'\b(jasmonic acid|salicylic acid|abscisic acid|gibberellin|auxin|ethylene|brassinosteroid|strigolactone)\b',
+        r'\b(melatonin|serotonin|dopamine)\b',
+        r'\b(ascorbic acid|tocopherol|vitamin)\b',
+        r'\b(chlorophyll|carotene|lycopene|zeaxanthin)\b',
+    ]
+    for pat in compound_patterns:
+        for match in re.finditer(pat, text, re.I):
+            compound_counts[match.group(1).lower()] += 1
+
+    genes = _ranked_counts(gene_counts)[:MAX_GENES]
+    compounds = _ranked_counts(compound_counts)[:MAX_COMPOUNDS]
+    return genes, compounds
+
+
+def extract_findings_from_concept(content):
+    """Extract numbered findings from the 深度提炼 section"""
+    depth_sec = re.search(r'### 核心发现\n(.+?)(?=\n## (?!###)|## 相关|\n---|\Z)', content, re.DOTALL)
+    if not depth_sec:
+        return []
+
+    findings = []
+    for line in depth_sec.group(1).split('\n'):
+        line = line.strip()
+        m = (re.match(r'^\d+\.\s+(.*)$', line)
+             or re.match(r'^[-*+]\s+(.*)$', line))
+        if not m:
+            continue
+        finding = normalize_finding(m.group(1))
+        if not finding_quality_ok(finding):
+            continue
+        finding = LEADIN.sub('', finding).strip()
+        # 剥离句首废话后首字母变小时补回大写，避免出现 "the expression of ..."
+        if finding and finding[0].islower():
+            finding = finding[0].upper() + finding[1:]
+        if len(finding) > 30:
+            findings.append(finding)
+    return findings
+
+
+# ── 证据行质量控制（2026-11-02 第六轮）────────────────────────────
+# 42 个概念页的"核心发现"是无序列表，但内容直接来自 PDF 断行文本：
+#   "corre­ sponding"（软连字符断词）、"Here we report 36 that brassinosteroid…"
+#   （行号被当作正文）、"## 深度提炼 **物种**: …"（元数据倾倒）。
+# 这些行不是可证伪的发现，导入会污染证据层，宁缺勿滥。
+_PDF_BREAK = re.compile(r'[\u00ad-]\s+(?=[a-z])|\b\w+\s\d{1,3}\s+(?:that|the|and|in|of|to|is|was)\b')
+_META_DUMP = re.compile(r'^#|^\*\*(物种|方法|来源|期刊)\*\*|\*\*(物种|方法|来源)\*\*:')
+_CITATION_TAIL = re.compile(r'\s\d{1,3}\.?$')
+_LOWER_START_OK = re.compile(r'^(?:[a-z]{1,3}\d|miR|lncRNA|siRNA)')
+
+# PDF 抽取常见的字形损伤：软连字符断词、连字、行内行号。
+_SOFT_HYPHEN = re.compile(r'[\u00ad\u2010\u2011]')
+_LIGATURES = {'\ufb00': 'ff', '\ufb01': 'fi', '\ufb02': 'fl',
+              '\ufb03': 'ffi', '\ufb04': 'ffl', '\ufb05': 'st', '\ufb06': 'st'}
+# 行号残留：PDF 两栏排版把行号插进句子（"In summary, 179 cadmium stress … 180 impairment"）。
+# 必须限定 2–3 位数字且前面是空白/标点：单个数字多是基因名后缀
+# （wer-1、cpc-1、lzy1;2;3），把它们当行号会误删真实机制论断。
+_RUNNING_NUM = re.compile(r'(?<=[\s.,;)])\d{2,3}\s+(?=[a-z]{2,})')
+_FIG_TAIL = re.compile(r'\((?:Fig|Table|Supplementary)\.?\s*[^)]*$|\bFig\.\s*\d+[A-Za-z]?$')
+_TERMINAL = re.compile(r'[.!?。！？)"\']$')
+
+
+def normalize_finding(text):
+    """修复 PDF 文本损伤：软连字符断词、连字、多余空白、行号残留。"""
+    t = text or ''
+    for bad, good in _LIGATURES.items():
+        t = t.replace(bad, good)
+    t = _SOFT_HYPHEN.sub('', t)
+    # "con- trolling"：真连字符跨行断词，去掉连字符与空格重新拼接
+    t = re.sub(r'([A-Za-z])-\s+([a-z]{2,})', r'\1\2', t)
+    # 行内参考文献编号 "… biosynthesis (52, 134)." → 去掉括号内纯编号
+    t = re.sub(r'\s*\(\s*\d{1,3}(?:\s*[,;]\s*\d{1,3})*\s*\)', '', t)
+    t = re.sub(r'\s+', ' ', t).strip()
+    return t
+
+
+def finding_quality_ok(text):
+    """严格质量闸门：只放行完整、干净、可独立引用的句子。"""
+    t = normalize_finding(text)
+    if len(t) < 60:
+        return False
+    if not _TERMINAL.search(t):
+        return False
+    if _FIG_TAIL.search(t):
+        return False
+    if _RUNNING_NUM.search(t):
+        return False
+    if _META_DUMP.search(t):
+        return False
+    return True
+
+
+def _is_clean_finding(text):
+    """判断一行文本是否可作为证据：拒绝元数据倾倒、PDF 断词、行号污染。"""
+    t = (text or '').strip()
+    if len(t) < 40:
+        return False
+    if _META_DUMP.search(t):
+        return False
+    if _PDF_BREAK.search(t):
+        return False
+    # 句尾孤立数字多半是 PDF 行号残留（"… by 37"）
+    if _CITATION_TAIL.search(t):
+        return False
+    # 未剥净的引用上标/断词残留
+    if t.count('  ') > 0:
+        return False
+    return True
+
+
+def generate_evidence_id(paper_slug, finding_idx):
+    """Generate unique evidence ID"""
+    return f"{paper_slug}-f{finding_idx + 1}"
+
+
+def short_title(text, limit=90):
+    """截断到词边界，避免出现 "... obviously up- r" 这种断词。"""
+    text = _flat(text)
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    space = cut.rfind(' ')
+    if space > limit * 0.6:
+        cut = cut[:space]
+    return cut.rstrip(' ,;:-') + ' …'
+
+
+def _flat(text):
+    """把多行/多余空白压成一行，供 YAML 单行字段使用。"""
+    return re.sub(r'\s+', ' ', (text or '')).replace('"', "'").strip()
+
+
+def read_created(path):
+    """读取已有文件 frontmatter 里的 created，用于保留原始时间戳。"""
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            head = f.read(600)
+    except OSError:
+        return None
+    m = re.search(r'^created:\s*(\d{4}-\d{2}-\d{2})', head, re.M)
+    return m.group(1) if m else None
+
+
+def write_if_changed(path, content):
+    """内容一致就不落盘：返回 True 表示确实写入。"""
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            if f.read() == content:
+                return False
+    except OSError:
+        pass
+    with open(path, 'w', encoding='utf-8', newline='\n') as f:
+        f.write(content)
+    return True
+
+
+def classify(finding):
+    """启发式证据类型与质量等级（明确标注为启发式，避免伪装成人工评级）。"""
+    quality = 'medium'
+    evidence_type = 'expression/regulation'
+    if re.search(r'(knockout|knockdown|mutant|crispr|overexpression)', finding, re.I):
+        quality = 'high'
+        evidence_type = 'genetic perturbation'
+    elif re.search(r'(co-ip|y2b|bifc|pull-down|interact)', finding, re.I):
+        evidence_type = 'protein interaction'
+    elif re.search(r'(chip|emsa|luciferase|reporter|promoter)', finding, re.I):
+        evidence_type = 'DNA binding/regulation'
+    return evidence_type, quality
+
+
+def render_evidence(ev_id, paper, finding, genes, compounds, created, primary):
+    evidence_type, quality = classify(finding)
+    tags_str = ', '.join(paper['tags'][:4]) if paper['tags'] else 'metabolism'
+    species_str = ', '.join(paper['species'][:3]) if paper['species'] else 'Plant'
+    return f"""---
+title: "{short_title(finding)}"
+created: {created}
+type: evidence
+tags: [{tags_str}]
+source: "[[{paper['slug']}]]"
+doi: "{paper['doi']}"
+species: [{species_str}]
+primary_species: "{primary}"
+evidence_type: "{evidence_type}"
+quality: "{quality}"
+quality_basis: "keyword-heuristic"   # 由关键词推断，非人工评级；用于分诊，不用于结论
+genes: [{', '.join(genes)}]
+compounds: [{', '.join(compounds)}]
+---
+
+# {short_title(finding)}
+
+## Claim
+{finding}
+
+## Source
+- 文献: [[{paper['slug']}]]
+- DOI: {paper['doi'] or '（缺）'}
+- 主要物种: {primary}
+
+## 标注信息
+- 证据类型: {evidence_type}
+- 质量等级: {quality}（关键词启发式，仅供参考）
+- 自动标注基因: {', '.join(genes) if genes else '（无）'}
+- 自动标注化合物: {', '.join(compounds) if compounds else '（无）'}
+
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。
+"""
+
+
+# ---------------------------------------------------------------------------
+# 增量与索引（2026-11-02 追加）
+# ---------------------------------------------------------------------------
+# 背景：2026-11-02 08:13 的每日任务在 phase6 卡死 900s 被杀。全量重写在 9p/G:
+# 挂载上会被杀毒与磁盘抖动放大，且每天重写数千个文件既无必要（脚本本身幂等），
+# 也会把 git 工作区搅脏。这里引入"选择集 + 索引缓存"：
+#   * 每日运行只重算 mtime 落在窗口内的页面（--changed-only）
+#   * 实体页仍按全库索引聚合，所以统计口径与全量运行一致
+#   * 索引缺失时自动退回全量，保证冷启动可用
+
+INDEX_VERSION = 1
+
+
+
+
+# ---------------------------------------------------------------------------
+# 增量与索引（2026-11-02 追加）
+# ---------------------------------------------------------------------------
+# 背景：2026-11-02 08:13 的每日任务在 phase6 卡死 900s 被杀。全量重写在 9p/G:
+# 挂载上会被杀毒与磁盘抖动放大，且每天重写数千个文件既无必要（脚本本身幂等），
+# 也会把 git 工作区搅脏。这里引入"选择集 + 索引缓存"：
+#   * 每日运行只重算 mtime 落在窗口内的页面（--changed-only）
+#   * 实体页仍按全库索引聚合，所以统计口径与全量运行一致
+#   * 索引缺失时自动退回全量，保证冷启动可用
+
+INDEX_VERSION = 1
+
+
+def _cutoff(days):
+    """N=0 表示"今天 0 点以来"；N>=1 表示"最近 N 个 24h"。"""
+    if days <= 0:
+        lt = time.localtime()
+        return time.mktime((lt.tm_year, lt.tm_mon, lt.tm_mday, 0, 0, 0, 0, 0, -1))
+    return time.time() - days * 86400
+
+
+def parse_args():
+    ap = argparse.ArgumentParser(
+        description='生成 evidence objects 与 entity 页面（默认全量）')
+    g = ap.add_mutually_exclusive_group()
+    g.add_argument('--full', action='store_true', help='全量重建（默认）')
+    g.add_argument('--changed-only', action='store_true',
+                   help='只重算 mtime 在 --since-days 天内的概念页')
+    ap.add_argument('--since-days', type=int, default=2,
+                    help='--changed-only 的时间窗（天），默认 2')
+    ap.add_argument('--dois-file',
+                    help='只处理该文件中列出的 DOI（每行一个，可带逗号分隔）')
+    ap.add_argument('--index', default=os.path.join(BASE, '.pipeline_state',
+                                                    'evidence_index.json'),
+                    help='索引缓存路径')
+    ap.add_argument('--no-index', action='store_true',
+                    help='不读写索引缓存，等价于纯全量扫描')
+    ap.add_argument('--report-orphans', action='store_true',
+                    help='报告不再被任何概念页引用的历史 evidence 对象')
+    ap.add_argument('--orphan-list',
+                    default=os.path.join(BASE, '_review', 'orphan_evidence.txt'))
+    ap.add_argument('--prune-index', action='store_true',
+                    help='剔除概念页已不存在的索引条目（防止 active 数虚高）')
+    ap.add_argument('--prune-dry-run', action='store_true',
+                    help='配合 --prune-index 只报告不修改')
+    ap.add_argument('--archive-pruned', action='store_true',
+                    help='配合 --prune-index：把牵连的 evidence 文件移到 _review/archive')
+    ap.add_argument('--archive-orphans', action='store_true',
+                    help='维护模式：归档不在索引中且全库无 wikilink 引用的 evidence')
+    ap.add_argument('--orphan-dry-run', action='store_true',
+                    help='配合 --archive-orphans 只报告不移动')
+    ap.add_argument('--orphan-keep-entity-refs', action='store_true',
+                    help='配合 --archive-orphans：连"仅被陈旧实体页引用"的也保留')
+    ap.add_argument('--repair-entity-links', action='store_true',
+                    help='维护模式：摘除实体页证据表中指向已不存在的 ev 的行')
+    ap.add_argument('--repair-dry-run', action='store_true',
+                    help='配合 --repair-entity-links 只报告不修改')
+    return ap.parse_args()
+
+
+def load_index(path):
+    if not path or not os.path.exists(path):
+        return None
+    try:
+        with open(path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+    except (OSError, ValueError):
+        return None
+    if not isinstance(data, dict) or data.get('version') != INDEX_VERSION:
+        return None
+    if not isinstance(data.get('papers'), dict):
+        return None
+    return data
+
+
+def save_index(path, data):
+    if not path:
+        return
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    tmp = path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(data, f, ensure_ascii=False, sort_keys=True, indent=0)
+        f.write('\n')
+    os.replace(tmp, path)
+
+
+def _read_dois(path):
+    out = set()
+    try:
+        with open(path, 'r', encoding='utf-8', errors='replace') as f:
+            for line in f:
+                for tok in re.split(r'[,\s]+', line.strip()):
+                    tok = tok.strip().lower()
+                    if tok.startswith('10.'):
+                        out.add(tok.rstrip('.'))
+    except OSError:
+        pass
+    return out
+
+
+def scan_paper(path):
+    """解析单个概念页 -> dict 或 None（无核心发现时）。"""
+    try:
+        with open(path, 'r', encoding='utf-8', errors='replace') as f:
+            content = f.read()
+    except OSError:
+        return None
+    if '### 核心发现' not in content:
+        return None
+
+    slug = os.path.basename(path)[:-3]
+    title_m = re.search(r'^# (.+)$', content, re.M)
+    title = title_m.group(1) if title_m else slug
+
+    species = []
+    sm = re.search(r'\*\*物种\*\*:\s*(.+?)$', content, re.M)
+    if sm:
+        species = [s.strip() for s in sm.group(1).split(',') if s.strip()]
+
+    primary = ''
+    pm = re.search(r'\*\*主要物种\*\*:\s*(.+?)$', content, re.M)
+    if pm:
+        primary = pm.group(1).strip()
+
+    tags = []
+    tm = re.search(r'tags:\s*\[(.*?)\]', content)
+    if tm:
+        tags = [t.strip() for t in tm.group(1).split(',')]
+
+    doi = ''
+    dm = re.search(r'doi:\s*(10\.\d{4,}/[^\s\n]+)', content, re.I)
+    if dm:
+        doi = dm.group(1).rstrip('/')
+
+    journal = ''
+    jm = re.search(r'^\s*-\s*\*\*期刊\*\*:\s*(.+?)$', content, re.M)
+    if jm:
+        journal = jm.group(1).strip()
+
+    theme_hits = []
+    thm = re.search(r'^themes:\s*\[(.*?)\]', content, re.M)
+    if thm:
+        theme_hits = [t.strip().strip('"\'') for t in thm.group(1).split(',') if t.strip()]
+
+    findings = extract_findings_from_concept(content)
+    if not findings:
+        return None
+    if not primary:
+        primary = primary_species(title=title, abstract=content, fulltext='')
+    return {'slug': slug, 'title': title, 'species': species, 'primary': primary,
+            'tags': tags, 'doi': doi, 'findings': findings, 'path': path,
+            'journal': journal, 'abstract': clean_abstract(content),
+            'themes': theme_hits}
+
+
+_SUPERSEDED_DIR = os.path.join(BASE, '_review', 'archive',
+                               'superseded_evidence_' + TODAY.replace('-', ''))
+_EV_BY_SLUG = None
+_EV_SLUG_RE = re.compile(r'^(.*)-f\d+$')
+_ARCHIVED_TOTAL = 0
+
+
+def _evidence_by_slug():
+    """一次性建立 slug -> {ev_id} 索引，避免每篇概念页都扫描 7000 个文件。"""
+    global _EV_BY_SLUG
+    if _EV_BY_SLUG is None:
+        idx = defaultdict(set)
+        for fn in os.listdir(EVIDENCE_DIR):
+            if not fn.endswith('.md'):
+                continue
+            m = _EV_SLUG_RE.match(fn[:-3])
+            if m:
+                idx[m.group(1)].add(fn[:-3])
+        _EV_BY_SLUG = idx
+    return _EV_BY_SLUG
+
+
+def _unique_dst(directory, name):
+    """归档目标重名时加序号，绝不覆盖既有归档文件。"""
+    dst = os.path.join(directory, name + '.md')
+    n = 1
+    while os.path.exists(dst):
+        dst = os.path.join(directory, '%s.%d.md' % (name, n))
+        n += 1
+    return dst
+
+
+def _read_text(path):
+    """一次性读文本并立刻关闭句柄（长跑进程里 open().read() 会泄漏 fd）。"""
+    with open(path, encoding='utf-8', errors='ignore') as fh:
+        return fh.read()
+
+
+def archive_superseded(slug, keep_evs):
+    """归档该概念页下不再被索引引用的旧 evidence 文件（只移动，不删除）。
+
+    根因（2026-11-02）：write_paper() 只写新 ev 文件，从不清理旧的。重建时
+    严格闸门把 8 条发现砍到 4 条，-f5..-f8 便残留磁盘却不进索引，形成孤儿
+    证据（1405 条，其中 1341 条页面仍然存在）。
+    """
+    global _ARCHIVED_TOTAL
+    have = _evidence_by_slug().get(slug, set())
+    stale = sorted(have - set(keep_evs))
+    if not stale:
+        return 0
+    os.makedirs(_SUPERSEDED_DIR, exist_ok=True)
+    moved = 0
+    for ev in stale:
+        src = os.path.join(EVIDENCE_DIR, ev + '.md')
+        try:
+            os.replace(src, _unique_dst(_SUPERSEDED_DIR, ev))
+        except OSError as e:
+            print('  [warn] 归档失败 %s: %s' % (ev, e), flush=True)
+            continue
+        have.discard(ev)
+        moved += 1
+    _ARCHIVED_TOTAL += moved
+    return moved
+
+
+def _classify_referrers(base, want):
+    """返回 {ev_id: set(引用它的目录名)}；ROOT 表示知识库根目录的 md。"""
+    dirs = ['evidence', 'relationships', 'entities', 'hypotheses', 'synthesis',
+            'research-programs', 'concepts']
+    rx = re.compile(r'\[\[([^\]|#]+)')
+    out = defaultdict(set)
+    for d in dirs:
+        root = os.path.join(base, d)
+        if not os.path.isdir(root):
+            continue
+        for dp, dn, fn in os.walk(root):
+            dn[:] = [x for x in dn if not x.startswith('.')]
+            for name in fn:
+                if not name.endswith('.md'):
+                    continue
+                try:
+                    body = _read_text(os.path.join(dp, name))
+                except OSError:
+                    continue
+                for s in rx.findall(body):
+                    s = s.strip()
+                    if s in want:
+                        out[s].add(d)
+    try:
+        names = os.listdir(base)
+    except OSError:
+        names = []
+    for name in names:
+        if not name.endswith('.md'):
+            continue
+        try:
+            body = _read_text(os.path.join(base, name))
+        except OSError:
+            continue
+        for s in rx.findall(body):
+            s = s.strip()
+            if s in want:
+                out[s].add('ROOT')
+    return out
+
+
+def archive_orphans(index_papers, dry_run=False, include_entity_only=True):
+    """维护模式：归档孤儿 evidence。
+
+    分级（2026-11-02）：孤儿里只有一部分是"没人要"的。
+      * 无任何 wikilink 引用              -> 直接归档
+      * 只被 entities/ 引用                -> 陈旧实体页（可由索引重建）-> 归档
+      * 被 synthesis/relationships/concepts 引用 -> 真实引用，保留
+    归档后必须 rebuild_entities()，否则 entity 页会留下断链。
+    """
+    expected = set()
+    for slug in index_papers:
+        for ent in index_papers[slug].get('entities', []):
+            expected.add(ent['ev'])
+    actual = sorted(f[:-3] for f in os.listdir(EVIDENCE_DIR) if f.endswith('.md'))
+    orphans = [e for e in actual if e not in expected]
+    refdirs = _classify_referrers(BASE, set(orphans))
+
+    movable, entity_only, protected = [], [], []
+    for ev in orphans:
+        ds = refdirs.get(ev, set())
+        if not ds:
+            movable.append(ev)
+        elif ds == {'entities'} and include_entity_only:
+            entity_only.append(ev)
+        else:
+            protected.append((ev, sorted(ds)))
+    movable_all = movable + entity_only
+    print('孤儿证据: %d（活跃 %d / 磁盘 %d）'
+          % (len(orphans), len(expected), len(actual)))
+    print('  无引用            : %d' % len(movable))
+    print('  仅陈旧实体页引用  : %d%s'
+          % (len(entity_only), '' if include_entity_only else '（本次保留）'))
+    print('  真实引用需保留    : %d' % len(protected))
+    if dry_run:
+        for e in movable_all[:20]:
+            print('  [dry-run] -', e)
+        for e, ds in protected[:10]:
+            print('  [keep] %s <- %s' % (e, '+'.join(ds)))
+        return len(movable_all), len(protected)
+    os.makedirs(_SUPERSEDED_DIR, exist_ok=True)
+    moved = 0
+    for ev in movable_all:
+        try:
+            os.replace(os.path.join(EVIDENCE_DIR, ev + '.md'),
+                       _unique_dst(_SUPERSEDED_DIR, ev))
+            moved += 1
+        except OSError as e:
+            print('  [warn] 归档失败 %s: %s' % (ev, e), flush=True)
+    print('  已归档 %d -> %s' % (moved, _SUPERSEDED_DIR), flush=True)
+    return moved, len(protected)
+
+
+_EV_LINK_ROW = re.compile(r'^\|\s*\[\[([^\]|#]+)\]\]')
+_TOTAL_EV = re.compile(r'(\*\*Total evidence objects\*\*:\s*)(\d+)')
+
+
+def repair_entity_links(dry_run=False):
+    """摘掉实体页证据表里指向"已不在磁盘"的 ev 行，并同步总数。
+
+    2026-11-02：实体页只重建 top-30 基因 / top-15 化合物，其余 135 页是旧
+    构建器遗留。证据归档后这些页面会留下断链，必须做一次表格级修复
+    （只删表格行，不重写页面正文，保留人工编辑内容）。
+    """
+    have = {f[:-3] for f in os.listdir(EVIDENCE_DIR) if f.endswith('.md')}
+    changed = dropped = 0
+    for dp, dn, fn in os.walk(ENTITIES_DIR):
+        dn[:] = [x for x in dn if not x.startswith('.')]
+        for name in sorted(fn):
+            if not name.endswith('.md'):
+                continue
+            path = os.path.join(dp, name)
+            try:
+                body = _read_text(path)
+            except OSError:
+                continue
+            lines = body.split('\n')
+            out, local = [], 0
+            for ln in lines:
+                m = _EV_LINK_ROW.match(ln)
+                if m and m.group(1).strip() not in have:
+                    local += 1
+                    continue
+                out.append(ln)
+            if not local:
+                continue
+            new = '\n'.join(out)
+            n_ev = sum(1 for ln in out if _EV_LINK_ROW.match(ln))
+            new = _TOTAL_EV.sub(lambda mm: mm.group(1) + str(n_ev), new, count=1)
+            if dry_run:
+                print('  [dry-run] %s: 摘除 %d 行' % (name, local))
+                changed += 1
+                dropped += local
+                continue
+            if write_if_changed(path, new):
+                changed += 1
+                dropped += local
+    print('实体页失效链接修复: %d 文件 / %d 行' % (changed, dropped), flush=True)
+    return changed, dropped
+
+
+def write_paper(paper, index_papers):
+    """写一个概念页派生的全部 evidence 对象，并记录到索引。"""
+    written = unchanged = 0
+    ents = []
+    for idx, finding in enumerate(paper['findings']):
+        ev_id = generate_evidence_id(paper['slug'], idx)
+        genes, compounds = extract_gene_compounds(finding)
+        ev_path = os.path.join(EVIDENCE_DIR, ev_id + '.md')
+        created = read_created(ev_path) or TODAY
+        content = render_evidence(ev_id, paper, finding, genes, compounds,
+                                  created, paper['primary'])
+        if write_if_changed(ev_path, content):
+            written += 1
+        else:
+            unchanged += 1
+        ents.append({'ev': ev_id, 'title': short_title(finding, 100),
+                     'genes': genes, 'compounds': compounds})
+    index_papers[paper['slug']] = {'doi': paper['doi'], 'primary': paper['primary'],
+                                   'title': paper['title'], 'entities': ents}
+    # 只写新文件不清旧文件会累积孤儿证据，这里补上归档
+    archive_superseded(paper['slug'], [e['ev'] for e in ents])
+    return written, unchanged
+
+
+def rebuild_entities(index_papers):
+    gene_map = defaultdict(list)
+    comp_map = defaultdict(list)
+    for slug in sorted(index_papers):
+        for ent in index_papers[slug]['entities']:
+            for g in ent['genes']:
+                gene_map[g].append((ent['ev'], ent['title']))
+            for c in ent['compounds']:
+                comp_map[c].append((ent['ev'], ent['title']))
+
+    entity_written = 0
+    gene_counter = Counter({k: len(v) for k, v in gene_map.items()})
+    top_genes = [g for g, c in sorted(gene_counter.items(),
+                                      key=lambda kv: (-kv[1], kv[0])) if c >= 2][:30]
+    for gene in top_genes:
+        ev_list = gene_map[gene]
+        gene_path = os.path.join(ENTITIES_DIR, gene.lower().replace(' ', '-') + '.md')
+        created = read_created(gene_path) or TODAY
+        ev_rows = '\n'.join('| [[%s]] | %s |' % (ev_id, snippet[:80])
+                            for ev_id, snippet in ev_list[:10])
+        gene_content = f"""---
+title: "{gene}"
+created: {created}
+type: entity
+entity_type: gene
+tags: [metabolism, gene]
+---
+
+# {gene}
+
+## Evidence Summary
+**Total evidence objects**: {len(ev_list)}
+
+## Evidence Table
+| Evidence | Finding |
+|----------|---------|
+{ev_rows}
+
+## Functional Roles
+_（待从证据深入提炼）_
+
+## Regulatory Network
+_（见 relationships/）_
+"""
+        if write_if_changed(gene_path, gene_content):
+            entity_written += 1
+
+    comp_counter = Counter({k: len(v) for k, v in comp_map.items()})
+    top_comps = [c for c, n in sorted(comp_counter.items(),
+                                      key=lambda kv: (-kv[1], kv[0])) if n >= 3][:15]
+    for compound in top_comps:
+        ev_list = comp_map[compound]
+        comp_path = os.path.join(ENTITIES_DIR, slugify(compound) + '.md')
+        created = read_created(comp_path) or TODAY
+        ev_rows = '\n'.join('| [[%s]] | %s |' % (ev_id, snippet[:80])
+                            for ev_id, snippet in ev_list[:10])
+        comp_content = f"""---
+title: "{compound}"
+created: {created}
+type: entity
+entity_type: compound
+tags: [metabolism, compound]
+---
+
+# {compound}
+
+## Evidence Summary
+**Total evidence objects**: {len(ev_list)}
+
+## Evidence Table
+| Evidence | Finding |
+|----------|---------|
+{ev_rows}
+
+## Biosynthetic Pathway
+-
+
+## Regulatory Genes
+-
+"""
+        if write_if_changed(comp_path, comp_content):
+            entity_written += 1
+
+    return entity_written, len(top_genes), len(top_comps)
+
+
+def prune_index(index_papers, archive_dir=None, dry_run=False):
+    """剔除"概念页已不存在"的索引条目（页面被隔离/删除后索引会残留）。
+
+    2026-11-02：索引里有 75 篇概念页已不存在，却仍挂着 476 条 ev_id，导致
+    index.md 的 active 数虚高（7082 vs 磁盘 6871）。孤儿指标因此失真。
+
+    只从**索引**移除并报告；磁盘上的 evidence 文件默认原样保留（可能有
+    synthesis 引用），除非显式给 --archive-pruned 才移动到 _review/archive。
+    """
+    on_disk = {f[:-3] for f in os.listdir(CONCEPTS_DIR) if f.endswith('.md')}
+    gone = sorted(slug for slug in index_papers if slug not in on_disk)
+    removed_ev = [ent['ev'] for slug in gone
+                  for ent in index_papers[slug].get('entities', [])]
+
+    # 2026-11-02：第二类残留 —— 概念页还在，但它引用的 evidence 文件已被
+    # repair_nonplant_import / 孤儿归档移走。这些 ev_id 若留在索引里，
+    # index.md 的 active 数会永远大于磁盘（实测 5879 vs 5752，差 127），
+    # 使"孤儿=0"这类指标失去意义。这里按 ev_id 反向清理。
+    ev_on_disk = {f[:-3] for f in os.listdir(EVIDENCE_DIR) if f.endswith('.md')}
+    stale_pairs = []   # (slug, ev_id)
+    for slug, rec in index_papers.items():
+        if slug in gone:
+            continue
+        kept = []
+        for ent in rec.get('entities', []):
+            if ent.get('ev') and ent['ev'] not in ev_on_disk:
+                stale_pairs.append((slug, ent['ev']))
+            else:
+                kept.append(ent)
+        if len(kept) != len(rec.get('entities', [])):
+            rec['entities'] = kept
+    stale_ev = [e for _, e in stale_pairs]
+    print('索引剪枝: %d 篇概念页已不存在（牵连 %d 条 ev_id）；'
+          '%d 个 ev_id 的 evidence 文件已不在磁盘（牵连 %d 篇概念页）'
+          % (len(gone), len(removed_ev), len(stale_ev), len({s for s, _ in stale_pairs})),
+          flush=True)
+    if dry_run:
+        for slug in gone[:20]:
+            print('  [dry-run] -', slug)
+        for slug, ev in stale_pairs[:20]:
+            print('  [dry-run] stale-ev', ev, '<-', slug)
+        return gone, removed_ev + stale_ev
+    for slug in gone:
+        index_papers.pop(slug, None)
+    if archive_dir and removed_ev:
+        os.makedirs(archive_dir, exist_ok=True)
+        moved = 0
+        for ev in removed_ev:
+            src = os.path.join(EVIDENCE_DIR, ev + '.md')
+            if os.path.exists(src):
+                os.replace(src, os.path.join(archive_dir, ev + '.md'))
+                moved += 1
+        print('  归档 evidence 文件: %d -> %s' % (moved, archive_dir), flush=True)
+    return gone, removed_ev
+
+
+def report_orphans(index_papers, out_path):
+    expected = set()
+    for slug in index_papers:
+        for ent in index_papers[slug]['entities']:
+            expected.add(ent['ev'])
+    actual = sorted(f[:-3] for f in os.listdir(EVIDENCE_DIR) if f.endswith('.md'))
+    orphans = [e for e in actual if e not in expected]
+    try:
+        from purity_scan import collect_references
+        refs = collect_references(BASE)
+    except Exception:
+        refs = {}
+    true_orphans = [e for e in orphans if e not in refs]
+    shadowed = [e for e in orphans if e in refs]
+    os.makedirs(os.path.dirname(out_path), exist_ok=True)
+    with open(out_path, 'w', encoding='utf-8', newline='\n') as f:
+        f.write('# 未被任何概念页引用的 evidence 对象\n\n')
+        f.write('生成于 %s；共 %d 条（活跃 %d / 全库 %d）。\n'
+                '其中**真孤儿 %d 条**（全库无任何 [[wikilink]] 指向，可安全归档），'
+                '%d 条仍被 synthesis/relationships/entities 引用（保留原地）。\n'
+                '这些对象来自旧命名方案或已被改写/删除的页面。默认不删除，'
+                '仅供归档决策。\n\n' % (TODAY, len(orphans), len(expected), len(actual),
+                                       len(true_orphans), len(shadowed)))
+        f.write('## 真孤儿（可归档）\n\n')
+        for e in true_orphans:
+            f.write('- %s\n' % e)
+        f.write('\n## 概念页未引但其他层仍引用（保留）\n\n')
+        for e in shadowed:
+            f.write('- %s\n' % e)
+    return len(true_orphans), len(expected), len(actual)
+
+
+def main():
+    args = parse_args()
+    index = None if args.no_index else load_index(args.index)
+
+    if (args.repair_entity_links
+            and not (args.full or args.changed_only or args.dois_file)):
+        repair_entity_links(dry_run=args.repair_dry_run)
+        return
+
+    # 维护模式：--archive-orphans 只清理磁盘，不重建任何页面。
+    if (args.archive_orphans and index is not None
+            and not (args.full or args.changed_only or args.dois_file)):
+        moved, kept = archive_orphans(
+            index['papers'], dry_run=args.orphan_dry_run,
+            include_entity_only=not args.orphan_keep_entity_refs)
+        if not args.orphan_dry_run:
+            # 归档后实体页里会残留指向已归档 ev 的 wikilink，必须重建
+            ew, ng, nc = rebuild_entities(index['papers'])
+            print('Entity pages rewritten: %d (genes %d / compounds %d)'
+                  % (ew, ng, nc), flush=True)
+            repair_entity_links()
+            save_index(args.index, {'version': INDEX_VERSION, 'generated': TODAY,
+                                    'papers': index['papers']})
+        return
+
+    # 纯维护模式：--prune-index 且未要求重建时，只动索引、不动证据层后立即返回。
+    # （此前 --prune-dry-run 会继续走全量重建并写盘，等于预演变真跑。）
+    if (args.prune_index and index is not None
+            and not (args.full or args.changed_only or args.dois_file)):
+        archive = (os.path.join(BASE, '_review', 'archive',
+                                'pruned_evidence_' + TODAY.replace('-', ''))
+                   if args.archive_pruned else None)
+        # 必须传引用：传 dict(...) 副本会让剪枝结果写不回索引（本轮实测踩到）
+        prune_index(index['papers'], archive_dir=archive,
+                    dry_run=args.prune_dry_run)
+        if not args.prune_dry_run:
+            save_index(args.index, {'version': INDEX_VERSION, 'generated': TODAY,
+                                    'papers': index['papers']})
+            if args.report_orphans:
+                n, act, tot = report_orphans(index['papers'], args.orphan_list)
+                print('Orphan evidence objects: %d (active %d / on disk %d) -> %s'
+                      % (n, act, tot, args.orphan_list))
+        return
+    if args.report_orphans and index is not None and not (
+            args.full or args.no_index or args.dois_file or args.changed_only):
+        # 只出孤儿清单时不必重扫全库，直接用索引
+        n, act, tot = report_orphans(index['papers'], args.orphan_list)
+        print('Orphan evidence objects: %d (active %d / on disk %d) -> %s'
+              % (n, act, tot, args.orphan_list))
+        return
+    full = (args.full or args.no_index or args.dois_file is not None
+            or not args.changed_only or index is None)
+    if args.changed_only and index is None and not args.no_index:
+        print('[warn] 索引缺失或版本不符，本次退回全量扫描', flush=True)
+
+    index_papers = dict(index['papers']) if index else {}
+
+    if args.prune_index and index_papers:
+        archive = (os.path.join(BASE, '_review', 'archive',
+                                'pruned_evidence_' + TODAY.replace('-', ''))
+                   if args.archive_pruned else None)
+        prune_index(index_papers, archive_dir=archive, dry_run=args.prune_dry_run)
+
+    all_pages = [os.path.join(CONCEPTS_DIR, f)
+                 for f in sorted(os.listdir(CONCEPTS_DIR)) if f.endswith('.md')]
+
+    if full:
+        targets = all_pages
+        if args.dois_file:
+            wanted = _read_dois(args.dois_file)
+            keep = []
+            for p in all_pages:
+                try:
+                    head = open(p, 'r', encoding='utf-8', errors='replace').read(4000)
+                except OSError:
+                    continue
+                m = re.search(r'doi:\s*"?\s*(10\.\d{4,}/[^\s"\n]+)', head, re.I)
+                if m and m.group(1).lower().rstrip('.') in wanted:
+                    keep.append(p)
+            targets = keep
+    else:
+        cutoff = _cutoff(args.since_days)
+        targets = []
+        for p in all_pages:
+            try:
+                if os.stat(p).st_mtime >= cutoff:
+                    targets.append(p)
+            except OSError:
+                continue
+
+    print('模式: %s | 候选概念页 %d | 待处理 %d'
+          % ('全量' if full else '增量(最近 %d 天)' % args.since_days,
+             len(all_pages), len(targets)), flush=True)
+
+    written = unchanged = processed = 0
+    rejected = []      # (slug, doi, action, reasons)
+    for path in targets:
+        paper = scan_paper(path)
+        if not paper:
+            continue
+        action, reasons = import_decision(
+            paper['title'], paper.get('abstract') or '', paper.get('journal') or '',
+            paper.get('species') or (), paper.get('themes') or (), paper.get('tags') or ())
+        if action == 'drop':
+            # 研究对象是人/动物（或临床终点），植物只是药物/材料来源：
+            # 不生成任何证据对象，并落盘审计清单（可复核、可回滚）。
+            rejected.append((paper['slug'], paper['doi'], action, ';'.join(reasons)))
+            continue
+        if action == 'keep-methods':
+            # 通用方法学论文：证据保留（methods-tools 主题需要），
+            # 但主题层与综述层都会把它限制在 methods-tools 内。
+            rejected.append((paper['slug'], paper['doi'], action, ';'.join(reasons)))
+        w, u = write_paper(paper, index_papers)
+        written += w
+        unchanged += u
+        processed += 1
+
+    total_findings = sum(len(index_papers[s]['entities']) for s in index_papers)
+    print('Papers with findings: %d (本次扫描 %d)' % (len(index_papers), processed))
+    print('Total findings: %d' % total_findings)
+    print('Evidence objects written: %d (unchanged: %d)' % (written, unchanged))
+
+    if rejected:
+        rej_path = os.path.join(BASE, '_review', 'nonplant_rejected_%s.tsv'
+                                % TODAY.replace('-', ''))
+        try:
+            os.makedirs(os.path.dirname(rej_path), exist_ok=True)
+            with open(rej_path, 'w', encoding='utf-8') as fh:
+                fh.write('slug\tdoi\taction\treasons\n')
+                for row in rejected:
+                    fh.write('\t'.join(x or '' for x in row) + '\n')
+            print('Nonplant gate: drop=%d keep-methods=%d -> %s'
+                  % (sum(1 for r in rejected if r[2] == 'drop'),
+                     sum(1 for r in rejected if r[2] == 'keep-methods'), rej_path))
+        except OSError as exc:
+            print('WARN: 拒收清单写入失败: %s' % exc)
+
+    entity_written, ng, nc = rebuild_entities(index_papers)
+    print('Entity pages written: %d (genes: %d, compounds: %d)'
+          % (entity_written, ng, nc))
+
+    if not args.no_index:
+        save_index(args.index, {'version': INDEX_VERSION, 'generated': TODAY,
+                                'papers': index_papers})
+
+    ev_count = len([f for f in os.listdir(EVIDENCE_DIR) if f.endswith('.md')])
+    active_count = sum(len(index_papers[s]['entities']) for s in index_papers)
+    idx_path = os.path.join(BASE, 'index.md')
+    if os.path.exists(idx_path):
+        with open(idx_path, 'r', encoding='utf-8') as f:
+            idx_content = f.read()
+        # 页面上"总数"应指活跃对象；孤儿另计，避免把死文件算成知识量
+        label = ('Evidence Objects — %d active' % active_count
+                 if active_count == ev_count
+                 else 'Evidence Objects — %d active (%d files on disk)'
+                      % (active_count, ev_count))
+        new_idx = re.sub(r'Evidence Objects.*?\n', label + '\n', idx_content)
+        write_if_changed(idx_path, new_idx)
+
+    if args.report_orphans:
+        n, act, tot = report_orphans(index_papers, args.orphan_list)
+        print('Orphan evidence objects: %d (active %d / on disk %d) -> %s'
+              % (n, act, tot, args.orphan_list))
+
+    if _ARCHIVED_TOTAL:
+        print('Superseded evidence archived: %d -> %s'
+              % (_ARCHIVED_TOTAL, _SUPERSEDED_DIR))
+
+    print('\n=== PHASE 6 COMPLETE ===')
+    print('Evidence objects: %d' % ev_count)
+    print('Top genes: %d  Top compounds: %d' % (ng, nc))
+
+
+if __name__ == '__main__':
+    main()

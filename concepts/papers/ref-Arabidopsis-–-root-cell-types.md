@@ -1,12 +1,21 @@
+---
 title: Arabidopsis – root cell types
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
-doi: 
+themes: [single-cell-spatial-omics]
+tags: [papers]
+doi: ""
 confidence: medium
-aliases: ["拟南芥–根细胞类型"]
+aliases: [拟南芥–根细胞类型]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Arabidopsis – root cell types
 

@@ -1,14 +1,24 @@
-title: Cell-type-specific analysis of alternative polyadenylation using single-cell tra
+---
+title: Cell-type-specific analysis of alternative polyadenylation using single-cell transcriptomics data
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1093/nar/gkz781
 confidence: medium
-aliases: ["Cell-type-specific analysis of alternative polyadenylation using single-cell tra"]
+aliases:
+- Cell-type-specific analysis of alternative polyadenylation using single-cell tra
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Cell-type-specific analysis of alternative polyadenylation using single-cell tra
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Cell-type-specific analysis of alternative polyadenylation using single-cell tra
+---
+
+# Cell-type-specific analysis of alternative polyadenylation using single-cell transcriptomics data
 
 
 
@@ -41,7 +51,7 @@ To whom correspondence should be addressed. Tel: +972 36409865; Email:ranel@taue
 
 ## 深度提炼
 
-**物种**: Citrus spp., Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1093/nar/gkz781
 **来源类型**: PDF全文 (10.1093_nar_gkz781.pdf)
@@ -60,7 +70,7 @@ To whom correspondence should be addressed. Tel: +972 36409865; Email:ranel@taue
 
 - [[alfalfa-anther-sc-atlas]]
 - [[alfalfa-cadmium-sc-multiomics]]
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[arabidopsis-root-sc-atlas-plantcell]]
 - [[arabidopsis-root-sc-atlas-review]]

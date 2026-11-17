@@ -1,34 +1,43 @@
 ---
-title: "As a result, sequencing at least two kindred cells, which are a pair of daughter cells derived from "
-created: 2026-08-25
+title: "As a result, sequencing at least two kindred cells, which are a pair of daughter cells …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[advances-and-applications-of-single-cell-omics-technologies-in-plant-research]]"
 doi: "10.1111/tpj.15772"
-species: [Oryza sativa, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
+species: ["Zea mays", "Oryza sativa", "Hordeum vulgare"]
+primary_species: "Zea mays"
+evidence_type: "omics/co-occurrence"
+claim_role: "method"
+non_finding_kind: "aim"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# As a result, sequencing at least two kindred cells, which are a pair of daughter cells derived from 
+# As a result, sequencing at least two kindred cells, which are a pair of daughter cells …
 
 ## Claim
-As a result, sequencing at least two kindred cells, which are a pair of daughter cells derived from the division of a single cell, is necessary to ﬁlter out such false positives occurring randomly during WGA (Chen et al., 2017).
+As a result, sequencing at least two kindred cells, which are a pair of daughter cells derived from the division of a single cell, is necessary to filter out such false positives occurring randomly during WGA (Chen et al., 2017).
 
-## Biological Context
-Advances and applications of single‐cell omics technologies in plant research
+## Source
+- 文献: [[advances-and-applications-of-single-cell-omics-technologies-in-plant-research]]
+- DOI: 10.1111/tpj.15772
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[advances-and-applications-of-single-cell-omics-technologies-in-plant-research]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: method
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

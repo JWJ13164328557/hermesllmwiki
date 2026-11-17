@@ -1,19 +1,23 @@
-title: A chemical complementation approach reveals genes and interactions of flavonoids
+---
+
+title: A chemical complementation approach reveals genes and interactions of flavonoids with other pathways
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/tpj.12129
 confidence: medium
-aliases: ["chemical complementation approach 揭示 genes 和 interactions 的 flavonoids"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 24 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 07 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["化学互补方法揭示了类黄酮的基因和相互作用"]
-aliases_extra: ["A chemical complementation approach reveals genes and interactions of flavonoids"]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: A chemical complementation approach reveals genes and interactions of flavonoids
+theme_status: mapped
+theme_basis: tag+keyword
 
-# A chemical complementation approach reveals genes and interactions of flavonoids
+---
+
+# A chemical complementation approach reveals genes and interactions of flavonoids with other pathways
 
 
 
@@ -34,16 +38,16 @@ In addition to the classical functions of flavonoids in the response to biotic/a
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Ficus carica, Petunia hybrida
+**物种**: Petunia hybrida
 **方法**: metabolomics (LC-MS/GC-MS), qRT-PCR validation, overexpression
 **来源**: DOI:10.1111/tpj.12129
 **来源类型**: PDF全文 (A_chemical_complementation_approach_reveals_genes_and_intera)

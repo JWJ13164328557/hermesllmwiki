@@ -1,12 +1,18 @@
+---
 title: Reactive oxygen species-dependent wound responses in animals and plants.
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: []
+tags: [stress-immunity, papers]
 doi: 10.1016/j.freeradbiomed.2012.10.538
 confidence: medium
-aliases: ["Reactive oxygen species-dependent wound responses in animals and plants."]
+aliases: [Reactive oxygen species-dependent wound responses in animals and plants.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: out-of-scope
+theme_basis: purity:suspect-no-plant-cue
+
+---
 
 # Reactive oxygen species-dependent wound responses in animals and plants.
 
@@ -29,16 +35,16 @@ Animals and plants evolved sophisticated mechanisms that regulate their response
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum, Hordeum vulgare, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum, Hordeum vulgare
 **方法**: transcriptomics (RNA-seq), dual-luciferase reporter, subcellular localization
 **来源**: DOI:10.1016/j.freeradbiomed.2012.10.538
 **来源类型**: PDF全文 (10.1016_j.freeradbiomed.2012.10.538.pdf)

@@ -1,34 +1,43 @@
 ---
-title: "In summary, our data suggest that wound‐induced ROS positively regulate AR induction in Arabidopsis "
-created: 2026-09-16
+title: "In summary, our data suggest that woundinduced ROS positively regulate AR induction in …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-jipb-12870]]"
 doi: "10.1111/jipb.12870"
-species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In summary, our data suggest that wound‐induced ROS positively regulate AR induction in Arabidopsis 
+# In summary, our data suggest that woundinduced ROS positively regulate AR induction in …
 
 ## Claim
-In summary, our data suggest that wound‐induced ROS positively regulate AR induction in Arabidopsis cuttings.
+In summary, our data suggest that woundinduced ROS positively regulate AR induction in Arabidopsis cuttings.
 
-## Biological Context
-Reactive oxygen species regulate auxin levels to mediate adventitious root induc
+## Source
+- 文献: [[ref-jipb-12870]]
+- DOI: 10.1111/jipb.12870
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-jipb-12870]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

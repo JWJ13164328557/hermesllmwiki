@@ -1,17 +1,25 @@
-title: "A single-nucleus and spatial transcriptomic atlas of poplar leaves reveals the regulation of leaf polarity and cuticle deposition."
-pmid: "41866110"
-doi: "10.1016/j.jgg.2026.03.015"
-pmcid: ""
-journal: "Journal of genetics and genomics = Yi chuan xue bao"
-year: "2026"
-authors: "Yiling Li, Lingfei Kong, Xing Guo, Yang Chen, Wenwen Shao"
+---
+title: A single-nucleus and spatial transcriptomic atlas of poplar leaves reveals the regulation of leaf polarity and cuticle deposition.
+pmid: '41866110'
+doi: 10.1016/j.jgg.2026.03.015
+pmcid: ''
+journal: Journal of genetics and genomics = Yi chuan xue bao
+year: '2026'
+authors: Yiling Li, Lingfei Kong, Xing Guo, Yang Chen, Wenwen Shao
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags: [metabolism-natural-products, papers]
 species: [Populus (poplar)]
 methods: [spatial transcriptomics]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# A single-nucleus and spatial transcriptomic atlas of poplar leaves reveals the regulation of leaf polarity and cuticle deposition.
 
 ## 1. Scientific Context
 
@@ -115,10 +123,10 @@ Leaf adaxial-abaxial polarity is fundamental for plant morphogenesis and environ
 - 物种: Populus (poplar)
 - 关键基因: LTPG1, CER10, MYC2
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 

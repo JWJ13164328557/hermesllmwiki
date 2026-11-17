@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # vitamin
 
 ## Evidence Summary
-**Total evidence objects**: 11
+**Total evidence objects**: 9
 
 ## Evidence Table
 | Evidence | Finding |
@@ -23,13 +23,9 @@ tags: [metabolism, compound]
 | [[ms-10-32802_asmscj-2026-0114-f3]] | Zinc is crucial for sperm production and testosterone metabolism, whereas vitami |
 | [[ms-10-3389_finmi-2026-1846828-f5]] | Riboﬂavin and niacin serve as precursors of redox cofactors (i.e., FAD/FMN and N |
 | [[ms-10-3389_fpls-2026-1844723-f4]] | Chilli fruits are also rich in essential vitamins, particularly vitamin C (ascor |
-| [[ms-10-37349_eff-2026-1010161-f2]] | Additionally, the fruits are an excellent source of vitamin C (280 mg/100 g), wh |
 
 ## Biosynthetic Pathway
 -
 
 ## Regulatory Genes
--
-
-## Species Distribution
 -

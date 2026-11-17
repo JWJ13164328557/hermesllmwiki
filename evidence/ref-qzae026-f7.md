@@ -1,34 +1,43 @@
 ---
-title: "[28] demonstrated that a reliable and suitable sample preparation tactic is essential for subse­ que"
-created: 2026-09-16
+title: "The optimization of each step is critical to achieving high-resolution data and detecting …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-qzae026]]"
 doi: "10.1093/gpbjnl/qzae026"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Glycine max"
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# [28] demonstrated that a reliable and suitable sample preparation tactic is essential for subse­ que
+# The optimization of each step is critical to achieving high-resolution data and detecting …
 
 ## Claim
-[28] demonstrated that a reliable and suitable sample preparation tactic is essential for subse­ quent MS analysis, by utilizing caffeic acid as a standard or­ ganic acid matrix for endogenous protein imaging of soybean seeds using marix-assisted laser desorption ionization MSI (MALDI-MSI).
+The optimization of each step is critical to achieving high-resolution data and detecting rare cell populations.
 
-## Biological Context
-Opportunities and Challenges in Advancing Plant Research with Single-cell Omics.
+## Source
+- 文献: [[ref-qzae026]]
+- DOI: 10.1093/gpbjnl/qzae026
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[ref-qzae026]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

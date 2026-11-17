@@ -1,16 +1,28 @@
-title: Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin B
+---
+
+title: Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin Biosynthesis
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/pbi.70687
 confidence: medium
-aliases: ["Cell-Specific 表达 和 Cellular Compartmental 调控 中 Camptothecin B"]
-aliases_extra: ["喜树碱B的细胞特异性表达和细胞区室调节"]
-aliases_extra: ["Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin B"]
+aliases:
+- Cell-Specific 表达 和 Cellular Compartmental 调控 中 Camptothecin B
+aliases_extra:
+- "喜树碱B的细胞特异性表达和细胞区室调节"
+- "Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin B"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin B
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin B
+---
+
+# Cell-Specific Expression and Cellular Compartmental Regulation in Camptothecin Biosynthesis
 
 
 
@@ -30,7 +42,7 @@ Plant secondary metabolites such as monoterpenoid indole alkaloids (MIAs) show t
 ## 相关文献
 
 - [[alfalfa-cadmium-sc-multiomics]]
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-G2N-JJNNVwoyPpAiZEWa8w]]
@@ -40,7 +52,18 @@ Plant secondary metabolites such as monoterpenoid indole alkaloids (MIAs) show t
 
 ## 深度提炼
 
+**主要物种**: Medicago spp.
+**物种**: Medicago spp., Nicotiana tabacum, Solanum lycopersicum, Arabidopsis thaliana, Catharanthus roseus
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), CRISPR/Cas9, knockout/mutant, phylogenetics
+**来源**: DOI:10.1111/pbi.70687
+**来源类型**: PDF全文 (10.1111_pbi.70687.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Collectively, these results demon- strated that knockout of the OpAVT1 gene transiently promoted plant growth but persistently reduced camptothecin biosyn- thetic capacity (Figure S23).
+2. Collectively, these findings establish a cellular-­level framework for camptothecin biosynthesis and regulation.
+3. Notably, the genes encoding camptothecin key enzymes, strictosidine synthase (STR) and tryptophan decarboxylase (TDC), have expanded within the O.
+4. Notably, within the STR-­TDC gene cluster of O.
+5. Notably, scRNA-­seq has driven breakthroughs in understanding plant secondary metabolism, such as MIAs in C.
+6. Notably, co-­expression of OpAVT1 with AtAAP6 inhibited yeast growth compared to AtAAP6 alone, indicating that OpAVT1 mediates tryptophan efflux in yeast (Figure 6c).
+7. Notably, OpAVT1-­KO lines showed yellowish-­brown colour, suppressed root elongation and centralised growth, whereas controls were bright yellow with elongated roots and disc-­like structures.
+8. Protoplast isolation is critical for scRNA-­seq, as it captures cytoplasmic transcripts with higher UMI counts than single-­nucleus RNA sequencing (Chen, Ge, and Lu 2023; Mo and Jiao 2022).

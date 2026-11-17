@@ -1,14 +1,25 @@
-title: An ancient mechanism controls the development of cells with a rooting function i
+---
+title: An Ancient Mechanism Controls the Development of Cells with a Rooting Function in Land Plants
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1126/science.1142618
 confidence: medium
-aliases: ["An ancient mechanism controls the development of cells with a rooting function i"]
+aliases:
+- cr-10-1126-science-1142618
+- An ancient mechanism controls the development of cells with a rooting function i
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: An ancient mechanism controls the development of cells with a rooting function i
+theme_status: mapped
+theme_basis: tag+keyword
 
-# An ancient mechanism controls the development of cells with a rooting function i
+---
+
+# An Ancient Mechanism Controls the Development of Cells with a Rooting Function in Land Plants
 
 
 
@@ -29,16 +40,16 @@ Root hairs and rhizoids are cells with rooting functions in land plants. We desc
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Physcomitrium patens, Ficus carica, Rosa spp.
+**物种**: Arabidopsis thaliana, Physcomitrium patens, Rosa spp.
 **方法**: subcellular localization, promoter-GUS assay, phylogenetics
 **来源**: DOI:10.1126/science.1142618
 **来源类型**: PDF全文 (10.1126_science.1142618.pdf)

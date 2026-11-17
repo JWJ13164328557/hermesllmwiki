@@ -1,34 +1,43 @@
 ---
-title: "Taken together, our results reveal a continuum of epidermal cell differentiation toward stomata and "
-created: 2026-08-25
+title: "Our results reveal a continuum of epidermal cell differentiation toward stomata and …"
+created: 2026-11-03
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[arabidopsis-sam-scrna]]"
 doi: "10.1016/j.devcel.2021.02.021"
-species: [Pyrus spp., Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Gossypium hirsutum", "Pyrus spp."]
+primary_species: "Gossypium hirsutum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, our results reveal a continuum of epidermal cell differentiation toward stomata and 
+# Our results reveal a continuum of epidermal cell differentiation toward stomata and …
 
 ## Claim
-Taken together, our results reveal a continuum of epidermal cell differentiation toward stomata and provide fresh insights into how the expression of cell fate determination genes is precisely coordinated with cell-cycle progression during stomata differentiation.
+Our results reveal a continuum of epidermal cell differentiation toward stomata and provide fresh insights into how the expression of cell fate determination genes is precisely coordinated with cell-cycle progression during stomata differentiation.
 
-## Biological Context
-A single-cell analysis of the Arabidopsis vegetative shoot apex.
+## Source
+- 文献: [[arabidopsis-sam-scrna]]
+- DOI: 10.1016/j.devcel.2021.02.021
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[arabidopsis-sam-scrna]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

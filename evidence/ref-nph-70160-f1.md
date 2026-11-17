@@ -1,34 +1,43 @@
 ---
-title: "As the primary tissue responsible for nutrient and water absorption, the root tip interacts with bio"
-created: 2026-09-16
+title: "As the primary tissue responsible for nutrient and water absorption, the root tip …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-nph-70160]]"
 doi: "10.1111/nph.70160"
-species: [Brassica spp.]
+species: ["Brassica spp."]
+primary_species: "Plant (unspecified)"
 evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# As the primary tissue responsible for nutrient and water absorption, the root tip interacts with bio
+# As the primary tissue responsible for nutrient and water absorption, the root tip …
 
 ## Claim
 As the primary tissue responsible for nutrient and water absorption, the root tip interacts with biotic and abiotic microenvironments to regulate overall plant physiology, largely through root hair cells (Gilroy Jones, 2000 ).
 
-## Biological Context
-Single-cell multiome reveals root hair-specific responses to salt stress.
+## Source
+- 文献: [[ref-nph-70160]]
+- DOI: 10.1111/nph.70160
+- 主要物种: Plant (unspecified)
 
-## Supporting Evidence
-*Source: [[ref-nph-70160]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

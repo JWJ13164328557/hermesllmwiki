@@ -1,34 +1,43 @@
 ---
-title: "The DEmiRNAs of the target genes were predicted using PatMatch software (version 1.2)."
-created: 2026-09-16
+title: "Identification and target gene prediction of lncRNAs We identified novel lncRNAs using …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[new-insights-into-aroma-regulation-in]]"
 doi: "10.1016/j.postharvbio.2023.112347"
-species: [Zea mays, Solanum lycopersicum, Malus domestica]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [PatMatch]
+species: ["Zea mays", "Solanum lycopersicum", "Malus domestica"]
+primary_species: "Pyrus spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The DEmiRNAs of the target genes were predicted using PatMatch software (version 1.2).
+# Identification and target gene prediction of lncRNAs We identified novel lncRNAs using …
 
 ## Claim
-The DEmiRNAs of the target genes were predicted using PatMatch software (version 1.2).
+Identification and target gene prediction of lncRNAs We identified novel lncRNAs using the following parameters: tran script length ≥200 bp and exon number ≥1.
 
-## Biological Context
-New 深入 into aroma 调控 in pear peel and flesh under methyl jasmonate treatment obtained by metabolite and whole-transcriptome RNA 测序 analyses
+## Source
+- 文献: [[new-insights-into-aroma-regulation-in]]
+- DOI: 10.1016/j.postharvbio.2023.112347
+- 主要物种: Pyrus spp.
 
-## Supporting Evidence
-*Source: [[new-insights-into-aroma-regulation-in]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

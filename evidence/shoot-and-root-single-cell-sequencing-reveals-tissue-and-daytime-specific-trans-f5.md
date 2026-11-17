@@ -1,34 +1,43 @@
 ---
-title: "Further, we found clusters that are specified by dominant expression patterns possessed by cells at "
-created: 2026-08-25
+title: "Although the final bolt height of mercy1 plants was substantially shorter compared with …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]"
 doi: "10.1093/plphys/kiab537"
-species: [Arabidopsis thaliana]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Further, we found clusters that are specified by dominant expression patterns possessed by cells at 
+# Although the final bolt height of mercy1 plants was substantially shorter compared with …
 
 ## Claim
-Further, we found clusters that are specified by dominant expression patterns possessed by cells at particular developmental stages.
+Although the final bolt height of mercy1 plants was substantially shorter compared with Col-0 plants (Figure 5, L), we found that mercy1 flowered significantly earlier compared with Col-0 based on the RLN (P 5 0.01) and DTF (P 5 0.001) (Figure 5, I and J).
 
-## Biological Context
-Shoot and root single cell sequencing reveals tissue- and daytime-specific transcriptome profiles
+## Source
+- 文献: [[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]
+- DOI: 10.1093/plphys/kiab537
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

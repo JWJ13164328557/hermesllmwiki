@@ -1,15 +1,22 @@
-title: "Integration of transcriptome, volatile and non-volatile metabolite profile reveals characteristic aroma formation in Too"
+---
+title: Integration of transcriptome, volatile and non-volatile metabolite profile reveals characteristic aroma formation in Toona sinensis
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.foodchem.2023.137788
-pmid: 
-confidence: medium
-aliases: ["转录组、挥发性和非挥发性代谢物谱的整合揭示了香椿香气形成的特征"]
+pmid: ''
+aliases:
+- 转录组、挥发性和非挥发性代谢物谱的整合揭示了香椿香气形成的特征
+title_fixed_from: Integration of transcriptome, volatile and non-volatile metabolite profile revea
+theme_status: mapped
+theme_basis: tag
 
-# 整合 of transcriptome, volatile and non-volatile metabolite 图谱 揭示 characteristic aroma formation in Toona sinensis
+---
 
-> Integration of transcriptome, volatile and non-volatile metabolite profile reveals characteristic aroma formation in Toona sinensis
+# Integration of transcriptome, volatile and non-volatile metabolite profile reveals characteristic aroma formation in Toona sinensis
 
 ## 论文信息
 - **期刊**: Food Chemistry (2024)

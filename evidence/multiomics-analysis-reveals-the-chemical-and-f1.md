@@ -1,34 +1,43 @@
 ---
-title: "Our findings reveal targeted genes and regulators that are meaningful for improve- ment of tuber col"
-created: 2026-08-25
+title: "Our findings reveal targeted genes and regulators that are meaningful for improvement of …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[multiomics-analysis-reveals-the-chemical-and]]"
 doi: "10.1021/acs.jafc.3c04979"
-species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Solanum tuberosum", "Solanum lycopersicum", "Actinidia spp."]
+primary_species: "Solanum tuberosum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Our findings reveal targeted genes and regulators that are meaningful for improve- ment of tuber col
+# Our findings reveal targeted genes and regulators that are meaningful for improvement of …
 
 ## Claim
-Our findings reveal targeted genes and regulators that are meaningful for improve- ment of tuber colors and also nutritional quality via molecular breeding and genetic manipulation.
+Our findings reveal targeted genes and regulators that are meaningful for improvement of tuber colors and also nutritional quality via molecular breeding and genetic manipulation.
 
-## Biological Context
-Multiomics 分析 揭示 the Chemical and Genetic Bases of Pigmented Potato Tuber
+## Source
+- 文献: [[multiomics-analysis-reveals-the-chemical-and]]
+- DOI: 10.1021/acs.jafc.3c04979
+- 主要物种: Solanum tuberosum
 
-## Supporting Evidence
-*Source: [[multiomics-analysis-reveals-the-chemical-and]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

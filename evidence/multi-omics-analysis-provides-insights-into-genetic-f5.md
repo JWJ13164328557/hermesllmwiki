@@ -1,34 +1,43 @@
 ---
-title: "The detected eQTL located within 30-kb region of the target genes were determined as cis-eQTL, and o"
-created: 2026-09-16
+title: "Therefore, the selection of allele corresponding to high target flavonoid will be of …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[multi-omics-analysis-provides-insights-into-genetic]]"
 doi: "10.1016/j.indcrop.2021.113612"
-species: [Oryza sativa, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Oryza sativa", "Zea mays", "Solanum lycopersicum"]
+primary_species: "Populus spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: []
+compounds: ["flavonoid"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The detected eQTL located within 30-kb region of the target genes were determined as cis-eQTL, and o
+# Therefore, the selection of allele corresponding to high target flavonoid will be of …
 
 ## Claim
-The detected eQTL located within 30-kb region of the target genes were determined as cis-eQTL, and others were defined as trans-eQTL (Zhu et al., 2018).
+Therefore, the selection of allele corresponding to high target flavonoid will be of great importance to achieve the regional breeding (Wen et al., 2014; Zhao et al., 2020).
 
-## Biological Context
-多组学 分析 提供了 深入 into genetic architecture of 类黄酮 metabolites in Populus
+## Source
+- 文献: [[multi-omics-analysis-provides-insights-into-genetic]]
+- DOI: 10.1016/j.indcrop.2021.113612
+- 主要物种: Populus spp.
 
-## Supporting Evidence
-*Source: [[multi-omics-analysis-provides-insights-into-genetic]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: flavonoid
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,17 +1,25 @@
-title: "Integrated mass spectrometry imaging and single-cell transcriptome atlas strategies provide novel insights into taxoid biosynthesis and transport in Taxus mairei stems."
-pmid: "37219365"
-doi: "10.1111/tpj.16315"
-pmcid: ""
-journal: "The Plant journal : for cell and molecular biology"
-year: "2023"
-authors: "Chunna Yu, Kailin Hou, Hongshan Zhang, Xueshuang Liang, Cheng Chen"
+---
+title: Integrated mass spectrometry imaging and single-cell transcriptome atlas strategies provide novel insights into taxoid biosynthesis and transport in Taxus mairei stems.
+pmid: '37219365'
+doi: 10.1111/tpj.16315
+pmcid: ''
+journal: 'The Plant journal : for cell and molecular biology'
+year: '2023'
+authors: Chunna Yu, Kailin Hou, Hongshan Zhang, Xueshuang Liang, Cheng Chen
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [scRNA-seq, pseudotime]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Integrated mass spectrometry imaging and single-cell transcriptome atlas strategies provide novel insights into taxoid biosynthesis and transport in Taxus mairei stems.
 
 ## 1. Scientific Context
 
@@ -88,10 +96,10 @@ Taxol, which is a widely used important chemotherapeutic agent, was originally i
 - 物种: unknown
 - 关键基因: MYB47, NAC2, ABCG2
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Taxoids, Transcriptome, Taxus, Paclitaxel, Mass Spectrometry
 

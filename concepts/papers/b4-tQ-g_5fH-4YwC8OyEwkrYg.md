@@ -1,12 +1,18 @@
+---
 title: Multiplexed transcriptomic analyzes of the plant embryonic hourglass.
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 doi: 10.1038/s41467-024-55803-9
 confidence: medium
-aliases: ["Multiplexed transcriptomic analyzes of the plant embryonic hourglass."]
+aliases: [Multiplexed transcriptomic analyzes of the plant embryonic hourglass.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Multiplexed transcriptomic analyzes of the plant embryonic hourglass.
 
@@ -28,11 +34,11 @@ Zoologists have adduced morphological convergence among embryonic stages of clos
 ## 相关文献
 
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
-- [[b3-LVHtmtQm-_znqLP8XuPMww]]
+- [[cr-10-1038-s41592-024-02380-w]]
 - [[b3-Lj9ToIUf0z9y77oj4ELKlQ]]
 - [[b3-RLgcYH-oLXkkTFajo9NYBA]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
-- [[b4-3xWcn3gR1_rK4fPzDslSyw]]
+- [[poplar-xylem-sc-spatial-gb]]
+- [[spatial-transcriptomics-plant-regeneration]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
 
 
@@ -56,7 +62,7 @@ Although questions about the evolution and homology of the cotyledon remain unre
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Zea mays, Physcomitrium patens, Ficus carica
+**物种**: Arabidopsis thaliana, Zea mays, Physcomitrium patens
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1038/s41467-024-55803-9
 **来源类型**: PDF全文 (10.1038_s41467-024-55803-9.pdf)

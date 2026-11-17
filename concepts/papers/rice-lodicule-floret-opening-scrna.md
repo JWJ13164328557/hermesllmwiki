@@ -1,17 +1,25 @@
-title: "Single-cell transcriptome sequencing (ScRNA-seq) uncovers the regulatory role of lodicule cells in rice floret opening (FO)."
-pmid: "42082742"
-doi: "10.1038/s42003-026-10191-2"
-pmcid: ""
-journal: "Communications biology"
-year: "2026"
-authors: "Zhiqiang Yan, Ruyue Deng, Huihui Tang"
+---
+title: Single-cell transcriptome sequencing (ScRNA-seq) uncovers the regulatory role of lodicule cells in rice floret opening (FO).
+pmid: '42082742'
+doi: 10.1038/s42003-026-10191-2
+pmcid: ''
+journal: Communications biology
+year: '2026'
+authors: Zhiqiang Yan, Ruyue Deng, Huihui Tang
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [Oryza sativa (rice)]
 methods: [scRNA-seq, RNA-seq]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Single-cell transcriptome sequencing (ScRNA-seq) uncovers the regulatory role of lodicule cells in rice floret opening (FO).
 
 ## 1. Scientific Context
 
@@ -116,10 +124,10 @@ Floret opening (FO) in rice (Oryza sativa L.) is triggered by lodicule swelling.
 - 物种: Oryza sativa (rice)
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 

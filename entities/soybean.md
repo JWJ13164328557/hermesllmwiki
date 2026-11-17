@@ -48,9 +48,9 @@ updated: 2026-05-30
 
 ## Cross-references
 
-- [[entity-arabidopsis]] — 模式植物参考
-- [[entity-rice]] — 单子叶作物比较
-- [[synthesis-vascular-development]] — 维管发育共识
+- entity-arabidopsis — 模式植物参考
+- entity-rice — 单子叶作物比较
+- synthesis-vascular-development — 维管发育共识
 
 ---
 *21 条证据 | 自动生成 | 需人工扩充*

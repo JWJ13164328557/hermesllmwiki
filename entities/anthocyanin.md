@@ -1,6 +1,6 @@
 ---
 title: "anthocyanin"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,27 +9,24 @@ tags: [metabolism, compound]
 # anthocyanin
 
 ## Evidence Summary
-**Total evidence objects**: 49
+**Total evidence objects**: 144
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[cmnac25-targets-cmmyb6-to-positively-regulate-f1]] | An MBW complex formed by the CmMYB6-CmbHLH2 protein complex is crucial for activ |
-| [[cmnac25-targets-cmmyb6-to-positively-regulate-f2]] | found that the reason for white appearance of ‘Jinba’ at the blooming stage was  |
-| [[cmnac25-targets-cmmyb6-to-positively-regulate-f6]] | BMC Biology CmNAC25 targets CmMYB6 to positively regulate anthocyanin biosynthes |
-| [[cmnac25-targets-cmmyb6-to-positively-regulate-f7]] | CmNAC25 also directly activates the promoter of CmDFR, which encodes the key enz |
-| [[combined-analysis-of-the-metabolome-and-f3]] | AtbHLH113 in Arabidopsis interacts with PAP1/MYB75 modulating anthocyanin biosyn |
-| [[identification-of-the-bhlh-gene-family-f8]] | In addition, DcbHLH5 also interacts with MYB75, which promotes anthocyanin biosy |
-| [[integrated-metabolomic-and-transcriptomic-analysis-reveals-f1]] | We found that the contents of total ﬂavonoid and anthocyanin in young leaves (YL |
-| [[integrated-metabolomic-and-transcriptomic-analysis-reveals-f4]] | Collectively, the results demonstrate that ectopic expression of the EsMYB90 gen |
-| [[integrated-transcriptomics-and-metabolomics-uncover-the-f5]] | (2015) reported that CmbHLH2 binds to the promoter of CmDFR and increases the co |
-| [[metabolome-and-transcriptome-analysis-of-flavor-f2]] | BMC Plant Biology (2021) 21:396 Page 6 of 14 Flavonoid biosynthesis pathway and  |
+| [[a-novel-r2r3myb-transcription-factor-famyb5-f1]] | Collectively, we conclude that the FaMYB5 is an R2R3-MYB activator involved in t |
+| [[a-novel-r2r3myb-transcription-factor-famyb5-f2]] | However, we found that some flowers of ‘Snowwhite’ are pink in the field, and un |
+| [[a-novel-r2r3myb-transcription-factor-famyb5-f3]] | In this study, we found an R2R3- FaMYB5 TF could regulate the metabolism of anth |
+| [[a-novel-r2r3myb-transcription-factor-famyb5-f7]] | For example, ectopic overexpression of CsMYB5a in tobacco increased the PA conte |
+| [[b5-hcZHAUCBBvNTdU5-NTHtmg-f6]] | C1 is a R2R3 MYB TF involved in anthocyanin accumulation in maize and must inter |
+| [[blue-light-photoreceptor-cryptochrome-1-promotes-f1]] | The WT accumulated much higher anthocyanin under blue light than the other light |
+| [[blue-light-photoreceptor-cryptochrome-1-promotes-f5]] | Overexpression of PagCRY1 dramatically increased anthocyanin accumulation. |
+| [[chromosome-scale-genome-together-with-transcriptome-and-f3]] | We found some genes encoding transcription factors, including MYB and bHLH, whos |
+| [[chromosome-scale-genome-together-with-transcriptome-and-f4]] | In conclusion, our findings provide deeper insights into the genomic evolution a |
+| [[chromosome-scale-genome-together-with-transcriptome-and-f7]] | In summary, we provided a multidimensional perspective on the genetic foundation |
 
 ## Biosynthetic Pathway
 -
 
 ## Regulatory Genes
--
-
-## Species Distribution
 -

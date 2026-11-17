@@ -1,18 +1,25 @@
-title: "Cell-Type-Specific and Variety-Specific Responses to Salt Stress in Wheat Root Revealed by Single-Cell Transcriptomics."
-pmid: "41133438"
-doi: "10.1038/s41586-025-08941-z"
-pmid: "40307555"
-pmcid: "PMC12176638"
-journal: "Plant biotechnology journal"
-year: "2026"
-authors: "Lin Du, Wenqiu Pan, Yali Song, Fuyan Liu, Yanzhe Jia"
+---
+title: Cell-Type-Specific and Variety-Specific Responses to Salt Stress in Wheat Root Revealed by Single-Cell Transcriptomics.
+pmid: '41133438'
+doi: 10.1111/pbi.70422
+pmcid: PMC12176638
+journal: Plant biotechnology journal
+year: '2026'
+authors: Lin Du, Wenqiu Pan, Yali Song, Fuyan Liu, Yanzhe Jia
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics, stress-immunity]
+tags: [single-cell-spatial-omics, papers]
 species: [Oryza sativa (rice), Triticum aestivum (wheat)]
 methods: [scRNA-seq, snRNA-seq, spatial transcriptomics, multi-omics, RNA-seq, RNA-FISH, pseudotime, cell communication]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Cell-Type-Specific and Variety-Specific Responses to Salt Stress in Wheat Root Revealed by Single-Cell Transcriptomics.
 
 ## 1. Scientific Context
 

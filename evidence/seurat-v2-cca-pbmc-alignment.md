@@ -17,7 +17,7 @@ condition:
   - resting
   - IFN-β stimulated
 support:
-  - "[[xr-10-1038-nbt-4096]]"
+  - "[[integrating-single-cell-transcriptomic-data-across-different-condition]]"
 supporting_figures:
   - "xr-10-1038-nbt-4096#figure-1"
   - "xr-10-1038-nbt-4096#figure-2"
@@ -28,6 +28,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/nbt.4096"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # CCA-Based Integration Aligns PBMC Datasets Across Conditions
@@ -44,7 +57,7 @@ Cross-condition scRNA-seq comparisons require distinguishing biological cell typ
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-nbt-4096]] | CCA integration | Resting and stimulated PBMC datasets aligned; stimulation-specific expression changes preserved | 2 datasets, multiple cell types |
+| [[integrating-single-cell-transcriptomic-data-across-different-condition]] | CCA integration | Resting and stimulated PBMC datasets aligned; stimulation-specific expression changes preserved | 2 datasets, multiple cell types |
 
 ## Evidence Quality
 

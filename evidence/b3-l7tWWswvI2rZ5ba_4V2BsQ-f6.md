@@ -1,34 +1,43 @@
 ---
-title: "For instance, the snRNA-seq data demon- strated that the epidermal cell gene Zm00001eb101750 ( ZmHSP"
-created: 2026-08-25
+title: "Collectively, these findings emphasize the critical role of cell communication in the …"
+created: 2026-11-03
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[b3-l7tWWswvI2rZ5ba_4V2BsQ]]"
 doi: "10.1002/advs.202512295"
-species: [Oryza sativa, Zea mays, Triticum aestivum]
-evidence_type: "protein interaction"
-quality: "medium"
-genes: [ZmWAK2, ZmHSP90]
+species: ["Zea mays", "Triticum aestivum", "Arabidopsis thaliana"]
+primary_species: "Zea mays"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# For instance, the snRNA-seq data demon- strated that the epidermal cell gene Zm00001eb101750 ( ZmHSP
+# Collectively, these findings emphasize the critical role of cell communication in the …
 
 ## Claim
-For instance, the snRNA-seq data demon- strated that the epidermal cell gene Zm00001eb101750 ( ZmHSP90, Heat shock protein 90 ) interacts with the mesophyll cell gene Zm00001eb071970 ( ZmWAK2, Wall-associated kinase 2 ) during P.
+Collectively, these findings emphasize the critical role of cell communication in the defense of maize against P.
 
-## Biological Context
-Integrated Single-Cell and Spatial Transcriptomics Reveal Cell-Type-Specific Imm
+## Source
+- 文献: [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
+- DOI: 10.1002/advs.202512295
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

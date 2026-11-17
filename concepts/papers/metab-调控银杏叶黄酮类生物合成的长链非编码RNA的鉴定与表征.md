@@ -1,12 +1,21 @@
-title: "调控银杏叶黄酮类生物合成的长链非编码RNA的鉴定与表征"
-journal: "unknown"
-year: ""
+---
+title: 调控银杏叶黄酮类生物合成的长链非编码RNA的鉴定与表征
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

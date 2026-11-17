@@ -1,6 +1,6 @@
 ---
 title: "PpMYB114"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -9,7 +9,7 @@ tags: [metabolism, gene]
 # PpMYB114
 
 ## Evidence Summary
-**Total evidence objects**: 5
+**Total evidence objects**: 4
 
 ## Evidence Table
 | Evidence | Finding |
@@ -18,7 +18,6 @@ tags: [metabolism, gene]
 | [[the-ethylene-responsive-transcription-factor-pperf9-represse-f5]] | Collectively, these results indicate that ethylene inhibits anthocyanin biosynth |
 | [[the-ethylene-responsive-transcription-factor-pperf9-represse-f6]] | (ii) PpERF9 directly inhibits PpMYB114 expression by binding to its promoter, th |
 | [[the-ethylene-responsive-transcription-factor-pperf9-represse-f7]] | (iv) PpERF9 interacts with the co-repressor PpTOPLESS1 via EAR motifs to form a  |
-| [[the-ethylene-responsive-transcription-factor-pperf9-represse-f8]] | A recent study revealed that PpMYB140 inhibits the expression of anthocyanin bio |
 
 ## Functional Roles
 _（待从证据深入提炼）_

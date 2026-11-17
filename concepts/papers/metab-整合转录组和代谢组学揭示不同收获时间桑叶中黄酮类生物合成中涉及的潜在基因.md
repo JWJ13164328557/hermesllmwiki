@@ -1,12 +1,21 @@
-title: "整合转录组和代谢组学揭示不同收获时间桑叶中黄酮类生物合成中涉及的潜在基因"
-journal: "unknown"
-year: ""
+---
+title: 整合转录组和代谢组学揭示不同收获时间桑叶中黄酮类生物合成中涉及的潜在基因
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

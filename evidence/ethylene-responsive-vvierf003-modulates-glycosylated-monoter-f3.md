@@ -1,34 +1,43 @@
 ---
-title: "In Arabidopsis thaliana, AtMYC2 binds to the promoters of AtTPS21 and AtTPS11, trig- gering their ex"
-created: 2026-09-16
+title: "In Arabidopsis thaliana, AtMYC2 binds to the promoters of AtTPS21 and AtTPS11, triggering …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["epigenetics-gene-regulation", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]"
 doi: "10.1093/hr/uhae065"
-species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
-evidence_type: "DNA binding/regulation"
+species: ["Arabidopsis thaliana", "Zea mays", "Solanum lycopersicum"]
+primary_species: "Vitis vinifera"
+evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [AtTPS11, AtMYC2, AtTPS21]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["AtMYC2", "AtTPS11", "AtTPS21"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# In Arabidopsis thaliana, AtMYC2 binds to the promoters of AtTPS21 and AtTPS11, trig- gering their ex
+# In Arabidopsis thaliana, AtMYC2 binds to the promoters of AtTPS21 and AtTPS11, triggering …
 
 ## Claim
-In Arabidopsis thaliana, AtMYC2 binds to the promoters of AtTPS21 and AtTPS11, trig- gering their expression and increasing sesquiterpenoid emission levels [18].
+In Arabidopsis thaliana, AtMYC2 binds to the promoters of AtTPS21 and AtTPS11, triggering their expression and increasing sesquiterpenoid emission levels [18].
 
-## Biological Context
-Ethylene-responsive VviERF003 调节 glycosylated monoterpenoid synthesis by upregulating VviGT14 in grapes
+## Source
+- 文献: [[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]
+- DOI: 10.1093/hr/uhae065
+- 主要物种: Vitis vinifera
 
-## Supporting Evidence
-*Source: [[ethylene-responsive-vvierf003-modulates-glycosylated-monoter]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: AtMYC2, AtTPS11, AtTPS21
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

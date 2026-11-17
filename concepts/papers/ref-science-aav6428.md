@@ -1,12 +1,18 @@
+---
 title: Defining the developmental program leading to meiosis in maize.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1126/science.aav6428
 confidence: medium
-aliases: ["Defining the developmental program leading to meiosis in maize."]
+aliases: [cr-10-1126-science-aav6428, Defining the developmental program leading to meiosis in maize.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Defining the developmental program leading to meiosis in maize.
 
@@ -29,16 +35,16 @@ In multicellular organisms, the entry into meiosis is a complex process characte
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Zea mays, Ficus carica
+**物种**: Zea mays
 **方法**: single-cell RNA-seq, qRT-PCR validation
 **来源**: DOI:10.1126/science.aav6428
 **来源类型**: PDF全文 (10.1126_science.aav6428.pdf)

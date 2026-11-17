@@ -1,17 +1,26 @@
-title: "Imputation integrates single-cell and spatial gene expression data to resolve transcriptional networks in barley shoot meristem development."
-pmid: "41501532"
-doi: "10.1038/s41587-021-01006-2"
-pmcid: "PMC12830361"
-journal: "Nature plants"
-year: "2026"
-authors: "Edgar Demesa-Arevalo, Hannah Dӧrpholz, Isaia Vardanega, Jan Eric Maika, Itzel Pineda-Valentino"
+---
+title: Imputation integrates single-cell and spatial gene expression data to resolve transcriptional networks in barley shoot meristem development.
+pmid: '41501532'
+doi: 10.1038/s41477-025-02176-6
+pmcid: PMC12830361
+journal: Nature plants
+year: '2026'
+authors: Edgar Demesa-Arevalo, Hannah Dӧrpholz, Isaia Vardanega, Jan Eric Maika, Itzel Pineda-Valentino
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 species: [Oryza sativa (rice), Zea mays (maize), Triticum aestivum (wheat)]
 methods: [scRNA-seq, RNA-seq, reporter assay, RNA-FISH, GRN, pseudotime]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+aliases: [b3-MweGEIei1VoObhk3boSJog, daily-41501532]
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Imputation integrates single-cell and spatial gene expression data to resolve transcriptional networks in barley shoot meristem development.
 
 ## 1. Scientific Context
 
@@ -116,3 +125,24 @@ Grass inflorescences are composite structures, featuring complex sets of meriste
 
 **E8** [ev-41501532-08]
 - 声明: When the indeterminate IM at the tip of the rachis has generated a finite number of TSMs, the IM and several
+
+## 摘要
+Grass inflorescences are composite structures, featuring complex sets of meristems as stem cell niches that are initiated in a repetitive manner. Meristems differ in identity and longevity, generate branches or split to form flower meristems that finally produce seeds. Within meristems, distinct cell types are determined by positional information and the regional activity of gene regulatory networks. Understanding these local microenvironments requires precise spatio-temporal information on gene expression profiles, which current technology cannot achieve.Here we investigate transcriptional changes during barley development, from the specification of meristem and organ founder cells to the initiation of distinct floral organs, on the basis of an imputation approach integrating deep single-cell RNA sequencing with spatial gene expression data. The expression profiles of more than 40,000 genes can now be analysed at cellular resolution in multiple barley tissues using the new web-based graphical interface BARVISTA, which enables precise virtual microdissection to analyse any sub-ensemble of cells. Our study pinpoints previously inaccessible key transcriptional events in founder cells during primordia initiation and specification, characterizes complex branching mutant phenotypes by barcoding gene expression profiles, and defines spatio-temporal trajectories during flower development. We thus uncover the genetic basis of complex developmental processes, providing novel opportunities for precisely targeted manipulation of barley traits.
+
+## 深度提炼
+
+**主要物种**: Oryza sativa
+**物种**: Oryza sativa, Hordeum vulgare, Triticum aestivum, Zea mays
+**方法**: transcriptomics (RNA-seq), genomics, single-cell RNA-seq
+**来源**: DOI:10.1038/s41477-025-02176-6
+**来源类型**: XML全文 (10.1038_s41477-025-02176-6.txt)
+
+### 核心发现
+1. We found that genes with substantial variations in expression across samples performed better than less variably expressed genes.
+2. Among genes differentially expressed between the corpus tissue and tunica clusters, we found an ARGONAUTE gene (2HG0125150) related to OsAGO14 (Supplementary Fig.
+3. Among the markers for IM, we found HvFT2 (3HG0244930), a homologue of OsFT-L1, which is activated in rice IM by the mobile paralogues OsHd3a and OsRFT1.
+4. Among the genes detected in corpus subclusters, we found 46 MADS TF genes, 26 of which were differentially expressed between 0.24 and 74.7% of the 4,807 cells in the corpus (Fig.
+5. We found that 20 of 26 MADS TF genes were modulated during and after the establishment of the FM, consistent with the proposed role of these TFs to define the floral whorls after floret transition (Supplementary Fig.
+6. We found two YABBY TF genes as markers for FMab: HvCRC ( 4HG0396510 ), the orthologue of DROOPING LEAF (OsDL) in rice, DL2 in maize and CRABS CLAW in Arabidopsis; and HvTOB1 ( 2HG0184460 ), the orthologue of ZmYABBY14 / TOB1 / ABNORMAL FLOWER ORGANS, all related to leaf-like organs such as the lemma in barley –.
+7. On the adaxial side (FMad), we found WUSCHEL-RELATED HOMEOBOX PROTEIN ( HvWOX3, 1HG0010970), the orthologue of LATERAL LEAF SYMMETRY / OsWOX3 in rice, ZmWOX3a / ZmWOX3b in maize, and PRESSED FLOWER in Arabidopsis, which are involved in lateral organ formation –.
+8. We found that HvKN1 is expressed in the corpus of spikes and, at a lower level, of vSAMs.

@@ -1,14 +1,24 @@
-title: CLUEY enables knowledge-guided clustering and cell type detection from single-ce
+---
+title: CLUEY enables knowledge-guided clustering and cell type detection from single-cell omics data
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/bioinformatics/btaf528
 confidence: medium
-aliases: ["CLUEY enables knowledge-guided clustering and cell type detection from single-ce"]
+aliases:
+- CLUEY enables knowledge-guided clustering and cell type detection from single-ce
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: CLUEY enables knowledge-guided clustering and cell type detection from single-ce
+theme_status: mapped
+theme_basis: tag+keyword
 
-# CLUEY enables knowledge-guided clustering and cell type detection from single-ce
+---
+
+# CLUEY enables knowledge-guided clustering and cell type detection from single-cell omics data
 
 
 
@@ -18,7 +28,13 @@ updated: "2026-05-29"
 **作者**: 
 
 ## 摘要
-<h4>Motivation</h4>Clustering is a fundamental task in single-cell omics data analysis and can significantly impact downstream analyses and biological interpretations. The standard approach involves grouping cells based on their gene expression profiles, followed by annotating each cluster to a cell type using marker genes. However, the number of cell types detected by different clustering methods can vary substantially due to several factors, including the dimension reduction method used and the choice of parameters of the chosen clustering algorithm. These discrepancies can lead to subjective interpretations in downstream analyses, particularly in manual cell type annotation.<h4>Results</h4>To address these challenges, we propose CLUEY, a knowledge-guided framework for cell type detection and clustering of single-cell omics data. CLUEY integrates prior biological knowledge into the clustering process, providing guidance on the optimal number of clusters and enhancing the interpretability of results. We apply CLUEY to both unimodal (e.g. scRNA-seq, scATAC-seq) and multimodal datasets (e.g. CITE-seq, SHARE-seq) and demonstrate its effectiveness in providing biologically meaningful clustering outcomes. These results highlight CLUEY on providing the much-needed guidance in clustering analyses of single-cell omics data.<h4>Availability and implementation</h4>CLUEY package is freely available from https://github.com/SydneyBioX/CLUEY.
+
+
+**Motivation**  Clustering is a fundamental task in single-cell omics data analysis and can significantly impact downstream analyses and biological interpretations. The standard approach involves grouping cells based on their gene expression profiles, followed by annotating each cluster to a cell type using marker genes. However, the number of cell types detected by different clustering methods can vary substantially due to several factors, including the dimension reduction method used and the choice of parameters of the chosen clustering algorithm. These discrepancies can lead to subjective interpretations in downstream analyses, particularly in manual cell type annotation.
+
+**Results**  To address these challenges, we propose CLUEY, a knowledge-guided framework for cell type detection and clustering of single-cell omics data. CLUEY integrates prior biological knowledge into the clustering process, providing guidance on the optimal number of clusters and enhancing the interpretability of results. We apply CLUEY to both unimodal (e.g. scRNA-seq, scATAC-seq) and multimodal datasets (e.g. CITE-seq, SHARE-seq) and demonstrate its effectiveness in providing biologically meaningful clustering outcomes. These results highlight CLUEY on providing the much-needed guidance in clustering analyses of single-cell omics data.
+
+**Availability and implementation**  CLUEY package is freely available from https://github.com/SydneyBioX/CLUEY.
 
 
 
@@ -27,11 +43,11 @@ updated: "2026-05-29"
 
 ## 相关文献
 
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-Oe9xghJ07Ub3C93cYl12oQ]]
-- [[b3-T3lqrTfEAP0t0_6MU5AAxA]]
+- [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 - [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 

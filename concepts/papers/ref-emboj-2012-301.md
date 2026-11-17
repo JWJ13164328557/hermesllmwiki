@@ -1,17 +1,25 @@
-title: "Stem cell function during plant vascular development."
-pmid: "23169537"
-doi: "10.1038/emboj.2012.301"
-pmcid: "PMC144121"
-journal: "The EMBO journal"
-year: "2013"
-authors: "Shunsuke Miyashima, Jose Sebastian, Ji-Young Lee, Yka Helariutta"
+---
+title: Stem cell function during plant vascular development.
+pmid: '23169537'
+doi: 10.1038/emboj.2012.301
+pmcid: PMC144121
+journal: The EMBO journal
+year: '2013'
+authors: Shunsuke Miyashima, Jose Sebastian, Ji-Young Lee, Yka Helariutta
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 species: [unknown]
 methods: [not detected]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Stem cell function during plant vascular development.
 
 ## 1. Scientific Context
 
@@ -87,10 +95,10 @@ The plant vascular system, composed of xylem and phloem, evolved to connect plan
 - 物种: unknown
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Cambium, Cell Differentiation, Cell Proliferation, Gene Expression Regulation, Plant, Meristem, Models, Biological, Phloem, Plant Cells
 

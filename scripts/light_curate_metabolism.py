@@ -7,6 +7,8 @@ BASE = '/mnt/g/hermes_obsidian/hermes'
 CONCEPTS_DIR = os.path.join(BASE, 'concepts', 'papers')
 
 # ---- Curation rules ----
+_KW_RES = {}
+
 SPECIES_MAP = {
     'arabidopsis': 'Arabidopsis thaliana', 'rice': 'Oryza sativa',
     'maize': 'Zea mays', 'corn': 'Zea mays',
@@ -20,7 +22,7 @@ SPECIES_MAP = {
     'soybean': 'Glycine max', 'glycine max': 'Glycine max',
     'brassica napus': 'Brassica napus', 'rapeseed': 'Brassica napus',
     'canola': 'Brassica napus',
-    'citrus': 'Citrus spp.', 'orange': 'Citrus sinensis',
+    'citrus': 'Citrus spp.',  # orange removed: colour word misfired (2026-11-03)
     'lemon': 'Citrus limon',
     'strawberry': 'Fragaria × ananassa', 'fragaria': 'Fragaria × ananassa',
     'pear': 'Pyrus spp.', 'pyrus': 'Pyrus spp.',
@@ -47,7 +49,7 @@ SPECIES_MAP = {
     'dioscorea': 'Dioscorea spp.', 'yam': 'Dioscorea spp.',
     'artemisia': 'Artemisia annua', 'sagebrush': 'Artemisia spp.',
     'crocus': 'Crocus sativus', 'saffron': 'Crocus sativus',
-    'fig': 'Ficus carica', 'ficus': 'Ficus carica',
+    'ficus': 'Ficus carica',  # fig removed: matched Fig./configuration (2026-11-03)
     'ginger': 'Zingiber officinale', 'zingiber': 'Zingiber officinale',
     'capsicum': 'Capsicum annuum', 'pepper': 'Capsicum annuum',
     'cucumis': 'Cucumis spp.', 'cucumber': 'Cucumis sativus', 'melon': 'Cucumis melo',
@@ -144,11 +146,17 @@ METHOD_MAP = {
     'rna interference': 'gene silencing (RNAi)',
 }
 
+def _kw_regex(key):
+    # whole-word matching; bare substring made 'rice' hit 'price' and 'fig' hit 'Fig.'
+    if key not in _KW_RES:
+        _KW_RES[key] = re.compile(r'(?<![A-Za-z])%s(?![A-Za-z])' % re.escape(key), re.I)
+    return _KW_RES[key]
+
+
 def detect_species(text):
-    text_lower = text.lower()
     found = []
     for kw, name in SPECIES_MAP.items():
-        if kw in text_lower:
+        if _kw_regex(kw).search(text):
             found.append(name)
     # deduplicate
     seen = set()

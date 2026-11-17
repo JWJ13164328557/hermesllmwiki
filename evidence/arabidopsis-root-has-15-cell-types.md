@@ -29,6 +29,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+evidence_source: consensus
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Arabidopsis Root Has ≥15 Transcriptionally Distinct Cell Types

@@ -1,34 +1,43 @@
 ---
-title: "For PacBio HiFi se- quencing, SMRTbell libraries in the target fragment size were constructed for se"
-created: 2026-08-25
+title: "The results of this Ks-based analysis differed from those derived from the phylogenetic …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: ["genomics-evolution", "methods-tools"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[pdf-pbi-70695]]"
 doi: "10.1111/pbi.70695"
-species: [Arabidopsis thaliana, Oryza sativa, Medicago spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [PacBio, HiFi]
+species: ["Actinidia spp.", "Gossypium hirsutum", "Medicago spp."]
+primary_species: "Actinidia spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# For PacBio HiFi se- quencing, SMRTbell libraries in the target fragment size were constructed for se
+# The results of this Ks-based analysis differed from those derived from the phylogenetic …
 
 ## Claim
-For PacBio HiFi se- quencing, SMRTbell libraries in the target fragment size were constructed for sequencing according to the standard protocol (Pacific Biosciences, CA, USA) using either 10 kb or 20 kb prepa- ration solutions.
+The results of this Ks-based analysis differed from those derived from the phylogenetic tree, where A.
 
-## Biological Context
-High‐Contiguity Haplotype‐Resolved Genome Assembly of the Hexaploid
+## Source
+- 文献: [[pdf-pbi-70695]]
+- DOI: 10.1111/pbi.70695
+- 主要物种: Actinidia spp.
 
-## Supporting Evidence
-*Source: [[pdf-pbi-70695]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

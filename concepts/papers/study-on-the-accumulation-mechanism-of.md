@@ -1,15 +1,18 @@
-title: "Study on the Accumulation Mechanism of Amino Acids during Bruising and Withering Treatment of Oolong Tea"
+---
+title: Study on the Accumulation Mechanism of Amino Acids during Bruising and Withering Treatment of Oolong Tea
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products, stress-immunity]
+tags: [metabolism-natural-products, papers]
 doi: 10.1021/acs.jafc.0c05344
-pmid: 
-confidence: medium
-aliases: ["Study on the 积累 机制 of Amino Acids 过程中 Bruising and Withering Treatment of Oolong Tea"]
+pmid: ''
+aliases: [Study on the 积累 机制 of Amino Acids 过程中 Bruising and Withering Treatment of Oolong Tea]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Study on the 积累 机制 of Amino Acids 过程中 Bruising and Withering Treatment of Oolong Tea
+---
 
-> Study on the Accumulation Mechanism of Amino Acids during Bruising and Withering Treatment of Oolong Tea
+# Study on the Accumulation Mechanism of Amino Acids during Bruising and Withering Treatment of Oolong Tea
 
 ## 论文信息
 - **期刊**: Journal of Agricultural and Food Chemistry (2020)
@@ -25,12 +28,15 @@ Camellia sinensis
 
 ## 深度提炼
 
-**物种**: Arabidopsis, maize, rice, tea, wheat
-
-**方法**: RNA-seq, Proteomics, Metabolomics
+**主要物种**: Camellia sinensis
+**物种**: Camellia sinensis, Arabidopsis thaliana, Triticum aestivum, Dioscorea spp., Oryza sativa
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation, overexpression, subcellular localization
+**来源**: DOI:10.1021/acs.jafc.0c05344
+**来源类型**: PDF全文 (55-乌龙茶青枯处理过程中氨基酸积累机理的研究.pdf)
 
 ### 核心发现
-
-- Identification of three clones which commonly interact with the kinase domains of highly homologous two receptor-like kinases, RLK902 and RKL1.
-
-**全文来源**: PubMed摘要
+1. The relative level of the metabolites was expressed as the peak area ratio of the target compound versus internal standard (sorbitol).
+2. AATC encodes aspartate aminotransferase which is important for the metabolism of Asp and Asp-derived amino acids as well as Krebs-cycle related organic acids.51 As a member of the malate-aspartate shuttle, aspartate plays a key role in nitrogen metabolism as well as in aspects of carbon and energy metabolisms.
+3. Identification of three clones which commonly interact with the kinase domains of highly homologous two receptor-like kinases, RLK902 and RKL1.
+4. Interestingly, the inconsistent relationship between the level of amino acids and expression of the relevant genes was observed in Gln, Cys, and GABA biosynthesis, indicating that another modulation mechanism might also be involved in the metabolism of these amino acids besides transcription regulation.
+5. This was consistent with some previous studies in which abiotic stress could remarkably aﬀect the metabolism of amino acids in plants.13,31,32 Interestingly, theanine, as an important nonprotein and taste-contribution amino acid in teas, mainly displayed a downward trend during BWT although its content did not vary in exactly a similar manner in various cultivars.

@@ -3,11 +3,18 @@ title: "miR156SPL12模块通过直接调控蓝莓的乙烯生产途径，协调�
 journal: "unknown"
 year: ""
 type: paper
-tags: [gene-regulation, metabolism]
+themes: []
+tags: [metabolism]
 species: [plant]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

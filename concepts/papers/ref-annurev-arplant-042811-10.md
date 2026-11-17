@@ -1,14 +1,27 @@
-title: "植物干细胞壁龛。"
+---
+title: "Plant Stem Cell Niches"
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags:
+- developmental-biology
+- papers
 doi: 10.1146/annurev-arplant-042811-105555
 confidence: medium
-aliases: ["植物干细胞壁龛。"]
+aliases:
+- cr-10-1146-annurev-arplant-042811-105555
+- 植物干细胞壁龛。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: Plant Stem Cell Niches
+title_source: body-h1
+title_quality: repaired
+theme_status: mapped
+theme_basis: tag
 
-# 植物干细胞壁龛。
+---
+
+# Plant Stem Cell Niches
 
 
 
@@ -33,7 +46,7 @@ Multicellular organisms possess pluripotent stem cells to form new organs, reple
 - [[b6-O0Kt-jSykCafIUhbNCEB3g]]
 - [[circadian-rheostat-proton-gradient-arabidopsis]]
 - [[daily-42204818]]
-- [[plant-sc-omics-opportunities-challenges]]
+- [[ref-pnas-2310163120]]
 
 
 ## 深度提炼

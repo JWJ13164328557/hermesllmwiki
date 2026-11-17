@@ -1,12 +1,18 @@
+---
 title: AtLAZY1 is a signaling component required for gravitropism of the Arabidopsis th
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 doi: 10.1111/tpj.12118
 confidence: medium
-aliases: ["AtLAZY1 is a signaling component required for gravitropism of the Arabidopsis th"]
+aliases: [AtLAZY1 is a signaling component required for gravitropism of the Arabidopsis th]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # AtLAZY1 is a signaling component required for gravitropism of the Arabidopsis th
 
@@ -29,11 +35,11 @@ The present study identified a family of six A. thaliana genes that share five 
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

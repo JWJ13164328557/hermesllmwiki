@@ -1,17 +1,25 @@
-title: "WUSCHEL-dependent chromatin regulation in maize inflorescence development at single-cell resolution."
-pmid: "41039501"
-doi: "10.1093/bioinformatics/btp352"
-pmcid: "PMC12492591"
-journal: "Genome biology"
-year: "2025"
-authors: "Sohyun Bang, Xuan Zhang, Jason Gregory, Ziliang Luo, Zongliang Chen"
+---
+title: WUSCHEL-dependent chromatin regulation in maize inflorescence development at single-cell resolution.
+pmid: '41039501'
+doi: 10.1186/s13059-025-03791-4
+pmcid: PMC12492591
+journal: Genome biology
+year: '2025'
+authors: Sohyun Bang, Xuan Zhang, Jason Gregory, Ziliang Luo, Zongliang Chen
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [Arabidopsis thaliana, Zea mays (maize)]
 methods: [scATAC-seq, ChIP-seq, RNA-seq, ChIP-qPCR, EMSA]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# WUSCHEL-dependent chromatin regulation in maize inflorescence development at single-cell resolution.
 
 ## 1. Scientific Context
 
@@ -117,3 +125,21 @@ RESULTS: Single-cell Assay for Transposase Accessible Chromatin sequencing (scAT
 **E8** [ev-41039501-08]
 - 声明: However, CLV3 is not co-expressed with WUS in the organizing center, and some have suggested that the WUS transcriptional regulation may vary by cellular context; in the central zone, WUS promotes CLV3 expression, but in the organizing center, it could repress CLV3 [ 20 ]
 - 证据类型: 转录组 / 遗传 / 生化 (需审查确认)
+
+## 深度提炼
+
+**主要物种**: Zea mays
+**物种**: Zea mays, Arabidopsis thaliana
+**方法**: transcriptomics (RNA-seq), ATAC-seq, ChIP-seq/qPCR, qRT-PCR validation, EMSA, overexpression
+**来源**: DOI:10.1186/s13059-025-03791-4
+**来源类型**: XML全文 (10.1186_s13059-025-03791-4.txt)
+
+### 核心发现
+1. Our findings suggest that KNOX1 could be activated in Bif3 by either ZmWUS1 itself.
+2. WUS and SHOOT MERISTEMLESS (STM), another stem-cell regulator, dimerize and interact with the TGACA motif upstream of CLV3 [ ].
+3. Auxin related genes are candidate WUS targets supported by Arabidopsis ChIP-seq [ ].
+4. The complex regulatory dynamics of ZmWUS1, and its unique cell-type-specific expression pattern, complicate target gene identification.
+5. This Bif3 -to-WT comparison suggests ZmWUS1 directly promotes transcription via central zone specific cis -regulation, while indirectly repressing stem-cell auxin signaling.
+6. This research supports the model whereby ZmWUS1 targets distinct cis -regulatory elements depending on the cell type.
+7. This suggests that the ZmOCL1 TF, expressed in the epidermis [ ], binds to ACRs within the same cells where it is expressed.
+8. Again, finding direct ZmWUS1 targets will help to resolve these possibilities.

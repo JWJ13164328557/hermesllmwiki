@@ -1,18 +1,25 @@
-title: The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation
+---
+
+title: The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation and secondary wall thickening under high light in Populus
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/nph.71235
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 33 MINUTES 03 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYC2-MYB113 模块 governs JA signaling regulate anthocyanin 积累"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYC2-MYB113模块控制JA信号传导以调节花青素积累"]
-aliases_extra: ["The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation"]
+aliases_extra:
+- "MYC2-MYB113 模块 governs JA signaling regulate anthocyanin 积累"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation
+---
+
+# The MYC2-MYB113 module governs JA signaling to regulate anthocyanin accumulation and secondary wall thickening under high light in Populus
 
 
 

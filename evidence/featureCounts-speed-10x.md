@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1093-bioinformatics-btt656]]"
+  - "[[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]"
 supporting_figures:
   - "xr-10-1093-bioinformatics-btt656#figure-3"
   - "xr-10-1093-bioinformatics-btt656#figure-4"
@@ -26,6 +26,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1093/bioinformatics/btt656"
+evidence_type: "descriptive/observational"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "low"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+tags: [methods-tools]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # featureCounts Is an Order of Magnitude Faster Than Other Summarization Methods
@@ -42,7 +55,7 @@ After alignment, RNA-seq reads must be counted against gene annotations for down
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1093-bioinformatics-btt656]] | featureCounts benchmark | 10–30× faster than htseq-count; comparable accuracy; minimal memory footprint | Multiple RNA-seq datasets |
+| [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]] | featureCounts benchmark | 10–30× faster than htseq-count; comparable accuracy; minimal memory footprint | Multiple RNA-seq datasets |
 
 ## Evidence Quality
 

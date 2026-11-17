@@ -1,34 +1,43 @@
 ---
-title: "PgHMGR2 and PgDXS2 transformation promoted saponin accumulation, while silencing of these genes inhi"
+title: "In conclusion, a complex regulatory network governing saponin biosynthesis following MeJA …"
 created: 2026-08-25
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[rna-sequencing-analysis-reveals-pgbhlh28-as]]"
 doi: "10.1093/hr/uhae058"
-species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
-evidence_type: "expression/regulation"
+species: ["Panax spp.", "Nicotiana tabacum", "Cucumis spp."]
+primary_species: "Panax spp."
+evidence_type: "phenotypic/association"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [PgHMGR2, PgDXS2]
-compounds: [saponin]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["MeJA"]
+compounds: ["saponin"]
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# PgHMGR2 and PgDXS2 transformation promoted saponin accumulation, while silencing of these genes inhi
+# In conclusion, a complex regulatory network governing saponin biosynthesis following MeJA …
 
 ## Claim
-PgHMGR2 and PgDXS2 transformation promoted saponin accumulation, while silencing of these genes inhibited saponin biosynthesis.
+In conclusion, a complex regulatory network governing saponin biosynthesis following MeJA treatment was elucidated, offering a theoretical foundation for enhancing saponin content and biosynthesis efficacy in P.
 
-## Biological Context
-RNA 测序 分析 揭示 PgbHLH28 as the 关键 regulator in 响应 to methyl jasmonate-induced saponin 积累 in Platycodon grandiflorus
+## Source
+- 文献: [[rna-sequencing-analysis-reveals-pgbhlh28-as]]
+- DOI: 10.1093/hr/uhae058
+- 主要物种: Panax spp.
 
-## Supporting Evidence
-*Source: [[rna-sequencing-analysis-reveals-pgbhlh28-as]]*
+## 标注信息
+- 证据类型: phenotypic/association
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: MeJA
+- 自动标注化合物: saponin
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,0 +1,25 @@
+slug	doi	action	reasons
+cr-10-1038-s41592-024-02380-w	10.1038/s41592-024-02380-w	drop-scope-status	scope_status=excluded-nonplant
+cr-s41586-018-0414-6	10.1038/s41586-018-0414-6	drop-scope-status	scope_status=excluded-nonplant
+daily-42306979	10.1002/bit.70240	drop	subject=caco-2
+ms-10-1007_s00330-026-12660-y	10.1007/s00330-026-12660-y	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1007_s12311-026-02057-4	10.1007/s12311-026-02057-4	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s41380-026-03547-x	10.1038/s41380-026-03547-x	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s41467-026-73806-6	10.1038/s41467-026-73806-6	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s41467-026-76871-z	10.1038/s41467-026-76871-z	drop	subject=breast cancer,mouse
+ms-10-1038_s41514-026-00448-9	10.1038/s41514-026-00448-9	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s41562-026-02559-5	10.1038/s41562-026-02559-5	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s41598-026-53668-0	10.1038/s41598-026-53668-0	drop	
+ms-10-1038_s41598-026-56192-3	10.1038/s41598-026-56192-3	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s41598-026-64262-9	10.1038/s41598-026-64262-9	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s44318-026-00829-6	10.1038/s44318-026-00829-6	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1038_s44386-026-00050-9	10.1038/s44386-026-00050-9	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1371_journal-pbio-3003935	10.1371/journal.pbio.3003935	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1371_journal-pgen-1012267	10.1371/journal.pgen.1012267	drop-scope-status	scope_status=excluded-nonplant
+ms-10-1371_journal-pone-0350638	10.1371/journal.pone.0350638	drop	
+ms-10-3389_fcell-2026-1809914	10.3389/fcell.2026.1809914	drop-scope-status	scope_status=excluded-nonplant
+ms-10-3390_cells15121049	10.3390/cells15121049	drop-scope-status	scope_status=excluded-nonplant
+ref-gkr591	10.1093/nar/gkr591	drop-scope-status	scope_status=excluded-nonplant
+ref-nmeth-4463	10.1038/nmeth.4463	drop-scope-status	scope_status=excluded-nonplant
+ref-s41586-019-1773-3	10.1038/s41586-019-1773-3	drop-scope-status	scope_status=excluded-nonplant
+ref-s41587-021-00830-w	10.1038/s41587-021-00830-w	drop-scope-status	scope_status=excluded-nonplant

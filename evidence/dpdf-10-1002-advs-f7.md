@@ -1,34 +1,43 @@
 ---
-title: "Based on the distance (threshold of 1 Mb) between eQTLs and elncRNAs, we uncovered 591 local and 335"
-created: 2026-09-16
+title: "The elncRNAs regulated by these eQTL hotspots at 14 DAF could form a genetic network …"
+created: 2026-11-01
 type: evidence
-tags: [papers, dpdf]
+themes: ["developmental-biology", "genomics-evolution"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers", "dpdf"]
 source: "[[dpdf-10-1002-advs]]"
 doi: "10.1002/advs"
-species: [Triticum aestivum, Oryza sativa, Arabidopsis thaliana]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Triticum aestivum", "Oryza sativa", "Arabidopsis thaliana"]
+primary_species: "Glycine max"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Based on the distance (threshold of 1 Mb) between eQTLs and elncRNAs, we uncovered 591 local and 335
+# The elncRNAs regulated by these eQTL hotspots at 14 DAF could form a genetic network …
 
 ## Claim
-Based on the distance (threshold of 1 Mb) between eQTLs and elncRNAs, we uncovered 591 local and 3357 distal eQTLs for 545 and 1367 elncRNAs at 14 DAF, respectively.
+The elncRNAs regulated by these eQTL hotspots at 14 DAF could form a genetic network through eQTL-elncRNA connection (Figure 3e).
 
-## Biological Context
-10.1002/advs
+## Source
+- 文献: [[dpdf-10-1002-advs]]
+- DOI: 10.1002/advs
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[dpdf-10-1002-advs]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

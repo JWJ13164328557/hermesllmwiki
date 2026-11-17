@@ -1,34 +1,43 @@
 ---
-title: "Surprisingly, a considerable number of DE poly(A) sites were found among cell types (1669–4614) (Fig"
-created: 2026-09-16
+title: "Peak calling and poly(A) read anchoring are two independent steps in scAPAtrap and both …"
+created: 2026-11-02
 type: evidence
-tags: [#methods-tools, papers]
+themes: ["methods-tools"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-bbaa273]]"
 doi: "10.1093/bib/bbaa273"
-species: [Plant (unspecified)]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Plant (unspecified)"]
+primary_species: "Medicago spp."
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "outlook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Surprisingly, a considerable number of DE poly(A) sites were found among cell types (1669–4614) (Fig
+# Peak calling and poly(A) read anchoring are two independent steps in scAPAtrap and both …
 
 ## Claim
-Surprisingly, a considerable number of DE poly(A) sites were found among cell types (1669–4614) (Figure S8), reflecting a high degree of heterogeneity of root cells as observed in previous studies [20, 53, 54].
+Peak calling and poly(A) read anchoring are two independent steps in scAPAtrap and both steps can be used for poly(A) site identification.
 
-## Biological Context
-scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点
+## Source
+- 文献: [[ref-bbaa273]]
+- DOI: 10.1093/bib/bbaa273
+- 主要物种: Medicago spp.
 
-## Supporting Evidence
-*Source: [[ref-bbaa273]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

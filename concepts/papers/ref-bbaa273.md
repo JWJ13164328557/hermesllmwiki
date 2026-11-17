@@ -1,14 +1,27 @@
-title: "scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点"
+---
+title: scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/bib/bbaa273
 confidence: medium
-aliases: ["scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点"]
+aliases:
+- scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点
+- cr-10-1093-bib_bbaa273
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: 'scAPAtrap: identification and quantification of alternative polyadenylation sites from single-cell RNA-seq data'
+merged_from:
+- cr-10-1093-bib_bbaa273
+theme_status: mapped
+theme_basis: tag+keyword
 
-# scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点
+---
+
+# scAPAtrap: identification and quantification of alternative polyadenylation sites from single-cell RNA-seq data
 
 
 
@@ -50,3 +63,5 @@ Alternative polyadenylation (APA) generates diverse mRNA isoforms, which contrib
 4. An example of 3′ UTR event detected by scAPAtrap is the Arl2bp gene, encoding the ADP- ribosylation factor-like 2 binding protein, which is required for the structural maintenance of the sperm flagellum and thus is essential for motility and fertility [50].
 5. Surprisingly, a considerable number of DE poly(A) sites were found among cell types (1669–4614) (Figure S8), reflecting a high degree of heterogeneity of root cells as observed in previous studies [20, 53, 54].
 6. Notably, peak calling and poly(A) read anchoring are two independent steps in scAPAtrap and both steps can be used for poly(A) site identification.
+
+> 合并说明：本页与 cr-10-1093-bib_bbaa273 指向同一 DOI（10.1093/bib/bbaa273），已将重复页移入 archive/duplicates/。

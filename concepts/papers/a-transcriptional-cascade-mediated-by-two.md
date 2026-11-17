@@ -1,15 +1,18 @@
-title: "A transcriptional cascade mediated by two APETALA2 family members orchestrates carotenoid biosynthesis in tomato"
+---
+title: A transcriptional cascade mediated by two APETALA2 family members orchestrates carotenoid biosynthesis in tomato
 created: 2026-05-30
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags: [epigenetics-gene-regulation, papers]
 doi: 10.1111/jipb.13650
-pmid: 
-confidence: medium
-aliases: ["由两个APETALA2家族成员介导的转录级联在番茄中协调类胡萝卜素生物合成"]
+pmid: ''
+aliases: [由两个APETALA2家族成员介导的转录级联在番茄中协调类胡萝卜素生物合成]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# A transcriptional cascade 介导的 by two APETALA2 family members orchestrates 类胡萝卜素 生物合成 in tomato
+---
 
-> A transcriptional cascade mediated by two APETALA2 family members orchestrates carotenoid biosynthesis in tomato
+# A transcriptional cascade mediated by two APETALA2 family members orchestrates carotenoid biosynthesis in tomato
 
 ## 论文信息
 - **期刊**: Journal of Integrative Plant Biology (2024)
@@ -25,7 +28,18 @@ ABSTRACTCarotenoids are important nutrients for human health that must be obtain
 
 ## 深度提炼
 
+**主要物种**: Solanum lycopersicum
+**物种**: Solanum lycopersicum, Citrus spp., Nicotiana tabacum, Musa spp., Arabidopsis thaliana
+**方法**: ChIP-seq/qPCR, qRT-PCR validation, Y2H, EMSA, CRISPR/Cas9, RNAi/VIGS, overexpression, knockout/mutant
+**来源**: DOI:10.1111/jipb.13650
+**来源类型**: PDF全文 (63 由两个 APETALA2 家族成员介导的转录级联协调番茄中类胡萝卜素的生物合成.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. The transcription factor SlBBX20 directly binds to the G‐box 2 motif in the PSY1 promoter and regulates lycopene accumulation in tomato (Xiong et al., 2018), while the MYB family member SlMYB72 directly regulates PSY1 and LCYB expression to modulate carotenoid accumulation in tomato (Wu et al., 2020).
+2. Taken together, these results suggest that SlAP2c represses lycopene biosynthesis by interacting with the TPL2/4‐HDA1/3 complex, thus modifying the histone acetylation levels of carotenoid biosynthesis genes.
+3. Taken together, these results suggest that SlAP2c recruits the TPL2/4–HDA1/3 transcriptional repressive complex to repress the transcription of PSY1, ZISO, and CRTISO by modulating the histone acetylation levels in their promoter regions.
+4. Notably, a recent study showed that the AP2a‐DWARF‐BZR1 module positively regulates lycopene biosynthesis (Sang et al., 2022); however, DWARF and BZR1, which are both downstream targets of AP2a, act as positive regulators of fruit softening (Sang et al., 2022; Meng et al., 2023), which is inconsistent with the ﬁnding that AP2a negatively regulates fruit softening.
+5. Notably, the EAR motif‐containing transcription factor MaERF11 was also shown to directly interact with MaHDA1 and repress the expression of MaACO1 and expansin genes to inhibit fruit ripening in banana (Musa acuminata) (Han et al., 2016).
+6. Knockout of SlAP2c in both the “MicroTom” and “Ailsa Craig” backgrounds resulted in greater lycopene accumulation, whereas overexpression of this gene led to orange‐ripe fruit with signiﬁcantly lower lycopene contents than the wild type.
+7. HY5 directly binds to the promoters of PSY1, ZISO, CRTISO, LCYE, and LCYB to regulate carotenoid biosynthesis (Wang et al., 2021).
+8. In this study, we demonstrated that SlAP2c, a homolog of SlAP2a, is a direct target of SlAP2a and that SlAP2a and SlAP2c exhibit opposite expression patterns during fruit ripening.

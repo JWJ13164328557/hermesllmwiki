@@ -1,14 +1,24 @@
-title: The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elonga
+---
+title: The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elongation through H3K27 tri-methylation
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1093/plcell/koag003
 confidence: medium
-aliases: ["The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elonga"]
+aliases:
+- The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elonga
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elonga
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elonga
+---
+
+# The Arabidopsis PRC2 subunit MSI1 interacts with HY5 to repress hypocotyl elongation through H3K27 tri-methylation
 
 
 
@@ -28,11 +38,11 @@ Polycomb repressive complex 2 (PRC2) is a conserved multi-protein complex that c
 ## 相关文献
 
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]]
-- [[b4-78WuUWiztOxRe4n5MS2Pag]]
+- [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b6-O0Kt-jSykCafIUhbNCEB3g]]
 - [[cotton-fiber-development-molecular-regulation]]
 - [[daily-42179491]]
-- [[spinach-inflorescence-spatial]]
+- [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 
 

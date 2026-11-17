@@ -8,12 +8,12 @@ status: reviewed
 confidence: high
 updated: "2026-05-29"
 related_papers:
-  - "[[rice-chilling-tolerance]]"
+  - "rice-chilling-tolerance"
   - "[[osbhlh150-rice-chilling-tolera]]"
-  - "[[aba-biosynthesis-stress]]"
+  - "aba-biosynthesis-stress"
 related_evidence:
   - "[[rice-root-cell-types-10x]]"
-  - "[[rice-root-marker-genes]]"
+  - "rice-root-marker-genes"
 related_synthesis: []
 ---
 
@@ -38,7 +38,7 @@ The lab's primary focus is the molecular genetics of rice chilling tolerance, le
 - A natural SNP causes **V471L**: Val (japonica) → strong transactivation + cold tolerance; Leu (indica) → weak transactivation + cold sensitivity
 - Full genetic validation: KO, OE, complementation, double-mutant epistasis
 
-Evidence: [[rice-chilling-tolerance]] — Luo et al. (2026), *Plant Communications*
+Evidence: rice-chilling-tolerance — Luo et al. (2026), *Plant Communications*
 
 ### Drought Tolerance
 
@@ -63,7 +63,7 @@ Genetic mapping and functional characterization of bacterial leaf streak (*Xanth
 
 ### Signature Paper
 
-1. **Sun J.L., Luo J. et al. (2026).** Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: 10.1016/j.xplc.2026.101919 — [[rice-chilling-tolerance]]
+1. **Sun J.L., Luo J. et al. (2026).** Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: 10.1016/j.xplc.2026.101919 — rice-chilling-tolerance
    - **First author**: Sun Jinliang (PhD student)
    - **Key contribution**: Complete characterization of the OsMAPK3-OsbHLH150-OsNCED3 cold tolerance module with natural variant.
 
@@ -171,7 +171,7 @@ OsbHLH150-KO, OsbHLH150-OE, complemented lines, and OsMAPK3/OsNCED3 mutant lines
 
 ## Key References
 
-1. Sun J.L., Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: 10.1016/j.xplc.2026.101919 — [[rice-chilling-tolerance]] — **Primary evidence.**
+1. Sun J.L., Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: 10.1016/j.xplc.2026.101919 — rice-chilling-tolerance — **Primary evidence.**
 
 ---
 
@@ -183,13 +183,13 @@ OsbHLH150-KO, OsbHLH150-OE, complemented lines, and OsMAPK3/OsNCED3 mutant lines
 - [[osnced3-rice]] — Downstream ABA biosynthetic enzyme in cold cascade
 
 ### Related Concepts
-- [[rice-chilling-tolerance]] — Paper concept for the 2026 study
+- rice-chilling-tolerance — Paper concept for the 2026 study
 - [[osbhlh150-rice-chilling-tolera]] — Detailed paper analysis
-- [[aba-biosynthesis-stress]] — ABA biosynthesis and stress response pathway
+- aba-biosynthesis-stress — ABA biosynthesis and stress response pathway
 
 ### Related Evidence
 - [[rice-root-cell-types-10x]] — Rice root scRNA-seq (relevant for future cell-type expression mapping)
-- [[rice-root-marker-genes]] — Rice root marker genes (relevant for spatial context)
+- rice-root-marker-genes — Rice root marker genes (relevant for spatial context)
 
 ### Recruitment
 The lab **actively recruits** MSc, PhD, and postdoctoral researchers in genetics, molecular biology, and biochemistry.

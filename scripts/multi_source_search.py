@@ -6,9 +6,13 @@
 """
 
 import urllib.parse, subprocess, json, os, sys, re, time
+import socket
+# 2026-09-14: 全局 socket 默认超时 — urllib 的 timeout 不覆盖 SSL/TLS 握手阶段,
+# 个别 HTTPS 端点握手慢会无限卡死, 导致整批检索超时. 设全局默认使握手也超时并跳过继续.
+socket.setdefaulttimeout(15)
 from datetime import datetime, timedelta
 
-BASE = '/mnt/g/hermes_obsidian/hermes'
+from kb_paths import BASE  # 统一根目录解析: KB_BASE/APP_DIR 环境变量优先
 OUTPUT = f'{BASE}/scripts/multi_source_candidates.json'
 
 # ══════════════════════════════════════════════════════════════
@@ -46,13 +50,21 @@ SEARCH_QUERIES = [
 ]
 
 def http_get(url, timeout=15, retries=2):
-    """Simple HTTP GET with retries for rate limiting"""
+    """HTTP GET with retries. Uses curl subprocess so that the connect/TLS-handshake
+    phase is bounded by --connect-timeout/--max-time (urllib's timeout doesn't govern
+    the SSL handshake, which left api.openalex.org's ~18s handshake to stall batches)."""
+    import subprocess as _sp
     for attempt in range(retries + 1):
         try:
-            import urllib.request
-            req = urllib.request.Request(url, headers={'User-Agent': 'HermesKB/2.0 (mailto:jwj@example.com)'})
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return json.loads(resp.read())
+            r = _sp.run(
+                ['curl', '-sS', '--max-time', str(max(int(timeout), 15)),
+                 '--connect-timeout', '8', '--http1.1',
+                 '-A', 'HermesKB/2.0 (mailto:jwj@example.com)', url],
+                capture_output=True, text=True, timeout=int(timeout) + 10)
+            if r.returncode != 0:
+                err = (r.stderr or r.stdout or '').strip()[:120]
+                raise RuntimeError(f"curl rc={r.returncode}: {err}")
+            return json.loads(r.stdout or '{}')
         except Exception as e:
             if '429' in str(e) and attempt < retries:
                 wait = 2 ** attempt * 2
@@ -82,10 +94,24 @@ def pubmed_to_plain(query):
 ###############################################################################
 def search_pubmed(query, days=30, max_results=30):
     from_date = (datetime.now() - timedelta(days=days)).strftime('%Y/%m/%d')
-    encoded = urllib.parse.quote(f'({query}) AND ("{from_date}"[Date - Publication] : "3000"[Date - Publication])')
-    url = f'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term={encoded}&retmax={max_results}&sort=date&retmode=json'
-    data = http_get(url)
-    return data.get('esearchresult', {}).get('idlist', []) if data else []
+    full_query = f'({query}) AND ("{from_date}"[Date - Publication] : "3000"[Date - Publication])'
+    # 2026-09-14 修复(同 daily_update): 超长 term(153 物种限定) 用 GET 会 414 URI Too Long→非 JSON.
+    # 改为 POST, term 放请求体.
+    import urllib.request, urllib.parse
+    body = urllib.parse.urlencode({'db':'pubmed','term':full_query,'retmax':max_results,
+                                   'sort':'date','retmode':'json'}).encode()
+    url = 'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi'
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, data=body, headers={'User-Agent':'HermesKB/2.0 (mailto:jwj@example.com)','Content-Type':'application/x-www-form-urlencoded'})
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                return json.loads(resp.read()).get('esearchresult', {}).get('idlist', [])
+        except Exception as e:
+            if '429' in str(e) and attempt < 2:
+                time.sleep(2 ** attempt * 2); continue
+            print(f"  ⚠ esearch POST error: {e}", file=sys.stderr)
+            break
+    return []
 
 
 ###############################################################################
@@ -146,7 +172,9 @@ def search_openalex(query, days=30, limit=20):
            f'&filter=from_publication_date:{from_date},type:article,is_paratext:false'
            f'&per_page={limit}&sort=publication_date:desc')
     
-    data = http_get(url, timeout=20)
+    # 2026-09-14: api.openalex.org 在本 WSL 网络下 TCP/SSL 慢(常超时); 属补充来源,
+    # 用短超时+少重试快速失败, 避免每查询等 20s 拖垮整批. PubMed/Crossref 为主通道.
+    data = http_get(url, timeout=6, retries=1)
     if not data:
         return papers
     
@@ -327,6 +355,7 @@ def main():
     max_results = 20
     skip_s2 = '--skip-s2' in sys.argv
     skip_web = '--skip-web' in sys.argv
+    skip_oa = '--skip-openalex' in sys.argv  # 2026-09-15: 网络不稳定下跳过补充源
     for i, arg in enumerate(sys.argv):
         if arg == '--days' and i+1 < len(sys.argv):
             days = int(sys.argv[i+1])
@@ -367,7 +396,7 @@ def main():
                     existing['sources'] = existing.get('sources', [existing.get('source', '')]) + ['semantic_scholar']
         
         # --- OpenAlex ---
-        oa_papers = search_openalex(query, days=days, limit=max_results)
+        oa_papers = [] if skip_oa else search_openalex(query, days=days, limit=max_results)
         print(f"  OpenAlex: {len(oa_papers)} papers")
         for p in oa_papers:
             doi = p['doi']

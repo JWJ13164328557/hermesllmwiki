@@ -1,6 +1,6 @@
 ---
 title: "SnRK2"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -9,28 +9,24 @@ tags: [metabolism, gene]
 # SnRK2
 
 ## Evidence Summary
-**Total evidence objects**: 5
+**Total evidence objects**: 21
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[ms-10-1007_s00344-026-12441-3-f8]] | In drought stress, O-GlcNAcylation has been associated with abscisic acid (ABA)- |
-| [[ms-10-1007_s12298-026-01798-0-f5]] | In the ABA-dependent pathway, certain MYBs interact with PYR/PYL receptors and r |
-| [[ms-10-1186_s43897-026-00236-9-f1]] | Mechanistically, the SnRK2 (SNF1-related kinase 2) family plays a pivotal role i |
-| [[ms-10-14719_pst-13939-f2]] | To integrate root-to-shoot communication this binding inhibits protein phosphata |
-| [[ms-10-21926_obm-genet-2603356-f5]] | This inhibition permits SnRK2 kinases to become active and phosphorylate downstr |
+| [[daily-42249761-f4]] | ABI2 and ABI1 represent highly homologous phosphatases that exert negative regul |
+| [[daily-42255298-f3]] | Activated SnRK2 further phosphorylates bZIP transcription factors such as ABF, w |
+| [[daily-42255298-f5]] | SnRK2 kinases in the ABA pathway, such as OST1, can directly phosphorylate ICE1, |
+| [[daily-42255300-f1]] | Protein-protein interaction analysis revealed that all ZmABFs interact with SnRK |
+| [[daily-42280772-f3]] | The splicing factor At-RS31 undergoes AS to generate four isoforms, among which  |
+| [[daily-42280772-f7]] | Together, these findings suggest that SnRK2.6 may function as a candidate downst |
+| [[daily-42286457-f1]] | In the ABA-independent pathway, some SnRK2 members (e.g., TaSnRK2.3 in wheat) re |
+| [[daily-42318114-f2]] | The Target of Rapamycin (TOR) kinase acts as a master regulator of anabolic grow |
+| [[daily-42318114-f4]] | SnRK2 could mediate a combination of ABA-dependent and ABA-independent signals i |
+| [[daily-42410346-f4]] | For example, in birch ( Betula platyphylla ), BpNAC90 is phosphorylated at Ser20 |
 
 ## Functional Roles
 _（待从证据深入提炼）_
 
-## Expression Pattern
--
-
-## Species Distribution
--
-
 ## Regulatory Network
 _（见 relationships/）_
-
-## Open Questions
--

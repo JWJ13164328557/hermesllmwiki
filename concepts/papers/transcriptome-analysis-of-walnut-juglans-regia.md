@@ -1,15 +1,22 @@
-title: "Transcriptome Analysis of Walnut (Juglans regia L.) Embryos Reveals Key Developmental Stages and Genes Involved in Lipid"
+---
+title: Transcriptome Analysis of Walnut (Juglans regia L.) Embryos Reveals Key Developmental Stages and Genes Involved in Lipid Biosynthesis and Polyunsaturated Fatty Acid Metabolism
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1021/acs.jafc.0c05598
-pmid: 
-confidence: medium
-aliases: ["Transcriptome 分析 of Walnut (Juglans regia L.) Embryos 揭示 关键 Developmental Stages and Genes 参与的 in 脂质 生物合成 and Polyunsaturated Fatty Acid Metabolism"]
+pmid: ''
+aliases:
+- Transcriptome 分析 of Walnut (Juglans regia L.) Embryos 揭示 关键 Developmental Stages and Genes 参与的 in 脂质 生物合成 and Polyunsaturated Fatty Acid Metabolism
+title_fixed_from: Transcriptome Analysis of Walnut (Juglans regia L.) Embryos Reveals Key Developm
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Transcriptome 分析 of Walnut (Juglans regia L.) Embryos 揭示 关键 Developmental Stages and Genes 参与的 in 脂质 生物合成 and Polyunsaturated Fatty Acid Metabolism
+---
 
-> Transcriptome Analysis of Walnut (Juglans regia L.) Embryos Reveals Key Developmental Stages and Genes Involved in Lipid Biosynthesis and Polyunsaturated Fatty Acid Metabolism
+# Transcriptome Analysis of Walnut (Juglans regia L.) Embryos Reveals Key Developmental Stages and Genes Involved in Lipid Biosynthesis and Polyunsaturated Fatty Acid Metabolism
 
 ## 论文信息
 - **期刊**: Journal of Agricultural and Food Chemistry (2021)

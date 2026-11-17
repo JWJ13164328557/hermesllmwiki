@@ -1,15 +1,22 @@
 ---
-title: "Single‐cell <scp>RNA</scp>‐seq reveals fate determination control of an individual fibre cell initiation in cotton (<i>Gossypium hirsutum</i>)"
-aliases: ["single-cell-scp-rna-scp-seq-reveals-fate-determination-control-of-an-individu"]
-tags: [scrnaseq, plant-single-cell]
-doi: "10.1111/pbi.13918"
-journal: "Plant Biotechnology Journal"
+title: Single-cell RNA-seq reveals fate determination control of an individual fibre cell initiation in cotton ( Gossypium hirsutum )
+aliases:
+- single-cell-scp-rna-scp-seq-reveals-fate-determination-control-of-an-individu
+tags:
+- scrnaseq
+- plant-single-cell
+doi: 10.1111/pbi.13918
+journal: Plant Biotechnology Journal
 year: 2022
-authors: "Qin Yuan, Sun Mengling, Li Weiwen, Xu Mingqi, Shao Lei, Liu Yuqi, Zhao Guannan, Liu Zhenping"
+authors: Qin Yuan, Sun Mengling, Li Weiwen, Xu Mingqi, Shao Lei, Liu Yuqi, Zhao Guannan, Liu Zhenping
 created: 2026-06-01
+themes: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: tag+keyword
+
 ---
 
-# Single‐cell <scp>RNA</scp>‐seq reveals fate determination control of an individual fibre cell initiation in cotton (<i>Gossypium hirsutum</i>)
+# Single-cell RNA-seq reveals fate determination control of an individual fibre cell initiation in cotton ( Gossypium hirsutum )
 
 **期刊**: Plant Biotechnology Journal (2022)
 **DOI**: 10.1111/pbi.13918
@@ -29,7 +36,14 @@ SummaryCotton fibre is a unicellular seed trichome, and lint fibre initials per 
 
 ## 深度提炼
 
+**主要物种**: Gossypium hirsutum
+**物种**: Gossypium hirsutum, Oryza sativa, Zea mays, Populus spp., Solanum lycopersicum
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, ChIP-seq/qPCR, qRT-PCR validation, CRISPR/Cas9, RNAi/VIGS, overexpression
+**来源**: DOI:10.1111/pbi.13918
+**来源类型**: PDF全文 (10-1111_pbi-13918.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Conclusion In summary, with the help of scRNA-seq technology and reasonable multi-stage sampling strategy, ﬁbre cell differentiation, diffuse growth and tip-biased diffuse growth process during ﬁbre initiation were more ﬁnely delineated.
+2. These studies provide new insights into heterogeneity of gene expression between different cell types, and molecular trajectory of cell differentiation during development.
+3. Interestingly, MYB25-like was down-regulated in ﬁbre-deﬁcient mutants of hormone- or sugar-signalling genes.
+4. However, all the epidermal cells of gl1 leaves were uniform in size and shape, and no specialized cells was found, which suggested that GL1 is required for trichome cell differentiation (Hulskamp et al., 1994).

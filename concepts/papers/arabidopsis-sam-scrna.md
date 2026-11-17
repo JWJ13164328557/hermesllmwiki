@@ -1,12 +1,18 @@
+---
 title: A single-cell analysis of the Arabidopsis vegetative shoot apex.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1016/j.devcel.2021.02.021
 confidence: medium
-aliases: ["A single-cell analysis of the Arabidopsis vegetative shoot apex."]
+aliases: [A single-cell analysis of the Arabidopsis vegetative shoot apex.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # A single-cell analysis of the Arabidopsis vegetative shoot apex.
 
@@ -30,15 +36,26 @@ The shoot apical meristem allows for reiterative formation of new aerial structu
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
-- [[b6-jpXamO-lS-eyCqULAU9qnA]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
+- [[cr-s41477-023-01387-z]]
 - [[cotton-fiber-development-molecular-regulation]]
 - [[daily-42204818]]
 
 
 ## 深度提炼
 
+**主要物种**: Gossypium hirsutum
+**物种**: Gossypium hirsutum, Pyrus spp.
+**方法**: single-cell RNA-seq, knockout/mutant
+**来源**: DOI:10.1016/j.devcel.2021.02.021
+**来源类型**: PDF全文 (10.1016_j.devcel.2021.02.021.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Taken together, our results reveal a continuum of epidermal cell differentiation toward stomata and provide fresh insights into how the expression of cell fate determination genes is precisely coordinated with cell-cycle progression during stomata differentiation.
+2. As expected, we found that the mutations in AT5G22580 and AT1G25230, which encode an A/B barrel domain-containing protein and a calcineurin-like metallo-phosphoesterase family protein, respectively, exhibited the same large branch angle phenotype as the sgr6 mutant (Figures 3J and S2H).
+3. We found that the expression of early stomata genes such as POLAR LOCALIZATION DURING ASYMMETRIC DIVISION AND ll Resource Developmental Cell 56, 1056–1074, April 5, 2021 1061 A D F E G I J K H B C Figure 4.
+4. Of particular inter- est, we found that two clusters, I11 and I12, were speciﬁc for the root and shoot, respectively (Figure 8D).
+5. DISCUSSION Generation of an Arabidopsis vegetative shoot apex cell atlas In this work, we report a comprehensive single-cell compendium of the Arabidopsis vegetative shoot apex.
+6. Taken together, the above results indicate that the vegetative shoot apex is composed of highly heterogeneous cells.
+7. Thus, these results reveal that the collection of shoot cell-type-speciﬁc or en- riched genes can accelerate gene discovery and serves as a valuable resource for Arabidopsis functional genomics in the future.
+8. Taken together, these results indicate that the cells of two successive cell-cycle phases share similarities (over- lap) in their transcriptomes and are arranged in a cyclic pattern based on unsupervised clustering.

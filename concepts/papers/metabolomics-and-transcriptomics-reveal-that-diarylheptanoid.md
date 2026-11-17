@@ -1,15 +1,18 @@
-title: "Metabolomics and Transcriptomics Reveal that Diarylheptanoids Vary in Amomum tsao-ko Fruit Development"
+---
+title: Metabolomics and Transcriptomics Reveal that Diarylheptanoids Vary in Amomum tsao-ko Fruit Development
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1021/acs.jafc.3c00771
-pmid: 
-confidence: medium
-aliases: ["代谢组学和转录组学揭示了草果发育中二芳基类庚烷的变化"]
+pmid: ''
+aliases: [代谢组学和转录组学揭示了草果发育中二芳基类庚烷的变化]
+theme_status: mapped
+theme_basis: tag
 
-# Metabolomics and Transcriptomics 揭示 that Diarylheptanoids Vary in Amomum tsao-ko Fruit 发育
+---
 
-> Metabolomics and Transcriptomics Reveal that Diarylheptanoids Vary in Amomum tsao-ko Fruit Development
+# Metabolomics and Transcriptomics Reveal that Diarylheptanoids Vary in Amomum tsao-ko Fruit Development
 
 ## 论文信息
 - **期刊**: Journal of Agricultural and Food Chemistry (2023)

@@ -1,15 +1,23 @@
-title: "Differential transcriptome analysis of genes associated with the rhizome growth and sesquiterpene biosynthesis in Atract"
+---
+title: Differential transcriptome analysis of genes associated with the rhizome growth and sesquiterpene biosynthesis in Atractylodes macrocephala
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.114141
-pmid: 
-confidence: medium
-aliases: ["白术根茎生长和倍半萜生物合成相关基因的差异转录组分析"]
+pmid: ''
+aliases:
+- 白术根茎生长和倍半萜生物合成相关基因的差异转录组分析
+title_fixed_from: 'Differential transcriptome analysis of genes associated with the rhizome growth '
+theme_status: mapped
+theme_basis: tag
 
-# Differential transcriptome 分析 of genes 相关的 with the rhizome growth and sesquiterpene 生物合成 in Atractylodes macrocephala
+species_status: unverified
+---
 
-> Differential transcriptome analysis of genes associated with the rhizome growth and sesquiterpene biosynthesis in Atractylodes macrocephala
+# Differential transcriptome analysis of genes associated with the rhizome growth and sesquiterpene biosynthesis in Atractylodes macrocephala
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

@@ -1,34 +1,43 @@
 ---
-title: "In this paper we show that optimal transport analysis, a technique originally applied to ana- lyse t"
-created: 2026-09-16
+title: "In this paper we show that optimal transport analysis, a technique originally applied to …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-journal-pcbi-1009466]]"
 doi: "10.1371/journal.pcbi.1009466"
-species: [Arabidopsis thaliana, Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In this paper we show that optimal transport analysis, a technique originally applied to ana- lyse t
+# In this paper we show that optimal transport analysis, a technique originally applied to …
 
 ## Claim
-In this paper we show that optimal transport analysis, a technique originally applied to ana- lyse time-courses [3], may also be applied to infer cellular trajectories from a single snapshot of a population in equilibrium.
+In this paper we show that optimal transport analysis, a technique originally applied to analyse time-courses [3], may also be applied to infer cellular trajectories from a single snapshot of a population in equilibrium.
 
-## Biological Context
-Optimal transport analysis reveals trajectories in steady-state systems.
+## Source
+- 文献: [[ref-journal-pcbi-1009466]]
+- DOI: 10.1371/journal.pcbi.1009466
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-journal-pcbi-1009466]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

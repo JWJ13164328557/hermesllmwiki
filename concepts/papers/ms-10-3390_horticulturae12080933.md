@@ -1,14 +1,21 @@
 ---
-title: Divergent Regulatory Roles of Supplemental Far-Red or UV-A Radiation in Modulati
+title: Divergent Regulatory Roles of Supplemental Far-Red or UV-A Radiation in Modulating Pak Choi (Brassica rapa L. ssp. chinensis) Growth and Quality Under Different Light Levels
 created: 2026-08-26
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12080933
 confidence: moderate
 source: crossref
+status: pollution
+title_fixed_from: Divergent Regulatory Roles of Supplemental Far-Red or UV-A Radiation in Modulati
+theme_status: out-of-scope
+theme_basis: none
+
 ---
 
-# Divergent Regulatory Roles of Supplemental Far-Red or UV-A Radiation in Modulating Pak Choi (Brassica rapa L. ssp. chinensis) Growth and Quality Under Different Light Levels
+# Divergent Regulatory Roles of Supplemental Far-Red or UV-A Radiation in Modulating Pak Choi (Brassica rapa L. ssp. chinensis) Growth and Quality Under Different Light Levelsng Pak Choi (Brassica rapa L. ssp. chinensis) Growth and Quality Under Different Light Levels
 
 ## 论文信息
 - **期刊**: Horticulturae ()

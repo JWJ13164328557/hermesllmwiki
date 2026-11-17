@@ -1,14 +1,25 @@
-title: Cis and trans determinants of epigenetic silencing by Polycomb repressive comple
+---
+title: Cis and trans determinants of epigenetic silencing by Polycomb repressive complex 2 in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1038/ng.3937
 confidence: medium
-aliases: ["Cis and trans determinants of epigenetic silencing by Polycomb repressive comple"]
+aliases:
+- cr-10-1038-ng-3937
+- Cis and trans determinants of epigenetic silencing by Polycomb repressive comple
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Cis and trans determinants of epigenetic silencing by Polycomb repressive comple
+theme_status: mapped
+theme_basis: tag
 
-# Cis and trans determinants of epigenetic silencing by Polycomb repressive comple
+---
+
+# Cis and trans determinants of epigenetic silencing by Polycomb repressive complex 2 in Arabidopsis
 
 
 
@@ -29,11 +40,11 @@ Disruption of gene silencing by Polycomb protein complexes leads to homeotic tra
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

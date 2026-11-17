@@ -1,15 +1,22 @@
-title: "Global transcriptome analysis reveals dynamic gene expression profiling and provides insights into biosynthesis of resve"
+---
+title: Global transcriptome analysis reveals dynamic gene expression profiling and provides insights into biosynthesis of resveratrol and anthraquinones in a medicinal plant Polygonum cuspidatum
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- genomics-evolution
+- papers
 doi: 10.1016/j.indcrop.2021.113919
-pmid: 
-confidence: medium
-aliases: ["全球转录组分析揭示了动态基因表达谱，并提供了对药用植物虎杖中白藜芦醇和蒽醌生物合成的见解"]
+pmid: ''
+aliases:
+- 全球转录组分析揭示了动态基因表达谱，并提供了对药用植物虎杖中白藜芦醇和蒽醌生物合成的见解
+title_fixed_from: Global transcriptome analysis reveals dynamic gene expression profiling and prov
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Global transcriptome 分析 揭示 动态 gene 表达 分析 and 提供了 深入 into 生物合成 of resveratrol and anthraquinones in a medicinal plant Polygonum cuspidatum
+---
 
-> Global transcriptome analysis reveals dynamic gene expression profiling and provides insights into biosynthesis of resveratrol and anthraquinones in a medicinal plant Polygonum cuspidatum
+# Global transcriptome analysis reveals dynamic gene expression profiling and provides insights into biosynthesis of resveratrol and anthraquinones in a medicinal plant Polygonum cuspidatum
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

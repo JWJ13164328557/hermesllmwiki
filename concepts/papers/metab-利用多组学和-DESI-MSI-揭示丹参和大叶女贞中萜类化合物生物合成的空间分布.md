@@ -1,12 +1,21 @@
-title: "利用多组学和 DESI-MSI 揭示丹参和大叶女贞中萜类化合物生物合成的空间分布和分子机制"
-journal: "unknown"
-year: ""
+---
+title: 利用多组学和 DESI-MSI 揭示丹参和大叶女贞中萜类化合物生物合成的空间分布和分子机制
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

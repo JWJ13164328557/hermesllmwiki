@@ -1,17 +1,25 @@
-title: "SlGRF1 mediates gibberellin signaling to control cut-budding in tomato."
-pmid: "41834248"
-doi: "10.1111/jipb.70219"
-pmcid: ""
-journal: "Journal of integrative plant biology"
-year: "2026"
-authors: "Yaping Xu, Yinhuan Xie, Huimin Jia, Qianqian Li, Xinqin Liu"
+---
+title: SlGRF1 mediates gibberellin signaling to control cut-budding in tomato.
+pmid: '41834248'
+doi: 10.1111/jipb.70219
+pmcid: ''
+journal: Journal of integrative plant biology
+year: '2026'
+authors: Yaping Xu, Yinhuan Xie, Huimin Jia, Qianqian Li, Xinqin Liu
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [single-cell-spatial-omics, papers]
 species: [Solanum lycopersicum (tomato)]
 methods: [scRNA-seq, ChIP-seq, CRISPR]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: out-of-scope
+theme_basis: tag+keyword
+
+---
+
+# SlGRF1 mediates gibberellin signaling to control cut-budding in tomato.
 
 ## 1. Scientific Context
 
@@ -117,10 +125,10 @@ Many dicotyledonous plants exhibit considerable developmental plasticity and are
 - 物种: Solanum lycopersicum (tomato)
 - 关键基因: GA1, EPF4, ER2, NAM1, GRF1
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 
@@ -157,3 +165,21 @@ Many dicotyledonous plants exhibit considerable developmental plasticity and are
 4. 探索Solanum lycopersicum (tomato)中的应用潜力
 
 **下一步关键实验**: 基于核心发现的遗传学验证 (需人工设计具体实验)
+
+## 深度提炼
+
+**主要物种**: Solanum lycopersicum
+**物种**: Solanum lycopersicum, Oryza sativa, Glycine max, Populus spp., Solanum tuberosum
+**方法**: transcriptomics (RNA-seq), ChIP-seq/qPCR, qRT-PCR validation, Y2H, BiFC, EMSA, dual-luciferase reporter, CRISPR/Cas9
+**来源**: DOI:10.1111/jipb.70219
+**来源类型**: PDF全文 (10-1111_jipb-70219.pdf)
+
+### 核心发现
+1. Chromatin immunoprecipitation sequencing (ChIP‐seq) and transcriptome analyses revealed that SlGRF1 binds to the promoters of genes encoding SAM regulators, namely No Apical Meristem 1 (NAM1), EPIDERMAL PATTERNING FACTOR 4 (EPF4), and ERECTA‐like 2 (ER2) (Souer et al., 1996; Uchida et al., 2012), with dual‐luciferase and ChIP‐qPCR analyses conﬁrming direct activation.
+2. In summary, the identiﬁcation of SlGRF1 as a key regulator and its association with GA signaling offer new insights into the hormonal control of plant regeneration.
+3. An RNA‐seq analysis revealed differences in the transcript levels of SlGRF1 target genes between wild‐type and grf1‐cr mutant plants.
+4. EF1α was used as a negative control, and (B) in vivo binding to target gene promoters (ChIP‐qPCR) in AC and pGRF1:gGRF1‐3×FLAG plants at 8 d post‐wounding.
+5. Functional characterization using CRISPR/Cas9 knockout mutants (grf1‐cr) demonstrated that SlGRF1 is required for pluripotency acquisition and shoot formation.
+6. An appropriate balance between two hormones (cytokinin and auxin) is necessary for inducing calli and organs in plant tissue culture systems (Gordon et al., 2007; Sugimoto et al., 2010; Kareem et al., 2015).
+7. During the root regeneration process, auxin‐induced transcriptional cascades are required for establishing the root meristem identity and activating root initiation and development programs (Pernisová et al., 2009; Ikeuchi et al., 2017).
+8. CUP‐SHAPED COTYLEDON 2 (CUC2), a shoot‐promoting transcription factor, activates the expression of the cell wall‐loosening enzyme‐encoding gene XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE 9 (XTH9) in non‐progenitor cells, which is critical for shoot regeneration (Varapparambath et al., 2022).

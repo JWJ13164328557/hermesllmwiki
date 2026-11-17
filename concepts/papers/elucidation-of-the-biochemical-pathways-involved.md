@@ -1,15 +1,19 @@
-title: "Elucidation of the biochemical pathways involved in two distinct cut-surface discolouration phenotypes of lettuce"
+---
+title: Elucidation of the biochemical pathways involved in two distinct cut-surface discolouration phenotypes of lettuce
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags: [genomics-evolution, papers]
 doi: 10.1016/j.postharvbio.2021.111753
-pmid: 
-confidence: medium
-aliases: ["阐明生菜两种截面变色表型所涉及的生化途径"]
+pmid: ''
+aliases: [阐明生菜两种截面变色表型所涉及的生化途径]
+theme_status: mapped
+theme_basis: tag
 
-# Elucidation of the biochemical pathways 参与的 in two distinct cut-surface discolouration phenotypes of lettuce
+species_status: unverified
+---
 
-> Elucidation of the biochemical pathways involved in two distinct cut-surface discolouration phenotypes of lettuce
+# Elucidation of the biochemical pathways involved in two distinct cut-surface discolouration phenotypes of lettuce
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2022)

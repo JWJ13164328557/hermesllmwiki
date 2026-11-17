@@ -1,34 +1,43 @@
 ---
-title: "AHP6, a negative regulator of cytokinin signaling, is required for normal protoxylem formation (87)."
-created: 2026-09-16
+title: "AHP6, a negative regulator of cytokinin signaling, is required for normal protoxylem …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology", "epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-annurev-arplant-050718-10]]"
 doi: "10.1146/annurev-arplant-050718-100423"
-species: [Selaginella spp.]
+species: ["Selaginella spp."]
+primary_species: "Medicago spp."
 evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["AHP6"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# AHP6, a negative regulator of cytokinin signaling, is required for normal protoxylem formation (87).
+# AHP6, a negative regulator of cytokinin signaling, is required for normal protoxylem …
 
 ## Claim
-AHP6, a negative regulator of cytokinin signaling, is required for normal protoxylem formation (87).
+AHP6, a negative regulator of cytokinin signaling, is required for normal protoxylem formation.
 
-## Biological Context
-根系发育的分子和环境调控。
+## Source
+- 文献: [[ref-annurev-arplant-050718-10]]
+- DOI: 10.1146/annurev-arplant-050718-100423
+- 主要物种: Medicago spp.
 
-## Supporting Evidence
-*Source: [[ref-annurev-arplant-050718-10]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: AHP6
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -45,9 +45,9 @@ updated: 2026-05-30
 
 ## Cross-references
 
-- [[synthesis-single-cell-methods]] — 方法学共识
-- [[entity-soybean]] — 大豆分析方法
-- [[entity-vascular]] — 维管分析方法
+- synthesis-single-cell-methods — 方法学共识
+- entity-soybean — 大豆分析方法
+- entity-vascular — 维管分析方法
 
 ---
 *82 条证据 | 自动生成 | 需人工扩充*

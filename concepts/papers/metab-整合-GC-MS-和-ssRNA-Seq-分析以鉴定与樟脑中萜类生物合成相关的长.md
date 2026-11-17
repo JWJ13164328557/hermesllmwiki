@@ -1,12 +1,21 @@
-title: "整合 GC-MS 和 ssRNA-Seq 分析以鉴定与樟脑中萜类生物合成相关的长链非编码 RNA"
-journal: "unknown"
-year: ""
+---
+title: 整合 GC-MS 和 ssRNA-Seq 分析以鉴定与樟脑中萜类生物合成相关的长链非编码 RNA
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

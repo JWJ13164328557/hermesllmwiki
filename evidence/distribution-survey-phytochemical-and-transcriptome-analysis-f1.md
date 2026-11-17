@@ -1,34 +1,43 @@
 ---
-title: "nitidum are decreasing yearly; thus, it is essential to survey the distribution of four wild to prot"
-created: 2026-09-16
+title: "Nitidum are decreasing yearly; thus, it is essential to survey the distribution of four …"
+created: 2026-11-01
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[distribution-survey-phytochemical-and-transcriptome-analysis]]"
 doi: "10.1016/j.indcrop.2020.112345"
-species: [Nicotiana tabacum, Citrus spp., Pinus spp.]
+species: ["Nicotiana tabacum", "Citrus spp.", "Pinus spp."]
+primary_species: "Capsicum annuum"
 evidence_type: "expression/regulation"
-quality: "medium"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# nitidum are decreasing yearly; thus, it is essential to survey the distribution of four wild to prot
+# Nitidum are decreasing yearly; thus, it is essential to survey the distribution of four …
 
 ## Claim
-nitidum are decreasing yearly; thus, it is essential to survey the distribution of four wild to protect Z.
+Nitidum are decreasing yearly; thus, it is essential to survey the distribution of four wild to protect Z.
 
-## Biological Context
-Distribution survey, phytochemical and transcriptome 分析 to identify candidate genes 参与的 in 生物合成 of 功能 components in Zanthoxylum nitidum
+## Source
+- 文献: [[distribution-survey-phytochemical-and-transcriptome-analysis]]
+- DOI: 10.1016/j.indcrop.2020.112345
+- 主要物种: Capsicum annuum
 
-## Supporting Evidence
-*Source: [[distribution-survey-phytochemical-and-transcriptome-analysis]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,12 +1,21 @@
-title: "【作者解读】东北农业大学辛大伟/陈庆山教授团队构建SMV侵染后的大豆叶片单细胞转录图谱"
-journal: "unknown"
-year: ""
+---
+title: 【作者解读】东北农业大学辛大伟/陈庆山教授团队构建SMV侵染后的大豆叶片单细胞转录图谱
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [papers]
 species: [Glycine max]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -30,12 +39,12 @@ updated: 2026-05-30
 
 ## 相关文献
 
-- [[b5-5zHSnJtV5ZteWrZhr7-Zfg]] 🌱soybean
+- [[ref-j-cell-2024-10-050]] 🌱soybean
 - [[b5-ZE_79hFOK1auZmK4pjx5Xw]] 🌱soybean
 - [[b5-_PgNPYbY1oX3XjPmTF4vCA]] 🌱soybean
 - [[b5-gomIOn95zz0FFXuyUHKHeQ]] 🌱soybean
 - [[b5-vTjapkvKVJWHzgqsVjXbNw]] 🌱soybean
-- [[b6-jpXamO-lS-eyCqULAU9qnA]] 🌱soybean
+- [[cr-s41477-023-01387-z]] 🌱soybean
 - [[b5-hcZHAUCBBvNTdU5-NTHtmg]] 🌱soybean
 
 ## 关键信息

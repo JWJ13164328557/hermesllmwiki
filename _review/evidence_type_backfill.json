@@ -1,0 +1,25 @@
+{
+  "mode": "dry-run",
+  "total": 5722,
+  "missing_before": 0,
+  "changed": 0,
+  "before": {
+    "expression/regulation": 756,
+    "descriptive/observational": 3876,
+    "DNA binding/regulation": 63,
+    "protein interaction": 539,
+    "genetic perturbation": 162,
+    "omics/co-occurrence": 265,
+    "phenotypic/association": 61
+  },
+  "after": {
+    "expression/regulation": 756,
+    "descriptive/observational": 3876,
+    "DNA binding/regulation": 63,
+    "protein interaction": 539,
+    "genetic perturbation": 162,
+    "omics/co-occurrence": 265,
+    "phenotypic/association": 61
+  },
+  "samples": []
+}

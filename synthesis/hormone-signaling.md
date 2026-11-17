@@ -2,320 +2,439 @@
 
 title: "激素与信号转导 — Synthesis"
 created: 2026-06-01
-total_evidence: 68
-total_papers: 48
+total_evidence: 2050
+total_papers: 385
+library_papers: 473  # 全库按themes归类该主题文献数
 type: synthesis
+body_status: rebuilt-2026-11-17
 tags: [hormone, signaling, synthesis]
+legacy_archive: _review/synthesis_legacy_20261117/hormone-signaling.md
+rebuild_rule: evidence-fields-only; no-cross-evidence-inference
+rebuild_version: v3
 
 ---
+# 激素与信号转导 知识综合（证据重建版 v3）
 
-# 激素与信号转导知识综合
+<!-- AUTO-EVIDENCE-STRENGTH:START -->
 
-## 范围
-基于 309 条证据对象，覆盖 108 篇文献（2026-06-01 导入），涵盖生长素、细胞分裂素、油菜素内酯、赤霉素、脱落酸、茉莉酸、乙烯、水杨酸八大经典激素通路及光信号转导、磷酸化级联与泛素-蛋白酶体降解等交叉信号模块。
+## 证据覆盖与强度（自动统计，可复算）
 
----
+| 指标 | 值 | 读法 |
+|---|---|---|
+| 证据条目 | 2050 | 本主题归属的证据对象数 |
+| 独立论文 | 385 | 去重后的 PMID/DOI 数 |
+| 平均每篇证据数 | 5.32 | <1.0 说明多数论文只贡献 1 条结论 |
+| 单条证据论文占比 | 5% | 越高说明"每篇论文一个结论"，系统性弱 |
+| 主要物种 | Oryza sativa(594)、Arabidopsis thaliana(545)、Zea mays(423)、Solanum lycopersicum(362)、Nicotiana tabacum(210)、Triticum aestivum(193) | 物种过度集中则外推性受限 |
+| 证据类型 | descriptive/observational 1214；protein interaction 293；expression/regulation 160；phenotypic/association 143；genetic perturbation 115；DNA binding/regulation 68 | 表达/关联类居多时，因果结论需打折扣 |
 
-## 子主题结构
+> 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
-### 1. 生长素 (Auxin) — 细胞命运与器官建成的空间坐标
+### 可复核证据索引（前 12 条，按断言长度）
 
-**证据数量**: 约 19 条
+| 证据 ID | DOI | 断言（截断） |
+|---|---|---|
+| `daily-42211481-f2` | 10.3389/fpls.2026.1815995 | Collectively, the enriched GO terms induced by idr1–1 mutation appear to be concentrated o |
+| `daily-42967137-f2` | 10.1093/hr/uhag234 | Overexpression of NtMYB1 and NtMYB1 / NtbZIP53 in transgenic narcissus upregulated the exp |
+| `daily-42211481-f4` | 10.3389/fpls.2026.1815995 | Collectively, these results provide a clear demonstration that idr1–1 mutation is able to  |
+| `daily-42452228-f6` | 10.3390/plants15132022 | Neither RTNLB16 Overexpression nor RTNLB16 Knockout Alone Reproduces the rtnlb16-1 Phenoty |
+| `daily-42211481-f3` | 10.3389/fpls.2026.1815995 | The enhanced tolerance of idr1–1 mutant seedlings to osmotic stress may stem from marked c |
+| `daily-42588902-f1` | 10.3390/plants15152398 | In summary, STA1 (Category II) establishes a relatively complete chain from cold-induced e |
+| `daily-42967137-f7` | 10.1093/hr/uhag234 | The tiny-plant phenotype of the oeNtMYB1 narcissus bulb and Arabidopsis partially recovere |
+| `daily-42299846-f3` | 10.1093/plcell/koag187 | We found that CESA particle speeds in the plasma membrane were relatively insensitive to i |
+| `daily-42122890-f4` | 10.3390/plants15091398 | Overexpression of PsnSAUR6 in transgenic tobacco conferred superior drought tolerance, evi |
+| `daily-42227011-f3` | 10.1093/hr/uhag047 | In the sdg8 mutant, the levels of H3K36me2/me3 on the chromatin of target genes such as FL |
+| `daily-42273211-f6` | 10.3389/fpls.2026.1834029 | The auxin signaling mutant tir1afb2 exhibits reduced accumulation of H2O2 and superoxide a |
+| `daily-42213848-f7` | 10.1126/sciadv.adz4776 | Collectively, these findings indicate that the mutant’s SA-insensitive phenotype primarily |
 
-#### 合成与极性运输
-- 生长素合成基因（*YUC* 家族）在根分生组织细胞中富集表达，basipetal 运输是干细胞补充的必要条件 ([[ref-gb-2009-10-2-210]], [[rice-root-hormone-celltype-map]])
-- 梨中 *PbYUC4* 编码吲哚-3-丙酮酸单加氧酶，受细胞分裂素 Type-B RR 直接转录激活，将 CK 信号耦合至 auxin 生物合成 ([[gibberellin-biosynthesis-is-required-for-cppu-induced]])
+### 证据语义分层
 
-#### 信号转导核心模块
-- **TIR1/AFB–Aux/IAA–ARF** 共受体-转录抑制子-响应因子模块是生长素转录调控的核心开关
-- *SHY2/IAA3* 是 ARR1（细胞分裂素 Type-B RR）的直接靶基因，构成 CK-auxin 在根分生组织大小调控中的交叉节点 ([[ref-gb-2009-10-2-210]])
-- *PbrARF13* 介导生长素对梨木质素和纤维素生物合成的抑制，揭示 auxin 信号在次生细胞壁代谢中的负调控功能 ([[auxin-inhibits-lignin-and-cellulose-biosynthesis]])
+| 证据类型 | 条目数 | 可支持的推断强度 |
+|---|---:|---|
+| genetic perturbation | 115 | 遗传因果（扰动后表型/表达改变） |
+| protein interaction | 293 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
+| DNA binding/regulation | 68 | 直接调控（ChIP/EMSA/启动子报告） |
+| expression/regulation | 160 | 表达相关（转录组/qPCR，不能单独推因果） |
+| phenotypic/association | 143 | 表型关联（GWAS/QTL/自然变异/田间） |
+| omics/co-occurrence | 57 | 组学共现（单细胞簇/共表达网络，非调控） |
+| descriptive/observational | 1214 | 描述性/背景陈述（未报告可核验的实验设计） |
 
-#### 细胞类型特异性
-- 水稻根 scRNA-seq 揭示，生长素合成基因在分生组织细胞中富集，而响应基因在过渡/伸长区激活 ([[rice-root-hormone-celltype-map]])
-- 拟南芥根 24 个细胞簇中，QC 和干细胞簇展现出独特的生长素信号谱 ([[root-cluster-hormone-response-patterns]])
+> 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
----
+### 遗传扰动类证据（仅高置信规则命中，前 5 条；仍须回原文核实）
 
-### 2. 细胞分裂素 (Cytokinin, CK) — 分生组织维持与多激素代谢开关
+| 证据 ID | DOI | 断言（截断） |
+|---|---|---|
+| `daily-42211481-f2` | 10.3389/fpls.2026.1815995 | Collectively, the enriched GO terms induced by idr1–1 mutation appear to be concentrated on alterati |
+| `daily-42967137-f2` | 10.1093/hr/uhag234 | Overexpression of NtMYB1 and NtMYB1 / NtbZIP53 in transgenic narcissus upregulated the expression of |
+| `daily-42211481-f4` | 10.3389/fpls.2026.1815995 | Collectively, these results provide a clear demonstration that idr1–1 mutation is able to largely al |
+| `daily-42452228-f6` | 10.3390/plants15132022 | Neither RTNLB16 Overexpression nor RTNLB16 Knockout Alone Reproduces the rtnlb16-1 Phenotype To test |
+| `daily-42211481-f3` | 10.3389/fpls.2026.1815995 | The enhanced tolerance of idr1–1 mutant seedlings to osmotic stress may stem from marked changes in  |
 
-**证据数量**: 约 9 条
+### 正文状态
 
-#### 信号转导核心模块
-- **AHK–AHP–Type-B ARR** 磷酸中继系统：Type-B ARR（ARR1/ARR10/ARR12）是 CK 信号的直接转录效应器
-- ARR1 通过直接激活 *SHY2/IAA3* 实现 CK→auxin 信号交叉对话，调控根分生组织细胞分裂与分化平衡 ([[ref-gb-2009-10-2-210]])
+> frontmatter 标记 `body_status: rebuilt-*` 的页面，其子主题正文由 `rebuild_synthesis_body.py` 按本页证据确定性重建；本自动段是该快照的统计摘要。未标记的页面保留历史正文，机制性表述须逐条回原文核对，不得仅凭本页引用。
 
-#### CK 作为三激素代谢开关（H6 假说）
-- **PbRR9-like** 通过双重转录调控同时激活 auxin 合成（*PbYUC4*↑）和抑制 ABA 合成（*PbNCED6*↓），实现单一转录因子对 auxin/ABA 比率的重新编程 ([[gibberellin-biosynthesis-is-required-for-cppu-induced-f2]])
-- 该机制在蔷薇科果树中可能广泛保守——CPPU（CK 类似物）诱导的单性结实依赖下游 auxin 和 GA 生物合成
-- KNOX 转录因子下游同时靶向 CK 和 GA 两条激素通路 ([[ref-tpc-110-073924]])
+<!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-#### CK-SA 协同与表观遗传调控
-- CK 与 SA 信号在从头芽再生中协同作用：ARR10/ARR12 和 NPR1 是 HDAC 抑制的表观遗传靶点 ([[hormone-signaling]] H3)
+> 本页正文于 2026-11-17 由 `rebuild_synthesis_body.py` 从 **2050 条证据对象 / 385 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261117`，不再作为本页结论来源。
+>
+> 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
----
+## 0. 综述提要（受控生成）
 
-### 3. 油菜素内酯 (Brassinosteroid, BR) — 生长-防御代谢阀门
+本主题当前纳入 **2050 条证据 / 385 篇文献**。规则判定为因果或直接调控的 **476 条（23.2%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **257 条**。可判定程度最高的结论集中在PnCYP710A、SOC1、PsnSAUR6：Overexpression of PnCYP710A in tobacco enhanced resistance to F.（[[daily-40898642-f2]]）；These results indicated that overexpression of ZmGRAS46 inhibited the expression of CO, FT, SOC1, and LFY genes.（[[daily-41376114-f7]]）；Overexpression of PsnSAUR6 in transgenic tobacco conferred superior drought tolerance, evidenced by increased biomass, enhanced root elongat…（[[daily-42122890-f4]]）。研究重心位于“逆境中的激素调控”（312 条证据，占 15%）。证据的物种分布以 Oryza sativa 为首（594 条，29%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
-**证据数量**: 约 7 条
+> 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
-#### 信号转导核心模块
-- **BRI1–BAK1 → BIN2 → BES1/BZR1** 磷酸化级联：BR 结合受体后，BIN2 激酶失活，去磷酸化的 BES1/BZR1 入核调控数千靶基因
-- SlBIN2 与 SlBZR1 物理互作负调控 BR 信号，SlBZR1 促进番茄果实成熟和类胡萝卜素积累 ([[the-brassinosteroid-signaling-component-slbzr1-promotes]])
+## 1. 主题概览（自动统计）
 
-#### BR-BES1 类黄酮代谢阀门（H4 假说）
-- **BES1 直接结合并抑制 PFG MYB（MYB11/MYB12/MYB111）启动子**：BR 水平高时阀门关闭，碳流转向生长；BR 低/UV-B 胁迫时阀门开放，碳流转入类黄酮合成 ([[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]])
-- ACbHLH144 (*Actinidia chinensis*) 响应 BR 信号，结合 *GA2ox7* 启动子增强 GA 失活，构成 BR→GA 的负反馈交叉 ([[acbhlh144-transcription-factor-negatively-regulates-phenolic]])
+| 指标 | 值 | 读法 |
+|---|---|---|
+| 证据对象 | 2050 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 385 | 去重后的论文数 |
+| 平均每篇证据数 | 5.32 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
+| 单条证据论文占比 | 5%（19/385） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(1214)、protein interaction(293)、expression/regulation(160)、phenotypic/association(143)、genetic perturbation(115)、DNA binding/regulation(68)、omics/co-occurrence(57) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(1248)、medium(645)、high(129)、未标(28) | 低置信度标注须回原文核对 |
+| 主要物种 | Oryza sativa(594)、Arabidopsis thaliana(545)、Zea mays(423)、Solanum lycopersicum(362)、Nicotiana tabacum(210)、Triticum aestivum(193) | 物种过度集中则外推性受限 |
+| 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
+| 未命中任何子主题的证据 | 1344（66%） | 占比高说明子主题词表或证据文本需扩表 |
 
----
+因果级证据共 **476 条**，占本主题证据的 **23.2%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
-### 4. 赤霉素 (Gibberellin, GA) — DELLA 中枢与蛋白滴定调控
+物种主导度：**Oryza sativa** 出现在 594 条证据（29%）。分布较分散，单物种主导风险较低，但需注意各物种证据层级是否可比。
 
-**证据数量**: 约 13 条
+## 2. 子主题分解（按证据重建）
 
-#### 信号转导核心模块
-- **GID1–SCF^SLY1–DELLA** 降解模块：GA 结合受体 GID1 后，促进 SCF^SLY1 E3 连接酶泛素化 DELLA，靶向 26S 蛋白酶体降解
+> 一条证据可同时命中多个子主题（共 112 条跨组），因此各子主题计数之和大于总证据数。物种×类型交叉表只统计已标注字段，空单元格表示该组合无证据，不等于不存在相应生物学过程。凡“因果层 0 条”的子主题，其代表断言只能读作相关性，不得改写为调控或因果。
 
-#### DELLA 蛋白作为多激素整合中枢（H1 假说）
-- DELLA 在不同浓度阈值下切换互作伙伴：低浓度优先结合生长促进型转录因子（PIF、BZR1），高浓度转向胁迫响应型因子（JAZ、MYC2）
-- **MdRGL2a**（苹果 DELLA）直接与 MdbHLH162 互作，桥接 GA 和 JA 信号调控花青素合成 ([[mdbhlh162-connects-the-gibberellin-and-jasmonic]])
+### 2.1 受体感知与早期信号转导
 
-#### DELLA-bHLH-bHLH 三元蛋白滴定（H7 假说）
-- **MdbHLH162** 通过扣押正调控因子 MdbHLH3/MdbHLH33 抑制花青素合成
-- MdRGL2a 竞争性结合 MdbHLH162，释放 MdbHLH3/MdbHLH33 恢复 *MdDFR/MdUF3GT* 转录
-- GA 促进 MdRGL2a 降解，因此 GA 水平通过 DELLA 蛋白丰度调谐 bHLH 二聚体组成——构成蛋白滴定式调控网络 ([[mdbhlh162-connects-the-gibberellin-and-jasmonic-f4]], [[mdbhlh162-connects-the-gibberellin-and-jasmonic-f5]])
+**规模** 103 条证据 / 68 篇文献；**构成** descriptive/observational(47)、protein interaction(38)、expression/regulation(7)、genetic perturbation(5)、DNA binding/regulation(3)、phenotypic/association(3)；**因果层** 46 条（可支撑有限机制表述）。
 
-#### 器官发育中的 GA 功能
-- GA 生物合成是 CPPU 诱导单性结实的必要条件 ([[gibberellin-biosynthesis-is-required-for-cppu-induced]])
-- GA 在棉花纤维发育、根与地上部的差异响应中发挥关键作用 ([[comparative-transcriptome-profiling-reveals-the-multiple]])
 
----
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-### 5. 茉莉酸 (JA) 与乙烯 (ET) — 胁迫响应的时序分工
+- **一致的观察范围**：本组证据集中在Solanum lycopersicum、Oryza sativa、Arabidopsis thaliana，反复出现的实体为BIN2、BAK1、auxin、melatonin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f1]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f7]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f8]]）。
+- **证据层级的张力**：46 条属于遗传扰动/蛋白互作/DNA 结合，57 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f7]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f8]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f1]]）。
+- **可检验缺口**：组学共现在本组缺证据；在补齐这些设计前，BIN2、BAK1、auxin 与“受体感知与早期信号转导”的方向性关系应作为待检验命题（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f1]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f7]]）。
 
-**证据数量**: JA 约 12 条，ET 约 17 条
+**物种 × 证据类型（前 5 物种）**
 
-#### JA 信号核心模块
-- **COI1–JAZ–MYC2** 模块：COI1 与 SKP1-LIKE PROTEIN1/2、CULLIN 1、RING-box PROTEIN 1 形成 SCF^COI1 E3 连接酶复合体，感知 JA 后靶向 JAZ 蛋白泛素化降解，释放 MYC2 等转录因子 ([[mdbhlh162-connects-the-gibberellin-and-jasmonic-f7]])
-- MdbHLH162 是 JA 信号的下游靶标——JA 激活其表达，通过 bHLH 二聚体扣押调控花青素
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|
+| Solanum lycopersicum | 3 | 11 | 1 | 4 | 0 | 16 | 35 |
+| Oryza sativa | 1 | 19 | 1 | 2 | 1 | 6 | 30 |
+| Arabidopsis thaliana | 2 | 12 | 1 | 0 | 0 | 13 | 28 |
+| Zea mays | 1 | 12 | 2 | 1 | 1 | 5 | 22 |
+| Nicotiana tabacum | 1 | 5 | 1 | 0 | 1 | 6 | 14 |
 
-#### JA-ET 时序分工假说（H5）
-- 伤口响应中，JA 信号在 0–6h 首先激活（"快速预警"），驱动 MYC2-MYB-WRKY 级联启动早期防御基因
-- 乙烯信号在 6–24h 延迟激活（"持续防御"），通过 ERF/ERF003 启动次生代谢加固
-- 时序分离依赖于 JA 诱导的 JAZ 降解先于乙烯诱导的 EIN3 蛋白稳定 ([[hormone-signaling]] H5)
+**基因实体（自动标注，前 5）**：BIN2(6)、BAK1(5)、BRI1(4)、PP2C(3)、HvPMTR1(3)（标注覆盖 59/103）。
 
-#### 乙烯信号核心模块
-- **ETR–CTR1–EIN2–EIN3/EIL1** 线性信号通路
-- VviERF003 调控单萜糖苷合成，SlEIL2 调控类胡萝卜素积累
+**化合物实体（自动标注，前 5）**：auxin(4)、melatonin(3)、brassinosteroid(2)、abscisic acid(2)、sucrose(1)（标注覆盖 13/103）。
 
----
+**标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-42719693-f5]]。
 
-### 6. 脱落酸 (ABA) — 胁迫响应的核心介质
+**代表断言（原文摘录，未改写）**
 
-**证据数量**: 约 23 条
+- “Generally, the initial step in PHY signal transduction involves PHYA perceiving FR light or PHYB-PHYE perceiving red light, leading to conforma tional changes between Pr and Pfr, u…” — [[ms-10-1186_s12870-026-08649-w-f3]]（`10.1186/s12870-026-08649-w`，protein interaction）
+- “In Arabidopsis thaliana, ARF activity is dynamically regulated by AUX/IAA proteins: in the absence of auxin, AUX/IAAs (e.g., IAA9) interact with ARFs (e.g., ARF7) to inhibit their …” — [[ms-10-3389_fpls-2026-1830107-f3]]（`10.3389/fpls.2026.1830107`，protein interaction）
+- “Briefly, ABA binds to intercellular Pyrabactin Resistance/ Regulatory Component of ABA Receptor (PYR/RCAR) receptors to inhibit the PP2C.A type protein phosphatases, which leads to…” — [[ref-mcz160-f4]]（`10.1093/aob/mcz160`，protein interaction）
 
-- ABA 是证据库中占比最高的激素，主要在胁迫响应（干旱、盐）背景下被讨论
-- *PbNCED6*（ABA 合成关键酶 9-顺式-环氧类胡萝卜素双加氧酶）的启动子受 Type-B RR 直接抑制——CK 信号通过抑制 ABA 合成使细胞处于"生长许可"状态 ([[gibberellin-biosynthesis-is-required-for-cppu-induced-f2]])
-- 激素 crosstalk 分析显示 ABA 与 CK、auxin、GA 存在复杂的网络级交叉对话 ([[comparative-transcriptome-profiling-reveals-the-multiple]])
+### 2.2 转录调控与激素响应基因
 
----
+**规模** 167 条证据 / 96 篇文献；**构成** descriptive/observational(69)、protein interaction(56)、DNA binding/regulation(17)、genetic perturbation(11)、expression/regulation(8)、omics/co-occurrence(3)；**因果层** 84 条（可支撑有限机制表述）。
 
-### 7. 水杨酸 (SA) — 免疫与再生的表观遗传协同
 
-**证据数量**: 约 7 条
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-- SA 主要出现在免疫应答和芽再生上下文中
-- CK-SA 协同芽再生中，NPR1 是 SA 信号核心介导因子，ARR10/ARR12 是 CK 信号核心效应器——两者在 HDAC 抑制后通过染色质开放协同激活再生程序 ([[hormone-signaling]] H3)
+- **一致的观察范围**：本组证据集中在Oryza sativa、Zea mays、Arabidopsis thaliana，反复出现的实体为ARF2、CsbZIP44、auxin、anthocyanin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[biology-and-function-of-mir159-in-f2]]；[[biology-and-function-of-mir159-in-f5]]；[[biology-and-function-of-mir159-in-f6]]）。
+- **证据层级的张力**：84 条属于遗传扰动/蛋白互作/DNA 结合，83 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[cotton-fiber-development-molecular-regulation-f3]]；[[cotton-fiber-development-molecular-regulation-f4]]；[[daily-40954952-f4]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[cotton-fiber-development-molecular-regulation-f3]]；[[cotton-fiber-development-molecular-regulation-f4]]）。
 
----
+**物种 × 证据类型（前 5 物种）**
 
-### 8. 光信号转导 — 环境信号的分子解码
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 4 | 25 | 4 | 3 | 1 | 0 | 19 | 56 |
+| Zea mays | 4 | 11 | 5 | 0 | 0 | 0 | 28 | 48 |
+| Arabidopsis thaliana | 1 | 21 | 3 | 3 | 0 | 1 | 19 | 48 |
+| Nicotiana tabacum | 4 | 9 | 4 | 1 | 0 | 0 | 15 | 33 |
+| Solanum lycopersicum | 3 | 12 | 3 | 1 | 0 | 1 | 12 | 32 |
 
-#### 红光/远红光 — phyB-PIF 模块
-- 活性光敏色素（phyB）直接与 bHLH 转录因子 PIF 互作，引起 PIF 磷酸化和降解——这是光形态建成的核心分子开关 ([[the-redfar-red-light-photoreceptor-fvephyb-regulates]])
-- TCP21 作为负调控因子整合 phyB 和 HY5 介导的信号通路，抑制光形态建成 ([[b6-JtU6BLa8oL57zgnlWnzO_Q]])
-- PRC2 亚基 MSI1 与 HY5 互作抑制下胚轴伸长，连接表观遗传与光信号 ([[b6-_4lVabIoRyC91sLMxSI_ig]])
+**基因实体（自动标注，前 5）**：ARF2(5)、CsbZIP44(5)、PIN1(4)、ARF3(4)、BZR1(4)（标注覆盖 115/167）。
 
-#### 蓝光 — CRY-COP1-HY5 模块
-- 隐花色素 CRY1 C 端与 COP1/SPA E3 连接酶直接互作，稳定其泛素化靶标 HY5 和 CONSTANS——HY5 是光形态建成和花青素合成的核心调控枢纽 ([[blue-light-photoreceptor-cryptochrome-1-promotes]])
-- CRY1 促进杨树木材形成和花青素积累
+**化合物实体（自动标注，前 5）**：auxin(14)、anthocyanin(4)、ethylene(4)、carotenoid(3)、phenylpropanoid(2)（标注覆盖 31/167）。
 
-#### 光-激素交叉对话
-- phyB-PIF 模块与 DELLA 蛋白直接互作——PIF 是 DELLA 低浓度时的优先结合伙伴，光信号通过 phyB 降解 PIF 和 GA 促进 DELLA 降解两条平行途径协同调控下胚轴伸长 ([[hormone-signaling]] H1)
-- 红光和蓝光通过 phyB/CRY 上调 HY5，HY5 直接激活花青素合成酶基因（如 *CHS*、*DFR*），实现光→色素的无激素依赖代谢调控
+**标注一致性提示**：本组 4 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-40954952-f6]]。
 
----
+**代表断言（原文摘录，未改写）**
 
-### 9. 磷酸化级联与泛素-蛋白酶体系统 — 信号转导的通用"语法"
+- “Overexpression of NtMYB1 and NtMYB1 / NtbZIP53 in transgenic narcissus upregulated the expression of upstream genes NtKS1 and NtGA20ox in the GA biosynthesis pathway; however, NtMY…” — [[daily-42967137-f2]]（`10.1093/hr/uhag234`，genetic perturbation）
+- “The regulation of fiber initiation versus elongation involves specific interactions; for instance, MYB16 (GhMML4_D12), a MIXTA-like TF, does not interact with a bHLH but with a div…” — [[cotton-fiber-development-molecular-regulation-f4]]（`10.1186/s42397-026-00264-2`，protein interaction）
+- “Beyond OsBZR1, OsGSK2 and its homologs phosphorylate ricespecific transcription factors such as DWARF AND LOWTILLERING (DLT), LEAF AND TILLER ANGLE INCREASED CONTROLLER (LIC), REDU…” — [[daily-42244175-f7]]（`10.1111/nph.71320`，protein interaction）
 
-#### 泛素-蛋白酶体降解
-- **SCF 复合体**（Skp1–Cullin–F-box）是多种激素信号的共用 E3 连接酶平台：SCF^TIR1（auxin）、SCF^COI1（JA）、SCF^SLY1（GA）使用相同骨架但不同的 F-box 受体蛋白实现信号特异性 ([[b3--bs1tAYpaCxa0fWZ49R6kw]])
-- KRP1（细胞周期抑制子）是泛素/蛋白酶体途径的靶标，连接激素信号与细胞周期调控 ([[ref-j-1365-313X-2007-03370-x]])
-- APC/C 泛素连接酶靶向关键细胞周期蛋白和激素信号组分 ([[sel-joe-14-0025]])
+### 2.3 激素合成与稳态
 
-#### 磷酸化中继
-- BR 信号中的 **BRI1→BIN2→BES1/BZR1** 磷酸化级联是植物中研究最透彻的激酶级联之一
-- CK 信号的 **AHK→AHP→Type-B ARR** 磷酸中继系统使用 His-Asp 磷酸化，不同于经典的 Ser/Thr 激酶
+**规模** 109 条证据 / 84 篇文献；**构成** descriptive/observational(63)、protein interaction(17)、expression/regulation(10)、phenotypic/association(8)、DNA binding/regulation(6)、genetic perturbation(3)；**因果层** 26 条（可支撑有限机制表述）。
 
----
 
-## 共识发现
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-### 1. DELLA 蛋白是多激素信号的"物理整合中枢"
-GA、JA、auxin、BR、光信号均通过 DELLA 蛋白进行交叉对话。DELLA 通过蛋白-蛋白互作扣押（sequester）多种转录因子，其蛋白丰度由 GA 促进的泛素化降解决定，因此 GA 水平间接调控所有 DELLA 互作伙伴（PIF、BZR1、JAZ、MYC2、bHLH 等）的活性——这是当前最核心的激素信号整合模型。
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Solanum lycopersicum、Oryza sativa，反复出现的实体为ERF109、ERF013、auxin、carotenoid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f2]]；[[comparative-transcriptome-profiling-reveals-the-multiple-f2]]；[[daily-40702403-f1]]）。
+- **证据层级的张力**：26 条属于遗传扰动/蛋白互作/DNA 结合，83 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40853041-f6]]；[[daily-42244175-f8]]；[[comparative-transcriptome-profiling-reveals-the-multiple-f2]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-40853041-f6]]；[[daily-42244175-f8]]）。
 
-### 2. 细胞类型特异性激素响应能力由染色质预配置决定
-拟南芥和水稻根的 scRNA-seq 一致表明，激素通路基因的表达和响应能力是细胞类型固有的（而非仅由激素梯度决定）。染色质可及性预配置是决定细胞是否"有能力"响应特定激素的关键因素——这与 H2（细胞激素响应能力假说）的核心预测一致。
+**物种 × 证据类型（前 5 物种）**
 
-### 3. 激素信号之间存在"代谢层面"的交叉对话（不通过蛋白互作）
-CK 信号通过 Type-B RR 直接结合并调控 auxin（*YUC*）和 ABA（*NCED*）生物合成酶基因的启动子——这种"代谢层面"的交叉对话补充了传统的蛋白-蛋白互作交叉模型。BR 通过 BES1 直接抑制类黄酮合成酶启动子，构成类似的"代谢阀门"逻辑。
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Arabidopsis thaliana | 1 | 6 | 1 | 3 | 2 | 1 | 22 | 36 |
+| Solanum lycopersicum | 0 | 2 | 3 | 5 | 2 | 0 | 15 | 27 |
+| Oryza sativa | 1 | 6 | 1 | 1 | 2 | 1 | 12 | 24 |
+| Zea mays | 0 | 4 | 1 | 0 | 0 | 0 | 15 | 20 |
+| Nicotiana tabacum | 1 | 1 | 1 | 0 | 0 | 0 | 8 | 11 |
 
-### 4. 蛋白滴定（Protein Titration）是激素调控代谢输出的新兴范式
-MdbHLH162-MdbHLH3-MdRGL2a 三元体系表明，bHLH 转录因子间的抑制性二聚体扣押和被 DELLA 解救构成一个"蛋白滴定"网络——激素信号通过改变 DELLA 丰度调谐二聚体组成，实现梯度式的代谢输出控制，而非简单的开/关切换。
+**基因实体（自动标注，前 5）**：ERF109(4)、ERF013(3)、ZmLOX2(2)、MAM1(2)、MdbHLH162(2)（标注覆盖 51/109）。
 
-### 5. 光信号与激素信号在多个节点深度耦合
-phyB-PIF-DELLA 三者在蛋白互作层面紧密连接，HY5 既是光信号核心因子又是花青素合成的直接调控者。光-激素耦合是理解植物环境适应性的关键框架。
+**化合物实体（自动标注，前 5）**：auxin(14)、carotenoid(5)、anthocyanin(5)、phenylpropanoid(4)、flavonoid(3)（标注覆盖 42/109）。
 
----
+**代表断言（原文摘录，未改写）**
 
-## 知识空白
+- “PbRR9-like directly activates the expression of the auxin biosynthesis gene indole-3- pyruvate monooxygenase 4 (PbYUC4) to increase the content of IAA (auxin) while directly inhibi…” — [[gibberellin-biosynthesis-is-required-for-cppu-induced-f2]]（`10.1093/hr/uhad084`，DNA binding/regulation）
+- “Studies have found that Aux/IAA proteins not only indirectly influence ABA signal transduction by regulating auxin and ABA biosynthesis/metabolic pathways but also that some member…” — [[daily-42245099-f7]]（`10.3389/fpls.2026.1823723`，protein interaction）
+- “Activated ethylene signaling can also reduce levels of bioactive GAs by inhibiting GA biosynthesis enzymes such as GA20ox (Achard et al., 2007), and the ethylene-regulated transcri…” — [[ms-10-3389_fpls-2026-1905836-f3]]（`10.3389/fpls.2026.1905836`，protein interaction）
 
-### 1. 大豆节间光质响应中 auxin-CK-BR 空间耦合的直接证据
-现有证据主要来自拟南芥（下胚轴/根）和水稻（根），大豆（*Glycine max*）节间组织中这三类激素的空间梯度、细胞类型特异性响应及其在光质（R/FR 比率）变化下的动态耦合缺乏单细胞分辨率数据。auxin-CK-BR 空间耦合是理解大豆株型和光竞争适应的核心调控机制，但该假设尚无大豆节间组织 scRNA-seq 或空间转录组数据支撑。
+### 2.4 激素间互作与权衡
 
-### 2. DELLA 剂量-互作组切换的定量证据不足
-虽然 DELLA 与多个转录因子（PIF、BZR1、JAZ、MYC2）互作的定性证据充分，但在不同 GA/DELLA 蛋白浓度下互作组的定量组成变化——特别是是否存在阈值"切换"行为——尚缺乏系统的 Co-IP/MS 或 FRET 定量数据支撑。
+**规模** 48 条证据 / 44 篇文献；**构成** descriptive/observational(27)、protein interaction(14)、DNA binding/regulation(2)、omics/co-occurrence(2)、phenotypic/association(1)、genetic perturbation(1)；**因果层** 17 条（可支撑有限机制表述）。
 
-### 3. CK→auxin/ABA 代谢开关的跨物种保守性未验证
-PbRR9-like 在梨中对 *PbYUC4* 和 *PbNCED6* 的双向调控是单一物种的单基因发现。该机制是否在拟南芥（ARR10/ARR12）、番茄（SlRR）和其他作物中保守、Type-B RR 对两靶基因启动子产生反向调控的染色质结构基础均未知。
 
-### 4. 光信号-激素信号的空间整合机制
-phyB/PIF/DELLA 互作主要在核内发生，但光受体（phyB、CRY）的亚细胞定位是光依赖的。光质变化（R/FR、蓝光强度）如何在空间上（不同组织、不同细胞类型）调制激素信号输出的细胞类型特异性图谱尚不清楚。
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-### 5. JA-ET 时序分工的细胞水平直接证据
-JA-ET 时序分工假说基于整体叶片转录组数据推断，但在单细胞/细胞类型水平上，不同细胞类型是否遵循相同的时序逻辑、两类信号的激活在细胞水平上是否存在空间差异（如伤口边缘 vs 远端的时序差异）均缺乏数据。
+- **一致的观察范围**：本组证据集中在Oryza sativa、Solanum lycopersicum、Zea mays，反复出现的实体为GSK2、OsDLA、auxin、gibberellin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f3]]；[[daily-40702403-f3]]；[[daily-40853041-f6]]）。
+- **证据层级的张力**：17 条属于遗传扰动/蛋白互作/DNA 结合，31 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40853041-f6]]；[[daily-42244175-f5]]；[[daily-41922966-f2]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-40853041-f6]]；[[daily-42244175-f5]]）。
 
-### 6. BR-BES1 代谢阀门的代谢流直接证据
-BES1 ChIP-seq 和突变体代谢组提供了 BES1 调控类黄酮合成的强相关性证据，但 BR 梯度下碳流在初级代谢（纤维素/生长）和次生代谢（类黄酮/UV 防护）之间的定量分配变化——即阀门开度的代谢流直接测量——尚未完成。
+**物种 × 证据类型（前 5 物种）**
 
----
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 1 | 7 | 1 | 1 | 0 | 0 | 8 | 18 |
+| Solanum lycopersicum | 0 | 1 | 2 | 0 | 0 | 0 | 4 | 7 |
+| Zea mays | 0 | 2 | 1 | 1 | 0 | 0 | 3 | 7 |
+| Nicotiana tabacum | 1 | 0 | 1 | 0 | 0 | 0 | 5 | 7 |
+| Arabidopsis thaliana | 0 | 2 | 0 | 1 | 0 | 0 | 4 | 7 |
 
-## 核心调控基因
+**基因实体（自动标注，前 5）**：GSK2(1)、OsDLA(1)、OsWRKY53(1)、PpGS2(1)、OsBRI1(1)（标注覆盖 19/48）。
 
-| 基因 | 功能 | 关联通路 |
-|------|------|----------|
-| *SHY2/IAA3* | Auxin 响应抑制子，ARR1 靶基因 | Auxin, CK |
-| *PbRR9-like* | Type-B RR，双重调控 YUC4/NCED6 | CK, Auxin, ABA |
-| *ARR1/ARR10/ARR12* | Type-B ARR，CK 信号效应器 | CK, Auxin, SA |
-| *PbYUC4* | Auxin 生物合成酶 | Auxin, CK |
-| *PbNCED6* | ABA 生物合成酶 | ABA, CK |
-| *BES1/BZR1* | BR 信号终端转录因子 | BR, 类黄酮 |
-| *SlBZR1* | 番茄 BZR1 同源基因，促果实成熟 | BR, ET |
-| *MdRGL2a* | DELLA 蛋白，GA-JA 交叉节点 | GA, JA |
-| *MdbHLH162* | 花青素负调控 bHLH | JA, GA |
-| *MdbHLH3/MdbHLH33* | 花青素正调控 bHLH | 花青素, GA |
-| *HY5* | 光形态建成核心转录因子 | 光, 花青素 |
-| *PIF* (PIF3/4/5) | phyB 互作 bHLH，光/GA 整合 | 光, GA |
-| *CRY1* | 蓝光受体，调控 COP1-HY5 | 蓝光 |
-| *TCP21* | 光形态建成负调控因子 | 光 |
-| *COI1* | JA 受体，SCF^COI1 的 F-box 亚基 | JA |
-| *EIN2/EIN3* | 乙烯信号核心组分 | ET |
-| *NPR1* | SA 信号核心介导因子 | SA |
-| *ACbHLH144* | 调控 GA2ox7，BR-GA 交叉 | BR, GA |
-| *PbrARF13* | Auxin 响应因子，调控木质素/纤维素 | Auxin |
+**化合物实体（自动标注，前 5）**：auxin(3)、gibberellin(1)、sucrose(1)、phenylpropanoid(1)、terpenoid(1)（标注覆盖 7/48）。
 
----
+**标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[the-redfar-red-light-photoreceptor-fvephyb-regulates-f1]]。
 
-## 关键代谢物/信号分子
+**代表断言（原文摘录，未改写）**
 
-| 分子 | 关联通路 |
-|------|----------|
-| IAA（吲哚-3-乙酸） | Auxin |
-| tZ/cZ/iP（细胞分裂素类） | CK |
-| BL/CS（油菜素内酯/栗甾酮） | BR |
-| GA₃/GA₄ | GA |
-| JA/JA-Ile | JA |
-| ACC/乙烯 | ET |
-| ABA | ABA |
-| SA | SA |
-| 花青素/类黄酮 | 次生代谢（多激素调控靶标） |
+- “The physical interaction between COM2 and the consensus DNAbinding motif of its downstream targets had been validated in previous studies (Li, Li, et al.,; Lin et al.,; Wang et al.…” — [[daily-42490165-f3]]（`10.1111/tpj.71040`，protein interaction）
+- “Combined with the significant upregulation of JA biosynthesisand signaling-related genes in the OE lines, these findings suggest that the interaction between ZmLOX2 and AOS1 may fa…” — [[daily-42588762-f3]]（`10.3390/plants15152258`，protein interaction）
+- “However, the available evidence suggests that the reduction in KBC symptoms severity observed in CAR-treated plants is likely attributable primarily to the direct interaction betwe…” — [[daily-42654935-f6]]（`10.3390/plants15162533`，protein interaction）
 
----
+### 2.5 生长发育中的激素功能
 
-## 方法论演化
-植物激素信号转导研究已从单一激素通路的遗传学解析（突变体筛选→基因克隆→生化验证）推进到多激素网络的系统生物学层面。当前的研究前沿包括：
-- **单细胞/空间转录组**：揭示细胞类型特异性激素响应和染色质预配置
-- **ChIP-seq/CUT&Tag**：在全基因组尺度鉴定激素信号终端转录因子的结合靶点
-- **蛋白互作组学**：Co-IP/MS、邻近标记（TurboID）定量激素依赖性互作组变化
-- **代谢流分析**：¹³C 标记追踪激素调控下碳流在初生/次生代谢间的分配
-- **CRISPR/Cas9 验证**：从相关性到因果性的标准工具
+**规模** 47 条证据 / 35 篇文献；**构成** descriptive/observational(22)、protein interaction(9)、phenotypic/association(8)、genetic perturbation(5)、DNA binding/regulation(2)、expression/regulation(1)；**因果层** 16 条（可支撑有限机制表述）。
 
----
 
-## 大豆项目关联
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-### 大豆节间光质响应中的 auxin-CK-BR 空间耦合假说
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Oryza sativa、Nicotiana tabacum，反复出现的实体为FRO6、RTNLB16、ethylene、auxin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[circadian-rheostat-proton-gradient-arabidopsis-f3]]；[[daily-42026737-f1]]；[[daily-42026737-f2]]）。
+- **证据层级的张力**：16 条属于遗传扰动/蛋白互作/DNA 结合，31 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-42226098-f1]]；[[daily-42244175-f7]]；[[daily-42315982-f4]]）。
+- **可检验缺口**：组学共现在本组缺证据；在补齐这些设计前，FRO6、RTNLB16、ethylene 与“生长发育中的激素功能”的方向性关系应作为待检验命题（[[circadian-rheostat-proton-gradient-arabidopsis-f3]]；[[daily-42026737-f1]]）。
 
-在大豆（*Glycine max*）密植/遮荫条件下，R/FR 比率降低通过 phyB-PIF 模块触发避荫综合征（shade avoidance syndrome），表现为节间伸长加速。该过程中：
+**物种 × 证据类型（前 5 物种）**
 
-- **Auxin** 提供细胞伸长的"方向性"和"幅度"信息（通过 PIN 极性运输建立空间梯度）
-- **CK** 通过 Type-B RR 调控分生组织活性和 auxin 生物合成（*YUC* 基因），维持节间基部的细胞增殖潜能
-- **BR** 通过 BES1/BZR1 促进细胞壁松弛和扩展，同时通过 PIF-DELLA 节点整合光和 GA 信号
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|
+| Arabidopsis thaliana | 3 | 3 | 1 | 1 | 1 | 13 | 22 |
+| Oryza sativa | 0 | 4 | 0 | 0 | 2 | 6 | 12 |
+| Nicotiana tabacum | 1 | 3 | 1 | 0 | 0 | 2 | 7 |
+| Malus domestica | 1 | 3 | 1 | 0 | 0 | 1 | 6 |
+| Solanum lycopersicum | 0 | 2 | 1 | 0 | 2 | 1 | 6 |
 
-三者在大豆节间中沿纵轴的空间耦合（顶端→中部→基部）可能是理解光质调控节间伸长的核心机制框架。当前该假说依赖的模式植物（拟南芥下胚轴、水稻节间）证据充分，但大豆中：
-- 节间组织的单细胞/空间转录组图谱缺失
-- 光质梯度下三种激素的原位定量和空间分布未知
-- 大豆 *PIN*、*YUC*、*BZR1* 同源基因在节间中的细胞类型表达模式未鉴定
+**基因实体（自动标注，前 5）**：FRO6(3)、RTNLB16(2)、SlBZR1(2)、CCA1(1)、PsnSAUR6(1)（标注覆盖 20/47）。
 
-这些构成了当前知识体系中与大豆项目最直接相关的关键空白。
+**化合物实体（自动标注，前 5）**：ethylene(3)、auxin(2)、sucrose(1)、phenolic(1)、salicylic acid(1)（标注覆盖 8/47）。
 
----
+**代表断言（原文摘录，未改写）**
 
-## 相关合成页面
-- [[plant-metabolism]]
-- [[root-development]]
-- [[vascular-development]]
+- “Mild heat stress can also induce ethylene production in leaves, which interacts with auxin and ROS pathways (Huang et al., ) and can affect reproductive development by promoting pr…” — [[daily-42432422-f1]]（`10.1111/nph.71422`，protein interaction）
+- “Combined transcriptome deep sequencing and chromatin immunoprecipitation followed by sequencing identified 73 SlBZR1repressed targets and 203 SlBZR1induced targets involving major …” — [[the-brassinosteroid-signaling-component-slbzr1-promotes-f3]]（`10.1111/jipb.13491`，DNA binding/regulation）
+- “Loss-of-function mutants of SCL30a displayed reduced ABA sensitivity in both root growth and seed germination assays, whereas complementation or overexpression of three stable isof…” — [[daily-42280772-f6]]（`10.3390/plants15111735`，genetic perturbation）
 
+### 2.6 逆境中的激素调控
 
-## Absorbed Sub-Themes
+**规模** 312 条证据 / 145 篇文献；**构成** descriptive/observational(155)、phenotypic/association(51)、protein interaction(32)、expression/regulation(30)、genetic perturbation(26)、omics/co-occurrence(11)；**因果层** 65 条（可支撑有限机制表述）。
 
 
-### hormone-signaling-hormone-signaling (absorbed)
-o_discovered: true
-cluster_size: 2 tags
-status: auto-generated
-updated: 2026-06-01
----
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-# 📄 Synthesis: #Hormone-Signaling & Hormone-Signaling
+- **一致的观察范围**：本组证据集中在Oryza sativa、Arabidopsis thaliana、Solanum lycopersicum，反复出现的实体为IbbHLH129、CsBT2、auxin、phenylpropanoid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-39996429-f1]]；[[daily-40629672-f3]]；[[daily-40702403-f4]]）。
+- **证据层级的张力**：65 条属于遗传扰动/蛋白互作/DNA 结合，247 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40853041-f6]]；[[daily-42122890-f4]]；[[daily-40898642-f5]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-40853041-f6]]；[[daily-42122890-f4]]）。
 
-## Domain Overview
+**物种 × 证据类型（前 5 物种）**
 
-自动发现主题 — 核心: #hormone-signaling, hormone-signaling | 全部标签: #hormone-signaling, hormone-signaling
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 6 | 18 | 0 | 6 | 12 | 2 | 46 | 90 |
+| Arabidopsis thaliana | 9 | 12 | 1 | 8 | 3 | 3 | 22 | 58 |
+| Solanum lycopersicum | 6 | 5 | 0 | 10 | 11 | 0 | 24 | 56 |
+| Triticum aestivum | 2 | 3 | 0 | 6 | 9 | 1 | 34 | 55 |
+| Zea mays | 3 | 9 | 1 | 3 | 7 | 3 | 21 | 47 |
 
-**统计**:
-- 涵盖论文: ~48 篇
-- 证据条目: 68 条
-- 共识发现: 0 项
-- 潜在争议: 0 项
-- 核心标签: #hormone-signaling, hormone-signaling
+**基因实体（自动标注，前 5）**：IbbHLH129(5)、CsBT2(4)、SnRK2(4)、SlbHLH70(4)、ERF013(4)（标注覆盖 117/312）。
 
-**与大豆项目的关联**: 低 — 可提供背景知识
+**化合物实体（自动标注，前 5）**：auxin(8)、phenylpropanoid(5)、dopamine(4)、terpenoid(3)、salicylic acid(3)（标注覆盖 35/312）。
 
----
+**标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-42490165-f1]]。
 
-## Consensus Findings (跨论文共识)
+**代表断言（原文摘录，未改写）**
 
+- “Collectively, the enriched GO terms induced by idr1–1 mutation appear to be concentrated on alterations of photosynthetic systems, responses to water deficiency, heat as well as ph…” — [[daily-42211481-f2]]（`10.3389/fpls.2026.1815995`，genetic perturbation）
+- “The ABA-dependent regulation of the circadian clock gene GIGANTEA (GI) facilitates drought escape (DE) mechanisms by modulating FT., The OST1 homolog SlOST1 in tomato, accelerates …” — [[daily-42249761-f6]]（`10.1080/15592324.2026.2684387`，protein interaction）
+- “In summary, STA1 (Category II) establishes a relatively complete chain from cold-induced expression and splicing to target splicing events and cold-sensitive phenotypes, although t…” — [[daily-42588902-f1]]（`10.3390/plants15152398`，genetic perturbation）
 
+### 2.7 信号转导的定量与动态特征
 
----
+**规模** 47 条证据 / 40 篇文献；**构成** descriptive/observational(33)、expression/regulation(6)、phenotypic/association(3)、protein interaction(2)、omics/co-occurrence(2)、DNA binding/regulation(1)；**因果层** 3 条（可支撑有限机制表述）。
 
-## Contradictions & Controversies (争议与矛盾)
 
-\n> 当前证据簇中未检测到明显矛盾，需人工审查确认。\n
+**受控叙述（按证据类型分层；每句附原始证据）**
 
----
+- **一致的观察范围**：本组证据集中在Solanum lycopersicum、Zea mays、Arabidopsis thaliana，反复出现的实体为CLV1、CLV3、auxin、dopamine；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f5]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f6]]；[[daily-41189573-f5]]）。
+- **证据层级的张力**：3 条属于遗传扰动/蛋白互作/DNA 结合，44 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-42197561-f3]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f5]]）。
+- **可检验缺口**：遗传扰动在本组缺证据；在补齐这些设计前，CLV1、CLV3、auxin 与“信号转导的定量与动态特征”的方向性关系应作为待检验命题（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f5]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f6]]）。
 
-## Knowledge Gaps (知识空白)
+**物种 × 证据类型（前 5 物种）**
 
-- 跨物种保守性: 多数发现来自拟南芥，作物中的功能验证不足\n- 空间维度: 缺乏空间转录组级别的发育轨迹分析\
+| 物种 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|
+| Solanum lycopersicum | 0 | 0 | 3 | 1 | 0 | 8 | 12 |
+| Zea mays | 0 | 1 | 2 | 0 | 0 | 7 | 10 |
+| Arabidopsis thaliana | 0 | 0 | 1 | 0 | 0 | 7 | 8 |
+| Triticum aestivum | 1 | 0 | 0 | 0 | 0 | 5 | 6 |
+| Oryza sativa | 0 | 0 | 3 | 0 | 0 | 2 | 5 |
+
+**基因实体（自动标注，前 5）**：CLV1(1)、CLV3(1)、ARF5(1)、PIN1(1)、TMO5(1)（标注覆盖 10/47）。
+
+**化合物实体（自动标注，前 5）**：auxin(5)、dopamine(1)、lignin(1)、flavonoid(1)、melatonin(1)（标注覆盖 9/47）。
+
+**代表断言（原文摘录，未改写）**
+
+- “Molecular dynamics modeling and the study of the UV–visible spectral characteristics of HSs in the presence of IAA revealed the ability of HSs to bind to this auxin, which helps ma…” — [[ms-10-3390_ijms27125494-f3]]（`10.3390/ijms27125494`，protein interaction）
+- “These phytohormonal gradients interact with the TDIF - PXY - WOX pathway, maintaining cambial homeostasis and adapting to environmental cues such as temperature and photoperiod [ ]…” — [[daily-41829741-f6]]（`10.3390/plants15050710`，protein interaction）
+- “Such hierarchical regulation (WRKY33 and MYB51) directly regulates the dynamics of camalexin and related indolic pathways in Arabidopsis.” — [[daily-42197561-f3]]（`10.3390/plants15101424`，DNA binding/regulation）
+
+## 3. 跨子主题实体枢纽（自动统计）
+
+下列实体在 **≥2 个子主题**中被独立证据提及。它们本身**不构成机制结论**，但说明该实体是本主题多条研究线的交叉点，值得优先核对证据层级。
+
+| 基因 | 命中子主题数 | 证据条数 | 涉及子主题 |
+|---|---|---|---|
+| SnRK2 | 6 | 12 | 信号转导的定量与动态特征、受体感知与早期信号转导、激素合成与稳态、激素间互作与权衡、转录调控与激素响应基因、逆境中的激素调控 |
+| NPR1 | 5 | 8 | 受体感知与早期信号转导、激素合成与稳态、激素间互作与权衡、转录调控与激素响应基因、逆境中的激素调控 |
+| CsbZIP44 | 4 | 9 | 信号转导的定量与动态特征、激素合成与稳态、生长发育中的激素功能、转录调控与激素响应基因 |
+| CsHB5 | 4 | 8 | 信号转导的定量与动态特征、激素合成与稳态、生长发育中的激素功能、转录调控与激素响应基因 |
+| ABI5 | 4 | 5 | 受体感知与早期信号转导、激素合成与稳态、转录调控与激素响应基因、逆境中的激素调控 |
+| SnRK2s | 4 | 5 | 受体感知与早期信号转导、激素合成与稳态、转录调控与激素响应基因、逆境中的激素调控 |
+| ERF013 | 3 | 8 | 激素合成与稳态、生长发育中的激素功能、逆境中的激素调控 |
+| IbbHLH129 | 3 | 7 | 激素合成与稳态、转录调控与激素响应基因、逆境中的激素调控 |
+| CmBHLH93 | 3 | 6 | 激素合成与稳态、转录调控与激素响应基因、逆境中的激素调控 |
+| PIN1 | 3 | 6 | 信号转导的定量与动态特征、受体感知与早期信号转导、转录调控与激素响应基因 |
+
+| 化合物 | 命中子主题数 | 证据条数 | 涉及子主题 |
+|---|---|---|---|
+| auxin | 7 | 50 | 信号转导的定量与动态特征、受体感知与早期信号转导、激素合成与稳态、激素间互作与权衡、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
+| sucrose | 6 | 8 | 受体感知与早期信号转导、激素合成与稳态、激素间互作与权衡、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
+| ethylene | 4 | 12 | 激素合成与稳态、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
+| phenylpropanoid | 4 | 12 | 激素合成与稳态、激素间互作与权衡、转录调控与激素响应基因、逆境中的激素调控 |
+| anthocyanin | 4 | 11 | 激素合成与稳态、激素间互作与权衡、生长发育中的激素功能、转录调控与激素响应基因 |
+| carotenoid | 4 | 10 | 激素合成与稳态、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
+
+### 3.1 跨子主题受控叙述
+
+- **交叉实体**：SnRK2、NPR1、CsbZIP44、CsHB5、ABI5 等实体在 ≥2 个子主题中重复出现；这只能说明多条研究线指向同一候选，不能说明同一机制（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f1]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f2]]）。
+- **层级不均**：因果层证据在子主题间分布不均，最高为“转录调控与激素响应基因”（84 条），最低为“信号转导的定量与动态特征”（3 条）；跨子主题比较结论强度前须先对齐这一差异。
+- **共同缺口**：七类证据齐全，瓶颈是同一结论的独立复现与条件分层，而非证据类型。
+
+## 4. 研究设计缺口矩阵（子主题 × 证据类型）
+
+> 单元格为证据条数，`—` 表示该组合在本主题无证据。最后一列之后按行读：一行里若前三列全为 `—`，该子主题**没有任何因果层证据**。
+
+| 子主题 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 |
+|---|---|---|---|---|---|---|---|
+| 受体感知与早期信号转导 | 5 | 38 | 3 | 7 | 3 | — | 47 |
+| 转录调控与激素响应基因 | 11 | 56 | 17 | 8 | 3 | 3 | 69 |
+| 激素合成与稳态 | 3 | 17 | 6 | 10 | 8 | 2 | 63 |
+| 激素间互作与权衡 | 1 | 14 | 2 | 1 | 1 | 2 | 27 |
+| 生长发育中的激素功能 | 5 | 9 | 2 | 1 | 8 | — | 22 |
+| 逆境中的激素调控 | 26 | 32 | 7 | 30 | 51 | 11 | 155 |
+| 信号转导的定量与动态特征 | — | 2 | 1 | 6 | 3 | 2 | 33 |
+
+所有已有证据的子主题都至少含 1 条因果/直接互作级证据，机制表述具备最低限度的实验托底。
+
+## 5. 可直接引用的因果级证据（自动筛选）
+
+以下 476 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
+
+| 证据页 | DOI | 类型 | 断言（摘录） |
+|---|---|---|---|
+| [[10-1146-annurev-arplant-042817-f3]] | `10.1146/annurev-arplant-042817-040549` | DNA binding/regulation | More in-depth studies found that WUS directly regulates additional cytokininand auxin-related genes, possibly controllin… |
+| [[10-1146-annurev-arplant-042817-f4]] | `10.1146/annurev-arplant-042817-040549` | protein interaction | HOMEODOMAIN LEUCINE ZIPPER (HD-ZIP III) genes, whose protein products interact with the type-B RRs and bind the same WUS… |
+| [[10-1146-annurev-arplant-042817-f7]] | `10.1146/annurev-arplant-042817-040549` | protein interaction | CIKs also interact with other CLV receptors and are phosphorylated by CLV1, suggesting that they act as a direct downstr… |
+| [[10-1146-annurev-arplant-042817-f8]] | `10.1146/annurev-arplant-042817-040549` | protein interaction | CT2/Gα interacts with the β and γ subunits, and, indeed, Gβ mutants in Arabidopsis have enlarged meristems and function … |
+| [[b6-JtU6BLa8oL57zgnlWnzO_Q-f1]] | `10.1111/tpj.70902` | protein interaction | All these data imply that TCP21 directly interacts with phyB likely in a light-dependent manner. |
+| [[b6-JtU6BLa8oL57zgnlWnzO_Q-f2]] | `10.1111/tpj.70902` | protein interaction | Further, we found that the N-terminal region of HY5 was required for its interaction with TCP21 (Figure S6). |
+| [[b6-JtU6BLa8oL57zgnlWnzO_Q-f3]] | `10.1111/tpj.70902` | protein interaction | These findings strongly suggest that TCP21 inhibits the transcriptional activity of HY5, probably by impairing its abili… |
+| [[b6-JtU6BLa8oL57zgnlWnzO_Q-f4]] | `10.1111/tpj.70902` | protein interaction | These findings strongly support the conclusion that phyB inhibits TCP21’s transcriptional activity, likely by interferin… |
+| [[b6-JtU6BLa8oL57zgnlWnzO_Q-f7]] | `10.1111/tpj.70902` | protein interaction | PhyB physically interacts with TCP21 and inhibits its transcriptional activity. |
+| [[biology-and-function-of-mir159-in-f2]] | `10.3390/plants8080255` | genetic perturbation | Then, overexpression of miR159 in Arabidopsis [ecotype Landsberg erecta, (Ler)] resulted in down-regulation of MYB33 exp… |
+| [[circadian-rheostat-proton-gradient-arabidopsis-f7]] | `10.1016/j.cell.2025.12.056` | protein interaction | Regulation of hypocotyl growth by CCA1 relies on multiple entry points as CCA1 activates PIFs and interacts with auxin-r… |
+| [[comparative-transcriptome-profiling-reveals-the-multiple-f7]] | `10.1111/pbi.14063` | DNA binding/regulation | Y1H and EMSA results indicated that BnaC2.FUS3 could directly bind to the P1 site of the BnaA6.KO promoter (Figure 3g,h)… |
+| [[cotton-fiber-development-molecular-regulation-f1]] | `10.1186/s42397-026-00264-2` | DNA binding/regulation | DNA Affinity Purification Sequencing (DAP-seq) analysis revealed that GhSBP1 binds to the GTAC motif and directly activa… |
+| [[cotton-fiber-development-molecular-regulation-f3]] | `10.1186/s42397-026-00264-2` | DNA binding/regulation | Journal of Cotton Research (2026) 9:18 demonstrated that GhMYB212 directly activates the sucrose transporter gene SUGARS… |
+| [[cotton-fiber-development-molecular-regulation-f4]] | `10.1186/s42397-026-00264-2` | protein interaction | The regulation of fiber initiation versus elongation involves specific interactions; for instance, MYB16 (GhMML4_D12), a… |
+| [[cotton-fiber-development-molecular-regulation-f6]] | `10.1186/s42397-026-00264-2` | protein interaction | Homeobox-leucine zipper protein 3 (GhHOX3), which is highly expressed during the elongation stage, interacts with the TC… |
+| [[cotton-fiber-development-molecular-regulation-f8]] | `10.1186/s42397-026-00264-2` | protein interaction | (2020) demonstrated that GhTCP4 interacts with GhHOX3 and represses its transcriptional activity. |
+| [[daily-39996429-f1]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Our findings suggest that the enhanced immunity observed in Arabidopsis cds1cds2 mutant was attributable to multiple fac… |
+| [[daily-39996429-f2]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Here, we found that knock-down of the CDS gene enhanced the resistance of Arabidopsis thaliana to multiple pathogens, wi… |
+| [[daily-39996429-f3]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Our data suggest that AtS40, NGAL2, RGL3, and other genes associated with embryonic development and growth in plants wer… |
+
+（另有 456 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
+
+## 6. 证据间的张力与矛盾（自动筛查）
+
+自动筛查发现 5 组“同一基因、方向相反”的表述。这类冲突通常来自物种、组织或处理条件不同，**不宜简单判定一方错误**，而应作为条件分层实验的设计依据。
+
+| 基因 | 冲突类型 | 涉及来源（截断） |
+|---|---|---|
+| PIN1 | regulation direction dispute | [[daily-41829741]]；[[daily-42122902]]；[[daily-42243683]] |
+| PP2C | regulation direction dispute | [[daily-42220070]]；[[daily-42423212]]；[[ref-mcz160]] |
+| PP2A | regulation direction dispute | [[daily-42226070]]；[[daily-42665660]] |
+| BZR1 | regulation direction dispute | [[daily-42237121]]；[[daily-42422551]]；[[daily-42514610]] |
+| SNF1 | regulation direction dispute | [[daily-42249761]]；[[ref-mcz160]] |
+
+> 筛查规则为“激活/抑制”等对立动词共现，属关键词启发式，可能误报；每条冲突都必须回原文核对实验条件后才能采信。
+
+## 7. 覆盖与代表性缺口
+
+- **1344 条证据（66%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
+- **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
+
+## 8. 历史正文说明
+
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261117`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+
+## 9. 行内引用密度自检
+
+本页正文 4769 个中文字符，行内证据链接 118 处，密度 **12.4 处/500 字**（目标 ≥1）。链接指向证据页，不直接指向出版社；引用前须沿证据页回到原文核对。

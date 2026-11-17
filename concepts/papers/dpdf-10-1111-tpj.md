@@ -1,16 +1,25 @@
 ---
-title: 10.1111/tpj
+
+title: "Identification of novel regulators required for early development of vein pattern in the"
 created: 2026-06-04
 type: concept
+themes: [single-cell-spatial-omics, stress-immunity]
 tags: [papers, dpdf]
 doi: 10.1111/tpj
 confidence: moderate
 source: dPDF
 species: —
 methods: —
+needs_review: true
+doi_quality: journal_level
+title_source: pdf-filename
+title_quality: repaired
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# 10.1111/tpj
+# Identification of novel regulators required for early development of vein pattern in the
 
 ## 论文信息
 - **期刊**:  (None)

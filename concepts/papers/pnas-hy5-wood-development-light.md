@@ -1,9 +1,18 @@
+---
 title: Spatiotemporal bifurcation of HY5-mediated blue-light signaling regulates wood d
-tags: [#hormone-signaling, papers]
-aliases: ["HY5介导的蓝光信号时空分叉调节木材d"]
+tags: [papers]
+aliases: [HY5介导的蓝光信号时空分叉调节木材d]
 type: paper
+themes: [developmental-biology]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Spatiotemporal bifurcation of HY5-mediated blue-light signaling regulates wood d
 
@@ -46,7 +55,7 @@ Arabidopsis Proteins, Arabidopsis, Basic-Leucine Zipper Transcription Factors, G
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]] 🌱Arabidopsis
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]] 🌱Arabidopsis
 - [[daily-42207342]] 🌱Arabidopsis
-- [[plant-sc-omics-opportunities-challenges]] 🌱Arabidopsis
+- [[ref-pnas-2310163120]] 🌱Arabidopsis
 - [[b6-O0Kt-jSykCafIUhbNCEB3g]]
 - [[b6-_4lVabIoRyC91sLMxSI_ig]]
 - [[circadian-rheostat-proton-gradient-arabidopsis]]

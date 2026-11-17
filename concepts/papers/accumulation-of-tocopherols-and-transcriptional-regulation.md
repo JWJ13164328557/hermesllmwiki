@@ -1,15 +1,19 @@
-title: "Accumulation of tocopherols and transcriptional regulation of their biosynthesis during cold storage of mandarin fruit"
+---
+title: Accumulation of tocopherols and transcriptional regulation of their biosynthesis during cold storage of mandarin fruit
 created: 2026-05-30
 type: concept
-tags: [#stress-immunity, papers]
+themes: [metabolism-natural-products, stress-immunity]
+tags: [stress-immunity, papers]
 doi: 10.1016/j.postharvbio.2021.111594
-pmid: 
-confidence: medium
-aliases: ["柑橘果实冷藏期间生育酚的积累及其生物合成的转录调节"]
+pmid: ''
+aliases: [柑橘果实冷藏期间生育酚的积累及其生物合成的转录调节]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 积累 of tocopherols and transcriptional 调控 of their 生物合成 过程中 cold storage of mandarin fruit
+species_status: unverified
+---
 
-> Accumulation of tocopherols and transcriptional regulation of their biosynthesis during cold storage of mandarin fruit
+# Accumulation of tocopherols and transcriptional regulation of their biosynthesis during cold storage of mandarin fruit
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2021)

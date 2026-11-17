@@ -1,12 +1,18 @@
+---
 title: Stomagen positively regulates stomatal density in Arabidopsis.
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags: [epigenetics-gene-regulation, papers]
 doi: 10.1038/nature08682
 confidence: medium
-aliases: ["Stomagen positively regulates stomatal density in Arabidopsis."]
+aliases: [cr-10-1038-nature08682, Stomagen positively regulates stomatal density in Arabidopsis.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Stomagen positively regulates stomatal density in Arabidopsis.
 
@@ -29,16 +35,16 @@ Stomata in the epidermal tissues of leaves are valves through which passes CO(2)
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum, Selaginella spp., Ficus carica
+**物种**: Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum, Selaginella spp.
 **方法**: qRT-PCR validation, RNAi/VIGS, overexpression, knockout/mutant, Western blot, promoter-GUS assay
 **来源**: DOI:10.1038/nature08682
 **来源类型**: PDF全文 (10.1038_nature08682.pdf)

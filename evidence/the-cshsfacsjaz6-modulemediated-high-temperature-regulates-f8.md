@@ -1,34 +1,43 @@
 ---
-title: "As the terminal components of heat shock signal transmission, heat shock factors (HSFs) directly reg"
-created: 2026-08-25
+title: "As the terminal components of heat shock signal transmission, heat shock factors (HSFs) …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]"
 doi: "10.1111/pce.14610"
-species: [Oryza sativa, Zea mays, Nicotiana tabacum]
-evidence_type: "expression/regulation"
+species: ["Camellia sinensis", "Nicotiana tabacum", "Arabidopsis thaliana"]
+primary_species: "Camellia sinensis"
+evidence_type: "DNA binding/regulation"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# As the terminal components of heat shock signal transmission, heat shock factors (HSFs) directly reg
+# As the terminal components of heat shock signal transmission, heat shock factors (HSFs) …
 
 ## Claim
 As the terminal components of heat shock signal transmission, heat shock factors (HSFs) directly regulate thermoresponsive gene expression after perception of ambient HT and as such play a central role in the heat shock response process.
 
-## Biological Context
-The CsHSFA‐CsJAZ6 模块‐介导的 high temperature 调控 类黄酮 metabolism in Camellia sinensis
+## Source
+- 文献: [[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]
+- DOI: 10.1111/pce.14610
+- 主要物种: Camellia sinensis
 
-## Supporting Evidence
-*Source: [[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]*
+## 标注信息
+- 证据类型: DNA binding/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

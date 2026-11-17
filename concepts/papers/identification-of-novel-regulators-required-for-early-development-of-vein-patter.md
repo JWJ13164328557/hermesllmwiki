@@ -1,15 +1,22 @@
 ---
-title: "Identification of novel regulators required for early development of vein pattern in the cotyledons by single‐cell <scp>RNA</scp>‐sequencing"
-aliases: ["identification-of-novel-regulators-required-for-early-development-of-vein-patter"]
-tags: [scrnaseq, plant-single-cell]
-doi: "10.1111/tpj.15719"
-journal: "The Plant Journal"
+title: Identification of novel regulators required for early development of vein pattern in the cotyledons by single-cell RNA-sequencing
+aliases:
+- identification-of-novel-regulators-required-for-early-development-of-vein-patter
+tags:
+- scrnaseq
+- plant-single-cell
+doi: 10.1111/tpj.15719
+journal: The Plant Journal
 year: 2022
-authors: "Liu Zhixin, Wang Jiajing, Zhou Yaping, Zhang Yixin, Qin Aizhi, Yu Xiaole, Zhao Zihao, Wu Rui"
+authors: Liu Zhixin, Wang Jiajing, Zhou Yaping, Zhang Yixin, Qin Aizhi, Yu Xiaole, Zhao Zihao, Wu Rui
 created: 2026-06-01
+themes: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: tag+keyword
+
 ---
 
-# Identification of novel regulators required for early development of vein pattern in the cotyledons by single‐cell <scp>RNA</scp>‐sequencing
+# Identification of novel regulators required for early development of vein pattern in the cotyledons by single-cell RNA-sequencing
 
 **期刊**: The Plant Journal (2022)
 **DOI**: 10.1111/tpj.15719
@@ -29,7 +36,18 @@ SUMMARYThe leaf veins of higher plants contain a highly specialized vascular sys
 
 ## 深度提炼
 
+**主要物种**: Arabidopsis thaliana
+**物种**: Arabidopsis thaliana, Gossypium hirsutum, Nicotiana tabacum
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, qRT-PCR validation, overexpression, knockout/mutant, promoter-GUS assay
+**来源**: DOI:10.1111/tpj.15719
+**来源类型**: PDF全文 (10-1111_tpj-15719.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Interestingly, we found that GO terms enriched in PP share little overlap with those of other cell types, and are mainly involved in responses to biotic and abiotic stimulations (Figure 2a,b).
+2. These results suggest that DELLA is required for the regulation of the early development of the leaf veins in cotyledons.
+3. Taken together, our results provide new insights into the early transcriptome proﬁles of leaf veins in cotyledons, and lead to the identiﬁcation of new marker genes for leaf vein cells.
+4. Indeed, they are mainly involved in regulating the function, rather than the development of leaf veins (Maruyama-Nakashita et al., 2015; Walerowski et al., 2018; Kim et al., 2021), although we found that oeBZIP9 can affect the development of veins (Figure 4).
+5. For example, we found that the TFs RGA, RGA-LIKE 1 (RGL1) and RGL2 are highly expressed in the XP and CC_8, and the development of leaf veins in the cotyledons of the della quintuple mutant was impaired (Figure S8).
+6. The development of the vascular system is controlled by phytohormones that interact with complex transcriptional regulatory networks.
+7. A recent study revealed a PXY-mediated transcriptional regulatory network of Arabidopsis, in which WUSCHEL HOMEOBOX RELATED14 (WOX14), TARGET OF MONOPTEROS6 (TMO6) and LAT- ERAL ORGAN BOUNDARIES DOMAIN4 (LBD4) formed a feed-forward loop to regulate the expression of target genes in response to auxin, cytokinin (CK) and TDIF PXY signaling (Smit et al., 2020).
+8. The phloem SE-like cells and xylem tracheary elements can be induced by VISUAL, and genetic analysis has conﬁrmed that ALTERED PHLOEM DEVELOPMENT (APL) plays a central role in SE differentiation via VISUAL (Kondo et al., 2015).

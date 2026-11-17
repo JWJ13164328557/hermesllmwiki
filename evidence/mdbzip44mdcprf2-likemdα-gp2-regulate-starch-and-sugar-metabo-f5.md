@@ -1,34 +1,43 @@
 ---
-title: "bZIP TFs usually preferentially bind to ACGT cis-acting elements, including G-box (CACGTG), C-box (G"
-created: 2026-08-25
+title: "BZIP TFs usually preferentially bind to ACGT cis-acting elements, including G-box …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["epigenetics-gene-regulation", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]"
 doi: "10.1093/hr/uhae072"
-species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
+species: ["Malus domestica", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Malus domestica"
+evidence_type: "protein interaction"
+claim_role: "background"
+non_finding_kind: "definition"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# bZIP TFs usually preferentially bind to ACGT cis-acting elements, including G-box (CACGTG), C-box (G
+# BZIP TFs usually preferentially bind to ACGT cis-acting elements, including G-box …
 
 ## Claim
-bZIP TFs usually preferentially bind to ACGT cis-acting elements, including G-box (CACGTG), C-box (GACGTC), A-box (TACGTA), and ABRE (CCACGTGG).
+BZIP TFs usually preferentially bind to ACGT cis-acting elements, including G-box (CACGTG), C-box (GACGTC), A-box (TACGTA), and ABRE (CCACGTGG).
 
-## Biological Context
-MdbZIP44–MdCPRF2-like–Mdα-GP2 regulate 淀粉 and 糖 metabolism in apple under nitrogen supply
+## Source
+- 文献: [[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]
+- DOI: 10.1093/hr/uhae072
+- 主要物种: Malus domestica
 
-## Supporting Evidence
-*Source: [[mdbzip44mdcprf2-likemdα-gp2-regulate-starch-and-sugar-metabo]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: background
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

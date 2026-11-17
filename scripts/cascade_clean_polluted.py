@@ -16,7 +16,7 @@ cascade_clean_polluted.py — 级联清理已移入 .trash 的污染概念页的
 import os, re, shutil, argparse, glob
 from datetime import datetime
 
-BASE = '/mnt/g/hermes_obsidian/hermes'
+from kb_paths import BASE  # 统一根目录解析: KB_BASE/APP_DIR 环境变量优先
 EVIDENCE = f'{BASE}/evidence'
 RAW = f'{BASE}/raw/articles'
 TRASH = f'{BASE}/.trash/polluted_cascade_{datetime.now():%Y%m%d}'

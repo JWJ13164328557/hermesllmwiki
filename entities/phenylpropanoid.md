@@ -1,6 +1,6 @@
 ---
 title: "phenylpropanoid"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,27 +9,24 @@ tags: [metabolism, compound]
 # phenylpropanoid
 
 ## Evidence Summary
-**Total evidence objects**: 17
+**Total evidence objects**: 46
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
+| [[daily-40898642-f4]] | In summary, most secondary metabolites differentially accumulated in metabolic p |
+| [[daily-41048397-f6]] | The phenylpropanoid biosynthesis (map00940) pathway is crucial for flower bud di |
+| [[daily-42126179-f6]] | For example, WRKY33 directly controls genes in tryptophan-derived pathways, ther |
 | [[daily-42204672-f7]] | Addressing these gaps is required for elucidating the complexity of phenylpropan |
-| [[insights-into-the-evolution-and-hypoglycemic-f1]] | For the 6,138 DE-mRNAs, we found that KEGG enrichment of the upregulated genes w |
-| [[integrated-metabolomic-and-transcriptomic-analysis-reveals-f2]] | Taken together, the crucial regulatory role of EsMYB90 on enhancing many ﬂavonoi |
-| [[integrated-metabolomic-and-transcriptomic-analysis-reveals-f6]] | Taken together, these markedly increased ﬂavonoid metabolites were tightly assoc |
-| [[integration-of-metabolomics-and-transcriptomics-reveals-f2]] | Notably, virus-induced silencing of Sl4CLL6 not only decreased the expression of |
-| [[ms-10-1007_s44281-026-00106-w-f8]] | Collectively, increased JA, SA and ABA levels, acti- vation of phenylpropanoid m |
-| [[ms-10-1007_s44372-026-00654-5-f1]] | The phenylpropanoid pathway plays a central role in the biosynthesis of diverse  |
-| [[ms-10-1007_s44372-026-00770-2-f3]] | However, comparative evi­ dence suggests that, although terpenoid metabolism pla |
-| [[ms-10-25081_jp-2026-v18-9950-f3]] | These results reveal the complexity of regulatory networks controlling phenylpro |
-| [[ms-10-25081_jp-2026-v18-9950-f4]] | In conclusion, these findings uncover a potential explanation on the elicitor st |
+| [[daily-42265640-f7]] | Severe drought stress suppresses multiple key steps in the phenylpropanoid and f |
+| [[daily-42274512-f6]] | PPI network analysis further showed that these DEPs interact with the core hub g |
+| [[daily-42313056-f3]] | Enhanced nutrient status was accompanied by coordinated shifts in hormone-associ |
+| [[daily-42323550-f7]] | It is well established that specific fertilizer dosages can modulate flavonoid s |
+| [[daily-42410657-f1]] | Transgenic plants expressing miR858 target mimics effectively blocked miR858 act |
+| [[daily-42571016-f4]] | PAL is a key enzyme in the phenylpropanoid pathway, catalyzing the deamination o |
 
 ## Biosynthetic Pathway
 -
 
 ## Regulatory Genes
--
-
-## Species Distribution
 -

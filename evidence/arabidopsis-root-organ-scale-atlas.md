@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard growth
 support:
-  - "[[xr-10-1016-j-devcel-2022-01-008]]"
+  - "[[arabidopsis-root-sc-atlas-plantcell]]"
 supporting_figures:
   - "xr-10-1016-j-devcel-2022-01-008#figure-1"
 experiments:
@@ -26,6 +26,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.devcel.2022.01.008"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Organ-Scale Arabidopsis Root Atlas at Single-Cell Resolution
@@ -42,7 +55,7 @@ Previous root scRNA-seq studies profiled root tips only. This atlas extends to t
 
 | Paper | Method | Key Finding | Cells |
 |-------|--------|-------------|-------|
-| [[xr-10-1016-j-devcel-2022-01-008]] | 10x scRNA-seq + spatial reconstruction (novoSpaRc) | Complete root atlas with all major cell types across developmental zones; >25 cell clusters including differentiation intermediates | Organ-scale (tens of thousands) |
+| [[arabidopsis-root-sc-atlas-plantcell]] | 10x scRNA-seq + spatial reconstruction (novoSpaRc) | Complete root atlas with all major cell types across developmental zones; >25 cell clusters including differentiation intermediates | Organ-scale (tens of thousands) |
 
 ## Evidence Quality
 

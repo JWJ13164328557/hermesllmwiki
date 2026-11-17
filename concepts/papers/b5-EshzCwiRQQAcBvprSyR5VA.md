@@ -1,15 +1,28 @@
-title: Spatiotemporal transcriptomic and metabolomic landscapes of wild soybean seed de
+---
+
+title: Spatiotemporal transcriptomic and metabolomic landscapes of wild soybean seed development reveal regulatory mechanisms of nutrient accumulation
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1016/j.xplc.2025.101580
 confidence: medium
-aliases: ["野生大豆种子的时空转录组和代谢组景观"]
-aliases_extra: ["Spatiotemporal transcriptomic and metabolomic landscapes of wild soybean seed de"]
+aliases:
+- Spatiotemporal transcriptomic 和 metabolomic landscapes 的 wild soybean seed de
+aliases_extra:
+- "野生大豆种子的时空转录组和代谢组景观"
+- "Spatiotemporal transcriptomic and metabolomic landscapes of wild soybean seed de"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Spatiotemporal transcriptomic and metabolomic landscapes of wild soybean seed de
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Spatiotemporal transcriptomic and metabolomic landscapes of wild soybean seed de
+---
+
+# Spatiotemporal transcriptomic and metabolomic landscapes of wild soybean seed development reveal regulatory mechanisms of nutrient accumulation
 
 
 
@@ -30,8 +43,8 @@ Seed development is a pivotal stage of the soybean life cycle, directly determin
 
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
-- [[b6-jpXamO-lS-eyCqULAU9qnA]]
+- [[poplar-xylem-sc-spatial-gb]]
+- [[cr-s41477-023-01387-z]]
 - [[maize-rust-sc-spatial-immune]]
 - [[plantcellchat-tool]]
 - [[poplar-xylem-sc-spatial-gb]]

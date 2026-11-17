@@ -1,19 +1,23 @@
-title: Differential alternative polyadenylation contributes to the developmental diverg
+---
+
+title: Differential alternative polyadenylation contributes to the developmental divergence between two rice subspecies, japonica and indica
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [genomics-evolution, stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1111/tpj.14209
 confidence: medium
-aliases: ["Differential alternative polyadenylation contributes developmental diverg"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 06 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["差异化的替代聚腺苷酸化有助于发育分化"]
-aliases_extra: ["Differential alternative polyadenylation contributes to the developmental diverg"]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Differential alternative polyadenylation contributes to the developmental diverg
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Differential alternative polyadenylation contributes to the developmental diverg
+---
+
+# Differential alternative polyadenylation contributes to the developmental divergence between two rice subspecies, japonica and indica
 
 
 
@@ -34,11 +38,11 @@ Alternative polyadenylation (APA) is a widespread post-transcriptional mechanism
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

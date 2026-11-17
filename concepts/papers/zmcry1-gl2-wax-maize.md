@@ -1,14 +1,25 @@
+---
 title: 蓝光增强ZmCRY1s与GL2互作调控玉米表皮蜡质组成
 created: 2026-05-29
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1038/s41467-025-67587-7
-aliases: ["蓝光增强ZmCRY1s-GL2互作调控玉米蜡质", "ZmCRY1-GL2 maize wax"]
+aliases:
+- 蓝光增强ZmCRY1s-GL2互作调控玉米蜡质
+- ZmCRY1-GL2 maize wax
 confidence: high
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: Blue-light-enhanced interaction between ZmCRY1s and GL2 modulates epidermal wax composition in Zea mays
+theme_status: mapped
+theme_basis: tag
 
-# 蓝光增强ZmCRY1s与GL2互作调控玉米表皮蜡质组成
+---
+
+# Blue-light-enhanced interaction between ZmCRY1s and GL2 modulates epidermal wax composition in Zea mays
 
 
 
@@ -45,9 +56,18 @@ RNA-seq analysis reveals that blue light regulates compound biosynthesis and met
 
 ## 深度提炼
 
-**物种**: maize
+**主要物种**: Zea mays
+**物种**: Zea mays, Glycine max, Oryza sativa, Nicotiana tabacum, Arabidopsis thaliana
+**方法**: transcriptomics (RNA-seq), qRT-PCR validation, Y2H, BiFC, Co-IP, CRISPR/Cas9, overexpression, knockout/mutant
+**来源**: DOI:10.1038/s41467-025-67587-7
+**来源类型**: PDF全文 (10-1038_s41467-025-67587-7.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Notably, we identify that ZmCRY1 directly interacts with GLOSSY2 (GL2), a key acyltransferase in very-long-chain fatty acid metabolism, in a blue light-strengthened manner to mediate blue light-promoted C32 aldehyde accumulation, shedding new light on the enigma of the aldehyde- forming pathway in plants.
+2. We show that ZmCRYs reg- ulate transcription of genes involved in the biosynthesis of UV-B- protective metabolites (phenylpropanoids, ﬂavonoids, anthocyanins, and fatty acids56) and modulate epidermal wax accumulation and composition.
+3. Furthermore, ZmCRY1 directly interacts with GL2 in a blue light-strengthened manner to promote C32 aldehyde formation, shedding light on VLC aldehyde generation.
+4. These results suggest that these CRY1s may function redundantly in mediating blue light signaling in maize.
+5. Article https://doi.org/10.1038/s41467-025-67587-7 Nature Communications| (2026) 17:869 3 To generate multiple cry knockout mutants, we used CRISPR-Cas9 technology to target the four cryptochrome genes in the B73 back- ground.
+6. Guide RNA 1 (gRNA1) was designed to target conserved regions of ZmCRY1s, and gRNA2 targeted ZmCRY2.
+7. Collectively, these results indicate that ZmCRYs func- tion redundantly in mediating blue light signaling to regulate maize photomorphogenesis.
+8. These results suggest thatZmCRY1s and ZmCRY2 are functionally conserved with their Arabidopsis orthologs as blue light receptors.

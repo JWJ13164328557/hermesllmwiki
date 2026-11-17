@@ -1,34 +1,43 @@
 ---
-title: "SuS downregulation has minimal effect on sucrose content; however, this downregulation significantly"
-created: 2026-08-25
+title: "Nitrogen fertilization-regulated modules primarily occurred in the S2 and S3 stages …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[transcriptome-analysis-reveals-the-mechanism-of]]"
 doi: "10.1016/j.carbpol.2023.121372"
-species: [Oryza sativa, Zea mays, Hordeum vulgare]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["maize", "potato", "rice"]
+primary_species: "Oryza sativa"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: [starch, sucrose]
+compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# SuS downregulation has minimal effect on sucrose content; however, this downregulation significantly
+# Nitrogen fertilization-regulated modules primarily occurred in the S2 and S3 stages …
 
 ## Claim
-SuS downregulation has minimal effect on sucrose content; however, this downregulation significantly inhibits starch synthesis in transgenic potato tubers (Zhao et al., 2022).
+Nitrogen fertilization-regulated modules primarily occurred in the S2 and S3 stages, consistent with the PCA results.
 
-## Biological Context
-Transcriptome 分析 揭示 the 机制 of nitrogen fertilizers in 淀粉 synthesis and quality in waxy and non-waxy proso millet
+## Source
+- 文献: [[transcriptome-analysis-reveals-the-mechanism-of]]
+- DOI: 10.1016/j.carbpol.2023.121372
+- 主要物种: Oryza sativa
 
-## Supporting Evidence
-*Source: [[transcriptome-analysis-reveals-the-mechanism-of]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

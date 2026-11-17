@@ -1,12 +1,18 @@
-title: Receptor-like kinase ACR4 restricts formative cell divisions in the Arabidopsis 
+---
+title: Receptor-like kinase ACR4 restricts formative cell divisions in the Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 doi: 10.1126/science.1160158
 confidence: medium
-aliases: ["Receptor-like kinase ACR4 restricts formative cell divisions in the Arabidopsis"]
+aliases: [cr-10-1126-science-1160158, Receptor-like kinase ACR4 restricts formative cell divisions in the Arabidopsis]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Receptor-like kinase ACR4 restricts formative cell divisions in the Arabidopsis
 
@@ -29,16 +35,16 @@ During the development of multicellular organisms, organogenesis and pattern for
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Zea mays, Ficus carica
+**物种**: Zea mays
 **方法**: ChIP-seq/qPCR, overexpression
 **来源**: DOI:10.1126/science.1160158
 **来源类型**: PDF全文 (10.1126_science.1160158.pdf)

@@ -1,15 +1,21 @@
-title: "A genome assembly of ginger (Zingiber officinale Roscoe) provides insights into genome evolution and 6‐gingerol biosynth"
+---
+title: A genome assembly of ginger (Zingiber officinale Roscoe) provides insights into genome evolution and 6-gingerol biosynthesis
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags:
+- genomics-evolution
+- papers
 doi: 10.1111/tpj.16625
-pmid: 
-confidence: medium
-aliases: ["姜（ Zingiber officinale Roscoe ）的基因组组合提供了对基因组进化和6-姜酚生物合成的见解"]
+pmid: ''
+aliases:
+- 姜（ Zingiber officinale Roscoe ）的基因组组合提供了对基因组进化和6-姜酚生物合成的见解
+theme_status: mapped
+theme_basis: tag+keyword
 
-# A 基因组 组装 of ginger (Zingiber officinale Roscoe) 提供了 深入 into 基因组 进化 and 6‐gingerol 生物合成
+---
 
-> A genome assembly of ginger (Zingiber officinale Roscoe) provides insights into genome evolution and 6‐gingerol biosynthesis
+# A genome assembly of ginger (Zingiber officinale Roscoe) provides insights into genome evolution and 6‐gingerol biosynthesis
 
 ## 论文信息
 - **期刊**: The Plant Journal (2024)
@@ -25,9 +31,14 @@ SUMMARYGinger is cultivated in tropical and subtropical regions and is one of th
 
 ## 深度提炼
 
-**方法**: Microscopy
+**主要物种**: Zingiber officinale
+**物种**: Zingiber officinale, Musa spp., Nicotiana tabacum, Amborella trichopoda, Ananas comosus
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), genomics, EMSA, dual-luciferase reporter
+**来源**: DOI:10.1111/tpj.16625
+**来源类型**: PDF全文 (97 生姜的基因组组装揭示了基因组进化和 6-姜酚生物合成的奥秘.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. We found evidence for one WGD event in the Z.
+2. The results of yeast one-hybrid, electrophoretic mobility shift, and dual-luciferase reporter gene assays showed that both ZoMYB106 and ZobHLH148 bind to the promoters of the key rate-limiting enzyme genes ZoCCOMT1 and ZoCCOMT2 in the 6-gingerol synthesis pathway and promote their transcriptional activities.
+3. Jiang et al suggested that ZoCCoAOMT and ZoHCT encode rate-limiting enzymes that play a crucial role in regulating 6-gingerol biosynthesis (Jiang et al., 2018).
+4. ZoMYB106 and ZoBHLH148 bind to the promoter of ZoCCOMT1/2.

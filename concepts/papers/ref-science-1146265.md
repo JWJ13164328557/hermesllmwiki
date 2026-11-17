@@ -1,12 +1,18 @@
+---
 title: A high-resolution root spatiotemporal map reveals dominant expression patterns.
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 doi: 10.1126/science.1146265
 confidence: medium
-aliases: ["A high-resolution root spatiotemporal map reveals dominant expression patterns."]
+aliases: [cr-10-1126-science-1146265, A high-resolution root spatiotemporal map reveals dominant expression patterns.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # A high-resolution root spatiotemporal map reveals dominant expression patterns.
 
@@ -29,16 +35,16 @@ Transcriptional programs that regulate development are exquisitely controlled in
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: RNAi/VIGS, subcellular localization
 **来源**: DOI:10.1126/science.1146265
 **来源类型**: PDF全文 (10.1126_science.1146265.pdf)

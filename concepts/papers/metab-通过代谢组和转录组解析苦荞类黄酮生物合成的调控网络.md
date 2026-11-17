@@ -1,12 +1,21 @@
-title: "通过代谢组和转录组解析苦荞类黄酮生物合成的调控网络"
-journal: "unknown"
-year: ""
+---
+title: 通过代谢组和转录组解析苦荞类黄酮生物合成的调控网络
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

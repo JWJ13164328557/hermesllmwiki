@@ -1,34 +1,43 @@
 ---
-title: "In this work, we report a procedure for preparing highly puriﬁed CPGs that were analyzed using weste"
-created: 2026-08-25
+title: "In this work, we report a procedure for preparing highly purified CPGs that were analyzed …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"
 doi: "10.1111/tpj.16519"
-species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Citrus spp.", "Capsicum annuum", "Solanum lycopersicum"]
+primary_species: "Citrus spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In this work, we report a procedure for preparing highly puriﬁed CPGs that were analyzed using weste
+# In this work, we report a procedure for preparing highly purified CPGs that were analyzed …
 
 ## Claim
-In this work, we report a procedure for preparing highly puriﬁed CPGs that were analyzed using western blotting, microscopy, and subcellular localization.
+In this work, we report a procedure for preparing highly purified CPGs that were analyzed using western blotting, microscopy, and subcellular localization.
 
-## Biological Context
-Multi‐omics analyses 揭示 the importance of chromoplast plastoglobules in 类胡萝卜素 积累 in citrus fruit
+## Source
+- 文献: [[multiomics-analyses-reveal-the-importance-of]]
+- DOI: 10.1111/tpj.16519
+- 主要物种: Citrus spp.
 
-## Supporting Evidence
-*Source: [[multiomics-analyses-reveal-the-importance-of]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

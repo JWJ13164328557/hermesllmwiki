@@ -1,15 +1,18 @@
-title: "Identification of the bHLH gene family in Dracaena cambodiana reveals candidate genes involved in flavonoid biosynthesis"
+---
+title: Identification of the bHLH gene family in Dracaena cambodiana reveals candidate genes involved in flavonoid biosynthesis
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1016/j.indcrop.2020.112407
-pmid: 
-confidence: medium
-aliases: ["柬埔寨龙虾bHLH基因家族的鉴定揭示了参与类黄酮生物合成的候选基因"]
+pmid: ''
+aliases: [柬埔寨龙虾bHLH基因家族的鉴定揭示了参与类黄酮生物合成的候选基因]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 鉴定 of the bHLH gene family in Dracaena cambodiana 揭示 candidate genes 参与的 in 类黄酮 生物合成
+---
 
-> Identification of the bHLH gene family in Dracaena cambodiana reveals candidate genes involved in flavonoid biosynthesis
+# Identification of the bHLH gene family in Dracaena cambodiana reveals candidate genes involved in flavonoid biosynthesis
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2020)

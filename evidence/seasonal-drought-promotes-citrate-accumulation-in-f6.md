@@ -1,34 +1,43 @@
 ---
-title: "Expressions of the target proteins in transgene calli line were conﬁrmed by Western blotting using a"
-created: 2026-08-25
+title: "The purified CsAN1 protein could directly bind to specifically labeled probes containing …"
+created: 2026-11-03
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"
 doi: "10.1111/nph.19671"
-species: [Solanum lycopersicum, Nicotiana tabacum, Citrus spp.]
-evidence_type: "expression/regulation"
+species: ["Citrus spp.", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Citrus spp."
+evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CsAN1"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Expressions of the target proteins in transgene calli line were conﬁrmed by Western blotting using a
+# The purified CsAN1 protein could directly bind to specifically labeled probes containing …
 
 ## Claim
-Expressions of the target proteins in transgene calli line were conﬁrmed by Western blotting using anti-YFP or anti-GFP antibody (Thermo Fisher Scientiﬁc, Wal- tham, MA, USA).
+The purified CsAN1 protein could directly bind to specifically labeled probes containing G-boxes.
 
-## Biological Context
-Seasonal drought 促进 citrate 积累 in citrus fruit 通过 the CsABF3‐activated CsAN1‐CsPH8 途径
+## Source
+- 文献: [[seasonal-drought-promotes-citrate-accumulation-in]]
+- DOI: 10.1111/nph.19671
+- 主要物种: Citrus spp.
 
-## Supporting Evidence
-*Source: [[seasonal-drought-promotes-citrate-accumulation-in]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CsAN1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

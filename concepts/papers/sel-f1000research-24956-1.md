@@ -1,14 +1,20 @@
-title: "gprofiler2 -- an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler"
-aliases: ["gprofiler2 -- an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler"]
+---
+title: gprofiler2 -- an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler
+aliases: ['gprofiler2 -- an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler']
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags: [methods-tools, papers]
 created: 2026-06-01
 status: imported
 source: selenium_batch
-journal: "F1000Research"
+journal: F1000Research
 year: 2020
-doi: "10.12688/f1000research.24956.1"
-authors: "Kolberg Liis, Raudvere Uku, Kuzmin Ivan, Vilo Jaak, Peterson Hedi"
+doi: 10.12688/f1000research.24956.1
+authors: Kolberg Liis, Raudvere Uku, Kuzmin Ivan, Vilo Jaak, Peterson Hedi
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # gprofiler2 -- an R package for gene list functional enrichment analysis and namespace conversion toolset g:Profiler
 
@@ -46,10 +52,10 @@ authors: "Kolberg Liis, Raudvere Uku, Kuzmin Ivan, Vilo Jaak, Peterson Hedi"
 1. The function takes a vector of gene identifiers as an input and returns a data frame that includes a column with target identifiers together with the names and descriptions for the input genes.
 ## 相关文献
 
-- [[Optimizing RNA-Seq Mapping with STAR.]] (Optimizing RNA-Seq Mapping with STAR.)
-- [[scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点]] (scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点)
-- [[条形码、UMI、SET FORMAT和BUStools。]] (条形码、UMI、SET FORMAT和BUStools。)
-- [[Correction: Visualizing the structure of RNA-seq expression data using grade of]] (Correction: Visualizing the structure of RNA-seq e)
-- [[The Biggest Challenges Facing Young Scientists]] (The Biggest Challenges Facing Young Scientists)
-- [[From Connections to Function: The Mouse Brain Connectome Atlas]] (From Connections to Function: The Mouse Brain Conn)
-- [[Reconstructing Complex Tissues from Single-Cell Analyses]] (Reconstructing Complex Tissues from Single-Cell An)
+- Optimizing RNA-Seq Mapping with STAR. (Optimizing RNA-Seq Mapping with STAR.)
+- scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点 (scAPAtrap ：从单细胞R中鉴定和定量替代性聚腺苷酸化位点)
+- 条形码、UMI、SET FORMAT和BUStools。 (条形码、UMI、SET FORMAT和BUStools。)
+- Correction: Visualizing the structure of RNA-seq expression data using grade of (Correction: Visualizing the structure of RNA-seq e)
+- The Biggest Challenges Facing Young Scientists (The Biggest Challenges Facing Young Scientists)
+- From Connections to Function: The Mouse Brain Connectome Atlas (From Connections to Function: The Mouse Brain Conn)
+- Reconstructing Complex Tissues from Single-Cell Analyses (Reconstructing Complex Tissues from Single-Cell An)

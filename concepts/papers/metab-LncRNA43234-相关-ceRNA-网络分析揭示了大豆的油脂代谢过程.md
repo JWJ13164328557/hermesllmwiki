@@ -3,11 +3,18 @@ title: "LncRNA43234 相关 ceRNA 网络分析揭示了大豆的油脂代谢过�
 journal: "unknown"
 year: ""
 type: paper
-tags: [development, metabolism]
+themes: []
+tags: [metabolism]
 species: [Glycine max, Gossypium]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

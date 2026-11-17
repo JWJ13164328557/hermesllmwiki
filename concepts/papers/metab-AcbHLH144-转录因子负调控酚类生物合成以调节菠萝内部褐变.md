@@ -1,12 +1,21 @@
-title: "AcbHLH144 转录因子负调控酚类生物合成以调节菠萝内部褐变"
-journal: "unknown"
-year: ""
+---
+title: AcbHLH144 转录因子负调控酚类生物合成以调节菠萝内部褐变
+journal: unknown
+year: ''
 type: paper
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

@@ -1,34 +1,43 @@
 ---
-title: "A novel regulatory module GmNFYA‐GmZF392‐GmZF351 plays a crucial role in the oil biosynthesis pathwa"
-created: 2026-09-16
+title: "A novel regulatory module GmNFYAGmZF392GmZF351 plays a crucial role in the oil …"
+created: 2026-11-01
 type: evidence
-tags: [papers, dpdf]
+themes: ["developmental-biology", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers", "dpdf"]
 source: "[[dpdf-10-1111-jipb]]"
 doi: "10.1111/jipb"
-species: [Populus, Camelina sativa, Oryza sativa]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [GmZF392, GmZF351, GmNFYA]
+species: ["Populus", "Camelina sativa", "Oryza sativa"]
+primary_species: "Glycine max"
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# A novel regulatory module GmNFYA‐GmZF392‐GmZF351 plays a crucial role in the oil biosynthesis pathwa
+# A novel regulatory module GmNFYAGmZF392GmZF351 plays a crucial role in the oil …
 
 ## Claim
-A novel regulatory module GmNFYA‐GmZF392‐GmZF351 plays a crucial role in the oil biosynthesis pathway in soybean (Figure 1B) (Lu et al., 2021a).
+A novel regulatory module GmNFYAGmZF392GmZF351 plays a crucial role in the oil biosynthesis pathway in soybean (Figure 1B) (Lu et al., 2021a).
 
-## Biological Context
-10.1111/jipb
+## Source
+- 文献: [[dpdf-10-1111-jipb]]
+- DOI: 10.1111/jipb
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[dpdf-10-1111-jipb]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,14 +1,25 @@
-title: "根系发育的分子和环境调控。"
+---
+title: 根系发育的分子和环境调控。
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags:
+- developmental-biology
+- papers
 doi: 10.1146/annurev-arplant-050718-100423
 confidence: medium
-aliases: ["根系发育的分子和环境调控。"]
+aliases:
+- cr-10-1146-annurev-arplant-050718-100423
+- 根系发育的分子和环境调控。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: Molecular and Environmental Regulation of Root Development
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 根系发育的分子和环境调控。
+---
+
+# Molecular and Environmental Regulation of Root Development
 
 
 
@@ -27,7 +38,7 @@ In order to optimally establish their root systems, plants are endowed with seve
 
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-anther-sc-atlas]]
 - [[arabidopsis-sam-scrna]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]

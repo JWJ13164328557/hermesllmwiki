@@ -3,11 +3,18 @@ title: "与紫色坚果相比，黄色坚果块茎中的高油积累与参与脂
 journal: "unknown"
 year: ""
 type: paper
-tags: [gene-regulation, metabolism]
+themes: []
+tags: [metabolism]
 species: [plant]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

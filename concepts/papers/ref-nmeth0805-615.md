@@ -1,14 +1,25 @@
-title: Cell type-specific expression profiling in plants via cell sorting of protoplast
+---
+title: Cell type-specific expression profiling in plants via cell sorting of protoplasts from fluorescent reporter lines
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- methods-tools
+- papers
 doi: 10.1038/nmeth0805-615
 confidence: medium
-aliases: ["Cell type-specific expression profiling in plants via cell sorting of protoplast"]
+aliases:
+- cr-10-1038-nmeth0805-615
+- Cell type-specific expression profiling in plants via cell sorting of protoplast
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Cell type-specific expression profiling in plants via cell sorting of protoplast
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Cell type-specific expression profiling in plants via cell sorting of protoplast
+---
+
+# Cell type-specific expression profiling in plants via cell sorting of protoplasts from fluorescent reporter lines
 
 
 
@@ -29,16 +40,16 @@ updated: "2026-05-29"
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays
 **方法**: proteomics, subcellular localization
 **来源**: DOI:10.1038/nmeth0805-615
 **来源类型**: PDF全文 (10.1038_nmeth0805-615.pdf)

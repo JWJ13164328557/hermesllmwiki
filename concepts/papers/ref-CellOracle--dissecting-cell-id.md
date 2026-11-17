@@ -1,12 +1,21 @@
-title: CellOracle: dissecting cell identity via network inference and in silico gene pe
+---
+title: 'CellOracle: dissecting cell identity via network inference and in silico gene pe'
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
-doi: 
+themes: []
+tags: [papers]
+doi: ""
 confidence: medium
-aliases: ["CellOracle ：通过网络推断和电脑基因pe解剖细胞身份"]
+aliases: [CellOracle ：通过网络推断和电脑基因pe解剖细胞身份]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # CellOracle: dissecting cell identity via network inference and in silico gene pe
 
@@ -23,7 +32,7 @@ updated: "2026-05-29"
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[ref-Visualizing-the-structure-of-R]]
 - [[ref-j-cell-2019-03-006]]
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-cadmium-sc-multiomics]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[b3-2C6WVBMI6uIO1-sVTqL4cQ]]

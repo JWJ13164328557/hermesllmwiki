@@ -1,14 +1,25 @@
-title: Differential expression analysis of multifactor RNA-Seq experiments with respect
+---
+title: Differential expression analysis of multifactor RNA-Seq experiments with respect to biological variation
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: []
+tags:
+- methods-tools
+- papers
 doi: 10.1093/nar/gks042
 confidence: medium
-aliases: ["Differential expression analysis of multifactor RNA-Seq experiments with respect"]
+aliases:
+- Differential expression analysis of multifactor RNA-Seq experiments with respect
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Differential expression analysis of multifactor RNA-Seq experiments with respect
+theme_status: excluded-nonplant
+theme_basis: purity:nonplant
+scope_status: nonplant
 
-# Differential expression analysis of multifactor RNA-Seq experiments with respect
+---
+
+# Differential expression analysis of multifactor RNA-Seq experiments with respect to biological variation
 
 
 
@@ -53,9 +64,9 @@ A flexible statistical framework is developed for the analysis of read counts fr
 
 - [[arabidopsis-root-sc-atlas-review]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]
-- [[b3-MweGEIei1VoObhk3boSJog]]
 - [[b3-peg1lwq2yaEXfDY9yfqzZg]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
+- [[b3-peg1lwq2yaEXfDY9yfqzZg]]
+- [[poplar-xylem-sc-spatial-gb]]
 - [[b3-wjlHUzpHYhRHyfMVnBq8Sg]]
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]]
 

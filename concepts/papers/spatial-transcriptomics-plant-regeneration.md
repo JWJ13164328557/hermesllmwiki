@@ -1,17 +1,26 @@
-title: "Single-nucleus transcriptomics reveal the morphogenesis and artemisinin biosynthesis in Artemisia annua glandular trichomes."
-pmid: "41028755"
-doi: "10.1016/j.crmeth.2023.100498"
-pmcid: "PMC10326379"
-journal: "Nature communications"
-year: "2025"
-authors: "Minghui Zhang, Mingyu Li, Yanyan An, Chang Liu, Qiaojuan Zhao"
+---
+title: Single-nucleus transcriptomics reveal the morphogenesis and artemisinin biosynthesis in Artemisia annua glandular trichomes.
+pmid: '41028755'
+doi: 10.1038/s41467-025-63770-y
+pmcid: PMC10326379
+journal: Nature communications
+year: '2025'
+authors: Minghui Zhang, Mingyu Li, Yanyan An, Chang Liu, Qiaojuan Zhao
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [scRNA-seq, snRNA-seq, spatial transcriptomics, RNA-seq, GWAS, GRN, pseudotime]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+aliases: [b4-3xWcn3gR1_rK4fPzDslSyw]
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Single-nucleus transcriptomics reveal the morphogenesis and artemisinin biosynthesis in Artemisia annua glandular trichomes.
 
 ## 1. Scientific Context
 
@@ -129,10 +138,10 @@ Artemisinin, the key antimalarial drug, is synthesized in Artemisia annua glandu
 - 物种: unknown
 - 关键基因: VM23, PLP1, CD34
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Artemisia annua, Artemisinins, Trichomes, Transcriptome, Gene Expression Regulation, Plant, Cell Nucleus, Morphogenesis, Gene Expression Profiling
 
@@ -155,3 +164,21 @@ Artemisinin, the key antimalarial drug, is synthesized in Artemisia annua glandu
 
 本文的核心贡献在于:
 1. 提供了unknowndevelopment的新
+
+## 深度提炼
+
+**主要物种**: Artemisia annua
+**物种**: Artemisia annua
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq, spatial transcriptomics, GWAS
+**来源**: DOI:10.1038/s41467-025-63770-y
+**来源类型**: XML全文 (10.1038_s41467-025-63770-y.txt)
+
+### 核心发现
+1. Gfap encodes a key intermediate filament protein in astrocytes that is involved in astrocytic reactivity during central nervous system (CNS) injuries or neurodegeneration, and we found that modules RGL-M4 and RGL-M6 contained hub isoforms of Gfap featuring alternative splicing, alternative transcription start site (TSS) usage, and alternative transcription end site (TES) usage ( G).
+2. Optionally, hdWGCNA can use alternative gene scoring methods such as or UCell or Seurat’s AddModuleScore function, and we show that these scores are correlated with MEs ( ).
+3. Through differential module eigengene (DME) analysis, we found shared and distinct module expression patterns across different cell types (; ), and we highlight specific modules from each cell type ( D and 1E).
+4. We found that eight of the 10 ODC modules were specifically expressed in ODC cells based on their MEs ( G; Wilcoxon rank-sum test Bonferroni-adjusted p <0.05).
+5. We report the memory upper bound in gigabytes measured throughout the duration of each function.
+6. We report a similar level of functional coherence in these co-expression networks to a previous study that evaluated co-expression networks derived from scRNA-seq data with different measures of gene-gene association.
+7. We tested whether there was a bias toward genes that were multifunctional based on the frequency that they appeared in the annotated set of GO terms, and we found that multifunctional genes did not bias the co-expression functional coherence results ( D).
+8. In this analysis, we performed 5-fold cross-validation, and we report the performance as root-mean-square error (RMSE) of the test set averaged over each fold ( E).

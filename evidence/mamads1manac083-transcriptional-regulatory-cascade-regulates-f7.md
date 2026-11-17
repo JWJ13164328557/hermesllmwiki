@@ -1,34 +1,43 @@
 ---
-title: "MaMADS1 directly binds to the MaNAC083 promoter To assess MaNAC083 upstream regulators, a Y1H screen"
-created: 2026-08-25
+title: "It is generally accepted that MADS TFs tend to bind to their target promoters’ CArG boxes …"
+created: 2026-11-03
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[mamads1manac083-transcriptional-regulatory-cascade-regulates]]"
 doi: "10.1093/hr/uhad177"
-species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
-evidence_type: "DNA binding/regulation"
+species: ["Musa spp.", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Musa spp."
+evidence_type: "protein interaction"
+claim_role: "background"
+non_finding_kind: "textbook"
 quality: "medium"
-genes: [MaNAC083, MaMADS1]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# MaMADS1 directly binds to the MaNAC083 promoter To assess MaNAC083 upstream regulators, a Y1H screen
+# It is generally accepted that MADS TFs tend to bind to their target promoters’ CArG boxes …
 
 ## Claim
-MaMADS1 directly binds to the MaNAC083 promoter To assess MaNAC083 upstream regulators, a Y1H screen was done utilizing the MaNAC083 promoter as bait.
+It is generally accepted that MADS TFs tend to bind to their target promoters’ CArG boxes [29].
 
-## Biological Context
-MaMADS1–MaNAC083 transcriptional regulatory cascade 调控 ethylene 生物合成 过程中 banana fruit ripening
+## Source
+- 文献: [[mamads1manac083-transcriptional-regulatory-cascade-regulates]]
+- DOI: 10.1093/hr/uhad177
+- 主要物种: Musa spp.
 
-## Supporting Evidence
-*Source: [[mamads1manac083-transcriptional-regulatory-cascade-regulates]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: background
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

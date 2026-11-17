@@ -1,12 +1,18 @@
+---
 title: Extracting multiple interacting root systems using X-ray microcomputed tomograph
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [methods-tools, stress-immunity]
+tags: [stress-immunity, papers]
 doi: 10.1111/tpj.13047
 confidence: medium
-aliases: ["Extracting multiple interacting root systems using X-ray microcomputed tomograph"]
+aliases: [Extracting multiple interacting root systems using X-ray microcomputed tomograph]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Extracting multiple interacting root systems using X-ray microcomputed tomograph
 
@@ -41,7 +47,7 @@ For correspondence (e‐mailstefan.mairhofer@nottingham.ac.uk). Received 2015 Ju
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Brassica napus, Triticum aestivum, Ficus carica
+**物种**: Oryza sativa, Zea mays, Brassica napus, Triticum aestivum
 **方法**: molecular biology / biochemistry
 **来源**: DOI:10.1111/tpj.13047
 **来源类型**: PDF全文 (10.1111_tpj.13047.pdf)
@@ -60,11 +66,11 @@ For correspondence (e‐mailstefan.mairhofer@nottingham.ac.uk). Received 2015 Ju
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

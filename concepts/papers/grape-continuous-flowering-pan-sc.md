@@ -1,16 +1,26 @@
-title: Pangenomics and single-cell transcriptomics uncover the genetic basis of continu
+---
+
+title: Pangenomics and single-cell transcriptomics uncover the genetic basis of continuous bearing trait in grapevine
 created: 2026-05-28
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags:
+- genomics-evolution
+- papers
 doi: 10.1093/hr/uhaf228
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["泛基因组学和单细胞转录组学揭示了连续性的遗传基础"]
-aliases_extra: ["Pangenomics and single-cell transcriptomics uncover the genetic basis of continu"]
+aliases_extra:
+- "泛基因组学和单细胞转录组学揭示了连续性的遗传基础"
+- "Pangenomics and single-cell transcriptomics uncover the genetic basis of continu"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Pangenomics and single-cell transcriptomics uncover the genetic basis of continu
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Pangenomics and single-cell transcriptomics uncover the genetic basis of continu
+---
+
+# Pangenomics and single-cell transcriptomics uncover the genetic basis of continuous bearing trait in grapevine
 
 
 
@@ -33,7 +43,7 @@ Grapevine (<i>Vitis vinifera</i>) is economically important for fresh consumptio
 - [[ref-The-maize-single‐nucleus-trans]]
 - [[b3-Oe9xghJ07Ub3C93cYl12oQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-ys8H9kH4cFVbPEuMHCg4nA]]
 - [[b6-O0Kt-jSykCafIUhbNCEB3g]]
 

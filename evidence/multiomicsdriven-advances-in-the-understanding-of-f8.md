@@ -1,34 +1,43 @@
 ---
-title: "For example, proteome-wide iTRAQ analysis has been employed in peanut and maize to reveal the dynami"
-created: 2026-08-25
+title: "Overexpression of the GmDGAT1 variant, which was created by amino acid substitutions …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[multiomicsdriven-advances-in-the-understanding-of]]"
 doi: "10.1111/tpj.16545"
-species: [Arabidopsis thaliana, Zea mays, Glycine max]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Zea mays", "Glycine max", "Brassica napus"]
+primary_species: "Zea mays"
+evidence_type: "genetic perturbation"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "high"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["GmDGAT1"]
 compounds: []
+evidence_type_confidence: "high"
+evidence_type_prior: ""
+
 ---
 
-# For example, proteome-wide iTRAQ analysis has been employed in peanut and maize to reveal the dynami
+# Overexpression of the GmDGAT1 variant, which was created by amino acid substitutions …
 
 ## Claim
-For example, proteome-wide iTRAQ analysis has been employed in peanut and maize to reveal the dynamic protein proﬁles of the whole seed at different developmen- tal stages, which provides new insights into the seed regu- latory network (Liu et al., 2018; Wang, Ma, et al., 2016; Yu et al., 2016; Zhang, Dong, et al., 2017).
+Overexpression of the GmDGAT1 variant, which was created by amino acid substitutions, increased the SOC in soybean by 16%.
 
-## Biological Context
-Multi‐omics‐driven advances in the understanding of triacylglycerol 生物合成 in oil seeds
+## Source
+- 文献: [[multiomicsdriven-advances-in-the-understanding-of]]
+- DOI: 10.1111/tpj.16545
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[multiomicsdriven-advances-in-the-understanding-of]]*
+## 标注信息
+- 证据类型: genetic perturbation
+- 论断角色: finding
+- 论断证据完备度: high（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: GmDGAT1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

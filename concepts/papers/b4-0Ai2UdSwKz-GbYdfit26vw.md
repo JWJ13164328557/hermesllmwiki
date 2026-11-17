@@ -1,17 +1,25 @@
-title: "Parental Specific Expression by scRNA-Seq Reveals HaWRKY40 Contributing to Heterosis of Sunflower."
-pmid: "41170640"
-doi: "10.1111/pbi.70266"
-pmcid: "PMC11182584"
-journal: "Plant biotechnology journal"
-year: "2025"
-authors: "Yuliang Han, Juncheng Zhang, Maohong Cai, Siqi Zhang, Wenting Dai"
+---
+title: Parental Specific Expression by scRNA-Seq Reveals HaWRKY40 Contributing to Heterosis of Sunflower.
+pmid: '41170640'
+doi: 10.1111/pbi.70266
+pmcid: PMC11182584
+journal: Plant biotechnology journal
+year: '2025'
+authors: Yuliang Han, Juncheng Zhang, Maohong Cai, Siqi Zhang, Wenting Dai
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 species: [Arabidopsis thaliana, Oryza sativa (rice)]
 methods: [scRNA-seq, RNA-seq, phylogenetics, pseudotime]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Parental Specific Expression by scRNA-Seq Reveals HaWRKY40 Contributing to Heterosis of Sunflower.
 
 ## 1. Scientific Context
 
@@ -126,10 +134,10 @@ updated: 2026-05-30
 - 物种: Arabidopsis thaliana, Oryza sativa (rice)
 - 关键基因: AHL17, NAC2, WRKY31, ERF98, CP24, PEN2, WRKY30, LTPG31
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 
@@ -149,3 +157,20 @@ updated: 2026-05-30
 **证据质量**: 中等 (需人工评级)
 
 ## 8. Researc
+
+## 深度提炼
+
+**主要物种**: Helianthus annuus
+**物种**: Helianthus annuus, Oryza sativa, Arabidopsis thaliana, Nicotiana tabacum, Zea mays
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), overexpression
+**来源**: DOI:10.1111/pbi.70266
+**来源类型**: PDF全文 (10-1111_pbi-70266.pdf)
+
+### 核心发现
+1. Collectively, these findings suggest that metabolic reprogramming critically influences developmental trajectory establishment, potentially amplifying the plasticity of cell differentiation processes.
+2. In summary, this study establishes the first comprehensive single-­ cell transcriptomic atlas of sunflower, providing unprecedented resolution of heterosis mechanisms at cellular and molecular levels.
+3. Collectively, these findings supported a model where heterozygosity maintenance in ribosomal and metabolic genes enhances functional diversity, potentially driving hybrid vigour through proteomic and energetic optimization.
+4. Notably, this cellular redistribution was particularly noteworthy given mesophyll cells' central role in photosynthesis (Zhang and Ambrose 2022), suggesting that 2399F may exhibit enhanced photosynthetic efficiency and metabolic activity.
+5. Notably, 1571 genes demonstrated strong heterozygosity maintenance during cell replication and division, rather than becoming homozygous for either the paternal or maternal allele.
+6. Strikingly, six key transcription factors (ATHB-­7, NAC081, WRKY40, AZF3, C2H2-1, and ZAT7) emerged as HHGs, suggesting their heterozygous state may regulate broader metabolic networks (Figure S9F).
+7. Notably, the heterozygous dual overexpression line consistently outperformed both homozygous transgenics, demonstrating a clear heterozygote advantage (Figure 1n–p; Figure S10C).

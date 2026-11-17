@@ -1,15 +1,22 @@
-title: "Comparative transcriptome profiling reveals differentially expressed genes involved in flavonoid biosynthesis between bi"
+---
+title: Comparative transcriptome profiling reveals differentially expressed genes involved in flavonoid biosynthesis between biennial and triennial Sophora flavescens
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2020.113217
-pmid: 
-confidence: medium
-aliases: ["比较转录组分析揭示两年期和三年期苦参中参与类黄酮生物合成的差异表达基因"]
+pmid: ''
+aliases:
+- 比较转录组分析揭示两年期和三年期苦参中参与类黄酮生物合成的差异表达基因
+title_fixed_from: Comparative transcriptome profiling reveals differentially expressed genes invol
+theme_status: mapped
+theme_basis: tag
 
-# 比较 transcriptome 分析 揭示 differentially expressed genes 参与的 in 类黄酮 生物合成 between biennial and triennial Sophora flavescens
+---
 
-> Comparative transcriptome profiling reveals differentially expressed genes involved in flavonoid biosynthesis between biennial and triennial Sophora flavescens
+# Comparative transcriptome profiling reveals differentially expressed genes involved in flavonoid biosynthesis between biennial and triennial Sophora flavescens
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

@@ -1,34 +1,43 @@
 ---
-title: "When the reporter construct was co-transfected with the effector plasmid, we found that one of the s"
-created: 2026-09-16
+title: "Rockii ‘Shu Sheng Peng Mo’ and our qRT–PCR analysis, we found that the differences in …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-combination-of-dna-methylation-and]]"
 doi: "10.1093/hr/uhad100"
-species: [Zea mays, Malus domestica, Nicotiana tabacum]
-evidence_type: "DNA binding/regulation"
+species: ["Zea mays", "Malus domestica", "Nicotiana tabacum"]
+primary_species: "Paeonia spp."
+evidence_type: "phenotypic/association"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [PrMYBs, PrF3H]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["PrANS", "PrDFR"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# When the reporter construct was co-transfected with the effector plasmid, we found that one of the s
+# Rockii ‘Shu Sheng Peng Mo’ and our qRT–PCR analysis, we found that the differences in …
 
 ## Claim
-When the reporter construct was co-transfected with the effector plasmid, we found that one of the six PrMYBs activated the reporter gene via acting on the promoter of PrF3H (Supplementary Data Fig.
+Rockii ‘Shu Sheng Peng Mo’ and our qRT–PCR analysis, we found that the differences in pigmentation between blotch and non-blotch areas may be closely correlated with the blotch-specific expression of PrDFR (TRINITY_DN207536_c0_g1) and PrANS (TRINITY_DN219185_c0_g1).
 
-## Biological Context
-The combination of DNA methylation and positive 调控 of 花青素 生物合成 by MYB and bHLH transcription factors contributes to the petal blotch formation in Xibei tree peony
+## Source
+- 文献: [[the-combination-of-dna-methylation-and]]
+- DOI: 10.1093/hr/uhad100
+- 主要物种: Paeonia spp.
 
-## Supporting Evidence
-*Source: [[the-combination-of-dna-methylation-and]]*
+## 标注信息
+- 证据类型: phenotypic/association
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: PrANS, PrDFR
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

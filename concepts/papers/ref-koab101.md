@@ -1,17 +1,25 @@
-title: "A single-cell view of the transcriptome during lateral root initiation in Arabidopsis thaliana."
-pmid: "33822225"
-doi: "10.1101/614636v1"
-pmcid: "PMC1693930"
-journal: "The Plant cell"
-year: "2021"
-authors: "Hardik P Gala, Amy Lanctot, Ken Jean-Baptiste, Sarah Guiziou, Jonah C Chu"
+---
+title: A single-cell view of the transcriptome during lateral root initiation in Arabidopsis thaliana.
+pmid: '33822225'
+doi: 10.1093/plcell/koab101
+pmcid: PMC1693930
+journal: The Plant cell
+year: '2021'
+authors: Hardik P Gala, Amy Lanctot, Ken Jean-Baptiste, Sarah Guiziou, Jonah C Chu
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [developmental-biology, papers]
 species: [Arabidopsis thaliana]
 methods: [not detected]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# A single-cell view of the transcriptome during lateral root initiation in Arabidopsis thaliana.
 
 ## 1. Scientific Context
 
@@ -115,10 +123,10 @@ Root architecture is a major determinant of plant fitness and is under constant 
 - 物种: Arabidopsis thaliana
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Arabidopsis, Arabidopsis Proteins, Gene Expression Regulation, Plant, Plant Roots, Transcriptome
 

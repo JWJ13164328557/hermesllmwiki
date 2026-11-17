@@ -1,19 +1,23 @@
-title: Leaf cell-specific and single-cell transcriptional profiling reveals a role for 
+---
+
+title: Leaf cell-specific and single-cell transcriptional profiling reveals a role for the palisade layer in UV light protection
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags:
+- metabolism-np
+- papers
 doi: 10.1093/plcell/koac167
 confidence: medium
-aliases: ["Leaf cell-specific 和 single-cell transcriptional 分析 揭示 作用 for"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 39 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 23 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["叶细胞特异性和单细胞转录谱分析揭示了"]
-aliases_extra: ["Leaf cell-specific and single-cell transcriptional profiling reveals a role for"]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Leaf cell-specific and single-cell transcriptional profiling reveals a role for
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Leaf cell-specific and single-cell transcriptional profiling reveals a role for
+---
+
+# Leaf cell-specific and single-cell transcriptional profiling reveals a role for the palisade layer in UV light protection
 
 
 
@@ -34,11 +38,11 @@ Like other complex multicellular organisms, plants are composed of different cel
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

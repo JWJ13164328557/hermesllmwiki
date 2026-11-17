@@ -1,15 +1,23 @@
-title: "Transcriptome analysis reveals the metabolisms of starch degradation and ethanol fermentation involved in alcoholic off-"
+---
+title: Transcriptome analysis reveals the metabolisms of starch degradation and ethanol fermentation involved in alcoholic off-flavour development in kiwifruit during ambient storage
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.postharvbio.2021.111621
-pmid: 
-confidence: medium
-aliases: ["Transcriptome 分析 揭示 the metabolisms of 淀粉 degradation and ethanol fermentation 参与的 in alcoholic off-flavour 发育 in kiwifruit 过程中 ambient storage"]
+pmid: ''
+aliases:
+- Transcriptome 分析 揭示 the metabolisms of 淀粉 degradation and ethanol fermentation 参与的 in alcoholic off-flavour 发育 in kiwifruit 过程中 ambient storage
+title_fixed_from: Transcriptome analysis reveals the metabolisms of starch degradation and ethanol
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Transcriptome 分析 揭示 the metabolisms of 淀粉 degradation and ethanol fermentation 参与的 in alcoholic off-flavour 发育 in kiwifruit 过程中 ambient storage
+species_status: unverified
+---
 
-> Transcriptome analysis reveals the metabolisms of starch degradation and ethanol fermentation involved in alcoholic off-flavour development in kiwifruit during ambient storage
+# Transcriptome analysis reveals the metabolisms of starch degradation and ethanol fermentation involved in alcoholic off-flavour development in kiwifruit during ambient storage
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2021)

@@ -1,15 +1,18 @@
-title: "Transcriptome-wide analysis of AP2/ERF transcription factors involved in regulating Taxol biosynthesis in Taxus × media"
+---
+title: Transcriptome-wide analysis of AP2/ERF transcription factors involved in regulating Taxol biosynthesis in Taxus × media
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags: [genomics-evolution, papers]
 doi: 10.1016/j.indcrop.2021.113972
-pmid: 
-confidence: medium
-aliases: ["Transcriptome-wide 分析 of AP2/ERF transcription factors 参与的 in regulating Taxol 生物合成 in Taxus × media"]
+pmid: ''
+aliases: [Transcriptome-wide 分析 of AP2/ERF transcription factors 参与的 in regulating Taxol 生物合成 in Taxus × media]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Transcriptome-wide 分析 of AP2/ERF transcription factors 参与的 in regulating Taxol 生物合成 in Taxus × media
+---
 
-> Transcriptome-wide analysis of AP2/ERF transcription factors involved in regulating Taxol biosynthesis in Taxus × media
+# Transcriptome-wide analysis of AP2/ERF transcription factors involved in regulating Taxol biosynthesis in Taxus × media
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

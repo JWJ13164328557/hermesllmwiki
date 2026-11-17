@@ -1,12 +1,21 @@
+---
 title: 植物细胞周期调控
 created: 2026-05-28
 updated: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [papers]
 sources: [raw/articles/marchantia-cell-cycle-scrna-plantcell.md]
 confidence: medium
-aliases: ["植物细胞周期调控"]
+aliases: [植物细胞周期调控]
 status: draft
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # 植物细胞周期调控
 

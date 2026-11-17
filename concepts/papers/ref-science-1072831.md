@@ -1,12 +1,18 @@
-title: Plant development: regulation by protein degradation.
+---
+title: 'Plant development: regulation by protein degradation.'
 created: 2026-05-28
 type: concept
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags: [hormone-signaling, papers]
 doi: 10.1126/science.1072831
 confidence: medium
-aliases: ["Plant development: regulation by protein degradation."]
+aliases: [cr-10-1126-science-1072831, 'Plant development: regulation by protein degradation.']
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Plant development: regulation by protein degradation.
 
@@ -29,16 +35,16 @@ Many aspects of eukaryotic development depend on regulated protein degradation b
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Ficus carica
+**物种**: Oryza sativa
 **方法**: Y2H, overexpression
 **来源**: DOI:10.1126/science.1072831
 **来源类型**: PDF全文 (10.1126_science.1072831.pdf)
@@ -51,4 +57,4 @@ Many aspects of eukaryotic development depend on regulated protein degradation b
 5. Experiments showing that COP1 interacts with HY5 through the WD-40 repeats both in vitro and in vivo confirm that COP1 is a compo- nent of an E3 required for HY5 degradation (15).
 6. In a recent report (16), a COP1-interacting protein called CIP8, itself a RING-finger protein, was shown to ubiquitinate HY5 in vitro.
 7. Phytochrome may also regulate COP1 function because the COOH terminus of phytochrome B (PhyB) interacts with COP1 in a yeast two-hybrid test (21).
-8. COP10 is part of a 300-kD nuclear complex, and a truncated form of COP10 interacts with COP1 in a two-hybrid test.
+8. COP10 is part of a 300-kD nuclear complex, and a truncated form of COP10 interacts with COP1 in a two-hybrid test.

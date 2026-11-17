@@ -1,12 +1,22 @@
-title: SCENIC: single-cell regulatory network inference and clustering.
+---
+title: 'SCENIC: single-cell regulatory network inference and clustering.'
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1038/nmeth.4463
 confidence: medium
-aliases: ["SCENIC: single-cell regulatory network inference and clustering."]
+aliases: ['SCENIC: single-cell regulatory network inference and clustering.']
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: out-of-scope
+theme_basis: purity:suspect-no-plant-cue
+scope_status: excluded-nonplant
+excluded_reason: "nonplant|SCENIC: single-cell regulatory network inference and clustering."
+---
+> [!warning] 已排除（非植物研究对象）
+> 本文研究对象为动物/临床/工业体系，其生物学断言不得进入植物学主题。
+> 保留本页仅为追溯 DOI 与排除理由；证据对象已归档。
 
 # SCENIC: single-cell regulatory network inference and clustering.
 
@@ -47,11 +57,11 @@ SAe and SAi conceived the study; SAi implemented SCENIC and related packages wit
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

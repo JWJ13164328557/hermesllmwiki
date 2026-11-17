@@ -1,15 +1,26 @@
-title: Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence i
+---
+title: Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence in chrysanthemum
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1093/plcell/koag095
 confidence: medium
-aliases: ["茉莉酸在叶片衰老期间诱导海绵状叶肉细胞死亡i"]
-aliases_extra: ["Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence i"]
+aliases:
+- 茉莉酸在叶片衰老期间诱导海绵状叶肉细胞死亡i
+aliases_extra:
+- Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence i
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence i
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence i
+---
+
+# Spongy mesophyll cell death is induced by jasmonic acid during leaf senescence in chrysanthemum
 
 
 
@@ -32,7 +43,7 @@ Leaf senescence impacts crop yield, quality, and post-harvest performance; for e
 - [[b3-Oe9xghJ07Ub3C93cYl12oQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[cotton-fiber-development-molecular-regulation]]
 - [[fruit-senescence-tap4-sc-spatial]]
 

@@ -1,34 +1,43 @@
 ---
-title: "All genes within LD decay centered on the signiﬁcantly associated SNPs were extracted as potential c"
-created: 2026-09-16
+title: "All genes within LD decay centered on the significantly associated SNPs were extracted as …"
+created: 2026-11-01
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-j-plantsci-2019-110380]]"
 doi: "10.1016/j.plantsci.2019.110380"
-species: [Oryza sativa, Zea mays, Triticum aestivum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Oryza sativa", "Zea mays", "Triticum aestivum"]
+primary_species: "Zea mays"
+evidence_type: "descriptive/observational"
+claim_role: "method"
+non_finding_kind: "method"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# All genes within LD decay centered on the signiﬁcantly associated SNPs were extracted as potential c
+# All genes within LD decay centered on the significantly associated SNPs were extracted as …
 
 ## Claim
-All genes within LD decay centered on the signiﬁcantly associated SNPs were extracted as potential candidate genes underlying the target trait.
+All genes within LD decay centered on the significantly associated SNPs were extracted as potential candidate genes underlying the target trait.
 
-## Biological Context
-Transcriptome and GWAS analyses reveal candidate gene for seminal root length of
+## Source
+- 文献: [[ref-j-plantsci-2019-110380]]
+- DOI: 10.1016/j.plantsci.2019.110380
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[ref-j-plantsci-2019-110380]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: method
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

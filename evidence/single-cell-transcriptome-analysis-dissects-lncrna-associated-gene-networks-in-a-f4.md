@@ -1,34 +1,43 @@
 ---
-title: "168 Taken together, the findings from the deconvolution analysis suggest that previously recognized "
-created: 2026-08-25
+title: "Therefore, cell identity and function can be partially depicted by the expression of TFs …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]"
 doi: "10.1016/j.xplc.2023.100717"
-species: [Arabidopsis thaliana]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis thaliana", "Zea mays"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: ""
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# 168 Taken together, the findings from the deconvolution analysis suggest that previously recognized 
+# Therefore, cell identity and function can be partially depicted by the expression of TFs …
 
 ## Claim
-168 Taken together, the findings from the deconvolution analysis suggest that previously recognized tissue- 169 specific expression of lncRNAs is partially attributed to their cell-type specific expression.
+Therefore, cell identity and function can be partially depicted by the expression of TFs and their target genes in a scenario where they form co-expression GRNs.
 
-## Biological Context
-Single-cell transcriptome analysis dissects lncRNA-associated gene networks in Arabidopsis
+## Source
+- 文献: [[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]
+- DOI: 10.1016/j.xplc.2023.100717
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[single-cell-transcriptome-analysis-dissects-lncrna-associated-gene-networks-in-a]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

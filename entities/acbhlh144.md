@@ -9,7 +9,7 @@ tags: [metabolism, gene]
 # AcbHLH144
 
 ## Evidence Summary
-**Total evidence objects**: 5
+**Total evidence objects**: 4
 
 ## Evidence Table
 | Evidence | Finding |
@@ -18,7 +18,6 @@ tags: [metabolism, gene]
 | [[acbhlh144-transcription-factor-negatively-regulates-phenolic-f4]] | Overexpression of AcbHLH144 decreased phenolic accumulation in pineapple To chec |
 | [[acbhlh144-transcription-factor-negatively-regulates-phenolic-f5]] | Overexpression of AcbHLH144 decreased phenolic accumulation in Arabidopsis Arabi |
 | [[acbhlh144-transcription-factor-negatively-regulates-phenolic-f6]] | AcbHLH144 directly regulates expression of Ac4CL5 To further characterize the ro |
-| [[acbhlh144-transcription-factor-negatively-regulates-phenolic-f7]] | AcC4H, Ac4CL5, and AcCSE may be the target genes of AcbHLH144, as they showed ex |
 
 ## Functional Roles
 _（待从证据深入提炼）_

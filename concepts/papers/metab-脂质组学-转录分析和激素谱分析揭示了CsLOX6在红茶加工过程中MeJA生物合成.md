@@ -1,12 +1,21 @@
-title: "脂质组学、转录分析和激素谱分析揭示了CsLOX6在红茶加工过程中MeJA生物合成中的作用"
-journal: "unknown"
-year: ""
+---
+title: 脂质组学、转录分析和激素谱分析揭示了CsLOX6在红茶加工过程中MeJA生物合成中的作用
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

@@ -11,8 +11,8 @@ related_papers:
   - "[[plant-cell-cycle-control]]"
   - "[[cell-cycle-scrna-seq]]"
 related_evidence:
-  - "[[snRNA-seq-valid-plant-transcriptomics]]"
-  - "[[snRNA-seq-additional-plant-cell-subtypes]]"
+  - "snRNA-seq-valid-plant-transcriptomics"
+  - "snRNA-seq-additional-plant-cell-subtypes"
 related_synthesis: []
 ---
 
@@ -212,4 +212,4 @@ Arabidopsis has multiple A-type cyclins (CYCA1, CYCA2, CYCA3 families) with func
 
 ### Related Entities
 - [[marchantia-polymorpha]] — Host species
-- Evidence: [[snRNA-seq-valid-plant-transcriptomics]]
+- Evidence: snRNA-seq-valid-plant-transcriptomics

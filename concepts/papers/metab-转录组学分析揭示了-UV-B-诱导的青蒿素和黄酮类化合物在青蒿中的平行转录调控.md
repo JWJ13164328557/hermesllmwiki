@@ -1,12 +1,21 @@
-title: "转录组学分析揭示了 UV-B 诱导的青蒿素和黄酮类化合物在青蒿中的平行转录调控"
-journal: "unknown"
-year: ""
+---
+title: 转录组学分析揭示了 UV-B 诱导的青蒿素和黄酮类化合物在青蒿中的平行转录调控
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

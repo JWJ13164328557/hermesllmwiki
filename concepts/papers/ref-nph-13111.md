@@ -1,12 +1,18 @@
+---
 title: Are above- and below-ground phenology in sync?
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags: [stress-immunity, papers]
 doi: 10.1111/nph.13111
 confidence: medium
-aliases: ["Are above- and below-ground phenology in sync?"]
-status: draft
-updated: "2026-05-29"
+aliases: ['Are above- and below-ground phenology in sync?']
+status: pollution
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Are above- and below-ground phenology in sync?
 
@@ -29,20 +35,20 @@ Globally, root production accounts for 33-67% of terrestrial net primary product
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Citrus spp., Pinus spp., Picea spp., Quercus spp., Ficus carica
+**物种**: Pinus spp., Picea spp., Quercus spp.
 **方法**: molecular biology / biochemistry
 **来源**: DOI:10.1111/nph.13111
 **来源类型**: PDF全文 (10.1111_nph.13111.pdf)
 
 ### 核心发现
-1. Synthesizing 87 observations of whole-plant phenol- ogy from 40 studies, we found that, on average, root growth occurs 25  8 d after shoot growth but that the offset between the peak in root and shoot growth varies > 200 d across biomes (boreal, temperate, Mediterranean, and subtropical).
+1. Synthesizing 87 observations of whole-plant phenol- ogy from 40 studies, we found that, on average, root growth occurs 25  8 d after shoot growth but that the offset between the peak in root and shoot growth varies > 200 d across biomes (boreal, temperate, Mediterranean, and subtropical).
 2. Whether this is common is not well known, but at least these data suggest coordination of C allocation across the growing season, which may be mediated by both above- and below-ground plant organs.

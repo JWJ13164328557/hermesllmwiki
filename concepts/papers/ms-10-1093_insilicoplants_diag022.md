@@ -1,14 +1,20 @@
 ---
-title: Secondary Growth and Exodermal Barriers Shape Local Root Hydraulics: Modeling In
+title: 'Secondary growth and exodermal barriers shape local root hydraulics: modelling insights in tomato'
 created: 2026-08-23
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.1093/insilicoplants/diag022
 confidence: moderate
 source: openalex
+title_fixed_from: 'Secondary Growth and Exodermal Barriers Shape Local Root Hydraulics: Modeling In'
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Secondary Growth and Exodermal Barriers Shape Local Root Hydraulics: Modeling Insights in Tomato
+# Secondary growth and exodermal barriers shape local root hydraulics: modelling insights in tomatosights in Tomato
 
 ## 论文信息
 - **期刊**: in silico Plants (2026)

@@ -1,12 +1,21 @@
-title: "MdbZIP44-MdCPRF2-like-Mdα-GP2 在氮供给条件下调控苹果的淀粉和糖代谢"
-journal: "unknown"
-year: ""
+---
+title: MdbZIP44-MdCPRF2-like-Mdα-GP2 在氮供给条件下调控苹果的淀粉和糖代谢
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: []
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

@@ -1,14 +1,24 @@
-title: Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regul
+---
+title: Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regulate meristem transitions during wheat spike development
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags:
+- developmental-biology
+- papers
 doi: 10.1093/plcell/koab243
 confidence: medium
-aliases: ["Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regul"]
+aliases:
+- Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regul
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regul
+theme_status: mapped
+theme_basis: tag
 
-# Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regul
+---
+
+# Interactions between SQUAMOSA and SHORT VEGETATIVE PHASE MADS-box proteins regulate meristem transitions during wheat spike development
 
 
 
@@ -41,7 +51,7 @@ Author for correspondence:jmdebernardi@ucdavis.edu(J.M.D),jdubcovsky@ucdavis.edu
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Triticum aestivum, Citrus spp.
+**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Triticum aestivum
 **方法**: qRT-PCR validation, Y2H, BiFC, subcellular localization
 **来源**: DOI:10.1093/plcell/koab243
 **来源类型**: PDF全文 (10.1093_plcell_koab243.pdf)
@@ -59,11 +69,11 @@ Author for correspondence:jmdebernardi@ucdavis.edu(J.M.D),jdubcovsky@ucdavis.edu
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

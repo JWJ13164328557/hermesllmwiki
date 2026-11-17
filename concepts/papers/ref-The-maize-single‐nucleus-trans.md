@@ -1,14 +1,24 @@
-title: "玉米单核转录组全面描述了控制moveme的信号网络"
+---
+title: 玉米单核转录组全面描述了控制moveme的信号网络
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1093/plcell/koac047
 confidence: medium
-aliases: ["玉米单核转录组全面描述了控制moveme的信号网络"]
+aliases:
+- 玉米单核转录组全面描述了控制moveme的信号网络
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: The maize single-nucleus transcriptome comprehensively describes signaling networks governing movement and development of grass stomata
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 玉米单核转录组全面描述了控制moveme的信号网络
+---
+
+# The maize single-nucleus transcriptome comprehensively describes signaling networks governing movement and development of grass stomata
 
 
 

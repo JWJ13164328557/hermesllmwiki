@@ -1,15 +1,21 @@
-title: "Quantitative trait loci analysis of seed‐specialized metabolites reveals seed‐specific flavonols and differential regula"
+---
+
+title: Quantitative trait loci analysis of seed-specialized metabolites reveals seed-specific flavonols and differential regulation of glycoalkaloid content in tomato
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/tpj.14879
-pmid: 
-confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 06 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+pmid: ''
+title_fixed_from: Quantitative trait loci analysis of seed‐specialized metabolites reveals seed‐sp
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Quantitative trait loci 分析 of seed‐specialized metabolites 揭示 seed‐specific flavonols and differential 调控 of glycoalkaloid content in tomato
+---
 
-> Quantitative trait loci analysis of seed‐specialized metabolites reveals seed‐specific flavonols and differential regulation of glycoalkaloid content in tomato
+# Quantitative trait loci analysis of seed‐specialized metabolites reveals seed‐specific flavonols and differential regulation of glycoalkaloid content in tomato
 
 ## 论文信息
 - **期刊**: The Plant Journal (2020)
@@ -25,7 +31,15 @@ SUMMARYGiven the potential health benefits (and adverse effects), of polyphenoli
 
 ## 深度提炼
 
+**主要物种**: Solanum lycopersicum
+**物种**: Solanum lycopersicum, Nicotiana tabacum, Oryza sativa, Solanum tuberosum, Zea mays
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), genomics, overexpression, phylogenetics, QTL mapping
+**来源**: DOI:10.1111/tpj.14879
+**来源类型**: PDF全文 (45-种子特异性代谢物的定量性状基因座分析揭示了番茄中种子特异性黄酮醇和配糖生物碱含量的差异调节.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Taken together, these results suggest that the wild-type alleles of one or both candidate genes have elevated expression, resulting in accumulation of ﬂavonoid triglycosides in S.
+2. Furthermore, we report seed-speciﬁc specialized metabolites and focus on two mQTL for ﬂavonol on chromosome 12, and glycoalkaloid on chromosome 7.
+3. When taken together, we annotated these peaks putatively as quercetin-3-O-sophoroside-O-rhamnoside (compound A), isorhamnetin-3-O-sophoroside-O-rhamnoside (B) and kaempferol-3-O-sophoroside-O-rhamnoside (C).
+4. These results suggest that Solyc12g096870 and Solyc12g098600 act as either 5GT or 7GT in tomato seeds.
+5. Interestingly, however, two UGTs, Solyc12g096870 and Solyc12g098600, were highly expressed and showed six- and 150-fold higher expression in S.

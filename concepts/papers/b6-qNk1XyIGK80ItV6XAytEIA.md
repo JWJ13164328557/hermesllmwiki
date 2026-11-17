@@ -1,12 +1,21 @@
-title: "深圳大学刘宏涛团队Nature Plants最新综述：寻光启暗——探索光受体在有光与无光条件下的多维功能"
-journal: "unknown"
-year: ""
+---
+title: 深圳大学刘宏涛团队Nature Plants最新综述：寻光启暗——探索光受体在有光与无光条件下的多维功能
+journal: unknown
+year: ''
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

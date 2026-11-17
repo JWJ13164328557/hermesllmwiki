@@ -1,34 +1,43 @@
 ---
-title: "CRISPR-Cas9 mutagenesis and plant transformation For the CRISPR-Cas9 construction targeting the SmCY"
-created: 2026-08-25
+title: "Mutation validation and complementation assay Target regions were amplified by PCR and …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[salvia-tanshinone-sc-spatial]]"
 doi: "10.1111/nph.71285"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Populus spp.]
-evidence_type: "genetic perturbation"
-quality: "high"
-genes: [SmCYP76AK5]
+species: ["Salvia miltiorrhiza", "Arabidopsis thaliana", "Camellia sinensis"]
+primary_species: "Salvia miltiorrhiza"
+evidence_type: "descriptive/observational"
+claim_role: "method"
+non_finding_kind: "method"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# CRISPR-Cas9 mutagenesis and plant transformation For the CRISPR-Cas9 construction targeting the SmCY
+# Mutation validation and complementation assay Target regions were amplified by PCR and …
 
 ## Claim
-CRISPR-Cas9 mutagenesis and plant transformation For the CRISPR-Cas9 construction targeting the SmCYP76AK5 coding region, 2 gRNA target sites were designed by CRISPOR (http://crispor.gi.ucsc.edu).
+Mutation validation and complementation assay Target regions were amplified by PCR and sequenced to confirm deletions.
 
-## Biological Context
-Cross-stage single-cell and spatial metabolome analyses reveal periderm speciali
+## Source
+- 文献: [[salvia-tanshinone-sc-spatial]]
+- DOI: 10.1111/nph.71285
+- 主要物种: Salvia miltiorrhiza
 
-## Supporting Evidence
-*Source: [[salvia-tanshinone-sc-spatial]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: method
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: genetic perturbation
-**Level**: high
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

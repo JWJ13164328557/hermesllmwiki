@@ -1,14 +1,25 @@
-title: Single-cell sequencing reveals dissociation-induced gene expression in tissue su
+---
+title: Single-cell sequencing reveals dissociation-induced gene expression in tissue subpopulations
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1038/nmeth.4437
 confidence: medium
-aliases: ["Single-cell sequencing reveals dissociation-induced gene expression in tissue su"]
+aliases:
+- cr-10-1038-nmeth-4437
+- Single-cell sequencing reveals dissociation-induced gene expression in tissue su
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Single-cell sequencing reveals dissociation-induced gene expression in tissue su
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Single-cell sequencing reveals dissociation-induced gene expression in tissue su
+---
+
+# Single-cell sequencing reveals dissociation-induced gene expression in tissue subpopulations
 
 
 
@@ -29,16 +40,16 @@ updated: "2026-05-29"
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: single-cell RNA-seq
 **来源**: DOI:10.1038/nmeth.4437
 **来源类型**: PDF全文 (10.1038_nmeth.4437.pdf)

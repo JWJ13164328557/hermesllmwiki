@@ -1,14 +1,21 @@
 ---
-title: Caractérisation des élevages des petits ruminants et  pathologies associées dans
+title: Caractérisation des élevages des petits ruminants et pathologies associées dans la commune de Man (Ouest Côte d’Ivoire)
 created: 2026-06-03
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.35759/janmplsci.v65-2.6
 confidence: moderate
 source: crossref
+status: pollution
+title_fixed_from: Caractérisation des élevages des petits ruminants et  pathologies associées dans
+theme_status: out-of-scope
+theme_basis: none
+
 ---
 
-# Caractérisation des élevages des petits ruminants et  pathologies associées dans la commune de Man (Ouest  Côte d’Ivoire)
+# Caractérisation des élevages des petits ruminants et pathologies associées dans la commune de Man (Ouest Côte d’Ivoire) la commune de Man (Ouest  Côte d’Ivoire)
 
 ## 论文信息
 - **期刊**: Journal of Animal and Plant Sciences (J Anim Plant Sci ) ISSN 2071 – 7024 ()

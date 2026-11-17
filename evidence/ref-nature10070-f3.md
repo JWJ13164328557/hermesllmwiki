@@ -1,34 +1,43 @@
 ---
-title: "By structural and immunogold electron microscopy we found that misexpressed CASP5–GFP induces altere"
-created: 2026-09-16
+title: "The SCARECROW gene regulates an asymmetric cell division that is essential for generating …"
+created: 2026-11-02
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["stress-immunity", "papers"]
 source: "[[ref-nature10070]]"
 doi: "10.1038/nature10070"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Arabidopsis thaliana"
 evidence_type: "expression/regulation"
-quality: "medium"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# By structural and immunogold electron microscopy we found that misexpressed CASP5–GFP induces altere
+# The SCARECROW gene regulates an asymmetric cell division that is essential for generating …
 
 ## Claim
-By structural and immunogold electron microscopy we found that misexpressed CASP5–GFP induces altered domains of endoplasmic reticulum (ER) in which it accumulates (Fig.
+The SCARECROW gene regulates an asymmetric cell division that is essential for generating the radial organization of the Arabidopsis root.
 
-## Biological Context
-A novel protein family mediates Casparian strip formation in the endodermis.
+## Source
+- 文献: [[ref-nature10070]]
+- DOI: 10.1038/nature10070
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-nature10070]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

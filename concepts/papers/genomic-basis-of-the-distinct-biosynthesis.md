@@ -1,15 +1,22 @@
-title: "Genomic basis of the distinct biosynthesis of β‐glucogallin, a biochemical marker for hydrolyzable tannin production, in"
+---
+title: Genomic basis of the distinct biosynthesis of β-glucogallin, a biochemical marker for hydrolyzable tannin production, in three oak species
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- genomics-evolution
+- papers
 doi: 10.1111/nph.19711
-pmid: 
-confidence: medium
-aliases: ["三种橡木中β-葡聚糖加林（一种可水解单宁生产的生化标志物）独特生物合成的基因组基础"]
+pmid: ''
+aliases:
+- 三种橡木中β-葡聚糖加林（一种可水解单宁生产的生化标志物）独特生物合成的基因组基础
+title_fixed_from: Genomic basis of the distinct biosynthesis of β‐glucogallin, a biochemical marke
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Genomic basis of the distinct 生物合成 of β‐glucogallin, a biochemical marker for hydrolyzable tannin production, in three oak species
+---
 
-> Genomic basis of the distinct biosynthesis of β‐glucogallin, a biochemical marker for hydrolyzable tannin production, in three oak species
+# Genomic basis of the distinct biosynthesis of β‐glucogallin, a biochemical marker for hydrolyzable tannin production, in three oak species
 
 ## 论文信息
 - **期刊**: New Phytologist (2024)
@@ -25,7 +32,16 @@ Summary Hydrolyzable tannins (HTs), predominant polyphenols in oaks, are widely 
 
 ## 深度提炼
 
+**主要物种**: Quercus spp.
+**物种**: Quercus spp., Vitis vinifera, Punica granatum, Fragaria × ananassa, Juglans regia
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), multi-omics integration, genomics, qRT-PCR validation, dual-luciferase reporter, subcellular localization, phylogenetics
+**来源**: DOI:10.1111/nph.19711
+**来源类型**: PDF全文 (30 三种橡树中可水解单宁生产的生化标记--b-葡萄糖醛酸不同生物合成的基因组基础.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Notably, sequence variations in UGT84A13 promoters led to different trans-activating activities of WRKY32/59, explaining the different expression patterns of UGT84A13 among the three species.
+2. Notably, different oak species, particularly Q.
+3. Notably, the b-glucogallin had the highest correlation coefﬁcient with the total HTs, whereas gallic acid showed a negative correlation with b-glucogallin (Fig.
+4. Notably, this UGT was the closest homolog of QrUGT84A13, which has been functionally characterized in Q.
+5. Notably, Qva contained one more W-box in the promoter of UGT84A13 than Qal and Qde, suggesting a possible distinct regulation by WRKY TFs.
+6. Notably, QvaWRKY32 and QvaWRKY59 did not signiﬁcantly activate pro- QalUGT84A13 or proQdeUGT84A13 (Fig.

@@ -1,18 +1,23 @@
-title: Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germ
+---
+
+title: Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1016/j.devcel.2024.05.016
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 43 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 27 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 41 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["种子胚芽期水稻胚胎细胞的时空转录组景观"]
-aliases_extra: ["Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germ"]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germ
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germ
+---
+
+# Spatiotemporal transcriptomic landscape of rice embryonic cells during seed germination
 
 
 
@@ -33,11 +38,11 @@ Characterizing cellular features during seed germination is crucial for understa
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

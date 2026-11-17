@@ -8,12 +8,12 @@ status: reviewed
 confidence: high
 updated: "2026-05-29"
 related_papers:
-  - "[[rice-chilling-tolerance]]"
+  - "rice-chilling-tolerance"
   - "[[osbhlh150-rice-chilling-tolera]]"
-  - "[[aba-biosynthesis-stress]]"
+  - "aba-biosynthesis-stress"
 related_evidence:
   - "[[rice-root-cell-types-10x]]"
-  - "[[rice-root-marker-genes]]"
+  - "rice-root-marker-genes"
 related_synthesis: []
 ---
 
@@ -77,13 +77,13 @@ Tissue-level expression across root and reproductive tissues not yet profiled by
 
 | Function | Species | Tissue | Evidence Type | Evidence Object | Strength |
 |---|---|---|---|---|---|
-| Chilling tolerance — positive regulator | Rice (*O. sativa*) | Seedling shoot | KO + OE + complementation | [[rice-chilling-tolerance]] | Strong |
-| Cold-responsive expression | Rice (*O. sativa*) | Seedling shoot | qRT-PCR | [[rice-chilling-tolerance]] | Moderate |
-| Physical interaction with OsMAPK3 | Rice (*O. sativa*) | — | Y2H + in vitro pull-down | [[rice-chilling-tolerance]] | Strong |
-| Phosphorylation by OsMAPK3 (S669/S674/S734) | Rice (*O. sativa*) | — | In vitro + in vivo kinase assay | [[rice-chilling-tolerance]] | Strong |
-| Direct binding to OsNCED3 promoter (E-box) | Rice (*O. sativa*) | — | ChIP + LUC reporter | [[rice-chilling-tolerance]] | Strong |
-| V471L variant — transactivation activity difference | Rice (*O. sativa*) | — | Site-directed mutagenesis + reporter assay | [[rice-chilling-tolerance]] | Moderate |
-| Haplotype association with cold tolerance | Rice (*O. sativa*) | Seedling | Population genetics (SNP 1203027368) | [[rice-chilling-tolerance]] | Moderate |
+| Chilling tolerance — positive regulator | Rice (*O. sativa*) | Seedling shoot | KO + OE + complementation | rice-chilling-tolerance | Strong |
+| Cold-responsive expression | Rice (*O. sativa*) | Seedling shoot | qRT-PCR | rice-chilling-tolerance | Moderate |
+| Physical interaction with OsMAPK3 | Rice (*O. sativa*) | — | Y2H + in vitro pull-down | rice-chilling-tolerance | Strong |
+| Phosphorylation by OsMAPK3 (S669/S674/S734) | Rice (*O. sativa*) | — | In vitro + in vivo kinase assay | rice-chilling-tolerance | Strong |
+| Direct binding to OsNCED3 promoter (E-box) | Rice (*O. sativa*) | — | ChIP + LUC reporter | rice-chilling-tolerance | Strong |
+| V471L variant — transactivation activity difference | Rice (*O. sativa*) | — | Site-directed mutagenesis + reporter assay | rice-chilling-tolerance | Moderate |
+| Haplotype association with cold tolerance | Rice (*O. sativa*) | Seedling | Population genetics (SNP 1203027368) | rice-chilling-tolerance | Moderate |
 
 ---
 
@@ -106,7 +106,7 @@ Tissue-level expression across root and reproductive tissues not yet profiled by
 
 | Loop | Evidence | Confidence |
 |---|---|---|
-| OsMAPK3 → OsbHLH150 → OsNCED3 → ABA (linear cascade, no feedback described) | [[rice-chilling-tolerance]] | — |
+| OsMAPK3 → OsbHLH150 → OsNCED3 → ABA (linear cascade, no feedback described) | rice-chilling-tolerance | — |
 
 ### Co-expression Modules
 
@@ -221,7 +221,7 @@ No direct ortholog functional characterization in maize, wheat, or barley.
 
 ## Key References
 
-1. Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: [10.1016/j.xplc.2026.101919](https://doi.org/10.1016/j.xplc.2026.101919) — [[rice-chilling-tolerance]] — **Primary evidence for all claims on this page.**
+1. Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: [10.1016/j.xplc.2026.101919](https://doi.org/10.1016/j.xplc.2026.101919) — rice-chilling-tolerance — **Primary evidence for all claims on this page.**
 
 ---
 
@@ -232,8 +232,8 @@ No direct ortholog functional characterization in maize, wheat, or barley.
 - [[osnced3-rice]] — Downstream target; ABA biosynthesis rate-limiting enzyme
 
 ### Related Pathways
-- [[aba-biosynthesis-stress]] — ABA biosynthesis and stress response
+- aba-biosynthesis-stress — ABA biosynthesis and stress response
 
 ### Related Entities
 - [[guangxi-university-luo-lab]] — Research group
-- [[rice-chilling-tolerance]] — Paper concept
+- rice-chilling-tolerance — Paper concept

@@ -1,15 +1,22 @@
 ---
-title: "Advances and applications of single‐cell omics technologies in plant research"
-aliases: ["advances-and-applications-of-single-cell-omics-technologies-in-plant-research"]
-tags: [scrnaseq, plant-single-cell]
-doi: "10.1111/tpj.15772"
-journal: "The Plant Journal"
+title: Advances and applications of single-cell omics technologies in plant research
+aliases:
+- advances-and-applications-of-single-cell-omics-technologies-in-plant-research
+tags:
+- scrnaseq
+- plant-single-cell
+doi: 10.1111/tpj.15772
+journal: The Plant Journal
 year: 2022
-authors: "Mo Yajin, Jiao Yuling"
+authors: Mo Yajin, Jiao Yuling
 created: 2026-06-01
+themes: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: tag+keyword
+
 ---
 
-# Advances and applications of single‐cell omics technologies in plant research
+# Advances and applications of single-cell omics technologies in plant research
 
 **期刊**: The Plant Journal (2022)
 **DOI**: 10.1111/tpj.15772
@@ -29,7 +36,13 @@ SUMMARYSingle‐cell sequencing approaches reveal the intracellular dynamics of 
 
 ## 深度提炼
 
+**主要物种**: Zea mays
+**物种**: Zea mays, Oryza sativa, Hordeum vulgare, Pyrus spp., Solanum lycopersicum
+**方法**: transcriptomics (RNA-seq), multi-omics integration, genomics, single-cell RNA-seq, ATAC-seq, ChIP-seq/qPCR, CRISPR/Cas9
+**来源**: DOI:10.1111/tpj.15772
+**来源类型**: PDF全文 (单细胞组学技术在植物研究中的进展与应用.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Techniques such as ChIP-seq (Park, 2009) and cleavage under targets and tagmentation (CUT&Tag) (Kaya-Okur  2022 Society for Experimental Biology and John Wiley & Sons Ltd., The Plant Journal, (2022), doi: 10.1111/tpj.15772 8 Yajin Mo and Yuling Jiao et al., 2019) have been extensively used to globally quantitate histone modiﬁcation patterns and transcription factor binding proﬁles.
+2. As a result, sequencing at least two kindred cells, which are a pair of daughter cells derived from the division of a single cell, is necessary to ﬁlter out such false positives occurring randomly during WGA (Chen et al., 2017).
+3. By harnessing trajectory inference, GRNs between cell clusters have been constructed to investigate the interactions and feedback mechanisms underlying fate commitment (Denyer et al., 2019), suggesting that GRNs generated at the cellular level with full spatiotemporal resolution could provide novel insights into transcriptome dynamics.

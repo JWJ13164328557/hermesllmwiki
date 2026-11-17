@@ -1,34 +1,43 @@
 ---
-title: "Additionally, VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic"
-created: 2026-09-16
+title: "VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[the-mir156spl12-module-orchestrates-fruit-colour]]"
 doi: "10.1111/pbi.14193"
-species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
+species: ["Vaccinium spp.", "Solanum lycopersicum", "Arabidopsis thaliana"]
+primary_species: "Vaccinium spp."
 evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [VcDVR, VcSPL12]
-compounds: [chlorophyll]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["VcDVR", "VcSPL12"]
+compounds: ["chlorophyll"]
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Additionally, VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic
+# VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic …
 
 ## Claim
-Additionally, VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic gene VcDVR, thereby activating its expression.
+VcSPL12 may directly interact with the promoter region of the chlorophyll biosynthetic gene VcDVR, thereby activating its expression.
 
-## Biological Context
-The miR156/SPL12 模块 orchestrates fruit colour change 通过 directly regulating ethylene production 途径 in blueberry
+## Source
+- 文献: [[the-mir156spl12-module-orchestrates-fruit-colour]]
+- DOI: 10.1111/pbi.14193
+- 主要物种: Vaccinium spp.
 
-## Supporting Evidence
-*Source: [[the-mir156spl12-module-orchestrates-fruit-colour]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: VcDVR, VcSPL12
+- 自动标注化合物: chlorophyll
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,14 +1,20 @@
 ---
-title: Scale-up production of Vigna caracalla meristematic nodules in a pneumatically a
+title: Scale-up production of Vigna caracalla meristematic nodules in a pneumatically agitated, air-lift like bottle bioreactor system
 created: 2026-06-16
 type: concept
-tags: [papers]
+themes: [developmental-biology]
+tags:
+- papers
 doi: 10.38042/biotechstudies.1969727
 confidence: moderate
 source: openalex
+title_fixed_from: Scale-up production of Vigna caracalla meristematic nodules in a pneumatically a
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# Scale-up production of Vigna caracalla meristematic nodules in a pneumatically agitated, air-lift like bottle bioreactor system
+# Scale-up production of Vigna caracalla meristematic nodules in a pneumatically agitated, air-lift like bottle bioreactor systemgitated, air-lift like bottle bioreactor system
 
 ## 论文信息
 - **期刊**: Biotech Studies (2026)

@@ -1,12 +1,21 @@
-title: "MYC2-PUB22-JAZ4模块在番茄茉莉酸信号转导中起着关键作用"
-journal: "unknown"
-year: ""
+---
+title: MYC2-PUB22-JAZ4模块在番茄茉莉酸信号转导中起着关键作用
+journal: unknown
+year: ''
 type: paper
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags: [papers]
 species: [Solanum lycopersicum, Brassica]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

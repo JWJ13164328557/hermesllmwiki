@@ -1,12 +1,18 @@
+---
 title: Cell signalling by microRNA165/6 directs gene dose-dependent root cell fate.
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 doi: 10.1038/nature08977
 confidence: medium
-aliases: ["Cell signalling by microRNA165/6 directs gene dose-dependent root cell fate."]
+aliases: [cr-10-1038-nature08977, Cell signalling by microRNA165/6 directs gene dose-dependent root cell fate.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Cell signalling by microRNA165/6 directs gene dose-dependent root cell fate.
 
@@ -47,16 +53,16 @@ Supplementary Informationis linked to the online version of the paper atwww.natu
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Zea mays, Ficus carica
+**物种**: Arabidopsis thaliana, Zea mays
 **方法**: ChIP-seq/qPCR, qRT-PCR validation, RNAi/VIGS, overexpression, subcellular localization
 **来源**: DOI:10.1038/nature08977
 **来源类型**: PDF全文 (10.1038_nature08977.pdf)

@@ -1,0 +1,3892 @@
+{
+ "scanned": 7178,
+ "counts": {
+  "plant": 6825,
+  "suspect": 314,
+  "nonplant": 39
+ },
+ "by_journal": {
+  "?": 167,
+  "Bioinformatics": 16,
+  "Nature Communications": 12,
+  "Scientific Reports": 9,
+  "Frontiers in Cell and Developmental Biology": 8,
+  "Briefings in bioinformatics": 7,
+  "BMC genomics": 6,
+  "bioRxiv": 5,
+  "Nature Methods": 4,
+  "Nature methods": 4,
+  "Nucleic acids research": 4,
+  "Synthetic and Systems Biotechnology": 4,
+  "Science Advances": 4,
+  "Frontiers in microbiology": 3,
+  "PeerJ": 3,
+  "PubMed": 3,
+  "Frontiers in genetics": 2,
+  "mBio": 2,
+  "GeroScience": 2,
+  "Computational Biology and Chemistry": 2,
+  "Tissue and Cell": 2,
+  "Nature Genetics": 2,
+  "Nature Machine Intelligence": 2,
+  "BMC Bioinformatics": 2,
+  "Genome Medicine": 2,
+  "PLoS Biology": 2,
+  "Frontiers in Cellular and Infection Microbiology": 2,
+  "Frontiers in Genetics": 2,
+  "PLoS computational biology": 1,
+  "Nature biotechnology": 1,
+  "BMC bioinformatics": 1,
+  "Journal of integrative bioinformatics": 1,
+  "Stress biology": 1,
+  "Journal of advanced research": 1,
+  "Foods": 1,
+  "bioRxiv : the preprint server for biology": 1,
+  "Plant physiology": 1,
+  "Food chemistry": 1,
+  "Journal of hazardous materials": 1,
+  "Bone research": 1,
+  "Food research international": 1,
+  "3 Biotech": 1,
+  "Advanced Science": 1,
+  "European Radiology": 1,
+  "Acta Neuropathologica": 1,
+  "European Journal of Applied Physiology": 1,
+  "Lasers in Medical Science": 1,
+  "Molecular Biology Reports": 1,
+  "The Cerebellum": 1,
+  "Advances in Therapy": 1
+ },
+ "nonplant": [
+  {
+   "file": "daily-42635416.md",
+   "created": "2026-08-25",
+   "verdict": "nonplant",
+   "title": "HMGB1-targeted anti-inflammatory rBox A gene therapy for viral airway infections and systemic inflammatory disease models.",
+   "journal": "mBio",
+   "reasons": [
+    "subject=mice,rats",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s10103-026-05004-1.md",
+   "created": "2026-08-27",
+   "verdict": "nonplant",
+   "title": "Transcriptomic responses of skin to different micro-injury modalities: fire filiform needling, ablative fractional CO2 laser, and filiform needling.",
+   "journal": "Lasers in Medical Science",
+   "reasons": [
+    "subject=mice,mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s11357-026-02341-5.md",
+   "created": "2026-06-16",
+   "verdict": "nonplant",
+   "title": "Muscle Ageing and Sarcopenia Study (MASS) Lifecourse: a valuable resource for understanding skeletal muscle ageing.",
+   "journal": "GeroScience",
+   "reasons": [
+    "subject=patients,biopsy",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-isci-2026-115885.md",
+   "created": "2026-06-03",
+   "verdict": "nonplant",
+   "title": "Unbiased CRISPR synthetic lethal screening for genetic vulnerabilities in a succinate dehydrogenase-loss model of paraganglioma.",
+   "journal": "PubMed",
+   "reasons": [
+    "subject=mouse,tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-73827-1.md",
+   "created": "2026-06-05",
+   "verdict": "nonplant",
+   "title": "Sphingosine kinase-2 inhibition promotes immunogenic differentiation of myeloid-derived suppressor cells through an Acetyl-CoA carboxylase-phosphatidylcholine axis.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=tumor,tumor microenvironment",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-76137-8.md",
+   "created": "2026-08-13",
+   "verdict": "nonplant",
+   "title": "Suppression of transcription-replication conflicts by sequence-coordinated actions of TRDMT1 and MutLα.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject-heavy=cell line,tumor,cancer cell"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-76871-z.md",
+   "created": "2026-09-05",
+   "verdict": "nonplant",
+   "title": "Weighted sliced inverse regression for scalable supervised dimensionality reduction of spatial transcriptomics data.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=mouse,breast cancer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-77196-7.md",
+   "created": "2026-08-29",
+   "verdict": "nonplant",
+   "title": "The cortical microenvironment drives early immune organization and controls early osteoclastogenesis in bone healing.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=mice,macrophage",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41522-026-01035-2.md",
+   "created": "2026-06-08",
+   "verdict": "nonplant",
+   "title": "Gut commensal Parabacteroides goldsteinii-derived CDCA mediates FXR signalling to improve mucosal barrier function.",
+   "journal": "npj Biofilms and Microbiomes",
+   "reasons": [
+    "subject=broiler,chicken,gut microbiome",
+    "weak-plant-context=transformation"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-53668-0.md",
+   "created": "2026-06-13",
+   "verdict": "nonplant",
+   "title": "Intestinal colonization of weaner pigs by extended-spectrum-β-lactamase-encoding Escherichia coli classified for differential host-association using a phylogenetics-based approach.",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=chicken,cattle",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-63156-0.md",
+   "created": "2026-07-23",
+   "verdict": "nonplant",
+   "title": "Loss of TGR5-activating bile acids is associated with disease activity in inflammatory bowel disease.",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=patients,gut microbiota",
+    "weak-plant-context=transformation"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-69457-8.md",
+   "created": "2026-09-05",
+   "verdict": "nonplant",
+   "title": "Whole-genome sequencing of Reed-Sternberg cells identifies outcome determinants in Hodgkin lymphoma",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=lymphoma"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-70462-0.md",
+   "created": "2026-09-09",
+   "verdict": "nonplant",
+   "title": "Long-term exposure of Lactobacillus rhamnosus to quercetin enhances its anti-angiogenic and anti-colorectal cancer efficacy",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=colorectal cancer"
+   ]
+  },
+  {
+   "file": "ms-10-1126_sciadv-aec2424.md",
+   "created": "2026-06-07",
+   "verdict": "nonplant",
+   "title": "Dose-dependent hormone actions at estrogen receptor enhancers specify distinct molecular and biological outcomes.",
+   "journal": "Science Advances",
+   "reasons": [
+    "subject-heavy=patients,in patients,cancer cell,breast cancer"
+   ]
+  },
+  {
+   "file": "ms-10-1126_sciadv-aeg2614.md",
+   "created": "2026-06-19",
+   "verdict": "nonplant",
+   "title": "Life-span-dependent transcriptional dynamics of the human heart.",
+   "journal": "Science Advances",
+   "reasons": [
+    "subject=mouse,myocardial",
+    "weak-plant-context=senescence"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s40104-026-01429-4.md",
+   "created": "2026-06-08",
+   "verdict": "nonplant",
+   "title": "Integrated gut metagenomic and muscle proteomic analysis reveals the role of dietary fermented extruded brewers' spent grain in enhancing pork quality through the gut-muscle axis.",
+   "journal": "Journal of Animal Science and Biotechnology/Journal of animal science and biotechnology",
+   "reasons": [
+    "subject=randomly assigned,gut microbiota",
+    "weak-plant-context=grain"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s43088-026-00802-6.md",
+   "created": "2026-07-24",
+   "verdict": "nonplant",
+   "title": "Copper oxide nanoparticles loaded with Artemisia judaica and Ziziphus spina-christi extracts as alternative anticoccidials in broilers",
+   "journal": "Beni-Suef University Journal of Basic and Applied Sciences",
+   "reasons": [
+    "subject=broiler"
+   ]
+  },
+  {
+   "file": "ms-10-1371_journal-pcbi-1014018.md",
+   "created": "2026-08-29",
+   "verdict": "nonplant",
+   "title": "Systematic multivariate analysis of chromatin complex dependencies reveals Set1C/COMPASS as a melanoma-enriched epigenetic vulnerability.",
+   "journal": "PLoS Computational Biology",
+   "reasons": [
+    "subject=melanoma"
+   ]
+  },
+  {
+   "file": "ms-10-1371_journal-pone-0350638.md",
+   "created": "2026-06-04",
+   "verdict": "nonplant",
+   "title": "Integrating network toxicology, machine learning, and single-cell sequencing to reveal the FASN-mediated role of phenolic endocrine disruptors in water in promoting prostate cancer.",
+   "journal": "PLoS ONE",
+   "reasons": [
+    "subject=prostate cancer"
+   ]
+  },
+  {
+   "file": "ms-10-1371_journal-ppat-1014493.md",
+   "created": "2026-08-13",
+   "verdict": "nonplant",
+   "title": "Rationally designed minimized TbpB confers broad protection against meningococcal infection.",
+   "journal": "PLoS Pathogens",
+   "reasons": [
+    "subject=mouse,murine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-15283_ijsc25144.md",
+   "created": "2026-06-12",
+   "verdict": "nonplant",
+   "title": "Rejuvenation Potential of Developmental Genes Downregulated in Aging.",
+   "journal": "International Journal of Stem Cells",
+   "reasons": [
+    "subject=mouse,fibroblast",
+    "weak-plant-context=senescence"
+   ]
+  },
+  {
+   "file": "ms-10-30574_wjarr-2026-31-1-1959.md",
+   "created": "2026-07-27",
+   "verdict": "nonplant",
+   "title": "High FIBP expression is associated with a ferroptosis-resistant transcriptional phenotype and adverse survival in acute myeloid leukemia: An integrative TCGA-LAML analysis",
+   "journal": "World Journal of Advanced Research and Reviews",
+   "reasons": [
+    "subject=leukemia,tcga"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1832331.md",
+   "created": "2026-06-07",
+   "verdict": "nonplant",
+   "title": "Integrated transcriptomics identifies immune-metabolic dysregulation and candidate diagnostic biomarkers in oligoasthenozoospermia with experimental validation.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=cohort,mouse",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1862366.md",
+   "created": "2026-07-23",
+   "verdict": "nonplant",
+   "title": "Biological characteristics of ATP5A1 and its pathogenic mechanisms in human diseases: advances in clinical translation.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=tumor,gastric cancer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1925197.md",
+   "created": "2026-09-09",
+   "verdict": "nonplant",
+   "title": "Mitophagy in idiopathic pulmonary fibrosis: from molecular mechanisms to therapeutic opportunities.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=fibroblast,macrophage",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1965589.md",
+   "created": "2026-09-14",
+   "verdict": "nonplant",
+   "title": "Multimodal integration of pathomics and single-cell transcriptomics reveals CDC20 as a link between prostate cancer recurrence and benzo[a]pyrene-responsive phenotypes.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=prostate cancer"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcimb-2026-1740163.md",
+   "created": "2026-08-13",
+   "verdict": "nonplant",
+   "title": "The gut-liver axis: microbial mechanisms and therapeutic implications in MAFLD.",
+   "journal": "Frontiers in Cellular and Infection Microbiology",
+   "reasons": [
+    "subject=gut microbiota,intestinal barrier",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fgene-2026-1846707.md",
+   "created": "2026-06-18",
+   "verdict": "nonplant",
+   "title": "Stereo-cell coupled with single-cell transcriptomics identifies a transitional metabolic state in maturing skeletal muscle myofibers.",
+   "journal": "Frontiers in Genetics",
+   "reasons": [
+    "subject=mice,mouse",
+    "weak-plant-context=transformation"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fncel-2026-1848558.md",
+   "created": "2026-06-13",
+   "verdict": "nonplant",
+   "title": "From cellular heterogeneity to precision medicine: single-cell multi-omics in CNS disease research.",
+   "journal": "Frontiers in Cellular Neuroscience",
+   "reasons": [
+    "subject=alzheimer,parkinson",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3390_ijms27125191.md",
+   "created": "2026-06-10",
+   "verdict": "nonplant",
+   "title": "Combined Analysis of Bulk and Single-Cell Transcriptomic Data Reveals Dormancy-Associated Genes in Colorectal Cancer.",
+   "journal": "International Journal of Molecular Sciences",
+   "reasons": [
+    "subject=colorectal cancer"
+   ]
+  },
+  {
+   "file": "ms-10-53623_apga-v5i2-1178.md",
+   "created": "2026-06-04",
+   "verdict": "nonplant",
+   "title": "Comparative Analysis on post-Covid Digital Competency Frameworks and Digital Skill Gap Studies",
+   "journal": "Acta Pedagogia Asiana",
+   "reasons": [
+    "subject=covid"
+   ]
+  },
+  {
+   "file": "ms-10-7554_elife-111773.md",
+   "created": "2026-09-14",
+   "verdict": "nonplant",
+   "title": "Intersecting experimental evolution and CRISPR screens to identify novel toxin resistance loci.",
+   "journal": "PubMed",
+   "reasons": [
+    "subject=drosophila,cell line",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-15476286-2019-1586139.md",
+   "created": "2026-05-28",
+   "verdict": "nonplant",
+   "title": "Role of alternative polyadenylation dynamics in acute myeloid leukaemia at single-cell resolution",
+   "journal": "",
+   "reasons": [
+    "subject=patients,cancer cell",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-gks042.md",
+   "created": "2026-05-28",
+   "verdict": "nonplant",
+   "title": "Differential expression analysis of multifactor RNA-Seq experiments with respect to biological variation",
+   "journal": "",
+   "reasons": [
+    "subject=carcinoma,tumour",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-nature12172.md",
+   "created": "2026-05-28",
+   "verdict": "nonplant",
+   "title": "Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells",
+   "journal": "",
+   "reasons": [
+    "subject=mice,mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-ncomms14049.md",
+   "created": "2026-05-28",
+   "verdict": "nonplant",
+   "title": "Massively parallel digital transcriptional profiling of single cells.",
+   "journal": "",
+   "reasons": [
+    "subject=patients,cell line",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-s41467-022-33758-z.md",
+   "created": "2026-05-28",
+   "verdict": "nonplant",
+   "title": "Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space",
+   "journal": "",
+   "reasons": [
+    "subject=patients,mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-science-aaf2403.md",
+   "created": "2026-05-28",
+   "verdict": "nonplant",
+   "title": "Visualization and analysis of gene expression in tissue sections by spatial transcriptomics",
+   "journal": "",
+   "reasons": [
+    "subject=mouse,breast cancer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "sel-acel-70179.md",
+   "created": "2026-06-01",
+   "verdict": "nonplant",
+   "title": "Alternative Polyadenylation Contributes to Fibroblast Senescence in Pulmonary Fibrosis",
+   "journal": "Aging Cell",
+   "reasons": [
+    "subject=mice,fibroblast",
+    "weak-plant-context=senescence"
+   ]
+  }
+ ],
+ "suspect": [
+  {
+   "file": "cr-10-1038-s41592-024-02380-w.md",
+   "created": "2026-05-30",
+   "verdict": "suspect",
+   "title": "Inferring pattern-driving intercellular flows from single-cell and spatial transcriptomics",
+   "journal": "Nature Methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "cr-omi-2011-0118.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "clusterProfiler: an R package for comparing biological themes among gene cluster",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "cr-s41586-018-0414-6.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "RNA velocity of single cells.",
+   "journal": "",
+   "reasons": [
+    "general-method=rna velocity"
+   ]
+  },
+  {
+   "file": "daily-41325270.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Chrom-Sig: de-noising 1D genomic profiles by signal processing methods.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-41824528.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Optimizing oral contraceptive timing: Daytime intake reduces doses and enhances efficacy.",
+   "journal": "PLoS computational biology",
+   "reasons": [
+    "subject=pharmacokinetic",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-41896479.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Mapping cis-regulatory mutations at scale in sorghum enables modulation of gene expression.",
+   "journal": "Nature biotechnology",
+   "reasons": [
+    "general-method=nature biotechnology"
+   ]
+  },
+  {
+   "file": "daily-41942885.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Comparative analysis of the transcriptome and methylome in distinct trophoblast populations at the time of embryo implantation in mares.",
+   "journal": "BMC genomics",
+   "reasons": [
+    "subject=macrophage",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42036640.md",
+   "created": "2026-08-28",
+   "verdict": "suspect",
+   "title": "A probabilistic approach for predicting indole-3-acetic acid synthesis in bacteria using genomic data.",
+   "journal": "BMC bioinformatics",
+   "reasons": [
+    "general-method=bmc bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42206753.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Staurosporine Targets Mitochondrial Regulator VdAtuA3 to Disrupt Mitochondrial Homeostasis to Control Verticillium Wilt",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42216500.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "The Role of Two Glycoalkaloid Metabolism Genes in α-Tomatine Biosynthesis and Basal Defence in Tomato.",
+   "journal": "",
+   "reasons": [
+    "subject=carcinoma",
+    "weak-plant-context=solanum lycopersicum"
+   ]
+  },
+  {
+   "file": "daily-42217785.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Effects of rumen-protected methionine on lactating F1 Holstein × Gyr cows grazing tropical pasture.",
+   "journal": "",
+   "reasons": [
+    "subject=dairy cow",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "daily-42218263.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Effect of Agrobacterium tumefaciens on papaya whitefly Trialeurodes variabilis populations infesting papaya Carica papaya.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=plant height,agrobacterium"
+   ]
+  },
+  {
+   "file": "daily-42218405.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "scTrends: automated classification and strength quantification of gene expression trends along pseudotime in single-cell RNA-seq.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42222136.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Protist community sites and structure under two barn management systems at a commercial dairy.",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42222521.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Evaluation of elevated soybean meal diets with inclusion of exogenous enzymes on the effect of growth performance and digestibility.",
+   "journal": "",
+   "reasons": [
+    "subject=randomly assigned",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42226134.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Association of dietary patterns with all-cause and cause-specific mortality in a high cardiovascular risk population in China.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42226935.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Applying Lifestyle Medicine to Enhance Cancer Survivorship and Patient Well-being.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42228747.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Healthcare providers' beliefs about the health effects of nicotine and electronic cigarettes.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42228902.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Use of the Dynamic Systems Development Method to Inform Technology-Assisted Motivational Interviewing (TAMI) for Tobacco Cessation: Qualitative Study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42231440.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Sex impacts outcome in minimally invasive surgery of the ascending aorta: a propensity score matched analysis.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42231880.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "The disease burden attributable to tobacco use in China and its provinces from 1990-2023: an analysis from the Global Burden of Disease Study 2023.",
+   "journal": "",
+   "reasons": [
+    "subject=lung cancer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42232745.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Curcuma-derived nanovesicle-loaded ROS-responsive hydrogels reprogram iron metabolism to enhance cartilage regeneration after microfracture.",
+   "journal": "",
+   "reasons": [
+    "subject=mesenchymal stem cell",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "daily-42234685.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Biomagnification in Trophic Transfer: Mechanisms of Trans-Trophic Toxicity from Co-Contamination of Aged NPs and TBP in a Soil-Rye-Armyworm System.",
+   "journal": "",
+   "reasons": [
+    "subject=gut microbiota",
+    "weak-plant-context=yield,photosynthesis"
+   ]
+  },
+  {
+   "file": "daily-42234693.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Local Anesthesia and Analgosedation for Surgical Micro-Axial Flow Pump Implantation.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42239095.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Interpreting GC content differences across populations at polymorphic sites",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42239455.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "FBXL21 regulates diurnal proteostasis and stress response by targeting DNAJB6 and client proteins.",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42239745.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Antiviral potential of black tea and blueberry extracts against monkeypox virus by targeting orthopoxvirus surface proteins.",
+   "journal": "",
+   "reasons": [
+    "subject=murine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42240913.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Multi-Stimuli-Responsive Hydrogen-Bonded Organic Frameworks Nanocarriers Enable Targeted Fungicide Release and Plant Immune Regulation.",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=germination"
+   ]
+  },
+  {
+   "file": "daily-42244455.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Are Age-Related Differences in Sleep Associated With the Different Trajectories of Fluid and Crystallized Intelligence Across the Lifespan?",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42244758.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Toxin resistance in the monarch butterfly expanded its milkweed host range",
+   "journal": "",
+   "reasons": [
+    "subject=drosophila",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42246088.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Prevalence and patterns of different types of non-cigarette tobacco use in England: a population study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42248044.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Hydrochar decreased the enantioselective bioaccumulation of prothioconazole-desthio in the tobacco through rhizosphere soil metabolic regulation.",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=rhizosphere"
+   ]
+  },
+  {
+   "file": "daily-42251054.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Functional and flavour-enhancing properties of Staphylococcus sp. from Napham.",
+   "journal": "",
+   "reasons": [
+    "subject=chicken",
+    "weak-plant-context=shoot"
+   ]
+  },
+  {
+   "file": "daily-42251693.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Healing Without Wheat: Navigating the Nutritional Landscape of Gluten-Free Flours in Celiac Disease.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=grain"
+   ]
+  },
+  {
+   "file": "daily-42251772.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Visualizing hydrogen sulfide dynamics in crop roots under heavy metal and salt stress using a selective fluorescent probe.",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=seedling"
+   ]
+  },
+  {
+   "file": "daily-42252199.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "MYC-Driven Glycolysis in TNFRSF4+ CD4+ T Cells Underlies Heightened Rejection Susceptibility of Cardiac vs. Renal Allografts.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42253779.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A Rare Encounter: Documenting a Rotator Cuff Tear Associated With Idiopathic Rice Bodies.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42256357.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Association between adverse childhood experiences and over-the-counter drug abuse in Japan: A nationwide population-based cross-sectional study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42256526.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "SIRT1: Protean roles at the nexus of health, disease, and therapeutics",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42256590.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Food insecurity and elevated nicotine exposure among U.S. tobacco users: Evidence from NHANES.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42257156.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Oral premalignant disorders in housekeeping and security staff of a higher education institute in Bhubaneshwar, Odisha state, India.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42260433.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "E-cigarette use among adults in southern Iran: a qualitative study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42261381.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Oligosaccharide prebiotics in functional foods and therapeutics: innovations and challenges.",
+   "journal": "",
+   "reasons": [
+    "subject=gut microbiota",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42264738.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Temperature, pH and GSH triple-responsive pyraclostrobin nanopesticide based on Pluronic F127 and cinnamaldehyde-derived liposome to control tomato gray mold.",
+   "journal": "",
+   "reasons": [
+    "subject=rats",
+    "weak-plant-context=germination"
+   ]
+  },
+  {
+   "file": "daily-42273214.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Integrated transcriptomic analysis reveals transcriptional changes associated with begomovirus infection in the medicinal plant Emilia sonchifolia.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=cell wall"
+   ]
+  },
+  {
+   "file": "daily-42274537.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Host Plant Preferences and Survival of the Native Australian Spittlebug, Bathyllus albicinctus Erichson (Hemiptera: Cercopoidea).",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=xylem"
+   ]
+  },
+  {
+   "file": "daily-42274980.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Prevalence and Associated Factors of Gambling Among High School Students in a Portuguese City.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42275114.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Upregulated jasmonate signaling shifts Arabidopsis microbiota interactions and stress adaptations through a positive feedback loop.",
+   "journal": "",
+   "reasons": [
+    "subject=gut microbiome",
+    "weak-plant-context=jasmonate signaling,arabidopsis"
+   ]
+  },
+  {
+   "file": "daily-42283546.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Wearable physiological signals and relapse status during smoking cessation: a pilot study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42284659.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Label of shame - How formula-feeding mothers in Israel perceive the warning labels on infant formula packaging.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42286418.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Ruminal archaea and bacteria metatranscriptomic responses to supplementation in steers fed low-quality forage.",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42286697.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Optimization of solid-state fermentation process of diets and its effects on growth performance and intestinal function in growing pigs.",
+   "journal": "",
+   "reasons": [
+    "subject=intestinal barrier",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42286712.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Dietary practices, nutritional knowledge, and socio-cultural influences among pregnant adolescents in rural Ghana: a qualitative study from North Dayi District.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42288015.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Protein Arginine Methyltransferase 6 Regulated Odontogenic Differentiation and Mitochondrial Function of Stem Cells from Apical Papilla Through its Nuclear Localization Sequence via β-catenin Pathway.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42293385.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "BMSC-targeting aptamer conjugation enhances bone delivery of a rice bran peptide to mitigate osteoporosis via eIF3L.",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42293773.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Innovative Endoscopic Treatment of Dual Gastric Perforations Using Argon Plasma Coagulation and Hybrid Closure Techniques.",
+   "journal": "",
+   "reasons": [
+    "subject=carcinoma",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42296001.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Ti3C2Tx MXene Nanosheets: Bridging High-Performance Energy Storage and Comprehensive In Vivo Biocompatibility Assessment.",
+   "journal": "",
+   "reasons": [
+    "subject=rats",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42296117.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Explainable machine learning reveals diverse yield-determining factors among Thai rice farmer cohorts: Implications for targeted agricultural support.",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=yield,agronomic"
+   ]
+  },
+  {
+   "file": "daily-42298120.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Bioactivity and textile dyeing potential of pigments produced by Arcopilus cupreus T8.",
+   "journal": "",
+   "reasons": [
+    "subject=fibroblast",
+    "weak-plant-context=biomass"
+   ]
+  },
+  {
+   "file": "daily-42298181.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Bacterial remnants in chloroplast RNA induce immune responses via mouse TLR13 and human TLR7.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=chloroplast,arabidopsis"
+   ]
+  },
+  {
+   "file": "daily-42299006.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Combining Atorvastatin with Dietary Agents to Manage Dyslipidaemia and Drug-induced Adverse Events: A First Reflective Narrative Review of Current Findings and Potential Directions.",
+   "journal": "",
+   "reasons": [
+    "subject=hepatoprotective",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42302156.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Prenatal Exposure to Different Nitrogen Supplementation Strategies in Beef Cows Enhances Foetal Growth and Induces Transcriptional Adaptations in Offspring Skeletal Muscle.",
+   "journal": "",
+   "reasons": [
+    "subject=randomly assigned",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42302266.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Using In-Home Air Quality Monitoring to Reduce Cannabis Secondhand Smoke Exposure in Children: Quantitative Pilot Feasibility Study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42302427.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Liquiritigenin ameliorates circadian rhythm-mediated osteoblast differentiation through Rorα and Nr1d1 signaling pathways.",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42305343.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Global, regional, and national burden of respiratory diseases and attributable risk factors in adolescents and young adults, 1990-2021: a Global Burden of Disease 2021 analysis.",
+   "journal": "",
+   "reasons": [
+    "subject=lung cancer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42305749.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Prevalence and determinants of substance use among university students in Saudi Arabia: a nationwide online cross-sectional study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42306979.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A Practical Gut-On-Chip Workflow for Imaging-Based Assessment of Epithelial Barrier Dynamics During E. coli Co-Culture.",
+   "journal": "",
+   "reasons": [
+    "subject=caco-2",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42307005.md",
+   "created": "2026-11-02",
+   "verdict": "suspect",
+   "title": "Integrating cross-omics research through FAIR Digital Objects with DataPLANT.",
+   "journal": "Journal of integrative bioinformatics",
+   "reasons": [
+    "general-method=journal of integrative bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42307063.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Pilot Evaluation of a Mobile Health Intervention for Smoking Cessation in Rural and Urban Georgia.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42307431.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Exposure Profiles and Screening-Level Risk Assessment of PCP-Related Chemicals in China: A Focus on Parabens.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42307534.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A Case of Severe Bradycardia Induced by Mechanical Stimulation of the Nasal Cavity Under General Anesthesia.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42308257.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Pyridoxine requirement of Pacific white shrimp (Penaeus vannamei) fed soybean meal based diet.",
+   "journal": "",
+   "reasons": [
+    "subject=randomly assigned",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42310532.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Unlocking organic phosphorus and carbon in soil aggregates under long-term P and manure inputs.",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "daily-42310760.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Turmeric-derived nanovesicles reprogram pathological NETosis to mitigate inflammatory bone loss.",
+   "journal": "",
+   "reasons": [
+    "subject=murine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42312198.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Effect of ruminally protected lysine on growth and nitrogen balance of grain-finished beef cattle fed diets of decreasing protein concentration.",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=yield,grain"
+   ]
+  },
+  {
+   "file": "daily-42313641.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "App-based contingency management to reduce heavy drinking days among smokers receiving varenicline: Feasibility, acceptability, and efficacy indicators from a phase I analog trial.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42314870.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Melatonin in Livestock Production: Bridging Chronobiology, Health, and Sustainable Outcomes.",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=grain"
+   ]
+  },
+  {
+   "file": "daily-42317289.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Development and Analytical Evaluation of a Microarray Assay for Quantitative Determination of Human Blood IgG Reactive to Food Antigens in the Italian Population.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42317989.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Health effects of black and blond tobacco: a comparative analysis on smoking-related diseases with emphasis on bronchitis and COPD.",
+   "journal": "",
+   "reasons": [
+    "subject=case-control",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42319942.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Electronics with switchable flexibility for 3D conforming neural interfaces",
+   "journal": "",
+   "reasons": [
+    "subject=porcine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42320007.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Early Definitive Fixation and Risk of Deep Surgical-Site Infection After Tibial Plateau ORIF: A Systematic Review and Meta-analysis.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42327541.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Research on the safety risk of oral nicotine products and its prospects",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42327843.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Sequential Double Autotransplantation Using Immature Teeth as First-Stage Autotransplants to Preserve Alveolar Architecture: A Case Series.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42351013.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "ProbeST: a custom probe design pipeline for dual host-pathogen Spatial Transcriptomics.",
+   "journal": "BMC genomics",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42363068.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "A single-cell transcriptomic atlas of the pigtail macaque placenta in late gestation.",
+   "journal": "BMC genomics",
+   "reasons": [
+    "subject=macrophage",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "daily-42374203.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Metabolic reprogramming, oxidative stress, and mitophagy in JSRV Env-transformed BEAS-2B cells: insights from integrated transcriptomics and metabolomics.",
+   "journal": "BMC genomics",
+   "reasons": [
+    "subject=carcinoma",
+    "weak-plant-context=transformation"
+   ]
+  },
+  {
+   "file": "daily-42378398.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "STED: flexible cross-modal topic modeling infers cell-type-specific regulatory landscapes from bulk epigenomics.",
+   "journal": "Briefings in bioinformatics",
+   "reasons": [
+    "general-method=briefings in bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42392810.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "[Anti-inflammatory constituents in Urtica dioica subsp. gansuensis, a medical plant endemic to China].",
+   "journal": "",
+   "reasons": [
+    "subject=raw264",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42393511.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Integrative ATAC-Seq and RNA-Seq analysis identifies key genes for intramuscular fat content in Laiwu pigs.",
+   "journal": "BMC genomics",
+   "reasons": [
+    "subject=porcine",
+    "weak-plant-context=breeding"
+   ]
+  },
+  {
+   "file": "daily-42405698.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Superelastic Ti-Zr-Nb-Sn Thin Films Fabricated by Magnetron Sputtering: Biocompatibility and Bacterial Biofilm Formation Assessment for Orthopedic Applications.",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42410736.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Active volatiles and the odorant receptors underlying rosemary repellency to the tomato leafminer Tuta absoluta.",
+   "journal": "",
+   "reasons": [
+    "subject=hek293",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42411316.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Distinct Chemical Profiles and Gut Microbiota Modulation of Ancha Tea Compared with Green and Black Teas from the Same Cultivar.",
+   "journal": "",
+   "reasons": [
+    "subject=gut microbiota",
+    "weak-plant-context=cultivar"
+   ]
+  },
+  {
+   "file": "daily-42414676.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Retina-specific long non-coding RNAs associated with inherited retinal disease genes.",
+   "journal": "",
+   "reasons": [
+    "subject=organoid",
+    "weak-plant-context=photoreceptor"
+   ]
+  },
+  {
+   "file": "daily-42415207.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Short-term repeated-dose oral toxicity and mutagenicity studies on rice-derived glucosylceramides.",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42417441.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Raman Spectroscopy of Biofluids: Fusion Strategies for Detecting Oral Potentially Malignant Disorders and Oral Cancers.",
+   "journal": "",
+   "reasons": [
+    "subject=carcinoma",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42420537.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Bridging in vitro bioactivities and in silico insights of Rubia cordifolia L. (Rubiaceae) leaf extracts for therapeutic applications.",
+   "journal": "",
+   "reasons": [
+    "subject=cell line",
+    "weak-plant-context=photosynthesis"
+   ]
+  },
+  {
+   "file": "daily-42423576.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Adolescents' and Young Adults' Recalled Exposure to E-Cigarette Retail Stores on the Path to School: Association With Past 30-Day Use and Susceptibility to Use.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42424258.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Effect of sex hormones, garlic and fennel extracts in layers' breeders diet on inherited offspring sex.",
+   "journal": "",
+   "reasons": [
+    "subject=layer breeder",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "daily-42424395.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Defense against parasites covaries with reproductive timing, not with resistance.",
+   "journal": "",
+   "reasons": [
+    "subject=c. elegans",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42424686.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Discrimination of beef meat according to the level of farming intensification through visible and near infrared spectroscopy data and chemometrics.",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42426921.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "The alleviation of oxidative damage in celiac disease by black soybean peptides and their mechanism.",
+   "journal": "",
+   "reasons": [
+    "subject=caco-2",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42428499.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "From traditional remedy to in vitro evidence: phytochemical composition and skin-related pharmacological activity of birch witches' broom (Taphrina betulina).",
+   "journal": "",
+   "reasons": [
+    "subject=keratinocyte",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42428800.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Effects of increasing soybean meal in late nursery, grower, and finishing pig diets.",
+   "journal": "",
+   "reasons": [
+    "subject=randomly assigned",
+    "weak-plant-context=grain"
+   ]
+  },
+  {
+   "file": "daily-42429261.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Medical Symptoms and Psychiatric Comorbidities in People with Methamphetamine Use Disorder.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42429523.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Navigating Change: A Qualitative Study of Menstrual Hygiene Practices in Rural Communities.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42429983.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Prediction of future onset of allergic rhinitis and analysis of risk factors in children with food allergy during infancy.",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42430312.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Health disparities and socioeconomic challenges faced by the Khawaja Sira (intersex and gender-diverse) community in Islamabad, Pakistan: A descriptive cross-sectional study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42434379.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Topical resiniferatoxin for the treatment of vestibulodynia: a prospective observational trial.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42434407.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Marine-derived alginate oligosaccharides as functional modulators for sodium reduction in coated frozen foods: molecular mechanisms, batter matrix engineering, and sensory compensation: a systematic review.",
+   "journal": "",
+   "reasons": [
+    "subject=chicken",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42436166.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A rugged life: how host-microbiome adaptations associated with the semi-feral lifestyle of gayal (Bos frontalis).",
+   "journal": "",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=transformation"
+   ]
+  },
+  {
+   "file": "daily-42436216.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A low-cost \"plant-scanner\" platform for automated detection of Ustilago maydis infection in maize using deep learning.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=plant pathology"
+   ]
+  },
+  {
+   "file": "daily-42436266.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Immigration-Related Sociopolitical Stress, Mental Health, and Tobacco Use Among Mexican American College Students.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42437661.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Challenges and Contextual Dynamics in Implementing Smoke-Free School Policies in Thailand: A Qualitative Study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42438049.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "High-abundance polyphyllin H in Paris qiliangiana: discovery of a novel CYP51-targeting antifungal agent against Sclerotinia sclerotiorum.",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=yield,phytopathogen"
+   ]
+  },
+  {
+   "file": "daily-42439530.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Multi-omics network reconstruction with collaborative graphical lasso.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42439578.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Tobacco smoking and non-communicable disease comorbidity interactively attenuate PASI75 response in psoriasis: a prospective study in Shanghai.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42440196.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Growing Relevance of Decellularized Plant Material as Functional Scaffolds in Tissue Engineering and Cultured Meat: A Scoping Review on Recent Advances, Challenges, and Future Directions.",
+   "journal": "",
+   "reasons": [
+    "subject=tissue regeneration",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42451141.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Real-World Use, Prescribing Patterns, and Short-Term Clinical Evolution of Extensively Hydrolyzed and Hydrolyzed Rice Formulas in Infants with Cow's Milk Protein Allergy: An Analysis from the ETAPA Project.",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42479835.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "The circadian clock controls hepatic stellate cell activation via a BMAL1/CK1ε/REV-ERBα/transgelin signaling pathway.",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42483823.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Securinega alkaloids from the twigs of Flueggea suffruticosa as novel modulators of the skin circadian clock.",
+   "journal": "",
+   "reasons": [
+    "subject=keratinocyte",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42484126.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "One-step preparation of polymeric guanidine-modified straw via internal mixing for green control of soil-borne fungal diseases.",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=biomass"
+   ]
+  },
+  {
+   "file": "daily-42484793.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Integrated spatial analysis and Gaussian dispersion modelling of airborne particulate matter from rice processing mill hubs in rural Bangladesh and associated public health risks.",
+   "journal": "",
+   "reasons": [
+    "subject=lung cancer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42488514.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Cotton Gauze Impregnated With Chitosan Nanoparticle-Loaded Recombinant Human Lactoferrin for Targeting Bacteria-Infected Wounds: An In Vitro Study.",
+   "journal": "",
+   "reasons": [
+    "subject=wound dressing",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42491682.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Determinants of participation and support mechanisms in a paralympic sport training program: evidence from the IDRD program in Bogotá.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42491907.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "The association between caffeine consumption and memory, anxiety, and stress levels among students: A crosssectional study.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42491930.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Plant-based macronutrients and micronutrients in combating osteoporosis: research insights and molecular pathways.",
+   "journal": "",
+   "reasons": [
+    "subject=tissue regeneration",
+    "weak-plant-context=grain"
+   ]
+  },
+  {
+   "file": "daily-42491935.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Digital biomarkers in cardiovascular medicine: a scientific statement of the ESC Working Group on e-Cardiology, the ESC Working Group on Cardiovascular Pharmacotherapy, the European Heart Rhythm Association (EHRA) of the ESC, the Association for Acute Cardiovascular Care (ACVC) of the ESC, the Heart Failure Association (HFA) of the ESC, the European Association of Preventive Cardiology (EAPC) of the ESC, the European Association of Cardiovascular Imaging (EACVI) of the ESC, in collaboration with the Digital Cardiology and Artificial Intelligence Committee of the ESC, and the ESC Regulatory Affairs Committee.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42493596.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Intrinsically disordered regions restrain genomic targeting of RNA and histone demethylases in mammals and plants.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=yield,arabidopsis"
+   ]
+  },
+  {
+   "file": "daily-42493662.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "A versatile platform for two-photon neuronal population voltage imaging across cortical depths.",
+   "journal": "Nature methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "daily-42496941.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Insights into the genomic features of the emerging pathogens Cronobacter malonaticus and Cronobacter turicensis.",
+   "journal": "",
+   "reasons": [
+    "subject=macrophage",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42497296.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Outcomes of Temporary Right Ventricular Assist Device at the Time of Durable Left Ventricular Assist Device Implantation.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42498902.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Anti-inflammatory evaluation of HPLC-GC quantified phytochemicals from Acalypha indica L. using LPS-induced inflammation model.",
+   "journal": "",
+   "reasons": [
+    "subject=rat model",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42500238.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Psychological barriers in future food gatekeepers: How germ aversion and perceived infectability mediate nutrition-related food neophobia among pre-service preschool teachers.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42501144.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Immunomodulatory activity of Inula viscosa (L.) compounds identified via LC-ESI-MS and their COX-2-targeted anti-inflammatory potential: in vitro, in vivo and in silico analysis.",
+   "journal": "",
+   "reasons": [
+    "subject=pharmacokinetic",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42501896.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Prdm15 deficiency perturbs hematopoietic stem and progenitor cell homeostasis.",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42533122.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "Light-activated tetanus neurotoxin for conditional proteolysis and inducible synaptic inhibition in vivo.",
+   "journal": "Nature methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "daily-42544337.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "SOCS3 deficiency drives the primed to naive pluripotency transition by sustaining STAT3 activation.",
+   "journal": "Frontiers in genetics",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42554890.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Rumen epithelial functional adaptation in alpine ewes: transcriptomic effects of micronutrient premix and concentrate supplementation levels.",
+   "journal": "Stress biology",
+   "reasons": [
+    "subject=randomly assigned",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42567348.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Lactiplantibacillus plantarum WY2401 promotes myogenesis via riboflavin-mediated modulation of METTL3-dependent mRNA m6A methylation.",
+   "journal": "Journal of advanced research",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42572174.md",
+   "created": "2026-09-15",
+   "verdict": "suspect",
+   "title": "PSSD: Progressive Spatial-Semantic Decoupling for flow-based gene expression prediction from histology images.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42583122.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Global, regional and national burden of chronic obstructive pulmonary disease and lower respiratory infection attributable to household air pollution and secondhand smoke from 1990 to 2021: an analysis of the Global Burden of Disease Study (GBD 2021).",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42583682.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Perioperative Nursing Management of Unintended Retained Foreign Object-Related Events in Neurosurgery: Insights From a 16-Year Study in China.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42585413.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "In vitro and in vivo biocompatibility and bioactivity of bioceramic repair materials.",
+   "journal": "",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42587840.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Structural Characterization, Physicochemical Stability, and Antioxidant Activity of Rice Glutelin Hydrolysates.",
+   "journal": "Foods",
+   "reasons": [
+    "subject=hepg2",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42608461.md",
+   "created": "2026-09-15",
+   "verdict": "suspect",
+   "title": "PASTA: versatile tyramide-oligonucleotide amplification for multimodal spatial biology.",
+   "journal": "Nature methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "daily-42619904.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Mapping Enteric Neural Circuits by Anterograde Transsynaptic Tracing.",
+   "journal": "bioRxiv : the preprint server for biology",
+   "reasons": [
+    "subject=neuron",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42626965.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Allelic gene conversion softens selective sweeps.",
+   "journal": "",
+   "reasons": [
+    "subject=drosophila",
+    "weak-plant-context=arabidopsis"
+   ]
+  },
+  {
+   "file": "daily-42629007.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "An integrated digestion-transport study of Citrinin, Ochratoxin A and Zearalenone from rice: Influence of matrix and turmeric on human exposure.",
+   "journal": "",
+   "reasons": [
+    "subject=caco-2",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42629071.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A food-derived flavonol, myricetin, mitigates bisphenol S-associated metabolic dysfunction and partial intergenerational lipid dysregulation in Caenorhabditis elegans.",
+   "journal": "",
+   "reasons": [
+    "subject=c. elegans",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42630196.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Tobacco use patterns and the social environment among university students in southern Ecuador.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42630855.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Contrasting structural evolution of starch and protein in aged wheat is associated with interfacial disintegration: implications for nutrient utilization and predictive modeling.",
+   "journal": "",
+   "reasons": [
+    "subject=broiler",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42631084.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Liquid feeding of miscellaneous grain and meal diets with enzymes improved growth performance and intestinal health of growing pigs.",
+   "journal": "",
+   "reasons": [
+    "subject=production performance",
+    "weak-plant-context=grain"
+   ]
+  },
+  {
+   "file": "daily-42632063.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Functional Specialization of Respiratory and Olfactory Mucus Revealed by Proteomic Profiling.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42632660.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Urinary multi-mycotoxin exposure in the Portuguese population and associated sociodemographic determinants.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42633556.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Plant Spatio-Temporal Integration Network (PSTN): a framework for dynamic single-cell and spatial transcriptomics in fungal-plant interactions.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42633806.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Structural heterogeneity, processing transformation, and gut microbiota-related immunomodulation of Glycyrrhiza polysaccharide: A review.",
+   "journal": "",
+   "reasons": [
+    "subject=gut microbiota",
+    "weak-plant-context=transformation"
+   ]
+  },
+  {
+   "file": "daily-42633926.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Cancer Biobank Aichi (CBBA): A Hospital-Based Prospective Biobank Embedded in First-Visit Outpatient Flow at Aichi Cancer Center, Japan.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42634106.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Nicotine Pouch Advertising and Sales in Australia: A Qualitative Study of Younger People's Experiences.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42634791.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Gossypiboma Mimicking Ovarian Mass: A Rare Case Report from Rwanda.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42635196.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "miRBind2 enables sequence-only prediction of miRNA binding and transcript repression.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42635200.md",
+   "created": "2026-09-15",
+   "verdict": "suspect",
+   "title": "SlotDeconv: spatial transcriptomics deconvolution via diversity-constrained prototype learning and spatial refinement.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42635216.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "SPIDER: spatially integrated denoising via embedding regularization with single cell supervision.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42635245.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "Chiron3D: an interpretable deep learning framework for understanding the DNA code of chromatin looping.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42635962.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Effusion and synovial hyperplasia: Distinct constructs in early and late-stage knee OA.",
+   "journal": "",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42636032.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "miRSiC: a regulatory-aware machine learning framework for microRNA expression inference across bulk and single-cell transcriptomes.",
+   "journal": "Briefings in bioinformatics",
+   "reasons": [
+    "general-method=briefings in bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42636052.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "What doesn't kill you (sometimes) makes you stronger: The role of growth, meaning, and perceived control after trauma.",
+   "journal": "",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42640452.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "Comparison of classic statistical methods and machine learning approaches to classify readiness.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42661754.md",
+   "created": "2026-08-29",
+   "verdict": "suspect",
+   "title": "The microgenderome in migraine: integrating sex hormones, microbial composition, and metabolic profiles into a sex-related framework.",
+   "journal": "Frontiers in microbiology",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=grain"
+   ]
+  },
+  {
+   "file": "daily-42668816.md",
+   "created": "2026-08-31",
+   "verdict": "suspect",
+   "title": "Higher shock index at presentation is associated with mortality in stray cats at an emergency medical center.",
+   "journal": "PeerJ",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42668825.md",
+   "created": "2026-08-31",
+   "verdict": "suspect",
+   "title": "In vivo deviation of residual ridge between digital and conventional impressions in the partially edentulous maxilla: a pilot study.",
+   "journal": "PeerJ",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42675615.md",
+   "created": "2026-09-02",
+   "verdict": "suspect",
+   "title": "mmVelo: a deep generative model for estimating cell state-dependent dynamics across multiple modalities.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42675619.md",
+   "created": "2026-09-02",
+   "verdict": "suspect",
+   "title": "MultiDMPcaller: a one-stop software for detection and visualization of differentially methylated positions and regions.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42677280.md",
+   "created": "2026-09-02",
+   "verdict": "suspect",
+   "title": "Active ingredients of Astragalus-ginseng against COPD-associated sarcopenia: network pharmacology and molecular dynamics simulations.",
+   "journal": "PeerJ",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "daily-42678358.md",
+   "created": "2026-09-02",
+   "verdict": "suspect",
+   "title": "ECHO: a nanopore sequencing-based workflow for (epi)genetic profiling of the human repeatome.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42683584.md",
+   "created": "2026-09-03",
+   "verdict": "suspect",
+   "title": "The piRNA pathway mediates transcriptional silencing of LTR retrotransposons in ovaries and somatic tissues of Aedes mosquitoes.",
+   "journal": "Nucleic acids research",
+   "reasons": [
+    "subject=cell line",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42684039.md",
+   "created": "2026-09-03",
+   "verdict": "suspect",
+   "title": "sortscore: Sort-seq MAVE scoring and visualization using Python.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42700469.md",
+   "created": "2026-09-08",
+   "verdict": "suspect",
+   "title": "Methylosome and survival motor neuron complexes are dispensable for plant viability in Arabidopsis thaliana.",
+   "journal": "Plant physiology",
+   "reasons": [
+    "subject=neuron",
+    "weak-plant-context=arabidopsis"
+   ]
+  },
+  {
+   "file": "daily-42702184.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Pigmented cereals as functional food systems: Linking phytochemistry, processing, and health.",
+   "journal": "Food chemistry",
+   "reasons": [
+    "subject=neuroprotect",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42704269.md",
+   "created": "2026-09-08",
+   "verdict": "suspect",
+   "title": "TL-HDMR: a transfer learning framework for advancing equitable causal inference reveals metabolic signatures of stroke across multiple ancestries.",
+   "journal": "Briefings in bioinformatics",
+   "reasons": [
+    "general-method=briefings in bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42704271.md",
+   "created": "2026-09-08",
+   "verdict": "suspect",
+   "title": "Dynamic multimodal survival prediction in multiple myeloma integrating gene expression, longitudinal laboratory measurements, and treatment history.",
+   "journal": "Briefings in bioinformatics",
+   "reasons": [
+    "general-method=briefings in bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42707807.md",
+   "created": "2026-09-09",
+   "verdict": "suspect",
+   "title": "Discovery of penicillic acid from mangrove endophytic fungi: anti-Vibrio screening and cell envelope disruption in V. parahaemolyticus.",
+   "journal": "Frontiers in microbiology",
+   "reasons": [
+    "subject=keratinocyte",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42708413.md",
+   "created": "2026-09-09",
+   "verdict": "suspect",
+   "title": "Loss of SUMOylation drives aberrant PRC1 clustering and 3D genome rewiring independent of H3K27me3.",
+   "journal": "Nucleic acids research",
+   "reasons": [
+    "subject=drosophila",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42711689.md",
+   "created": "2026-09-10",
+   "verdict": "suspect",
+   "title": "Conservation of Long G4-rich (LG4) genomic enhancer regulations.",
+   "journal": "BMC genomics",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42712178.md",
+   "created": "2026-09-10",
+   "verdict": "suspect",
+   "title": "Mismatch repair protein MLH1 controls testis development by regulating the Hippo-YAP signaling pathway.",
+   "journal": "Nucleic acids research",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42713482.md",
+   "created": "2026-09-10",
+   "verdict": "suspect",
+   "title": "Integrative analysis of rumen microbiome and host metabolism reveals adaptive strategies of Boer goats to high-altitude environments.",
+   "journal": "Frontiers in microbiology",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42713600.md",
+   "created": "2026-09-10",
+   "verdict": "suspect",
+   "title": "Development of a PCR-based technique for genotyping UGT1A1 gene and distribution of rs3064744 alleles in the Russian population.",
+   "journal": "Frontiers in genetics",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42716490.md",
+   "created": "2026-09-11",
+   "verdict": "suspect",
+   "title": "SpacerScope: binary-vectorized, genome-wide off-target profiling for RNA-guided nucleases without prior candidate-site bias.",
+   "journal": "Briefings in bioinformatics",
+   "reasons": [
+    "general-method=briefings in bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42716492.md",
+   "created": "2026-09-11",
+   "verdict": "suspect",
+   "title": "A computational framework for proteome-wide target profiling of natural products: mechanistic and therapeutic insights into ginsenosides.",
+   "journal": "Briefings in bioinformatics",
+   "reasons": [
+    "general-method=briefings in bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42720608.md",
+   "created": "2026-09-11",
+   "verdict": "suspect",
+   "title": "HiCPotts: an R/bioconductor package to identify significant interactions in chromosome conformation capture data and model sources of bias.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42720611.md",
+   "created": "2026-09-11",
+   "verdict": "suspect",
+   "title": "Partaker: deep-learning-based single-cell-resolution analysis of multi-dimensional, long-term, microfluidic-based time-lapse microscopy data.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42720963.md",
+   "created": "2026-09-11",
+   "verdict": "suspect",
+   "title": "Phys-AbGAT: a physics-informed multi-task graph attention network for robust antibody-antigen binding affinity prediction.",
+   "journal": "Bioinformatics",
+   "reasons": [
+    "general-method=bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42721833.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "Neurotoxicological concerns: Azole fungicides as mixed/noncompetitive inhibitors of human and rat 5α-reductase 1.",
+   "journal": "Journal of hazardous materials",
+   "reasons": [
+    "subject=rat model",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42725432.md",
+   "created": "2026-09-12",
+   "verdict": "suspect",
+   "title": "Altered neuronal start codon stringency favors cap-independent repeat-associated non-AUG translation.",
+   "journal": "Nucleic acids research",
+   "reasons": [
+    "subject=neuron",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "daily-42725919.md",
+   "created": "2026-09-12",
+   "verdict": "suspect",
+   "title": "DLRNA-BERTa: a transformer approach for predicting molecule-RNA binding affinities.",
+   "journal": "Briefings in bioinformatics",
+   "reasons": [
+    "general-method=briefings in bioinformatics"
+   ]
+  },
+  {
+   "file": "daily-42728396.md",
+   "created": "2026-09-14",
+   "verdict": "suspect",
+   "title": "An ultralow-background far-red light-responsive optogenetic tool based on an engineered biliverdin-binding domain.",
+   "journal": "Nature methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "daily-42733056.md",
+   "created": "2026-09-15",
+   "verdict": "suspect",
+   "title": "Bone aging: a paradigm of multiscale degeneration and targeted rejuvenation.",
+   "journal": "Bone research",
+   "reasons": [
+    "subject=organoid",
+    "weak-plant-context=senescence"
+   ]
+  },
+  {
+   "file": "daily-42859010.md",
+   "created": "2026-11-03",
+   "verdict": "suspect",
+   "title": "Biomass-derived photoluminescent carbon quantum dots for preservation and smart quality monitoring of apple juice.",
+   "journal": "Food research international",
+   "reasons": [
+    "subject=fibroblast",
+    "weak-plant-context=biomass"
+   ]
+  },
+  {
+   "file": "daily-42890310.md",
+   "created": "2026-11-02",
+   "verdict": "suspect",
+   "title": "Integrated identification of CYP1A1 and CYP1B1 as potential drivers of smoking-related lung carcinogenesis.",
+   "journal": "3 Biotech",
+   "reasons": [
+    "subject=lung cancer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "dpdf-10-1038-s41592-024-02378-4.md",
+   "created": "2026-06-04",
+   "verdict": "suspect",
+   "title": "Gene-level alignment of single-cell trajectories",
+   "journal": "Nature Methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "ms-10-1002_advs-77227.md",
+   "created": "2026-09-01",
+   "verdict": "suspect",
+   "title": "WTAP Transcriptional Suppression by KLF9 Drives Osteoclastogenesis via M6A-Mediated Regulation of CSF1R Signaling in Estrogen-Deficient Osteoporosis.",
+   "journal": "Advanced Science",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s00330-026-12660-y.md",
+   "created": "2026-06-16",
+   "verdict": "suspect",
+   "title": "Clinical significance of lesion conspicuity on contrast-enhanced mammography.",
+   "journal": "European Radiology",
+   "reasons": [
+    "subject=biopsy",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s00401-026-03060-z.md",
+   "created": "2026-08-28",
+   "verdict": "suspect",
+   "title": "Distinctive properties of the prion protein in the brain and retina in the amyloidosis associated with the PRNP F198S mutation.",
+   "journal": "Acta Neuropathologica",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s00421-026-06410-7.md",
+   "created": "2026-09-01",
+   "verdict": "suspect",
+   "title": "Differential homeostatic reorganization during high-altitude trekking: multisystemic adaptations and organ-specific resilience.",
+   "journal": "European Journal of Applied Physiology",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s11033-026-12664-3.md",
+   "created": "2026-08-29",
+   "verdict": "suspect",
+   "title": "Lactylation: A central metabolic-epigenetic driver of sepsis-associated acute kidney injury.",
+   "journal": "Molecular Biology Reports",
+   "reasons": [
+    "subject=macrophage",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s11357-026-02433-2.md",
+   "created": "2026-07-23",
+   "verdict": "suspect",
+   "title": "Hypertension-associated DNA methylation signatures and multi-generational epigenetic clocks in Korean adults.",
+   "journal": "GeroScience",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s12311-026-02057-4.md",
+   "created": "2026-07-23",
+   "verdict": "suspect",
+   "title": "Differentially Methylated Regions in Human Rhombic Lip Compartments Are Enriched in Putative Active Enhancers, Human Accelerated Regions, and Medulloblastoma Copy Number Aberrations.",
+   "journal": "The Cerebellum",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1007_s12325-026-03607-2.md",
+   "created": "2026-06-08",
+   "verdict": "suspect",
+   "title": "Sepiapterin: A Distinct, Dual Mechanism of Action that Leads to Potential Treatment Benefits Across the Spectrum of Phenylketonuria Disease Severities.",
+   "journal": "Advances in Therapy",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-aninu-2026-01-019.md",
+   "created": "2026-08-23",
+   "verdict": "suspect",
+   "title": "Dietary folic acid coordinates growth and lipid metabolism through gut microbial and one-carbon networks in juvenile mud crab (Scylla paramamosain).",
+   "journal": "PubMed",
+   "reasons": [
+    "subject=gut microbiota",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-bbi-2026-106822.md",
+   "created": "2026-06-03",
+   "verdict": "suspect",
+   "title": "Multi-omics profiling of cerebrospinal fluid in autoimmune encephalitis: insights into pathogenesis and therapeutic targets.",
+   "journal": "Brain, Behavior, and Immunity",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-cbd-2026-101910.md",
+   "created": "2026-06-20",
+   "verdict": "suspect",
+   "title": "Multi-omics insights into the physiological mechanisms of bile acid accumulation in the gallbladder in brumation-like snakes.",
+   "journal": "Comparative Biochemistry and Physiology Part D: Genomics and Proteomics",
+   "reasons": [
+    "subject=gut microbiota",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-compbiolchem-2026-109100.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Normalization choice drives biological interpretation in single-cell RNA-seq cancer studies: A systematic benchmarking of 465 computational pipelines.",
+   "journal": "Computational Biology and Chemistry",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-compbiolchem-2026-109347.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Deciphering tissue architecture with StKAN: A multi-modal deep learning framework combining morphology and spatial transcriptomics.",
+   "journal": "Computational Biology and Chemistry",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-fsigen-2026-103595.md",
+   "created": "2026-08-13",
+   "verdict": "suspect",
+   "title": "Male DNA on underwear: Can Y- STR results help discriminate activities?",
+   "journal": "Forensic Science International: Genetics",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-isci-2026-117256.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Form and function of actin impacts actin health and aging.",
+   "journal": "iScience",
+   "reasons": [
+    "subject=intestinal barrier",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-jbspin-2026-106074.md",
+   "created": "2026-06-03",
+   "verdict": "suspect",
+   "title": "Strategies to overcome the full potential of mesenchymal stromal cells (MSCs) for the treatment of osteoarthritis and cartilage regeneration.",
+   "journal": "Joint Bone Spine",
+   "reasons": [
+    "subject=tissue regeneration",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-jgg-2026-07-013.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Identification and quantification of alternative polyadenylation sites in single cell RNA-seq data using scPAISO.",
+   "journal": "Journal of Genetics and Genomics",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-micpath-2026-108768.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Single-nucleus transcriptomic atlas of the goat lung characterizes cell types associated with Pasteurella multocida infection.",
+   "journal": "Microbial Pathogenesis",
+   "reasons": [
+    "subject=macrophage",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-neuroimage-2026-122175.md",
+   "created": "2026-09-03",
+   "verdict": "suspect",
+   "title": "Privacy-preserving visualization of brain functional connectivity.",
+   "journal": "NeuroImage",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-synbio-2026-03-017.md",
+   "created": "2026-06-03",
+   "verdict": "suspect",
+   "title": "Synergistic engineering of monoterpenoid synthase and metabolic pathways to enhance α-terpineol production in Saccharomyces cerevisiae.",
+   "journal": "Synthetic and Systems Biotechnology",
+   "reasons": [
+    "subject=production performance",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-synbio-2026-03-021.md",
+   "created": "2026-06-20",
+   "verdict": "suspect",
+   "title": "Key molecular networks underlying retinol's biphasic effects on cell proliferation through multi-omics integrative analysis using genome-scale metabolic modeling.",
+   "journal": "Synthetic and Systems Biotechnology",
+   "reasons": [
+    "subject=fibroblast",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-synbio-2026-08-002.md",
+   "created": "2026-08-23",
+   "verdict": "suspect",
+   "title": "Genome-integrated engineering of Escherichia coli Nissle 1917 enables sustained gut-local biosynthesis of 5-hydroxytryptophan.",
+   "journal": "Synthetic and Systems Biotechnology",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-synbio-2026-08-005.md",
+   "created": "2026-08-23",
+   "verdict": "suspect",
+   "title": "Strategies and applications for alleviating carbon catabolite repression.",
+   "journal": "Synthetic and Systems Biotechnology",
+   "reasons": [
+    "subject=production performance",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-talanta-2026-130354.md",
+   "created": "2026-08-13",
+   "verdict": "suspect",
+   "title": "Design of a red-emitting camphor-derived benzothiazole ratiometric fluorescent probe for hydrazine detection in environmental samples and its versatile imaging applications in live cells, zebrafish and Arabidopsis thaliana.",
+   "journal": "Talanta",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=arabidopsis"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-tice-2026-103800.md",
+   "created": "2026-07-23",
+   "verdict": "suspect",
+   "title": "Radioprotective effects of melatonin on colon epithelium: Role in oxidative stress and Bax/Bcl-2 regulation.",
+   "journal": "Tissue and Cell",
+   "reasons": [
+    "subject=rats",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-tice-2026-103830.md",
+   "created": "2026-08-13",
+   "verdict": "suspect",
+   "title": "Prunin attenuates aflatoxin B1-induced testicular toxicity by alleviating oxidative stress and modulating TLR4/MyD88/NF-κB and Bax/Bcl-2/Caspase-3 signaling pathways.",
+   "journal": "Tissue and Cell",
+   "reasons": [
+    "subject=rats",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1016_j-watres-2026-126745.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "Dose-dependent duality: Extracellular vesicles shift from metabolic facilitators to cytotoxic effectors during anaerobic denitrification.",
+   "journal": "Water Research",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41413-026-00568-8.md",
+   "created": "2026-08-13",
+   "verdict": "suspect",
+   "title": "Youthfulness of marrow Adipoq+ cells maintained by Cbfβ facilitates stem cell-based bone repair.",
+   "journal": "Bone Research",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=senescence"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-73806-6.md",
+   "created": "2026-06-07",
+   "verdict": "suspect",
+   "title": "Molecular glue that stabilizes the LRPPRC-MET-G4 interaction complex to drive MET downregulation.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-73840-4.md",
+   "created": "2026-06-05",
+   "verdict": "suspect",
+   "title": "Timed secreted proteomes reveal regulation of hepatokines by the liver circadian clock.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-73856-w.md",
+   "created": "2026-06-16",
+   "verdict": "suspect",
+   "title": "PAR3-mediated coordination of hepatocyte proliferation, maturation, and architecture in liver development and regeneration.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=murine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-73996-z.md",
+   "created": "2026-06-05",
+   "verdict": "suspect",
+   "title": "Genetic architecture of white matter microstructure captured by unsupervised deep representation learning of fractional anisotropy maps.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=astrocyte",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-74184-9.md",
+   "created": "2026-06-12",
+   "verdict": "suspect",
+   "title": "Corylin promotes healthy aging via RAGA-mTOR suppression and sex-dependent activation of SIRT3.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-74323-2.md",
+   "created": "2026-06-17",
+   "verdict": "suspect",
+   "title": "Molecular pharmacodynamics of amoxicillin-clavulanic acid for urinary tract infections caused by Escherichia coli.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=pharmacokinetic",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-77310-9.md",
+   "created": "2026-09-09",
+   "verdict": "suspect",
+   "title": "Telomere variant sequences encode the genetic blueprint for allele-specific telomere length.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=cell line",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41467-026-77311-8.md",
+   "created": "2026-09-03",
+   "verdict": "suspect",
+   "title": "High-throughput functional characterization of enhancers in totipotent-like cells.",
+   "journal": "Nature Communications",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41526-026-00622-z.md",
+   "created": "2026-06-16",
+   "verdict": "suspect",
+   "title": "Long-term molecular effects of 16O-ion exposure in rat brain and implications for space radiation risk.",
+   "journal": "npj Microgravity",
+   "reasons": [
+    "subject=rats",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41587-026-03160-x.md",
+   "created": "2026-06-04",
+   "verdict": "suspect",
+   "title": "Programmable, multiplexed and orthogonal gene control in bacteria with attenuated Cas13d systems.",
+   "journal": "Nature Biotechnology",
+   "reasons": [
+    "general-method=nature biotechnology"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41588-026-02733-5.md",
+   "created": "2026-09-24",
+   "verdict": "suspect",
+   "title": "Single-nucleus atlas of cell-type specific genetic regulation in the human brain.",
+   "journal": "Nature Genetics",
+   "reasons": [
+    "subject=alzheimer",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41588-026-02735-3.md",
+   "created": "2026-08-28",
+   "verdict": "suspect",
+   "title": "Dissecting pleiotropy between major depressive disorder and physical disease comorbidities.",
+   "journal": "Nature Genetics",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41592-026-03177-9.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "GHT-SELEX demonstrates unexpectedly high intrinsic sequence specificity and complex DNA binding of many human transcription factors.",
+   "journal": "Nature Methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41592-026-03194-8.md",
+   "created": "2026-08-27",
+   "verdict": "suspect",
+   "title": "Beyond benchmarking: an expert-guided consensus approach to spatially aware clustering.",
+   "journal": "Nature Methods",
+   "reasons": [
+    "general-method=nature methods"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41597-026-08280-2.md",
+   "created": "2026-09-13",
+   "verdict": "suspect",
+   "title": "Multi-tissue mRNA-seq, miRNA-seq and single-cell RNA-seq data from heat-stressed lactating Holstein cows",
+   "journal": "Scientific Data",
+   "reasons": [
+    "subject=cattle",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-54888-0.md",
+   "created": "2026-06-08",
+   "verdict": "suspect",
+   "title": "Voluntary running exercise is associated with metabolic shifts linked to adult hippocampal neurogenesis.",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-55182-9.md",
+   "created": "2026-06-16",
+   "verdict": "suspect",
+   "title": "Lipid ligand binding and membrane interactions of a novel food-derived lipid transfer protein enhance basophil allergic responses.",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=gut microbiome",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-56192-3.md",
+   "created": "2026-06-05",
+   "verdict": "suspect",
+   "title": "Efficient design and production of glycosylated PEDV spike S1 protein.",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=porcine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-57120-1.md",
+   "created": "2026-06-14",
+   "verdict": "suspect",
+   "title": "Particulate matter 2.5 induced inflammatory responses and metabolic alterations in human monocytes.",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s41598-026-62770-2.md",
+   "created": "2026-07-24",
+   "verdict": "suspect",
+   "title": "Exploring the role of pain-related fear and lifting biomechanics in predicting low back pain incidence using supervised machine learning.",
+   "journal": "Scientific Reports",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s42256-026-01268-y.md",
+   "created": "2026-07-27",
+   "verdict": "suspect",
+   "title": "Capable language models can outgrow the benefits of collaboration",
+   "journal": "Nature Machine Intelligence",
+   "reasons": [
+    "general-method=nature machine intelligence"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s42256-026-01296-8.md",
+   "created": "2026-08-28",
+   "verdict": "suspect",
+   "title": "Life-inspired interoceptive artificial intelligence for autonomous and adaptive agents",
+   "journal": "Nature Machine Intelligence",
+   "reasons": [
+    "general-method=nature machine intelligence"
+   ]
+  },
+  {
+   "file": "ms-10-1038_s44318-026-00829-6.md",
+   "created": "2026-06-08",
+   "verdict": "suspect",
+   "title": "Human immunosuppressive neutrophils: recent answers to old and new questions.",
+   "journal": "The EMBO Journal",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1080_17501911-2026-2685054.md",
+   "created": "2026-06-13",
+   "verdict": "suspect",
+   "title": "Epigenetic regulation of nuclear mechanics.",
+   "journal": "Epigenomics",
+   "reasons": [
+    "subject=metastasis",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1093_jbmrpl_ziag142.md",
+   "created": "2026-08-24",
+   "verdict": "suspect",
+   "title": "Inhibition of EED enhances osteogenic differentiation and bone formation: a potential therapeutic strategy for osteogenesis imperfecta.",
+   "journal": "JBMR Plus",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1096_fj-202601335r.md",
+   "created": "2026-06-11",
+   "verdict": "suspect",
+   "title": "H3.3K36me3 Reader ZMYND11 Localizes to Gene Promoter and Regulates Transcription Initiation.",
+   "journal": "The FASEB Journal",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1126_sciadv-adw9707.md",
+   "created": "2026-07-26",
+   "verdict": "suspect",
+   "title": "Single-cell and high-resolution spatial profiling of podocytopathies reveals core mechanisms of podocyte injury.",
+   "journal": "Science Advances",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1126_sciadv-adz6836.md",
+   "created": "2026-07-26",
+   "verdict": "suspect",
+   "title": "Synaptic vesicles that store monoamines and glutamate differ in protein composition.",
+   "journal": "Science Advances",
+   "reasons": [
+    "subject=neuron",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1128_mbio-00661-26.md",
+   "created": "2026-06-17",
+   "verdict": "suspect",
+   "title": "An epigenetic mechanism of azole tolerance facilitates acquired antifungal resistance in Aspergillus fumigatus.",
+   "journal": "mBio",
+   "reasons": [
+    "subject=murine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1167_iovs-67-6-9.md",
+   "created": "2026-06-07",
+   "verdict": "suspect",
+   "title": "Stress Responsive bZIP Transcription Factors ATF4 and BACH1 Cooperate With MAF-Family bZIP Protein NRL to Fine-Tune Rod Photoreceptor Gene Expression.",
+   "journal": "Investigative Ophthalmology & Visual Science",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=photoreceptor"
+   ]
+  },
+  {
+   "file": "ms-10-1167_tvst-15-8-17.md",
+   "created": "2026-08-23",
+   "verdict": "suspect",
+   "title": "Development of a Targeted Choroidal Injury Model for the Study of Retinal Degenerations and Therapeutic Cell Replacement.",
+   "journal": "Translational Vision Science & Technology",
+   "reasons": [
+    "subject=rats",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1172_jci-insight-201060.md",
+   "created": "2026-06-11",
+   "verdict": "suspect",
+   "title": "Benchmarking urinary cell transcriptomes for noninvasive differentiation of BK polyomavirus-associated nephropathy from T cell-mediated rejection.",
+   "journal": "JCI Insight",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1177_19373368261485522.md",
+   "created": "2026-09-13",
+   "verdict": "suspect",
+   "title": "Mitochondrial Homeostasis in Trabecular Meshwork Cells: A Potential Mechanism in Glaucoma.",
+   "journal": "Tissue Engineering Part B Reviews",
+   "reasons": [
+    "journal-medical=tissue engineering",
+    "no-plant-organism-in-title"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s11671-026-04813-1.md",
+   "created": "2026-07-23",
+   "verdict": "suspect",
+   "title": "Research and application advances in real-time single-cell functional analysis.",
+   "journal": "Discover Nano",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s12859-026-06632-8.md",
+   "created": "2026-09-09",
+   "verdict": "suspect",
+   "title": "PathwayBench: a multi-criterion benchmark of pseudobulk pathway activity scoring methods reveals rank-window truncation as a two-sided mechanism of biological signal loss in single-cell RNA-seq",
+   "journal": "BMC Bioinformatics",
+   "reasons": [
+    "general-method=bmc bioinformatics"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s12859-026-06674-y.md",
+   "created": "2026-10-07",
+   "verdict": "suspect",
+   "title": "Degree-restricted minimum spanning trees for binary cell trajectory inference in single-cell RNA-seq data",
+   "journal": "BMC Bioinformatics",
+   "reasons": [
+    "general-method=trajectory inference"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s12863-026-01453-3.md",
+   "created": "2026-06-18",
+   "verdict": "suspect",
+   "title": "Muscle-specific CUT&amp;Tag profiling dataset of UNC-130 in Caenorhabditis elega",
+   "journal": "BMC Genomic Data",
+   "reasons": [
+    "subject=c. elegans",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s13072-026-00690-1.md",
+   "created": "2026-07-26",
+   "verdict": "suspect",
+   "title": "ASH2L-mediated H3K4me3 methylation governs palatal development by regulating WNT5B.",
+   "journal": "Epigenetics & Chromatin",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s13073-026-01720-z.md",
+   "created": "2026-07-26",
+   "verdict": "suspect",
+   "title": "Cumulative cgMLST provides increased discrimination of nested phylogenetic groups.",
+   "journal": "Genome Medicine",
+   "reasons": [
+    "general-method=genome medicine"
+   ]
+  },
+  {
+   "file": "ms-10-1186_s13073-026-01753-4.md",
+   "created": "2026-09-01",
+   "verdict": "suspect",
+   "title": "Integrative single-cell RNA-seq and TCR repertoire analysis reveals distinct immunological features of acute liver allograft rejection",
+   "journal": "Genome Medicine",
+   "reasons": [
+    "general-method=genome medicine"
+   ]
+  },
+  {
+   "file": "ms-10-1371_journal-pbio-3003563.md",
+   "created": "2026-07-26",
+   "verdict": "suspect",
+   "title": "sept-1/zina-1 is an ancient toxin-antidote system in Caenorhabditis elegans.",
+   "journal": "PLoS Biology",
+   "reasons": [
+    "subject=c. elegans",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1371_journal-pbio-3003935.md",
+   "created": "2026-08-13",
+   "verdict": "suspect",
+   "title": "Lateralised neural mechanisms facilitate auditory self-other distinction and coordination in human dyads.",
+   "journal": "PLoS Biology",
+   "reasons": [
+    "subject=participants",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-1371_journal-pgen-1012267.md",
+   "created": "2026-08-13",
+   "verdict": "suspect",
+   "title": "Integrating short-read and long-read single-cell transcriptomics of pig pituitary reveals mechanisms of high-altitude hypoxia adaptation.",
+   "journal": "PLoS Genetics",
+   "reasons": [
+    "subject=porcine",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-2174_0115748936401797251030055501.md",
+   "created": "2026-10-09",
+   "verdict": "suspect",
+   "title": "RF-SCGFS: A Feature Selection Method Based on Secuer and Random Forest Model for Single-cell RNA-Seq Data",
+   "journal": "Current Bioinformatics",
+   "reasons": [
+    "general-method=current bioinformatics"
+   ]
+  },
+  {
+   "file": "ms-10-3120_0024-9637-260016.md",
+   "created": "2026-06-20",
+   "verdict": "suspect",
+   "title": "DEER MICE AND LOW PRECIPITATION LIMIT SEEDLING RECRUITMENT IN A RARE, ENDEMIC ISLAND SHRUB (MALVA ASSURGENTIFLORA SUBSP. ASSURGENTIFLORA)",
+   "journal": "Madroño",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=seedling"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1814812.md",
+   "created": "2026-06-03",
+   "verdict": "suspect",
+   "title": "Involvement of the pyroptosis-HMGB1 axis in systemic diseases.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1858789.md",
+   "created": "2026-06-13",
+   "verdict": "suspect",
+   "title": "Exit from totipotency in mammals: an epigenetic perspective.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1878787.md",
+   "created": "2026-08-26",
+   "verdict": "suspect",
+   "title": "From immune dysregulation to renal injury: mechanistic insights and translational opportunities in immune-mediated nephropathies.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=macrophage",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcell-2026-1893353.md",
+   "created": "2026-09-11",
+   "verdict": "suspect",
+   "title": "Lineage tracing reveals KSP+ cells as multipotent progenitors driving postnatal renal development and injury repair via notch signaling.",
+   "journal": "Frontiers in Cell and Developmental Biology",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fcimb-2026-1835100.md",
+   "created": "2026-06-12",
+   "verdict": "suspect",
+   "title": "Investigation of the essential role of capsular polysaccharide in serotype 1 Streptococcus pneumoniae.",
+   "journal": "Frontiers in Cellular and Infection Microbiology",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fendo-2026-1904695.md",
+   "created": "2026-09-05",
+   "verdict": "suspect",
+   "title": "Amniotic-fluid metabolomics identifies phospholipid remodeling as a metabolic signature of intrauterine exposure in pregnancies with polycystic ovary syndrome.",
+   "journal": "Frontiers in Endocrinology",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fgene-2026-1823611.md",
+   "created": "2026-08-13",
+   "verdict": "suspect",
+   "title": "Transcriptomic landscape of human circular RNAs: unveiling molecular mechanisms in high-altitude adaptation.",
+   "journal": "Frontiers in Genetics",
+   "reasons": [
+    "subject=endothelial",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fmicb-2026-1880134.md",
+   "created": "2026-08-25",
+   "verdict": "suspect",
+   "title": "A chimeric, half-life extended lysin with a unique mode of action.",
+   "journal": "Frontiers in Microbiology",
+   "reasons": [
+    "subject=pharmacokinetic",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fphys-2026-1811143.md",
+   "created": "2026-06-03",
+   "verdict": "suspect",
+   "title": "Sodium butyrate attenuates D-galactose-induced cellular senescence in WI-38 fibroblasts in vitro via modulation of HDAC activity, Nrf2/ARE pathway, and p53/p21/p16 signaling.",
+   "journal": "Frontiers in Physiology",
+   "reasons": [
+    "subject=fibroblast",
+    "weak-plant-context=senescence"
+   ]
+  },
+  {
+   "file": "ms-10-3389_fsufs-2026-1828231.md",
+   "created": "2026-06-11",
+   "verdict": "suspect",
+   "title": "Integrated use of chicken manure and seaweed extract increased tomato yield at reduced nitrogen fertilization in semi-arid conditions",
+   "journal": "Frontiers in Sustainable Food Systems",
+   "reasons": [
+    "subject=chicken",
+    "weak-plant-context=yield"
+   ]
+  },
+  {
+   "file": "ms-10-36922_or026140022.md",
+   "created": "2026-07-26",
+   "verdict": "suspect",
+   "title": "Programmable hydrogel matrices for oral and maxillofacial organoids: Engineering mechanobiological and biochemical niches to reverse tissue senescence",
+   "journal": "Organoid Research",
+   "reasons": [
+    "subject=organoid",
+    "weak-plant-context=senescence"
+   ]
+  },
+  {
+   "file": "ms-10-5114_bta_220617.md",
+   "created": "2026-06-16",
+   "verdict": "suspect",
+   "title": "Understanding the biology of mucormycosis using contemporary omics tools: a review.",
+   "journal": "BioTechnologia",
+   "reasons": [
+    "subject=patients",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-64898_2026-05-29-728167.md",
+   "created": "2026-06-04",
+   "verdict": "suspect",
+   "title": "Histone succinylation directly inhibits Jumonji domain demethylases and stabilizes repressive chromatin states.",
+   "journal": "bioRxiv",
+   "reasons": [
+    "subject=hepg2",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-64898_2026-06-04-729929.md",
+   "created": "2026-06-09",
+   "verdict": "suspect",
+   "title": "Somatic cells non-autonomously control germline incomplete cytokinesis through FGF signaling.",
+   "journal": "bioRxiv",
+   "reasons": [
+    "subject=drosophila",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-64898_2026-06-05-730478.md",
+   "created": "2026-06-09",
+   "verdict": "suspect",
+   "title": "Hippocampal CA2 modulates trace fear conditioning through circuit-specific control of CA1.",
+   "journal": "bioRxiv",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ms-10-64898_2026-06-05-730538.md",
+   "created": "2026-06-13",
+   "verdict": "suspect",
+   "title": "M6A-modified circEZH2 Protects Endothelial Cells from Senescence and Suppresses",
+   "journal": "bioRxiv",
+   "reasons": [
+    "subject=endothelial",
+    "weak-plant-context=senescence"
+   ]
+  },
+  {
+   "file": "ms-10-64898_2026-06-08-730950.md",
+   "created": "2026-06-12",
+   "verdict": "suspect",
+   "title": "Two SID-1-dependent genes sensitive to heritable epigenetic changes can also impact reproduction.",
+   "journal": "bioRxiv",
+   "reasons": [
+    "subject=c. elegans",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "pdf-j-cell-2014-04-009.md",
+   "created": "2026-06-01",
+   "verdict": "suspect",
+   "title": "Successful execution of working memory linked to synchronized high-frequency gamma oscillations.",
+   "journal": "Cell",
+   "reasons": [
+    "subject=mice",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-btaa997.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "movAPA ：生物样本中替代聚腺苷酸化动态的建模和可视化",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-gkr591.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Measuring cell identity in noisy biological systems.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-gr-161034-113.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "From single-cell to cell-pool transcriptomes: Stochasticity in gene expression and RNA splicing",
+   "journal": "",
+   "reasons": [
+    "subject=cell line",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-j-cell-2015-05-002.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Highly Parallel Genome-wide Expression Profiling of Individual Cells Using Nanoliter Droplets",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-j-cell-2019-03-006.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A Jasmonate Signaling Network Activates Root Stem Cells and Promotes Regeneratio",
+   "journal": "",
+   "reasons": [
+    "subject=tissue regeneration",
+    "weak-plant-context=jasmonate signaling"
+   ]
+  },
+  {
+   "file": "ref-j-freeradbiomed-2012-10-5.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Reactive oxygen species-dependent wound responses in animals and plants.",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=arabidopsis"
+   ]
+  },
+  {
+   "file": "ref-j-molcel-2017-01-023.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Comparative Analysis of Single-Cell RNA Sequencing Methods.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-msb-20156198.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Single-cell polyadenylation site mapping reveals 3' isoform choice variability.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-ng-548.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Variance component model to account for sample structure in genome-wide association studies",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-nmeth-4407.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Massively parallel single-nucleus RNA-seq with DroNc-seq.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-nmeth-4463.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "SCENIC: single-cell regulatory network inference and clustering.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-s13059-015-0580-x.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Quantification of cell identity from single-cell gene expression profiles.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=arabidopsis"
+   ]
+  },
+  {
+   "file": "ref-s13059-020-02071-7.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Sierra: discovery of differential transcript usage from polyA-captured single-cell RNA-seq data",
+   "journal": "",
+   "reasons": [
+    "subject=fibroblast",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-s41467-018-08083-z.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "A gene expression map of shoot domains reveals regulatory mechanisms.",
+   "journal": "",
+   "reasons": [
+    "subject=rabbit",
+    "weak-plant-context=shoot,meristem"
+   ]
+  },
+  {
+   "file": "ref-s41467-021-22352-4.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Single-cell transcriptome atlas and chromatin accessibility landscape reveal differentiation trajectories in the rice root",
+   "journal": "",
+   "reasons": [
+    "subject=cohort",
+    "weak-plant-context=meristem"
+   ]
+  },
+  {
+   "file": "ref-s41586-019-1049-y.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Transcriptome-scale super-resolved imaging in tissues by RNA seqFISH.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-s41586-019-1773-3.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Gene expression cartography.",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-s41587-019-0068-4.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Characterization of cell fate probabilities in single-cell data with Palantir.",
+   "journal": "",
+   "reasons": [
+    "general-method=cell fate probabilities"
+   ]
+  },
+  {
+   "file": "ref-s41587-020-0591-3.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Generalizing RNA velocity to transient cell states through dynamical modeling.",
+   "journal": "",
+   "reasons": [
+    "general-method=rna velocity"
+   ]
+  },
+  {
+   "file": "ref-s41587-021-00830-w.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Robust decomposition of cell type mixtures in spatial transcriptomics.",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-s41592-022-01409-2.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "Museum of spatial transcriptomics.",
+   "journal": "",
+   "reasons": [
+    "subject=tumor",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "ref-science-aar5780.md",
+   "created": "2026-05-28",
+   "verdict": "suspect",
+   "title": "The dynamics of gene expression in vertebrate embryogenesis at single-cell resol",
+   "journal": "",
+   "reasons": [
+    "subject=zebrafish",
+    "weak-plant-context=none"
+   ]
+  },
+  {
+   "file": "transcriptome-profiling-reveals-candidate-flavonoid-related.md",
+   "created": "2026-05-30",
+   "verdict": "suspect",
+   "title": "Transcriptome profiling reveals candidate flavonoid-related genes during formation of dragon's blood from Dracaena cochinchinensis (Lour.) S.C.Chen under conditions of wounding stress",
+   "journal": "Journal of Ethnopharmacology",
+   "reasons": [
+    "journal-medical=journal of ethnopharmacology",
+    "no-plant-organism-in-title"
+   ]
+  },
+  {
+   "file": "xr-10-1038-s41586-019-0969-x.md",
+   "created": "",
+   "verdict": "suspect",
+   "title": "The single-cell transcriptional landscape of mammalian organogenesis",
+   "journal": "",
+   "reasons": [
+    "subject=mouse",
+    "weak-plant-context=none"
+   ]
+  }
+ ],
+ "since": ""
+}

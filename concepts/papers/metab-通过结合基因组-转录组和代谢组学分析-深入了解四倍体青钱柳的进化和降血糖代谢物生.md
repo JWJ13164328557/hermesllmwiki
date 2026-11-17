@@ -3,11 +3,18 @@ title: "通过结合基因组、转录组和代谢组学分析，深入了解四
 journal: "unknown"
 year: ""
 type: paper
-tags: [gene-regulation, metabolism]
+themes: [genomics-evolution, metabolism-natural-products]
+tags: [metabolism]
 species: [plant]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

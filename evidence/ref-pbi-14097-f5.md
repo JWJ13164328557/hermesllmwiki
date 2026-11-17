@@ -1,34 +1,43 @@
 ---
-title: "We found that the SA content was increased by Fv infection, however, its accumulation in ZmPAL6-sile"
-created: 2026-09-16
+title: "Collectively, Fv only spread above the RAM regions in the inoculated roots of both …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[ref-pbi-14097]]"
 doi: "10.1111/pbi.14097"
-species: [Oryza sativa, Zea mays, Triticum aestivum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [ZmPAL6]
+species: ["Oryza sativa", "Zea mays", "Triticum aestivum"]
+primary_species: "Zea mays"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# We found that the SA content was increased by Fv infection, however, its accumulation in ZmPAL6-sile
+# Collectively, Fv only spread above the RAM regions in the inoculated roots of both …
 
 ## Claim
-We found that the SA content was increased by Fv infection, however, its accumulation in ZmPAL6-silenced plant roots was not as intensively increased in BMV-GFP infected plant roots (Figure 6i).
+Collectively, Fv only spread above the RAM regions in the inoculated roots of both resistant (Qi319) and susceptible (B104) lines, demonstrating that the RAM, including stem cells and QC, is resistant to Fv invasion.
 
-## Biological Context
-Single-cell RNA sequencing profiles reveal cell type-specific transcriptional re
+## Source
+- 文献: [[ref-pbi-14097]]
+- DOI: 10.1111/pbi.14097
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[ref-pbi-14097]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

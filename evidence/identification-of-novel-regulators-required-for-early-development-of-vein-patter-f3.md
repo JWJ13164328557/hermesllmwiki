@@ -1,34 +1,43 @@
 ---
-title: "Taken together, our results provide new insights into the early transcriptome proﬁles of leaf veins "
-created: 2026-08-25
+title: "Our results provide new insights into the early transcriptome profiles of leaf veins in …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]"
 doi: "10.1111/tpj.15719"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Gossypium hirsutum]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis thaliana", "Gossypium hirsutum", "Nicotiana tabacum"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, our results provide new insights into the early transcriptome proﬁles of leaf veins 
+# Our results provide new insights into the early transcriptome profiles of leaf veins in …
 
 ## Claim
-Taken together, our results provide new insights into the early transcriptome proﬁles of leaf veins in cotyledons, and lead to the identiﬁcation of new marker genes for leaf vein cells.
+Our results provide new insights into the early transcriptome profiles of leaf veins in cotyledons, and lead to the identification of new marker genes for leaf vein cells.
 
-## Biological Context
-Identification of novel regulators required for early development of vein pattern in the cotyledons by single‐cell <scp>RNA</scp>‐sequencing
+## Source
+- 文献: [[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]
+- DOI: 10.1111/tpj.15719
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[identification-of-novel-regulators-required-for-early-development-of-vein-patter]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

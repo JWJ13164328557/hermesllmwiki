@@ -1,17 +1,25 @@
-title: "Cellular Heterogeneity and Developmental Dynamics of Aril in Papaya."
-pmid: "42123537"
-doi: "10.1038/nmeth.4150"
-pmcid: "PMC5330805"
-journal: "International journal of molecular sciences"
-year: "2026"
-authors: "Jin Shi, Yuxin Wang, Ruirong Hu, Yujie Fang, Wen Wang"
+---
+title: Cellular Heterogeneity and Developmental Dynamics of Aril in Papaya.
+pmid: '42123537'
+doi: 10.3390/ijms27093957
+pmcid: PMC5330805
+journal: International journal of molecular sciences
+year: '2026'
+authors: Jin Shi, Yuxin Wang, Ruirong Hu, Yujie Fang, Wen Wang
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [scRNA-seq, multi-omics, RNA-seq, pseudotime]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
+---
+
+# Cellular Heterogeneity and Developmental Dynamics of Aril in Papaya.
 
 ## 1. Scientific Context
 
@@ -126,9 +134,9 @@ The papaya aril is a specialized seed appendage that has been reported to contai
 - 物种: unknown
 - 关键基因: ACTA2, AT1, ACTA1, AT2, TPM1
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Carica, Fruit, Gene Regulatory Networks, Genes, Plant, Single-Cel

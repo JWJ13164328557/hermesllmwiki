@@ -1,14 +1,27 @@
-title: 10.1146/annurev-arplant-042817
+---
+title: "Control of Meristem Size"
 created: 2026-05-31
 type: concept
-tags: [#hormone-signaling, papers]
-pmid: 10.1146_annurev-arplant-042817
-doi: 10.1146/annurev-arplant-042817
+themes: [hormone-signaling]
+tags: [hormone-signaling, papers]
+pmid: ''
+doi: "10.1146/annurev-arplant-042817-040549"
 confidence: medium
 status: imported
 source: selenium_batch
+title_quality: repaired
+needs_review: true
+review_note: >-
+  DOI 缺 Annual Reviews 文章号后缀，标题为占位符
+journal: "Annual Review of Plant Biology"
+year: 2019
+title_source: verified:pdf-firstpage+crossref
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 10.1146/annurev-arplant-042817
+---
+
+# Control of Meristem Size
 
 ## 论文信息
 - **期刊**: Unknown ()
@@ -20,9 +33,10 @@ source: selenium_batch
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Solanum lycopersicum, Hordeum vulgare, Helianthus annuus
+**主要物种**: Zea mays
+**物种**: Zea mays, Solanum lycopersicum, Oryza sativa, Helianthus annuus, Hordeum vulgare
 **方法**: ChIP-seq/qPCR, overexpression, subcellular localization, GWAS, QTL mapping
-**来源**: DOI:10.1146/annurev-arplant-042817
+**来源**: DOI:10.1146/annurev-arplant-042817-040549
 **来源类型**: PDF全文 (10.1146_annurev-arplant-042817.pdf)
 
 ### 核心发现

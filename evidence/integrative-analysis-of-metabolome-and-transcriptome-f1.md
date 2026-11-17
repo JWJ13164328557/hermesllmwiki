@@ -1,34 +1,43 @@
 ---
-title: "paliurus, it is necessary to use biological techniques such as yeast two-hybrid and yeast one-hybrid"
-created: 2026-09-16
+title: "Paliurus, it is necessary to use biological techniques such as yeast two-hybrid and yeast …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[integrative-analysis-of-metabolome-and-transcriptome]]"
 doi: "10.1016/j.indcrop.2021.113823"
-species: [Malus domestica, Medicago spp., Vitis vinifera]
-evidence_type: "protein interaction"
-quality: "medium"
+species: ["Malus domestica", "Medicago spp.", "Vitis vinifera"]
+primary_species: "Ginkgo biloba"
+evidence_type: "DNA binding/regulation"
+claim_role: "method"
+non_finding_kind: "aim"
+quality: "high"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "high"
+evidence_type_prior: ""
+
 ---
 
-# paliurus, it is necessary to use biological techniques such as yeast two-hybrid and yeast one-hybrid
+# Paliurus, it is necessary to use biological techniques such as yeast two-hybrid and yeast …
 
 ## Claim
-paliurus, it is necessary to use biological techniques such as yeast two-hybrid and yeast one-hybrid methods to verify their transcriptional activities and interactions with the target genes promoter in the future study.
+Paliurus, it is necessary to use biological techniques such as yeast two-hybrid and yeast one-hybrid methods to verify their transcriptional activities and interactions with the target genes promoter in the future study.
 
-## Biological Context
-Integrative 分析 of metabolome and transcriptome 揭示 分子 regulatory 机制 of 类黄酮 生物合成 in Cyclocarya paliurus under salt 胁迫
+## Source
+- 文献: [[integrative-analysis-of-metabolome-and-transcriptome]]
+- DOI: 10.1016/j.indcrop.2021.113823
+- 主要物种: Ginkgo biloba
 
-## Supporting Evidence
-*Source: [[integrative-analysis-of-metabolome-and-transcriptome]]*
+## 标注信息
+- 证据类型: DNA binding/regulation
+- 论断角色: method
+- 论断证据完备度: high（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

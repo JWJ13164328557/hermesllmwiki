@@ -1,14 +1,25 @@
-title: Secreted peptide signals required for maintenance of root stem cell niche in Ara
+---
+title: Secreted Peptide Signals Required for Maintenance of Root Stem Cell Niche in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags:
+- developmental-biology
+- papers
 doi: 10.1126/science.1191132
 confidence: medium
-aliases: ["Secreted peptide signals required for maintenance of root stem cell niche in Ara"]
+aliases:
+- cr-10-1126-science-1191132
+- Secreted peptide signals required for maintenance of root stem cell niche in Ara
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Secreted peptide signals required for maintenance of root stem cell niche in Ara
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Secreted peptide signals required for maintenance of root stem cell niche in Ara
+---
+
+# Secreted Peptide Signals Required for Maintenance of Root Stem Cell Niche in Arabidopsis
 
 
 
@@ -29,16 +40,16 @@ Stem cells are maintained in the niche by intercellular interactions and signali
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: subcellular localization
 **来源**: DOI:10.1126/science.1191132
 **来源类型**: PDF全文 (10.1126_science.1191132.pdf)

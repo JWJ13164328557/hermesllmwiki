@@ -1,34 +1,43 @@
 ---
-title: "Previous studies showed that MaMADS1, which is homologous to the tomato ripening regulator RIN, is n"
-created: 2026-08-25
+title: "Previous studies showed that MaMADS1, which is homologous to the tomato ripening …"
+created: 2026-11-03
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[mamads1manac083-transcriptional-regulatory-cascade-regulates]]"
 doi: "10.1093/hr/uhad177"
-species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
+species: ["Musa spp.", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Musa spp."
 evidence_type: "expression/regulation"
-quality: "medium"
-genes: [MaMADS1]
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["MaMADS1"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Previous studies showed that MaMADS1, which is homologous to the tomato ripening regulator RIN, is n
+# Previous studies showed that MaMADS1, which is homologous to the tomato ripening …
 
 ## Claim
 Previous studies showed that MaMADS1, which is homologous to the tomato ripening regulator RIN, is necessary for banana fruit ripening [28], but its precise regulatory mechanisms, especially its target genes, remain elusive.
 
-## Biological Context
-MaMADS1–MaNAC083 transcriptional regulatory cascade 调控 ethylene 生物合成 过程中 banana fruit ripening
+## Source
+- 文献: [[mamads1manac083-transcriptional-regulatory-cascade-regulates]]
+- DOI: 10.1093/hr/uhad177
+- 主要物种: Musa spp.
 
-## Supporting Evidence
-*Source: [[mamads1manac083-transcriptional-regulatory-cascade-regulates]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: MaMADS1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

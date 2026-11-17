@@ -1,14 +1,24 @@
-title: "CIForm作为大规模单细胞RNA-seq数据的细胞类型标注的基于Transformer的模型"
+---
+title: CIForm作为大规模单细胞RNA-seq数据的细胞类型标注的基于Transformer的模型
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/bib/bbad195
 confidence: medium
-aliases: ["CIForm作为大规模单细胞RNA-seq数据的细胞类型标注的基于Transformer的模型"]
+aliases:
+- CIForm作为大规模单细胞RNA-seq数据的细胞类型标注的基于Transformer的模型
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: CIForm as a Transformer-based model for cell-type annotation of large-scale single-cell RNA-seq data
+theme_status: mapped
+theme_basis: tag+keyword
 
-# CIForm作为大规模单细胞RNA-seq数据的细胞类型标注的基于Transformer的模型
+---
+
+# CIForm as a Transformer-based model for cell-type annotation of large-scale single-cell RNA-seq data
 
 
 
@@ -32,8 +42,8 @@ Single-cell omics technologies have made it possible to analyze the individual c
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]
-- [[b3-MweGEIei1VoObhk3boSJog]]
-- [[b3-Q__01uAq9RU85RON6eeUaQ]]
+- [[b3-peg1lwq2yaEXfDY9yfqzZg]]
+- [[ref-s13059-025-03811-3]]
 
 
 ## 深度提炼

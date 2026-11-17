@@ -1,14 +1,25 @@
-title: SARTools: A DESeq2- and EdgeR-Based R Pipeline for Comprehensive Differential An
+---
+title: 'SARTools: A DESeq2- and EdgeR-Based R Pipeline for Comprehensive Differential Analysis of RNA-Seq Data'
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [metabolism-natural-products, methods-tools]
+tags:
+- methods-tools
+- papers
 doi: 10.1371/journal.pone.0157022
 confidence: medium
-aliases: ["SARTools: A DESeq2- and EdgeR-Based R Pipeline for Comprehensive Differential An"]
+aliases:
+- cr-10-1371-journal-pone-0157022
+- 'SARTools: A DESeq2- and EdgeR-Based R Pipeline for Comprehensive Differential An'
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: 'SARTools: A DESeq2- and EdgeR-Based R Pipeline for Comprehensive Differential An'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# SARTools: A DESeq2- and EdgeR-Based R Pipeline for Comprehensive Differential An
+---
+
+# SARTools: A DESeq2- and EdgeR-Based R Pipeline for Comprehensive Differential Analysis of RNA-Seq Data
 
 
 
@@ -18,7 +29,13 @@ updated: "2026-05-29"
 **作者**: 
 
 ## 摘要
-<h4>Background</h4>Several R packages exist for the detection of differentially expressed genes from RNA-Seq data. The analysis process includes three main steps, namely normalization, dispersion estimation and test for differential expression. Quality control steps along this process are recommended but not mandatory, and failing to check the characteristics of the dataset may lead to spurious results. In addition, normalization methods and statistical models are not exchangeable across the packages without adequate transformations the users are often not aware of. Thus, dedicated analysis pipelines are needed to include systematic quality control steps and prevent errors from misusing the proposed methods.<h4>Results</h4>SARTools is an R pipeline for differential analysis of RNA-Seq count data. It can handle designs involving two or more conditions of a single biological factor with or without a blocking factor (such as a batch effect or a sample pairing). It is based on DESeq2 and edgeR and is composed of an R package and two R script templates (for DESeq2 and edgeR respectively). Tuning a small number of parameters and executing one of the R scripts, users have access to the full results of the analysis, including lists of differentially expressed genes and a HTML report that (i) displays diagnostic plots for quality control and model hypotheses checking and (ii) keeps track of the whole analysis process, parameter values and versions of the R packages used.<h4>Conclusions</h4>SARTools provides systematic quality controls of the dataset as well as diagnostic plots that help to tune the model parameters. It gives access to the main parameters of DESeq2 and edgeR and prevents untrained users from misusing some functionalities of both packages. By keeping track of all the parameters of the analysis process it fits the requirements of reproducible research.
+
+
+**Background**  Several R packages exist for the detection of differentially expressed genes from RNA-Seq data. The analysis process includes three main steps, namely normalization, dispersion estimation and test for differential expression. Quality control steps along this process are recommended but not mandatory, and failing to check the characteristics of the dataset may lead to spurious results. In addition, normalization methods and statistical models are not exchangeable across the packages without adequate transformations the users are often not aware of. Thus, dedicated analysis pipelines are needed to include systematic quality control steps and prevent errors from misusing the proposed methods.
+
+**Results**  SARTools is an R pipeline for differential analysis of RNA-Seq count data. It can handle designs involving two or more conditions of a single biological factor with or without a blocking factor (such as a batch effect or a sample pairing). It is based on DESeq2 and edgeR and is composed of an R package and two R script templates (for DESeq2 and edgeR respectively). Tuning a small number of parameters and executing one of the R scripts, users have access to the full results of the analysis, including lists of differentially expressed genes and a HTML report that (i) displays diagnostic plots for quality control and model hypotheses checking and (ii) keeps track of the whole analysis process, parameter values and versions of the R packages used.
+
+**Conclusions**  SARTools provides systematic quality controls of the dataset as well as diagnostic plots that help to tune the model parameters. It gives access to the main parameters of DESeq2 and edgeR and prevents untrained users from misusing some functionalities of both packages. By keeping track of all the parameters of the analysis process it fits the requirements of reproducible research.
 
 
 ## 全文 (PMC)
@@ -41,7 +58,7 @@ Competing Interests:The authors have declared that no competing interests exist.
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), ChIP-seq/qPCR
 **来源**: DOI:10.1371/journal.pone.0157022
 **来源类型**: PDF全文 (10.1371_journal.pone.0157022.pdf)
@@ -53,11 +70,11 @@ Competing Interests:The authors have declared that no competing interests exist.
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

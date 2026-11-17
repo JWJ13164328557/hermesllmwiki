@@ -1,14 +1,20 @@
 ---
-title: Proteomic Insights into Solanum torvum Responses to Verticillium dahliae Infecti
+title: Proteomic Insights into Solanum torvum Responses to Verticillium dahliae Infection and Functional Validation of StoAOS1
 created: 2026-08-13
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12080949
 confidence: moderate
 source: openalex
+title_fixed_from: Proteomic Insights into Solanum torvum Responses to Verticillium dahliae Infecti
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Proteomic Insights into Solanum torvum Responses to Verticillium dahliae Infection and Functional Validation of StoAOS1
+# Proteomic Insights into Solanum torvum Responses to Verticillium dahliae Infection and Functional Validation of StoAOS1on and Functional Validation of StoAOS1
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

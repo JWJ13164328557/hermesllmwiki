@@ -1,12 +1,18 @@
+---
 title: Genome-wide insertional mutagenesis of Arabidopsis thaliana.
 created: 2026-05-28
 type: concept
-tags: [#hormone-signaling, papers]
+themes: [genomics-evolution, hormone-signaling]
+tags: [hormone-signaling, papers]
 doi: 10.1126/science.1086391
 confidence: medium
-aliases: ["Genome-wide insertional mutagenesis of Arabidopsis thaliana."]
+aliases: [cr-10-1126-science-1086391, Genome-wide insertional mutagenesis of Arabidopsis thaliana.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Genome-wide insertional mutagenesis of Arabidopsis thaliana.
 
@@ -29,16 +35,16 @@ Over 225,000 independent Agrobacterium transferred DNA (T-DNA) insertion events 
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa
 **方法**: genomics, Y2H, RNAi/VIGS, overexpression, knockout/mutant
 **来源**: DOI:10.1126/science.1086391
 **来源类型**: PDF全文 (10.1126_science.1086391.pdf)
@@ -46,7 +52,7 @@ Over 225,000 independent Agrobacterium transferred DNA (T-DNA) insertion events 
 ### 核心发现
 1. Our findings suggest that Reln may affect synaptic maturation in the brain.
 2. We found preferred sites of T-DNA integration or “hot spots,” as well as “cold spots” [Fig.
-3. Although there were no effects of G  C content on T-DNA integration sites observed at the genome scale (13), we found a positive correlation between the G  C content and the number of insertions in promoters, 5UTRs, exons, and intergenic regions.
+3. Although there were no effects of G  C content on T-DNA integration sites observed at the genome scale (13), we found a positive correlation between the G  C content and the number of insertions in promoters, 5UTRs, exons, and intergenic regions.
 4. Of particular interest, in addition to ERF1, we found that the expression levels of 14 of 141 AP2 domain–containing genes were affected by ethylene treatment of etio- lated seedlings (Fig.
 5. 3, A and B), we found significant ethylene insensitivity in multiple-mutant plants (Fig.
 6. For example, the plant VIP2 protein, which is thought to interact with the transcriptional machinery, directly in- teracts with Agrobacterium VirE2 (a bacte- rial protein associated with the T-strand) (19).

@@ -1,34 +1,43 @@
 ---
-title: "In addition to biosynthesis, the GST gene RAP (reduced anthocyanin in petioles) plays a crucial role"
-created: 2026-09-16
+title: "The most prominent phenotypes of P8 are increased tissue elongation and reduced …"
+created: 2026-11-03
 type: evidence
-tags: [#hormone-signaling, papers]
+themes: ["hormone-signaling", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["hormone-signaling", "papers"]
 source: "[[the-redfar-red-light-photoreceptor-fvephyb-regulates]]"
 doi: "10.1093/hr/uhad232"
-species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Fragaria × ananassa", "Nicotiana tabacum", "Oryza sativa"]
+primary_species: "Fragaria × ananassa"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: [anthocyanin]
+compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In addition to biosynthesis, the GST gene RAP (reduced anthocyanin in petioles) plays a crucial role
+# The most prominent phenotypes of P8 are increased tissue elongation and reduced …
 
 ## Claim
-In addition to biosynthesis, the GST gene RAP (reduced anthocyanin in petioles) plays a crucial role in anthocyanin transport from the cytosol to the vacuole for long-term storage [40, 41].
+The most prominent phenotypes of P8 are increased tissue elongation and reduced pigmentation.
 
-## Biological Context
-The red/far-red light photoreceptor FvePhyB 调控 tissue elongation and 花青素 积累 in woodland strawberry
+## Source
+- 文献: [[the-redfar-red-light-photoreceptor-fvephyb-regulates]]
+- DOI: 10.1093/hr/uhad232
+- 主要物种: Fragaria × ananassa
 
-## Supporting Evidence
-*Source: [[the-redfar-red-light-photoreceptor-fvephyb-regulates]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

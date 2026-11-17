@@ -1,34 +1,43 @@
 ---
-title: "We found that JA biosynthetic and JA-responsive genes were located towards the top of the list, with"
-created: 2026-09-16
+title: "PAP2 is probably the major flavonoid biosynthesis gene regulator under these conditions."
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-tpj-12129]]"
 doi: "10.1111/tpj.12129"
-species: [Ficus carica, Petunia hybrida]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
-compounds: []
+species: ["Petunia hybrida"]
+primary_species: "Petunia hybrida"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["PAP2"]
+compounds: ["flavonoid"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# We found that JA biosynthetic and JA-responsive genes were located towards the top of the list, with
+# PAP2 is probably the major flavonoid biosynthesis gene regulator under these conditions.
 
 ## Claim
-We found that JA biosynthetic and JA-responsive genes were located towards the top of the list, with normalized enrichment scores of 1.53 and 1.25, respectively, and false discovery rates (q value) of 0.20 and 0.18, respectively.
+PAP2 is probably the major flavonoid biosynthesis gene regulator under these conditions.
 
-## Biological Context
-A chemical complementation approach reveals genes and interactions of flavonoids
+## Source
+- 文献: [[ref-tpj-12129]]
+- DOI: 10.1111/tpj.12129
+- 主要物种: Petunia hybrida
 
-## Supporting Evidence
-*Source: [[ref-tpj-12129]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: PAP2
+- 自动标注化合物: flavonoid
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,17 +1,26 @@
-title: "Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle."
-pmid: "41724975"
-doi: "10.1093/nar/gkae978"
-pmcid: "PMC13036908"
-journal: "Genome biology"
-year: "2026"
-authors: "Mingke Wei, Jo-Wei Allison Hsieh, Jr-Fong Dang, Botong Tong, Hui Li"
+---
+title: Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle.
+pmid: '41724975'
+doi: 10.1186/s13059-026-04007-z
+pmcid: PMC13036908
+journal: Genome biology
+year: '2026'
+authors: Mingke Wei, Jo-Wei Allison Hsieh, Jr-Fong Dang, Botong Tong, Hui Li
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [Arabidopsis thaliana, Populus (poplar)]
 methods: [scRNA-seq, snRNA-seq, spatial transcriptomics, RNA-seq, RNA-FISH, machine learning]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+aliases: [b3-w-DzDSMZddBs1e1p3-Ak0A]
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Integrating scRNA-seq and snRNA-seq with spatial transcriptomics to unlock the xylem puzzle.
 
 ## 1. Scientific Context
 
@@ -117,3 +126,21 @@ RESULTS: We perform single-nucle
 
 **E8** [ev-41724975-08]
 - 声明: The images or other third party material in this article are inclu
+
+## 深度提炼
+
+**主要物种**: Populus spp.
+**物种**: Populus spp., Arabidopsis thaliana
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq
+**来源**: DOI:10.1186/s13059-026-04007-z
+**来源类型**: XML全文 (10.1186_s13059-026-04007-z.txt)
+
+### 核心发现
+1. Notably, we found that these genes were also differentially regulated in the SCW-depositing cell population and were enriched among the identified GO terms (Additional file 3: Supplementary Dataset S2), suggesting that the onset of PCD may occur concurrently with SCW deposition.
+2. Red dashed lines outline LCM target zones.
+3. Furthermore, mitochondria play a pivotal role in initiating plant PCD.
+4. Capturing these transitions with high resolution is essential for uncovering the mechanisms that drive tissue patterning, organogenesis, and environmental adaptation [ – ].
+5. This principle applies broadly across biological systems—from animal embryogenesis to plant meristem differentiation—where understanding the continuity of developmental states is crucial for constructing accurate models of growth and form.
+6. Given the complementary nature of these two technologies—scRNA-seq offering high-resolution transcriptomic profiles but restricted to thin-walled, wall-degradable cells, and snRNA-seq enabling access to a broader range of cell types, including those with thick SCWs—a combined approach is essential to reconstruct the full developmental trajectory of xylem formation [ ].
+7. Interestingly, the region showing high correlation with both fiber cell– and vessel–specific transcriptomes exhibited extremely low correlation with the ray parenchyma–specific transcriptome (Fig.
+8. Importantly, this also demonstrates the high degree of compatibility between protoplast-scRNAseq and SDX-snRNAseq platforms when applied to xylem developmental analysis, reinforcing the validity of integrating both datasets to reconstruct a continuous developmental trajectory.

@@ -3,11 +3,18 @@ title: "转录组学分析揭示了在青蒿种子发育过程中参与油和亚
 journal: "unknown"
 year: ""
 type: paper
-tags: [development, gene-regulation, metabolism]
+themes: [developmental-biology, metabolism-natural-products]
+tags: [metabolism]
 species: [Gossypium]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

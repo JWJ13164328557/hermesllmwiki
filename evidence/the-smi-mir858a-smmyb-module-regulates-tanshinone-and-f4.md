@@ -1,34 +1,43 @@
 ---
-title: "miltiorrhiza Plant miRNAs can guide RNA-induced silencing complexes to target transcripts and then s"
-created: 2026-09-16
+title: "The existence of perfect or nearperfect complementarity between miRNAs and their targets …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["hormone-signaling", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]"
 doi: "10.1093/hr/uhae047"
-species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Zea mays", "Solanum lycopersicum"]
+primary_species: "Salvia miltiorrhiza"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# miltiorrhiza Plant miRNAs can guide RNA-induced silencing complexes to target transcripts and then s
+# The existence of perfect or nearperfect complementarity between miRNAs and their targets …
 
 ## Claim
-miltiorrhiza Plant miRNAs can guide RNA-induced silencing complexes to target transcripts and then silence the targets mainly by direct cleavage at a site that corresponds to the 10th nucleotide from the miRNA 5′ end [25, 46].
+The existence of perfect or nearperfect complementarity between miRNAs and their targets is critical in the process of target reorganization and subsequent cleavage.
 
-## Biological Context
-The Smi-miR858a-SmMYB 模块 调控 tanshinone and phenolic acid 生物合成 in Salvia miltiorrhiza
+## Source
+- 文献: [[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]
+- DOI: 10.1093/hr/uhae047
+- 主要物种: Salvia miltiorrhiza
 
-## Supporting Evidence
-*Source: [[the-smi-mir858a-smmyb-module-regulates-tanshinone-and]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

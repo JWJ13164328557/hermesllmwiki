@@ -1,34 +1,43 @@
 ---
-title: "Consistent with the delayed leaf senescence phenotype in hda9, we found the downregulation of hallma"
-created: 2026-09-16
+title: "Consistent with the delayed leaf senescence phenotype in hda9, we found the …"
+created: 2026-11-01
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["developmental-biology", "epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-eLife-17214]]"
 doi: "10.7554/eLife.17214"
-species: [Arabidopsis thaliana, Zea mays, Ficus carica]
+species: ["Arabidopsis thaliana", "Zea mays"]
+primary_species: "Medicago spp."
 evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CENCE4", "SAG113", "SAG12", "SEN4"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Consistent with the delayed leaf senescence phenotype in hda9, we found the downregulation of hallma
+# Consistent with the delayed leaf senescence phenotype in hda9, we found the …
 
 ## Claim
 Consistent with the delayed leaf senescence phenotype in hda9, we found the downregulation of hallmark SAGs including SENES- CENCE4 (SEN4), SAG12, and SAG113 in hda9 (Figure 5A).
 
-## Biological Context
-POWERDRESS interacts with HISTONE DEACETYLASE 9 to promote aging in <i>Arabidops
+## Source
+- 文献: [[ref-eLife-17214]]
+- DOI: 10.7554/eLife.17214
+- 主要物种: Medicago spp.
 
-## Supporting Evidence
-*Source: [[ref-eLife-17214]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CENCE4, SAG113, SAG12, SEN4
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

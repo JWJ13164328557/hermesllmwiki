@@ -1,14 +1,24 @@
-title: Plant root mechanisms and their effects on carbon and nutrient accumulation in d
+---
+title: Plant root mechanisms and their effects on carbon and nutrient accumulation in desert ecosystems under changes in land use and climate
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1111/nph.19676
 confidence: medium
-aliases: ["Plant root mechanisms and their effects on carbon and nutrient accumulation in d"]
-status: draft
-updated: "2026-05-29"
+aliases:
+- Plant root mechanisms and their effects on carbon and nutrient accumulation in d
+status: pollution
+updated: '2026-05-29'
+title_fixed_from: Plant root mechanisms and their effects on carbon and nutrient accumulation in d
+theme_status: mapped
+theme_basis: tag
 
-# Plant root mechanisms and their effects on carbon and nutrient accumulation in d
+---
+
+# Plant root mechanisms and their effects on carbon and nutrient accumulation in desert ecosystems under changes in land use and climate
 
 
 
@@ -29,16 +39,16 @@ Deserts represent key carbon reservoirs, yet as these systems are threatened thi
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Malus domestica, Populus spp., Pinus spp., Ficus carica
+**物种**: Malus domestica, Populus spp., Pinus spp.
 **方法**: molecular biology / biochemistry
 **来源**: DOI:10.1111/nph.19676
 **来源类型**: PDF全文 (10.1111_nph.19676.pdf)

@@ -1,14 +1,24 @@
-title: "条形码、UMI、SET FORMAT和BUStools。"
+---
+title: 条形码、UMI、SET FORMAT和BUStools。
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/bioinformatics/btz279
 confidence: medium
-aliases: ["条形码、UMI、SET FORMAT和BUStools。"]
+aliases:
+- 条形码、UMI、SET FORMAT和BUStools。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: The barcode, UMI, set format and BUStools
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 条形码、UMI、SET FORMAT和BUStools。
+---
+
+# The barcode, UMI, set format and BUStools
 
 
 
@@ -18,7 +28,13 @@ updated: "2026-05-29"
 **作者**: 
 
 ## 摘要
-<h4>Summary</h4>We introduce the Barcode-UMI-Set format (BUS) for representing pseudoalignments of reads from single-cell RNA-seq experiments. The format can be used with all single-cell RNA-seq technologies, and we show that BUS files can be efficiently generated. BUStools is a suite of tools for working with BUS files and facilitates rapid quantification and analysis of single-cell RNA-seq data. The BUS format therefore makes possible the development of modular, technology-specific and robust workflows for single-cell RNA-seq analysis.<h4>Availability and implementation</h4>http://BUStools.github.io/ and http://pachterlab.github.io/kallisto/singlecell.html.<h4>Supplementary information</h4>Supplementary data are available at Bioinformatics online.
+
+
+**Summary**  We introduce the Barcode-UMI-Set format (BUS) for representing pseudoalignments of reads from single-cell RNA-seq experiments. The format can be used with all single-cell RNA-seq technologies, and we show that BUS files can be efficiently generated. BUStools is a suite of tools for working with BUS files and facilitates rapid quantification and analysis of single-cell RNA-seq data. The BUS format therefore makes possible the development of modular, technology-specific and robust workflows for single-cell RNA-seq analysis.
+
+**Availability and implementation**  http://BUStools.github.io/ and http://pachterlab.github.io/kallisto/singlecell.html.
+
+**Supplementary information**  Supplementary data are available at Bioinformatics online.
 
 
 

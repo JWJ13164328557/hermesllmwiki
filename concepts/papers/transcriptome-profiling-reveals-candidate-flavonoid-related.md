@@ -1,15 +1,22 @@
-title: "Transcriptome profiling reveals candidate flavonoid-related genes during formation of dragon's blood from Dracaena cochi"
+---
+title: Transcriptome profiling reveals candidate flavonoid-related genes during formation of dragon's blood from Dracaena cochinchinensis (Lour.) S.C.Chen under conditions of wounding stress
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: []
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.jep.2021.113987
-pmid: 
-confidence: medium
-aliases: ["Transcriptome 分析 揭示 candidate 类黄酮-related genes 过程中 formation of dragon's blood from Dracaena cochinchinensis (Lour.) S.C.Chen under conditions of wounding 胁迫"]
+pmid: ''
+aliases:
+- Transcriptome 分析 揭示 candidate 类黄酮-related genes 过程中 formation of dragon's blood from Dracaena cochinchinensis (Lour.) S.C.Chen under conditions of wounding 胁迫
+title_fixed_from: Transcriptome profiling reveals candidate flavonoid-related genes during formati
+theme_status: out-of-scope
+theme_basis: purity:suspect-no-plant-cue
 
-# Transcriptome 分析 揭示 candidate 类黄酮-related genes 过程中 formation of dragon's blood from Dracaena cochinchinensis (Lour.) S.C.Chen under conditions of wounding 胁迫
+---
 
-> Transcriptome profiling reveals candidate flavonoid-related genes during formation of dragon's blood from Dracaena cochinchinensis (Lour.) S.C.Chen under conditions of wounding stress
+# Transcriptome profiling reveals candidate flavonoid-related genes during formation of dragon's blood from Dracaena cochinchinensis (Lour.) S.C.Chen under conditions of wounding stress
 
 ## 论文信息
 - **期刊**: Journal of Ethnopharmacology (2021)

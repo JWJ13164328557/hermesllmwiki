@@ -1,12 +1,18 @@
+---
 title: Mapping plant cell-type-specific responses to environmental stresses.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics, stress-immunity]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1016/j.tplants.2026.03.003
 confidence: medium
-aliases: ["Mapping plant cell-type-specific responses to environmental stresses."]
+aliases: [Mapping plant cell-type-specific responses to environmental stresses.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Mapping plant cell-type-specific responses to environmental stresses.
 
@@ -30,7 +36,7 @@ Plants constantly encounter diverse biotic and abiotic stresses that threaten th
 - [[plantcellchat-tool]]
 - [[reed-b-chromosome-sc-spatial]]
 - [[b3-Lj9ToIUf0z9y77oj4ELKlQ]]
-- [[b3-T3lqrTfEAP0t0_6MU5AAxA]]
+- [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 - [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 - [[daily-42204459]]
 - [[ref-dev-106104]]

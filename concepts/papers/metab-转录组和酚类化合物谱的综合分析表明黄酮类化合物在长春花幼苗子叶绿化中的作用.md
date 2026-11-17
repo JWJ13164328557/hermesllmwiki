@@ -1,12 +1,21 @@
-title: "转录组和酚类化合物谱的综合分析表明黄酮类化合物在长春花幼苗子叶绿化中的作用"
-journal: "unknown"
-year: ""
+---
+title: 转录组和酚类化合物谱的综合分析表明黄酮类化合物在长春花幼苗子叶绿化中的作用
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

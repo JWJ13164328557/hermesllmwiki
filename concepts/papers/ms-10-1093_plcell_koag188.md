@@ -1,14 +1,19 @@
 ---
-title: A GRAS transcription factor regulates far-red light responses via gibberellin-re
+title: A GRAS transcription factor regulates far-red light responses via gibberellin-related compounds in Marchantia polymorpha.
 created: 2026-08-26
 type: concept
+themes: [epigenetics-gene-regulation, genomics-evolution]
 tags: [papers]
+aliases: ["daily-42312603"]
 doi: 10.1093/plcell/koag188
 confidence: moderate
 source: crossref
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# A GRAS transcription factor regulates far-red light responses via gibberellin-related compounds in
+# A GRAS transcription factor regulates far-red light responses via gibberellin-related compounds in Marchantia polymorpha.
                     <i>Marchantia polymorpha</i>
 
 ## 论文信息

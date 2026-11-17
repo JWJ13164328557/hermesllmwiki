@@ -2,213 +2,437 @@
 
 title: "胁迫与免疫 — Synthesis"
 created: 2026-06-01
-total_evidence: 177
-total_papers: 124
+total_evidence: 4799
+total_papers: 967
+library_papers: 1346  # 全库按themes归类该主题文献数
 type: synthesis
+body_status: rebuilt-2026-11-17
 tags: [synthesis, stress, immunity, abiotic-stress, biotic-stress, hormone]
 
 
 soybean_relevance: ⭐高
+legacy_archive: _review/synthesis_legacy_20261117/stress-immunity.md
+rebuild_rule: evidence-fields-only; no-cross-evidence-inference
+rebuild_version: v3
+
 ---
+# 逆境与免疫 知识综合（证据重建版 v3）
 
-# 胁迫与免疫 知识综合
+<!-- AUTO-EVIDENCE-STRENGTH:START -->
 
-## 范围
-综合自 369 条证据，覆盖 50 篇文献（2026-06-01 更新）。涵盖植物对非生物胁迫（干旱、盐碱、温度、重金属）与生物胁迫（病原菌侵染）的响应机制，包括胁迫感知与信号转导、激素调控网络（ABA/JA/SA/ET）、活性氧（ROS）代谢、PTI/ETI 免疫通路、以及胁迫条件下的生长发育可塑性，涉及拟南芥、水稻、玉米、小麦、马铃薯、苜蓿、香蕉等多个物种。
+## 证据覆盖与强度（自动统计，可复算）
 
-## 子主题
+| 指标 | 值 | 读法 |
+|---|---|---|
+| 证据条目 | 4799 | 本主题归属的证据对象数 |
+| 独立论文 | 967 | 去重后的 PMID/DOI 数 |
+| 平均每篇证据数 | 4.96 | <1.0 说明多数论文只贡献 1 条结论 |
+| 单条证据论文占比 | 8% | 越高说明"每篇论文一个结论"，系统性弱 |
+| 主要物种 | Oryza sativa(1378)、Solanum lycopersicum(869)、Zea mays(830)、Arabidopsis thaliana(828)、Triticum aestivum(777)、Nicotiana tabacum(619) | 物种过度集中则外推性受限 |
+| 证据类型 | descriptive/observational 3033；protein interaction 526；phenotypic/association 402；expression/regulation 341；genetic perturbation 296；omics/co-occurrence 119 | 表达/关联类居多时，因果结论需打折扣 |
 
-### 干旱胁迫与水分亏缺
-约 20 篇相关文献
-- 干旱响应蛋白 **TaMIP1** 通过控制根密度增强小麦耐旱性，该基因编码水通道蛋白家族成员，通过调节根系吸水效率实现干旱适应（[[daily-42206621]]）
-- 脱水胁迫诱导 **AGO1** 蛋白发生液-液相分离凝聚，进而调控 miRNA 加工效率，揭示 miRNA 通路直接参与脱水应答的新机制（[[daily-42213882]]）
-- 根系构型（RSA）在克服非生物胁迫中起核心作用，深根性、根角等性状显著影响干旱条件下的水分获取能力（[[ref-ijms20174211-f1]]）
-- **ABA** 是干旱条件下气孔及时关闭所必需的信号分子，通过保卫细胞中的信号级联实现对蒸腾作用的精确调控（[[ref-tpj-12129-f8]]）
-- 转录因子 **AtZHD1** 结合干旱早期响应基因 **ERD1** 的启动子区域，调控脱水胁迫早期转录重编程（[[ref-s12864-017-4082-y-f5]]）
-- 糖信号参与根系构型在水分亏缺下的重塑——"Sweet shaping of root system architecture under water deficit"（[[daily-42212512]]）
+> 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
-### 盐胁迫
-约 15 篇相关文献
-- 小麦根在盐胁迫下呈现**细胞类型特异性和品种特异性**的转录响应，不同根细胞层（表皮、皮层、内皮层）对 Na⁺ 胁迫的转录重编程模式差异显著（[[ev-41133438-01]]）
-- 盐胁迫增强六倍体小麦亚基因组间的**不对称表达**，提示多倍体物种在胁迫应答中具有亚基因组偏向性调控（[[ev-41133438-04]]）
-- 野生稻稀有等位基因 **ST5** 显著增强水稻耐盐性，为作物耐盐遗传改良提供关键靶标（[[daily-42206449]]）
-- **CBL2/4-CIPK31** 信号模块通过磷酸化棉子糖合酶调控渗透保护物质积累，参与盐胁迫下渗透平衡维持（[[daily-42213884]]）
-- 光控释放型 ABA（Photocaged ABA）可增强水稻耐盐性，实现激素信号的时空精确调控（[[daily-42216516]]）
-- 过量一氧化氮通过改变细胞 pH 限制植物耐盐性，揭示 NO 在盐胁迫中的双重调节功能（[[daily-42213848]]）
+### 可复核证据索引（前 12 条，按断言长度）
 
-### 温度胁迫（低温/冷害/高温）
-约 25 篇相关文献
-- **OsbHLH150—OsMAPK3—OsNCED3—ABA** 通路是水稻耐冷性的核心调控模块：OsMAPK3 磷酸化 OsbHLH150（S669/S674/S734 位点）增强其蛋白稳定性，磷酸化的 OsbHLH150 结合 OsNCED3 启动子 E-box 元件激活 ABA 合成，V471L SNP 决定粳稻（Val）与籼稻（Leu）间耐冷性差异（[[sources/OsbHLH150水稻耐冷]]）
-- 生育酚（Tocopherols）在植物低温适应中发挥关键作用——低温贮藏柑橘中生育酚合成基因被显著诱导，生育酚合成缺陷突变体表现出低温敏感性表型（[[accumulation-of-tocopherols-and-transcriptional-regulation-f2]]）
-- 苹果 **MdASMT9** 过表达通过降低 ABA 含量并增加褪黑素积累增强基础耐热性，揭示褪黑素-ABA 拮抗关系在温度胁迫应答中的功能（[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo-f1]]）
-- 香蕉 **MaNAC1** 转录因子激活次生细胞壁纤维素合成，通过增强细胞壁机械强度提高果实抗冷性（[[banana-manac1-activates-secondary-cell-wall]]）
-- 菠萝 **AcbHLH144** 转录因子负调控酚酸生物合成以调节果实内部褐变（冷害表型），表明 bHLH 家族在冷胁迫下调控次生代谢平衡（[[acbhlh144-transcription-factor-negatively-regulates-phenolic]]）
-- 拟南芥小热激蛋白（sHSP）参与耐热性重建（[[daily-42171763]]）
-- 田间作物冷害早期响应的转录组捕获揭示了低温感知的初始分子事件（[[daily-42165101]]）
-- 马铃薯叶片热胁迫单细胞转录组揭示不同细胞类型对高温的分化响应：叶肉细胞（MCs）和表皮细胞（ECs）沿不同轨迹响应热胁迫（[[potato-leaf-heat-scrna-f5]]）
+| 证据 ID | DOI | 断言（截断） |
+|---|---|---|
+| `daily-42410657-f1` | 10.1186/s43897-026-00238-7 | Transgenic plants expressing miR858 target mimics effectively blocked miR858 activity, lea |
+| `daily-42729520-f4` | 10.3389/fpls.2026.1942553 | Our results indicate that GmSHMT05 sustains overall soybean growth and development in the  |
+| `daily-42231161-f1` | 10.1186/s12870-026-09156-8 | Stable overexpression of PavNHX37 in Nicotiana benthamiana significantly improved salt tol |
+| `daily-42228685-f1` | 10.1371/journal.pbio.3003811 | When we introduced intact or mutated HIPP19 at the miR408-5p target site with a GFP tag dr |
+| `daily-42357205-f7` | 10.3390/plants15121886 | Although the identified candidate genes provide solid genetic targets for salinity toleran |
+| `daily-42588902-f1` | 10.3390/plants15152398 | In summary, STA1 (Category II) establishes a relatively complete chain from cold-induced e |
+| `daily-42341170-f1` | 10.1093/plphys/kiag413 | In this study, we show that loss-of-function mutations in MLO2, MLO6, and MLO12 result in  |
+| `daily-42204672-f5` | 10.1186/s12870-026-09089-2 | 1C), the changes in the scopoletin content of the four overexpression-positive lines were  |
+| `daily-42319077-f1` | 10.1093/plcell/koag190 | Overexpression of the GhPsbO protein, driven by a constitutive promoter, significantly enh |
+| `ms-10-1007_s00344-026-12266-0-f2` | 10.1007/s00344-026-12266-0 | While novel_47 (targeting the DNA repair gene BRCA2) was upregulated in both genotypes, it |
+| `daily-41788331-f6` | 10.3389/fmicb.2026.1743670 | In parallel, CRISPR is pairing with single-cell/spatial readouts to make cause-and-effect  |
+| `daily-42958739-f5` | 10.1111/tpj.71175 | When dipinoculated with Pst DC3000, the impa1 mutants exhibited increased susceptibility,  |
 
-### 重金属胁迫
-约 8 篇相关文献
-- 苜蓿镉胁迫单核 RNA-seq 联合 snATAC-seq 分析揭示不同根细胞类型对 Cd²⁺ 的差异化染色质可及性与转录响应（[[alfalfa-cadmium-sc-multiomics]]）
-- 锌铁协同施用可减少作物对镉的吸收积累，通过竞争性抑制转运蛋白实现对重金属的阻控（[[daily-42217924]]）
-- 植物抗氧化防御系统以年龄依赖方式响应胁迫，次生代谢物积累模式随发育阶段变化（[[daily-42178064]]）
+### 证据语义分层
 
-### 病原免疫 — PTI（模式触发免疫）
-约 15 篇相关文献
-- 模式触发免疫（PTI）的分子网络被系统解析：细胞表面模式识别受体（PRRs）识别病原相关分子模式（PAMPs）后，激活下游 MAPK 级联、ROS 爆发和防御基因表达（[[daily-42216553]]）
-- 受体类激酶（RLKs）在植物适应逆境中发挥核心作用，涵盖病原识别和非生物胁迫感知（[[daily-42137203]]）
-- 糖感知通过 **O-GlcNAc 糖基化**修饰直接连接至植物免疫信号网络，揭示代谢状态与免疫激活之间的分子耦合机制（[[daily-42146548]]）
-- **CBL-CIPK** 钙信号模块在 PTI 中参与 Ca²⁺ 介导的免疫信号传导，Ca²⁺ 作为关键胞内信号转导因子调控胁迫应答（[[pdf-ijms232416200-f1]]）
+| 证据类型 | 条目数 | 可支持的推断强度 |
+|---|---:|---|
+| genetic perturbation | 296 | 遗传因果（扰动后表型/表达改变） |
+| protein interaction | 526 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
+| DNA binding/regulation | 82 | 直接调控（ChIP/EMSA/启动子报告） |
+| expression/regulation | 341 | 表达相关（转录组/qPCR，不能单独推因果） |
+| phenotypic/association | 402 | 表型关联（GWAS/QTL/自然变异/田间） |
+| omics/co-occurrence | 119 | 组学共现（单细胞簇/共表达网络，非调控） |
+| descriptive/observational | 3033 | 描述性/背景陈述（未报告可核验的实验设计） |
 
-### 病原免疫 — ETI（效应子触发免疫）
-约 12 篇相关文献
-- 马铃薯抗性基因 **RB** 的选择性剪接可平衡植物生长与免疫：不同剪接异构体分别倾向于激活防御反应或维持正常发育，为免疫-生长权衡的分子机制提供新证据（[[pdf-koag153-f4]]）
-- **OsNPR1** 与 **IPA1** 协同调控水稻免疫与发育：OsNPR1 是 IPA1 功能所必需的共调控因子，敲除 OsNPR1 后 IPA1 过表达植株丧失自身免疫/超敏表型；RNA-seq 揭示 OsNPR1 和 IPA1 共同调控大量重叠靶基因的表达（[[pdf-koag153-f1]], [[pdf-koag153-f6]], [[pdf-koag153-f7]], [[pdf-koag153-f8]], [[daily-42212499]]）
-- 水杨酸（SA）结合 **NPR1** 后解除其转录抑制活性，激活下游防御基因表达——SA-NPR1 模块是系统获得性抗性（SAR）的核心枢纽（[[pdf-ijms232416200-f6]]）
-- 病原菌 **Exl1**（来自 Pectobacterium）激活茉莉酸依赖性防御通路，表明不同病原效应子可差异化诱导激素介导的免疫反应（[[daily-42213207]]）
-- 不同病原菌种类在诱导防御反应上存在**物种特异性差异**（[[daily-42218787]]）
+> 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
-### 防御重编程：两阶段模型
-约 6 篇相关文献
-- 多模块分析定义了**两阶段防御重编程**过程：第一阶段为防御信号网络的快速激活（包括 Ca²⁺ 内流、ROS 爆发、MAPK 磷酸化级联），第二阶段为细胞类型特异性转录重编程与代谢调整，实现从快速响应到持续防御的转变（[[b3-l7tWWswvI2rZ5ba_4V2BsQ-f5]], [[pdf-j-critrevonc-2026-105311-f5]]）
+### 遗传扰动类证据（仅高置信规则命中，前 5 条；仍须回原文核实）
 
-### 细胞类型特异性免疫响应
-约 10 篇相关文献
-- 整合单细胞与空间转录组揭示玉米细胞类型特异性免疫反应：表皮细胞基因 **ZmHSP90**（Zm00001eb101750）与叶肉细胞基因 **ZmWAK2**（Zm00001eb071970）在病原菌侵染时发生跨细胞层相互作用，介导表皮-叶肉细胞通讯以实现协同防御（[[b3-l7tWWswvI2rZ5ba_4V2BsQ]]）
-- 感染后 24 和 48 小时的时间序列分析识别出 8 种主要细胞类型及其动态响应谱
-- 尽管核心热激基因（HSPs）在各细胞类型中普遍上调，单细胞分辨率揭示了精细的细胞类型特异性热胁迫转录差异
+| 证据 ID | DOI | 断言（截断） |
+|---|---|---|
+| `daily-42410657-f1` | 10.1186/s43897-026-00238-7 | Transgenic plants expressing miR858 target mimics effectively blocked miR858 activity, leading to th |
+| `daily-42729520-f4` | 10.3389/fpls.2026.1942553 | Our results indicate that GmSHMT05 sustains overall soybean growth and development in the absence of |
+| `daily-42231161-f1` | 10.1186/s12870-026-09156-8 | Stable overexpression of PavNHX37 in Nicotiana benthamiana significantly improved salt tolerance: tr |
+| `daily-42228685-f1` | 10.1371/journal.pbio.3003811 | When we introduced intact or mutated HIPP19 at the miR408-5p target site with a GFP tag driven by th |
+| `daily-42357205-f7` | 10.3390/plants15121886 | Although the identified candidate genes provide solid genetic targets for salinity tolerance, furthe |
 
-### ROS 与氧化还原调控
-约 10 篇相关文献
-- 过氧化物酶（**POD**）对底物 H₂O₂ 具有高亲和力，可高效清除 H₂O₂ 和其他羟基自由基，是胁迫条件下 ROS 稳态的核心酶类（[[integrated-metabolomics-and-transcriptomics-analyses-highlig-f1]]）
-- **CBL2/4-CIPK31** 介导的棉子糖合酶磷酸化不仅参与盐胁迫响应，还涉及氧化胁迫下的糖代谢重编程（[[daily-42213884]]）
-- Ca²⁺ 信号通过钙调素/钙调磷酸酶 B 类蛋白-CIPK 通路调控 ROS 产生与清除之间的动态平衡（[[pdf-ijms232416200-f1]]）
+### 正文状态
 
-### 激素信号与胁迫交叉调控
-约 20 篇相关文献
-- **ABA** 是胁迫响应的中枢激素：同时参与干旱（气孔关闭）、盐碱（渗透调节）、低温（OsNCED3 激活）和体细胞胚胎发生（介导空间生长素响应）等多种胁迫过程（[[ref-tpj-12129-f8]], [[ref-15592324-2020-1820681-f5]]）
-- **茉莉酸（JA）** 信号在物种间存在差异：大麦（Hordeum vulgare）在某些胁迫下 JA 水平未显著变化，但其他激素水平升高，提示 JA 通路在作物中的保守性需重新评估（[[ev-42204451-01]]）
-- **LaMYC7** 启动子含有激素和胁迫响应调控元件，表明 MYC 类转录因子是 JA 和其他激素信号在胁迫应答中的整合节点（[[lamyc7-a-positive-regulator-of-linalool-f10]]）
-- 褪黑素与 ABA 间存在拮抗关系：**MdASMT9** 过表达同时降低 ABA、升高褪黑素（[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo-f1]]）
-- **ABA** 对体细胞胚胎发生的必要性表明胁迫激素直接参与发育命运决定：ABA 通过介导空间生长素响应启动体细胞胚发生（[[ref-15592324-2020-1820681-f5]]）
+> frontmatter 标记 `body_status: rebuilt-*` 的页面，其子主题正文由 `rebuild_synthesis_body.py` 按本页证据确定性重建；本自动段是该快照的统计摘要。未标记的页面保留历史正文，机制性表述须逐条回原文核对，不得仅凭本页引用。
 
-### 细胞壁与结构防御
-约 8 篇相关文献
-- 木质素是植物细胞壁的基本组分，对长距离水分运输不可或缺——木质素沉积影响导管分子的疏水性和机械强度（[[daily-42174430-f4]]）
-- 株高和**节间长度**在作物抗倒伏性中起关键作用：倒伏抗性相关基因鉴定对禾谷类作物增产至关重要（[[ref-ijms20174211-f3]], [[ref-ijms20174211-f6]]）
-- 香蕉 **MaNAC1** 通过激活次生细胞壁纤维素合成增强低温胁迫下的组织刚性（[[banana-manac1-activates-secondary-cell-wall]]）
-- 胁迫响应顺式元件 **MBS**（MYB 结合位点）广泛存在于非生物胁迫响应基因的启动子区域，介导 MYB 转录因子对胁迫应答的转录调控（[[ref-s12864-017-4082-y-f1]]）
+<!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-## 共识发现
+> 本页正文于 2026-11-17 由 `rebuild_synthesis_body.py` 从 **4799 条证据对象 / 967 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261117`，不再作为本页结论来源。
+>
+> 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
-1. **ABA 是跨胁迫类型的核心信号枢纽** — ABA 合成（通过 NCED 限速酶）和信号转导在干旱（气孔关闭）、盐碱（渗透调节）、低温（OsbHLH150-OsNCED3 通路）和发育（体细胞胚胎发生）等多过程中均被多个独立研究证实为关键调控节点。OsNCED3 是水稻耐冷性中 ABA 合成的关键靶基因。
+## 0. 综述提要（受控生成）
 
-2. **OsNPR1-IPA1 模块协调免疫与发育** — OsNPR1 是 IPA1 功能必需的协同调控因子，二者共同调控大量重叠靶基因的表达。敲除 OsNPR1 导致 IPA1 过表达植株丧失自身免疫表型，证明 NPR1 在 ETI 介导的免疫-生长权衡中不可或缺（[[pdf-koag153]]）。
+本主题当前纳入 **4799 条证据 / 967 篇文献**。规则判定为因果或直接调控的 **904 条（18.8%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **413 条**。可判定程度最高的结论集中在CcLTCS、MdNAC29、SlUGT73C1：Simultaneous overexpression of CcNFYB3 and CcLTCS further increased Al resistance.（[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly-f5]]）；In apple, overexpression of MdNAC29 reduced drought tolerance in apple, callus, and tobacco plants, showing higher relative conductivity, MD…（[[daily-39819332-f3]]）；In tomato, overexpression of the tomato SlUGT73C1 gene in Arabidopsis increased the seed germination rate, increased SOD and POD activities,…（[[daily-39819332-f4]]）。研究重心位于“非生物逆境响应”（912 条证据，占 19%）。证据的物种分布以 Oryza sativa 为首（1378 条，29%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
-3. **OsMAPK3-OsbHLH150-OsNCED3 磷酸化级联是水稻耐冷性的核心通路** — OsMAPK3 对 OsbHLH150 的 S669/S674/S734 多丝氨酸位点磷酸化增强其蛋白稳定性，随后 OsbHLH150 直接结合 OsNCED3 启动子 E-box 元件激活 ABA 合成。V471L SNP 是粳/籼稻耐冷性差异的关键自然变异（[[sources/OsbHLH150水稻耐冷]]）。
+> 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
-4. **胁迫响应具有细胞类型特异性，超越经典共享胁迫程序** — 单细胞转录组揭示小麦根盐胁迫、马铃薯叶热胁迫和玉米病原侵染均呈现细胞类型特异性的转录差异。表皮细胞 ZmHSP90 与叶肉细胞 ZmWAK2 的跨细胞层通讯是玉米免疫响应的关键特征（[[b3-l7tWWswvI2rZ5ba_4V2BsQ]]）。
+## 1. 主题概览（自动统计）
 
-5. **植物免疫呈现两阶段防御重编程过程** — 多模块分析一致揭示从早期快速信号激活（Ca²⁺、ROS、MAPK）到后期持续转录与代谢重编程的时间层级结构，这一模型在多个独立研究中得到支持。
+| 指标 | 值 | 读法 |
+|---|---|---|
+| 证据对象 | 4799 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 967 | 去重后的论文数 |
+| 平均每篇证据数 | 4.96 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
+| 单条证据论文占比 | 8%（73/967） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(3033)、protein interaction(526)、phenotypic/association(402)、expression/regulation(341)、genetic perturbation(296)、omics/co-occurrence(119)、DNA binding/regulation(82) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(3131)、medium(1329)、high(314)、未标(25) | 低置信度标注须回原文核对 |
+| 主要物种 | Oryza sativa(1378)、Solanum lycopersicum(869)、Zea mays(830)、Arabidopsis thaliana(828)、Triticum aestivum(777)、Nicotiana tabacum(619) | 物种过度集中则外推性受限 |
+| 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
+| 未命中任何子主题的证据 | 3220（67%） | 占比高说明子主题词表或证据文本需扩表 |
 
-6. **SA-NPR1 是系统获得性抗性的核心枢纽** — SA 结合 NPR1 后解除其转录抑制活性，激活下游防御基因表达。这一机制在拟南芥和水稻（OsNPR1）中均得到验证，并进一步与 IPA1 协同调控免疫-发育平衡。
+因果级证据共 **904 条**，占本主题证据的 **18.8%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
-7. **褪黑素-ABA 拮抗关系是温度胁迫应答的重要调节机制** — MdASMT9 介导的褪黑素合成与 ABA 积累呈负相关，调控基础耐热性和低温耐受性，在苹果和多种植物中均有报道。
+物种主导度：**Oryza sativa** 出现在 1378 条证据（29%）。分布较分散，单物种主导风险较低，但需注意各物种证据层级是否可比。
 
-8. **胁迫信号通路存在丰富的转录因子结合位点共性** — MBS（MYB 结合位点）、激素响应元件等顺式元件广泛存在于胁迫响应基因启动子中（如 LaMYC7、AtZHD1-ERD1），MYB、bHLH、NAC、WRKY 等转录因子家族构成胁迫转录调控网络的核心。
+## 2. 子主题分解（按证据重建）
 
-## 知识空白与争议
+> 一条证据可同时命中多个子主题（共 219 条跨组），因此各子主题计数之和大于总证据数。物种×类型交叉表只统计已标注字段，空单元格表示该组合无证据，不等于不存在相应生物学过程。凡“因果层 0 条”的子主题，其代表断言只能读作相关性，不得改写为调控或因果。
 
-1. **大豆（Glycine max）胁迫与免疫的细胞分辨率数据完全缺失** — 目前植物胁迫单细胞/空间转录组研究集中在拟南芥、水稻、玉米、小麦和马铃薯，大豆（尤其节间组织）在胁迫条件下的细胞类型特异性转录响应尚无任何公开数据集。
+### 2.1 病原识别与免疫受体
 
-2. **免疫-生长权衡的分子定量机制尚不清晰** — RB 选择性剪接和 OsNPR1-IPA1 模块已被证明参与免疫-生长平衡，但如何精确量化"免疫成本"并在育种中实现最优平衡仍缺乏理论框架。
+**规模** 244 条证据 / 149 篇文献；**构成** descriptive/observational(127)、protein interaction(62)、omics/co-occurrence(18)、expression/regulation(14)、genetic perturbation(13)、phenotypic/association(7)；**因果层** 78 条（可支撑有限机制表述）。
 
-3. **跨物种 JA 信号保守性存在疑问** — 大麦中 JA 水平在某些胁迫下未显著变化，挑战了 JA 作为通用胁迫信号分子的假设，需在更多作物物种中系统验证。
 
-4. **两阶段防御重编程的细胞自主性程度未知** — 目前的两阶段模型主要基于整体组织分析，细胞类型层面的时间层级（哪些细胞类型主导第一阶段、哪些参与第二阶段）尚未解析。
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-5. **胁迫记忆（stress priming）的分子机制缺乏多组学整合** — 多次/轻度胁迫暴露引发的胁迫记忆现象已被描述，但其染色质、转录和代谢层面的完整分子机制尚未建立。
+- **一致的观察范围**：本组证据集中在Oryza sativa、Solanum lycopersicum、Arabidopsis thaliana，反复出现的实体为NLR8、NbTOL9a、auxin、lignin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f1]]；Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f4]]；Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f5]]）。
+- **证据层级的张力**：78 条属于遗传扰动/蛋白互作/DNA 结合，166 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40954952-f8]]；[[daily-41100018-f4]]；Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f1]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-40954952-f8]]；[[daily-41100018-f4]]）。
 
-6. **ABA 与光质信号的交叉调控节点不明确** — CRY1 过表达导致形成层细胞层数减少（光质调控发育），ABA 核心调控胁迫应答，但光受体（phyB/CRY）与 ABA 信号在节间伸长调控中的交互机制在大豆等豆科作物中完全未知。
+**物种 × 证据类型（前 5 物种）**
 
-7. **重金属胁迫的细胞类型特异性解毒机制缺乏系统比较** — 不同细胞类型（如表皮、内皮层、中柱鞘）在 Cd²⁺ 区隔化和解毒中的分工尚未在不同物种间进行比较分析。
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 2 | 18 | 2 | 3 | 4 | 8 | 35 | 72 |
+| Solanum lycopersicum | 3 | 19 | 0 | 7 | 2 | 6 | 33 | 70 |
+| Arabidopsis thaliana | 4 | 13 | 2 | 1 | 2 | 2 | 29 | 53 |
+| Nicotiana tabacum | 4 | 10 | 0 | 4 | 3 | 7 | 24 | 52 |
+| Triticum aestivum | 3 | 11 | 0 | 2 | 3 | 0 | 26 | 45 |
 
-8. **CBL-CIPK 钙信号网络在 PTI vs. 非生物胁迫中的信号特异性** — CBL2/4-CIPK31 既参与盐胁迫渗透调节，又参与 PTI 中的钙信号传导，同一模块如何区分不同胁迫来源的信号特异性尚不清楚。
+**基因实体（自动标注，前 5）**：NLR8(5)、NbTOL9a(4)、BAK1(4)、NtabCrRLK47(4)、CrRLK1L(3)（标注覆盖 104/244）。
 
-## 与大豆节间光质项目关联 ⭐高
+**化合物实体（自动标注，前 5）**：auxin(4)、lignin(2)、phenylpropanoid(2)、ethylene(1)、brassinosteroid(1)（标注覆盖 10/244）。
 
-胁迫与免疫的研究体系与大豆节间光质响应项目存在多层次的深度关联，尤其在节间发育可塑性的调控机制上有直接交叉。
+**标注一致性提示**：本组 2 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-40954952-f6]]。
 
-### 关联性
-大豆节间伸长对光质（红光/远红光比例、蓝光）的响应涉及 ABA、GA 和生长素等多激素信号的交互调控。当前研究已证实：
+**代表断言（原文摘录，未改写）**
 
-1. **ABA 是连接胁迫感知与发育调控的关键桥梁**：ABA 不仅调控干旱下的气孔关闭和低温下的 OsNCED3 激活，还通过介导空间生长素响应参与发育命运决定（如体细胞胚胎发生）。在大豆节间中，光质变化可能通过影响 ABA 合成/信号来调控细胞伸长和分裂的平衡。
+- “By analyzing our previously reported SIEC-Arabidopsis interactome in more detail, we found that SIECs interact with more host proteins associated with abiotic stress compared with …” — [[daily-42710057-f1]]（`10.1093/plphys/kiag664`，protein interaction）
+- “The first plant RCC1 member to be functionally characterized as a non-canonical photoreceptor was UV RESISTANCE LOCUS 8 ( UVR8 ) in Arabidopsis thaliana; upon UV-B absorption, UVR8…” — [[daily-42280745-f4]]（`10.3390/plants15111709`，protein interaction）
+- “While novel_47 (targeting the DNA repair gene BRCA2) was upregulated in both genotypes, its silencing effect appeared specific to the sensitive cultivar, implying that Perola posse…” — [[ms-10-1007_s00344-026-12266-0-f2]]（`10.1007/s00344-026-12266-0`，genetic perturbation）
 
-2. **环境胁迫与光质共享激素下游通路**：蓝光受体 CRY1 直接影响维管形成层活性和次生细胞壁沉积，而低温胁迫下 MaNAC1 同样调控次生细胞壁纤维素合成。节间组织的细胞壁沉积模式可能是光质信号和温度胁迫信号汇聚的重要节点。
+### 2.2 免疫信号传导与活性氧
 
-3. **节间长度是胁迫适应性的关键性状**：禾本科中株高和节间长度直接影响抗倒伏性（胁迫下的机械稳定性）。大豆节间在密植（荫蔽/远红光富集）下的伸长响应本质上是发育可塑性对光环境胁迫的适应，其分子调控网络与胁迫信号通路高度重叠。
+**规模** 380 条证据 / 284 篇文献；**构成** descriptive/observational(252)、protein interaction(43)、phenotypic/association(32)、genetic perturbation(23)、expression/regulation(18)、omics/co-occurrence(9)；**因果层** 69 条（可支撑有限机制表述）。
 
-### 方法论可迁移性
-- 单细胞/空间转录组技术已在玉米病原免疫中成功解析细胞类型特异性防御响应（ZmHSP90-ZmWAK2 表皮-叶肉通讯）。相同策略可直接应用于大豆节间：在对照和不同光质（R:FR 比例变化）条件下，通过 snRNA-seq 联合空间转录组揭示节间不同组织层（表皮、皮层、维管束、髓）对光质信号的差异化响应。
-- 马铃薯叶热胁迫单细胞分析中鉴定的细胞分化轨迹分析方法（Node 1/Node 2 分支）可直接迁移用于分析大豆节间细胞在光胁迫下的发育轨迹偏移。
-- OsbHLH150 通路的磷酸化级联解析策略（MAPK → bHLH → NCED → ABA）可作为大豆节间中鉴定光质→激素信号磷酸化级联的范式参考。
 
-### 具体假设
-1. **光质变化（低 R:FR）通过下调 ABA 合成促进节间伸长**：类似于 MdASMT9 过表达降低 ABA 的机制，荫蔽条件下 ABA 水平下降可能解除对细胞伸长的抑制。
-2. **节间不同细胞类型对光质的胁迫响应存在异质性**：表皮细胞可能通过蓝光受体 CRY/PHOT 感知光质变化，维管束细胞通过 ABA 信号响应水分/渗透状态，两者协同调控节间伸长。
-3. **节间伸长与免疫防御存在 trade-off**：类似于 RB 选择性剪接和 OsNPR1-IPA1 模块的免疫-生长权衡，快速伸长的节间可能牺牲部分防御能力。
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-## 核心基因
+- **一致的观察范围**：本组证据集中在Oryza sativa、Solanum lycopersicum、Triticum aestivum，反复出现的实体为CmVQ23、SlERF26、sucrose、salicylic acid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-39996429-f1]]；[[daily-39996429-f6]]；[[daily-40304972-f7]]）。
+- **证据层级的张力**：69 条属于遗传扰动/蛋白互作/DNA 结合，311 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-41622404-f4]]；[[daily-41978356-f3]]；[[daily-42197717-f4]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-41622404-f4]]；[[daily-41978356-f3]]）。
 
-| 基因 | 证据数 | 功能角色 |
-|------|--------|---------|
-| OsNPR1 | 6 | 水稻 ETI 免疫核心调控因子，与 IPA1 协同调控免疫-发育平衡 |
-| OsbHLH150 | 多篇 | 水稻耐冷性关键转录因子，被 OsMAPK3 磷酸化后激活 ABA 合成 |
-| OsMAPK3 | 多篇 | 磷酸化 OsbHLH150，耐冷信号级联的激酶组分 |
-| OsNCED3 | 多篇 | ABA 合成限速酶，OsbHLH150 直接靶基因 |
-| ZmHSP90 (Zm00001eb101750) | 1 | 玉米表皮细胞热激蛋白，参与免疫细胞通讯 |
-| ZmWAK2 (Zm00001eb071970) | 1 | 玉米叶肉细胞壁关联激酶，与 ZmHSP90 互作介导防御 |
-| MdASMT9 | 多篇 | 褪黑素合成酶，过表达降低 ABA 增强耐热性 |
-| MaNAC1 | 多篇 | 香蕉 NAC 转录因子，激活次生细胞壁合成增强抗冷性 |
-| AcbHLH144 | 7 | 菠萝 bHLH 转录因子，负调控酚酸合成调节冷害褐变 |
-| LaMYC7 | 多篇 | MYC 转录因子，启动子含激素和胁迫响应元件 |
-| AtZHD1 | 1 | 锌指同源域转录因子，结合 ERD1 启动子调控干旱早期响应 |
-| TaMIP1 | 1 | 小麦水通道蛋白，通过控制根密度增强耐旱性 |
-| TaWRKY33 | 多篇 | 小麦 WRKY 转录因子，正调控 TaERF1-A 激活防御 |
-| CBL2/4-CIPK31 | 多篇 | 钙信号模块，磷酸化棉子糖合酶参与盐/渗透胁迫 |
+**物种 × 证据类型（前 5 物种）**
 
-## 文献分布
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 11 | 23 | 2 | 5 | 13 | 1 | 73 | 128 |
+| Solanum lycopersicum | 4 | 11 | 0 | 5 | 8 | 2 | 46 | 76 |
+| Triticum aestivum | 4 | 6 | 1 | 7 | 10 | 2 | 42 | 72 |
+| Arabidopsis thaliana | 7 | 10 | 1 | 3 | 4 | 1 | 37 | 63 |
+| Zea mays | 3 | 9 | 1 | 3 | 6 | 2 | 35 | 59 |
 
-| 物种 | 篇数（估计） |
-|------|-------------|
-| Arabidopsis thaliana (拟南芥) | ~35 |
-| Oryza sativa (水稻) | ~30 |
-| Triticum aestivum (小麦) | ~15 |
-| Zea mays (玉米) | ~12 |
-| Solanum tuberosum (马铃薯) | ~8 |
-| Solanum lycopersicum (番茄) | ~6 |
-| Medicago sativa (苜蓿) | ~5 |
-| Musa acuminata (香蕉) | ~3 |
-| Glycine max (大豆) | ~2 |
-| 其他/多物种 | ~28 |
+**基因实体（自动标注，前 5）**：CmVQ23(4)、SlERF26(3)、GhPPOs(2)、SbRBOHG(2)、TaMAP3K17(2)（标注覆盖 97/380）。
 
-## 代表性文献 (Top 10)
+**化合物实体（自动标注，前 5）**：sucrose(17)、salicylic acid(9)、jasmonic acid(8)、lignin(5)、auxin(5)（标注覆盖 55/380）。
 
-1. [[sources/OsbHLH150水稻耐冷]] — OsMAPK3 磷酸化 OsbHLH150 激活 OsNCED3/ABA 合成通路，揭示水稻耐冷性核心磷酸化级联，鉴定粳/籼稻差异关键 SNP V471L
-2. [[pdf-koag153]] — OsNPR1 与 IPA1 协同调控水稻免疫与发育，揭示 OsNPR1 对 IPA1 功能必要性及免疫-生长权衡机制
-3. [[b3-l7tWWswvI2rZ5ba_4V2BsQ]] — 整合单细胞与空间转录组揭示玉米细胞类型特异性免疫反应，发现 ZmHSP90-ZmWAK2 表皮-叶肉通讯
-4. [[ev-41133438-01]] — 小麦根盐胁迫细胞类型特异性与品种特异性响应，揭示亚基因组不对称表达
-5. [[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo-f1]] — MdASMT9 过表达降低 ABA、提高褪黑素增强基础耐热性
-6. [[banana-manac1-activates-secondary-cell-wall]] — MaNAC1 激活次生细胞壁纤维素合成增强香蕉抗冷性
-7. [[alfalfa-cadmium-sc-multiomics]] — 苜蓿镉胁迫单核 RNA-seq 与 ATAC-seq 多组学分析
-8. [[daily-42206621]] — 干旱响应 TaMIP1 控制小麦根密度以增强耐旱性
-9. [[ref-ijms20174211]] — 根系构型和节间长度在作物抗逆性中的关键作用综述
-10. [[daily-42216553]] — 模式触发免疫（PTI）分子网络的系统解析
+**标注一致性提示**：本组 2 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-42203758-f5]]。
 
-## 相关 Synthesis 页面
+**代表断言（原文摘录，未改写）**
 
-- [[single-cell-spatial-omics]] — 单细胞与空间组学方法学基础
-- [[developmental-biology]] — 发育生物学（根/维管/分生组织）
-- [[hormone-signaling]] — 激素信号转导
-- [[cell-wall]] — 细胞壁合成与调控
-- [[metabolism-natural-products]] — 代谢与天然产物（胁迫次生代谢）
+- “In PFAS-contaminated systems, HAs may interact with PFAS through competing mechanisms: PFAS-DOM complexation can reduce the freely available fraction through hydrophobic and electr…” — [[daily-42483507-f2]]（`10.3389/fpls.2026.1791472`，protein interaction）
+- “In parallel, CRISPR is pairing with single-cell/spatial readouts to make cause-and-effect tractable in native contexts: pooled editing and barcoded screening in Candida now resolve…” — [[daily-41788331-f6]]（`10.3389/fmicb.2026.1743670`，genetic perturbation）
+- “In the cytosol, calcium-dependent effectors such as calcium-dependent protein kinases (CPKs), CBL-CIPK complexes, and MAPK cascades are activated and propagate signals to the nucle…” — [[ms-10-3389_fpls-2026-1810324-f6]]（`10.3389/fpls.2026.1810324`，protein interaction）
+
+### 2.3 抗病基因与数量抗性
+
+**规模** 44 条证据 / 31 篇文献；**构成** descriptive/observational(25)、phenotypic/association(8)、protein interaction(6)、genetic perturbation(4)、omics/co-occurrence(1)；**因果层** 10 条（可支撑有限机制表述）。
+
+
+**受控叙述（按证据类型分层；每句附原始证据）**
+
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Triticum aestivum、Glycine max，反复出现的实体为RIN4、PdRPM1；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-39996429-f4]]；[[daily-41829717-f1]]；[[daily-42110912-f5]]）。
+- **证据层级的张力**：10 条属于遗传扰动/蛋白互作/DNA 结合，34 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-42280680-f3]]；[[daily-42413037-f8]]；[[daily-42588787-f3]]）。
+- **可检验缺口**：DNA 结合、表达相关在本组缺证据；在补齐这些设计前，RIN4、PdRPM1 与“抗病基因与数量抗性”的方向性关系应作为待检验命题（[[daily-39996429-f4]]；[[daily-41829717-f1]]）。
+
+**物种 × 证据类型（前 5 物种）**
+
+| 物种 | 遗传扰动 | 蛋白互作 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|
+| Arabidopsis thaliana | 0 | 1 | 1 | 1 | 6 | 9 |
+| Triticum aestivum | 0 | 1 | 3 | 0 | 5 | 9 |
+| Glycine max | 0 | 2 | 1 | 0 | 6 | 9 |
+| Oryza sativa | 2 | 1 | 0 | 0 | 3 | 6 |
+| Hordeum vulgare | 0 | 0 | 2 | 0 | 4 | 6 |
+
+**基因实体（自动标注，前 5）**：RIN4(5)、PdRPM1(4)、RPS2(2)、RPM1(2)、PB1(2)（标注覆盖 13/44）。
+
+**代表断言（原文摘录，未改写）**
+
+- “This review details how resistance in plant pathogenic bacteria predominantly arises through horizontally acquired determinants such as strAB and aadA, as well as point mutations i…” — [[daily-42427100-f2]]（`10.1093/gbe/evag174`，genetic perturbation）
+- “These QTLs may also interact with osmotic adjustment processes through osmolyte accumulation (discussed in ), representing key genomic targets for drought-tolerant crop development…” — [[daily-42278532-f2]]（`10.3390/ijms27115008`，protein interaction）
+- “Given that the PB1 domain mediates PB1dependent protein–protein interactions, we hypothesised that poplar encodes one or more proteins that interact with PdRPM1 via this domain.” — [[daily-42649622-f8]]（`10.1111/mpp.70329`，protein interaction）
+
+### 2.4 非生物逆境响应
+
+**规模** 912 条证据 / 380 篇文献；**构成** descriptive/observational(405)、phenotypic/association(216)、genetic perturbation(117)、expression/regulation(71)、protein interaction(70)、omics/co-occurrence(18)；**因果层** 202 条（可支撑有限机制表述）。
+
+
+**受控叙述（按证据类型分层；每句附原始证据）**
+
+- **一致的观察范围**：本组证据集中在Oryza sativa、Triticum aestivum、Zea mays，反复出现的实体为NaCl、SnRK2、melatonin、chlorophyll；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[banana-manac1-activates-secondary-cell-wall-f6]]；[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly-f3]]；[[daily-39819332-f2]]）。
+- **证据层级的张力**：202 条属于遗传扰动/蛋白互作/DNA 结合，710 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[banana-manac1-activates-secondary-cell-wall-f6]]；[[daily-39819332-f3]]；[[daily-41589633-f5]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[banana-manac1-activates-secondary-cell-wall-f6]]；[[daily-39819332-f3]]）。
+
+**物种 × 证据类型（前 5 物种）**
+
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 40 | 39 | 7 | 24 | 68 | 6 | 125 | 309 |
+| Triticum aestivum | 16 | 18 | 2 | 16 | 50 | 8 | 111 | 221 |
+| Zea mays | 26 | 21 | 6 | 17 | 35 | 4 | 95 | 204 |
+| Arabidopsis thaliana | 31 | 14 | 6 | 20 | 29 | 3 | 74 | 177 |
+| Solanum lycopersicum | 23 | 8 | 4 | 20 | 43 | 2 | 58 | 158 |
+
+**基因实体（自动标注，前 5）**：NaCl(10)、SnRK2(6)、CaAAP6(5)、TaCOMT1A(5)、ZmSWEET11(4)（标注覆盖 334/912）。
+
+**化合物实体（自动标注，前 5）**：melatonin(14)、chlorophyll(12)、phenylpropanoid(7)、lignin(6)、auxin(6)（标注覆盖 72/912）。
+
+**标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[ref-pcu020-f4]]。
+
+**代表断言（原文摘录，未改写）**
+
+- “Studies have found that Aux/IAA proteins not only indirectly influence ABA signal transduction by regulating auxin and ABA biosynthesis/metabolic pathways but also that some member…” — [[daily-42245099-f7]]（`10.3389/fpls.2026.1823723`，protein interaction）
+- “Stable overexpression of PavNHX37 in Nicotiana benthamiana significantly improved salt tolerance: transgenic lines exhibited lower Na + accumulation, higher K + retention, and a re…” — [[daily-42231161-f1]]（`10.1186/s12870-026-09156-8`，genetic perturbation）
+- “Although the identified candidate genes provide solid genetic targets for salinity tolerance, further downstream functional validation, including qRT-PCR expression profiling, VIGS…” — [[daily-42357205-f7]]（`10.3390/plants15121886`，genetic perturbation）
+
+### 2.5 激素与免疫的权衡
+
+**规模** 59 条证据 / 48 篇文献；**构成** descriptive/observational(51)、phenotypic/association(4)、protein interaction(1)、omics/co-occurrence(1)、genetic perturbation(1)、expression/regulation(1)；**因果层** 2 条（可支撑有限机制表述）。
+
+> 本组仅 2 条因果级证据，机制表述只在该证据覆盖的物种与条件下成立，不可外推到其余 57 条。
+
+**受控叙述（按证据类型分层；每句附原始证据）**
+
+- **一致的观察范围**：本组证据集中在Triticum aestivum、Oryza sativa、Solanum lycopersicum，反复出现的实体为DRM2、RdDM、phenolic、salicylic acid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-42122860-f1]]；[[daily-42122860-f8]]；[[daily-42122890-f3]]）。
+- **证据层级的张力**：2 条属于遗传扰动/蛋白互作/DNA 结合，57 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（；[[daily-42514492-f6]]）。
+- **可检验缺口**：DNA 结合在本组缺证据；在补齐这些设计前，DRM2、RdDM、phenolic 与“激素与免疫的权衡”的方向性关系应作为待检验命题（[[daily-42122860-f1]]；[[daily-42122860-f8]]）。
+
+**物种 × 证据类型（前 5 物种）**
+
+| 物种 | 遗传扰动 | 蛋白互作 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|
+| Triticum aestivum | 0 | 0 | 0 | 1 | 1 | 17 | 19 |
+| Oryza sativa | 0 | 0 | 0 | 2 | 0 | 17 | 19 |
+| Solanum lycopersicum | 0 | 0 | 0 | 1 | 0 | 11 | 12 |
+| Rosa spp. | 0 | 0 | 0 | 0 | 0 | 8 | 8 |
+| Nicotiana tabacum | 0 | 0 | 0 | 0 | 0 | 6 | 6 |
+
+**基因实体（自动标注，前 5）**：DRM2(1)、RdDM(1)、PsnSAUR6(1)、SNF1(1)、SnRK1(1)（标注覆盖 10/59）。
+
+**化合物实体（自动标注，前 5）**：phenolic(2)、salicylic acid(2)、auxin(1)、brassinosteroid(1)、phenylpropanoid(1)（标注覆盖 7/59）。
+
+**标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-42689114-f6]]。
+
+**代表断言（原文摘录，未改写）**
+
+- “Our results indicate that GmSHMT05 sustains overall soybean growth and development in the absence of GmSHMT08; however, GmSHMT08’s gain-of-function in SCN resistance negatively inf…” — [[daily-42729520-f4]]（`10.3389/fpls.2026.1942553`，genetic perturbation）
+- “This is due to the fact that different priming agents affect the physiological and biochemical traits in plants differently due to the unique ways they interact with the plant’s ce…” — [[daily-42280673-f5]]（`10.3390/plants15111636`，protein interaction）
+- “Thermopriming differentially regulates a defined set of microRNAs including osa-miR156b-3p, osa-miR167e-3p, osa-miR168a-5p, osa-miR531b, osa-miR1846d-5p, osa-miR5077, and osa-miR51…” — [[daily-42689139-f2]]（`10.3389/fpls.2026.1924558`，descriptive/observational）
+
+### 2.6 微生物组与根际互作
+
+**规模** 111 条证据 / 65 篇文献；**构成** descriptive/observational(89)、phenotypic/association(10)、protein interaction(5)、expression/regulation(4)、DNA binding/regulation(1)、omics/co-occurrence(1)；**因果层** 7 条（可支撑有限机制表述）。
+
+
+**受控叙述（按证据类型分层；每句附原始证据）**
+
+- **一致的观察范围**：本组证据集中在Oryza sativa、Zea mays、Solanum lycopersicum，反复出现的实体为NtabCrRLK47、MAX3、melatonin、jasmonic acid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-41375325-f6]]；[[daily-41589633-f1]]；[[daily-41645062-f1]]）。
+- **证据层级的张力**：7 条属于遗传扰动/蛋白互作/DNA 结合，104 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（；[[daily-42122860-f5]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（）。
+
+**物种 × 证据类型（前 5 物种）**
+
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 0 | 3 | 0 | 0 | 3 | 0 | 26 | 32 |
+| Zea mays | 0 | 3 | 0 | 1 | 1 | 0 | 22 | 27 |
+| Solanum lycopersicum | 0 | 1 | 0 | 0 | 0 | 0 | 21 | 22 |
+| Nicotiana tabacum | 1 | 0 | 0 | 0 | 0 | 0 | 15 | 16 |
+| Glycine max | 0 | 0 | 0 | 0 | 1 | 0 | 14 | 15 |
+
+**基因实体（自动标注，前 5）**：NtabCrRLK47(3)、MAX3(2)、GXD2(1)、NSP2(1)、CELK12(1)（标注覆盖 11/111）。
+
+**化合物实体（自动标注，前 5）**：melatonin(3)、jasmonic acid(1)、phenolic(1)、salicylic acid(1)（标注覆盖 6/111）。
+
+**代表断言（原文摘录，未改写）**
+
+- “By delivering hydrolytic enzymes, antimicrobial effectors, signaling molecules, and immunomodulatory proteins, SSs enable bioagents not only to suppress pathogens directly, but als…” — [[daily-42437521-f8]]（`10.1002/bit.70303`，protein interaction）
+- “Recent studies suggest that melatonin not only directly regulates plant stress physiology but may also enhance drought tolerance by reshaping the structure and function of rhizosph…” — [[daily-42249284-f4]]（`10.1186/s12870-026-09179-1`，DNA binding/regulation）
+- “Specifically, we show that the mutation of NtabCrRLK47 leads to significant alterations in plant growth, including enhanced plant height, root length, leaf area, and an enriched mi…” — [[daily-42491367-f2]]（`10.3389/fpls.2026.1864982`，genetic perturbation）
+
+### 2.7 逆境记忆与表观调控
+
+**规模** 72 条证据 / 40 篇文献；**构成** descriptive/observational(53)、protein interaction(7)、phenotypic/association(5)、expression/regulation(3)、DNA binding/regulation(2)、genetic perturbation(1)；**因果层** 10 条（可支撑有限机制表述）。
+
+
+**受控叙述（按证据类型分层；每句附原始证据）**
+
+- **一致的观察范围**：本组证据集中在Oryza sativa、Triticum aestivum、Arabidopsis thaliana，反复出现的实体为ALKBH5、RdDM、phenolic、abscisic acid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-41494571-f6]]；[[daily-42122860-f1]]；[[daily-42122860-f2]]）。
+- **证据层级的张力**：10 条属于遗传扰动/蛋白互作/DNA 结合，62 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-41494571-f6]]；[[daily-42227011-f3]]；[[daily-42412868-f3]]）。
+- **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-41494571-f6]]；[[daily-42227011-f3]]）。
+
+**物种 × 证据类型（前 5 物种）**
+
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|---|
+| Oryza sativa | 0 | 2 | 1 | 1 | 2 | 1 | 19 | 26 |
+| Triticum aestivum | 1 | 3 | 0 | 1 | 1 | 1 | 17 | 24 |
+| Arabidopsis thaliana | 0 | 4 | 1 | 2 | 2 | 0 | 11 | 20 |
+| Hordeum vulgare | 0 | 0 | 1 | 0 | 0 | 0 | 8 | 9 |
+| Rosa spp. | 0 | 0 | 0 | 0 | 0 | 0 | 9 | 9 |
+
+**基因实体（自动标注，前 5）**：ALKBH5(3)、RdDM(2)、LSD1(2)、HD2B(2)、HSP70(1)（标注覆盖 15/72）。
+
+**化合物实体（自动标注，前 5）**：phenolic(1)、abscisic acid(1)（标注覆盖 2/72）。
+
+**代表断言（原文摘录，未改写）**
+
+- “In the sdg8 mutant, the levels of H3K36me2/me3 on the chromatin of target genes such as FLC, MAF4, and MAF5 significantly decreased, whereas H3K36me1 significantly increased, resul…” — [[daily-42227011-f3]]（`10.1093/hr/uhag047`，genetic perturbation）
+- “Chromatin immunoprecipitation assays can identify the transcription factors that bind to the ABRE motifs in the promoters of LbaSOD5 and LbaSOD10, whereas promoter deletion and mut…” — [[daily-42725159-f6]]（`10.3389/fpls.2026.1897912`，DNA binding/regulation）
+- “We show that MPK3 interacts directly with and phosphorylates the histone deacetylase HD2B, which has been shown to deacetylate the lysine 9 residue of histone 3 (H3K9), a modificat…” — [[ref-s13059-017-1261-8-f1]]（`10.1186/s13059-017-1261-8`，protein interaction）
+
+## 3. 跨子主题实体枢纽（自动统计）
+
+下列实体在 **≥2 个子主题**中被独立证据提及。它们本身**不构成机制结论**，但说明该实体是本主题多条研究线的交叉点，值得优先核对证据层级。
+
+| 基因 | 命中子主题数 | 证据条数 | 涉及子主题 |
+|---|---|---|---|
+| CmVQ23 | 4 | 7 | 免疫信号传导与活性氧、抗病基因与数量抗性、激素与免疫的权衡、病原识别与免疫受体 |
+| SnRK2 | 3 | 8 | 免疫信号传导与活性氧、病原识别与免疫受体、非生物逆境响应 |
+| BAK1 | 3 | 6 | 免疫信号传导与活性氧、病原识别与免疫受体、非生物逆境响应 |
+| LpCbDR1 | 3 | 6 | 免疫信号传导与活性氧、病原识别与免疫受体、非生物逆境响应 |
+| MAC5A | 3 | 6 | 免疫信号传导与活性氧、病原识别与免疫受体、非生物逆境响应 |
+| SbRBOHG | 3 | 5 | 免疫信号传导与活性氧、病原识别与免疫受体、非生物逆境响应 |
+| StuPPO9 | 3 | 5 | 免疫信号传导与活性氧、激素与免疫的权衡、非生物逆境响应 |
+| COOL1 | 3 | 4 | 免疫信号传导与活性氧、病原识别与免疫受体、非生物逆境响应 |
+| HD2B | 3 | 4 | 免疫信号传导与活性氧、病原识别与免疫受体、逆境记忆与表观调控 |
+| LpERF1B | 3 | 4 | 免疫信号传导与活性氧、病原识别与免疫受体、非生物逆境响应 |
+
+| 化合物 | 命中子主题数 | 证据条数 | 涉及子主题 |
+|---|---|---|---|
+| phenolic | 5 | 10 | 免疫信号传导与活性氧、微生物组与根际互作、激素与免疫的权衡、逆境记忆与表观调控、非生物逆境响应 |
+| auxin | 4 | 16 | 免疫信号传导与活性氧、激素与免疫的权衡、病原识别与免疫受体、非生物逆境响应 |
+| salicylic acid | 4 | 13 | 免疫信号传导与活性氧、微生物组与根际互作、激素与免疫的权衡、病原识别与免疫受体 |
+| phenylpropanoid | 4 | 12 | 免疫信号传导与活性氧、激素与免疫的权衡、病原识别与免疫受体、非生物逆境响应 |
+| jasmonic acid | 4 | 11 | 免疫信号传导与活性氧、微生物组与根际互作、激素与免疫的权衡、非生物逆境响应 |
+| abscisic acid | 4 | 8 | 免疫信号传导与活性氧、激素与免疫的权衡、逆境记忆与表观调控、非生物逆境响应 |
+
+### 3.1 跨子主题受控叙述
+
+- **交叉实体**：CmVQ23、SnRK2、BAK1、LpCbDR1、MAC5A 等实体在 ≥2 个子主题中重复出现；这只能说明多条研究线指向同一候选，不能说明同一机制（[[accumulation-of-tocopherols-and-transcriptional-regulation-f3]]；[[banana-manac1-activates-secondary-cell-wall-f1]]）。
+- **层级不均**：因果层证据在子主题间分布不均，最高为“非生物逆境响应”（202 条），最低为“激素与免疫的权衡”（2 条）；跨子主题比较结论强度前须先对齐这一差异。
+- **共同缺口**：七类证据齐全，瓶颈是同一结论的独立复现与条件分层，而非证据类型。
+
+## 4. 研究设计缺口矩阵（子主题 × 证据类型）
+
+> 单元格为证据条数，`—` 表示该组合在本主题无证据。最后一列之后按行读：一行里若前三列全为 `—`，该子主题**没有任何因果层证据**。
+
+| 子主题 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 |
+|---|---|---|---|---|---|---|---|
+| 病原识别与免疫受体 | 13 | 62 | 3 | 14 | 7 | 18 | 127 |
+| 免疫信号传导与活性氧 | 23 | 43 | 3 | 18 | 32 | 9 | 252 |
+| 抗病基因与数量抗性 | 4 | 6 | — | — | 8 | 1 | 25 |
+| 非生物逆境响应 | 117 | 70 | 15 | 71 | 216 | 18 | 405 |
+| 激素与免疫的权衡 | 1 | 1 | — | 1 | 4 | 1 | 51 |
+| 微生物组与根际互作 | 1 | 5 | 1 | 4 | 10 | 1 | 89 |
+| 逆境记忆与表观调控 | 1 | 7 | 2 | 3 | 5 | 1 | 53 |
+
+所有已有证据的子主题都至少含 1 条因果/直接互作级证据，机制表述具备最低限度的实验托底。
+
+## 5. 可直接引用的因果级证据（自动筛选）
+
+以下 904 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
+
+| 证据页 | DOI | 类型 | 断言（摘录） |
+|---|---|---|---|
+| [[banana-manac1-activates-secondary-cell-wall-f6]] | `10.1111/pbi.14195` | protein interaction | The interaction between a NAC domain TF Vascular-Related NAC-Domain7 (VND7) and a VND Interacting 2 (VNI2) TF contribute… |
+| [[banana-manac1-activates-secondary-cell-wall-f7]] | `10.1111/pbi.14195` | protein interaction | The expression of Ma06_g28730 in postharvest banana peel was obviously upregulated under chilling stress (Figure 2d), an… |
+| [[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly-f3]] | `10.1111/pbi.14179` | genetic perturbation | In our experiments, we found the double RNAi line exhibited a further increase in callose concentration and a decrease i… |
+| [[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly-f5]] | `10.1111/pbi.14179` | genetic perturbation | Simultaneous overexpression of CcNFYB3 and CcLTCS further increased Al resistance. |
+| [[daily-39819332-f3]] | `10.1080/21645698.2024.2448869` | genetic perturbation | In apple, overexpression of MdNAC29 reduced drought tolerance in apple, callus, and tobacco plants, showing higher relat… |
+| [[daily-39819332-f4]] | `10.1080/21645698.2024.2448869` | genetic perturbation | In tomato, overexpression of the tomato SlUGT73C1 gene in Arabidopsis increased the seed germination rate, increased SOD… |
+| [[daily-39819332-f5]] | `10.1080/21645698.2024.2448869` | genetic perturbation | For example, the overexpression of MdABI5 enhanced ABA sensitivity and drought tolerance by directly activating the expr… |
+| [[daily-39996429-f1]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Our findings suggest that the enhanced immunity observed in Arabidopsis cds1cds2 mutant was attributable to multiple fac… |
+| [[daily-39996429-f2]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Here, we found that knock-down of the CDS gene enhanced the resistance of Arabidopsis thaliana to multiple pathogens, wi… |
+| [[daily-39996429-f3]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Our data suggest that AtS40, NGAL2, RGL3, and other genes associated with embryonic development and growth in plants wer… |
+| [[daily-39996429-f5]] | `10.1080/15592324.2025.2471503` | protein interaction | In plants, PA interacts with proteins that function in or outside cell nucleus to regulate cellular and physiological pr… |
+| [[daily-39996429-f6]] | `10.1080/15592324.2025.2471503` | protein interaction | PA binds to respiratory burst oxidase homolog D (RBOHD), which generates reactive oxygen species (ROS) in plant immunity… |
+| [[daily-40304972-f3]] | `10.1007/s13353-025-00963-7` | protein interaction | In animals, GPCR interacts with a G-protein composed of Gα and a Gβγ dimer, with Gα bound to guanosine diphosphate (GDP)… |
+| [[daily-40304972-f4]] | `10.1007/s13353-025-00963-7` | protein interaction | The dissociated Gα and Gβγ dimer then interact with various intracellular effectors, such as transcription factors and e… |
+| [[daily-40304972-f6]] | `10.1007/s13353-025-00963-7` | protein interaction | Upon activation, the final kinase translocates within the cell to phosphorylate various targets, including transcription… |
+| [[daily-40304972-f8]] | `10.1007/s13353-025-00963-7` | protein interaction | At higher concentrations, melatonin interacts with calmodulin, inhibiting NOS activity and reducing NO production in mit… |
+| [[daily-40455831-f2]] | `10.1146/annurev-phyto-121823-032335` | genetic perturbation | Similarly, overexpression of the ECT homolog in apple, MhYTP2, enhances the translation efficiency of its target transcr… |
+| [[daily-40455831-f4]] | `10.1146/annurev-phyto-121823-032335` | protein interaction | One notable example of IRES-dependent translation involves the AtLa1 protein, which binds to the 5′ LS of WUSCHEL (WUS) … |
+| [[daily-40455831-f7]] | `10.1146/annurev-phyto-121823-032335` | protein interaction | COP1 binds to and ubiquitinates the spliceosome component DOMINANT COP1-6 SUPPRESSOR 1 (DCS1) to control intron retentio… |
+| [[daily-40893112-f4]] | `10.1080/21645698.2025.2555037` | genetic perturbation | Reported that overexpression of the NsVP1 gene from Nitraria sibirica, significantly enhanced salt tolerance in Arabidop… |
+
+（另有 884 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
+
+## 6. 证据间的张力与矛盾（自动筛查）
+
+自动筛查发现 1 组“同一基因、方向相反”的表述。这类冲突通常来自物种、组织或处理条件不同，**不宜简单判定一方错误**，而应作为条件分层实验的设计依据。
+
+| 基因 | 冲突类型 | 涉及来源（截断） |
+|---|---|---|
+| SOS2 | regulation direction dispute | [[daily-42232517]]；[[daily-42284136]]；[[ms-10-21926_obm-genet-2603356]] |
+
+> 筛查规则为“激活/抑制”等对立动词共现，属关键词启发式，可能误报；每条冲突都必须回原文核对实验条件后才能采信。
+
+## 7. 覆盖与代表性缺口
+
+- **3220 条证据（67%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
+- **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
+
+## 8. 历史正文说明
+
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261117`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+
+## 9. 行内引用密度自检
+
+本页正文 4600 个中文字符，行内证据链接 103 处，密度 **11.2 处/500 字**（目标 ≥1）。链接指向证据页，不直接指向出版社；引用前须沿证据页回到原文核对。

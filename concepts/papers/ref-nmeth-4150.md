@@ -1,12 +1,18 @@
+---
 title: Single-cell mRNA quantification and differential analysis with Census.
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags: [methods-tools, papers]
 doi: 10.1038/nmeth.4150
 confidence: medium
-aliases: ["Single-cell mRNA quantification and differential analysis with Census."]
+aliases: [Single-cell mRNA quantification and differential analysis with Census.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Single-cell mRNA quantification and differential analysis with Census.
 
@@ -47,11 +53,11 @@ X.Q. and C.T. designed Census and the regression methods. X.Q. implemented the m
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

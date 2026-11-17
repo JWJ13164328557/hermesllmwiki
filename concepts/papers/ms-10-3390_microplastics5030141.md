@@ -1,14 +1,21 @@
 ---
-title: Plastic in the Galleries: Conceptual Micro- and Nanoplastic Particle Exposure Du
+title: 'Plastic in the Galleries: Conceptual Micro- and Nanoplastic Particle Exposure During Xylophagy in Anoplophora glabripennis'
 created: 2026-07-23
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/microplastics5030141
 confidence: moderate
 source: openalex
+status: pollution
+title_fixed_from: 'Plastic in the Galleries: Conceptual Micro- and Nanoplastic Particle Exposure Du'
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Plastic in the Galleries: Conceptual Micro- and Nanoplastic Particle Exposure During Xylophagy in Anoplophora glabripennis
+# Plastic in the Galleries: Conceptual Micro- and Nanoplastic Particle Exposure During Xylophagy in Anoplophora glabripennisring Xylophagy in Anoplophora glabripennis
 
 ## 论文信息
 - **期刊**: Microplastics (2026)

@@ -112,8 +112,12 @@ def enrich_with_fulltext():
         if not pm: continue
         pmid = pm.group(1)
         
-        # Skip if already has full text
-        if '## 全文' in cc and len(cc) > 5000:
+        # Skip if already has full text.
+        # 原判据只认 '## 全文'，识别不到 '## PMC 全文'，导致重复下载并覆盖已提炼页面。
+        if ('## 全文' in cc or '## PMC 全文' in cc) and len(cc) > 5000:
+            continue
+        # 已有深度提炼的页面绝不允许被摘要版覆盖（会抹掉人工/模型提炼成果）。
+        if '### 核心发现' in cc:
             continue
         
         print(f"  [{slug[:30]}] PMID:{pmid}...", end=' ')

@@ -1,12 +1,18 @@
+---
 title: Single-cell transcriptional diversity is a hallmark of developmental potential.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1126/science.aax0249
 confidence: medium
-aliases: ["Single-cell transcriptional diversity is a hallmark of developmental potential."]
+aliases: [cr-10-1126-science-aax0249, Single-cell transcriptional diversity is a hallmark of developmental potential.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Single-cell transcriptional diversity is a hallmark of developmental potential.
 
@@ -47,16 +53,16 @@ Competing interests: G.S.G., S.S.S, M.F.C., and A.M.N. are inventors on a provis
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Citrus spp., Ficus carica, Dioscorea spp.
+**物种**: Dioscorea spp.
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq, ATAC-seq, RNAi/VIGS
 **来源**: DOI:10.1126/science.aax0249
 **来源类型**: PDF全文 (10.1126_science.aax0249.pdf)

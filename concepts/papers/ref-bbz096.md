@@ -1,14 +1,24 @@
-title: "单细胞RNA测序数据集的单细胞分类器的评估。"
+---
+title: 单细胞RNA测序数据集的单细胞分类器的评估。
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/bib/bbz096
 confidence: medium
-aliases: ["单细胞RNA测序数据集的单细胞分类器的评估。"]
+aliases:
+- 单细胞RNA测序数据集的单细胞分类器的评估。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: Evaluation of single-cell classifiers for single-cell RNA sequencing data sets
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 单细胞RNA测序数据集的单细胞分类器的评估。
+---
+
+# Evaluation of single-cell classifiers for single-cell RNA sequencing data sets
 
 
 
@@ -45,8 +55,8 @@ Corresponding author: Xiao Sun, State Key Laboratory of Bioelectronics, Biomedic
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-Lj9ToIUf0z9y77oj4ELKlQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-78WuUWiztOxRe4n5MS2Pag]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b3--bs1tAYpaCxa0fWZ49R6kw]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-ys8H9kH4cFVbPEuMHCg4nA]]
 
 

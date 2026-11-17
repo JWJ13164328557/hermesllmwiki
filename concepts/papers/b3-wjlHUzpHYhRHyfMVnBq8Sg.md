@@ -1,17 +1,25 @@
-title: "Integrated single-nucleus transcriptomic and metabolomic insights into bud-to-leaf development and metabolite synthesis in tea plant."
-pmid: "41647724"
-doi: "10.1093/hr/uhaf281"
-pmcid: "PMC4453793"
-journal: "Horticulture research"
-year: "2026"
-authors: "Xuecheng Zhao, Xiaoying Xu, Ning Chi, Yiming Liu, Xinxin Zhou"
+---
+title: Integrated single-nucleus transcriptomic and metabolomic insights into bud-to-leaf development and metabolite synthesis in tea plant.
+pmid: '41647724'
+doi: 10.1093/hr/uhaf281
+pmcid: PMC4453793
+journal: Horticulture research
+year: '2026'
+authors: Xuecheng Zhao, Xiaoying Xu, Ning Chi, Yiming Liu, Xinxin Zhou
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [snRNA-seq, multi-omics, RNA-seq, metabolomics]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Integrated single-nucleus transcriptomic and metabolomic insights into bud-to-leaf development and metabolite synthesis in tea plant.
 
 ## 1. Scientific Context
 
@@ -118,10 +126,10 @@ The tea plant is an important nonalcoholic beverage crop known for its abundant 
 - 物种: unknown
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 
@@ -158,3 +166,21 @@ The tea plant is an important nonalcoholic beverage crop known for its abundant 
 4. 探索unknown中的应用潜力
 
 **下一步关键实验**: 基于核心发现的遗传学验证 (需人工设计具体实验)
+
+## 深度提炼
+
+**主要物种**: Camellia sinensis
+**物种**: Camellia sinensis, Oryza sativa, Arabidopsis thaliana, Catharanthus roseus, Gossypium hirsutum
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), multi-omics integration, single-cell RNA-seq, RNAi/VIGS, overexpression
+**来源**: DOI:10.1093/hr/uhaf281
+**来源类型**: PDF全文 (10-1093_hr_uhaf281.pdf)
+
+### 核心发现
+1. These findings suggest that cluster 14 plays a critical role in promoting cellular development in the bud.
+2. This study provides a comprehensive understanding of how miRNA-target networks, in combination with hormonal pathways, control leaf size, developmental timing, and metabolite accumulation in tea plant.
+3. For instance, CsTCP3 and CsTCP14 interact with the MBW complex to regulate catechin biosynthesis, while microRNAs (miRNAs), including miR164b, miR319, and miR165, were shown to influence shoot tip and leaf shape development [11].
+4. Moreover, AtTCP3 interacts with MYB transcription factors to promote flavonoid biosynthesis [18].
+5. In leaf development, miRNAs including miR319, miR164, miR396, and miR156/172 regulate their respective target genes: TCP3 (regulated by miR319), CUC (by miR164), growth-regulating factors (GRFs, by miR396), and SQUAMOSA PROMOTER BINDING PROTEIN-LIKE (SPLs, by miR156/172).
+6. Specifically, miR396 targets GRF genes to control leaf size [15, 16, 21, 22].
+7. Collectively, these results demonstrate that cell type composition and functional characteristics dynamically shift during bud-to-leaf development.
+8. However,CsmiRNA166sexhibitedinconsistentexpressionpatterns across tissues, suggesting functional diversity among its isoforms (Fig.S8a).ToidentifykeymiRNAsinvolvedinleafdevelopment,we conducted further analysis and highlighted critical miRNA-target pairs (Fig.

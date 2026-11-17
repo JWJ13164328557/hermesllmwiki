@@ -1,17 +1,25 @@
-title: "Integrative analysis of endogenous phytohormones and transcriptomics reveals mechanism of light-induced callus formation in tea (Camellia sinensis) cuttings."
-pmid: "41742034"
-doi: "10.1007/s10822-010-9352-6"
-pmcid: "PMC2881210"
-journal: "BMC plant biology"
-year: "2026"
-authors: "Ying Gao, Xinyu Liu, Shuwei Yu, Yuantao Yao, Wei Zhang"
+---
+title: Integrative analysis of endogenous phytohormones and transcriptomics reveals mechanism of light-induced callus formation in tea (Camellia sinensis) cuttings.
+pmid: '41742034'
+doi: 10.1186/s12870-026-08209-2
+pmcid: PMC2881210
+journal: BMC plant biology
+year: '2026'
+authors: Ying Gao, Xinyu Liu, Shuwei Yu, Yuantao Yao, Wei Zhang
 type: paper
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags: [methods-tools, papers]
 species: [unknown]
 methods: [multi-omics, Y2H]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Integrative analysis of endogenous phytohormones and transcriptomics reveals mechanism of light-induced callus formation in tea (Camellia sinensis) cuttings.
 
 ## 1. Scientific Context
 
@@ -124,10 +132,10 @@ RESULTS: In this study, callus growth was analyzed in short tea cuttings exposed
 - 物种: unknown
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 

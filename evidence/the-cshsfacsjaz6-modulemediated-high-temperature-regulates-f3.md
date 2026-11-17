@@ -1,34 +1,43 @@
 ---
-title: "Taken together, these findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin accumu"
-created: 2026-08-25
+title: "These findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]"
 doi: "10.1111/pce.14610"
-species: [Oryza sativa, Zea mays, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [CsJAZ6]
+species: ["Camellia sinensis", "Nicotiana tabacum", "Arabidopsis thaliana"]
+primary_species: "Camellia sinensis"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CsJAZ6"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, these findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin accumu
+# These findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin …
 
 ## Claim
-Taken together, these findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin accumulation.
+These findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin accumulation.
 
-## Biological Context
-The CsHSFA‐CsJAZ6 模块‐介导的 high temperature 调控 类黄酮 metabolism in Camellia sinensis
+## Source
+- 文献: [[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]
+- DOI: 10.1111/pce.14610
+- 主要物种: Camellia sinensis
 
-## Supporting Evidence
-*Source: [[the-cshsfacsjaz6-modulemediated-high-temperature-regulates]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CsJAZ6
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

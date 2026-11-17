@@ -1,16 +1,25 @@
 ---
-title: 10.1111/jipb
+
+title: The comprehensive regulatory network in seed oil biosynthesis
 created: 2026-06-04
 type: concept
+themes: [developmental-biology, metabolism-natural-products]
 tags: [papers, dpdf]
 doi: 10.1111/jipb
 confidence: moderate
 source: dPDF
 species: —
 methods: —
+needs_review: true
+doi_quality: journal_level
+title_source: pdf_filename
+title_quality: from_pdf_filename
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# 10.1111/jipb
+# The comprehensive regulatory network in seed oil biosynthesis
 
 ## 论文信息
 - **期刊**:  (None)

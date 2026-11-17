@@ -1,34 +1,43 @@
 ---
-title: "We found that SmNPR4 inhib- ited the transcriptional activation activity of SmTGA5 by Dual- LUC assa"
-created: 2026-09-16
+title: "A basic leucine zipper family transcription factor SmTGA5 was identified and was found to …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]"
 doi: "10.1093/hr/uhad066"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Medicago spp.]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis thaliana", "Nicotiana tabacum", "Medicago spp."]
+primary_species: "Salvia miltiorrhiza"
+evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [SmNPR4, SmTGA5]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["SmNPR4", "SmTGA5"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# We found that SmNPR4 inhib- ited the transcriptional activation activity of SmTGA5 by Dual- LUC assa
+# A basic leucine zipper family transcription factor SmTGA5 was identified and was found to …
 
 ## Claim
-We found that SmNPR4 inhib- ited the transcriptional activation activity of SmTGA5 by Dual- LUC assay (Fig.
+A basic leucine zipper family transcription factor SmTGA5 was identified and was found to interact with SmNPR4.
 
-## Biological Context
-The SmNPR4-SmTGA5 模块 调控 SA-介导的 phenolic acid 生物合成 in Salvia miltiorrhiza hairy roots
+## Source
+- 文献: [[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]
+- DOI: 10.1093/hr/uhad066
+- 主要物种: Salvia miltiorrhiza
 
-## Supporting Evidence
-*Source: [[the-smnpr4-smtga5-module-regulates-sa-mediated-phenolic]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: SmNPR4, SmTGA5
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

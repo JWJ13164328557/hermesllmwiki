@@ -1,14 +1,20 @@
 ---
-title: Monochromatic Light Orchestrates Integrated Transcriptomic and Metabolic Reprogr
+title: Monochromatic Light Orchestrates Integrated Transcriptomic and Metabolic Reprogramming to Alleviate Phosphorus Starvation in Banana (Musa spp.)
 created: 2026-07-26
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12080908
 confidence: moderate
 source: openalex
+title_fixed_from: Monochromatic Light Orchestrates Integrated Transcriptomic and Metabolic Reprogr
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Monochromatic Light Orchestrates Integrated Transcriptomic and Metabolic Reprogramming to Alleviate Phosphorus Starvation in Banana (Musa spp.)
+# Monochromatic Light Orchestrates Integrated Transcriptomic and Metabolic Reprogramming to Alleviate Phosphorus Starvation in Banana (Musa spp.)amming to Alleviate Phosphorus Starvation in Banana (Musa spp.)
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

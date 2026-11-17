@@ -1,34 +1,43 @@
 ---
-title: "Interestingly, researchers have found that several important TFs have species-speciﬁc roles in cotto"
-created: 2026-08-25
+title: "Previous studies have shown that the nucleus is significantly enlarged in epidermal cells …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]"
 doi: "10.1016/j.xplc.2023.100554"
-species: [Arabidopsis thaliana, Oryza sativa, Gossypium hirsutum]
+species: ["Gossypium hirsutum", "Oryza sativa", "Arabidopsis thaliana"]
+primary_species: "Gossypium hirsutum"
 evidence_type: "expression/regulation"
-quality: "medium"
-genes: [GhHD1, GhPDF1, GhMYB25]
+claim_role: "background"
+non_finding_kind: "background"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Interestingly, researchers have found that several important TFs have species-speciﬁc roles in cotto
+# Previous studies have shown that the nucleus is significantly enlarged in epidermal cells …
 
 ## Claim
-Interestingly, researchers have found that several important TFs have species-speciﬁc roles in cotton ﬁber initiation; these include GhMYB25, GhMYB25-like, PROTODERMAL FACTOR1 (GhPDF1), class-IV HD-ZIP factor (GhHD1), and Gh14-3-3(Machado et al., 2009; Walford et al., 2011, 2012; Deng et al., 2012; Zhou et al., 2015).
+Previous studies have shown that the nucleus is significantly enlarged in epidermal cells that differentiate into fiber-initiating cells (de Moura et al., 2020), indicating that ribosomal RNA (rRNA) biosynthesis is necessary for fiber cell differentiation (Bahadori, 2019).
 
-## Biological Context
-Single-cell RNA landscape of the special fiber initiation process in Bombax ceiba
+## Source
+- 文献: [[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]
+- DOI: 10.1016/j.xplc.2023.100554
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

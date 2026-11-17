@@ -1,34 +1,43 @@
 ---
-title: "Here, we found that AaMYB6 belonging to cluster 18 was homologous to CmMYB6 in Chrysanthemum flowers"
+title: "Our recent work showed that, overexpression of AaHY5 increased the artemisinin content in …"
 created: 2026-08-25
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[transcriptomic-analysis-reveals-the-parallel-transcriptional]]"
 doi: "10.1016/j.plaphy.2021.03.052"
-species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [CmMYB6, AaMYB6]
-compounds: []
+species: ["Artemisia annua", "Malus domestica", "Nicotiana tabacum"]
+primary_species: "Artemisia annua"
+evidence_type: "genetic perturbation"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "high"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["AaHY5"]
+compounds: ["artemisinin"]
+evidence_type_confidence: "high"
+evidence_type_prior: ""
+
 ---
 
-# Here, we found that AaMYB6 belonging to cluster 18 was homologous to CmMYB6 in Chrysanthemum flowers
+# Our recent work showed that, overexpression of AaHY5 increased the artemisinin content in …
 
 ## Claim
-Here, we found that AaMYB6 belonging to cluster 18 was homologous to CmMYB6 in Chrysanthemum flowers.
+Our recent work showed that, overexpression of AaHY5 increased the artemisinin content in trans genic A.
 
-## Biological Context
-Transcriptomic 分析 揭示 the parallel transcriptional 调控 of UV-B-induced artemisinin and 类黄酮 积累 in Artemisia annua L
+## Source
+- 文献: [[transcriptomic-analysis-reveals-the-parallel-transcriptional]]
+- DOI: 10.1016/j.plaphy.2021.03.052
+- 主要物种: Artemisia annua
 
-## Supporting Evidence
-*Source: [[transcriptomic-analysis-reveals-the-parallel-transcriptional]]*
+## 标注信息
+- 证据类型: genetic perturbation
+- 论断角色: finding
+- 论断证据完备度: high（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: AaHY5
+- 自动标注化合物: artemisinin
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

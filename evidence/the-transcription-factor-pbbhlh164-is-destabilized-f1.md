@@ -1,34 +1,43 @@
 ---
-title: "These results suggest that PbbHLH164 can directly bind to the PbACS1b promoter."
-created: 2026-08-25
+title: "Of the modifications, ubiquitination, which contributes to the degradation of the target …"
+created: 2026-11-02
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-transcription-factor-pbbhlh164-is-destabilized]]"
 doi: "10.1016/j.jare.2024.01.004"
-species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
-evidence_type: "DNA binding/regulation"
-quality: "medium"
-genes: [PbbHLH164, PbACS1b]
+species: ["grape", "tobacco", "tomato"]
+primary_species: "Pyrus spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# These results suggest that PbbHLH164 can directly bind to the PbACS1b promoter.
+# Of the modifications, ubiquitination, which contributes to the degradation of the target …
 
 ## Claim
-These results suggest that PbbHLH164 can directly bind to the PbACS1b promoter.
+Of the modifications, ubiquitination, which contributes to the degradation of the target protein by 26S proteasome pathway, is crucial for a plethora of physiological processes [48].
 
-## Biological Context
-The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene 生物合成 过程中 pear fruit ripening
+## Source
+- 文献: [[the-transcription-factor-pbbhlh164-is-destabilized]]
+- DOI: 10.1016/j.jare.2024.01.004
+- 主要物种: Pyrus spp.
 
-## Supporting Evidence
-*Source: [[the-transcription-factor-pbbhlh164-is-destabilized]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

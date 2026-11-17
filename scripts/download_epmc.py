@@ -17,7 +17,7 @@ download_epmc.py — 用 Europe PMC 批量下载 PDF (稳定 OA 通道，成功�
 """
 import os, re, json, sys, time, glob, argparse, urllib.request, urllib.parse
 
-BASE = '/mnt/g/hermes_obsidian/hermes'
+from kb_paths import BASE  # 统一根目录解析: KB_BASE/APP_DIR 环境变量优先
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 

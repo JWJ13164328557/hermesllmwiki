@@ -1,12 +1,21 @@
-title: "综合代谢组学和转录组学分析表明，γ-氨基丁酸通过类黄酮的积累增强了小麦的臭氧耐受性"
-journal: "unknown"
-year: ""
+---
+title: 综合代谢组学和转录组学分析表明，γ-氨基丁酸通过类黄酮的积累增强了小麦的臭氧耐受性
+journal: unknown
+year: ''
 type: paper
-tags: [#stress-immunity, papers]
+themes: [metabolism-natural-products, stress-immunity]
+tags: [papers]
 species: [Triticum aestivum, Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

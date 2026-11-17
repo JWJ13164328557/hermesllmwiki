@@ -1,15 +1,19 @@
-title: "Full-length sequencing of Ginkgo biloba L. reveals the synthesis of terpenoids during seed development"
+---
+title: Full-length sequencing of Ginkgo biloba L. reveals the synthesis of terpenoids during seed development
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags: [genomics-evolution, papers]
 doi: 10.1016/j.indcrop.2021.113714
-pmid: 
-confidence: medium
-aliases: ["银杏的全长测序揭示了种子发育过程中萜类化合物的合成"]
+pmid: ''
+aliases: [银杏的全长测序揭示了种子发育过程中萜类化合物的合成]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Full-length 测序 of Ginkgo biloba L. 揭示 the synthesis of terpenoids 过程中 seed 发育
+species_status: unverified
+---
 
-> Full-length sequencing of Ginkgo biloba L. reveals the synthesis of terpenoids during seed development
+# Full-length sequencing of Ginkgo biloba L. reveals the synthesis of terpenoids during seed development
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

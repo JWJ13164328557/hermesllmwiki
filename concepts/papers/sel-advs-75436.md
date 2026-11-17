@@ -1,18 +1,20 @@
-title: "Issue Information: (Adv. Sci. 29/2026)"
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 20 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 17 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["发行信息： （ Adv. Sci. 29/2026 ）"]
-aliases_extra: ["Issue Information: (Adv. Sci. 29/2026)"]
+---
+
+title: 'Issue Information: (Adv. Sci. 29/2026)'
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 created: 2026-06-01
-status: imported
+status: pollution
 source: selenium_batch
-journal: "Advanced Science"
+journal: Advanced Science
 year: 2026
-doi: "10.1002/advs.75436"
-authors: ""
+doi: 10.1002/advs.75436
+authors: ''
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Issue Information: (Adv. Sci. 29/2026)
 
@@ -27,7 +29,7 @@ authors: ""
 
 ## 深度提炼
 
-**物种**: Solanum lycopersicum, Ficus carica
+**物种**: Solanum lycopersicum
 **方法**: metabolomics (LC-MS/GC-MS), overexpression, subcellular localization
 **来源**: DOI:10.1002/advs.75436
 **来源类型**: PDF全文 (10.1002_advs.75436.pdf)
@@ -43,10 +45,10 @@ authors: ""
 8. Notably, NO regulates SAR in a dose-­dependent manner, with both low and high NO levels compromising SAR (35).
 ## 相关文献
 
-- [[乙烯敏感3-样2调节西红柿成熟过程中的β-胡萝卜素和抗坏血酸积累]] (ETHYLENE-INSENSITIVE 3-LIKE 2 regulates β-carotene)
-- [[MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 06 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE]] (Red and blue light promote tomato fruit coloration)
-- [[根冠角质层：用于苗木建立和以后的细胞壁结构]] (根冠角质层：用于苗木建立和以后的细胞壁结构)
-- [[50 years of Arabidopsis research: highlights and future directions.]] (50 years of Arabidopsis research: highlights and f)
-- [[柑橘果实冷藏期间生育酚的积累及其生物合成的转录调节]] (Accumulation of tocopherols and transcriptional re)
-- [[全基因组COMT基因家族的比较鉴定和分析]] (全基因组COMT基因家族的比较鉴定和分析)
-- [[Endogenous RALF peptide function is required for powdery mildew host colonizatio]] (Endogenous RALF peptide function is required for p)
+- 乙烯敏感3-样2调节西红柿成熟过程中的β-胡萝卜素和抗坏血酸积累 (ETHYLENE-INSENSITIVE 3-LIKE 2 regulates β-carotene)
+- MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 06 MINUTES 57 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE (Red and blue light promote tomato fruit coloration)
+- 根冠角质层：用于苗木建立和以后的细胞壁结构 (根冠角质层：用于苗木建立和以后的细胞壁结构)
+- 50 years of Arabidopsis research: highlights and future directions. (50 years of Arabidopsis research: highlights and f)
+- 柑橘果实冷藏期间生育酚的积累及其生物合成的转录调节 (Accumulation of tocopherols and transcriptional re)
+- 全基因组COMT基因家族的比较鉴定和分析 (全基因组COMT基因家族的比较鉴定和分析)
+- Endogenous RALF peptide function is required for powdery mildew host colonizatio (Endogenous RALF peptide function is required for p)

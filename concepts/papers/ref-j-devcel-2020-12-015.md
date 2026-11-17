@@ -1,14 +1,25 @@
-title: Single-cell RNA sequencing of developing maize ears facilitates functional analy
+---
+title: Single-cell RNA sequencing of developing maize ears facilitates functional analysis and trait candidate gene discovery
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1016/j.devcel.2020.12.015
 confidence: medium
-aliases: ["Single-cell RNA sequencing of developing maize ears facilitates functional analy"]
+aliases:
+- xr-10-1016-j-devcel-2020-12-015
+- Single-cell RNA sequencing of developing maize ears facilitates functional analy
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Single-cell RNA sequencing of developing maize ears facilitates functional analy
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Single-cell RNA sequencing of developing maize ears facilitates functional analy
+---
+
+# Single-cell RNA sequencing of developing maize ears facilitates functional analysis and trait candidate gene discovery
 
 
 
@@ -47,16 +58,16 @@ The authors declare no competing interests. Publisher's Disclaimer:This is a PDF
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Sorghum bicolor, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Sorghum bicolor
 **方法**: transcriptomics (RNA-seq), genomics, single-cell RNA-seq, ATAC-seq, ChIP-seq/qPCR, CRISPR/Cas9, knockout/mutant, GWAS
 **来源**: DOI:10.1016/j.devcel.2020.12.015
 **来源类型**: PDF全文 (PIIS1534580720310212.pdf)

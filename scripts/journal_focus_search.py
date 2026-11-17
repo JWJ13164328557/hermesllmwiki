@@ -23,6 +23,9 @@ journal_focus_search.py — 白名单期刊 × 主题 双重限定检索 (2026-0
 - 每本刊 × 主题 → 一个 esearch。100刊×14主题=1400 次(限速 ~0.25s → ~6min)。
 """
 import urllib.parse, urllib.request, json, sys, os, time
+import socket
+# 2026-09-14: 全局 socket 默认超时 — urllib timeout 不覆盖 SSL 握手阶段; 设全局使握手也超时.
+socket.setdefaulttimeout(15)
 from datetime import datetime, timedelta
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -134,16 +137,21 @@ def journal_or_clause(journals):
     """把期刊列表构造成 [Journal] OR 子句。"""
     return '(' + ' OR '.join(f'"{j}"[Journal]' for j in journals) + ')'
 
+def _esearch_post(full):
+    """POST esearch (term in body) to avoid HTTP 414 on long grants (2026-09-14)."""
+    body = urllib.parse.urlencode({'db':'pubmed','term':full,'retmax':50,'sort':'date','retmode':'json'}).encode()
+    req = urllib.request.Request('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi',
+                                 data=body, headers={'Content-Type':'application/x-www-form-urlencoded','User-Agent':'HermesKB/2.0'})
+    d = json.loads(urllib.request.urlopen(req, timeout=25).read())
+    return d.get('esearchresult', {}).get('idlist', [])
+
 def search_topic_in_journals(journals, topic, days, max_results):
     """在给定期刊组内按主题词检索一次, 返回 PMID 列表。"""
     from_date = (datetime.now() - timedelta(days=days)).strftime('%Y/%m/%d')
     jc = journal_or_clause(journals)
     full = f'({jc}) AND ({topic}) AND ("{from_date}"[Date - Publication] : "3000"[Date - Publication])'
-    url = ('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term='
-           + urllib.parse.quote(full) + f'&retmax={max_results}&sort=date&retmode=json')
     try:
-        d = json.loads(urllib.request.urlopen(url, timeout=20).read())
-        return d.get('esearchresult', {}).get('idlist', [])
+        return _esearch_post(full)
     except Exception as e:
         print(f'  ⚠ {str(e)[:40]}')
         return []
@@ -195,10 +203,36 @@ def import_pmids(pmids):
             pass
         if not is_plant_content(p.get('title','') + ' ' + p.get('abstract','')):
             continue
-        # 创建概念页 (与 daily_update 相同格式)
+        # 领域纯度闸门（研究对象判定）
+        try:
+            from purity_gate import classify as _purity
+            verdict, preasons = _purity(p.get('title',''), p.get('abstract',''),
+                                        p.get('journal',''), p.get('doi'))
+            if verdict == 'nonplant':
+                print('  ⛔ 纯度闸门拒收: %s | %s'
+                      % (','.join(preasons[:2])[:24], p['title'][:45]))
+                continue
+            if verdict == 'suspect':
+                print('  ⚠ 纯度待审: %s | %s'
+                      % (','.join(preasons[:2])[:24], p['title'][:45]))
+        except ImportError:
+            pass
+        # 八主题相关性闸门（研究对象是植物 != 属于八个主题）
+        try:
+            from topic_gate import is_core_topic
+            core_ok, core_why = is_core_topic(p.get('title', ''), p.get('abstract', ''),
+                                              p.get('journal', ''))
+            if not core_ok:
+                print('  \u26d4 \u516b\u4e3b\u9898\u62d2\u6536: %s | %s'
+                      % (','.join(core_why[:2])[:24], p['title'][:45]))
+                continue
+        except ImportError:
+            pass
+        # \u521b\u5efa\u6982\u5ff5\u9875 (\u4e0e daily_update \u76f8\u540c\u683c\u5f0f)
         from datetime import datetime as _dt
         slug = f"daily-{pmid}"
-        base = '/mnt/g/hermes_obsidian/hermes'
+        from kb_paths import BASE as _KB_BASE, paper_path, find_paper
+        base = _KB_BASE
         content = f"""---
 title: {p['title'][:80]}
 created: {_dt.now().strftime('%Y-%m-%d')}
@@ -226,8 +260,8 @@ confidence: high
 **物种**: {'plant' if p.get('is_plant') else '—'}
 **来源**: PMID:{pmid} | DOI:{p['doi']}
 """
-        fp = f"{base}/concepts/{slug}.md"
-        if os.path.exists(fp):
+        fp = paper_path(slug)
+        if find_paper(slug):
             continue
         with open(fp, 'w', encoding='utf-8') as f:
             f.write(content)

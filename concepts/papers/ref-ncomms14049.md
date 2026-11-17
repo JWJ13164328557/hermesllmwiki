@@ -1,12 +1,19 @@
+---
 title: Massively parallel digital transcriptional profiling of single cells.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1038/ncomms14049
 confidence: medium
-aliases: ["Massively parallel digital transcriptional profiling of single cells."]
+aliases: [Massively parallel digital transcriptional profiling of single cells.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: excluded-nonplant
+theme_basis: purity:nonplant
+scope_status: nonplant
+
+---
 
 # Massively parallel digital transcriptional profiling of single cells.
 
@@ -29,11 +36,11 @@ Characterizing the transcriptome of individual cells is fundamental to understan
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 
@@ -51,7 +58,7 @@ The GemCode technology platform enables high-throughput scRNA-seq with rapid cel
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1038/ncomms14049
 **来源类型**: PDF全文 (10.1038_ncomms14049.pdf)

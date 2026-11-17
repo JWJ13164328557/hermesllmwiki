@@ -1,14 +1,21 @@
 ---
-title: Dynamic Analysis of Sugar, Organic Acid, Phytohormones, and Enzyme Activities in
+
+title: Dynamic Analysis of Sugar, Organic Acid, Phytohormones, and Enzyme Activities in Developing Fruit of White- and Red-Fleshed Loquat (Eriobotrya japonica Lindl.)
 created: 2026-07-23
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12070886
 confidence: moderate
 source: openalex
+title_fixed_from: Dynamic Analysis of Sugar, Organic Acid, Phytohormones, and Enzyme Activities in
+theme_status: out-of-scope
+theme_basis: none
+
 ---
 
-# Dynamic Analysis of Sugar, Organic Acid, Phytohormones, and Enzyme Activities in Developing Fruit of White- and Red-Fleshed Loquat (Eriobotrya japonica Lindl.)
+# Dynamic Analysis of Sugar, Organic Acid, Phytohormones, and Enzyme Activities in Developing Fruit of White- and Red-Fleshed Loquat (Eriobotrya japonica Lindl.) Developing Fruit of White- and Red-Fleshed Loquat (Eriobotrya japonica Lindl.)
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

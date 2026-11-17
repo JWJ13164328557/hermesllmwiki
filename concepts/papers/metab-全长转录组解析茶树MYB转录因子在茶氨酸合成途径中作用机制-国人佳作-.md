@@ -3,11 +3,18 @@ title: "全长转录组解析茶树MYB转录因子在茶氨酸合成途径中作
 journal: "unknown"
 year: ""
 type: paper
-tags: [development, gene-regulation, spatial]
+themes: [epigenetics-gene-regulation]
+tags: []
 species: [Gossypium]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

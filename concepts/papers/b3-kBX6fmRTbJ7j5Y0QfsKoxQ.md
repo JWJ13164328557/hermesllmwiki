@@ -1,12 +1,21 @@
-title: "【CELL重磅】单细胞转录组学 + 多维组学 首次完整解析了尼古丁的生物合成通路"
-journal: "unknown"
-year: ""
+---
+title: 【CELL重磅】单细胞转录组学 + 多维组学 首次完整解析了尼古丁的生物合成通路
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

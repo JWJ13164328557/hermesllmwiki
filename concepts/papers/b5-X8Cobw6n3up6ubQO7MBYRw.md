@@ -1,12 +1,21 @@
-title: "Differential regulation of heterochromatin and euchromatin b"
-journal: "unknown"
-year: ""
+---
+title: Differential regulation of heterochromatin and euchromatin b
+journal: unknown
+year: ''
 type: paper
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation]
+tags: [papers]
 species: [Populus, Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -31,10 +40,10 @@ updated: 2026-05-30
 ## 相关文献
 
 - [[b3-wjlHUzpHYhRHyfMVnBq8Sg]] 🌱cotton,poplar
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]] 🌱poplar
+- [[poplar-xylem-sc-spatial-gb]] 🌱poplar
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]] 🌱cotton
-- [[b6-jpXamO-lS-eyCqULAU9qnA]] 🌱poplar
-- [[b4-3xWcn3gR1_rK4fPzDslSyw]] 🌱poplar
+- [[cr-s41477-023-01387-z]] 🌱poplar
+- [[spatial-transcriptomics-plant-regeneration]] 🌱poplar
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]] 🌱cotton
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]] 🌱cotton
 

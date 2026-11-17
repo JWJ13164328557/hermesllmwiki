@@ -1,17 +1,25 @@
-title: "A model for the adaptation of Euryale ferox leaves to aquatic environments through EfCGT1-controlled flavonoid C-glycoside-specific accumulation in epidermis cells."
-pmid: "40417969"
-doi: "10.1016/j.hpj.2024.09.002"
-pmcid: "PMC12010377"
-journal: "Plant biotechnology journal"
-year: "2025"
-authors: "Ailian Liu, Chenyan Qu, Wenjing Ling, Tianyu Wang, Yanyan Zhang"
+---
+title: A model for the adaptation of Euryale ferox leaves to aquatic environments through EfCGT1-controlled flavonoid C-glycoside-specific accumulation in epidermis cells.
+pmid: '40417969'
+doi: 10.1111/pbi.70155
+pmcid: PMC12010377
+journal: Plant biotechnology journal
+year: '2025'
+authors: Ailian Liu, Chenyan Qu, Wenjing Ling, Tianyu Wang, Yanyan Zhang
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 species: [Arabidopsis thaliana, Oryza sativa (rice), Zea mays (maize), Triticum aestivum (wheat), Populus (poplar), Solanum lycopersicum (tomato), Brassica]
 methods: [metabolomics, CRISPR, reporter assay, phylogenetics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# A model for the adaptation of Euryale ferox leaves to aquatic environments through EfCGT1-controlled flavonoid C-glycoside-specific accumulation in epidermis cells.
 
 ## 1. Scientific Context
 
@@ -126,12 +134,29 @@ With changes in complex environments, plants, especially their leaves, are const
 - 物种: Arabidopsis thaliana, Oryza sativa (rice), Zea mays (maize), Triticum aestivum (wheat)
 - 关键基因: UGT1, ACTIN2, HB34, PC2, PAL06, PC1
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Plant Leaves, Plant Proteins, Flavonoids, Adaptation, Physiological, Gene Expression Regulation, Plant, Glycosides, Plant Epidermis, Glycosyltransferases
 
 > 知识图谱需人工审查完善
 
+## 深度提炼
+
+**主要物种**: Zea mays
+**物种**: Zea mays, Triticum aestivum, Spinacia oleracea, Oryza sativa, Solanum tuberosum
+**方法**: transcriptomics (RNA-seq), Y2H, BiFC, EMSA, dual-luciferase reporter, overexpression, phylogenetics
+**来源**: DOI:10.1111/pbi.70155
+**来源类型**: XML全文 (10.1111_pbi.70155.txt)
+
+### 核心发现
+1. They play a crucial role in enhancing the survivability and competitiveness of plants and in interacting with complex environments.
+2. The vascular system, consisting of procambium, phloem, xylem and bundle sheath, plays a pivotal role in signal transduction and transport (Table ).
+3. The differentiation of HCs may play a crucial role in maintaining the water balance in the floating leaves of E.
+4. These results suggest that energy flow and cycling are crucial strategies for the adaptation of E.
+5. These findings suggest that flavonoids probably function throughout the developmental period of E.
+6. These findings suggest that EfCGT1 may play a role not only in the specific accumulation of FCGs in E.
+7. These findings suggest that EfZHD17 and EfZHD19 not only individually regulate EfCGT1 activity and thus affect FCG accumulation but also that the formation of the complex enhances this inhibitory effect.
+8. This suggests that ECs play a pivotal role in the adaptation of E.

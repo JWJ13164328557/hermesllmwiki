@@ -1,17 +1,26 @@
-title: "Metabolomic and Single-Cell Transcriptomic Analyses Shed Light on Secondary Metabolite Profiling and Potential Developmental Dynamics of Glandular Trichomes in Artemisia argyi."
-pmid: "41070730"
-doi: "10.1111/pbi.70362"
-pmcid: "PMC9590582"
-journal: "Plant biotechnology journal"
-year: "2026"
-authors: "Shuting Dong, Hongyu Chen, Sijie Sun, Miaoxian Guo, Chao Sun"
+---
+title: Metabolomic and Single-Cell Transcriptomic Analyses Shed Light on Secondary Metabolite Profiling and Potential Developmental Dynamics of Glandular Trichomes in Artemisia argyi.
+pmid: '41070730'
+doi: 10.1111/pbi.70362
+pmcid: PMC9590582
+journal: Plant biotechnology journal
+year: '2026'
+authors: Shuting Dong, Hongyu Chen, Sijie Sun, Miaoxian Guo, Chao Sun
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [scRNA-seq, metabolomics, pseudotime]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+aliases: [b4-_igXoh0eWZRAu9l6Lg-fJg]
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Metabolomic and Single-Cell Transcriptomic Analyses Shed Light on Secondary Metabolite Profiling and Potential Developmental Dynamics of Glandular Trichomes in Artemisia argyi.
 
 ## 1. Scientific Context
 
@@ -117,10 +126,10 @@ Plant glandular trichomes (GTs) are characterised by their ability to synthesise
 - 物种: unknown
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Artemisia, Trichomes, Plant Leaves, Gene Expression Profiling, Terpenes, Single-Cell Analysis, Metabolomics, Transcriptome
 
@@ -157,3 +166,21 @@ Plant glandular trichomes (GTs) are characterised by their ability to synthesise
 4. 探索unknown中的应用潜力
 
 **下一步关键实验**: 基于核心发现的遗传学验证 (需人工设计具体实验)
+
+## 深度提炼
+
+**主要物种**: Arabidopsis thaliana
+**物种**: Arabidopsis thaliana, Artemisia annua, Helianthus annuus, Solanum lycopersicum
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), qRT-PCR validation, phylogenetics
+**来源**: DOI:10.1111/pbi.70362
+**来源类型**: PDF全文 (10-1111_pbi-70362.pdf)
+
+### 核心发现
+1. Collectively, these findings advance knowledge of the metabolic and developmental characteristics of A.
+2. Taken together, these lines of evidence confirm the existence of the GT cell type in A.
+3. Collectively, our results highlight the specialised pathways for sesquiterpene production in different cell types of A.
+4. Collectively, these results extend our knowledge of GT and NGT functional divergence in A.
+5. Understanding cellular heterogeneity is key to revealing how developmental processes give rise to specialised metabolic functions.
+6. Notably, we established cell-­ type-­specific co-­expression gene networks for sesquiterpene biosynthesis and functionally characterised TPS involved in sesquiterpene production in GTs and other cell types.
+7. Thus, elucidating GT metabolism and development will provide critical insights into terpenoid biosynthetic pathways and their potential utilisation.
+8. Notably, AP2/ERF and WRKY genes enriched in GTs probably coordinate cuticle formation and activate secondary metabolic pathways (Feng et al.

@@ -1,12 +1,21 @@
-title: "生姜的基因组组装揭示了基因组进化和 6-姜酚生物合成的奥秘"
-journal: "unknown"
-year: ""
+---
+title: 生姜的基因组组装揭示了基因组进化和 6-姜酚生物合成的奥秘
+journal: unknown
+year: ''
 type: paper
-tags: [#developmental-biology, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags: [papers]
 species: [Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

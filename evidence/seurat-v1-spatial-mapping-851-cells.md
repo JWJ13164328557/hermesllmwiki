@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-nbt-3192]]"
+  - "[[spatial-reconstruction-of-single-cell-gene-expression-data]]"
 supporting_figures:
   - "xr-10-1038-nbt-3192#figure-2"
   - "xr-10-1038-nbt-3192#figure-3"
@@ -27,6 +27,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/nbt.3192"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Seurat v1 Spatially Maps 851 Zebrafish Embryo Cells
@@ -43,7 +56,7 @@ Spatial information is typically lost during tissue dissociation for scRNA-seq. 
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-nbt-3192]] | Seurat spatial inference | 851 cells mapped to 9 spatial domains with 92% agreement to manual annotation | 851 cells, 47 in situ genes |
+| [[spatial-reconstruction-of-single-cell-gene-expression-data]] | Seurat spatial inference | 851 cells mapped to 9 spatial domains with 92% agreement to manual annotation | 851 cells, 47 in situ genes |
 
 ## Evidence Quality
 

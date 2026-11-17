@@ -1,15 +1,18 @@
-title: "Blue light photoreceptor cryptochrome 1 promotes wood formation and anthocyanin biosynthesis in Populus"
+---
+title: Blue light photoreceptor cryptochrome 1 promotes wood formation and anthocyanin biosynthesis in Populus
 created: 2026-05-30
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, metabolism-natural-products]
+tags: [developmental-biology, papers]
 doi: 10.1111/pce.14866
-pmid: 
-confidence: medium
-aliases: ["蓝光光感受器隐色素1促进杨树木材形成和花青素生物合成"]
+pmid: ''
+aliases: [蓝光光感受器隐色素1促进杨树木材形成和花青素生物合成]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Blue light photoreceptor cryptochrome 1 促进 wood formation and 花青素 生物合成 in Populus
+---
 
-> Blue light photoreceptor cryptochrome 1 promotes wood formation and anthocyanin biosynthesis in Populus
+# Blue light photoreceptor cryptochrome 1 promotes wood formation and anthocyanin biosynthesis in Populus
 
 ## 论文信息
 - **期刊**: Plant, Cell &amp; Environment (2024)
@@ -25,7 +28,18 @@ AbstractBlue light photoreceptor cryptochrome 1 (CRY1) in herbaceous plants play
 
 ## 深度提炼
 
+**主要物种**: Populus spp.
+**物种**: Populus spp., Arabidopsis thaliana, Solanum lycopersicum, Malus domestica, Glycine max
+**方法**: transcriptomics (RNA-seq), qRT-PCR validation, CRISPR/Cas9, overexpression, knockout/mutant, phylogenetics
+**来源**: DOI:10.1111/pce.14866
+**来源类型**: PDF全文 (31 蓝光光感受器隐色素 1 促进杨树的木材形成和花青素生物合成.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Notably, the WT accumulated much higher anthocyanin under blue light than the other light treatments, while the cry1 mutants abolished the anthocyanin accumulation under blue light (Figure 6b,f), indicating that blue light played a major role in light‐ induced anthocyanin biosynthesis and PagCRY1 was essential for this process.
+2. In supportive to the significantly reduced cell layers in the cambium zone of PagCRY1aOE plants, which is significantly increased in cry1 mutant plants, we found a group of cell cycle‐related genes were significantly downregulated in OE12 but upregulated in KO4 (Figure 5d).
+3. Consistent with these observations, we found the lignin biosynthesis genes were significantly upregulated in OE12 while cell cycle‐related genes were significantly downregulated in OE12 (Figure 5).
+4. Overexpression of PagCRY1 substantially inhibited plant growth and promoted secondary xylem development in Populus, while CRISPR/Cas9‐ mediated knockout of PagCRY1 enhanced plant growth and delayed secondary xylem development.
+5. Moreover, overexpression of PagCRY1 dramatically increased anthocyanin accumulation.
+6. Taken together, our results demonstrated that modulating the expression of blue light photoreceptor CRY1 ortholog gene in Populus could significantly influence plant biomass production and the process of wood formation, laying a foundation for further investigating the light‐regulated tree growth.
+7. | 1 C‐terminal of CRYs is well known to directly interact with the really interesting new gene‐finger E3 ligase constitutively photomorphogenetic 1 and leading to the stabilization of its ubiquitination target transcription factors, such as elongated hypocotyl 5 (HY5) and CONSTANS, which are central regulators of photomorphogenesis and photoperiodic regulation of flowering (Liu, Zhang, et al., 200
+8. In hybrid aspen, photoperiod is the major environmental factor to induces dormancy in cambial meristem (Baba et al., 2011), and photoperiod also plays a central role in early wood and late wood formation (Déjardin et al., 2010).

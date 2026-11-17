@@ -16,10 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-nbt-4314]]"
-supporting_figures:
-  - "xr-10-1038-nbt-4314#figure-3"
-  - "xr-10-1038-nbt-4314#figure-4"
+  - "[[comprehensive-integration-of-single-cell-data]]"
 experiments:
   - scRNA-seq
   - spatial mapping
@@ -27,6 +24,20 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.cell.2019.05.031"
+needs_review: "supporting_figures removed: previously pointed at the UMAP paper (10.1038/nbt.4314) instead of the Seurat v3 source; verify figure indices"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # scRNA-seq Integration With in situ Data Enables Spatial Imputation
@@ -43,7 +54,7 @@ Spatial transcriptomics methods are limited by either gene throughput (in situ h
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-nbt-4314]] | Anchor-based spatial imputation | Spatial expression of 12,000+ genes imputed across the zebrafish embryo; validated by independent in situ patterns | ~851 cells mapped, >12K genes imputed |
+| [[dimensionality-reduction-for-visualizing-single-cell-data-using-umap]] | Anchor-based spatial imputation | Spatial expression of 12,000+ genes imputed across the zebrafish embryo; validated by independent in situ patterns | ~851 cells mapped, >12K genes imputed |
 
 ## Evidence Quality
 

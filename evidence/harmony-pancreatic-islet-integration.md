@@ -21,7 +21,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-s41592-019-0619-0]]"
+  - "[[fast-sensitive-and-accurate-integration-of-single-cell-data]]"
 supporting_figures:
   - "xr-10-1038-s41592-019-0619-0#figure-1"
   - "xr-10-1038-s41592-019-0619-0#figure-2"
@@ -32,6 +32,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/s41592-019-0619-0"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [methods-tools, single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Harmony Integrates Five Pancreatic Islet Studies Into a Unified Embedding
@@ -48,7 +61,7 @@ Pancreatic islet scRNA-seq datasets from different labs show strong batch effect
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-s41592-019-0619-0]] | Harmony integration | Cells cluster by cell type (alpha, beta, delta, PP, acinar, ductal) across 5 studies with different protocols | 5 datasets, 6+ cell types, ~15K cells |
+| [[fast-sensitive-and-accurate-integration-of-single-cell-data]] | Harmony integration | Cells cluster by cell type (alpha, beta, delta, PP, acinar, ductal) across 5 studies with different protocols | 5 datasets, 6+ cell types, ~15K cells |
 
 ## Evidence Quality
 

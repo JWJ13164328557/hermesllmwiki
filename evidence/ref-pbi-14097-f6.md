@@ -1,34 +1,43 @@
 ---
-title: "Collectively, we established a high-resolution cell atlas of maize root tips, constructed six immune"
-created: 2026-09-16
+title: "Seven broad populations were revealed using the t-SNE projection, and included cortex …"
+created: 2026-11-02
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: ["single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-pbi-14097]]"
 doi: "10.1111/pbi.14097"
-species: [Oryza sativa, Zea mays, Triticum aestivum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Oryza sativa", "Zea mays", "Triticum aestivum"]
+primary_species: "Zea mays"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Collectively, we established a high-resolution cell atlas of maize root tips, constructed six immune
+# Seven broad populations were revealed using the t-SNE projection, and included cortex …
 
 ## Claim
-Collectively, we established a high-resolution cell atlas of maize root tips, constructed six immune regulatory networks controlling Fv pathogenesis during maize root development, and demonstrated the signiﬁcance of scRNA-seq, comparative transcriptome, and integrated bioinformatics by combining QTL mapping and genome-wide association study (GWAS) results to dissect root response mechanisms condit
+Seven broad populations were revealed using the t-SNE projection, and included cortex (clusters 0, 1, 6, 8, 9, 11, 12, 15, and 16), endodermis (clusters 5 and 17), the epidermis (clusters 2, 4, and 7), stele (clusters 3, 10, 14, and 20), metaxylem (cluster 19), RAM (cluster 18), and RC (cluster 13) (Figure 2g).
 
-## Biological Context
-Single-cell RNA sequencing profiles reveal cell type-specific transcriptional re
+## Source
+- 文献: [[ref-pbi-14097]]
+- DOI: 10.1111/pbi.14097
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[ref-pbi-14097]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

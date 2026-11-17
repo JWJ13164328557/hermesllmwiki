@@ -1,34 +1,43 @@
 ---
-title: "Subsequently, reactive oxygen species (ROS), phosphatidylinositol, and/or other secondary signaling "
-created: 2026-08-25
+title: "Some genes participate in the biological synthesis of regulatory factors such as abscisic …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]"
 doi: "10.1016/j.xplc.2023.100740"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Gossypium hirsutum", "Daucus carota", "Arabidopsis thaliana"]
+primary_species: "Gossypium hirsutum"
+evidence_type: "descriptive/observational"
+evidence_type_prior: ""
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: []
+compounds: ["abscisic acid", "ethylene"]
+evidence_type_confidence: "low"
+
 ---
 
-# Subsequently, reactive oxygen species (ROS), phosphatidylinositol, and/or other secondary signaling 
+# Some genes participate in the biological synthesis of regulatory factors such as abscisic …
 
 ## Claim
-Subsequently, reactive oxygen species (ROS), phosphatidylinositol, and/or other secondary signaling molecules stimulate the intracellular membranes, initiate a protein phosphorylation cascade by regulating Ca2+ levels, and produce phosphorylated protein molecules that target important proteins directly involved in cell protection or crucial transcription factors (TFs) relevant to speciﬁc stress-re
+Some genes participate in the biological synthesis of regulatory factors such as abscisic acid (ABA) and ethylene, thus activating the expression of TFs that bind specifically to the promoter sequences of target genes to further activate or inhibit the expression of downstream functional genes, ultimately playing major roles in response to abiotic stress (Zhang et al., 2022a, 2022b, 2022c).
 
-## Biological Context
-Transcriptional landscape of cotton roots in response to salt stress at single-cell resolution
+## Source
+- 文献: [[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]
+- DOI: 10.1016/j.xplc.2023.100740
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[transcriptional-landscape-of-cotton-roots-in-response-to-salt-stress-at-single-c]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: abscisic acid, ethylene
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

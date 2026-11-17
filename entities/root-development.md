@@ -48,9 +48,9 @@ updated: 2026-05-30
 
 ## Cross-references
 
-- [[entity-arabidopsis]] — 拟南芥模式系统
-- [[synthesis-root-development]] — 根发育共识
-- [[entity-vascular]] — 根维管发育
+- entity-arabidopsis — 拟南芥模式系统
+- synthesis-root-development — 根发育共识
+- entity-vascular — 根维管发育
 
 ---
 *41 条证据 | 自动生成 | 需人工扩充*

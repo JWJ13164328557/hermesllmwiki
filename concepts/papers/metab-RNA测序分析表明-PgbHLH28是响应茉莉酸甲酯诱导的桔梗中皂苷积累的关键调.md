@@ -1,12 +1,21 @@
-title: "RNA测序分析表明，PgbHLH28是响应茉莉酸甲酯诱导的桔梗中皂苷积累的关键调控因子"
-journal: "unknown"
-year: ""
+---
+title: RNA测序分析表明，PgbHLH28是响应茉莉酸甲酯诱导的桔梗中皂苷积累的关键调控因子
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [hormone-signaling]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

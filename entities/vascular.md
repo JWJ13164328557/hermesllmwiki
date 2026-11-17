@@ -45,9 +45,9 @@ updated: 2026-05-30
 
 ## Cross-references
 
-- [[entity-soybean]] — 大豆维管发育
-- [[synthesis-vascular-development]] — 维管发育共识
-- [[synthesis-root-development]] — 根维管发育
+- entity-soybean — 大豆维管发育
+- synthesis-vascular-development — 维管发育共识
+- synthesis-root-development — 根维管发育
 
 ---
 *34 条证据 | 自动生成 | 需人工扩充*

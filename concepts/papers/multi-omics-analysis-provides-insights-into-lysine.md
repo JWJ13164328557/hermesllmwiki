@@ -1,15 +1,18 @@
-title: "Multi-omics analysis provides insights into lysine accumulation in quinoa (Chenopodium quinoa Willd.) sprouts"
+---
+title: Multi-omics analysis provides insights into lysine accumulation in quinoa (Chenopodium quinoa Willd.) sprouts
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1016/j.foodres.2023.113026
-pmid: 
-confidence: medium
-aliases: ["多组学分析提供了对藜麦（ Chenopodium quinoa Willd. ）幼苗中赖氨酸积累的见解"]
+pmid: ''
+aliases: [多组学分析提供了对藜麦（ Chenopodium quinoa Willd. ）幼苗中赖氨酸积累的见解]
+theme_status: mapped
+theme_basis: tag
 
-# 多组学 分析 提供了 深入 into lysine 积累 in quinoa (Chenopodium quinoa Willd.) sprouts
+---
 
-> Multi-omics analysis provides insights into lysine accumulation in quinoa (Chenopodium quinoa Willd.) sprouts
+# Multi-omics analysis provides insights into lysine accumulation in quinoa (Chenopodium quinoa Willd.) sprouts
 
 ## 论文信息
 - **期刊**: Food Research International (2023)

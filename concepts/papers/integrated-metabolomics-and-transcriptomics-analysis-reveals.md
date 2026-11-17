@@ -1,15 +1,22 @@
-title: "Integrated metabolomics and transcriptomics analysis reveals γ-aminobutyric acid enhances the ozone tolerance of wheat b"
+---
+title: Integrated metabolomics and transcriptomics analysis reveals γ-aminobutyric acid enhances the ozone tolerance of wheat by accumulation of flavonoids
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.jhazmat.2023.133202
-pmid: 
-confidence: medium
-aliases: ["综合代谢组学和转录组学分析显示， γ-氨基丁酸通过类黄酮的积累增强小麦的耐臭氧性"]
+pmid: ''
+aliases:
+- 综合代谢组学和转录组学分析显示， γ-氨基丁酸通过类黄酮的积累增强小麦的耐臭氧性
+title_fixed_from: Integrated metabolomics and transcriptomics analysis reveals γ-aminobutyric acid
+theme_status: mapped
+theme_basis: tag
 
-# 整合 metabolomics and transcriptomics 分析 揭示 γ-aminobutyric acid enhances the ozone tolerance of wheat by 积累 of flavonoids
+---
 
-> Integrated metabolomics and transcriptomics analysis reveals γ-aminobutyric acid enhances the ozone tolerance of wheat by accumulation of flavonoids
+# Integrated metabolomics and transcriptomics analysis reveals γ-aminobutyric acid enhances the ozone tolerance of wheat by accumulation of flavonoids
 
 ## 论文信息
 - **期刊**: Journal of Hazardous Materials (2024)

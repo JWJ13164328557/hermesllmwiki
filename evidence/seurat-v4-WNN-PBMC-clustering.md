@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1016-j-cell-2021-04-048]]"
+  - "[[integrated-analysis-of-multimodal-single-cell-data]]"
 supporting_figures:
   - "xr-10-1016-j-cell-2021-04-048#figure-1"
   - "xr-10-1016-j-cell-2021-04-048#figure-2"
@@ -28,6 +28,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.cell.2021.04.048"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [stress-immunity]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # WNN Analysis of 211K CITE-seq PBMCs Resolves Immune Cell States
@@ -44,7 +57,7 @@ CITE-seq simultaneously measures transcriptomes and surface protein expression i
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1016-j-cell-2021-04-048]] | WNN on CITE-seq | 31 immune subsets identified; protein data separated CD4+ T cell memory/naive subsets; WNN outperformed RNA-only in cluster stability | 211K cells, 228 antibodies |
+| [[integrated-analysis-of-multimodal-single-cell-data]] | WNN on CITE-seq | 31 immune subsets identified; protein data separated CD4+ T cell memory/naive subsets; WNN outperformed RNA-only in cluster stability | 211K cells, 228 antibodies |
 
 ## Evidence Quality
 

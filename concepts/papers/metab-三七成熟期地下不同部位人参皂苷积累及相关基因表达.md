@@ -1,12 +1,21 @@
-title: "三七成熟期地下不同部位人参皂苷积累及相关基因表达"
-journal: "unknown"
-year: ""
+---
+title: 三七成熟期地下不同部位人参皂苷积累及相关基因表达
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: []
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

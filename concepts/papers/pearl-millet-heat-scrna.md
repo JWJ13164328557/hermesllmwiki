@@ -1,14 +1,24 @@
-title: Single-cell transcriptomes reveal spatiotemporal heat stress response in pearl m
+---
+title: Single-cell transcriptomes reveal spatiotemporal heat stress response in pearl millet leaves
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1111/nph.70232
 confidence: medium
-aliases: ["Single-cell transcriptomes reveal spatiotemporal heat stress response in pearl m"]
+aliases:
+- Single-cell transcriptomes reveal spatiotemporal heat stress response in pearl m
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Single-cell transcriptomes reveal spatiotemporal heat stress response in pearl m
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Single-cell transcriptomes reveal spatiotemporal heat stress response in pearl m
+---
+
+# Single-cell transcriptomes reveal spatiotemporal heat stress response in pearl millet leaves
 
 
 

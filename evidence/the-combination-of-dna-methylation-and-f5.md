@@ -1,34 +1,43 @@
 ---
-title: "Analogously, we found that the methylation level of the region −820 to −495 bp, which belongs to PS1"
-created: 2026-09-16
+title: "They all reportedly act on one or several target genes to activate the flavonoid …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-combination-of-dna-methylation-and]]"
 doi: "10.1093/hr/uhad100"
-species: [Zea mays, Malus domestica, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [PrF3Hpro]
-compounds: []
+species: ["Zea mays", "Malus domestica", "Nicotiana tabacum"]
+primary_species: "Paeonia spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
+compounds: ["flavonoid"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Analogously, we found that the methylation level of the region −820 to −495 bp, which belongs to PS1
+# They all reportedly act on one or several target genes to activate the flavonoid …
 
 ## Claim
-Analogously, we found that the methylation level of the region −820 to −495 bp, which belongs to PS1 of PrF3Hpro, was different between the purple and white areas of the petal (Fig.
+They all reportedly act on one or several target genes to activate the flavonoid biosynthetic pathway.
 
-## Biological Context
-The combination of DNA methylation and positive 调控 of 花青素 生物合成 by MYB and bHLH transcription factors contributes to the petal blotch formation in Xibei tree peony
+## Source
+- 文献: [[the-combination-of-dna-methylation-and]]
+- DOI: 10.1093/hr/uhad100
+- 主要物种: Paeonia spp.
 
-## Supporting Evidence
-*Source: [[the-combination-of-dna-methylation-and]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: flavonoid
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

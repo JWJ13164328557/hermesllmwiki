@@ -1,12 +1,21 @@
-title: "SlGRAS9-SlZHD17转录级联调控叶绿素和碳水化合物代谢，有助于番茄果实品质性状"
-journal: "unknown"
-year: ""
+---
+title: SlGRAS9-SlZHD17转录级联调控叶绿素和碳水化合物代谢，有助于番茄果实品质性状
+journal: unknown
+year: ''
 type: paper
-tags: [#hormone-signaling, papers]
+themes: []
+tags: [papers]
 species: [Solanum lycopersicum, Brassica]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

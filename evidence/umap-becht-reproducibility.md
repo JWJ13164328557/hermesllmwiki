@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-nbt-4314]]"
+  - "[[dimensionality-reduction-for-visualizing-single-cell-data-using-umap]]"
 supporting_figures:
   - "xr-10-1038-nbt-4314#figure-2"
   - "xr-10-1038-nbt-4314#figure-3"
@@ -26,6 +26,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/nbt.4314"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # UMAP Yields Highest Reproducibility in Single-Cell Clustering
@@ -42,7 +55,7 @@ Stochastic dimensionality reduction methods can produce different visual layouts
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-nbt-4314]] | UMAP reproducibility benchmark | UMAP had highest kNN preservation across repeated runs vs. t-SNE, PCA, LargeVis, TriMap, scvis | Multiple single-cell datasets |
+| [[dimensionality-reduction-for-visualizing-single-cell-data-using-umap]] | UMAP reproducibility benchmark | UMAP had highest kNN preservation across repeated runs vs. t-SNE, PCA, LargeVis, TriMap, scvis | Multiple single-cell datasets |
 
 ## Evidence Quality
 

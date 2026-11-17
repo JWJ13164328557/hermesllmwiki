@@ -1,34 +1,43 @@
 ---
-title: "We found that 108 C-terminal tryptophan-enriched regions, functioning as SBDs, are essential for OsL"
-created: 2026-08-25
+title: "We report that the C-terminal Trp-rich regions function as SBDs, and are essential for …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[oslesv-and-osesv1-promote-transitory-and]]"
 doi: "10.1016/j.xplc.2024.100893"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
+species: ["Oryza sativa", "Zea mays", "Sorghum bicolor"]
+primary_species: "Oryza sativa"
 evidence_type: "expression/regulation"
-quality: "medium"
-genes: [OsLESV, OsESV1]
-compounds: [starch]
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["OsESV1", "OsLESV"]
+compounds: ["starch"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# We found that 108 C-terminal tryptophan-enriched regions, functioning as SBDs, are essential for OsL
+# We report that the C-terminal Trp-rich regions function as SBDs, and are essential for …
 
 ## Claim
-We found that 108 C-terminal tryptophan-enriched regions, functioning as SBDs, are essential for OsLESV and 109 Journal Pre-proof 4 OsESV1 binding to starch.
+We report that the C-terminal Trp-rich regions function as SBDs, and are essential for the binding of OsLESV and OsESV1 to starch.
 
-## Biological Context
-OsLESV and OsESV1 promote transitory and storage 淀粉 生物合成 to determine rice grain quality and yield
+## Source
+- 文献: [[oslesv-and-osesv1-promote-transitory-and]]
+- DOI: 10.1016/j.xplc.2024.100893
+- 主要物种: Oryza sativa
 
-## Supporting Evidence
-*Source: [[oslesv-and-osesv1-promote-transitory-and]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: OsESV1, OsLESV
+- 自动标注化合物: starch
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

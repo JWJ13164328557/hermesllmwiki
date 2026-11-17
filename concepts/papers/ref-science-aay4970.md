@@ -1,14 +1,25 @@
-title: Vascular transcription factors guide plant epidermal responses to limiting phosp
+---
+title: Vascular transcription factors guide plant epidermal responses to limiting phosphate conditions
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1126/science.aay4970
 confidence: medium
-aliases: ["Vascular transcription factors guide plant epidermal responses to limiting phosp"]
+aliases:
+- cr-10-1126-science-aay4970
+- Vascular transcription factors guide plant epidermal responses to limiting phosp
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Vascular transcription factors guide plant epidermal responses to limiting phosp
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Vascular transcription factors guide plant epidermal responses to limiting phosp
+---
+
+# Vascular transcription factors guide plant epidermal responses to limiting phosphate conditions
 
 
 
@@ -47,16 +58,16 @@ Author contributions:B.D.R., Y.S. and G.V.I. conceived the project; B.D.R., J.R.
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Pyrus spp., Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Pyrus spp.
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq, overexpression, phylogenetics
 **来源**: DOI:10.1126/science.aay4970
 **来源类型**: PDF全文 (10.1126_science.aay4970.pdf)

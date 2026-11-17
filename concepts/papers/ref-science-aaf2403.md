@@ -1,14 +1,26 @@
-title: Visualization and analysis of gene expression in tissue sections by spatial tran
+---
+title: Visualization and analysis of gene expression in tissue sections by spatial transcriptomics
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: []
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1126/science.aaf2403
 confidence: medium
-aliases: ["Visualization and analysis of gene expression in tissue sections by spatial tran"]
+aliases:
+- cr-10-1126-science-aaf2403
+- Visualization and analysis of gene expression in tissue sections by spatial tran
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Visualization and analysis of gene expression in tissue sections by spatial tran
+theme_status: excluded-nonplant
+theme_basis: purity:nonplant
+scope_status: nonplant
 
-# Visualization and analysis of gene expression in tissue sections by spatial tran
+---
+
+# Visualization and analysis of gene expression in tissue sections by spatial transcriptomics
 
 
 
@@ -29,16 +41,16 @@ Analysis of the pattern of proteins or messengerRNAs (mRNAs) in histological tis
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Citrus spp., Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1126/science.aaf2403
 **来源类型**: PDF全文 (10.1126_science.aaf2403.pdf)

@@ -1,0 +1,43 @@
+---
+title: "Expression of NahG or negative regulators of the SA pathway in sphingolipid mutants …"
+created: 2026-11-03
+type: evidence
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
+source: "[[b4-lBokIY101sor8t2t3d1CRQ]]"
+doi: "10.1186/s12870-025-07051-2"
+species: ["Arabidopsis thaliana", "Zea mays (maize)", "Solanum lycopersicum (tomato)"]
+primary_species: "Nicotiana tabacum"
+evidence_type: "genetic perturbation"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "high"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
+compounds: []
+evidence_type_confidence: "high"
+evidence_type_prior: ""
+
+---
+
+# Expression of NahG or negative regulators of the SA pathway in sphingolipid mutants …
+
+## Claim
+Expression of NahG or negative regulators of the SA pathway in sphingolipid mutants confirms that this phytohormone is required for the cell death phenotype.
+
+## Source
+- 文献: [[b4-lBokIY101sor8t2t3d1CRQ]]
+- DOI: 10.1186/s12870-025-07051-2
+- 主要物种: Nicotiana tabacum
+
+## 标注信息
+- 证据类型: genetic perturbation
+- 论断角色: background
+- 论断证据完备度: high（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
+
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

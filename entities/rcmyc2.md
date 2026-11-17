@@ -1,6 +1,6 @@
 ---
 title: "RcMYC2"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -23,14 +23,5 @@ tags: [metabolism, gene]
 ## Functional Roles
 _（待从证据深入提炼）_
 
-## Expression Pattern
--
-
-## Species Distribution
--
-
 ## Regulatory Network
 _（见 relationships/）_
-
-## Open Questions
--

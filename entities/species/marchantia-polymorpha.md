@@ -11,8 +11,8 @@ related_papers:
   - "[[plant-cell-cycle-control]]"
   - "[[cell-cycle-scrna-seq]]"
 related_evidence:
-  - "[[snRNA-seq-valid-plant-transcriptomics]]"
-  - "[[snRNA-seq-additional-plant-cell-subtypes]]"
+  - "snRNA-seq-valid-plant-transcriptomics"
+  - "snRNA-seq-additional-plant-cell-subtypes"
 related_synthesis: []
 ---
 
@@ -167,4 +167,4 @@ The defining regulatory program of Marchantia is its simplified cell cycle:
 - [[cell-cycle-scrna-seq]] — Single-cell RNA-seq for cell cycle analysis
 
 ### Related Entities
-- Cell cycle evidence: [[snRNA-seq-valid-plant-transcriptomics]]
+- Cell cycle evidence: snRNA-seq-valid-plant-transcriptomics

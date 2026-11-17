@@ -1,0 +1,47 @@
+# 未被任何概念页引用的 evidence 对象
+
+生成于 2026-11-17；共 36 条（活跃 18092 / 全库 18117）。
+其中**真孤儿 0 条**（全库无任何 [[wikilink]] 指向，可安全归档），36 条仍被 synthesis/relationships/entities 引用（保留原地）。
+这些对象来自旧命名方案或已被改写/删除的页面。默认不删除，仅供归档决策。
+
+## 真孤儿（可归档）
+
+
+## 概念页未引但其他层仍引用（保留）
+
+- arabidopsis-root-has-15-cell-types
+- arabidopsis-root-organ-scale-atlas
+- deseq2-lfc-shrinkage
+- differential-accessibility-regulates-cell-type-expression
+- doubletfinder-artificial-doublets-valid
+- dpdf-10-1093-plcell-koag144-8678491-f10
+- dpdf-10-1093-plcell-koag144-8678491-f11
+- endodermis-800-dynamic-genes
+- ev-40962852-04
+- ev-41133438-01
+- ev-41133438-04
+- ev-42204451-01
+- featureCounts-speed-10x
+- harmony-cross-modality-spatial
+- harmony-pancreatic-islet-integration
+- harmony-scalability
+- maize-ear-cell-types-scrna-seq
+- nuclei-avoid-protoplast-bias
+- potato-leaf-heat-scrna-f5
+- pseudotime-tf-motif-enrichment
+- rice-root-cell-types-10x
+- rice-root-hormone-celltype-map
+- root-cell-type-specific-chromatin-accessibility
+- root-cluster-hormone-response-patterns
+- sctransform-variance-stabilization
+- seurat-v1-spatial-mapping-851-cells
+- seurat-v2-cca-pbmc-alignment
+- seurat-v2-cross-species-pancreas
+- seurat-v3-scRNA-scATAC-interneuron
+- seurat-v3-spatial-imputation
+- seurat-v4-WNN-PBMC-clustering
+- seurat-v4-novel-lymphoid-populations
+- snATAC-seq-resolves-root-cell-types
+- star-speed-50x-faster
+- umap-becht-reproducibility
+- umap-becht-runtime-benchmark

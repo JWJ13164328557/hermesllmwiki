@@ -1,15 +1,22 @@
-title: "Transcriptome and Metabolomics Integrated Analysis Reveals MdMYB94 Associated with Esters Biosynthesis in Apple (Malus ×"
+---
+title: Transcriptome and Metabolomics Integrated Analysis Reveals MdMYB94 Associated with Esters Biosynthesis in Apple (Malus × domestica)
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1021/acs.jafc.2c07719
-pmid: 
-confidence: medium
-aliases: ["Transcriptome and Metabolomics 整合 分析 揭示 MdMYB94 相关的 with Esters 生物合成 in Apple (Malus × domestica"]
+pmid: ''
+aliases:
+- Transcriptome and Metabolomics 整合 分析 揭示 MdMYB94 相关的 with Esters 生物合成 in Apple (Malus × domestica
+title_fixed_from: Transcriptome and Metabolomics Integrated Analysis Reveals MdMYB94 Associated wi
+theme_status: mapped
+theme_basis: tag
 
-# Transcriptome and Metabolomics 整合 分析 揭示 MdMYB94 相关的 with Esters 生物合成 in Apple (Malus × domestica
+---
 
-> Transcriptome and Metabolomics Integrated Analysis Reveals MdMYB94 Associated with Esters Biosynthesis in Apple (Malus × domestica)
+# Transcriptome and Metabolomics Integrated Analysis Reveals MdMYB94 Associated with Esters Biosynthesis in Apple (Malus × domestica)
 
 ## 论文信息
 - **期刊**: Journal of Agricultural and Food Chemistry (2023)

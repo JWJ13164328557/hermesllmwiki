@@ -1,15 +1,22 @@
-title: "Genetic variance and transcriptional regulation modulate terpenoid biosynthesis in trichomes of Nicotiana tabacum under "
+---
+title: Genetic variance and transcriptional regulation modulate terpenoid biosynthesis in trichomes of Nicotiana tabacum under drought
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.113501
-pmid: 
-confidence: medium
-aliases: ["遗传变异和转录调控调控烟草干旱毛状体中萜类化合物的生物合成"]
+pmid: ''
+aliases:
+- 遗传变异和转录调控调控烟草干旱毛状体中萜类化合物的生物合成
+title_fixed_from: 'Genetic variance and transcriptional regulation modulate terpenoid biosynthesis '
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Genetic variance and transcriptional 调控 modulate 萜类 生物合成 in trichomes of Nicotiana tabacum under drought
+---
 
-> Genetic variance and transcriptional regulation modulate terpenoid biosynthesis in trichomes of Nicotiana tabacum under drought
+# Genetic variance and transcriptional regulation modulate terpenoid biosynthesis in trichomes of Nicotiana tabacum under drought
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

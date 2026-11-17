@@ -1,15 +1,18 @@
-title: "MdbHLH162 connects the gibberellin and jasmonic acid signals to regulate anthocyanin biosynthesis in apple"
+---
+title: MdbHLH162 connects the gibberellin and jasmonic acid signals to regulate anthocyanin biosynthesis in apple
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1111/jipb.13608
-pmid: 
-confidence: medium
-aliases: ["MdbHLH162连接赤霉素和茉莉酸信号，调节苹果花青素的生物合成"]
+pmid: ''
+aliases: [MdbHLH162连接赤霉素和茉莉酸信号，调节苹果花青素的生物合成]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# MdbHLH162 connects the gibberellin and jasmonic acid signals to regulate 花青素 生物合成 in apple
+---
 
-> MdbHLH162 connects the gibberellin and jasmonic acid signals to regulate anthocyanin biosynthesis in apple
+# MdbHLH162 connects the gibberellin and jasmonic acid signals to regulate anthocyanin biosynthesis in apple
 
 ## 论文信息
 - **期刊**: Journal of Integrative Plant Biology (2024)
@@ -25,7 +28,18 @@ ABSTRACTAnthocyanins are secondary metabolites induced by environmental stimuli 
 
 ## 深度提炼
 
+**主要物种**: Malus domestica
+**物种**: Malus domestica, Nicotiana tabacum, Allium spp., Petunia hybrida, Populus spp.
+**方法**: Y2H, BiFC, EMSA, overexpression, promoter-GUS assay
+**来源**: DOI:10.1111/jipb.13608
+**来源类型**: PDF全文 (11 MdbHLH162连接赤霉素和茉莉酸信号，调节苹果花青素的生物合成.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Taken together, these results suggest that MdRGL2a directly interacts with MdbHLH162.
+2. In summary, we conclude that MdbHLH162 acts as a negative regulator of anthocyanin biosynthesis.
+3. Taken together, these data reveal Figure 1.
+4. These results suggest that MdbHLH162 interacts with MdbHLH3 and MdbHLH33 to impair their transcriptional activation activity toward the MdDFR and MdUF3GT genes.
+5. Taken together, these results suggest that MdRGL2a antagonizes MdbHLH162‐inhibited anthocyanin biosynthesis by disrupting the interaction among MdbHLH162, MdbHLH3, and MdbHLH33.
+6. This study provides new information for discovering more anthocyanin biosynthesis repressors and explores the cross‐talk between hormone signals.
+7. When sensing JA signaling, COI1 binds to SKP1‐LIKE PROTEIN1/2, CULLIN 1, and RING‐box PROTEIN 1 to form the SCFCOI1 complex; the SCFCOI1 complex initiates the JA signaling response by targeting ubiquitination and degradation of JAZ proteins.
+8. In addition to JA, gibberellin (GA) plays a key role in regulating anthocyanin biosynthesis.

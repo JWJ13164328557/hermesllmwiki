@@ -1,14 +1,24 @@
-title: "拟南芥的不对称叶片发育和叶片扩张由KANADI和YABBY ACTI介导"
+---
+title: 拟南芥的不对称叶片发育和叶片扩张由KANADI和YABBY ACTI介导
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags:
+- developmental-biology
+- papers
 doi: 10.1242/dev.01186
 confidence: medium
-aliases: ["拟南芥的不对称叶片发育和叶片扩张由KANADI和YABBY ACTI介导"]
+aliases:
+- 拟南芥的不对称叶片发育和叶片扩张由KANADI和YABBY ACTI介导
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: Asymmetric leaf development and blade expansion in Arabidopsis are mediated by KANADI and YABBY activities
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 拟南芥的不对称叶片发育和叶片扩张由KANADI和YABBY ACTI介导
+---
+
+# Asymmetric leaf development and blade expansion in Arabidopsis are mediated by KANADI and YABBY activities
 
 
 

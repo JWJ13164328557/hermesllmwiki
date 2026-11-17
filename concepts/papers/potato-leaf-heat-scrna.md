@@ -1,14 +1,24 @@
-title: Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Ce
+---
+title: Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Cell Resolution
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1111/pbi.70546
 confidence: medium
-aliases: ["Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Ce"]
+aliases:
+- Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Ce
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Ce
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Ce
+---
+
+# Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Cell Resolution
 
 
 
@@ -32,7 +42,7 @@ Potato (Solanum tuberosum L.) is a globally important food crop with considerabl
 - [[arabidopsis-sam-scrna]]
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[cotton-fiber-development-molecular-regulation]]
 
 

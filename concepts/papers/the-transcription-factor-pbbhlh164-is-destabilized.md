@@ -1,15 +1,22 @@
-title: "The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene biosynthesis during pear fruit "
+---
+title: The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene biosynthesis during pear fruit ripening
 created: 2026-05-30
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1016/j.jare.2024.01.004
-pmid: 
-confidence: medium
-aliases: ["The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene 生物合成 过程中 pear fruit ripening"]
+pmid: ''
+aliases:
+- The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene 生物合成 过程中 pear fruit ripening
+title_fixed_from: 'The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates '
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene 生物合成 过程中 pear fruit ripening
+---
 
-> The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene biosynthesis during pear fruit ripening
+# The transcription factor PbbHLH164 is destabilized by PbRAD23C/D.1 and mediates ethylene biosynthesis during pear fruit ripening
 
 ## 论文信息
 - **期刊**: Journal of Advanced Research (2024)

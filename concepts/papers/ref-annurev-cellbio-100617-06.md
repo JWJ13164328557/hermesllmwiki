@@ -1,14 +1,25 @@
-title: "植物干细胞分裂与分化的调控。"
+---
+title: 植物干细胞分裂与分化的调控。
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags:
+- developmental-biology
+- papers
 doi: 10.1146/annurev-cellbio-100617-062459
 confidence: medium
-aliases: ["植物干细胞分裂与分化的调控。"]
+aliases:
+- cr-10-1146-annurev-cellbio-100617-062459
+- 植物干细胞分裂与分化的调控。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: Regulation of Division and Differentiation of Plant Stem Cells
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 植物干细胞分裂与分化的调控。
+---
+
+# Regulation of Division and Differentiation of Plant Stem Cells
 
 
 
@@ -48,7 +59,7 @@ The authors are not aware of any affiliations, memberships, funding, or financia
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]]
 - [[circadian-rheostat-proton-gradient-arabidopsis]]
 - [[alfalfa-anther-sc-atlas]]
-- [[b3-yRRSlByPuOxXKvXBl0_LZg]]
+- [[qc-scrna-genome-biology]]
 - [[b6-O0Kt-jSykCafIUhbNCEB3g]]
 - [[b6-_4lVabIoRyC91sLMxSI_ig]]
 - [[cotton-fiber-development-molecular-regulation]]

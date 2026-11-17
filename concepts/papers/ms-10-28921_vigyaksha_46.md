@@ -2,10 +2,15 @@
 title: Microbial Fermentation Technology for the Production of Functional Food and Beve
 created: 2026-07-27
 type: concept
+themes: []
 tags: [papers]
 doi: 10.28921/vigyaksha/46
 confidence: moderate
 source: openalex
+status: pollution
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
 # Microbial Fermentation Technology for the Production of Functional Food and Beverages

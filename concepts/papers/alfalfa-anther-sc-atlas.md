@@ -1,9 +1,18 @@
+---
 title: Single-Cell Transcriptome Atlas and Dynamic Regulatory Mechanisms of Anther Deve
-tags: [#developmental-biology, papers]
-aliases: ["Anther Deve的单细胞转录组图谱和动态调控机制"]
+tags: [papers]
+aliases: [Anther Deve的单细胞转录组图谱和动态调控机制]
 type: paper
+themes: [epigenetics-gene-regulation, single-cell-spatial-omics]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Single-Cell Transcriptome Atlas and Dynamic Regulatory Mechanisms of Anther Deve
 
@@ -44,6 +53,6 @@ Flowers, Transcriptome, Gene Expression Regulation, Plant, Medicago sativa, Sing
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
-- [[b6-jpXamO-lS-eyCqULAU9qnA]]
+- [[cr-s41477-023-01387-z]]
 - [[cotton-fiber-development-molecular-regulation]]
 - [[fruit-senescence-tap4-sc-spatial]]

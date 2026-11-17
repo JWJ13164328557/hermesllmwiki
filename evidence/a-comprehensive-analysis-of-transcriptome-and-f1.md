@@ -1,34 +1,43 @@
 ---
-title: "The internal reference gene, ribosomal protein subunit 9 (Rsp9), was employed to assess the expresse"
-created: 2026-08-25
+title: "Target compounds were identified according to their corre sponding retention time to …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[a-comprehensive-analysis-of-transcriptome-and]]"
 doi: "10.1016/j.plaphy.2021.07.028"
-species: [Citrus spp., Catharanthus roseus, Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Citrus spp.", "Catharanthus roseus", "Ficus carica"]
+primary_species: "Catharanthus roseus"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The internal reference gene, ribosomal protein subunit 9 (Rsp9), was employed to assess the expresse
+# Target compounds were identified according to their corre sponding retention time to …
 
 ## Claim
-The internal reference gene, ribosomal protein subunit 9 (Rsp9), was employed to assess the expressed levels of target genes with Roche Light Cycler 96 analyzer.
+Target compounds were identified according to their corre sponding retention time to standard reference compounds.
 
-## Biological Context
-A 全面 分析 of transcriptome and phenolic compound profiles suggests the 作用 of flavonoids in cotyledon greening in Catharanthus roseus seedling
+## Source
+- 文献: [[a-comprehensive-analysis-of-transcriptome-and]]
+- DOI: 10.1016/j.plaphy.2021.07.028
+- 主要物种: Catharanthus roseus
 
-## Supporting Evidence
-*Source: [[a-comprehensive-analysis-of-transcriptome-and]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

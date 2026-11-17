@@ -1,17 +1,25 @@
-title: "Transcription Factor GmERFA Interacts With GmNFYA and Acts as a Negative Regulator of Seed Fatty Acid Accumulation in Soybean."
-pmid: "40905410"
-doi: "10.1111/pbi.70348"
-pmcid: "PMC11765145"
-journal: "Plant biotechnology journal"
-year: "2025"
-authors: "Yue Liu, Yang Hu, Jun-Jie Wei, Zhi-Hao Jiang, Jia-Qi Han"
+---
+title: Transcription Factor GmERFA Interacts With GmNFYA and Acts as a Negative Regulator of Seed Fatty Acid Accumulation in Soybean.
+pmid: '40905410'
+doi: 10.1111/pbi.70348
+pmcid: PMC11765145
+journal: Plant biotechnology journal
+year: '2025'
+authors: Yue Liu, Yang Hu, Jun-Jie Wei, Zhi-Hao Jiang, Jia-Qi Han
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 species: [Arabidopsis thaliana, Oryza sativa (rice), Zea mays (maize), Glycine max (soybean), Solanum lycopersicum (tomato)]
 methods: [multi-omics, RNA-seq, metabolomics, proteomics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Transcription Factor GmERFA Interacts With GmNFYA and Acts as a Negative Regulator of Seed Fatty Acid Accumulation in Soybean.
 
 ## 1. Scientific Context
 
@@ -126,10 +134,10 @@ Soybean is one of the most important oilseed crops, and its seed oil content dir
 - 物种: Arabidopsis thaliana, Oryza sativa (rice), Zea mays (maize), Glycine max (soybean)
 - 关键基因: AP3, TFL1, OMADS1, SEP1, FBP2, AP2, AP1, CO1
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Glycine max, Seeds, Transcription Factors, Plant Proteins, Fatty Acids, Gene Expression Regulation, Plant, Plants, Genetically Modified, Promoter Regions, Genetic
 
@@ -170,6 +178,18 @@ Soybean is one of the most important oilseed crops, and its seed oil content dir
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum, Glycine max
-**方法**: transcriptomics (RNA-seq)
-**来源**: 
+**主要物种**: Glycine max
+**物种**: Glycine max, Oryza sativa, Solanum lycopersicum, Zea mays, Arabidopsis thaliana
+**方法**: multi-omics integration, CRISPR/Cas9, overexpression, GWAS
+**来源**: DOI:10.1111/pbi.70348
+**来源类型**: XML全文 (10.1111_pbi.70348.txt)
+
+### 核心发现
+1. Among these factors, genes play a central role, governing the entire developmental process.
+2. E-class genes play a crucial role in governing the formation of floral organs in all whorls.
+3. They interact with A-, B-, and C-class genes to form complexes, a mechanism known as the “tetramer model”.
+4. For instance, it may bind to specific promoter regions of target genes, where it can recruit other transcriptional machinery components to initiate or enhance gene expression.
+5. The flowers of plants with miR172 target site mutations show phenotypes with enlarged meristems and excessive stamens.
+6. The STK gene belongs to the MADS-box gene family and plays a crucial role in regulating the normal development of carpels and ovules.
+7. It interacts with other genes to jointly regulate processes such as cell division, differentiation, and elongation, thereby determining the size, shape, and structure of the pistil.
+8. Furthermore, TGA9 and TGA10 can directly interact with ROXY1 and ROXY2 [ ].

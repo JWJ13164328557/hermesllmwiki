@@ -1,0 +1,521 @@
+# 标识符复核清单（分类版）
+
+输入：review_ids.md；共 128 条：A 归一化缺陷 9 / B 疑似真错配 6 / C 表述差异 4 / D 无可比对记录 109。
+
+> 处置原则：**A 类不改标识符**（修标题解码/补全或补 title_en）；
+> B 类必须人工用原始数据库定值后再改；C 类先修标题再重跑核验。
+
+## B 疑似真错配（优先人工）
+
+- papers/10-1007-978-1-4020-6754-9-3761.md
+  - 页面标题：Digitoxin metabolism by rat liver microsomes.
+  - 当前：DOI 10.1007/978-1-4020-6754-9_3761 / PMID 10.1007_978-1-4020-6754-9_3761
+  - 记录标题：CPSF (cleavage-polyadenylation protein factor)
+  - 判定：词元重叠 0.00：标题与记录几乎无关，疑似真错配
+- papers/daily-42964631.md
+  - 页面标题：Comparative Efficacy of Fermented and Unfermented Ethanolic Rooibos Extracts in Mitigating LPS-Induced Intesti
+  - 当前：DOI 10.1038/sj.bjp.0703397 / PMID 42964631
+  - 记录标题：Inhibition of mitochondrial proton F0F1-ATPase/ATP synthase by polyphenolic phytochemicals
+  - 判定：词元重叠 0.00：标题与记录几乎无关，疑似真错配
+- papers/daily-42967079.md
+  - 页面标题：Bioprocessing of Damaged Wheat Grain Into PHB Using Lactobacillus Fermentation Following Optimized Acid Hydrol
+  - 当前：DOI 10.1016/j.eti.2023.103311 / PMID 42967079
+  - 记录标题：Polyhydroxyalkanoates production from lactic acid fermentation broth of agricultural waste without extra purif
+  - 判定：词元重叠 0.09：标题与记录几乎无关，疑似真错配
+- papers/ms-10-60151_envec_kuxv7443.md
+  - 页面标题：Urban Forestry and Green Infrastructure for Climate Resilience
+  - 当前：DOI 10.60151/envec/kuxv7443 / PMID 
+  - 记录标题：Artificial Screening of Yellow Mosaic Virus Causing YMV Disease in Blackgram and Green Gram During Kharif Seas
+  - 判定：词元重叠 0.10：标题与记录几乎无关，疑似真错配
+- papers/ms-10-65215_ltspreprints-2026-06-17-000274.md
+  - 页面标题：An axon initial segment sodium channel Nav1.2 regulates sleep homeostasis
+  - 当前：DOI 10.65215/ltspreprints.2026.06.17.000274 / PMID 
+  - 记录标题：Nav1.2 is a homeostatic sleep effector governing sleep quality
+  - 判定：词元重叠 0.15：标题与记录几乎无关，疑似真错配
+- papers/xr-10-1146-annurev-arplant-042811.md
+  - 页面标题：Plant Stem Cell Niches
+  - 当前：DOI 10.1146/annurev-arplant-042811-105507 / PMID 22224452
+  - 记录标题：Early Embryogenesis in Flowering Plants: Setting Up the Basic Body Pattern
+  - 判定：词元重叠 0.00：标题与记录几乎无关，疑似真错配
+
+## C 表述差异（先修标题）
+
+- papers/daily-42146548.md
+  - 页面标题：Linking sugar sensing to immunity in plants via O-glycosylation
+  - 当前：DOI 10.64898/2026.05.04.722566 / PMID 42146548
+  - 记录标题：Linking sugar sensing to immunity in plants through O-glycosylation of immune-signaling kinases
+  - 判定：词元重叠 0.55：同一文献的不同表述，属阈值问题
+- papers/daily-42203491.md
+  - 页面标题：CDC48A and the UBA-domain protein PUX10 regulate the ubiquitin-dependent degrada
+  - 当前：DOI 10.1093/plcell/koag149 / PMID 
+  - 记录标题：CDC48A and the ubiquitin-associated domain protein PUX10 regulate the ubiquitin-dependent degradation of perox
+  - 判定：词元重叠 0.64：同一文献的不同表述，属阈值问题
+- papers/daily-42204818.md
+  - 页面标题：GhOFP1-GhTALE-GhXTHB transcriptional cascade regulates cotton stem vascular camb
+  - 当前：DOI 10.1016/j.xplc.2026.101938 / PMID 
+  - 记录标题：The GhOFP1-GhTALE-GhXTHB transcriptional cascade regulates vascular cambium development in cotton stems
+  - 判定：词元重叠 0.57：同一文献的不同表述，属阈值问题
+- papers/ms-10-1016_j-jia-2026-06-001.md
+  - 页面标题：Unraveling the molecular and metabolic mechanisms of 6-benzylaminopurine-mediate
+  - 当前：DOI 10.1016/j.jia.2026.06.001 / PMID 
+  - 记录标题：Unraveling the molecular and metabolic mechanisms of 6-BA-mediated dormancy release in Xianheng 01 apple roots
+  - 判定：词元重叠 0.43：同一文献的不同表述，属阈值问题
+
+## A 归一化缺陷（不是 DOI 错误）
+
+- papers/daily-41423733.md
+  - 页面标题：GNA regulates rice spikelet formation via DEP1-enhanced repression of OsCKX2 and cytokinin modulation.
+  - 当前：DOI 10.1080/15592324.2025.2604856 / PMID 41423733
+  - 记录标题：Statement of Removal
+  - 判定：记录为撤稿/移除声明，原文已不可引用；页面应改绑或归档
+- papers/daily-42240414.md
+  - 页面标题：[Impacts of climate change on the functioning and productivity of agroecosystems: a focus on the impact of int
+  - 当前：DOI 10.5802/crbiol.197 / PMID 42240414
+  - 记录标题：Impacts du changement climatique sur le fonctionnement et la productivité des agroécosystèmes : focus sur l’im
+  - 判定：语言不同（原文/译文），同一文献；不应据相似度改 DOI
+- papers/ms-10-18388_5djwbt46.md
+  - 页面标题：[Molecular mechanisms of mherapy resistance in ovarian cancer].
+  - 当前：DOI 10.18388/5djwbt46 / PMID 
+  - 记录标题：Molekularne mechanizmy oporności na terapię w raku jajnika
+  - 判定：语言不同（原文/译文），同一文献；不应据相似度改 DOI
+- papers/ms-10-4038_jnsfsr-v53i3-12431.md
+  - 页面标题：Development of pasta using composite flour of sweet potato&amp;nbsp;(&lt;em&gt;I
+  - 当前：DOI 10.4038/jnsfsr.v53i3.12431 / PMID 
+  - 记录标题：Development of pasta using composite flour of sweet potato (Ipomoea batatas), soy (Glycine max) & rice (Oryza
+  - 判定：HTML 实体/标签未解码导致语义比对失败，不是 DOI 错误
+- papers/ms-10-4038_sljae-v8i1-154.md
+  - 页面标题：Morphological and Qualitative Response of Carrot (&lt;i&gt;Daucus carota&lt;/i&g
+  - 当前：DOI 10.4038/sljae.v8i1.154 / PMID 
+  - 记录标题：Morphological and Qualitative Response of Carrot (Daucus carota) to Foliar Application of Iodine in southern G
+  - 判定：HTML 实体/标签未解码导致语义比对失败，不是 DOI 错误
+- papers/ms-10-52058_2786-6165-2026-4(46)-2555-2565.md
+  - 页面标题：ОСОБЛИВОСТІ ПЕРЕКЛАДУ СУЧАСНОЇ НІМЕЦЬКОЇ ПРОЗИ АНГЛІЙСЬКОЮ МОВОЮ (НА ПРИКЛАДІ ТВ
+  - 当前：DOI 10.52058/2786-6165-2026-4(46)-2555-2565 / PMID 
+  - 记录标题：ОСОБЛИВОСТІ ПЕРЕКЛАДУ СУЧАСНОЇ НІМЕЦЬКОЇ ПРОЗИ АНГЛІЙСЬКОЮ МОВОЮ (НА ПРИКЛАДІ ТВОРІВ ДЖЕННІ ЕРПЕНБЕК)
+  - 判定：语言不同（原文/译文），同一文献；不应据相似度改 DOI
+- papers/ms-10-65215_ltspreprints-2026-06-15-000268.md
+  - 页面标题：&lt;b&gt;Targeting m&lt;sup&gt;6&lt;/sup&gt;A writer METTL3 with engineered nano
+  - 当前：DOI 10.65215/ltspreprints.2026.06.15.000268 / PMID 
+  - 记录标题：Targeting m6A writer METTL3 with engineered nanovesicles to suppress neuroinflammation
+  - 判定：HTML 实体/标签未解码导致语义比对失败，不是 DOI 错误
+- papers/ms-10-71454_pa-004-06-0309a.md
+  - 页面标题：Integrated Ecological Strategies for the Management of Fruit Flies (&lt;i&gt;Bac
+  - 当前：DOI 10.71454/pa.004.06.0309a / PMID 
+  - 记录标题：Integrated Ecological Strategies for the Management of Fruit Flies (Bactrocera dorslis spp.) in Citrus Agroeco
+  - 判定：HTML 实体/标签未解码导致语义比对失败，不是 DOI 错误
+- papers/pdf-nph-71298.md
+  - 页面标题："<i>EMF2</i>
+  - 当前：DOI 10.1111/nph.71298 / PMID 
+  - 记录标题：EMF2 deficiency disrupts epigenetic and chromatin organization landscapes, blocking root regeneration competen
+  - 判定：HTML 实体/标签未解码导致语义比对失败，不是 DOI 错误
+
+## D 无可比对记录（不计入错配）
+
+- papers/daily-42239207.md
+  - 页面标题：A pipeline for cell migration analysis in live-cell imaging data from human iPSC-derived forebrain assembloids
+  - 当前：DOI 10.64898/2026.05.17.725711 / PMID 42239207
+  - 建议 DOI：10.3389/fcell.2026.1880548（**未自动应用**）
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42282619.md
+  - 页面标题：CDK8 phosphorylation of DELLA limits Mediator recruitment in gibberellin signaling.
+  - 当前：DOI 10.64898/2026.05.31.729123 / PMID 42282619
+  - 建议 DOI：10.1073/pnas.2619939123（**未自动应用**）
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42286418.md
+  - 页面标题：Ruminal archaea and bacteria metatranscriptomic responses to supplementation in steers fed low-quality forage.
+  - 当前：DOI 10.1093/jas/skag188 / PMID 42286418
+  - 建议 DOI：10.1093/jas/skae234.377（**未自动应用**）
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42312198.md
+  - 页面标题：Effect of ruminally protected lysine on growth and nitrogen balance of grain-finished beef cattle fed diets of
+  - 当前：DOI 10.1093/tas/txag076 / PMID 42312198
+  - 建议 DOI：10.1093/jas/skaf300.328（**未自动应用**）
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42428110.md
+  - 页面标题：Determinants of Repetitive Transcranial Magnetic Stimulation Efficacy in Tobacco Use Disorder: A Pre-Registere
+  - 当前：DOI 10.64898/2026.06.23.26356059 / PMID 42428110
+  - 建议 DOI：10.55634/5.2.10（**未自动应用**）
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42862231.md
+  - 页面标题：Purification of C/D-Box snoRNP and Fibrillarin-Associated Factors from Arabidopsis thaliana Plants Using GFP-T
+  - 当前：DOI 10.1093/nar/gkad1011 / PMID 42862231
+  - 建议 DOI：10.1007/978-1-0716-5571-9（**未自动应用**）
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/10-1146-annurev-arplant-042817.md
+  - 页面标题：10.1146/annurev-arplant-042817
+  - 当前：DOI 10.1146/annurev-arplant-042817 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/10-1146-annurev-arplant-081720.md
+  - 页面标题：10.1146/annurev-arplant-081720
+  - 当前：DOI 10.1146/annurev-arplant-081720 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/10-7554-elife-17214-001.md
+  - 页面标题：10.7554/elife.17214.001
+  - 当前：DOI 10.7554/elife.17214.001 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b4-A4eRtTpTuVLrP6mvHWMndA.md
+  - 页面标题：None
+  - 当前：DOI 10.1111/pce.70169核心总览 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b5-I9J_3tEggQGIGk7z9SmwOw.md
+  - 页面标题：None
+  - 当前：DOI 10.1002/advs.202416794）一、研究背景 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/cr-10-1093-bib_bbaa097.md
+  - 当前：DOI 10.1093/bib_bbaa097 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/cr-10-1093-bib_bbaa273.md
+  - 当前：DOI 10.1093/bib_bbaa273 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/cr-10-1093-bioinformatics_btaa997.md
+  - 当前：DOI 10.1093/bioinformatics_btaa997 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/cr-10-1093-jxb_erw213.md
+  - 当前：DOI 10.1093/jxb_erw213 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/cr-10-1093-pcp_pcaa086.md
+  - 当前：DOI 10.1093/pcp_pcaa086 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1002-advs.md
+  - 页面标题：10.1002/advs
+  - 当前：DOI 10.1002/advs / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1038-s41477025-02181-9.md
+  - 页面标题：10.1038/s41477025-02181-9
+  - 当前：DOI 10.1038/s41477025-02181-9 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1093-hr-uhag117-8607838.md
+  - 页面标题：10.1093/hr/uhag117/8607838
+  - 当前：DOI 10.1093/hr/uhag117/8607838 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1093-jxb-erag252-8696139.md
+  - 页面标题：10.1093/jxb/erag252/8696139
+  - 当前：DOI 10.1093/jxb/erag252/8696139 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1093-plcell-koag144-8678491.md
+  - 页面标题：10.1093/plcell/koag144/8678491
+  - 当前：DOI 10.1093/plcell/koag144/8678491 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1111-jipb.md
+  - 页面标题：10.1111/jipb
+  - 当前：DOI 10.1111/jipb / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1111-pbi.md
+  - 页面标题：10.1111/pbi
+  - 当前：DOI 10.1111/pbi / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1111-pce.md
+  - 页面标题：10.1111/pce
+  - 当前：DOI 10.1111/pce / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1111-tpj.md
+  - 页面标题：10.1111/tpj
+  - 当前：DOI 10.1111/tpj / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1146-annurev-arplant-081720010120.md
+  - 页面标题：10.1146/annurev-arplant-081720010120
+  - 当前：DOI 10.1146/annurev-arplant-081720010120 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-1146-annurev-arplant-083123073106.md
+  - 页面标题：10.1146/annurev-arplant-083123073106
+  - 当前：DOI 10.1146/annurev-arplant-083123073106 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/dpdf-10-64898-2025.md
+  - 页面标题：10.64898/2025
+  - 当前：DOI 10.64898/2025 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/pakchoi-root-sc-multiomics-salt.md
+  - 当前：DOI 10.1111/nph.70160status: draft / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/sc-stress-celltype-atlas.md
+  - 页面标题：None
+  - 当前：DOI 10.1016/j.tplants.2026.03.003内容： / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/alfalfa-anther-sc-atlas.md
+  - 页面标题：Single-Cell Transcriptome Atlas and Dynamic Regulatory Mechanisms of Anther Deve
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/arabidopsis-root-regeneration-sc-multi.md
+  - 页面标题：Histone deacetylases and cell-cycle regulators orchestrate cell-identity transit
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/arabidopsis-root-sc-atlas-review.md
+  - 页面标题：Dynamics of alternative polyadenylation in single root cells of
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-2C6WVBMI6uIO1-sVTqL4cQ.md
+  - 页面标题：Fine-tuning sequence-to-expression models on personal genome
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-7jZVTuYlk5Xwiiar4Qg-Kw.md
+  - 页面标题：Two FK506-binding proteins, OsFKBP57 and OsFKBP73, confer sa
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-Ke_NSLIGVqOSAUr7v-xJ6A.md
+  - 页面标题：Single-cell network analysis reveals gene expression programs for Arabidopsis ep
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-Lj9ToIUf0z9y77oj4ELKlQ.md
+  - 页面标题：Spatial transcriptomics reveals expression gradients in developing wheat inflore
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-RLgcYH-oLXkkTFajo9NYBA.md
+  - 页面标题：Serial Spatial Transcriptomes Reveal Regulatory Transitions in Maize Leaf Develo
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-it6oy82r7gvXVA0U03AlnA.md
+  - 页面标题：Pathogen-specific host responses define distinct pneumonia e
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-mTGI12xr8PrGxJyDrjJksQ.md
+  - 页面标题：Fine-tuning sequence-to-expression models on personal genome
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b3-ys8H9kH4cFVbPEuMHCg4nA.md
+  - 页面标题：A Near Telomere-to-Telomere Genome of Belamcanda chinensis P
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b4-Hwx53MM5XJEj2LV7X4dTAw.md
+  - 页面标题：Gene-expression patterns can be used to estimate mortality r
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b4-ZKYanCM-ZalgHteLOaJErw.md
+  - 页面标题：The multidimensional significance of virus-host protein inte
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b5-X8Cobw6n3up6ubQO7MBYRw.md
+  - 页面标题：Differential regulation of heterochromatin and euchromatin b
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b5-r0NXipmE4_ac7VUq_Jn5-g.md
+  - 页面标题：Soybean locus qDTF-7 as an example of genetic heterogeneity
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/b5-x5-RiOYANQ4IKw2eQggmzg.md
+  - 页面标题：Soybean locus qDTF-7 as an example of genetic heterogeneity
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/cassava-leaf-sc-atlas.md
+  - 页面标题：Alternative splicing of FLOWERING LOCUS T1 fine-tunes bud do
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42079772.md
+  - 页面标题：Good-eating-quality QTLs detected in two breeding populations by genome-wide association mapping increase eati
+  - 当前：DOI 10.1270/jsbbs.25025 / PMID 42079772
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42217924.md
+  - 页面标题：Synergistic effects of zinc and iron to reduce cadmium uptake in wheat: Insights into soil immobilization and
+  - 当前：DOI 10.1016/j.jes.2025.09.042 / PMID 42217924
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/daily-42965410.md
+  - 页面标题：Genome-Wide Analysis of Protein Binding to DNA in Plastids by ptChIP-seq.
+  - 当前：DOI 10.3389/fpls.2014.00061/abstract / PMID 42965410
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/drought-leaf-senescence-scrna.md
+  - 页面标题：A transcriptional atlas of early Arabidopsis seed developmen
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-1016_j-jfutfo-2025-08-007.md
+  - 页面标题：New insights into the improvement of static magnetic field on α-amylase activity
+  - 当前：DOI 10.1016/j.jfutfo.2025.08.007 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-1016_j-pbiomolbio-2026-02-004">10-1016_j-pbiomolbio-2026-.md
+  - 页面标题：The phoenix flora: Plant survival, succession, and putative adaptation in the post-atomic landscapes of Hirosh
+  - 当前：DOI 10.1016/j.pbiomolbio.2026.02.004">10.1016/j.pbiomolbio.2026.02.004</a></p / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-17613_6rq5n-5tm04.md
+  - 页面标题：Construction of an Automated Quality Control Model for Industrial Waste Gas Onli
+  - 当前：DOI 10.17613/6rq5n-5tm04 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-17613_8c48y-ryn51.md
+  - 页面标题：Measuring Activity-Space Segregation with Multi-Source Big Data: A Physical--Dig
+  - 当前：DOI 10.17613/8c48y-ryn51 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-17613_ewm0r-am417.md
+  - 页面标题：Educational Management Resilience under Low Fertility: Theoretical Construction
+  - 当前：DOI 10.17613/ewm0r-am417 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-17613_vpe2q-5qg42.md
+  - 页面标题：Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environ
+  - 当前：DOI 10.17613/vpe2q-5qg42 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-17615_81hm-r837.md
+  - 页面标题：Histone decrotonylation plays a distinct role in HIV latency
+  - 当前：DOI 10.17615/81hm-r837 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-17660_actahortic-2029-1462-19.md
+  - 页面标题：Whole-plant <i>Artemisia annua</i> extra
+  - 当前：DOI 10.17660/actahortic.2029.1462.19 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-26434_chemrxiv-15004094_v1.md
+  - 页面标题：Bioorthogonal tools for ethanolamine lipids and protein conjugates
+  - 当前：DOI 10.26434/chemrxiv.15004094/v1 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-48620_97160.md
+  - 页面标题：The duodenal microbiota is compartmentalized and clinically stable yet rapidly r
+  - 当前：DOI 10.48620/97160 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-17751215.md
+  - 页面标题：The Architecture of Limitation: Manuscript I — Metaphysical Expression
+  - 当前：DOI 10.5281/zenodo.17751215 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-17960404.md
+  - 页面标题：Optimal storage temperature for fresh fruits: physiological responses, quality r
+  - 当前：DOI 10.5281/zenodo.17960404 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-18150175.md
+  - 页面标题：Interference RNA and microRNA in Rheumatoid Arthritis: Diagnostic Biomarkers, Ep
+  - 当前：DOI 10.5281/zenodo.18150175 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-18681631.md
+  - 页面标题：The Decoupling Mechanism as a Boundary Condition: Geometric Resolution to the Da
+  - 当前：DOI 10.5281/zenodo.18681631 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-18683466.md
+  - 页面标题：The Decoupling Mechanism as a Boundary Condition: Geometric Resolution to the Da
+  - 当前：DOI 10.5281/zenodo.18683466 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-18683680.md
+  - 页面标题：The Decoupling Mechanism as a Boundary Condition: Geometric Resolution to the Da
+  - 当前：DOI 10.5281/zenodo.18683680 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-18842827.md
+  - 页面标题：AI Topics Module 2: Education
+  - 当前：DOI 10.5281/zenodo.18842827 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-18842863.md
+  - 页面标题：AI for Epigenetics
+  - 当前：DOI 10.5281/zenodo.18842863 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-19468377.md
+  - 页面标题：Role of Plant Growth Regulators in Vegetative Propagation
+  - 当前：DOI 10.5281/zenodo.19468377 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20455760.md
+  - 页面标题：MODERN ASPECTS OF ENDOCRINE FACTORS AND CELL PHYSIOLOGY
+  - 当前：DOI 10.5281/zenodo.20455760 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20464721.md
+  - 页面标题：Two families of dyadic–extremal cubic vertex–transitive graphs of girth six: a p
+  - 当前：DOI 10.5281/zenodo.20464721 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20553303.md
+  - 页面标题：Processed single-cell RNA-seq and BCR (VDJ) data for wild-type vs Pax5-mutant mo
+  - 当前：DOI 10.5281/zenodo.20553303 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20573942.md
+  - 页面标题：The Genetics of Consciousness: 5 Things DNA and Darshan Both Say About Who We Ar
+  - 当前：DOI 10.5281/zenodo.20573942 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20578239.md
+  - 页面标题：Effects of Kinetin Applications on Growth and Morphological Damage in Cucumber (
+  - 当前：DOI 10.5281/zenodo.20578239 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20579697.md
+  - 页面标题：Topology, Autocatalysis, and Epigenetic Control: How Network Architecture Shapes
+  - 当前：DOI 10.5281/zenodo.20579697 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20593821.md
+  - 页面标题：Somatic Embryogenesis Induction Using Varying Auxin-Cytokinin Ratio By Using Bac
+  - 当前：DOI 10.5281/zenodo.20593821 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20648929.md
+  - 页面标题：Estudio:«Frei – weiße Gene» (1988): El arte como arquitectura informativa de la
+  - 当前：DOI 10.5281/zenodo.20648929 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20679439.md
+  - 页面标题：PRODUCTION OF NATURAL FOOD COLORANTS BY MICROORGANISMS
+  - 当前：DOI 10.5281/zenodo.20679439 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20683555.md
+  - 页面标题：SCADA Command Custody Through A Pre-Binary Sign Net Gate
+  - 当前：DOI 10.5281/zenodo.20683555 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-20704099.md
+  - 页面标题：What are the genetic causes of gender dysphoria?
+  - 当前：DOI 10.5281/zenodo.20704099 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-21471590.md
+  - 页面标题：BİOSYNTHESİS OF PLANT ALKALOİDS
+  - 当前：DOI 10.5281/zenodo.21471590 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-21479041.md
+  - 页面标题：expanded theories
+  - 当前：DOI 10.5281/zenodo.21479041 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-21494542.md
+  - 页面标题：Ptochoryctis simbleuta Meyrick 1907
+  - 当前：DOI 10.5281/zenodo.21494542 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-21498947.md
+  - 页面标题：Ptochoryctis Meyrick 1894
+  - 当前：DOI 10.5281/zenodo.21498947 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-21523720.md
+  - 页面标题：Lunar Regolith Cement Mixer (LRCM) A Governed ISRU Construction-Material Process
+  - 当前：DOI 10.5281/zenodo.21523720 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-21737604.md
+  - 页面标题：Gimme a rainy week life more: a computational study on the signal-to-noise ratio
+  - 当前：DOI 10.5281/zenodo.21737604 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-5281_zenodo-22057809.md
+  - 页面标题：Comparative Analysis of Human Lipogenesis and Microbial Anthracycline Biosynthes
+  - 当前：DOI 10.5281/zenodo.22057809 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-6084_m9-figshare-32604792-v1.md
+  - 页面标题：expression gene and different gene in different stages in grafting-growth
+  - 当前：DOI 10.6084/m9.figshare.32604792.v1 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-6084_m9-figshare-32664708-v1.md
+  - 页面标题：Additional file 1 of Premeiotic chromatin states orchestrate gene expression dur
+  - 当前：DOI 10.6084/m9.figshare.32664708.v1 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-6084_m9-figshare-32664711-v1.md
+  - 页面标题：Additional file 2 of Premeiotic chromatin states orchestrate gene expression dur
+  - 当前：DOI 10.6084/m9.figshare.32664711.v1 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-64898_2026-05-31-729161.md
+  - 页面标题：Single-cell multimodal profiling of pan-cancer cell lines uncovers gene regulatory principles underlying intri
+  - 当前：DOI 10.64898/2026.05.31.729161 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-64898_2026-06-04-729929.md
+  - 页面标题：Somatic cells non-autonomously control germline incomplete cytokinesis through FGF signaling.
+  - 当前：DOI 10.64898/2026.06.04.729929 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-64898_2026-06-12-732001.md
+  - 页面标题：DNA 6mA marks transcriptionally active chromatin in malaria parasites.
+  - 当前：DOI 10.64898/2026.06.12.732001 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-64898_2026-06-16-732172.md
+  - 页面标题：Multicellular Spatial Programs Define the Histopathological Architecture of Meni
+  - 当前：DOI 10.64898/2026.06.16.732172 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ms-10-64898_2026-06-16-732632.md
+  - 页面标题：Phytoplasma mediated transcriptional changes in poinsettia buds suggest MAF3 and
+  - 当前：DOI 10.64898/2026.06.16.732632 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/pnas-hy5-wood-development-light.md
+  - 页面标题：Spatiotemporal bifurcation of HY5-mediated blue-light signaling regulates wood d
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/poplar-xylem-scrna.md
+  - 页面标题：Fine-tuning sequence-to-expression models on personal genome
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-A-single-cell-Arabidopsis-root.md
+  - 页面标题：A single cell Arabidopsis root atlas reveals developmental trajectories in wild
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-Arabidopsis-–-root-cell-types.md
+  - 页面标题：Arabidopsis – root cell types
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-CellOracle--dissecting-cell-id.md
+  - 页面标题：CellOracle: dissecting cell identity via network inference and in silico gene pe
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-SEMITONES--single-cEll-marker-.md
+  - 页面标题：SEMITONES: single-cEll marker IdentificaTiON by enrichment scoring
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-Targeted-mutagenesis-of-the-Ar.md
+  - 页面标题：Targeted mutagenesis of the Arabidopsis GROWTH-REGULATING FACTOR (GRF) gene fami
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-Visualizing-the-structure-of-R.md
+  - 页面标题：Visualizing the structure of RNA-seq expression data using grade of membership m
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-f1000research-24956-2.md
+  - 页面标题：gprofiler2 -- an R package for gene list functional enrichment analysis and name
+  - 当前：DOI 10.12688/f1000research.24956.2 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref-tpc-18-00884.md
+  - 页面标题：Dynamics of gene expression in single root cells of Arabidopsis thaliana
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref3-10-1111-nph-19251.md
+  - 页面标题：The AP2/ERF transcription factor PtoERF15 confers drought tolerance via JA-media
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/ref4-10-1038-nmeth-1315.md
+  - 页面标题：mRNASeq whole-transcriptome analysis of a single cell
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+- papers/sel-elife-26792-001.md
+  - 页面标题：Abstract
+  - 当前：DOI 10.7554/eLife.26792.001 / PMID 
+  - 判定：抓取侧没有可比对的记录（多为无 PMCID/未被索引的页面），无法自动判定
+

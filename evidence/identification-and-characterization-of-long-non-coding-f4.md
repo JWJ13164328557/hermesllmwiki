@@ -1,34 +1,43 @@
 ---
-title: "By analyzing the target genes of lncRNAs, we found that 28 differentially expressed structural genes"
-created: 2026-09-16
+title: "More importantly, many lncRNAs may be targets of miR156a, miR172a, miR396a, miR828a, and …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[identification-and-characterization-of-long-non-coding]]"
 doi: "10.1016/j.indcrop.2020.112980"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Ginkgo biloba"
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "speculation"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# By analyzing the target genes of lncRNAs, we found that 28 differentially expressed structural genes
+# More importantly, many lncRNAs may be targets of miR156a, miR172a, miR396a, miR828a, and …
 
 ## Claim
-By analyzing the target genes of lncRNAs, we found that 28 differentially expressed structural genes may be regulated by 194 lncRNAs, and differentially expressed MYBs, bHLHs, and WD40 s may be regulated by 26 lncRNAs.
+More importantly, many lncRNAs may be targets of miR156a, miR172a, miR396a, miR828a, and miR858a through the formation of lncRNA (target)– miRNA–PCgene networks to participate in the G.
 
-## Biological Context
-鉴定 and 鉴定 of long non-coding RNAs regulating 类黄酮 生物合成 in Ginkgo biloba leaves
+## Source
+- 文献: [[identification-and-characterization-of-long-non-coding]]
+- DOI: 10.1016/j.indcrop.2020.112980
+- 主要物种: Ginkgo biloba
 
-## Supporting Evidence
-*Source: [[identification-and-characterization-of-long-non-coding]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

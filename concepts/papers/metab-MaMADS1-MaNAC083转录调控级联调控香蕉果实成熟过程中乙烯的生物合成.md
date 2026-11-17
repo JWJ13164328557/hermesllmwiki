@@ -3,11 +3,18 @@ title: "MaMADS1-MaNAC083转录调控级联调控香蕉果实成熟过程中乙�
 journal: "unknown"
 year: ""
 type: paper
-tags: [development, gene-regulation, metabolism]
+themes: [metabolism-natural-products]
+tags: [metabolism]
 species: [Gossypium]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

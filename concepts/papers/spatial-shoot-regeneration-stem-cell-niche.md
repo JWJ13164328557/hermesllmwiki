@@ -1,17 +1,25 @@
-title: "Super-resolution multimodal spatial transcriptomics reveals an ovoid stem-cell niche structuring de novo shoot regeneration."
-pmid: "42141722"
-doi: "10.1016/j.molp.2026.05.008"
-pmcid: ""
-journal: "Molecular plant"
-year: "2026"
-authors: "Xiehai Song, Shaoman Zhang, Zhiliang Yue, Yongqi Liu, Shanshan Chen"
+---
+title: Super-resolution multimodal spatial transcriptomics reveals an ovoid stem-cell niche structuring de novo shoot regeneration.
+pmid: '42141722'
+doi: 10.1016/j.molp.2026.05.008
+pmcid: ''
+journal: Molecular plant
+year: '2026'
+authors: Xiehai Song, Shaoman Zhang, Zhiliang Yue, Yongqi Liu, Shanshan Chen
 type: paper
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags: [hormone-signaling, papers]
 species: [Solanum lycopersicum (tomato)]
 methods: [spatial transcriptomics]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Super-resolution multimodal spatial transcriptomics reveals an ovoid stem-cell niche structuring de novo shoot regeneration.
 
 ## 1. Scientific Context
 
@@ -115,10 +123,10 @@ Plant de novo regeneration, unlike regeneration in most animal systems, relies o
 - 物种: Solanum lycopersicum (tomato)
 - 关键基因: ERL1
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 

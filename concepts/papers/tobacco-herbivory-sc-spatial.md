@@ -1,17 +1,26 @@
-title: "Time-series single-cell transcriptomics and spatial metabolomics reveal spatiotemporal tobacco leaf response to herbivory."
-pmid: "42002027"
-doi: "10.1016/j.jare.2026.04.048"
-pmcid: ""
-journal: "Journal of advanced research"
-year: "2026"
-authors: "Huan Su, Xiaoxiang Hu, Lijun Meng, Xinhua Tian, Xiaoyu Zhang"
+---
+title: Time-series single-cell transcriptomics and spatial metabolomics reveal spatiotemporal tobacco leaf response to herbivory.
+pmid: '42002027'
+doi: 10.1016/j.jare.2026.04.048
+pmcid: ''
+journal: Journal of advanced research
+year: '2026'
+authors: Huan Su, Xiaoxiang Hu, Lijun Meng, Xinhua Tian, Xiaoyu Zhang
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [Nicotiana (tobacco)]
 methods: [scRNA-seq, metabolomics, pseudotime, cell communication]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+aliases: [daily-42002027]
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Time-series single-cell transcriptomics and spatial metabolomics reveal spatiotemporal tobacco leaf response to herbivory.
 
 ## 1. Scientific Context
 
@@ -124,10 +133,10 @@ OBJECTIVES: This study aimed to dissect the spatiotemporal regulation of tobacco
 - 物种: Nicotiana (tobacco)
 - 关键基因: WRKY81
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 
@@ -176,3 +185,14 @@ OBJECTIVES: This study aimed to dissect the spatiotemporal regulation of tobacco
 
 ### 核心发现
 _（信号句不足）_
+
+## 摘要
+INTRODUCTION: Plants have evolved complex defense systems to cope with herbivore attack, yet how these defense responses are coordinated across distinct cell types and time scales remains unclear. Understanding the cellular and spatial organization of such defenses is critical for elucidating the mechanisms underlying plant-insect interactions.
+
+OBJECTIVES: This study aimed to dissect the spatiotemporal regulation of tobacco leaf defense responses to herbivory by integrating time-series single-cell transcriptomics and spatial metabolomics.
+
+METHODS: We generated a high-resolution single-cell atlas of 28,318 tobacco leaf cells under simulated herbivory. Transcriptional dynamics, cell-cell communication networks, and spatial metabolite distributions were analyzed using co-expression, pseudotime, and ligand-receptor inference approaches. Functional validation of key regulators was conducted through qRT-PCR and VIGS assays.
+
+RESULTS: Our analyses revealed rapid transcriptional and metabolic remodeling following herbivore stress, with epidermal subpopulations serving as early signaling hubs. Spatial metabolomics confirmed epidermis-enriched accumulation of defense metabolites. Pseudotime and co-expression analyses identified epidermal subcluster 6 as an early-responsive population characterized by elevated WRKY81 expression. Silencing WRKY81 impaired defense activation, increasing herbivore feeding efficiency and metabolic assimilation.
+
+CONCLUSION: This study establishes the first single-cell-resolved dynamic defense network of tobacco leaves against herbivory. The findings uncover the central role of epidermal transcriptional reprogramming and identify WRKY81 as a critical regulator of early defense commitment, offering a mechanistic basis for the development of pest-resistant crops.

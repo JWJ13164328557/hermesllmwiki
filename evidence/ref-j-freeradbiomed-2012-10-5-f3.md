@@ -1,34 +1,43 @@
 ---
-title: "Taken together, the studies described above demonstrate that a complex network of various NADPH oxid"
-created: 2026-09-16
+title: "The studies described above demonstrate that a complex network of various NADPH oxidases …"
+created: 2026-11-01
 type: evidence
-tags: [#stress-immunity, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["stress-immunity", "papers"]
 source: "[[ref-j-freeradbiomed-2012-10-5]]"
 doi: "10.1016/j.freeradbiomed.2012.10.538"
-species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Nicotiana tabacum"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, the studies described above demonstrate that a complex network of various NADPH oxid
+# The studies described above demonstrate that a complex network of various NADPH oxidases …
 
 ## Claim
-Taken together, the studies described above demonstrate that a complex network of various NADPH oxidases and ROS signaling coordinates the function of various cell types during the wound response.
+The studies described above demonstrate that a complex network of various NADPH oxidases and ROS signaling coordinates the function of various cell types during the wound response.
 
-## Biological Context
-Reactive oxygen species-dependent wound responses in animals and plants.
+## Source
+- 文献: [[ref-j-freeradbiomed-2012-10-5]]
+- DOI: 10.1016/j.freeradbiomed.2012.10.538
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-j-freeradbiomed-2012-10-5]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

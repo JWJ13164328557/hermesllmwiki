@@ -1,34 +1,43 @@
 ---
-title: "The targeted mutations of progenies from T0 plants were veriﬁed by Hi-TOM sequencing analysis of the"
-created: 2026-08-25
+title: "The targeted mutations of progenies from T0 plants were verified by Hi-TOM sequencing …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]"
 doi: "10.1111/pbi.14197"
-species: [Arabidopsis thaliana, Glycine max, Brassica napus]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Brassica napus", "Arabidopsis thaliana", "Glycine max"]
+primary_species: "Brassica napus"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The targeted mutations of progenies from T0 plants were veriﬁed by Hi-TOM sequencing analysis of the
+# The targeted mutations of progenies from T0 plants were verified by Hi-TOM sequencing …
 
 ## Claim
-The targeted mutations of progenies from T0 plants were veriﬁed by Hi-TOM sequencing analysis of the target sites.
+The targeted mutations of progenies from T0 plants were verified by Hi-TOM sequencing analysis of the target sites.
 
-## Biological Context
-Targeted mutagenesis of 类黄酮 生物合成 途径 genes 揭示 功能 divergence in seed coat colour, oil content and fatty acid composition in Brassica napus L
+## Source
+- 文献: [[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]
+- DOI: 10.1111/pbi.14197
+- 主要物种: Brassica napus
 
-## Supporting Evidence
-*Source: [[targeted-mutagenesis-of-flavonoid-biosynthesis-pathway]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

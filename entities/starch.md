@@ -1,6 +1,6 @@
 ---
 title: "starch"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,27 +9,24 @@ tags: [metabolism, compound]
 # starch
 
 ## Evidence Summary
-**Total evidence objects**: 11
+**Total evidence objects**: 109
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[10-1146-annurev-arplant-070225-032745-f7]] | In this process, we demonstrated that starch-accumulated Plants 2020, 9, 615 3 o |
-| [[dpdf-10-1038-s41467-017-02782-9-f3]] | Among the pericarp cell types, we found that several genes encoding key enzymes  |
-| [[dpdf-10-1038-s41467-017-02782-9-f4]] | This observation was consistent with previous reports that starch accumulates pr |
-| [[insights-into-the-evolution-and-hypoglycemic-f1]] | For the 6,138 DE-mRNAs, we found that KEGG enrichment of the upregulated genes w |
-| [[integration-of-morphological-physiological-and-multi-omics-f2]] | In our study, we found that, in MD and HD plants, the levels of photosynthesis-r |
-| [[ms-10-1007_s00468-026-02816-0-f1]] | By combining six decades of tree-ring records with radial and seasonal analyses  |
-| [[ms-10-1007_s11627-026-10653-6-f3]] | While nitrogen is necessary for the production and maintenance of the growth enz |
-| [[ms-10-1038_s41467-026-77573-2-f7]] | In conclusion, these ﬁndings indicate that ABS and STK modulate the expression o |
-| [[ms-10-21674_2448-0479-121-38-47-f3]] | Thus, an adequate balance between auxins and carbohydrates is essential for opti |
-| [[ms-10-3389_fpls-2026-1880438-f6]] | NSC, composed primarily of soluble sugars and starch, repre- sents the carbon st |
+| [[daily-41589633-f5]] | For instance, in tomatoes, MLT (250 μM) upregulated the expression of miR171b, w |
+| [[daily-41622404-f4]] | The knockout of OsRbohB lowered ROS accumulation and improved cellular integrity |
+| [[daily-42015541-f5]] | To gain further understanding of the spatial pattern of gene expression, we focu |
+| [[daily-42231153-f7]] | KEGG pathway analysis revealed that a subset of DEGs was significantly enriched  |
+| [[daily-42243644-f1]] | We show that AMY3A encodes an active enzyme, confirm its plastidial localization |
+| [[daily-42243644-f4]] | This highlights starch degradation in general and AMY3A in particular as targets |
+| [[daily-42243644-f5]] | Indeed, our zymogram analysis revealed a general increase in amylolytic activiti |
+| [[daily-42243644-f6]] | Of special note is BAM9, which was recently shown to be a non-enzymatic positive |
+| [[daily-42243644-f8]] | Key starch biosynthesis genes were repressed, while starch degradation genes—inc |
+| [[daily-42244889-f1]] | This study provides important theoretical insights for the design and developmen |
 
 ## Biosynthetic Pathway
 -
 
 ## Regulatory Genes
--
-
-## Species Distribution
 -

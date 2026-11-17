@@ -1,14 +1,25 @@
-title: Transcriptome and GWAS analyses reveal candidate gene for seminal root length of
+---
+title: Transcriptome and GWAS analyses reveal candidate gene for seminal root length of maize seedlings under drought stress
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [genomics-evolution, stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1016/j.plantsci.2019.110380
 confidence: medium
-aliases: ["Transcriptome and GWAS analyses reveal candidate gene for seminal root length of"]
+aliases:
+- cr-10-1016-j-plantsci-2019-110380
+- Transcriptome and GWAS analyses reveal candidate gene for seminal root length of
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Transcriptome and GWAS analyses reveal candidate gene for seminal root length of
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Transcriptome and GWAS analyses reveal candidate gene for seminal root length of
+---
+
+# Transcriptome and GWAS analyses reveal candidate gene for seminal root length of maize seedlings under drought stress
 
 
 
@@ -29,16 +40,16 @@ Water deficits are a major constraint on maize growth and yield, and deep roots 
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Triticum aestivum, Hordeum vulgare, Citrus spp.
+**物种**: Oryza sativa, Zea mays, Triticum aestivum, Hordeum vulgare
 **方法**: transcriptomics (RNA-seq), qRT-PCR validation, overexpression, GWAS, QTL mapping
 **来源**: DOI:10.1016/j.plantsci.2019.110380
 **来源类型**: PDF全文 (10.1016_j.plantsci.2019.110380.pdf)

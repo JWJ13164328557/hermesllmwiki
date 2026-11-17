@@ -1,34 +1,43 @@
 ---
-title: "In high auxin signaling, auxin binds to the transport inhibitor response 1 (TIR1), which forms a com"
-created: 2026-08-25
+title: "TFs involved in the auxin and ABA signaling transduction were also taken into account due …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["hormone-signaling", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[integrated-analysis-of-transcriptome-and-metabolome]]"
 doi: "10.1021/acs.jafc.3c06846"
-species: [Vitis vinifera, Capsicum annuum, Rosa spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["grape"]
+primary_species: "Vitis vinifera"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: [auxin]
+compounds: ["auxin"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In high auxin signaling, auxin binds to the transport inhibitor response 1 (TIR1), which forms a com
+# TFs involved in the auxin and ABA signaling transduction were also taken into account due …
 
 ## Claim
-In high auxin signaling, auxin binds to the transport inhibitor response 1 (TIR1), which forms a complex with AUX/IAA protein.
+TFs involved in the auxin and ABA signaling transduction were also taken into account due to their important role in regulating the downstream target genes.
 
-## Biological Context
-整合 分析 of Transcriptome and Metabolome to 揭示 Impact on Enhancing Grape Aroma Quality with Synthetic Auxin: Spotlight the Mediation of ABA in Crosstalk with Auxin
+## Source
+- 文献: [[integrated-analysis-of-transcriptome-and-metabolome]]
+- DOI: 10.1021/acs.jafc.3c06846
+- 主要物种: Vitis vinifera
 
-## Supporting Evidence
-*Source: [[integrated-analysis-of-transcriptome-and-metabolome]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: auxin
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

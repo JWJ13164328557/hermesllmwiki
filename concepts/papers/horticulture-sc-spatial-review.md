@@ -1,12 +1,21 @@
-title: "单细胞与空间转录组学在园艺植物中的应用前景"
-journal: "unknown"
-year: ""
+---
+title: 单细胞与空间转录组学在园艺植物中的应用前景
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -39,7 +48,7 @@ updated: 2026-05-30
 - [[arabidopsis-root-regeneration-sc-multi]] 🌱Arabidopsis
 - [[b3-7jZVTuYlk5Xwiiar4Qg-Kw]] 🌱Arabidopsis
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]] 🌱Arabidopsis
-- [[b6-jpXamO-lS-eyCqULAU9qnA]] 🌱Arabidopsis
+- [[cr-s41477-023-01387-z]] 🌱Arabidopsis
 - [[meristem-hypoxia-scrna]] 🌱Arabidopsis
 - [[arabidopsis-root-sc-atlas-review]] 🌱Arabidopsis
 

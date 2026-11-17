@@ -1,34 +1,43 @@
 ---
-title: "232 233 BES1 directly binds to the promoters of PFG MYBs in a BR-enhanced manner 234 Since BES1 inhi"
-created: 2026-08-25
+title: "Here we report that BRs negatively affect plant tolerance to UV-B stress."
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]"
 doi: "10.1105/tpc.20.00048"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "DNA binding/regulation"
+species: ["Arabidopsis thaliana", "Nicotiana tabacum", "Oryza sativa"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "phenotypic/association"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# 232 233 BES1 directly binds to the promoters of PFG MYBs in a BR-enhanced manner 234 Since BES1 inhi
+# Here we report that BRs negatively affect plant tolerance to UV-B stress.
 
 ## Claim
-232 233 BES1 directly binds to the promoters of PFG MYBs in a BR-enhanced manner 234 Since BES1 inhibits the expression of PFG MYB genes, we asked whether BES1 235 directly regulates the transcription of these genes.
+Here we report that BRs negatively affect plant tolerance to UV-B stress.
 
-## Biological Context
-Brassinosteroid-Activated BRI1-EMS-SUPPRESSOR 1 抑制 类黄酮 生物合成 and Coordinates Growth and UV-B 胁迫 Responses in Plants
+## Source
+- 文献: [[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]
+- DOI: 10.1105/tpc.20.00048
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[brassinosteroid-activated-bri1-ems-suppressor-1-inhibits-fla]]*
+## 标注信息
+- 证据类型: phenotypic/association
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

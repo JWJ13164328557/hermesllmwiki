@@ -1,34 +1,43 @@
 ---
-title: "Similarly, among the 55 co-expressed ChIP-seq targets identiﬁed for ZmM16, we found additional membe"
-created: 2026-09-16
+title: "We validated our results by mRNA in situ hybridization and by fluorescenceactivated cell …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-j-devcel-2020-12-015]]"
 doi: "10.1016/j.devcel.2020.12.015"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "DNA binding/regulation"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Zea mays"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [ChIP, ZmM16, ZmSEP3, ZmAGL8, ZmMADS7]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Similarly, among the 55 co-expressed ChIP-seq targets identiﬁed for ZmM16, we found additional membe
+# We validated our results by mRNA in situ hybridization and by fluorescenceactivated cell …
 
 ## Claim
-Similarly, among the 55 co-expressed ChIP-seq targets identiﬁed for ZmM16, we found additional members of the MADS family, such as ZmSEP3/ZmMADS7 and ZmAGAMOUS-LIKE 8 (ZmAGL8) (Figures S4O and S4P; Table S3), indicating that these genes might act downstream of ZmM16 to form gene regulatory networks controlling inﬂorescence development, analogous to MADS networks in Arabidopsis (Chen et al., 2018).
+We validated our results by mRNA in situ hybridization and by fluorescenceactivated cell sorting (FACS) RNA-seq, and we show how these data may facilitate genetic studies by predicting genetic redundancy, integrating transcriptional networks, and identifying candidate genes associated with crop yield traits.
 
-## Biological Context
-Single-cell RNA sequencing of developing maize ears facilitates functional analy
+## Source
+- 文献: [[ref-j-devcel-2020-12-015]]
+- DOI: 10.1016/j.devcel.2020.12.015
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[ref-j-devcel-2020-12-015]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

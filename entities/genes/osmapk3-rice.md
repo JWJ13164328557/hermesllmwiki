@@ -8,12 +8,12 @@ status: reviewed
 confidence: medium
 updated: "2026-05-29"
 related_papers:
-  - "[[rice-chilling-tolerance]]"
+  - "rice-chilling-tolerance"
   - "[[osbhlh150-rice-chilling-tolera]]"
-  - "[[aba-biosynthesis-stress]]"
+  - "aba-biosynthesis-stress"
 related_evidence:
   - "[[rice-root-cell-types-10x]]"
-  - "[[rice-root-marker-genes]]"
+  - "rice-root-marker-genes"
 related_synthesis: []
 ---
 
@@ -72,11 +72,11 @@ Tissue-level and cell-type expression of OsMAPK3 not profiled. The mechanism by 
 
 | Function | Species | Tissue | Evidence Type | Evidence Object | Strength |
 |---|---|---|---|---|---|
-| Physical interaction with OsbHLH150 | Rice (*O. sativa*) | — | Y2H | [[rice-chilling-tolerance]] | Strong |
-| Phosphorylation of OsbHLH150 (S669/S674/S734) | Rice (*O. sativa*) | — | In vitro + in vivo kinase assay | [[rice-chilling-tolerance]] | Strong |
-| Protein stabilization of OsbHLH150 | Rice (*O. sativa*) | — | Protein stability assay (CHX chase) | [[rice-chilling-tolerance]] | Moderate |
-| Genetic requirement for cold tolerance | Rice (*O. sativa*) | Seedling | CR-OsMAPK3 × CR-OsbHLH150 double mutant epistasis | [[rice-chilling-tolerance]] | Strong |
-| Cold-induced kinase activity | Rice (*O. sativa*) | Seedling | Phosphorylation level comparison (cold vs. control) | [[rice-chilling-tolerance]] | Moderate |
+| Physical interaction with OsbHLH150 | Rice (*O. sativa*) | — | Y2H | rice-chilling-tolerance | Strong |
+| Phosphorylation of OsbHLH150 (S669/S674/S734) | Rice (*O. sativa*) | — | In vitro + in vivo kinase assay | rice-chilling-tolerance | Strong |
+| Protein stabilization of OsbHLH150 | Rice (*O. sativa*) | — | Protein stability assay (CHX chase) | rice-chilling-tolerance | Moderate |
+| Genetic requirement for cold tolerance | Rice (*O. sativa*) | Seedling | CR-OsMAPK3 × CR-OsbHLH150 double mutant epistasis | rice-chilling-tolerance | Strong |
+| Cold-induced kinase activity | Rice (*O. sativa*) | Seedling | Phosphorylation level comparison (cold vs. control) | rice-chilling-tolerance | Moderate |
 
 ---
 
@@ -201,7 +201,7 @@ MAPK3 orthologs are conserved across Poaceae, but functional characterization in
 
 ## Key References
 
-1. Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: [10.1016/j.xplc.2026.101919](https://doi.org/10.1016/j.xplc.2026.101919) — [[rice-chilling-tolerance]]
+1. Luo J. et al. (2026). Natural variation in OsbHLH150 confers chilling tolerance in rice by increasing ABA biosynthesis. *Plant Communications*. DOI: [10.1016/j.xplc.2026.101919](https://doi.org/10.1016/j.xplc.2026.101919) — rice-chilling-tolerance
 
 ---
 
@@ -212,7 +212,7 @@ MAPK3 orthologs are conserved across Poaceae, but functional characterization in
 - [[osnced3-rice]] — Indirect downstream target (via OsbHLH150)
 
 ### Related Pathways
-- [[aba-biosynthesis-stress]] — ABA biosynthesis pathway
+- aba-biosynthesis-stress — ABA biosynthesis pathway
 
 ### Related Entities
 - [[guangxi-university-luo-lab]] — Research group

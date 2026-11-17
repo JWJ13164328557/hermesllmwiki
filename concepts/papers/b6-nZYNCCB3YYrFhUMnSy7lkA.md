@@ -1,12 +1,21 @@
-title: "New Phytol. | 高光胁迫下毛白杨的适应机制：JA-MYC2-MYB113调控模块的功能解析"
-journal: "unknown"
-year: ""
+---
+title: New Phytol. | 高光胁迫下毛白杨的适应机制：JA-MYC2-MYB113调控模块的功能解析
+journal: unknown
+year: ''
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

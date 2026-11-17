@@ -3,11 +3,18 @@ title: "茶树中主要氨基酸的生物合成、运输和周转的空间动态
 journal: "unknown"
 year: ""
 type: paper
-tags: [development, gene-regulation, spatial]
+themes: [metabolism-natural-products]
+tags: []
 species: [Gossypium]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

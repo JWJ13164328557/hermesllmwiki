@@ -208,6 +208,9 @@ def main():
 
 {ft_content}
 """
+            # 幂等保护：先剔除已有全文块，避免重复追加（参见 2026-11 vol_collapse 事故）
+            import re as _re
+            content = _re.sub(r'\n*## PMC 全文.*?(?=\n## (?!PMC 全文)|\Z)', '', content, flags=_re.S)
             # Add after ## 摘要 or before ## 深度提炼
             if '## 摘要' in content:
                 parts = content.split('## 深度提炼')

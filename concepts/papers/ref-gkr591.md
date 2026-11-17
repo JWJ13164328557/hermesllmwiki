@@ -1,12 +1,23 @@
+---
 title: Measuring cell identity in noisy biological systems.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1093/nar/gkr591
 confidence: medium
-aliases: ["Measuring cell identity in noisy biological systems."]
+aliases: [Measuring cell identity in noisy biological systems.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: out-of-scope
+theme_basis: purity:suspect-no-plant-cue
+scope_status: excluded-nonplant
+excluded_reason: nonplant|Measuring cell identity in noisy biological systems.
+
+---
+> [!warning] 已排除（非植物研究对象）
+> 本文研究对象为动物/临床/工业体系，其生物学断言不得进入植物学主题。
+> 保留本页仅为追溯 DOI 与排除理由；证据对象已归档。
 
 # Measuring cell identity in noisy biological systems.
 

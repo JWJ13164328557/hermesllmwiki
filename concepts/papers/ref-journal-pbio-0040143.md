@@ -1,13 +1,19 @@
+---
 title: Whole-genome analysis of the SHORT-ROOT developmental pathway in Arabidopsis.
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 doi: 10.1371/journal.pbio.0040143
-pmid: "16640459"
+pmid: '16640459'
 confidence: medium
-aliases: ["Whole-genome analysis of the SHORT-ROOT developmental pathway in Arabidopsis."]
+aliases: [cr-10-1371-journal-pbio-0040143, Whole-genome analysis of the SHORT-ROOT developmental pathway in Arabidopsis.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Whole-genome analysis of the SHORT-ROOT developmental pathway in Arabidopsis.
 

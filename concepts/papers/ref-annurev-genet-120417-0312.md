@@ -1,14 +1,25 @@
-title: "数字中的力量：解剖复杂组织的单细胞RNA序列策略。"
+---
+title: 数字中的力量：解剖复杂组织的单细胞RNA序列策略。
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1146/annurev-genet-120417-031247
 confidence: medium
-aliases: ["数字中的力量：解剖复杂组织的单细胞RNA序列策略。"]
+aliases:
+- cr-10-1146-annurev-genet-120417-031247
+- 数字中的力量：解剖复杂组织的单细胞RNA序列策略。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: 'Power in Numbers: Single-Cell RNA-Seq Strategies to Dissect Complex Tissues'
+theme_status: mapped
+theme_basis: tag
 
-# 数字中的力量：解剖复杂组织的单细胞RNA序列策略。
+---
+
+# Power in Numbers: Single-Cell RNA-Seq Strategies to Dissect Complex Tissues
 
 
 

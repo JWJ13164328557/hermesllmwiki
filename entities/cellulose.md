@@ -1,6 +1,6 @@
 ---
 title: "cellulose"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,27 +9,24 @@ tags: [metabolism, compound]
 # cellulose
 
 ## Evidence Summary
-**Total evidence objects**: 14
+**Total evidence objects**: 39
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[10-1177-002070207503000209-f5]] | Carbohydrates and Role of Lignin Biosynthesis Lignin and cellulose contents are  |
+| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f1]] | Strikingly, we found that NAA is involved in the inhibition of lignin and cellul |
+| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f2]] | In conclusion, our study shows that the ‘PbrARF13- PbrNSC-PbrMYB132’ regulatory  |
+| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f3]] | Our study highlights the important role of the ‘PbrARF13-PbrNSC-PbrMYB132’ signa |
+| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f8]] | We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for |
 | [[banana-manac1-activates-secondary-cell-wall-f1]] | Throughout this investigation, we found that CI resulted in increases in both th |
-| [[ms-10-1016_j-biombioe-2026-109712-f3]] | Interestingly, at an enzyme loading of 1.59 FPU/g cellulose, TS yield obtained w |
-| [[ms-10-1038_s41467-026-74052-6-f1]] | Inspired by the helical nanoarchitecture of cherry bark19,20, we report a bioins |
-| [[ms-10-1038_s41467-026-74052-6-f2]] | Collectively, these findings highlight the critical importance of the complex, m |
-| [[ms-10-1038_s41467-026-74052-6-f4]] | In summary, we have developed a bioinspired nano-orientation strategy enabling t |
-| [[ms-10-1038_s41467-026-74052-6-f7]] | Together, these experimental findings strongly validate that precise nano-orient |
-| [[ms-10-1038_s41467-026-77548-3-f5]] | To determine whether DPML@OVA-CpGs could effec- tively target the PPs, we fabric |
-| [[ms-10-1038_s41598-026-56477-7-f6]] | While animal extracellular matrix is composed of fibrous proteins that serve as  |
-| [[ref-ijms20174211-f5]] | Carbohydrates and Role of Lignin Biosynthesis Lignin and cellulose contents are  |
+| [[daily-41100018-f3]] | Further studies suggest that xyloglucan interacts with cellulose at specific sit |
+| [[daily-42203813-f1]] | These results confirm that the extracted cellulose is a suitable precursor for t |
+| [[daily-42224583-f2]] | We show that assemblies with increasing numbers of layers of cellulose nanofiber |
+| [[daily-42224583-f4]] | These results demonstrate that the synthetic cellulose-pectin capsules not only  |
+| [[daily-42224583-f7]] | Our findings thus challenge the notion that a specific type of molecular interac |
 
 ## Biosynthetic Pathway
 -
 
 ## Regulatory Genes
--
-
-## Species Distribution
 -

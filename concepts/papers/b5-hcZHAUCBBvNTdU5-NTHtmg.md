@@ -1,17 +1,25 @@
-title: "GmMYB4 Positively Regulates Isoflavone Biosynthesis via the GmMAPK6-GmMYB4-MBW Module in Soybean."
-pmid: "41137496"
-doi: "10.1111/pbi.70420"
-pmcid: "PMC5487076"
-journal: "Plant biotechnology journal"
-year: "2026"
-authors: "Changyun Yang, Peipei Zhang, Pingbo Jiang, Yingying Song, Junyu Wang"
+---
+title: GmMYB4 Positively Regulates Isoflavone Biosynthesis via the GmMAPK6-GmMYB4-MBW Module in Soybean.
+pmid: '41137496'
+doi: 10.1111/pbi.70420
+pmcid: PMC5487076
+journal: Plant biotechnology journal
+year: '2026'
+authors: Changyun Yang, Peipei Zhang, Pingbo Jiang, Yingying Song, Junyu Wang
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 species: [Arabidopsis thaliana, Zea mays (maize), Glycine max (soybean), Populus (poplar), Solanum lycopersicum (tomato), Nicotiana (tobacco)]
 methods: [reporter assay, QTL, phylogenetics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# GmMYB4 Positively Regulates Isoflavone Biosynthesis via the GmMAPK6-GmMYB4-MBW Module in Soybean.
 
 ## 1. Scientific Context
 
@@ -125,10 +133,10 @@ Isoflavones, a class of bioactive compounds predominantly found in leguminous pl
 - 物种: Arabidopsis thaliana, Zea mays (maize), Glycine max (soybean), Populus (poplar)
 - 关键基因: IFS1, ADH1, CHS7, GLY1, PAL1, GAL4, CHS8, IFS2
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Glycine max, Isoflavones, Gene Expression Regulation, Plant, Plant Proteins, Transcription Factors, Genome-Wide Association Study
 
@@ -146,3 +154,21 @@ Isoflavones, a class of bioactive compounds predominantly found in leguminous pl
 - 统计方法和重复性待人工审查
 
 **证据质量
+
+## 深度提炼
+
+**主要物种**: Glycine max
+**物种**: Glycine max, Populus spp., Solanum lycopersicum, Zea mays, Arabidopsis thaliana
+**方法**: RNAi/VIGS, overexpression, subcellular localization, promoter-GUS assay, phylogenetics, QTL mapping
+**来源**: DOI:10.1111/pbi.70420
+**来源类型**: XML全文 (10.1111_pbi.70420.txt)
+
+### 核心发现
+1. Further study is required to determine whether GmMYBJ3 needs to interact with other protein factors to enhance its function.
+2. Here we report a new MYB transcription factor (TF) gene, GmMYBJ3, that is involved in the isoflavonoids biosynthesis.
+3. These results suggest that GmMYBJ3 participates in the isoflavonoid biosynthesis through regulation of CHS8 and CHI1A in soybean.
+4. RNAi silencing of the CHS8 gene reduced the level of isoflavonoids in soybean hairy roots, providing a line of evidence that CHS8 is involved in regulation of isoflavonoid biosynthesis [ ].
+5. In this study, although GmMYBJ3 activateed a lower expression level of CHS8 than GmMYB176 and GmMYB12B2, the co-transfection results indicate that CHS8 is one of the target genes for GmMYBJ3.
+6. Furthermore, C1 is a R2R3 MYB TF involved in anthocyanin accumulation in maize and must interact with R (bHLH TF) to be effective [ ], whereas AtMYB11, AtMYB12 and AtMYB111 all can regulate flavonol synthesis by themselves [, ].
+7. Previous study showed that overexpression of LjMYB14 up-regulated expression of PAL, C4H, 4CL, IFS and IFR genes in Lotus [ ], and silencing GmMYB176 down-regulated the expression level of CHS8 and reduced the isoflavonoid content in soybean hairy roots [ ].
+8. Of the twelve members in the CHI family, CHI1A, PAL1 and IFS2 are involved in seed isoflavonoid biosynthesis [ ], and CHS8 plays a crucial role in isoflavonoid biosynthesis [, ].

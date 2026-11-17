@@ -1,12 +1,21 @@
-title: "MdBT2通过MdMYB106-MdCER2L1信号通路调控苹果中氮介导的角质层蜡的生物合成"
-journal: "unknown"
-year: ""
+---
+title: MdBT2通过MdMYB106-MdCER2L1信号通路调控苹果中氮介导的角质层蜡的生物合成
+journal: unknown
+year: ''
 type: paper
-tags: [#hormone-signaling, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

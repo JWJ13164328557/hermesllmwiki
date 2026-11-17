@@ -1,6 +1,6 @@
 ---
 title: "VcSPL12"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: gene
 tags: [metabolism, gene]
@@ -9,7 +9,7 @@ tags: [metabolism, gene]
 # VcSPL12
 
 ## Evidence Summary
-**Total evidence objects**: 6
+**Total evidence objects**: 4
 
 ## Evidence Table
 | Evidence | Finding |
@@ -18,8 +18,6 @@ tags: [metabolism, gene]
 | [[the-mir156spl12-module-orchestrates-fruit-colour-f2]] | VcSPL12 negatively regulates ethylene production through directly targeting VcAC |
 | [[the-mir156spl12-module-orchestrates-fruit-colour-f3]] | These results suggest that VcSPL12 may speciﬁcally bind to the promoters of VcAC |
 | [[the-mir156spl12-module-orchestrates-fruit-colour-f4]] | Protein- DNA interaction assays indicated that VcSPL12 could speciﬁcally bind to |
-| [[the-mir156spl12-module-orchestrates-fruit-colour-f5]] | Additionally, VcSPL12 may directly interact with the promoter region of the chlo |
-| [[the-mir156spl12-module-orchestrates-fruit-colour-f8]] | In a previous study, we demonstrated that VcMIR156a can inﬂuence anthocyanin and |
 
 ## Functional Roles
 _（待从证据深入提炼）_

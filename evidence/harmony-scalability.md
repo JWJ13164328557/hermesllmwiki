@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-s41592-019-0619-0]]"
+  - "[[fast-sensitive-and-accurate-integration-of-single-cell-data]]"
 supporting_figures:
   - "xr-10-1038-s41592-019-0619-0#figure-4"
 experiments:
@@ -25,6 +25,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/s41592-019-0619-0"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Harmony Integrates ~1 Million Cells on a Personal Computer
@@ -41,7 +54,7 @@ As scRNA-seq datasets grow to millions of cells, integration methods must scale 
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-s41592-019-0619-0]] | Harmony scalability test | Integrated ~1M cells on a personal computer; runtime scales linearly with cell count; memory efficient | ~1,000,000 cells |
+| [[fast-sensitive-and-accurate-integration-of-single-cell-data]] | Harmony scalability test | Integrated ~1M cells on a personal computer; runtime scales linearly with cell count; memory efficient | ~1,000,000 cells |
 
 ## Evidence Quality
 

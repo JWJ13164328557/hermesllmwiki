@@ -1,12 +1,21 @@
-title: "最新单细胞多组学×空间转录组解析植物发育机制文献合集"
-journal: "unknown"
-year: ""
+---
+title: 最新单细胞多组学×空间转录组解析植物发育机制文献合集
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

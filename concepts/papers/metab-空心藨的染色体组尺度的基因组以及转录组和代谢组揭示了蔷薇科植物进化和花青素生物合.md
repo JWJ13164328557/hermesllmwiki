@@ -1,12 +1,21 @@
-title: "空心藨的染色体组尺度的基因组以及转录组和代谢组揭示了蔷薇科植物进化和花青素生物合成过程"
-journal: "unknown"
-year: ""
+---
+title: 空心藨的染色体组尺度的基因组以及转录组和代谢组揭示了蔷薇科植物进化和花青素生物合成过程
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

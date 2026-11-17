@@ -1,34 +1,43 @@
 ---
-title: "Almost one-third of the direct target genes of HY5 (ref."
-created: 2026-08-25
+title: "The target genes of PIFs45,46 (PIF1, PIF3, PIF4, PIF5) were enriched in both ME1 (43/333) …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]"
 doi: "10.1038/s41477-023-01544-4"
-species: [Arabidopsis thaliana, Triticum aestivum, Citrus spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Arabidopsis thaliana", "Triticum aestivum"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["ME1", "ME6", "PIF1", "PIF3", "PIF4", "PIF5"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Almost one-third of the direct target genes of HY5 (ref.
+# The target genes of PIFs45,46 (PIF1, PIF3, PIF4, PIF5) were enriched in both ME1 (43/333) …
 
 ## Claim
-Almost one-third of the direct target genes of HY5 (ref.
+The target genes of PIFs45,46 (PIF1, PIF3, PIF4, PIF5) were enriched in both ME1 (43/333) and ME6 (30/333), and others were identified with spatial differences (Supplementary Table 8).
 
-## Biological Context
-Time series single-cell transcriptional atlases reveal cell fate differentiation driven by light in Arabidopsis seedlings
+## Source
+- 文献: [[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]
+- DOI: 10.1038/s41477-023-01544-4
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: ME1, ME6, PIF1, PIF3, PIF4, PIF5
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

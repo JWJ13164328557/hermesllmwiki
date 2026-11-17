@@ -1,12 +1,21 @@
-title: "单细胞转录组图谱和染色质可及性景观揭示水稻根中的分化轨迹发表期刊：Nature Communications"
-journal: "unknown"
-year: ""
+---
+title: 单细胞转录组图谱和染色质可及性景观揭示水稻根中的分化轨迹发表期刊：Nature Communications
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [epigenetics-gene-regulation, single-cell-spatial-omics]
+tags: [papers]
 species: [Oryza sativa]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -25,11 +34,11 @@ updated: 2026-05-30
 ## 相关文献
 
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 - [[daily-42206163]]
 
 

@@ -1,12 +1,21 @@
-title: "热胁迫处理玉米根单细胞转录组差异基因分析"
-journal: "unknown"
-year: ""
+---
+title: 热胁迫处理玉米根单细胞转录组差异基因分析
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics, stress-immunity]
+tags: [papers]
 species: [Arabidopsis thaliana, Zea mays]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

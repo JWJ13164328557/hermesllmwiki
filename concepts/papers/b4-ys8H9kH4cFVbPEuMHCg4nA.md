@@ -1,17 +1,25 @@
-title: "Genome and Single-Cell Transcriptome Reveal the Evolution of Holoparasitic Plants: A Case Study of Cistanche deserticola."
-pmid: "41334776"
-doi: "10.1111/pbi.70464"
-pmcid: "PMC3893544"
-journal: "Plant biotechnology journal"
-year: "2026"
-authors: "Xinke Zhang, Yujing Miao, Yuanyuan Xing, Guoshuai Zhang, Meiqiao Zhang"
+---
+title: 'Genome and Single-Cell Transcriptome Reveal the Evolution of Holoparasitic Plants: A Case Study of Cistanche deserticola.'
+pmid: '41334776'
+doi: 10.1111/pbi.70464
+pmcid: PMC3893544
+journal: Plant biotechnology journal
+year: '2026'
+authors: Xinke Zhang, Yujing Miao, Yuanyuan Xing, Guoshuai Zhang, Meiqiao Zhang
 type: paper
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags: [genomics-evolution, papers]
 species: [Arabidopsis thaliana, Vitis vinifera (grape)]
 methods: [scRNA-seq, multi-omics, RNA-seq, phylogenetics]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Genome and Single-Cell Transcriptome Reveal the Evolution of Holoparasitic Plants: A Case Study of Cistanche deserticola.
 
 ## 1. Scientific Context
 
@@ -125,10 +133,10 @@ The Orobanchaceae family, the largest group of parasitic plants, spans a complet
 - 物种: Arabidopsis thaliana, Vitis vinifera (grape)
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Cistanche, Transcriptome, Genome, Plant, Single-Cell Analysis, Evolution, Molecular, Biological Evolution, Gene Transfer, Horizontal
 
@@ -169,11 +177,18 @@ The Orobanchaceae family, the largest group of parasitic plants, spans a complet
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana
-**方法**: scRNA-seq, transcriptomics (RNA-seq), phylogenetics
-**来源**: DOI:
-**来源类型**: PMC全文
-**基因**: —
+**主要物种**: Oryza sativa
+**物种**: Oryza sativa, Triticum aestivum, Zea mays, Arabidopsis thaliana, Populus spp.
+**方法**: transcriptomics (RNA-seq), multi-omics integration, genomics, qRT-PCR validation, overexpression, phylogenetics
+**来源**: DOI:10.1111/pbi.70464
+**来源类型**: XML全文 (10.1111_pbi.70464.txt)
 
 ### 核心发现
-_（信号句不足）_
+1. By calculating the F‐index, we found that about 68%–77% of conserved gene families in hemiparasitic species had gene counts below the average, while in holoparasitic species, approximately 60%–89% of the conserved gene families had fewer genes than the average (Figure ).
+2. We found that photosynthesis, flowering regulation, response to nutrient levels, immune response, cellular development, external stimuli response and reproductive processes were most significant.
+3. Our findings suggest that the Orobanchaceae likely originated in the low‐latitude regions of the Middle East and Asia near the Cretaceous‐Palaeocene (K–Pg) boundary.
+4. By analysing the spatial distribution of pathway gene transcripts, we found that the biosynthesis of phenylethanoid glycosides in C.
+5. Taken together, both gene loss and HGT are essential drivers in parasitic plant evolution.
+6. deserticola, HGT plays a critical role in energy metabolism and transport, enabling the efficient absorption and utilisation of host resources.
+7. Taken together, it is clear that extensive gene loss, coupled with the functional integration of horizontally transferred genes, was a driver in the evolution of C.
+8. Notably, only 5 conserved orthogroups were common to both parasitic plant types, suggesting that the evolution from hemiparasitism to holoparasitism was associated with the loss of specific gene families (Figure ).

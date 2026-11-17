@@ -1,17 +1,25 @@
-title: "Unraveling plant-microbe symbioses using single-cell and spatial transcriptomics."
-pmid: "38991926"
-doi: "10.1016/j.tplants.2024.06.008"
-pmcid: ""
-journal: "Trends in plant science"
-year: "2024"
-authors: "Karen Serrano, Francesca Tedeschi, Stig U Andersen, Henrik V Scheller"
+---
+title: Unraveling plant-microbe symbioses using single-cell and spatial transcriptomics.
+pmid: '38991926'
+doi: 10.1016/j.tplants.2024.06.008
+pmcid: ''
+journal: Trends in plant science
+year: '2024'
+authors: Karen Serrano, Francesca Tedeschi, Stig U Andersen, Henrik V Scheller
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [scRNA-seq, spatial transcriptomics, RNA-seq]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Unraveling plant-microbe symbioses using single-cell and spatial transcriptomics.
 
 ## 1. Scientific Context
 
@@ -75,10 +83,10 @@ Plant-microbe symbioses require intense interaction and genetic coordination to 
 - 物种: unknown
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Symbiosis, Single-Cell Analysis, Transcriptome, Plants, Gene Expression Profiling
 

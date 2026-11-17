@@ -1,34 +1,43 @@
 ---
-title: "In vitro, an electrophoretic mobility shift assay (EMSA) was utilized to determine if MaNAC083 can i"
-created: 2026-08-25
+title: "These data illustrate that MaNAC083 directly targets MaACS1, MaACO1, MaACO4, MaACO5, and …"
+created: 2026-11-03
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[mamads1manac083-transcriptional-regulatory-cascade-regulates]]"
 doi: "10.1093/hr/uhad177"
-species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
-evidence_type: "protein interaction"
-quality: "medium"
-genes: [MaNAC083]
+species: ["Musa spp.", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Musa spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["MaACO1", "MaACO4", "MaACO5", "MaACO8", "MaACS1", "MaNAC083"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In vitro, an electrophoretic mobility shift assay (EMSA) was utilized to determine if MaNAC083 can i
+# These data illustrate that MaNAC083 directly targets MaACS1, MaACO1, MaACO4, MaACO5, and …
 
 ## Claim
-In vitro, an electrophoretic mobility shift assay (EMSA) was utilized to determine if MaNAC083 can interact with all pro- moters directly.
+These data illustrate that MaNAC083 directly targets MaACS1, MaACO1, MaACO4, MaACO5, and MaACO8 promoters via the NACRS.
 
-## Biological Context
-MaMADS1–MaNAC083 transcriptional regulatory cascade 调控 ethylene 生物合成 过程中 banana fruit ripening
+## Source
+- 文献: [[mamads1manac083-transcriptional-regulatory-cascade-regulates]]
+- DOI: 10.1093/hr/uhad177
+- 主要物种: Musa spp.
 
-## Supporting Evidence
-*Source: [[mamads1manac083-transcriptional-regulatory-cascade-regulates]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: MaACO1, MaACO4, MaACO5, MaACO8, MaACS1, MaNAC083
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

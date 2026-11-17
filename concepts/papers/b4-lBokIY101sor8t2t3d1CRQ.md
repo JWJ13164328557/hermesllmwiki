@@ -1,17 +1,25 @@
-title: "Single-cell transcriptome sequencing reveals the sphingolipid metabolism pathway plays an important role in leaf senescence in tobacco."
-pmid: "40764913"
-doi: "10.1186/s12870-025-07051-2"
-pmcid: "PMC4353297"
-journal: "BMC plant biology"
-year: "2025"
-authors: "Quan Sun, Bing Hou, Xinghui Liu, Langlang Zhang, Pingan Chang"
+---
+title: Single-cell transcriptome sequencing reveals the sphingolipid metabolism pathway plays an important role in leaf senescence in tobacco.
+pmid: '40764913'
+doi: 10.1186/s12870-025-07051-2
+pmcid: PMC4353297
+journal: BMC plant biology
+year: '2025'
+authors: Quan Sun, Bing Hou, Xinghui Liu, Langlang Zhang, Pingan Chang
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 species: [Arabidopsis thaliana, Zea mays (maize), Solanum lycopersicum (tomato), Nicotiana (tobacco)]
 methods: [scRNA-seq]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Single-cell transcriptome sequencing reveals the sphingolipid metabolism pathway plays an important role in leaf senescence in tobacco.
 
 ## 1. Scientific Context
 
@@ -123,10 +131,10 @@ Tobacco was an important cash crop and model plant, and the senescence (yellowin
 - 物种: Arabidopsis thaliana, Zea mays (maize), Solanum lycopersicum (tomato), Nicotiana (tobacco)
 - 关键基因: EDS1, NPR1, PR1, BY2, TGA1, ICS1, MPK6, IPCS3
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Nicotiana, Plant Leaves, Sphingolipids, Transcriptome, Plant Senescence, Single-Cell Analysis, Gene Expression Regulation, Plant, Gene Expression Profiling
 
@@ -161,3 +169,19 @@ Tobacco was an important cash crop and model plant, and the senescence (yellowin
 2. 整合空间转录组学数据增加空间维度
 3. 开展遗传学功能验证实验
 4. 探索Arabidopsi
+
+## 深度提炼
+
+**主要物种**: Nicotiana tabacum
+**物种**: Nicotiana tabacum, Solanum lycopersicum, Zea mays, Arabidopsis thaliana
+**方法**: overexpression, knockout/mutant
+**来源**: DOI:10.1186/s12870-025-07051-2
+**来源类型**: XML全文 (10.1186_s12870-025-07051-2.txt)
+
+### 核心发现
+1. These data suggest that the ability to accumulate SA is partly responsible for the gonst1 phenotype.
+2. ACD11 selectively binds to ceramide-1-phosphate (C1P) and phyto-C1P, but not to related plant sphingolipids such as ceramides, GlcCers, GIPCs, and LCBs ( ).
+3. These results suggest that ET receptors have distinct roles in toxin sensitivity leading to the HR.
+4. Salicylic acid (SA) is a key signaling molecule that is required for induction of defense-related genes and rapid and localized cell death at the site of pathogen infection (hypersensitive response) during incompatible host–pathogen interactions.
+5. Because protoplasts from mutant genotypes defective in SA, jasmonic acid (JA), and ethylene (ET) accumulation or signaling are more tolerant to the toxin, it was concluded that all three signaling pathways are required for cell death caused by FB1 ( ).
+6. Expression of NahG or negative regulators of the SA pathway in sphingolipid mutants confirms that this phytohormone is required for the cell death phenotype.

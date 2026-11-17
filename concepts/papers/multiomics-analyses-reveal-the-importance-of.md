@@ -1,15 +1,20 @@
-title: "Multi‐omics analyses reveal the importance of chromoplast plastoglobules in carotenoid accumulation in citrus fruit"
+---
+
+title: Multi-omics analyses reveal the importance of chromoplast plastoglobules in carotenoid accumulation in citrus fruit
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: []
+tags:
+- genomics-evolution
+- papers
 doi: 10.1111/tpj.16519
-pmid: 
-confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  05 HOURS 07 MINUTES 09 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
+pmid: ''
+theme_status: out-of-scope
+theme_basis: tag+keyword
 
-# Multi‐omics analyses 揭示 the importance of chromoplast plastoglobules in 类胡萝卜素 积累 in citrus fruit
+---
 
-> Multi‐omics analyses reveal the importance of chromoplast plastoglobules in carotenoid accumulation in citrus fruit
+# Multi‐omics analyses reveal the importance of chromoplast plastoglobules in carotenoid accumulation in citrus fruit
 
 ## 论文信息
 - **期刊**: The Plant Journal (2024)
@@ -25,7 +30,17 @@ SUMMARYChromoplasts act as a metabolic sink for carotenoids, in which plastoglob
 
 ## 深度提炼
 
+**主要物种**: Citrus spp.
+**物种**: Citrus spp., Capsicum annuum, Solanum lycopersicum, Arabidopsis thaliana, Oryza sativa
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), multi-omics integration, proteomics, overexpression, Western blot, subcellular localization, phylogenetics
+**来源**: DOI:10.1111/tpj.16519
+**来源类型**: PDF全文 (68 多组学分析揭示了有色体质体球在柑橘类水果类胡萝卜素积累中的重要性.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. We found that the development of chromoplast plastoglobules (CPGs) in globular and crystalloid chromoplasts of citrus is associated with alterations in carotenoid storage.
+2. In this work, we report a procedure for preparing highly puriﬁed CPGs that were analyzed using western blotting, microscopy, and subcellular localization.
+3. Our results show that b-carotene and lycopene, which are nonpolar carotenoids, mainly accumulate in the crystalline chromoplasts of citrus pulp.
+4. These data suggest that the esteriﬁcation of carotenoids may be important to this process via members of the esterase/ lipase/thioesterase (ELT) gene family.
+5. Taken together, these in vitro results further suggest that CsELT1 is not directly involved in carotenoid esteriﬁcation but may provide more lipids to promote the accumulation of fatsoluble carotenoids.
+6. However, the study was not comprehensive and in-depth and more detailed information is critical to better understanding the metabolic traits occurring in chromoplasts.
+7. The ﬁndings indicate that the nonpolar microenvironment of CPGs is essential for carotenoid accumulation in chromoplasts, and manipulation of CsELT1 in citrus calli provided further evidence.

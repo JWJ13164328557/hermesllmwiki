@@ -1,15 +1,23 @@
-title: "Ginsenosides accumulation and related genes expression in different underground parts of Panax notoginseng during matura"
+---
+title: Ginsenosides accumulation and related genes expression in different underground parts of Panax notoginseng during maturation stage
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.114228
-pmid: 
-confidence: medium
-aliases: ["成熟期三七不同地下部位人参皂苷积累及相关基因表达"]
+pmid: ''
+aliases:
+- 成熟期三七不同地下部位人参皂苷积累及相关基因表达
+title_fixed_from: 'Ginsenosides accumulation and related genes expression in different underground '
+theme_status: mapped
+theme_basis: tag
 
-# Ginsenosides 积累 and related genes 表达 in different underground parts of Panax notoginseng 过程中 maturation stage
+species_status: unverified
+---
 
-> Ginsenosides accumulation and related genes expression in different underground parts of Panax notoginseng during maturation stage
+# Ginsenosides accumulation and related genes expression in different underground parts of Panax notoginseng during maturation stage
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2022)

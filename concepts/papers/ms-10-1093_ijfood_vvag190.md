@@ -1,14 +1,21 @@
 ---
-title: Duckweed Fortified Cookies: Nutritional Profile, Functional Properties and Consu
+title: 'Duckweed Fortified Cookies: Nutritional Profile, Functional Properties and Consumer Assessment'
 created: 2026-08-29
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.1093/ijfood/vvag190
 confidence: moderate
 source: openalex
+status: pollution
+title_fixed_from: 'Duckweed Fortified Cookies: Nutritional Profile, Functional Properties and Consu'
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Duckweed Fortified Cookies: Nutritional Profile, Functional Properties and Consumer Assessment
+# Duckweed Fortified Cookies: Nutritional Profile, Functional Properties and Consumer Assessmentmer Assessment
 
 ## 论文信息
 - **期刊**: International Journal of Food Science & Technology (2026)

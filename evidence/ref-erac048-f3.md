@@ -1,34 +1,43 @@
 ---
-title: "Interestingly, wheat exhibits variation in root hair length and density, and cultivars with long roo"
-created: 2026-09-16
+title: "Wheat exhibits variation in root hair length and density, and cultivars with long root …"
+created: 2026-11-01
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-erac048]]"
 doi: "10.1093/jxb/erac048"
-species: [Arabidopsis thaliana, Oryza sativa, Triticum aestivum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Triticum aestivum"]
+primary_species: "Triticum aestivum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Interestingly, wheat exhibits variation in root hair length and density, and cultivars with long roo
+# Wheat exhibits variation in root hair length and density, and cultivars with long root …
 
 ## Claim
-Interestingly, wheat exhibits variation in root hair length and density, and cultivars with long root hairs may also exhibit greater hair density (Gahoonia et al., 1997).
+Wheat exhibits variation in root hair length and density, and cultivars with long root hairs may also exhibit greater hair density (Gahoonia et al., 1997).
 
-## Biological Context
-Selection for early shoot vigour in wheat increases root hair length but reduces
+## Source
+- 文献: [[ref-erac048]]
+- DOI: 10.1093/jxb/erac048
+- 主要物种: Triticum aestivum
 
-## Supporting Evidence
-*Source: [[ref-erac048]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

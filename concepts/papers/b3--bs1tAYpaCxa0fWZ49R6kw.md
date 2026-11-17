@@ -1,14 +1,27 @@
-title: Integrating 3D imaging, GWAS, and single-cell transcriptome approaches to elucid
+---
+title: Integrating 3D imaging, GWAS, and single-cell transcriptome approaches to elucidate root system architecture in Populus
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1093/plphys/kiaf432
 confidence: medium
-aliases: ["Integrating 3D imaging, GWAS, and single-cell transcriptome approaches to elucid"]
+aliases:
+- b4-78WuUWiztOxRe4n5MS2Pag
+- Integrating 3D imaging
+- GWAS
+- and single-cell transcriptome approaches to elucid
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Integrating 3D imaging, GWAS, and single-cell transcriptome approaches to elucid
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Integrating 3D imaging, GWAS, and single-cell transcriptome approaches to elucid
+---
+
+# Integrating 3D imaging, GWAS, and single-cell transcriptome approaches to elucidate root system architecture in Populus
 
 
 
@@ -27,13 +40,13 @@ Roots are essential for nutrient uptake and structural stability in trees. Despi
 
 ## 相关文献
 
-- [[b4-78WuUWiztOxRe4n5MS2Pag]]
+- [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-Oe9xghJ07Ub3C93cYl12oQ]]
 - [[plantcellchat-tool]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 
 
 

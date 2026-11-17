@@ -1,12 +1,21 @@
-title: "茶叶片茸毛发育的单细胞与基因组联合解析"
-journal: "unknown"
-year: ""
+---
+title: 茶叶片茸毛发育的单细胞与基因组联合解析
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [genomics-evolution, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

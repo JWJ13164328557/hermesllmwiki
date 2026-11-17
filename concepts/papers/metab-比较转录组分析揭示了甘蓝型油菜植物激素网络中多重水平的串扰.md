@@ -1,12 +1,21 @@
-title: "比较转录组分析揭示了甘蓝型油菜植物激素网络中多重水平的串扰"
-journal: "unknown"
-year: ""
+---
+title: 比较转录组分析揭示了甘蓝型油菜植物激素网络中多重水平的串扰
+journal: unknown
+year: ''
 type: paper
-tags: [#hormone-signaling, papers]
+themes: []
+tags: [papers]
 species: [Brassica]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

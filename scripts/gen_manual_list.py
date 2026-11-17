@@ -29,7 +29,7 @@ def concept_meta(doi):
 
 # 快速: 建立 doi 索引 (一次读全部前三行)
 doi_meta = {}
-for fp in glob.glob(f'{BASE}/concepts/papers/*.md') + glob.glob(f'{BASE}/concepts/daily-*.md'):
+for fp in glob.glob(f'{BASE}/concepts/papers/*.md') + glob.glob(f'{BASE}/concepts/methods/*.md') + glob.glob(f'{BASE}/concepts/daily-*.md'):
     try:
         head = open(fp, 'r', encoding='utf-8', errors='ignore').read(2500)
         m = re.search(r'doi:\s*"?\s*(10\.\d{4,}/[^\s\n"]+)', head, re.I)

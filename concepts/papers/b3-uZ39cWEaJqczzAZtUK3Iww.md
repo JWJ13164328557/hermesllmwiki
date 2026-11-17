@@ -1,12 +1,21 @@
-title: "PBJ | 单细胞转录组揭秘芡实叶片水生适应新机制：EfCGT1调控表皮细胞黄酮C-糖苷特异性积累"
-journal: "unknown"
-year: ""
+---
+title: PBJ | 单细胞转录组揭秘芡实叶片水生适应新机制：EfCGT1调控表皮细胞黄酮C-糖苷特异性积累
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

@@ -1,34 +1,43 @@
 ---
-title: "The released SNRK2 phosphorylates ABA- responsive element (ABRE)-binding factors (ABFs), which bind "
-created: 2026-09-16
+title: "The released SNRK2 phosphorylates ABAresponsive element (ABRE)-binding factors (ABFs) …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["epigenetics-gene-regulation", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-aba-induced-nac-transcription-factor-mdnac1]]"
 doi: "10.1093/hr/uhad049"
-species: [Solanum lycopersicum, Malus domestica, Nicotiana tabacum]
-evidence_type: "expression/regulation"
+species: ["Malus domestica", "Nicotiana tabacum", "Prunus persica"]
+primary_species: "Malus domestica"
+evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["SNRK2"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# The released SNRK2 phosphorylates ABA- responsive element (ABRE)-binding factors (ABFs), which bind 
+# The released SNRK2 phosphorylates ABAresponsive element (ABRE)-binding factors (ABFs) …
 
 ## Claim
-The released SNRK2 phosphorylates ABA- responsive element (ABRE)-binding factors (ABFs), which bind to cis-acting elements (ACGTGG/TC) to activate downstream gene expression [42, 43].
+The released SNRK2 phosphorylates ABAresponsive element (ABRE)-binding factors (ABFs), which bind to cis-acting elements (ACGTGG/TC) to activate downstream gene expression [42, 43].
 
-## Biological Context
-The ABA-induced NAC transcription factor MdNAC1 interacts with a bZIP-type transcription factor to promote 花青素 synthesis in red-fleshed apples
+## Source
+- 文献: [[the-aba-induced-nac-transcription-factor-mdnac1]]
+- DOI: 10.1093/hr/uhad049
+- 主要物种: Malus domestica
 
-## Supporting Evidence
-*Source: [[the-aba-induced-nac-transcription-factor-mdnac1]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: SNRK2
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

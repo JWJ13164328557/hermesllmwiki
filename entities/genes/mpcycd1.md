@@ -11,8 +11,8 @@ related_papers:
   - "[[plant-cell-cycle-control]]"
   - "[[cell-cycle-scrna-seq]]"
 related_evidence:
-  - "[[snRNA-seq-valid-plant-transcriptomics]]"
-  - "[[snRNA-seq-additional-plant-cell-subtypes]]"
+  - "snRNA-seq-valid-plant-transcriptomics"
+  - "snRNA-seq-additional-plant-cell-subtypes"
 related_synthesis: []
 ---
 
@@ -239,4 +239,4 @@ D-type cyclins (animal Cyclin D1-3) are conserved G1 regulators. However, metazo
 
 ### Related Entities
 - [[marchantia-polymorpha]] — Host species; minimalist cell cycle system
-- Evidence: [[snRNA-seq-valid-plant-transcriptomics]]
+- Evidence: snRNA-seq-valid-plant-transcriptomics

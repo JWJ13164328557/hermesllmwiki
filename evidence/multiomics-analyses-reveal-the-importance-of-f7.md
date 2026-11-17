@@ -1,34 +1,43 @@
 ---
-title: "The ﬁndings indicate that the nonpolar microenvironment of CPGs is essential for carotenoid accumula"
-created: 2026-08-25
+title: "The findings indicate that the nonpolar microenvironment of CPGs is essential for …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[multiomics-analyses-reveal-the-importance-of]]"
 doi: "10.1111/tpj.16519"
-species: [Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum]
+species: ["Citrus spp.", "Capsicum annuum", "Solanum lycopersicum"]
+primary_species: "Citrus spp."
 evidence_type: "expression/regulation"
-quality: "medium"
-genes: [CsELT1]
-compounds: [carotenoid]
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CsELT1"]
+compounds: ["carotenoid"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The ﬁndings indicate that the nonpolar microenvironment of CPGs is essential for carotenoid accumula
+# The findings indicate that the nonpolar microenvironment of CPGs is essential for …
 
 ## Claim
-The ﬁndings indicate that the nonpolar microenvironment of CPGs is essential for carotenoid accumulation in chromoplasts, and manipu- lation of CsELT1 in citrus calli provided further evidence.
+The findings indicate that the nonpolar microenvironment of CPGs is essential for carotenoid accumulation in chromoplasts, and manipulation of CsELT1 in citrus calli provided further evidence.
 
-## Biological Context
-Multi‐omics analyses 揭示 the importance of chromoplast plastoglobules in 类胡萝卜素 积累 in citrus fruit
+## Source
+- 文献: [[multiomics-analyses-reveal-the-importance-of]]
+- DOI: 10.1111/tpj.16519
+- 主要物种: Citrus spp.
 
-## Supporting Evidence
-*Source: [[multiomics-analyses-reveal-the-importance-of]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CsELT1
+- 自动标注化合物: carotenoid
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,34 +1,43 @@
 ---
-title: "To verify whether MdWRKY33 binds to MdNCED1 and MdNCED3 promoters and to assess its effect on their "
-created: 2026-08-25
+title: "3.3 | Overexpression of MdASMT9 enhanced photosynthetic capacity and increased stomatal …"
+created: 2026-11-03
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]"
 doi: "10.1111/pce.14791"
-species: [Oryza sativa, Solanum lycopersicum, Malus domestica]
-evidence_type: "DNA binding/regulation"
-quality: "medium"
-genes: [MdNCED3, MdWRKY33, MdNCED1]
+species: ["Malus domestica", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Malus domestica"
+evidence_type: "genetic perturbation"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "high"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["MdASMT9"]
 compounds: []
+evidence_type_confidence: "high"
+evidence_type_prior: ""
+
 ---
 
-# To verify whether MdWRKY33 binds to MdNCED1 and MdNCED3 promoters and to assess its effect on their 
+# 3.3 | Overexpression of MdASMT9 enhanced photosynthetic capacity and increased stomatal …
 
 ## Claim
-To verify whether MdWRKY33 binds to MdNCED1 and MdNCED3 promoters and to assess its effect on their expression, EMSA and dual‐LUC reporter assays were conducted.
+3.3 | Overexpression of MdASMT9 enhanced photosynthetic capacity and increased stomatal aperture under heat stress Heat stress has a particularly adverse impact on plant photosynthesis, one of the most vital biochemical processes.
 
-## Biological Context
-MdASMT9‐介导的 melatonin 生物合成 enhances basal thermotolerance in apple plants
+## Source
+- 文献: [[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]
+- DOI: 10.1111/pce.14791
+- 主要物种: Malus domestica
 
-## Supporting Evidence
-*Source: [[mdasmt9mediated-melatonin-biosynthesis-enhances-basal-thermo]]*
+## 标注信息
+- 证据类型: genetic perturbation
+- 论断角色: finding
+- 论断证据完备度: high（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: MdASMT9
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

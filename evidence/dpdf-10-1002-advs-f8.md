@@ -1,34 +1,43 @@
 ---
-title: "Notably, most eQTL hotspots overlapped with previously reported QTLs and known genes related to seed"
-created: 2026-09-16
+title: "Based on published resequencing data for wild and cultivated soybeans, including …"
+created: 2026-11-01
 type: evidence
-tags: [papers, dpdf]
+themes: ["developmental-biology", "genomics-evolution"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers", "dpdf"]
 source: "[[dpdf-10-1002-advs]]"
 doi: "10.1002/advs"
-species: [Triticum aestivum, Oryza sativa, Arabidopsis thaliana]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [GmCHR5, GmMaT4, GmMaT2]
+species: ["Triticum aestivum", "Oryza sativa", "Arabidopsis thaliana"]
+primary_species: "Glycine max"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Notably, most eQTL hotspots overlapped with previously reported QTLs and known genes related to seed
+# Based on published resequencing data for wild and cultivated soybeans, including …
 
 ## Claim
-Notably, most eQTL hotspots overlapped with previously reported QTLs and known genes related to seed traits (Figure 3c), such as GA20OX for seed weight, GmCHR5, GmMaT2, and GmMaT4 for isoﬂavone content.[12d,13] These ﬁndings indicate that the identiﬁed eQTL hotspots likely contribute to seed trait variation through direct or indirect modulation of lncRNA expression.
+Based on published resequencing data for wild and cultivated soybeans, including landraces and cultivars, we found that 7 eQTL hotspots at 14 DAF and 5 eQTL hotspots at 21 DAF experienced strong artificial selection during the domestication of soybean (Figure S3b, Supporting Information).
 
-## Biological Context
-10.1002/advs
+## Source
+- 文献: [[dpdf-10-1002-advs]]
+- DOI: 10.1002/advs
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[dpdf-10-1002-advs]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

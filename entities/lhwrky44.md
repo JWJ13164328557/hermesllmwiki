@@ -9,7 +9,7 @@ tags: [metabolism, gene]
 # LhWRKY44
 
 ## Evidence Summary
-**Total evidence objects**: 6
+**Total evidence objects**: 4
 
 ## Evidence Table
 | Evidence | Finding |
@@ -18,8 +18,6 @@ tags: [metabolism, gene]
 | [[multifaceted-roles-of-lhwrky44-in-promoting-f2]] | Here, we found an anthocyanin biosynthesis-related gene, LhWRKY44. |
 | [[multifaceted-roles-of-lhwrky44-in-promoting-f5]] | LhWRKY44 interacts with LhMYBSPLATTER Many TFs interact with MBW complexes or fu |
 | [[multifaceted-roles-of-lhwrky44-in-promoting-f6]] | C Transient overexpression of LhWRKY44 gene promoted anthocyanin accumulation in |
-| [[multifaceted-roles-of-lhwrky44-in-promoting-f7]] | LhWRKY44 interacts with LhMYBSPLATTER and enhances the interaction between LhMYB |
-| [[multifaceted-roles-of-lhwrky44-in-promoting-f8]] | Taken together, these results revealed a novel dual role for LhWRKY44- LhMYBSPLA |
 
 ## Functional Roles
 _（待从证据深入提炼）_

@@ -1,15 +1,18 @@
-title: "MdBT2 regulates nitrogen-mediated cuticular wax biosynthesis via a MdMYB106-MdCER2L1 signalling pathway in apple"
+---
+title: MdBT2 regulates nitrogen-mediated cuticular wax biosynthesis via a MdMYB106-MdCER2L1 signalling pathway in apple
 created: 2026-05-30
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags: [stress-immunity, papers]
 doi: 10.1038/s41477-023-01587-7
-pmid: 
-confidence: medium
-aliases: ["MdBT2通过MdMYB106-MdCER2L1信号通路在苹果中调节氮介导的皮蜡生物合成"]
+pmid: ''
+aliases: [MdBT2通过MdMYB106-MdCER2L1信号通路在苹果中调节氮介导的皮蜡生物合成]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# MdBT2 调控 nitrogen-介导的 cuticular 蜡质 生物合成 via a MdMYB106-MdCER2L1 signalling 途径 in apple
+---
 
-> MdBT2 regulates nitrogen-mediated cuticular wax biosynthesis via a MdMYB106-MdCER2L1 signalling pathway in apple
+# MdBT2 regulates nitrogen-mediated cuticular wax biosynthesis via a MdMYB106-MdCER2L1 signalling pathway in apple
 
 ## 论文信息
 - **期刊**: Nature Plants (2024)
@@ -25,15 +28,18 @@ Malus domestica
 
 ## 深度提炼
 
-**物种**: maize, rice, tobacco, wheat
-
-**方法**: ChIP-seq, Microscopy
+**主要物种**: Malus domestica
+**物种**: Malus domestica, Nicotiana tabacum, Oryza sativa, Triticum aestivum, Zea mays
+**方法**: ChIP-seq/qPCR, qRT-PCR validation, Y2H, BiFC, Co-IP, EMSA, dual-luciferase reporter, RNAi/VIGS
+**来源**: DOI:10.1038/s41477-023-01587-7
+**来源类型**: PDF全文 (12 MdBT2通过MdMYB106-MdCER2L1信号通路调控苹果中氮介导的角质层蜡的生物合成.pdf)
 
 ### 核心发现
-
-- All these results suggest that MYB transcription factor plays a key role in epidermal wax synthesis; how- ever, its upstream regulatory pathway is still unknown.
-- Our findings reveal an N-mediated apple wax biosynthesis pathway and lay a foundation for further study of the environmental factors associated with wax regulatory networks in apple.
-- Finally, HXXXD-type acyl-transferase ECERIFERUM 2-like1 (MdCER2L1) was confirmed as a downstream target gene of MdMYB106.
-- In apple, the R2R3-MYB transcription factor MdMYB30 binds to the pro- moter of MdKCS1 to regulate epidermal wax biosynthesis and increase resistance to stress and disease33.
-
-**全文来源**: PubMed摘要
+1. All these results suggest that MYB transcription factor plays a key role in epidermal wax synthesis; however, its upstream regulatory pathway is still unknown.
+2. We found that MdCER2 lacked the HXXXD domain, which is crucial for its function in catalysing C28 VLCFA elongation26,27, while MdCER2L1 possessed the complete HXXXD structural domain, which is similar to AtCER2.
+3. Here we found that nitrogen (N) played a negative role in the regulation of wax synthesis in apple.
+4. Our findings reveal an N-mediated apple wax biosynthesis pathway and lay a foundation for further study of the environmental factors associated with wax regulatory networks in apple.
+5. Our findings reveal the relationship between massive elemental N and wax biosynthesis and systematically investigate the molecular mechanism of N-induced C29 long-chain alkane deficiency, providing a theoretical foundation for the HN-induced resistance decline and candidate genes for apple resistance breeding.
+6. Finally, HXXXD-type acyl-transferase ECERIFERUM 2-like1 (MdCER2L1) was confirmed as a downstream target gene of MdMYB106.
+7. As a massive element, N plays a important role in apple growth and development and organ building, and the appropriate amount of N can not only improve the yield but also enhance the resistance of fruit trees, which is important for apples.
+8. In apple, the R2R3-MYB transcription factor MdMYB30 binds to the promoter of MdKCS1 to regulate epidermal wax biosynthesis and increase resistance to stress and disease33.

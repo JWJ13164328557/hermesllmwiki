@@ -1,15 +1,22 @@
-title: "Integrating GC-MS and ssRNA-Seq analysis to identify long non-coding RNAs related to terpenoid biosynthesis in Cinnamomu"
+---
+title: Integrating GC-MS and ssRNA-Seq analysis to identify long non-coding RNAs related to terpenoid biosynthesis in Cinnamomum camphora
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.113875
-pmid: 
-confidence: medium
-aliases: ["整合GC-MS和ssRNA-Seq分析，以鉴定与樟树萜类生物合成相关的长链非编码RNA"]
+pmid: ''
+aliases:
+- 整合GC-MS和ssRNA-Seq分析，以鉴定与樟树萜类生物合成相关的长链非编码RNA
+title_fixed_from: Integrating GC-MS and ssRNA-Seq analysis to identify long non-coding RNAs relate
+theme_status: mapped
+theme_basis: tag
 
-# Integrating GC-MS and ssRNA-Seq 分析 to identify long non-coding RNAs related to 萜类 生物合成 in Cinnamomum camphora
+---
 
-> Integrating GC-MS and ssRNA-Seq analysis to identify long non-coding RNAs related to terpenoid biosynthesis in Cinnamomum camphora
+# Integrating GC-MS and ssRNA-Seq analysis to identify long non-coding RNAs related to terpenoid biosynthesis in Cinnamomum camphora
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

@@ -8,7 +8,7 @@
 | Layer | Count |
 |-------|-------|
 | Concept Pages | 1295 |
-| Evidence Objects — 13232 total (incl. 10282 from metabolism)
+| Evidence Objects — 18092 active (18117 files on disk)
 | Entity Pages | 106 |
 | Synthesis (8 core) | 8 |
 | Hypotheses | 9 |
@@ -39,5 +39,5 @@
 - [[genomics-evolution|Genomics & Evolution]]
 
 ## Relationships
-- [[metabolism-gene-compound]] — Gene-Compound Regulatory Relationships
+- [[metabolism-gene-compound]] — Gene–Compound Co-occurrence (not regulation)
 - [[metabolism-gene-network]] — Gene Co-occurrence Network

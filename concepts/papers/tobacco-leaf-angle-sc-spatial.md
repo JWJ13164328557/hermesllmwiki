@@ -1,14 +1,24 @@
-title: Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminat
+---
+title: Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminates an Auxin Gradient Orchestrated by NtTAC1 Underlying Leaf Angle Regulation in Tobacco
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1111/pbi.70672
 confidence: medium
-aliases: ["Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminat"]
+aliases:
+- Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminat
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminat
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminat
+---
+
+# Spatiotemporal Metabolome and Single-Nucleus Transcriptome Integration Illuminates an Auxin Gradient Orchestrated by NtTAC1 Underlying Leaf Angle Regulation in Tobacco
 
 
 
@@ -29,11 +39,11 @@ Plant architecture is key to crop yield, with leaf angle being critical for high
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

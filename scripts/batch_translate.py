@@ -2,10 +2,13 @@
 """批量翻译英文标题为中文，并更新concept pages"""
 import os, re, time
 
-base = '/mnt/g/hermes_obsidian/hermes'
+from kb_paths import BASE as base, find_paper  # 统一根目录 + schema 路径
 
 # Read titles needing translation
-with open(f'{base}/titles_to_translate.txt','r',encoding='utf-8') as f:
+_TF = f'{base}/titles_to_translate.txt'
+if not os.path.exists(_TF):
+    raise SystemExit(f'缺少待翻译清单: {_TF}')
+with open(_TF,'r',encoding='utf-8') as f:
     all_titles = [line.strip().split('|||') for line in f if '|||' in line]
 
 # Only process ones not yet translated
@@ -14,7 +17,7 @@ for slug, title in all_titles:
     found = False
     for fname in os.listdir(f'{base}/concepts'):
         if fname.replace('.md','') == slug:
-            with open(f'{base}/concepts/{fname}','r',encoding='utf-8') as f:
+            with open(find_paper(fname.replace('.md','')) or f'{base}/concepts/{fname}','r',encoding='utf-8') as f:
                 c = f.read()
             # Check if already has Chinese heading
             first_line = c.split('\n')[0]
@@ -48,7 +51,7 @@ try:
             # Update concept page
             for fname in os.listdir(f'{base}/concepts'):
                 if fname.replace('.md','') == slug:
-                    path = f'{base}/concepts/{fname}'
+                    path = find_paper(fname.replace('.md','')) or f'{base}/concepts/{fname}'
                     with open(path,'r',encoding='utf-8') as f: c = f.read()
                     
                     # Replace English heading with Chinese
@@ -90,7 +93,7 @@ except ImportError:
             if zh and len(zh) > 2:
                 for fname in os.listdir(f'{base}/concepts'):
                     if fname.replace('.md','') == slug:
-                        path = f'{base}/concepts/{fname}'
+                        path = find_paper(fname.replace('.md','')) or f'{base}/concepts/{fname}'
                         with open(path,'r',encoding='utf-8') as f: c = f.read()
                         lines = c.split('\n')
                         new_lines = []

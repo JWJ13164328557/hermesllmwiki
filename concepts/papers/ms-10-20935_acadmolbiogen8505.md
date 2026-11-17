@@ -1,14 +1,21 @@
 ---
-title: An exceptionally large and repetitive genome in the cave-dwelling shrimp Trogloc
+title: An exceptionally large and repetitive genome in the cave-dwelling shrimp Troglocaris planinensis
 created: 2026-09-12
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.20935/acadmolbiogen8505
 confidence: moderate
 source: openalex
+status: pollution
+title_fixed_from: An exceptionally large and repetitive genome in the cave-dwelling shrimp Trogloc
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# An exceptionally large and repetitive genome in the cave-dwelling shrimp Troglocaris planinensis
+# An exceptionally large and repetitive genome in the cave-dwelling shrimp Troglocaris planinensisaris planinensis
 
 ## 论文信息
 - **期刊**: Academia molecular biology and genomics. (2026)

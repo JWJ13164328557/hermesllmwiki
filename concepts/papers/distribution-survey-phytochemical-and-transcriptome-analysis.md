@@ -1,15 +1,23 @@
-title: "Distribution survey, phytochemical and transcriptome analysis to identify candidate genes involved in biosynthesis of fu"
+---
+title: Distribution survey, phytochemical and transcriptome analysis to identify candidate genes involved in biosynthesis of functional components in Zanthoxylum nitidum
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- genomics-evolution
+- papers
 doi: 10.1016/j.indcrop.2020.112345
-pmid: 
-confidence: medium
-aliases: ["分布调查、植物化学和转录组分析，以确定参与花椒功能成分生物合成的候选基因"]
+pmid: ''
+aliases:
+- 分布调查、植物化学和转录组分析，以确定参与花椒功能成分生物合成的候选基因
+title_fixed_from: Distribution survey, phytochemical and transcriptome analysis to identify candid
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Distribution survey, phytochemical and transcriptome 分析 to identify candidate genes 参与的 in 生物合成 of 功能 components in Zanthoxylum nitidum
+species_status: unverified
+---
 
-> Distribution survey, phytochemical and transcriptome analysis to identify candidate genes involved in biosynthesis of functional components in Zanthoxylum nitidum
+# Distribution survey, phytochemical and transcriptome analysis to identify candidate genes involved in biosynthesis of functional components in Zanthoxylum nitidum
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2020)

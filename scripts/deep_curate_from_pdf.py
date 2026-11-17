@@ -45,7 +45,7 @@ SPECIES_PATTERNS = [
     (r'\bDioscorea\b|\byam\b', 'Dioscorea spp.'),
     (r'\bArtemisia\s+annua\b|\bsweet\s+wormwood\b', 'Artemisia annua'),
     (r'\bCrocus\s+sativus\b|\bsaffron\b', 'Crocus sativus'),
-    (r'\bFicus\s+carica\b|\bfig\b', 'Ficus carica'),
+    (r'\bFicus\s+carica\b|\bcommon\s+fig\b|\bedible\s+fig\b|\bfig\s+tree\b|\bfigs?\b(?!\s*[.\-]?\s*\d)', 'Ficus carica'),
     (r'\bZingiber\s+officinale\b|\bginger\b', 'Zingiber officinale'),
     (r'\bCapsicum\s+annuum\b|\bpepper\b', 'Capsicum annuum'),
     (r'\bCucumis\s+(sativus|melo)\b|\b(cucumber|melon)\b', 'Cucumis spp.'),

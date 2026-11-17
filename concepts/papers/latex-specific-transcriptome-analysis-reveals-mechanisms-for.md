@@ -1,15 +1,23 @@
-title: "Latex-specific transcriptome analysis reveals mechanisms for latex metabolism and natural rubber biosynthesis in laticif"
+---
+title: Latex-specific transcriptome analysis reveals mechanisms for latex metabolism and natural rubber biosynthesis in laticifers of Hevea brasiliensis
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.113835
-pmid: 
-confidence: medium
-aliases: ["乳胶特异性转录组分析揭示了巴西橡胶乳化物中乳胶代谢和天然橡胶生物合成的机制"]
+pmid: ''
+aliases:
+- 乳胶特异性转录组分析揭示了巴西橡胶乳化物中乳胶代谢和天然橡胶生物合成的机制
+title_fixed_from: Latex-specific transcriptome analysis reveals mechanisms for latex metabolism an
+theme_status: mapped
+theme_basis: tag
 
-# Latex-specific transcriptome 分析 揭示 mechanisms for latex metabolism and natural rubber 生物合成 in laticifers of Hevea brasiliensis
+species_status: unverified
+---
 
-> Latex-specific transcriptome analysis reveals mechanisms for latex metabolism and natural rubber biosynthesis in laticifers of Hevea brasiliensis
+# Latex-specific transcriptome analysis reveals mechanisms for latex metabolism and natural rubber biosynthesis in laticifers of Hevea brasiliensis
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

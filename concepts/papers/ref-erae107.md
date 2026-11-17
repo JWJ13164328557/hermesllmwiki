@@ -1,14 +1,24 @@
-title: Single-cell transcriptomics reveals heterogeneity in plant responses to the envi
+---
+title: 'Single-cell transcriptomics reveals heterogeneity in plant responses to the environment: a focus on biotic and abiotic interactions'
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1093/jxb/erae107
 confidence: medium
-aliases: ["Single-cell transcriptomics reveals heterogeneity in plant responses to the envi"]
+aliases:
+- Single-cell transcriptomics reveals heterogeneity in plant responses to the envi
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Single-cell transcriptomics reveals heterogeneity in plant responses to the envi
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Single-cell transcriptomics reveals heterogeneity in plant responses to the envi
+---
+
+# Single-cell transcriptomics reveals heterogeneity in plant responses to the environment: a focus on biotic and abiotic interactions
 
 
 
@@ -29,16 +39,16 @@ Biotic and abiotic environmental cues are major factors influencing plant growth
 
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-Oe9xghJ07Ub3C93cYl12oQ]]
-- [[b4-78WuUWiztOxRe4n5MS2Pag]]
+- [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[plantcellchat-tool]]
-- [[spinach-inflorescence-spatial]]
+- [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 - [[tillandsia-evolution-land-to-air]]
 - [[alfalfa-cadmium-sc-multiomics]]
 
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Glycine max, Medicago spp., Pisum sativum, Ficus carica
+**物种**: Oryza sativa, Glycine max, Medicago spp., Pisum sativum
 **方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, CRISPR/Cas9, promoter-GUS assay
 **来源**: DOI:10.1093/jxb/erae107
 **来源类型**: PDF全文 (10.1093_jxb_erae107.pdf)

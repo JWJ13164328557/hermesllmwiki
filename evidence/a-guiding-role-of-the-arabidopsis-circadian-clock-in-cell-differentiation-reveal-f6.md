@@ -1,34 +1,43 @@
 ---
-title: "These results suggest that the circa- dian clock is generally involved in the process of cell differ"
-created: 2026-08-25
+title: "The circadian clock is generally involved in the process of cell differentiation not only …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]"
 doi: "10.1016/j.celrep.2022.111059"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Citrus spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Nicotiana tabacum", "Physcomitrium patens"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# These results suggest that the circa- dian clock is generally involved in the process of cell differ
+# The circadian clock is generally involved in the process of cell differentiation not only …
 
 ## Claim
-These results suggest that the circa- dian clock is generally involved in the process of cell differentia- tion not only in artiﬁcial VISUAL but also in natural non-VISUAL conditions.
+The circadian clock is generally involved in the process of cell differentiation not only in artificial VISUAL but also in natural non-VISUAL conditions.
 
-## Biological Context
-A guiding role of the Arabidopsis circadian clock in cell differentiation revealed by time-series single-cell RNA sequencing
+## Source
+- 文献: [[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]
+- DOI: 10.1016/j.celrep.2022.111059
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

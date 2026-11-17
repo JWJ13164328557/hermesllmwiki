@@ -1,18 +1,25 @@
-title: An integrative gene regulatory network identifies transcriptional hubs governing
+---
+
+title: An integrative gene regulatory network identifies transcriptional hubs governing the photosynthetic apparatus in rice
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.jgg.2026.03.024
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 33 MINUTES 04 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["An integrative gene regulatory 网络 identifies transcriptional hubs governing"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 58 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["一个综合的基因调控网络识别转录枢纽，"]
-aliases_extra: ["An integrative gene regulatory network identifies transcriptional hubs governing"]
+aliases_extra:
+- "An integrative gene regulatory 网络 identifies transcriptional hubs governing"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: An integrative gene regulatory network identifies transcriptional hubs governing
+theme_status: mapped
+theme_basis: tag+keyword
 
-# An integrative gene regulatory network identifies transcriptional hubs governing
+---
+
+# An integrative gene regulatory network identifies transcriptional hubs governing the photosynthetic apparatus in rice
 
 
 
@@ -34,7 +41,7 @@ Photosynthesis fuels crop growth and yield, yet the regulatory networks coordina
 - [[b6-O0Kt-jSykCafIUhbNCEB3g]]
 - [[cotton-fiber-development-molecular-regulation]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b6-_4lVabIoRyC91sLMxSI_ig]]
 - [[grape-continuous-flowering-pan-sc]]
 - [[ref-The-maize-single‐nucleus-trans]]

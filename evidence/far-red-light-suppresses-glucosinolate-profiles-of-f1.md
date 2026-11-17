@@ -1,34 +1,43 @@
 ---
-title: "Here we found that supplementary FR was conducive to the accumulation of all individual EAAs (7 type"
-created: 2026-09-16
+title: "Here we found that supplementary FR was conducive to the accumulation of all individual …"
+created: 2026-11-01
 type: evidence
-tags: [#hormone-signaling, papers]
+themes: ["hormone-signaling"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["hormone-signaling", "papers"]
 source: "[[far-red-light-suppresses-glucosinolate-profiles-of]]"
 doi: "10.1016/j.envexpbot.2021.104507"
-species: [Arabidopsis thaliana, Solanum lycopersicum, Brassica napus]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Solanum lycopersicum", "Brassica napus"]
+primary_species: "Solanum lycopersicum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Here we found that supplementary FR was conducive to the accumulation of all individual EAAs (7 type
+# Here we found that supplementary FR was conducive to the accumulation of all individual …
 
 ## Claim
 Here we found that supplementary FR was conducive to the accumulation of all individual EAAs (7 types), most of the individual NEAAs (16 types) in Chinese kale.
 
-## Biological Context
-Far-red light suppresses glucosinolate profiles of Chinese kale 通过 inhibiting genes related to glucosinolate 生物合成
+## Source
+- 文献: [[far-red-light-suppresses-glucosinolate-profiles-of]]
+- DOI: 10.1016/j.envexpbot.2021.104507
+- 主要物种: Solanum lycopersicum
 
-## Supporting Evidence
-*Source: [[far-red-light-suppresses-glucosinolate-profiles-of]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

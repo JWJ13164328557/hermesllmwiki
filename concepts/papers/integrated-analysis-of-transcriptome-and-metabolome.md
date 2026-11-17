@@ -1,15 +1,22 @@
-title: "Integrated Analysis of Transcriptome and Metabolome to Unveil Impact on Enhancing Grape Aroma Quality with Synthetic Aux"
+---
+title: 'Integrated Analysis of Transcriptome and Metabolome to Unveil Impact on Enhancing Grape Aroma Quality with Synthetic Auxin: Spotlight the Mediation of ABA in Crosstalk with Auxin'
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1021/acs.jafc.3c06846
-pmid: 
-confidence: medium
-aliases: ["转录组和代谢组综合分析揭示合成生长素对葡萄香气品质的影响：聚焦ABA与生长素在串扰中的介导"]
+pmid: ''
+aliases:
+- 转录组和代谢组综合分析揭示合成生长素对葡萄香气品质的影响：聚焦ABA与生长素在串扰中的介导
+title_fixed_from: Integrated Analysis of Transcriptome and Metabolome to Unveil Impact on Enhancin
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 整合 分析 of Transcriptome and Metabolome to 揭示 Impact on Enhancing Grape Aroma Quality with Synthetic Auxin: Spotlight the Mediation of ABA in Crosstalk with Auxin
+---
 
-> Integrated Analysis of Transcriptome and Metabolome to Unveil Impact on Enhancing Grape Aroma Quality with Synthetic Auxin: Spotlight the Mediation of ABA in Crosstalk with Auxin
+# Integrated Analysis of Transcriptome and Metabolome to Unveil Impact on Enhancing Grape Aroma Quality with Synthetic Auxin: Spotlight the Mediation of ABA in Crosstalk with Auxin
 
 ## 论文信息
 - **期刊**: Journal of Agricultural and Food Chemistry (2024)

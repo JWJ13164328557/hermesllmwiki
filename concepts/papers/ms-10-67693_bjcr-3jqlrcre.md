@@ -1,14 +1,21 @@
 ---
-title: In-Vitro Optimization Strategies For Micropropagation Of Elaeocarpus Ganitrus (R
+
+title: 'In-Vitro Optimization Strategies For Micropropagation Of Elaeocarpus Ganitrus (Rudraksha): Valuable Medicinal Plant'
 created: 2026-09-14
 type: concept
-tags: [papers]
+themes: [developmental-biology, hormone-signaling]
+tags:
+- papers
 doi: 10.67693/bjcr-3jqlrcre
 confidence: moderate
 source: openalex
+title_fixed_from: In-Vitro Optimization Strategies For Micropropagation Of Elaeocarpus Ganitrus (R
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# In-Vitro Optimization Strategies For Micropropagation Of Elaeocarpus Ganitrus (Rudraksha): Valuable Medicinal Plant
+# In-Vitro Optimization Strategies For Micropropagation Of Elaeocarpus Ganitrus (Rudraksha): Valuable Medicinal Plantudraksha): Valuable Medicinal Plant
 
 ## 论文信息
 - **期刊**: British Journal of Contemporary Research (2026)
@@ -22,7 +29,7 @@ source: openalex
 
 ## 深度提炼
 
-**物种**: Pinus spp., Ficus carica
+**物种**: Pinus spp.
 **方法**: molecular biology / biochemistry
 **来源**: DOI:10.67693/bjcr-3jqlrcre
 **来源类型**: PDF全文 (10.67693_bjcr-3jqlrcre.pdf)

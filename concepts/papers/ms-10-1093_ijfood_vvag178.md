@@ -1,14 +1,21 @@
 ---
-title: Thermal, Structural, and Functional Interactions of Date Seed Powder-Sucrose Com
+title: Thermal, structural, and functional interactions of date seed powder-sucrose composites produced by thermal treatment
 created: 2026-08-24
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.1093/ijfood/vvag178
 confidence: moderate
 source: openalex
+status: pollution
+title_fixed_from: Thermal, Structural, and Functional Interactions of Date Seed Powder-Sucrose Com
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Thermal, Structural, and Functional Interactions of Date Seed Powder-Sucrose Composites Produced by Thermal Treatment
+# Thermal, structural, and functional interactions of date seed powder-sucrose composites produced by thermal treatmentposites Produced by Thermal Treatment
 
 ## 论文信息
 - **期刊**: International Journal of Food Science & Technology (2026)

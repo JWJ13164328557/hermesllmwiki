@@ -1,13 +1,19 @@
 ---
+
 title: Proceedings of the National Academy of Sciences
 created: 2026-06-04
 type: concept
+themes: [single-cell-spatial-omics]
 tags: [papers, dpdf]
 doi: 10.1073/pnas
 confidence: moderate
 source: dPDF
 species: —
 methods: —
+status: pollution
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
 # Proceedings of the National Academy of Sciences
@@ -23,7 +29,7 @@ methods: —
 
 ## 深度提炼
 
-**物种**: Glycine max, Ficus carica
+**物种**: Glycine max
 **方法**: single-cell RNA-seq
 **来源**: DOI:10.1073/pnas
 **来源类型**: PDF全文 (10.1073_pnas.pdf)

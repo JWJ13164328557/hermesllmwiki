@@ -1,12 +1,18 @@
+---
 title: Involvement of Arabidopsis histone deacetylase HDA6 in ABA and salt stress respo
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation, stress-immunity]
+tags: [epigenetics-gene-regulation, papers]
 doi: 10.1093/jxb/erq154
 confidence: medium
-aliases: ["Involvement of Arabidopsis histone deacetylase HDA6 in ABA and salt stress respo"]
+aliases: [Involvement of Arabidopsis histone deacetylase HDA6 in ABA and salt stress respo]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Involvement of Arabidopsis histone deacetylase HDA6 in ABA and salt stress respo
 
@@ -41,7 +47,7 @@ To whom correspondence should be addressed: E-mail:kewu@ntu.edu.tw Received 2010
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum
 **方法**: ChIP-seq/qPCR, qRT-PCR validation, RNAi/VIGS, overexpression
 **来源**: DOI:10.1093/jxb/erq154
 **来源类型**: PDF全文 (10.1093_jxb_erq154.pdf)

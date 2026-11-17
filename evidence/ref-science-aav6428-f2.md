@@ -1,34 +1,43 @@
 ---
-title: "Pr1 markers (Rmf and C3h3) were expressed at low levels during premeiotic interphase and early lepto"
-created: 2026-09-16
+title: "We conclude that the Pr1 and Pr2 transitions are cell autonomous and can proceed in the …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-science-aav6428]]"
 doi: "10.1126/science.aav6428"
-species: [Zea mays, Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Zea mays"]
+primary_species: "Zea mays"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Pr1 markers (Rmf and C3h3) were expressed at low levels during premeiotic interphase and early lepto
+# We conclude that the Pr1 and Pr2 transitions are cell autonomous and can proceed in the …
 
 ## Claim
-Pr1 markers (Rmf and C3h3) were expressed at low levels during premeiotic interphase and early leptotene, up-regulated in 7 of 17 florets (41%) in the “leptotene with a central nucleolus” stage, and strongly expressed at all later cytological stages; we conclude that the Pr1 transition occurred within the leptotene with a central nucleolus stage.
+We conclude that the Pr1 and Pr2 transitions are cell autonomous and can proceed in the absence of normal meiotic progression.
 
-## Biological Context
-Defining the developmental program leading to meiosis in maize.
+## Source
+- 文献: [[ref-science-aav6428]]
+- DOI: 10.1126/science.aav6428
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[ref-science-aav6428]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,14 +1,24 @@
-title: High-Resolution Expression Map of the Arabidopsis Root Reveals Alternative Splic
+---
+title: High-Resolution Expression Map of the Arabidopsis Root Reveals Alternative Splicing and lincRNA Regulation
 created: 2026-05-28
 type: concept
-tags: [#genomics-evolution, papers]
+themes: []
+tags:
+- genomics-evolution
+- papers
 doi: 10.1016/j.devcel.2016.10.012
 confidence: medium
-aliases: ["High-Resolution Expression Map of the Arabidopsis Root Reveals Alternative Splic"]
+aliases:
+- High-Resolution Expression Map of the Arabidopsis Root Reveals Alternative Splic
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: High-Resolution Expression Map of the Arabidopsis Root Reveals Alternative Splic
+theme_status: out-of-scope
+theme_basis: tag+keyword
 
-# High-Resolution Expression Map of the Arabidopsis Root Reveals Alternative Splic
+---
+
+# High-Resolution Expression Map of the Arabidopsis Root Reveals Alternative Splicing and lincRNA Regulation
 
 
 
@@ -47,16 +57,16 @@ PNB and UO conceptualized the study; SL and UO designed the computational approa
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Ficus carica
+**物种**: Arabidopsis thaliana
 **方法**: transcriptomics (RNA-seq), proteomics, genomics, qRT-PCR validation, overexpression
 **来源**: DOI:10.1016/j.devcel.2016.10.012
 **来源类型**: PDF全文 (PIIS153458071630750X.pdf)

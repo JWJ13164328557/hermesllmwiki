@@ -1,15 +1,19 @@
-title: "The role of light intensity in mediating ascorbic acid content during postharvest tomato ripening: A transcriptomic anal"
+---
+title: 'The role of light intensity in mediating ascorbic acid content during postharvest tomato ripening: A transcriptomic anal'
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [metabolism-natural-products]
+tags: [genomics-evolution, papers]
 doi: 10.1016/j.postharvbio.2021.111622
-pmid: 
-confidence: medium
-aliases: ["The 作用 of light intensity in mediating ascorbic acid content 过程中 postharvest tomato ripening: A transcriptomic 分析"]
+pmid: ''
+aliases: ['The 作用 of light intensity in mediating ascorbic acid content 过程中 postharvest tomato ripening: A transcriptomic 分析']
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The 作用 of light intensity in mediating ascorbic acid content 过程中 postharvest tomato ripening: A transcriptomic 分析
+species_status: unverified
+---
 
-> The role of light intensity in mediating ascorbic acid content during postharvest tomato ripening: A transcriptomic analysis
+# The role of light intensity in mediating ascorbic acid content during postharvest tomato ripening: A transcriptomic analysis
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2021)

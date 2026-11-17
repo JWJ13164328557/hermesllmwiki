@@ -1,14 +1,24 @@
-title: Members of the NPF3 transporter subfamily encode pathogen-inducible nitrate/nitr
+---
+title: Members of the NPF3 Transporter Subfamily Encode Pathogen-Inducible Nitrate/Nitrite Transporters in Grapevine and Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [developmental-biology, stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1093/pcp/pct167
 confidence: medium
-aliases: ["Members of the NPF3 transporter subfamily encode pathogen-inducible nitrate/nitr"]
+aliases:
+- Members of the NPF3 transporter subfamily encode pathogen-inducible nitrate/nitr
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Members of the NPF3 transporter subfamily encode pathogen-inducible nitrate/nitr
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Members of the NPF3 transporter subfamily encode pathogen-inducible nitrate/nitr
+---
+
+# Members of the NPF3 Transporter Subfamily Encode Pathogen-Inducible Nitrate/Nitrite Transporters in Grapevine and Arabidopsis
 
 
 
@@ -29,11 +39,11 @@ Vitis vinifera, the major grapevine species cultivated for wine production, is v
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

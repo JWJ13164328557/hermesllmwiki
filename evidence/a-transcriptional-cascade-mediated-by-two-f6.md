@@ -1,34 +1,43 @@
 ---
-title: "HY5 directly binds to the promoters of PSY1, ZISO, CRTISO, LCYE, and LCYB to regulate carotenoid bio"
-created: 2026-08-25
+title: "Knockout of SlAP2c in both the “MicroTom” and “Ailsa Craig” backgrounds resulted in …"
+created: 2026-11-03
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["epigenetics-gene-regulation", "papers"]
 source: "[[a-transcriptional-cascade-mediated-by-two]]"
 doi: "10.1111/jipb.13650"
-species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
-evidence_type: "DNA binding/regulation"
-quality: "medium"
-genes: []
-compounds: [carotenoid]
+species: ["Solanum lycopersicum", "Citrus spp.", "Nicotiana tabacum"]
+primary_species: "Solanum lycopersicum"
+evidence_type: "genetic perturbation"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "high"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["SlAP2c"]
+compounds: ["lycopene"]
+evidence_type_confidence: "high"
+evidence_type_prior: ""
+
 ---
 
-# HY5 directly binds to the promoters of PSY1, ZISO, CRTISO, LCYE, and LCYB to regulate carotenoid bio
+# Knockout of SlAP2c in both the “MicroTom” and “Ailsa Craig” backgrounds resulted in …
 
 ## Claim
-HY5 directly binds to the promoters of PSY1, ZISO, CRTISO, LCYE, and LCYB to regulate carotenoid biosynthesis (Wang et al., 2021).
+Knockout of SlAP2c in both the “MicroTom” and “Ailsa Craig” backgrounds resulted in greater lycopene accumulation, whereas overexpression of this gene led to orangeripe fruit with significantly lower lycopene contents than the wild type.
 
-## Biological Context
-A transcriptional cascade 介导的 by two APETALA2 family members orchestrates 类胡萝卜素 生物合成 in tomato
+## Source
+- 文献: [[a-transcriptional-cascade-mediated-by-two]]
+- DOI: 10.1111/jipb.13650
+- 主要物种: Solanum lycopersicum
 
-## Supporting Evidence
-*Source: [[a-transcriptional-cascade-mediated-by-two]]*
+## 标注信息
+- 证据类型: genetic perturbation
+- 论断角色: finding
+- 论断证据完备度: high（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: SlAP2c
+- 自动标注化合物: lycopene
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

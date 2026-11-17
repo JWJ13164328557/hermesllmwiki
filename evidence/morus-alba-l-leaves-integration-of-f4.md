@@ -1,34 +1,43 @@
 ---
-title: "enrichment signiﬁcance, we found fewer diﬀerentially expressed genes associated with the ﬂavonoid sy"
-created: 2026-09-16
+title: "Compared with previous studies, we found more genes related to certain key enzymes in …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[morus-alba-l-leaves-integration-of]]"
 doi: "10.3389/fpls.2021.736332"
-species: [Arabidopsis thaliana, Glycine max, Fragaria × ananassa]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Glycine max", "Fragaria × ananassa"]
+primary_species: "Morus alba"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: []
+compounds: ["flavonoid"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# enrichment signiﬁcance, we found fewer diﬀerentially expressed genes associated with the ﬂavonoid sy
+# Compared with previous studies, we found more genes related to certain key enzymes in …
 
 ## Claim
-enrichment signiﬁcance, we found fewer diﬀerentially expressed genes associated with the ﬂavonoid synthesis pathway at the lowest temperature (Supplementary Figure 6).
+Compared with previous studies, we found more genes related to certain key enzymes in flavonoid synthesis.
 
-## Biological Context
-Morus alba L. Leaves – 整合 of Their Transcriptome and Metabolomics Dataset: Investigating Potential Genes 参与的 in 类黄酮 生物合成 at Different Harvest Times
+## Source
+- 文献: [[morus-alba-l-leaves-integration-of]]
+- DOI: 10.3389/fpls.2021.736332
+- 主要物种: Morus alba
 
-## Supporting Evidence
-*Source: [[morus-alba-l-leaves-integration-of]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: flavonoid
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

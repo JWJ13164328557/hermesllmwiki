@@ -1,9 +1,18 @@
+---
 title: Serial Spatial Transcriptomes Reveal Regulatory Transitions in Maize Leaf Develo
-tags: [#single-cell-spatial, papers]
-aliases: ["序列空间转录组揭示玉米叶Develo的调控转变"]
+tags: [papers]
+aliases: [序列空间转录组揭示玉米叶Develo的调控转变]
 type: paper
+themes: [developmental-biology, single-cell-spatial-omics]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Serial Spatial Transcriptomes Reveal Regulatory Transitions in Maize Leaf Develo
 
@@ -41,9 +50,9 @@ Zea mays, Plant Leaves, Transcriptome, Gene Expression Regulation, Plant, Merist
 ## 相关文献
 
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
-- [[plant-sc-omics-opportunities-challenges]]
+- [[ref-pnas-2310163120]]
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]] 🌱maize
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]] 🌱maize
-- [[spinach-inflorescence-spatial]] 🌱maize
+- [[b3-l7tWWswvI2rZ5ba_4V2BsQ]] 🌱maize
 - [[b3-G2N-JJNNVwoyPpAiZEWa8w]]
-- [[b3-LVHtmtQm-_znqLP8XuPMww]]
+- [[cr-10-1038-s41592-024-02380-w]]

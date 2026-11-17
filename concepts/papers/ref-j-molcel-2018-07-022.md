@@ -1,19 +1,23 @@
-title: A Growing Toolbox to Image Gene Expression in Single Cells: Sensitive Approaches
+---
+
+title: 'A Growing Toolbox to Image Gene Expression in Single Cells: Sensitive Approaches for Demanding Challenges'
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1016/j.molcel.2018.07.022
 confidence: medium
-aliases: ["Growing Toolbox Image Gene 表达 中 Single Cells: Sensitive Approaches"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 42 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 26 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 40 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["在单个细胞中成像基因表达的不断增长的工具箱：敏感方法"]
-aliases_extra: ["A Growing Toolbox to Image Gene Expression in Single Cells: Sensitive Approaches"]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: 'A Growing Toolbox to Image Gene Expression in Single Cells: Sensitive Approaches'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# A Growing Toolbox to Image Gene Expression in Single Cells: Sensitive Approaches
+---
+
+# A Growing Toolbox to Image Gene Expression in Single Cells: Sensitive Approaches for Demanding Challenges
 
 
 
@@ -34,11 +38,11 @@ The spatiotemporal regulation of gene expression is key to many biological proce
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

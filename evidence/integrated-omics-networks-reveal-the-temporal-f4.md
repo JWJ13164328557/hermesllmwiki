@@ -1,34 +1,43 @@
 ---
-title: "In BRZ- treated seedlings, we found that BES1 predominantly exists in its phosphorylated form, while"
-created: 2026-09-16
+title: "We found that the number of differentially expressed (DE) transcripts, proteins, and …"
+created: 2026-11-01
 type: evidence
-tags: [#hormone-signaling, papers]
+themes: ["hormone-signaling"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["hormone-signaling", "papers"]
 source: "[[integrated-omics-networks-reveal-the-temporal]]"
 doi: "10.1038/s41467-021-26165-3"
-species: [Nicotiana tabacum, Citrus spp., Ficus carica]
+species: ["Nicotiana tabacum"]
+primary_species: "Nicotiana tabacum"
 evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# In BRZ- treated seedlings, we found that BES1 predominantly exists in its phosphorylated form, while
+# We found that the number of differentially expressed (DE) transcripts, proteins, and …
 
 ## Claim
-In BRZ- treated seedlings, we found that BES1 predominantly exists in its phosphorylated form, while BL-treated seedlings showed an accumulation of dephosphorylated BES1 over time.
+We found that the number of differentially expressed (DE) transcripts, proteins, and phosphosites varied depending on the time point.
 
-## Biological Context
-整合 omics networks 揭示 the temporal signaling events of brassinosteroid 响应 in Arabidopsis
+## Source
+- 文献: [[integrated-omics-networks-reveal-the-temporal]]
+- DOI: 10.1038/s41467-021-26165-3
+- 主要物种: Nicotiana tabacum
 
-## Supporting Evidence
-*Source: [[integrated-omics-networks-reveal-the-temporal]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

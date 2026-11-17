@@ -1,34 +1,43 @@
 ---
-title: "Interestingly, MYB25-like was down-regulated in ﬁbre-deﬁcient mutants of hormone- or sugar-signallin"
-created: 2026-08-25
+title: "These studies provide new insights into heterogeneity of gene expression between …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[single-cell-scp-rna-scp-seq-reveals-fate-determination-control-of-an-individu]]"
 doi: "10.1111/pbi.13918"
-species: [Oryza sativa, Zea mays, Solanum lycopersicum]
-evidence_type: "genetic perturbation"
-quality: "high"
+species: ["Gossypium hirsutum", "Oryza sativa", "Zea mays"]
+primary_species: "Gossypium hirsutum"
+evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Interestingly, MYB25-like was down-regulated in ﬁbre-deﬁcient mutants of hormone- or sugar-signallin
+# These studies provide new insights into heterogeneity of gene expression between …
 
 ## Claim
-Interestingly, MYB25-like was down-regulated in ﬁbre-deﬁcient mutants of hormone- or sugar-signalling genes.
+These studies provide new insights into heterogeneity of gene expression between different cell types, and molecular trajectory of cell differentiation during development.
 
-## Biological Context
-Single‐cell <scp>RNA</scp>‐seq reveals fate determination control of an individual fibre cell initiation in cotton (<i>Gossypium hirsutum</i>)
+## Source
+- 文献: [[single-cell-scp-rna-scp-seq-reveals-fate-determination-control-of-an-individu]]
+- DOI: 10.1111/pbi.13918
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[single-cell-scp-rna-scp-seq-reveals-fate-determination-control-of-an-individu]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: genetic perturbation
-**Level**: high
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

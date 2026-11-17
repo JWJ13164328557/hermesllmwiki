@@ -1,14 +1,24 @@
-title: Transcriptome dynamics of the stomatal lineage: birth, amplification, and termin
+---
+title: 'Transcriptome Dynamics of the Stomatal Lineage: Birth, Amplification, and Termination of a Self-Renewing Population'
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1016/j.devcel.2015.01.025
 confidence: medium
-aliases: ["Transcriptome dynamics of the stomatal lineage: birth, amplification, and termin"]
+aliases:
+- 'Transcriptome dynamics of the stomatal lineage: birth, amplification, and termin'
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: 'Transcriptome dynamics of the stomatal lineage: birth, amplification, and termin'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Transcriptome dynamics of the stomatal lineage: birth, amplification, and termin
+---
+
+# Transcriptome Dynamics of the Stomatal Lineage: Birth, Amplification, and Termination of a Self-Renewing Population
 
 
 
@@ -47,11 +57,11 @@ Supplemental Information includes five Supplemental Figures, four Supplemental T
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

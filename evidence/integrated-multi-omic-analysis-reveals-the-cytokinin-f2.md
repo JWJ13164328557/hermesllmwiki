@@ -1,34 +1,43 @@
 ---
-title: "Notably, the most significant increase in the Fig."
-created: 2026-08-25
+title: "The majority of the augmented metabolites belonged to the category of amino acids and …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["hormone-signaling", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[integrated-multi-omic-analysis-reveals-the-cytokinin]]"
 doi: "10.1016/j.foodres.2023.113680"
-species: [Zea mays, Malus domestica, Populus spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Fragaria × ananassa", "Malus domestica", "Populus spp."]
+primary_species: "Fragaria × ananassa"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Notably, the most significant increase in the Fig.
+# The majority of the augmented metabolites belonged to the category of amino acids and …
 
 ## Claim
-Notably, the most significant increase in the Fig.
+The majority of the augmented metabolites belonged to the category of amino acids and their derivatives.
 
-## Biological Context
-整合 multi-omic 分析 揭示 the cytokinin and sucrose metabolism-介导的 调控 of flavone glycoside 生物合成 by MeJA exposure in Ficus pandurata Hance
+## Source
+- 文献: [[integrated-multi-omic-analysis-reveals-the-cytokinin]]
+- DOI: 10.1016/j.foodres.2023.113680
+- 主要物种: Fragaria × ananassa
 
-## Supporting Evidence
-*Source: [[integrated-multi-omic-analysis-reveals-the-cytokinin]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

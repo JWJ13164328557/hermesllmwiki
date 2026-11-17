@@ -1,12 +1,18 @@
+---
 title: Single-cell insights into plant growth, adaptation, and evolution.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1111/jipb.70272
 confidence: medium
-aliases: ["Single-cell insights into plant growth, adaptation, and evolution."]
+aliases: [sc-multiomics-review-jipb, Single-cell insights into plant growth, adaptation, and evolution.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Single-cell insights into plant growth, adaptation, and evolution.
 
@@ -32,8 +38,8 @@ The cellular heterogeneity associated with plant form and function is often over
 - [[reed-b-chromosome-sc-spatial]]
 - [[arabidopsis-root-sc-atlas-review]]
 - [[b3-Lj9ToIUf0z9y77oj4ELKlQ]]
-- [[b3-Q__01uAq9RU85RON6eeUaQ]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
+- [[ref-s13059-025-03811-3]]
+- [[poplar-xylem-sc-spatial-gb]]
 
 
 ## 深度提炼

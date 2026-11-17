@@ -1,14 +1,24 @@
-title: Histone deacetylase HDA9 negatively regulates salt and drought stress responsive
+---
+title: Histone deacetylase HDA9 negatively regulates salt and drought stress responsiveness in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation, stress-immunity]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1093/jxb/erv562
 confidence: medium
-aliases: ["Histone deacetylase HDA9 negatively regulates salt and drought stress responsive"]
+aliases:
+- Histone deacetylase HDA9 negatively regulates salt and drought stress responsive
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Histone deacetylase HDA9 negatively regulates salt and drought stress responsive
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Histone deacetylase HDA9 negatively regulates salt and drought stress responsive
+---
+
+# Histone deacetylase HDA9 negatively regulates salt and drought stress responsiveness in Arabidopsis
 
 
 
@@ -38,7 +48,7 @@ Histone modification is an important epigenetic regulation in higher plants adap
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa
 **方法**: transcriptomics (RNA-seq), proteomics, qRT-PCR validation, Y2H, RNAi/VIGS, overexpression, knockout/mutant, subcellular localization
 **来源**: DOI:10.1093/jxb/erv562
 **来源类型**: PDF全文 (10.1093_jxb_erv562.pdf)

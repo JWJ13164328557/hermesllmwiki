@@ -1,15 +1,21 @@
-title: "The CsHSFA‐CsJAZ6 module‐mediated high temperature regulates flavonoid metabolism in Camellia sinensis"
+---
+title: The CsHSFA-CsJAZ6 module-mediated high temperature regulates flavonoid metabolism in Camellia sinensis
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/pce.14610
-pmid: 
-confidence: medium
-aliases: ["The CsHSFA‐CsJAZ6 模块‐介导的 high temperature 调控 类黄酮 metabolism in Camellia sinensis"]
+pmid: ''
+aliases:
+- The CsHSFA‐CsJAZ6 模块‐介导的 high temperature 调控 类黄酮 metabolism in Camellia sinensis
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The CsHSFA‐CsJAZ6 模块‐介导的 high temperature 调控 类黄酮 metabolism in Camellia sinensis
+---
 
-> The CsHSFA‐CsJAZ6 module‐mediated high temperature regulates flavonoid metabolism in Camellia sinensis
+# The CsHSFA‐CsJAZ6 module‐mediated high temperature regulates flavonoid metabolism in Camellia sinensis
 
 ## 论文信息
 - **期刊**: Plant, Cell &amp; Environment (2023)
@@ -25,9 +31,18 @@ AbstractHigh temperatures (HTs) seriously affect the yield and quality of tea. C
 
 ## 深度提炼
 
-**方法**: Microscopy
+**主要物种**: Camellia sinensis
+**物种**: Camellia sinensis, Nicotiana tabacum, Arabidopsis thaliana, Oryza sativa, Lilium spp.
+**方法**: metabolomics (LC-MS/GC-MS), qRT-PCR validation, Y2H, BiFC, Co-IP, EMSA, dual-luciferase reporter, overexpression
+**来源**: DOI:10.1111/pce.14610
+**来源类型**: PDF全文 (5 CsHSFA-CsJAZ6模块介导的高温调控山茶中的类黄酮代谢.pdf)
 
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Collectively, our results suggest that CsHSFA1b and CsHSFA2 negatively regulate catechin biosynthesis.
+2. Collectively, these results imply that CsJAZ6 physically interacts with both CsEGL3 and CsTTG1.
+3. Taken together, these findings suggest that FIGURE 5 Suppression of CsJAZ6 increases catechin accumulation.
+4. Together, our data suggest that CsHSFA1b and CsHSFA2 could repress JA signalling mainly through their binding to the CsJAZ6 promoter and activating its transcription.
+5. Also, we found that in CsJAZ6‐ silenced leaves, the expression of almost all flavonoid biosynthetic genes was upregulated (Figure 5b).
+6. Jasmonate (JA), a defensive hormone, plays a key role in plant adaption to environmental stress.
+7. Our study reported that CsJAZ6 directly interacts with CsEGL3 and CsTTG1 and thereby reduces catechin accumulation.
+8. As the terminal components of heat shock signal transmission, heat shock factors (HSFs) directly regulate thermoresponsive gene expression after perception of ambient HT and as such play a central role in the heat shock response process.

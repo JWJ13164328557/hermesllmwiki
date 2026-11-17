@@ -1,14 +1,21 @@
 ---
-title: Nano-TPD for precision protein degradation via endogenous or exogenous triggered
+title: Nano-TPD for precision protein degradation via endogenous or exogenous triggered release
 created: 2026-06-18
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.20517/microstructures.2025.173
 confidence: moderate
 source: openalex
+status: pollution
+title_fixed_from: Nano-TPD for precision protein degradation via endogenous or exogenous triggered
+theme_status: out-of-scope
+theme_basis: none
+
 ---
 
-# Nano-TPD for precision protein degradation via endogenous or exogenous triggered release
+# Nano-TPD for precision protein degradation via endogenous or exogenous triggered release release
 
 ## 论文信息
 - **期刊**: Microstructures (2026)

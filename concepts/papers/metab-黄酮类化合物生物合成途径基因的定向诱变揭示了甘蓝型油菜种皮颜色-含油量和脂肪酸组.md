@@ -1,12 +1,21 @@
-title: "黄酮类化合物生物合成途径基因的定向诱变揭示了甘蓝型油菜种皮颜色、含油量和脂肪酸组成的功能差异"
-journal: "unknown"
-year: ""
+---
+title: 黄酮类化合物生物合成途径基因的定向诱变揭示了甘蓝型油菜种皮颜色、含油量和脂肪酸组成的功能差异
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [Brassica]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

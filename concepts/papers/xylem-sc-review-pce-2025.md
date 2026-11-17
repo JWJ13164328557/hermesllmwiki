@@ -1,14 +1,26 @@
+---
 title: 单细胞转录组解码被子植物木质部发育
 created: 2026-05-29
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags:
+- developmental-biology
+- papers
 doi: 10.1111/pce.70169
-aliases: ["木质部发育scRNA-seq综述", "Decoding Xylem Development"]
+aliases:
+- daily-40905378
+- 木质部发育scRNA-seq综述
+- Decoding Xylem Development
 confidence: high
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: 'Decoding Xylem Development in Flowering Plants: Insights From Single-Cell Transcriptomics'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 单细胞转录组解码被子植物木质部发育
+---
+
+# Decoding Xylem Development in Flowering Plants: Insights From Single-Cell Transcriptomics
 
 
 
@@ -37,3 +49,6 @@ updated: "2026-05-29"
 
 
 **全文来源**: PubMed摘要
+
+## 摘要
+Single-cell RNA sequencing (scRNA-seq) has emerged as a transformative tool for decoding plant development, particularly in elucidating xylem differentiation. By capturing transcriptomic changes at single-cell resolution, scRNA-seq enables reconstruction of developmental trajectories across diverse plant tissues. In this review, we summarize recent advances in the application of scRNA-seq to study both primary and secondary xylem development in monocots and eudicots. These studies have revealed distinct xylem cell types, including vessel elements, libriform fibers, and ray parenchyma cells, and provided insight into their lineage relationships. We also highlight key technical and analytical challenges that limit cross-study comparisons, including inconsistent bioinformatic pipelines, variability in protoplasting efficiency, and the use of potentially misannotated marker genes. To address these limitations, we discuss the integration of in situ transcriptomic profiling using laser microdissection, which provides more accurate cell-type annotation and supports the current best working model of xylem developmental lineages. Finally, we suggest future directions for improving xylem developmental studies, including deeper integration of spatial and single-cell technologies to overcome current limitations in resolving lignified tissues and to better understand xylem responses to environmental perturbations.

@@ -1,34 +1,43 @@
 ---
-title: "The xylem cell (XYC) mark- ers TraesCS5B03G1167000 and TraesCS5A03G1099500 (TARGET OF MONOPTEROS 5, "
-created: 2026-09-16
+title: "In tetraploid wheat, AGL6 interacts with multiple classes of MADS-box genes within the …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[b3-qnkDB6_AeT3N0ZaAwqrgng]]"
 doi: "10.1007/s44412-025-00004-4"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Zea mays"]
+primary_species: "Triticum aestivum"
+evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["AGL6"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# The xylem cell (XYC) mark- ers TraesCS5B03G1167000 and TraesCS5A03G1099500 (TARGET OF MONOPTEROS 5, 
+# In tetraploid wheat, AGL6 interacts with multiple classes of MADS-box genes within the …
 
 ## Claim
-The xylem cell (XYC) mark- ers TraesCS5B03G1167000 and TraesCS5A03G1099500 (TARGET OF MONOPTEROS 5, TMO5) were specifi- cally enriched in clusters 8, 14, and 16, whereas phloem cell (PHC) markers TraesCS5A03G0956200, TraesC- S5D03G0223900, TraesCS5B03G0219200, and TraesCS1B03G0951500 / TraesCS1A03G0827500 (OBP2) were predominantly expressed in clusters 7, 11, and 18 (Fig.
+In tetraploid wheat, AGL6 interacts with multiple classes of MADS-box genes within the ABCDE model, coordinating their functions to regulate floral organ differentiation (Kong et al.
 
-## Biological Context
-A single-cell transcriptomic landscape characterizes the vegetative-to-reproduct
+## Source
+- 文献: [[b3-qnkDB6_AeT3N0ZaAwqrgng]]
+- DOI: 10.1007/s44412-025-00004-4
+- 主要物种: Triticum aestivum
 
-## Supporting Evidence
-*Source: [[b3-qnkDB6_AeT3N0ZaAwqrgng]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: AGL6
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

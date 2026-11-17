@@ -1,15 +1,22 @@
-title: "Integrated transcriptomics and metabolomics uncover the molecular basis of flavonoid accumulation in the rhizomes of two"
+---
+title: Integrated transcriptomics and metabolomics uncover the molecular basis of flavonoid accumulation in the rhizomes of two Cymbidium tortisepalum var. longibracteatum cultivars
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.scienta.2021.110738
-pmid: 
-confidence: medium
-aliases: ["整合转录组学和代谢组学揭示了两个Cymbidium tortisepalum var. longibracteatum品种根茎中类黄酮积累的分子基础"]
+pmid: ''
+aliases:
+- 整合转录组学和代谢组学揭示了两个Cymbidium tortisepalum var. longibracteatum品种根茎中类黄酮积累的分子基础
+title_fixed_from: Integrated transcriptomics and metabolomics uncover the molecular basis of flavo
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 整合 transcriptomics and metabolomics uncover the 分子 basis of 类黄酮 积累 in the rhizomes of two Cymbidium tortisepalum var. longibracteatum cultivars
+---
 
-> Integrated transcriptomics and metabolomics uncover the molecular basis of flavonoid accumulation in the rhizomes of two Cymbidium tortisepalum var. longibracteatum cultivars
+# Integrated transcriptomics and metabolomics uncover the molecular basis of flavonoid accumulation in the rhizomes of two Cymbidium tortisepalum var. longibracteatum cultivars
 
 ## 论文信息
 - **期刊**: Scientia Horticulturae (2022)

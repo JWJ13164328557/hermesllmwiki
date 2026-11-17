@@ -1,34 +1,43 @@
 ---
-title: "We show that the auxin-signalling pathway, which is important for pattern formation, growth and deve"
-created: 2026-09-16
+title: "Iii, Species-specific treatments for tissue permeabilization are applied to allow a …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["developmental-biology", "papers"]
 source: "[[ref-nplants-2017-61]]"
 doi: "10.1038/nplants.2017.61"
-species: [Arabidopsis thaliana, Populus spp., Picea spp.]
-evidence_type: "expression/regulation"
+species: ["Arabidopsis thaliana", "Populus spp.", "Picea spp."]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: [auxin]
+compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# We show that the auxin-signalling pathway, which is important for pattern formation, growth and deve
+# Iii, Species-specific treatments for tissue permeabilization are applied to allow a …
 
 ## Claim
-We show that the auxin-signalling pathway, which is important for pattern formation, growth and development was signiﬁcantly enriched in the macro-categories meristematic area and stem compared with ﬂowers (Supplementary Fig.
+Iii, Species-specific treatments for tissue permeabilization are applied to allow a controlled vertical diffusion of transcripts to the array surface where they bind to the corresponding barcoded oligonucleotides.
 
-## Biological Context
-Spatially resolved transcriptome profiling in model plant species.
+## Source
+- 文献: [[ref-nplants-2017-61]]
+- DOI: 10.1038/nplants.2017.61
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-nplants-2017-61]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

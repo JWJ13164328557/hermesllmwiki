@@ -1,34 +1,43 @@
 ---
-title: "Thirteen groups are required to distinguish five competing hypotheses (Table 1)."
-created: 2026-09-16
+title: "If centriole loss lowers colony counts, the centriole is required for reprogramming and …"
+created: 2026-11-01
 type: evidence
-tags: [papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[ms-10-65649_jlokccxi]]"
 doi: "10.65649/jlokccxi"
-species: [Plant (unspecified)]
+species: ["Plant (unspecified)"]
+primary_species: "Plant (unspecified)"
 evidence_type: "expression/regulation"
-quality: "medium"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Thirteen groups are required to distinguish five competing hypotheses (Table 1).
+# If centriole loss lowers colony counts, the centriole is required for reprogramming and …
 
 ## Claim
-Thirteen groups are required to distinguish five competing hypotheses (Table 1).
+If centriole loss lowers colony counts, the centriole is required for reprogramming and the hypothesis is wrong.
 
-## Biological Context
-MCARA: The Centriole as a Fourth Counter in Cellular Aging: A Hypothesis
+## Source
+- 文献: [[ms-10-65649_jlokccxi]]
+- DOI: 10.65649/jlokccxi
+- 主要物种: Plant (unspecified)
 
-## Supporting Evidence
-*Source: [[ms-10-65649_jlokccxi]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,16 +1,25 @@
 ---
-title: 10.1002/advs
+
+title: Transcriptome-Wide Association Uncovers LncRNAs Controlling Seed Weight in Soybean
 created: 2026-06-04
 type: concept
+themes: [developmental-biology, genomics-evolution]
 tags: [papers, dpdf]
 doi: 10.1002/advs
 confidence: moderate
 source: dPDF
 species: —
 methods: —
+needs_review: true
+doi_quality: journal_level
+title_source: pdf_filename
+title_quality: from_pdf_filename
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# 10.1002/advs
+# Transcriptome-Wide Association Uncovers LncRNAs Controlling Seed Weight in Soybean
 
 ## 论文信息
 - **期刊**:  (None)

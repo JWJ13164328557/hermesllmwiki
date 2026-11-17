@@ -1,12 +1,23 @@
+---
 title: The dynamics of gene expression in vertebrate embryogenesis at single-cell resol
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: []
+tags: [developmental-biology, papers]
 doi: 10.1126/science.aar5780
 confidence: medium
-aliases: ["The dynamics of gene expression in vertebrate embryogenesis at single-cell resol"]
-status: draft
-updated: "2026-05-29"
+aliases: [cr-10-1126-science-aar5780, The dynamics of gene expression in vertebrate embryogenesis at single-cell resol]
+status: pollution
+updated: '2026-05-29'
+scope_status: excluded-nonplant
+excluded_reason: nonplant|The dynamics of gene expression in vertebrate embryogenesis at single-cell resol
+theme_status: out-of-scope
+theme_basis: purity:suspect-no-plant-cue
+
+---
+> [!warning] 已排除（非植物研究对象）
+> 本文研究对象为动物/临床/工业体系，其生物学断言不得进入植物学主题。
+> 保留本页仅为追溯 DOI 与排除理由；证据对象已归档。
 
 # The dynamics of gene expression in vertebrate embryogenesis at single-cell resol
 
@@ -47,16 +58,16 @@ www.sciencemag.org/cgi/content/full/science.aar5780/DCl Author contributions: J.
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Pyrus spp., Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1126/science.aar5780
 **来源类型**: PDF全文 (10.1126_science.aar5780.pdf)

@@ -10,9 +10,9 @@ updated: "2026-05-29"
 related_papers:
   - "[[xr-10-1016-j-devcel-2019-02-022]]"
   - "[[xr-10-1104-pp-18-01482]]"
-  - "[[xr-10-1016-j-devcel-2022-01-008]]"
+  - "[[arabidopsis-root-sc-atlas-plantcell]]"
 related_evidence:
-  - "[[qc-cells-transcriptionally-distinct]]"
+  - "qc-cells-transcriptionally-distinct"
   - "[[arabidopsis-root-has-15-cell-types]]"
 related_synthesis: []
 ---
@@ -62,8 +62,8 @@ The QC is a group of ~4 mitotically inactive cells at the heart of the Arabidops
 Recent scRNA-seq studies suggest QC cells may not be homogeneous — some studies detect transcriptional heterogeneity within the QC population.
 
 ### Evidence
-- [[qc-cells-transcriptionally-distinct]] — QC forms a distinct cluster but may contain substates
-- [[xr-10-1016-j-devcel-2022-01-008]] — Optimal transport analysis shows QC as trajectory origin
+- qc-cells-transcriptionally-distinct — QC forms a distinct cluster but may contain substates
+- [[arabidopsis-root-sc-atlas-plantcell]] — Optimal transport analysis shows QC as trajectory origin
 
 ### Biological Interpretation
 QC heterogeneity may reflect dynamic cell states (quiescence depth, readiness to divide upon stress)

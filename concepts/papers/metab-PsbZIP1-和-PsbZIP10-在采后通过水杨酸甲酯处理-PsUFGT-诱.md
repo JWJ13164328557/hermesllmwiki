@@ -1,12 +1,21 @@
-title: "PsbZIP1 和 PsbZIP10 在采后通过水杨酸甲酯处理 PsUFGT 诱导李子中花青素的合成"
-journal: "unknown"
-year: ""
+---
+title: PsbZIP1 和 PsbZIP10 在采后通过水杨酸甲酯处理 PsUFGT 诱导李子中花青素的合成
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

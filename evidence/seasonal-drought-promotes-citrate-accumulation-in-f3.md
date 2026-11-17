@@ -1,34 +1,43 @@
 ---
-title: "Using the 35S::CsABF3:: GFP transgenic calli and an anti-GFP antibody, we found that all of the prom"
-created: 2026-08-25
+title: "Taken together, this study sheds new light on the regulatory module ABA-CsABF3 …"
+created: 2026-11-03
 type: evidence
-tags: [#stress-immunity, papers]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[seasonal-drought-promotes-citrate-accumulation-in]]"
 doi: "10.1111/nph.19671"
-species: [Solanum lycopersicum, Nicotiana tabacum, Citrus spp.]
-evidence_type: "DNA binding/regulation"
+species: ["Citrus spp.", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Citrus spp."
+evidence_type: "phenotypic/association"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [CsAN1, CsABF3]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CsABF3", "CsAN1", "CsPH8"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# Using the 35S::CsABF3:: GFP transgenic calli and an anti-GFP antibody, we found that all of the prom
+# Taken together, this study sheds new light on the regulatory module ABA-CsABF3 …
 
 ## Claim
-Using the 35S::CsABF3:: GFP transgenic calli and an anti-GFP antibody, we found that all of the promoter regions of the CsAN1 that contain ABRE ele- ment were signiﬁcantly enriched in CsABF3-GFP chromatin (Fig.
+ Taken together, this study sheds new light on the regulatory module ABA-CsABF3- CsAN1-CsPH8 responsible for citrate accumulation under drought stress, which advances our understanding of quality formation of citrus fruit.
 
-## Biological Context
-Seasonal drought 促进 citrate 积累 in citrus fruit 通过 the CsABF3‐activated CsAN1‐CsPH8 途径
+## Source
+- 文献: [[seasonal-drought-promotes-citrate-accumulation-in]]
+- DOI: 10.1111/nph.19671
+- 主要物种: Citrus spp.
 
-## Supporting Evidence
-*Source: [[seasonal-drought-promotes-citrate-accumulation-in]]*
+## 标注信息
+- 证据类型: phenotypic/association
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CsABF3, CsAN1, CsPH8
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

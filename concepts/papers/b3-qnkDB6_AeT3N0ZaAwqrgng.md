@@ -1,14 +1,25 @@
-title: A single-cell transcriptomic landscape characterizes the vegetative-to-reproduct
+---
+title: A single-cell transcriptomic landscape characterizes the vegetative-to-reproductive transition in wheat
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags:
+- developmental-biology
+- papers
 doi: 10.1007/s44412-025-00004-4
 confidence: medium
-aliases: ["A single-cell transcriptomic landscape characterizes the vegetative-to-reproduct"]
+aliases:
+- cr-10-1007-s44412-025-00004-4
+- A single-cell transcriptomic landscape characterizes the vegetative-to-reproduct
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: A single-cell transcriptomic landscape characterizes the vegetative-to-reproduct
+theme_status: mapped
+theme_basis: tag+keyword
 
-# A single-cell transcriptomic landscape characterizes the vegetative-to-reproduct
+---
+
+# A single-cell transcriptomic landscape characterizes the vegetative-to-reproductive transition in wheat
 
 
 
@@ -18,22 +29,22 @@ updated: "2026-05-29"
 **作者**: Ming Li, Tao Liu, David Edwards, Wenjie Yue, Wenqiu Pan, Mehraj Abbasov, Xiaojun Nie, Zhaogui Yan
 
 ## 摘要
-<jats:sec>
-                    <jats:title>Key message</jats:title>
-                    <jats:p>In this study, single-cell RNA sequencing reveals dynamic cell differentiation and HSP101-mediated regulation during the wheat floral transition, providing insights into reproductive development and grain yield improvement.</jats:p>
-                  </jats:sec>
-                  <jats:sec>
-                    <jats:title>Abstract</jats:title>
-                    <jats:p>
+
+                    Key message
+                    In this study, single-cell RNA sequencing reveals dynamic cell differentiation and HSP101-mediated regulation during the wheat floral transition, providing insights into reproductive development and grain yield improvement.
+                  
+                  
+                    Abstract
+                    
                       The transition from vegetative to reproductive growth of flowering plants represents a key development event in which cells and genes undergo radical changes for reproduction and survival. Using the single-cell RNA sequencing technique, we characterized a comprehensive transcriptional landscape of cell types populating the floral transition in wheat. We revealed the differentiation and coordination between cell groups which shapes a clear boundary through the transition. Two cell groups, enriched for genes related to Anther Specific Protein and Thousand Grain Weight 6, emerged sequentially at the initial section of the reproductive stage and influence the establishing and maintaining of floral organs and grains. Moreover, we delineated the developmental trajectories of both of the cell groups, inferring gene expression signatures associated with cell fate decisions. A
-                      <jats:italic>Heat Shock Protein</jats:italic>
+                      *Heat Shock Protein*
                       (
-                      <jats:italic>HSP</jats:italic>
+                      *HSP*
                       ) gene,
-                      <jats:italic>HSP101</jats:italic>
+                      *HSP101*
                       , was identified as a signature for the initial segment of floral transition with expression pattern and localization to spikelet meristem, suggesting its critical role in this process. We propose a genetic regulatory model for cell/gene interactions during the floral transition in wheat, which provides a high-resolution cellular landscape with new insights into the plant morphogenesis transition process, cell-fate acquisition, gene expression dynamics, and prospects for cereal improvement.
-                    </jats:p>
-                  </jats:sec>
+                    
+                  
 
 
 
@@ -46,9 +57,9 @@ updated: "2026-05-29"
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-Lj9ToIUf0z9y77oj4ELKlQ]]
-- [[b3-Q__01uAq9RU85RON6eeUaQ]]
+- [[ref-s13059-025-03811-3]]
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]]
-- [[b4-KF8GanK2tQYoK7m4CSoIDA]]
+- [[ref-s13059-025-03811-3]]
 
 
 ## 深度提炼

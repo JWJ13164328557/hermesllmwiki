@@ -1,14 +1,24 @@
-title: "fastp ：超快的多合一FASTQ预处理器。"
+---
+title: fastp ：超快的多合一FASTQ预处理器。
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags:
+- methods-tools
+- papers
 doi: 10.1093/bioinformatics/bty560
 confidence: medium
-aliases: ["fastp ：超快的多合一FASTQ预处理器。"]
+aliases:
+- fastp ：超快的多合一FASTQ预处理器。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: 'fastp: an ultra-fast all-in-one FASTQ preprocessor'
+theme_status: mapped
+theme_basis: tag
 
-# fastp ：超快的多合一FASTQ预处理器。
+---
+
+# fastp: an ultra-fast all-in-one FASTQ preprocessor
 
 
 
@@ -18,7 +28,13 @@ updated: "2026-05-29"
 **作者**: 
 
 ## 摘要
-<h4>Motivation</h4>Quality control and preprocessing of FASTQ files are essential to providing clean data for downstream analysis. Traditionally, a different tool is used for each operation, such as quality control, adapter trimming and quality filtering. These tools are often insufficiently fast as most are developed using high-level programming languages (e.g. Python and Java) and provide limited multi-threading support. Reading and loading data multiple times also renders preprocessing slow and I/O inefficient.<h4>Results</h4>We developed fastp as an ultra-fast FASTQ preprocessor with useful quality control and data-filtering features. It can perform quality control, adapter trimming, quality filtering, per-read quality pruning and many other operations with a single scan of the FASTQ data. This tool is developed in C++ and has multi-threading support. Based on our evaluation, fastp is 2-5 times faster than other FASTQ preprocessing tools such as Trimmomatic or Cutadapt despite performing far more operations than similar tools.<h4>Availability and implementation</h4>The open-source code and corresponding instructions are available at https://github.com/OpenGene/fastp.
+
+
+**Motivation**  Quality control and preprocessing of FASTQ files are essential to providing clean data for downstream analysis. Traditionally, a different tool is used for each operation, such as quality control, adapter trimming and quality filtering. These tools are often insufficiently fast as most are developed using high-level programming languages (e.g. Python and Java) and provide limited multi-threading support. Reading and loading data multiple times also renders preprocessing slow and I/O inefficient.
+
+**Results**  We developed fastp as an ultra-fast FASTQ preprocessor with useful quality control and data-filtering features. It can perform quality control, adapter trimming, quality filtering, per-read quality pruning and many other operations with a single scan of the FASTQ data. This tool is developed in C++ and has multi-threading support. Based on our evaluation, fastp is 2-5 times faster than other FASTQ preprocessing tools such as Trimmomatic or Cutadapt despite performing far more operations than similar tools.
+
+**Availability and implementation**  The open-source code and corresponding instructions are available at https://github.com/OpenGene/fastp.
 
 
 
@@ -27,7 +43,7 @@ updated: "2026-05-29"
 
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-anther-sc-atlas]]
 - [[arabidopsis-root-sc-atlas-plantcell]]
 - [[arabidopsis-root-sc-atlas-review]]
@@ -58,7 +74,7 @@ As an all-in-one FASTQ preprocessor, fastp provides functions including quality 
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1093/bioinformatics/bty560
 **来源类型**: PDF全文 (10.1093_bioinformatics_bty560.pdf)

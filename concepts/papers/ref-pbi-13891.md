@@ -1,23 +1,21 @@
-title: Single-cell transcriptome atlas reveals developmental trajectories and a novel m
-created: 2026-05-28
-type: concept
-tags: [#metabolism-np, papers]
+---
+aliases:
+- cr-10-1111-pbi-13891
+title: Single-cell transcriptome atlas reveals developmental trajectories and a novel metabolic pathway of catechin esters in tea leaves
 doi: 10.1111/pbi.13891
-pmid: "35810348"
-confidence: medium
-aliases: ["Single-cell transcriptome atlas 揭示 developmental trajectories 和 新的 m"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 18 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 32 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["单细胞转录组图谱揭示了发育轨迹和一个新的"]
-aliases_extra: ["Single-cell transcriptome atlas reveals developmental trajectories and a novel m"]
-status: draft
-updated: "2026-05-29"
+pmid: '35810348'
+type: concept
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags:
+- metabolism-np
+- papers
+title_fixed_from: Single-cell transcriptome atlas reveals developmental trajectories and a novel m
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Single-cell transcriptome atlas reveals developmental trajectories and a novel m
+---
 
-
-
+# Single-cell transcriptome atlas reveals developmental trajectories and a novel metabolic pathway of catechin esters in tea leaves
 
 **期刊**: 
 **DOI**: [10.1111/pbi.13891](https://doi.org/10.1111/pbi.13891)
@@ -25,7 +23,6 @@ updated: "2026-05-29"
 
 ## 摘要
 The tea plant is an economically important woody beverage crop. The unique taste of tea is evoked by certain metabolites, especially catechin esters, whereas their precise formation mechanism in different cell types remains unclear. Here, a fast protoplast isolation method was established and the transcriptional profiles of 16 977 single cells from 1st and 3rd leaves were investigated. We first identified 79 marker genes based on six isolated tissues and constructed a transcriptome atlas, mapped developmental trajectories and further delineated the distribution of different cell types during leaf differentiation and genes associated with cell fate transformation. Interestingly, eight differently expressed genes were found to co-exist at four branch points. Genes involved in the biosynthesis of certain metabolites showed cell- and development-specific characteristics. An unexpected catechin ester glycosyltransferase was characterized for the first time in plants by a gene co-expression network in mesophyll cells. Thus, the first single-cell transcriptional landscape in woody crop leave was reported and a novel metabolism pathway of catechin esters in plants was discovered.
-
 
 ## 全文 (PMC)
 
@@ -41,9 +38,7 @@ Correspondence(Tel +86‐551‐65786065; Fax +86‐551‐65780360; emailsckfrien
 
 Correspondence(Tel +86‐551‐65786065; Fax +86‐551‐65780360; emailsckfriend@163.com(CS) and Tel +49 8161 71 2912; Fax +49 8161 71 2950; emailwilfried.schwab@tum.de(WS)) These authors contributed equally to this work. Revised 2022 Jul 3; Received 2022 May 26; Accepted 2022 Jul 5; Collection date 2022 Nov. This is an open access article under the terms of thehttp://creativecommons.org/licenses/by-nc-nd/4.0/License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non‐commercial and no modifications or adaptations are made.
 
-
 **OA PDF**: https://doi.org/10.1111/pbi.13891
-
 
 ## 深度提炼
 
@@ -68,3 +63,19 @@ Correspondence(Tel +86‐551‐65786065; Fax +86‐551‐65780360; emailsckfrien
 ### Introduction
 Horticultural crops are domesticated to meet various human needs, including foods and beverages, energy, materials and ornamental plant (Xiong et al ., 2015 ). They also contain abundant natural compounds with high economic value, which are derived from plant secondary metabolism (Kabera, 2014 ). The tea plant ( Camellia sinensis (L.) O. Ktze.), one of the world's most important woody cultivated crops, whose leaves are used to produce numerous kinds of tea, provides numerous secondary metabolites that account for its rich taste and health benefits (Xia et al ., 2019 ). Current studies have shown that the leaf development of tea tree is accompanied by regular changes of secondary metabolites, including compounds characteristic of tea such as polyphenols, caffeine and theanine (Li et al ., 2015 ; Xia et al ., 2019 ; Yu et al ., 2021 ; Zhao et al ., 2020 ). Although plant secondary metabolism is intimately related to development and environment, and the relationships between them at organ and tissue level have been studied extensively, their biosynthesis and distribution in different type cells was rarely reported (De Filippis, 2016 ).
 Advances in single‐cell RNA sequencing (scRNA‐Seq) have now made it possible to sequence the transcriptome of rare cells with small amounts of starting material. Based on the specific unique molecular identification of single‐cell, scRNA‐seq enable monitoring of intracellular transcriptional activity at the single‐cell level (Seyfferth et al ., 20
+## 关键信息
+
+- **物种**: Arabidopsis thaliana
+- **研究主题**: development, single-cell
+- **期刊**: unknown ()
+
+## 待升级
+
+> ⚠️ 本文缺少 PMID/DOI，无法自动获取全文。
+> 建议:
+> 1. 补充 DOI 或 PMID 后可升级为 5-section 精简 Paper Spec
+> 2. 提供 PDF 后可人工转换为 9-section 完整 Paper Spec
+> 3. 对于非学术来源（微信公众号等），保持当前格式即可
+
+---
+*P3 自动增强于 2026-05-30 | 需人工审查*

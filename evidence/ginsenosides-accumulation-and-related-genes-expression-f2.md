@@ -1,34 +1,43 @@
 ---
-title: "Functional annotation and KEGG pathway analysis We found that BLASTX-based homology search for P."
-created: 2026-09-16
+title: "Functional annotation and KEGG pathway analysis We found that BLASTX-based homology …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ginsenosides-accumulation-and-related-genes-expression]]"
 doi: "10.1016/j.indcrop.2021.114228"
-species: [Citrus spp., Panax spp., Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Citrus spp.", "Panax spp.", "Ficus carica"]
+primary_species: "Panax spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Functional annotation and KEGG pathway analysis We found that BLASTX-based homology search for P.
+# Functional annotation and KEGG pathway analysis We found that BLASTX-based homology …
 
 ## Claim
 Functional annotation and KEGG pathway analysis We found that BLASTX-based homology search for P.
 
-## Biological Context
-Ginsenosides 积累 and related genes 表达 in different underground parts of Panax notoginseng 过程中 maturation stage
+## Source
+- 文献: [[ginsenosides-accumulation-and-related-genes-expression]]
+- DOI: 10.1016/j.indcrop.2021.114228
+- 主要物种: Panax spp.
 
-## Supporting Evidence
-*Source: [[ginsenosides-accumulation-and-related-genes-expression]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

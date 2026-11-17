@@ -1,19 +1,23 @@
-title: Novel imaging-based phenotyping strategies for dissecting crosstalk in plant dev
+---
+
+title: Novel imaging-based phenotyping strategies for dissecting crosstalk in plant development
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1093/jxb/erv265
 confidence: medium
-aliases: ["新的 imaging-based phenotyping strategies dissecting crosstalk 中 plant dev"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 52 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["植物开发中用于解剖串扰的基于成像的新型表型分型策略"]
-aliases_extra: ["Novel imaging-based phenotyping strategies for dissecting crosstalk in plant dev"]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Novel imaging-based phenotyping strategies for dissecting crosstalk in plant dev
+theme_status: mapped
+theme_basis: tag
 
-# Novel imaging-based phenotyping strategies for dissecting crosstalk in plant dev
+---
+
+# Novel imaging-based phenotyping strategies for dissecting crosstalk in plant development
 
 
 
@@ -33,8 +37,8 @@ In an era of genomics, proteomics, and metabolomics a large number of mutants ar
 ## 相关文献
 
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
-- [[andrographis-msi-sc-spatial]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]

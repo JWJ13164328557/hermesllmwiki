@@ -1,34 +1,43 @@
 ---
-title: "We found that MYB30 competes with TT8 and EGL3 to interact with MYB75, therefore inhibiting the asse"
-created: 2026-08-25
+title: "We found that MYB30 competes with TT8 and EGL3 to interact with MYB75, therefore …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]"
 doi: "10.1016/j.xplc.2023.100744"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Gossypium hirsutum]
+species: ["Gossypium hirsutum", "Nicotiana tabacum", "Arabidopsis thaliana"]
+primary_species: "Gossypium hirsutum"
 evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: []
-compounds: [sucrose]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["EGL3", "MYB30", "MYB75", "TT8"]
+compounds: ["sucrose"]
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# We found that MYB30 competes with TT8 and EGL3 to interact with MYB75, therefore inhibiting the asse
+# We found that MYB30 competes with TT8 and EGL3 to interact with MYB75, therefore …
 
 ## Claim
-We found that MYB30 competes with TT8 and EGL3 to interact with MYB75, therefore inhibiting the assembly of the MBW complex and repressing the expres- sion of LBGs under high-sucrose conditions.
+We found that MYB30 competes with TT8 and EGL3 to interact with MYB75, therefore inhibiting the assembly of the MBW complex and repressing the expression of LBGs under high-sucrose conditions.
 
-## Biological Context
-RHA2b-介导的 MYB30 degradation facilitates MYB75-regulated, sucrose-induced 花青素 生物合成 in Arabidopsis seedlings
+## Source
+- 文献: [[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]
+- DOI: 10.1016/j.xplc.2023.100744
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[rha2b-mediated-myb30-degradation-facilitates-myb75-regulated]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: EGL3, MYB30, MYB75, TT8
+- 自动标注化合物: sucrose
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

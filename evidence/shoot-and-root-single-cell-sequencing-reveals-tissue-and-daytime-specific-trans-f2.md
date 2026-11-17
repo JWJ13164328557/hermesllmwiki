@@ -1,34 +1,43 @@
 ---
-title: "Within the shoot libraries, we found nearly 9,000 DEGs for both time points (ED 8,973 DEGs with 5,20"
-created: 2026-08-25
+title: "For example, in the mixed clusters of dividing cells, SAM, and epidermis, we found …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["epigenetics-gene-regulation", "single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]"
 doi: "10.1093/plphys/kiab537"
-species: [Arabidopsis thaliana]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Within the shoot libraries, we found nearly 9,000 DEGs for both time points (ED 8,973 DEGs with 5,20
+# For example, in the mixed clusters of dividing cells, SAM, and epidermis, we found …
 
 ## Claim
-Within the shoot libraries, we found nearly 9,000 DEGs for both time points (ED 8,973 DEGs with 5,201 up- and 3,772 down-regulated genes; EN 8,941 DEGs with 4,884 up- and 4,057 down-regulated genes) with an overlap of 6,488 genes.
+For example, in the mixed clusters of dividing cells, SAM, and epidermis, we found several cell-cycle-related genes (G1/G2 phase) to be markers in either ED or EN cells (but not both).
 
-## Biological Context
-Shoot and root single cell sequencing reveals tissue- and daytime-specific transcriptome profiles
+## Source
+- 文献: [[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]
+- DOI: 10.1093/plphys/kiab537
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[shoot-and-root-single-cell-sequencing-reveals-tissue-and-daytime-specific-trans]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

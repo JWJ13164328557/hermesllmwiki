@@ -1,34 +1,43 @@
 ---
-title: "In our study, we found that, in MD and HD plants, the levels of photosynthesis-related carbohydrates"
-created: 2026-09-16
+title: "In our study, we found that the expression levels of some genes encoding components of SA …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[integration-of-morphological-physiological-and-multi-omics]]"
 doi: "10.1016/j.indcrop.2021.114055"
-species: [Oryza sativa, Zea mays, Solanum lycopersicum]
+species: ["Oryza sativa", "Zea mays", "Solanum lycopersicum"]
+primary_species: "Ginkgo biloba"
 evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: [starch]
+compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# In our study, we found that, in MD and HD plants, the levels of photosynthesis-related carbohydrates
+# In our study, we found that the expression levels of some genes encoding components of SA …
 
 ## Claim
-In our study, we found that, in MD and HD plants, the levels of photosynthesis-related carbohydrates including sugar and starch decreased, along with changes in the expression levels of associated genes.
+In our study, we found that the expression levels of some genes encoding components of SA signaling significantly decreased in HD leaves, but increased in MD.
 
-## Biological Context
-整合 of morphological, physiological and 多组学 分析 揭示 the optimal planting density improving leaf yield and active compound 积累 in Ginkgo biloba
+## Source
+- 文献: [[integration-of-morphological-physiological-and-multi-omics]]
+- DOI: 10.1016/j.indcrop.2021.114055
+- 主要物种: Ginkgo biloba
 
-## Supporting Evidence
-*Source: [[integration-of-morphological-physiological-and-multi-omics]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

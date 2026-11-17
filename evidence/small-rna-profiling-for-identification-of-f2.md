@@ -1,34 +1,43 @@
 ---
-title: "Furthermore, by pairwise compari- sons among the four seed development stages in each line, we found"
-created: 2026-09-16
+title: "Keywords: Yellowhorn, MicroRNA, Lipid biosynthesis, Seed development, Target gene © The …"
+created: 2026-11-01
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[small-rna-profiling-for-identification-of]]"
 doi: "10.1186/s12870-021-03239-4"
-species: [Arabidopsis thaliana, Oryza sativa, Malus domestica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Oryza sativa", "Malus domestica"]
+primary_species: "Glycine max"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Furthermore, by pairwise compari- sons among the four seed development stages in each line, we found
+# Keywords: Yellowhorn, MicroRNA, Lipid biosynthesis, Seed development, Target gene © The …
 
 ## Claim
-Furthermore, by pairwise compari- sons among the four seed development stages in each line, we found that 64 miRNAs (53 known and 11 novel miR- NAs) were differentially expressed in the two lines.
+Keywords: Yellowhorn, MicroRNA, Lipid biosynthesis, Seed development, Target gene © The Author(s) 2021.
 
-## Biological Context
-Small RNA 分析 for 鉴定 of microRNAs 参与的 in 调控 of seed 发育 and 脂质 生物合成 in yellowhorn
+## Source
+- 文献: [[small-rna-profiling-for-identification-of]]
+- DOI: 10.1186/s12870-021-03239-4
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[small-rna-profiling-for-identification-of]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

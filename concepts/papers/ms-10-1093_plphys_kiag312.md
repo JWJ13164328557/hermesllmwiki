@@ -2,10 +2,14 @@
 title: The red and blue light dialogue of stomatal regulation for water-efficient crops
 created: 2026-08-26
 type: concept
+themes: [developmental-biology]
 tags: [papers]
 doi: 10.1093/plphys/kiag312
 confidence: moderate
 source: crossref
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
 # The red and blue light dialogue of stomatal regulation for water-efficient crops

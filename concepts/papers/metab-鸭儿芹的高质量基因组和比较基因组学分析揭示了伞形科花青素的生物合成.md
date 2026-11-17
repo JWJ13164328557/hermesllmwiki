@@ -1,12 +1,21 @@
-title: "鸭儿芹的高质量基因组和比较基因组学分析揭示了伞形科花青素的生物合成"
-journal: "unknown"
-year: ""
+---
+title: 鸭儿芹的高质量基因组和比较基因组学分析揭示了伞形科花青素的生物合成
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

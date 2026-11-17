@@ -1,12 +1,21 @@
-title: "转录组分析揭示了氮肥在蜡质和非蜡质谷子淀粉合成和品质中的作用机制"
-journal: "unknown"
-year: ""
+---
+title: 转录组分析揭示了氮肥在蜡质和非蜡质谷子淀粉合成和品质中的作用机制
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: []
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

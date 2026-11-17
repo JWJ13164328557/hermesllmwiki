@@ -1,34 +1,43 @@
 ---
-title: "5 | Conclusion Taken together, the aerial plant phenotyping and metabolomic results highlight a coor"
-created: 2026-08-25
+title: "5 | Conclusion Taken together, the aerial plant phenotyping and metabolomic results …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[pdf-ppl-70937]]"
 doi: "10.1111/ppl.70937"
-species: [Arabidopsis thaliana, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
+species: ["Sorghum bicolor", "Zea mays", "Triticum aestivum"]
+primary_species: "Sorghum bicolor"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# 5 | Conclusion Taken together, the aerial plant phenotyping and metabolomic results highlight a coor
+# 5 | Conclusion Taken together, the aerial plant phenotyping and metabolomic results …
 
 ## Claim
-5 | Conclusion Taken together, the aerial plant phenotyping and metabolomic results highlight a coordinated metabolic reprogramming that explains sorghum's limited growth under early-­season chill­ ing.
+5 | Conclusion Taken together, the aerial plant phenotyping and metabolomic results highlight a coordinated metabolic reprogramming that explains sorghum's limited growth under early-season chill ing.
 
-## Biological Context
-Capturing Early‐Stage Chilling Response in Field‐Grown Sorghum and Maize by Integrating Aerial Phenotyping and Metabolomic Signatures
+## Source
+- 文献: [[pdf-ppl-70937]]
+- DOI: 10.1111/ppl.70937
+- 主要物种: Sorghum bicolor
 
-## Supporting Evidence
-*Source: [[pdf-ppl-70937]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

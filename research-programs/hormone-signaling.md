@@ -1,92 +1,153 @@
 ---
-title: "激素与信号转导 — Synthesis"
+title: "Research Program: Hormone Signalling"
+title_zh: "激素与信号转导：研究方案"
 type: research-program
 topic: "hormone-signaling"
-total_evidence: 231
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 2050
+total_papers: 385
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 激素与信号转导 — Synthesis
+# 🔬 Hormone Signalling：从证据到可执行研究方案
 
-## Program Overview
-基于 231 条证据生成的 5 个实验目标。
+> 本方案由 2050 条证据 / 385 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test HY5 function
+- **主题**：Hormone Signalling
+- **证据规模**：2050 条证据 / 385 篇独立论文
+- **候选靶点**：PIN1, GSNOR1, PpGS2, 受体—配体结合的定量证据, 外源激素处理的定量剂量—响应, 信号蛋白的降解动力学
+- **主体系**：Solanum lycopersicum
+- **主题归属依据**：证据标签
 
-**Hypothesis**: HY5 interacts with ASA1 and SDG8 to control [process]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate HY5 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: HY5-GFP fusion
+### 目标 1：建立 PIN1 的剂量—效应曲线
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test CPPU function
-
-**Hypothesis**: CPPU regulates PIN1 and WUS to control [process]
-
-**Experimental Design**:
-1. Generate CPPU overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: CPPU-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test HY5 function
-
-**Hypothesis**: HY5 inhibits TCP21 to control [process]
-
-**Experimental Design**:
-1. Generate HY5 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: HY5-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulate [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：PIN1 已有 177 项独立研究；但其中仅 3 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 PIN1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：验证 GSNOR1 对 （hormone-related molecules） 的因果方向
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：GSNOR1 正向促进 （hormone-related molecules）。判别性检验：在 Solanum lycopersicum 中敲低或敲除 GSNOR1，（hormone-related molecules） 应下降；恢复表达应使其回升。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：GSNOR1 的敲除/敲低系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样部位、生育期与光温条件下定量 （hormone-related molecules）
+  3. 剂量梯度（杂合/纯合/过表达强弱）检验方向是否随剂量改变
+  4. 互补实验排除脱靶与背景效应
+- **判定标准**：敲低/敲除株系中 （hormone-related molecules） 显著下降且可被回补，过表达株系上升
+- **止损条件**：遗传操纵后 （hormone-related molecules） 无方向一致的变化，或变化与 GSNOR1 的表达量无关
+- **预计周期**：12–18 个月
+
+
+### 目标 3：建立 PpGS2 的剂量—效应曲线
+
+- **对应假说**：PpGS2 已有 28 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 PpGS2 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 4：测定受体—配体结合的定量证据的受体结合化学
+
+- **对应假说**：本主题 51 条证据（38 篇）提到受体，但仅 1 条报告结合常数或体外结合实验。"受体感知该激素"因此多来自遗传学推断（受体突变体不响应），而非结合化学。缺少 Kd 与结合化学计量，就无法判断受体亚型的配体偏好，也无法解释跨物种剂量阈值差异。
+- **体系**：体外重组受体蛋白；另设体内报告系统
+- **材料**：重组受体胞外域、配体类似物系列、结合位点突变受体（51 条证据 / 38 篇；结合常数或体外结合实验 1 条）
+- **关键实验**
+  1. 表达并纯化受体配体结合域，确认单体状态
+  2. 用 ITC 或 SPR 测定 Kd 与结合化学计量
+  3. 用配体类似物系列比较受体亚型偏好
+  4. 在结合位点突变体中测体内响应 EC50 是否右移
+  5. 把 Kd 与 EC50 对照，判断是否存在信号放大
+- **判定标准**：重组受体的 Kd 与体内响应 EC50 量级相容；结合位点突变体丧失结合且体内响应右移
+- **止损条件**：受体突变体表型来自通路组分的间接效应，重组受体无特异结合，说明原受体的配体归属被误判
+- **预计周期**：12-18 个月
+
+
+### 目标 5：建立外源激素处理的定量剂量—响应的定量剂量—响应曲线
+
+- **对应假说**：本主题 28 条证据（23 篇）涉及外源激素处理，但仅 0 条给出剂量梯度或EC50。单浓度处理只能判断"有响应"，无法区分亲和力差异、受体冗余与组织阈值差异，也无法在不同实验室之间比较敏感度。
+- **体系**：原报道物种 + 一个独立物种；同一施加方式与取样时间
+- **材料**：≥5 个浓度的外源激素系列、受体突变体、统一读出体系（28 条证据 / 23 篇；剂量梯度与 EC50 0 条）
+- **关键实验**
+  1. 确定生理浓度范围并设 ≥5 个剂量点
+  2. 统一施加方式（根部/叶面/培养基）与取样时间
+  3. 拟合剂量—响应曲线，报告 EC50 与 Hill 系数
+  4. 在受体突变体中重复，检验曲线右移
+  5. 在第二个物种中重复，比较阈值差异
+- **判定标准**：≥5 个剂量的响应曲线可拟合，EC50 在独立批次间可复现，受体突变体中曲线右移
+- **止损条件**：响应在测试浓度范围内始终饱和或始终无响应，说明所选浓度落在非生理区间，原结论不能外推到体内
+- **预计周期**：9-15 个月
+
+
+### 目标 6：测定信号蛋白的降解动力学的降解动力学
+
+- **对应假说**：本主题 56 条证据（35 篇）涉及泛素化或蛋白酶体降解，但仅 0 条测量了半衰期或降解速率。"降解介导的信号关闭"因此缺少时间常数，无法与转录层面的变化区分先后。
+- **体系**：原报道物种；同一组织，蛋白合成抑制剂处理的时间序列
+- **材料**：CHX 处理时间序列、降解信号突变体、蛋白酶体抑制剂对照（56 条证据 / 35 篇；半衰期或降解速率测量 0 条）
+- **关键实验**
+  1. 用 CHX 追踪目标蛋白丰度，拟合半衰期
+  2. 在降解信号突变体中重测半衰期
+  3. 检测泛素化修饰状态与多聚泛素链类型
+  4. 用蛋白酶体抑制剂确认降解途径
+  5. 把半衰期与下游响应持续时间做时间对齐
+- **判定标准**：CHX 追踪给出可复现的半衰期；降解信号突变体半衰期显著延长，且下游响应持续时间相应延长
+- **止损条件**：半衰期不受降解信号突变影响，说明该蛋白的丰度主要由转录而非降解决定
+- **预计周期**：9-15 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 剂量-时间 | 0–4 月 | 外源激素梯度与时间序列；建立剂量-响应曲线 | 响应窗口与饱和/抑制区间明确 |
+| P1 受体与信号 | 4–14 月 | 受体/信号组件突变体、抑制剂与报告系 | 遗传与药理证据同向 |
+| P2 交叉通路 | 14–24 月 | 与其它激素或环境信号的析因实验 | 交互效应可量化，非单因素外推 |
+| P3 田间/株型 | 24–36 月 | 田间或温室群体验证株型与产量效应 | 至少一个生长季可重复 |
+
+> 本路线先做剂量-时间，再做遗传因果；不能把外源喷施的表型直接等同于内源信号机制。
+
+## 四、风险与对策
+
+- 未从证据层识别到显著风险；仍应按标准做法设置生物学重复与盲法测量。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/hormone-signaling.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

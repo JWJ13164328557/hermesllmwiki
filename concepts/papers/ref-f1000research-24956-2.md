@@ -1,12 +1,18 @@
+---
 title: gprofiler2 -- an R package for gene list functional enrichment analysis and name
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags: [methods-tools, papers]
 doi: 10.12688/f1000research.24956.2
 confidence: medium
-aliases: ["gprofiler2 -- an R package for gene list functional enrichment analysis and name"]
+aliases: [cr-10-12688-f1000research-24956-2, gprofiler2 -- an R package for gene list functional enrichment analysis and name]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # gprofiler2 -- an R package for gene list functional enrichment analysis and name
 
@@ -78,10 +84,9 @@ Competing interests:I am (co-)author if similar analysis R packages and webservi
 1. The function takes a vector of gene identifiers as an input and returns a data frame that includes a column with target identifiers together with the names and descriptions for the input genes.
 ## 相关文献
 
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-anther-sc-atlas]]
 - [[arabidopsis-root-sc-atlas-plantcell]]
 - [[arabidopsis-root-sc-atlas-review]]
 - [[arabidopsis-sam-scrna]]
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
-- [[b3-9WavxK

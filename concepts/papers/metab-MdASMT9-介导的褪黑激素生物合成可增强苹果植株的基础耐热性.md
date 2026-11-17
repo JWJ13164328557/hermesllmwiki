@@ -1,12 +1,21 @@
-title: "MdASMT9 介导的褪黑激素生物合成可增强苹果植株的基础耐热性"
-journal: "unknown"
-year: ""
+---
+title: MdASMT9 介导的褪黑激素生物合成可增强苹果植株的基础耐热性
+journal: unknown
+year: ''
 type: paper
-tags: [#hormone-signaling, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

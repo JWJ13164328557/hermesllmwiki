@@ -1,12 +1,21 @@
-title: "综述：单细胞测序在植物再生研究中的应用：揭示愈伤组织的细胞异质性"
-journal: "unknown"
-year: ""
+---
+title: 综述：单细胞测序在植物再生研究中的应用：揭示愈伤组织的细胞异质性
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

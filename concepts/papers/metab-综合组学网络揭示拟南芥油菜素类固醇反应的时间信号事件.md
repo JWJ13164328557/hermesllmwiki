@@ -3,11 +3,18 @@ title: "综合组学网络揭示拟南芥油菜素类固醇反应的时间信号
 journal: "unknown"
 year: ""
 type: paper
-tags: [signaling, gene-regulation, metabolism]
+themes: []
+tags: [metabolism]
 species: [Arabidopsis thaliana, Brassica]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

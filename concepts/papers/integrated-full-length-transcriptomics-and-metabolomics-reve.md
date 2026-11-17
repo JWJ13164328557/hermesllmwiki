@@ -1,15 +1,22 @@
-title: "Integrated Full-Length Transcriptomics and Metabolomics Reveal Glycosyltransferase Involved in the Biosynthesis of Flavo"
+---
+title: Integrated Full-Length Transcriptomics and Metabolomics Reveal Glycosyltransferase Involved in the Biosynthesis of Flavonol Glycosides in Laportea bulbifera
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1021/acs.jafc.4c00488
-pmid: 
-confidence: medium
-aliases: ["整合的全长转录组学和代谢组学揭示了参与黄酮醇苷类生物合成的糖基转移酶"]
+pmid: ''
+aliases:
+- 整合的全长转录组学和代谢组学揭示了参与黄酮醇苷类生物合成的糖基转移酶
+title_fixed_from: Integrated Full-Length Transcriptomics and Metabolomics Reveal Glycosyltransfera
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 整合 Full-Length Transcriptomics and Metabolomics 揭示 Glycosyltransferase 参与的 in the 生物合成 of Flavonol Glycosides in Laportea bulbifera
+---
 
-> Integrated Full-Length Transcriptomics and Metabolomics Reveal Glycosyltransferase Involved in the Biosynthesis of Flavonol Glycosides in Laportea bulbifera
+# Integrated Full-Length Transcriptomics and Metabolomics Reveal Glycosyltransferase Involved in the Biosynthesis of Flavonol Glycosides in Laportea bulbifera
 
 ## 论文信息
 - **期刊**: Journal of Agricultural and Food Chemistry (2024)

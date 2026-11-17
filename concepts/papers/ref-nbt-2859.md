@@ -1,16 +1,25 @@
-title: The dynamics and regulators of cell fate decisions are revealed by pseudotempora
+---
+title: The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- methods-tools
+- papers
 doi: 10.1038/nbt.2859
 confidence: medium
-aliases: ["The dynamics and regulators of cell fate decisions are revealed by pseudotempora"]
+aliases:
+- cr-10-1038-nbt-2859
+- The dynamics and regulators of cell fate decisions are revealed by pseudotempora
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: The dynamics and regulators of cell fate decisions are revealed by pseudotempora
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The dynamics and regulators of cell fate decisions are revealed by pseudotempora
+---
 
-
+# The dynamics and regulators of cell fate decisions are revealed by pseudotemporal ordering of single cells
 
 
 **期刊**: 
@@ -47,12 +56,11 @@ Data and software accessibilityAll sequencing reads are available through GEO ac
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
-
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## PMC 全文
@@ -60,15 +68,8 @@ Data and software accessibilityAll sequencing reads are available through GEO ac
 **PMC ID**: PMC4122333
 
 ### PERMALINK
-class="usa-button pmc-sidenav__container__open usa-button--unstyled width-auto display-flex"
-aria-label="Open article navigation"
-data-extra-class="is-visible-in-page"
-data-ga-category="actions"
-data-ga-action="open"
-data-ga-label="article_nav_mobile"
 As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
 the contents by NLM or the National Institutes of Health.
-class="usa-layout-docs__main usa-layout-docs grid-col-12 pmc-layout pmc-prose padding-0"
 Nat Biotechnol . Author manuscript; available in PMC: 2014 Oct 1.
 Published in final edited form as: Nat Biotechnol. 2014 Mar 23;32(4):381–386. doi: 10.1038/nbt.2859
 Pseudo-temporal ordering of individual cells reveals dynamics and regulators of cell fate decisions
@@ -86,7 +87,7 @@ Find articles by Davide Cacchiarelli
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq, qRT-PCR validation, RNAi/VIGS, overexpression
 **来源**: DOI:10.1038/nbt.2859
 **来源类型**: PDF全文 (10.1038_nbt.2859.pdf)

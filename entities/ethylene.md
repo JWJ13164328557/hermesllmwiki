@@ -1,6 +1,6 @@
 ---
 title: "ethylene"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,27 +9,24 @@ tags: [metabolism, compound]
 # ethylene
 
 ## Evidence Summary
-**Total evidence objects**: 44
+**Total evidence objects**: 79
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[comparative-transcriptome-profiling-reveals-the-multiple-f1]] | We found that the ethylene biosynthetic genes were mainly repressed by IAA (up-r |
-| [[dpdf-10-1146-annurev-arplant-083123073106-f7]] | Zooming out from auxin alone, modeling studies have played a key role in elucida |
-| [[dpdf-10-1146-annurev-arplant-083123073106-f11]] | Beyond Auxin: Cytokinin and Ethylene Finite-element model: uses meshed geometric |
-| [[dpdf-10-1146-annurev-arplant-083123073106-f13]] | Moving beyond auxin and cytokinin, modeling was applied to unravel the key roles |
-| [[mdmyb8-is-associated-with-flavonol-biosynthesis-f6]] | In conclusion, we generated evidence that MdMYB8 regulates ﬂavonol biosynthesis  |
-| [[ms-10-1007_s11084-026-09761-5-f4]] | In terms of systems biology, microbial elicitation plays a key role in plant hor |
-| [[ms-10-1007_s44372-026-00844-1-f7]] | Ethylene, jasmonic acid, and brassinosteroids further fine-tune stress responses |
-| [[ms-10-1007_s44372-026-00856-x-f2]] | Ethylene interacts with hormones like jasmonic acid and ABA and helps in the reg |
-| [[ms-10-1038_s41598-026-67882-3-f8]] | Early work by Craker and Abeles24 demonstrated that ABA directly modulates cellu |
-| [[ms-10-1186_s43897-026-00236-9-f6]] | Furthermore, ABA promotes leaf senescence through a pathway distinct from ethyle |
+| [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f7]] | For example, SlARF6 regulates chlorophyll biosynthesis, photosynthesis, sugar ac |
+| [[b4-lBokIY101sor8t2t3d1CRQ-f5]] | Because protoplasts from mutant genotypes defective in SA, jasmonic acid (JA), a |
+| [[comparative-transcriptome-profiling-reveals-the-multiple-f1]] | We found that the ethylene biosynthetic genes were mainly repressed by IAA … |
+| [[daily-42211474-f1]] | Under T5 conditions, the upregulation of EIN3 and ERF1A suggests a compensatory  |
+| [[daily-42231184-f2]] | These findings identify ABAand ethylene-related pathways as key targets for impr |
+| [[daily-42231184-f6]] | The identification of hormone-related pathways, particularly those involving ABA |
+| [[daily-42243187-f4]] | In this capacity, phytomelatonin modulates antioxidant enzyme systems, regulates |
+| [[daily-42292990-f1]] | Abscisic acid ABA, together with other phytohormones such as jasmonic acid and e |
+| [[daily-42298041-f4]] | Phytohormones, including ethylene, jasmonic acid (JA), gibberellic acid (GA), ab |
+| [[daily-42309592-f7]] | AP2/ERF has the ability to bind to GCC box, a DNA sequence linked to ethylene re |
 
 ## Biosynthetic Pathway
 -
 
 ## Regulatory Genes
--
-
-## Species Distribution
 -

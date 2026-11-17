@@ -1,12 +1,18 @@
+---
 title: Twelve years of SAMtools and BCFtools.
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags: [methods-tools, papers]
 doi: 10.1093/gigascience/giab008
 confidence: medium
-aliases: ["Twelve years of SAMtools and BCFtools."]
+aliases: [Twelve years of SAMtools and BCFtools.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # Twelve years of SAMtools and BCFtools.
 
@@ -18,7 +24,13 @@ updated: "2026-05-29"
 **作者**: 
 
 ## 摘要
-<h4>Background</h4>SAMtools and BCFtools are widely used programs for processing and analysing high-throughput sequencing data. They include tools for file format conversion and manipulation, sorting, querying, statistics, variant calling, and effect analysis amongst other methods.<h4>Findings</h4>The first version appeared online 12 years ago and has been maintained and further developed ever since, with many new features and improvements added over the years. The SAMtools and BCFtools packages represent a unique collection of tools that have been used in numerous other software projects and countless genomic pipelines.<h4>Conclusion</h4>Both SAMtools and BCFtools are freely available on GitHub under the permissive MIT licence, free for both non-commercial and commercial use. Both packages have been installed >1 million times via Bioconda. The source code and documentation are available from https://www.htslib.org.
+
+
+**Background**  SAMtools and BCFtools are widely used programs for processing and analysing high-throughput sequencing data. They include tools for file format conversion and manipulation, sorting, querying, statistics, variant calling, and effect analysis amongst other methods.
+
+**Findings**  The first version appeared online 12 years ago and has been maintained and further developed ever since, with many new features and improvements added over the years. The SAMtools and BCFtools packages represent a unique collection of tools that have been used in numerous other software projects and countless genomic pipelines.
+
+**Conclusion**  Both SAMtools and BCFtools are freely available on GitHub under the permissive MIT licence, free for both non-commercial and commercial use. Both packages have been installed >1 million times via Bioconda. The source code and documentation are available from https://www.htslib.org.
 
 
 ## 全文 (PMC)
@@ -43,7 +55,7 @@ Correspondence address. Andrew Whitwham, Wellcome Sanger Institute, Wellcome Gen
 
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]]
-- [[b4-78WuUWiztOxRe4n5MS2Pag]]
+- [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b4-ZKYanCM-ZalgHteLOaJErw]]
 - [[b4-_dqlLGuPZxhNXXs6caCEwg]]
 - [[b4-uZ39cWEaJqczzAZtUK3Iww]]

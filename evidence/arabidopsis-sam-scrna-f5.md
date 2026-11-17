@@ -1,34 +1,43 @@
 ---
-title: "DISCUSSION Generation of an Arabidopsis vegetative shoot apex cell atlas In this work, we report a c"
-created: 2026-08-25
+title: "DISCUSSION Generation of an Arabidopsis vegetative shoot apex cell atlas In this work, we …"
+created: 2026-11-03
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: ["single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[arabidopsis-sam-scrna]]"
 doi: "10.1016/j.devcel.2021.02.021"
-species: [Pyrus spp., Ficus carica]
-evidence_type: "expression/regulation"
+species: ["Gossypium hirsutum", "Pyrus spp."]
+primary_species: "Gossypium hirsutum"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# DISCUSSION Generation of an Arabidopsis vegetative shoot apex cell atlas In this work, we report a c
+# DISCUSSION Generation of an Arabidopsis vegetative shoot apex cell atlas In this work, we …
 
 ## Claim
 DISCUSSION Generation of an Arabidopsis vegetative shoot apex cell atlas In this work, we report a comprehensive single-cell compendium of the Arabidopsis vegetative shoot apex.
 
-## Biological Context
-A single-cell analysis of the Arabidopsis vegetative shoot apex.
+## Source
+- 文献: [[arabidopsis-sam-scrna]]
+- DOI: 10.1016/j.devcel.2021.02.021
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[arabidopsis-sam-scrna]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

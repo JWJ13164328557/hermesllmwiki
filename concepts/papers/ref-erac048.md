@@ -1,14 +1,24 @@
-title: Selection for early shoot vigour in wheat increases root hair length but reduces
+---
+title: Selection for early shoot vigour in wheat increases root hair length but reduces epidermal cell size of roots and leaves
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1093/jxb/erac048
 confidence: medium
-aliases: ["Selection for early shoot vigour in wheat increases root hair length but reduces"]
+aliases:
+- Selection for early shoot vigour in wheat increases root hair length but reduces
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Selection for early shoot vigour in wheat increases root hair length but reduces
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Selection for early shoot vigour in wheat increases root hair length but reduces
+---
+
+# Selection for early shoot vigour in wheat increases root hair length but reduces epidermal cell size of roots and leaves
 
 
 
@@ -66,7 +76,7 @@ This study used a novel wheat recurrent selection system expressing early vigour
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Triticum aestivum, Hordeum vulgare, Citrus spp.
+**物种**: Arabidopsis thaliana, Oryza sativa, Triticum aestivum, Hordeum vulgare
 **方法**: molecular biology / biochemistry
 **来源**: DOI:10.1093/jxb/erac048
 **来源类型**: PDF全文 (10.1093_jxb_erac048.pdf)

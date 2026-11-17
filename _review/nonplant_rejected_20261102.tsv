@@ -1,0 +1,60 @@
+slug	doi	action	reasons
+cr-10-1038-s41592-024-02380-w	10.1038/s41592-024-02380-w	keep-methods	subject=covid-19,mouse;method-transferable
+cr-s41586-018-0414-6	10.1038/s41586-018-0414-6	keep-methods	subject=mouse,tissue regeneration;method-transferable
+ms-10-1007_s10103-026-05004-1	10.1007/s10103-026-05004-1	drop	subject=mice,mouse
+ms-10-1007_s12325-026-03607-2	10.1007/s12325-026-03607-2	drop	
+ms-10-1007_s44370-026-00048-x	10.1007/s44370-026-00048-x	drop	subject=livestock
+ms-10-1038_s41413-026-00568-8	10.1038/s41413-026-00568-8	drop	subject=mice
+ms-10-1038_s41467-026-73827-1	10.1038/s41467-026-73827-1	drop	subject=melanoma,tumor microenvironment
+ms-10-1038_s41467-026-73840-4	10.1038/s41467-026-73840-4	drop	subject=mice
+ms-10-1038_s41467-026-73856-w	10.1038/s41467-026-73856-w	drop	subject=murine
+ms-10-1038_s41467-026-76871-z	10.1038/s41467-026-76871-z	keep-methods	subject=breast cancer,mouse;method-transferable
+ms-10-1038_s41467-026-77196-7	10.1038/s41467-026-77196-7	drop	subject=mice
+ms-10-1038_s41467-026-77311-8	10.1038/s41467-026-77311-8	drop	subject=mouse
+ms-10-1038_s41522-026-01035-2	10.1038/s41522-026-01035-2	drop	subject=broilers,gut microbiome,gut microbiota,intestinal barrier
+ms-10-1038_s41526-026-00622-z	10.1038/s41526-026-00622-z	drop	subject=rat,rats
+ms-10-1038_s41588-026-02735-3	10.1038/s41588-026-02735-3	drop	
+ms-10-1038_s41598-026-54888-0	10.1038/s41598-026-54888-0	drop	subject=mice
+ms-10-1038_s41598-026-55182-9	10.1038/s41598-026-55182-9	drop	subject=gut microbiome
+ms-10-1038_s41598-026-57120-1	10.1038/s41598-026-57120-1	drop	
+ms-10-1038_s41598-026-63156-0	10.1038/s41598-026-63156-0	drop	subject=gut microbiota,inflammatory bowel
+ms-10-1038_s41598-026-69457-8	10.1038/s41598-026-69457-8	drop	subject=lymphoma
+ms-10-1038_s41598-026-70462-0	10.1038/s41598-026-70462-0	drop	subject=colorectal cancer
+ms-10-1126_sciadv-aec2424	10.1126/sciadv.aec2424	drop	subject=breast cancer
+ms-10-1126_sciadv-aeg2614	10.1126/sciadv.aeg2614	drop	subject=mouse
+ms-10-1186_s40104-026-01429-4	10.1186/s40104-026-01429-4	drop	subject=average daily gain,growth performance,gut microbiota
+ms-10-1186_s43088-026-00802-6	10.1186/s43088-026-00802-6	drop	subject=broilers
+ms-10-1371_journal-pcbi-1014018	10.1371/journal.pcbi.1014018	drop	subject=melanoma
+ms-10-1371_journal-ppat-1014493	10.1371/journal.ppat.1014493	drop	subject=mouse,murine
+ms-10-15283_ijsc25144	10.15283/ijsc25144	drop	subject=mouse
+ms-10-30574_wjarr-2026-31-1-1959	10.30574/wjarr.2026.31.1.1959	drop	subject=leukemia
+ms-10-32734_jpi-v14i01-25376	10.32734/jpi.v14i01.25376	drop	subject=growth performance
+ms-10-3389_fanim-2026-1880810	10.3389/fanim.2026.1880810	drop	subject=livestock
+ms-10-3389_fcell-2026-1832331	10.3389/fcell.2026.1832331	drop	subject=mouse
+ms-10-3389_fcell-2026-1858789	10.3389/fcell.2026.1858789	drop	subject=mice
+ms-10-3389_fcell-2026-1861860	10.3389/fcell.2026.1861860	drop	subject=prognosis
+ms-10-3389_fcell-2026-1862366	10.3389/fcell.2026.1862366	drop	subject=gastric cancer
+ms-10-3389_fcell-2026-1893353	10.3389/fcell.2026.1893353	drop	subject=mice
+ms-10-3389_fcimb-2026-1740163	10.3389/fcimb.2026.1740163	drop	subject=gut microbiota,intestinal barrier
+ms-10-3389_fcimb-2026-1862774	10.3389/fcimb.2026.1862774	drop	subject=livestock
+ms-10-3389_fgene-2026-1846707	10.3389/fgene.2026.1846707	drop	subject=mice,mouse
+ms-10-3389_fncel-2026-1848558	10.3389/fncel.2026.1848558	drop	subject=alzheimer,parkinson
+ms-10-3389_fphys-2026-1828410	10.3389/fphys.2026.1828410	drop	subject=rat
+ms-10-3390_ijms27125191	10.3390/ijms27125191	drop	subject=colorectal cancer
+ms-10-64898_2026-06-05-730478	10.64898/2026.06.05.730478	drop	subject=mice
+ms-10-7554_elife-111773	10.7554/elife.111773	drop	subject=drosophila melanogaster
+ref-15476286-2019-1586139	10.1080/15476286.2019.1586139	drop	subject=leukemia
+ref-advs-202307835	10.1002/advs.202307835	keep-methods	subject=covid-19;method-transferable
+ref-btaa997	10.1093/bioinformatics/btaa997	keep-methods	subject=mouse;method-transferable
+ref-gkr591	10.1093/nar/gkr591	keep-methods	subject=mouse;method-transferable
+ref-gks042	10.1093/nar/gks042	keep-methods	method-transferable
+ref-j-molcel-2017-01-023	10.1016/j.molcel.2017.01.023	keep-methods	subject=mouse;method-transferable
+ref-msb-20156198	10.15252/msb.20156198	keep-methods	subject=mouse;method-transferable
+ref-nature12172	10.1038/nature12172	drop	subject=mice,mouse
+ref-s41467-022-33758-z	10.1038/s41467-022-33758-z	keep-methods	subject=covid-19,mouse;method-transferable
+ref-s41586-019-1049-y	10.1038/s41586-019-1049-y	keep-methods	subject=mouse;method-transferable
+ref-s41586-019-1773-3	10.1038/s41586-019-1773-3	keep-methods	subject=zebrafish;method-transferable
+ref-s41587-021-00830-w	10.1038/s41587-021-00830-w	keep-methods	subject=mouse;method-transferable
+ref-science-aar5780	10.1126/science.aar5780	drop	subject=zebrafish
+sel-acel-70179	10.1111/acel.70179	drop	subject=mice
+xr-10-1038-s41586-019-0969-x	10.1038/s41586-019-0969-x	drop	subject=mouse

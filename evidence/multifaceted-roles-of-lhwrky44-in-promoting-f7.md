@@ -1,34 +1,43 @@
 ---
-title: "LhWRKY44 interacts with LhMYBSPLATTER and enhances the interaction between LhMYBSPLATTER and LhbHLH2"
-created: 2026-08-25
+title: "These results revealed a novel dual role for LhWRKY44- LhMYBSPLATTER in controlling …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[multifaceted-roles-of-lhwrky44-in-promoting]]"
 doi: "10.1093/hr/uhad167"
-species: [Arabidopsis thaliana, Malus domestica, Nicotiana tabacum]
-evidence_type: "protein interaction"
-quality: "medium"
-genes: [LhbHLH2, LhWRKY44]
-compounds: []
+species: ["Lilium spp.", "Nicotiana tabacum", "Malus domestica"]
+primary_species: "Lilium spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["LhWRKY44"]
+compounds: ["anthocyanin"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# LhWRKY44 interacts with LhMYBSPLATTER and enhances the interaction between LhMYBSPLATTER and LhbHLH2
+# These results revealed a novel dual role for LhWRKY44- LhMYBSPLATTER in controlling …
 
 ## Claim
-LhWRKY44 interacts with LhMYBSPLATTER and enhances the interaction between LhMYBSPLATTER and LhbHLH2.
+These results revealed a novel dual role for LhWRKY44- LhMYBSPLATTER in controlling anthocyanin accumulation in lily.
 
-## Biological Context
-Multifaceted roles of LhWRKY44 in promoting 花青素 积累 in Asiatic hybrid lilies (Lilium spp
+## Source
+- 文献: [[multifaceted-roles-of-lhwrky44-in-promoting]]
+- DOI: 10.1093/hr/uhad167
+- 主要物种: Lilium spp.
 
-## Supporting Evidence
-*Source: [[multifaceted-roles-of-lhwrky44-in-promoting]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: LhWRKY44
+- 自动标注化合物: anthocyanin
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

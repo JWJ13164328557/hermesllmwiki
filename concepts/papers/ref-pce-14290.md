@@ -1,14 +1,24 @@
-title: Jasmonic acid coordinates with light, glucose and auxin signalling in regulating
+---
+title: Jasmonic acid coordinates with light, glucose and auxin signalling in regulating branching angle of Arabidopsis lateral roots
 created: 2026-05-28
 type: concept
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags:
+- hormone-signaling
+- papers
 doi: 10.1111/pce.14290
 confidence: medium
-aliases: ["Jasmonic acid coordinates with light, glucose and auxin signalling in regulating"]
+aliases:
+- Jasmonic acid coordinates with light, glucose and auxin signalling in regulating
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Jasmonic acid coordinates with light, glucose and auxin signalling in regulating
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Jasmonic acid coordinates with light, glucose and auxin signalling in regulating
+---
+
+# Jasmonic acid coordinates with light, glucose and auxin signalling in regulating branching angle of Arabidopsis lateral roots
 
 
 
@@ -29,11 +39,11 @@ The role of jasmonates (JAs) in primary root growth and development and in plant
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

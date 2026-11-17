@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1016-j-cels-2019-03-003]]"
+  - "[[doubletfinder]]"
 supporting_figures:
   - "xr-10-1016-j-cels-2019-03-003#figure-1"
   - "xr-10-1016-j-cels-2019-03-003#figure-2"
@@ -27,6 +27,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.cels.2019.03.003"
+evidence_type: "descriptive/observational"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "low"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+tags: []
+theme_status: out-of-scope
+theme_basis: none
+claim_role: "finding"
+non_finding_kind: "result"
+evidence_type_prior: ""
+
 ---
 
 # Artificial Doublets Provide a Valid Training Set for Doublet Classification
@@ -43,7 +56,7 @@ Doublets (two cells captured in one droplet) are a common artifact in droplet-ba
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1016-j-cels-2019-03-003]] | DoubletFinder | Artificial doublets faithfully recapitulate real doublet signatures; DoubletFinder performance validated against ground truth (mixed-species experiment) | Multiple datasets including PBMC 10x benchmark |
+| [[doubletfinder]] | DoubletFinder | Artificial doublets faithfully recapitulate real doublet signatures; DoubletFinder performance validated against ground truth (mixed-species experiment) | Multiple datasets including PBMC 10x benchmark |
 
 ## Evidence Quality
 

@@ -1,12 +1,21 @@
-title: "OsLESV和OsESV1促进淀粉的短暂和贮藏生物合成，从而决定水稻籽粒品质和产量"
-journal: "unknown"
-year: ""
+---
+title: OsLESV和OsESV1促进淀粉的短暂和贮藏生物合成，从而决定水稻籽粒品质和产量
+journal: unknown
+year: ''
 type: paper
-tags: [#developmental-biology, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [Oryza sativa, Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

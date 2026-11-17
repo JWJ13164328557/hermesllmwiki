@@ -1,17 +1,25 @@
-title: "Single-cell transcriptomics sheds light on the identity and metabolism of developing leaf cells."
-pmid: "34687312"
-doi: "10.1093/plphys/kiab489"
-pmcid: "PMC3339379"
-journal: "Plant physiology"
-year: "2022"
-authors: "Rubén Tenorio Berrío, Kevin Verstaen, Niels Vandamme, Julie Pevernagie, Ignacio Achon"
+---
+title: Single-cell transcriptomics sheds light on the identity and metabolism of developing leaf cells.
+pmid: '34687312'
+doi: 10.1093/plphys/kiab489
+pmcid: PMC3339379
+journal: Plant physiology
+year: '2022'
+authors: Rubén Tenorio Berrío, Kevin Verstaen, Niels Vandamme, Julie Pevernagie, Ignacio Achon
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [Arabidopsis thaliana]
 methods: [scRNA-seq]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Single-cell transcriptomics sheds light on the identity and metabolism of developing leaf cells.
 
 ## 1. Scientific Context
 
@@ -115,10 +123,10 @@ As the main photosynthetic instruments of vascular plants, leaves are crucial an
 - 物种: Arabidopsis thaliana
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Arabidopsis, Gene Expression Profiling, Plant Cells, Plant Leaves, Single-Cell Analysis, Transcriptome
 

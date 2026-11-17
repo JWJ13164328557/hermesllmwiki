@@ -1,14 +1,24 @@
-title: PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to driv
+---
+title: PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to drive cell proliferation in Arabidopsis roots
 created: 2026-05-28
 type: concept
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags:
+- hormone-signaling
+- papers
 doi: 10.1093/plcell/koad028
 confidence: medium
-aliases: ["PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to driv"]
+aliases:
+- PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to driv
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to driv
+theme_status: mapped
+theme_basis: tag+keyword
 
-# PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to driv
+---
+
+# PAT1-type GRAS-domain proteins control regeneration by activating DOF3.4 to drive cell proliferation in Arabidopsis roots
 
 
 
@@ -29,16 +39,16 @@ Plant roots possess remarkable regenerative potential owing to their ability to 
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Nicotiana tabacum, Ficus carica
+**物种**: Arabidopsis thaliana, Nicotiana tabacum
 **方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), single-cell RNA-seq, qRT-PCR validation, Y2H, BiFC, overexpression, knockout/mutant
 **来源**: DOI:10.1093/plcell/koad028
 **来源类型**: PDF全文 (10.1093_plcell_koad028.pdf)

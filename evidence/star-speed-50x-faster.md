@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1093-bioinformatics-bts635]]"
+  - "[[star-ultrafast-universal-rna-seq-aligner]]"
 supporting_figures:
   - "xr-10-1093-bioinformatics-bts635#figure-2"
   - "xr-10-1093-bioinformatics-bts635#figure-3"
@@ -26,6 +26,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1093/bioinformatics/bts635"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: []
+theme_status: out-of-scope
+theme_basis: none
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # STAR Alignment Speed Exceeds Other RNA-seq Aligners by >50-Fold
@@ -42,7 +55,7 @@ Aligning RNA-seq reads to a reference genome is complicated by the need to map r
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1093-bioinformatics-bts635]] | STAR benchmarking | STAR 55× faster than TopHat2; 50–100× faster than GSNAP, MapSplice, RUM; comparable or better accuracy | Human ENCODE RNA-seq data |
+| [[star-ultrafast-universal-rna-seq-aligner]] | STAR benchmarking | STAR 55× faster than TopHat2; 50–100× faster than GSNAP, MapSplice, RUM; comparable or better accuracy | Human ENCODE RNA-seq data |
 
 ## Evidence Quality
 

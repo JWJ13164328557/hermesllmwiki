@@ -1,12 +1,21 @@
-title: "Soybean locus qDTF-7 as an example of genetic heterogeneity"
-journal: "unknown"
-year: ""
+---
+title: Soybean locus qDTF-7 as an example of genetic heterogeneity
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana, Glycine max]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -22,7 +31,7 @@ updated: 2026-05-30
 
 - [[alfalfa-anther-sc-atlas]]
 - [[alfalfa-cadmium-sc-multiomics]]
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[arabidopsis-root-sc-atlas-plantcell]]
 - [[arabidopsis-root-sc-atlas-review]]

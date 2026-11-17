@@ -1,34 +1,43 @@
 ---
-title: "In addition, we found among the C9 markers several genes encoding proteins involved in biotic stress"
-created: 2026-08-25
+title: "We found among the C9 markers several genes encoding proteins involved in biotic stress …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]"
 doi: "10.1016/j.xplc.2023.100676"
-species: [Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Solanum lycopersicum"]
+primary_species: "Solanum lycopersicum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In addition, we found among the C9 markers several genes encoding proteins involved in biotic stress
+# We found among the C9 markers several genes encoding proteins involved in biotic stress …
 
 ## Claim
-In addition, we found among the C9 markers several genes encoding proteins involved in biotic stress response.
+We found among the C9 markers several genes encoding proteins involved in biotic stress response.
 
-## Biological Context
-Cell specialization and coordination in Arabidopsis leaves upon pathogenic attack revealed by scRNA-seq
+## Source
+- 文献: [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]
+- DOI: 10.1016/j.xplc.2023.100676
+- 主要物种: Solanum lycopersicum
 
-## Supporting Evidence
-*Source: [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

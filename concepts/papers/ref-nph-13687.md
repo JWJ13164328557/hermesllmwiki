@@ -1,17 +1,21 @@
-title: 50 years of Arabidopsis research: highlights and future directions.
+---
+
+title: '50 years of Arabidopsis research: highlights and future directions.'
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1111/nph.13687
 confidence: medium
-aliases: ["50 years 的 Arabidopsis research: highlights 和 future directions."]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 42 MINUTES 36 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 45 MINUTES 21 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  03 HOURS 27 MINUTES 34 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["拟南芥研究50年：亮点和未来方向。"]
-aliases_extra: ["50 years of Arabidopsis research: highlights and future directions."]
-status: draft
-updated: "2026-05-29"
+aliases:
+- "cr-10-1111-nph-13687"
+aliases_extra: ['50 years of Arabidopsis research: highlights and future directions.']
+status: pollution
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # 50 years of Arabidopsis research: highlights and future directions.
 
@@ -34,16 +38,16 @@ updated: "2026-05-29"
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Zea mays, Solanum lycopersicum
 **方法**: CRISPR/Cas9, RNAi/VIGS, knockout/mutant, GWAS
 **来源**: DOI:10.1111/nph.13687
 **来源类型**: PDF全文 (10.1111_nph.13687.pdf)

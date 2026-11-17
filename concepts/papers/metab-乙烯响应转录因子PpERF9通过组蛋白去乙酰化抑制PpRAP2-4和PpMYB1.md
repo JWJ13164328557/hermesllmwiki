@@ -1,12 +1,21 @@
-title: "乙烯响应转录因子PpERF9通过组蛋白去乙酰化抑制PpRAP2.4和PpMYB114，从而抑制梨中花青素的生物合成"
-journal: "unknown"
-year: ""
+---
+title: 乙烯响应转录因子PpERF9通过组蛋白去乙酰化抑制PpRAP2.4和PpMYB114，从而抑制梨中花青素的生物合成
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

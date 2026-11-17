@@ -1,34 +1,43 @@
 ---
-title: "In this study, we focused on genes that play a key role in oil synthesis."
-created: 2026-08-25
+title: "Found that the significantly overexpressed FAD gene in the development of walnut embryos …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["genomics-evolution", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[transcriptome-analysis-of-walnut-juglans-regia]]"
 doi: "10.1021/acs.jafc.0c05598"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Juglans regia]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Arabidopsis", "tobacco"]
+primary_species: "Juglans regia"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["JrFAD3", "AtFAD3"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In this study, we focused on genes that play a key role in oil synthesis.
+# Found that the significantly overexpressed FAD gene in the development of walnut embryos …
 
 ## Claim
-In this study, we focused on genes that play a key role in oil synthesis.
+Found that the significantly overexpressed FAD gene in the development of walnut embryos should be JrFAD3.46 Notably, the phylogenetic analysis indicated that JrFAD3 is similar to AtFAD3 and Table 2.
 
-## Biological Context
-Transcriptome 分析 of Walnut (Juglans regia L.) Embryos 揭示 关键 Developmental Stages and Genes 参与的 in 脂质 生物合成 and Polyunsaturated Fatty Acid Metabolism
+## Source
+- 文献: [[transcriptome-analysis-of-walnut-juglans-regia]]
+- DOI: 10.1021/acs.jafc.0c05598
+- 主要物种: Juglans regia
 
-## Supporting Evidence
-*Source: [[transcriptome-analysis-of-walnut-juglans-regia]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: JrFAD3, AtFAD3
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

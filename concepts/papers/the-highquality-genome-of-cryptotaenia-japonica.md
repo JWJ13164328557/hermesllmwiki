@@ -1,15 +1,22 @@
-title: "The high‐quality genome of Cryptotaenia japonica and comparative genomics analysis reveals anthocyanin biosynthesis in A"
+---
+title: The high-quality genome of Cryptotaenia japonica and comparative genomics analysis reveals anthocyanin biosynthesis in Apiaceae
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags:
+- genomics-evolution
+- papers
 doi: 10.1111/tpj.16628
-pmid: 
-confidence: medium
-aliases: ["The high‐quality 基因组 of Cryptotaenia japonica and 比较 genomics 分析 揭示 花青素 生物合成 in Apiaceae"]
+pmid: ''
+aliases:
+- The high‐quality 基因组 of Cryptotaenia japonica and 比较 genomics 分析 揭示 花青素 生物合成 in Apiaceae
+title_fixed_from: The high‐quality genome of Cryptotaenia japonica and comparative genomics analys
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The high‐quality 基因组 of Cryptotaenia japonica and 比较 genomics 分析 揭示 花青素 生物合成 in Apiaceae
+---
 
-> The high‐quality genome of Cryptotaenia japonica and comparative genomics analysis reveals anthocyanin biosynthesis in Apiaceae
+# The high‐quality genome of Cryptotaenia japonica and comparative genomics analysis reveals anthocyanin biosynthesis in Apiaceae
 
 ## 论文信息
 - **期刊**: The Plant Journal (2024)
@@ -25,7 +32,16 @@ SUMMARYCryptotaenia japonica, a traditional medicinal and edible vegetable crops
 
 ## 深度提炼
 
+**主要物种**: Cryptotaenia japonica
+**物种**: Cryptotaenia japonica, Daucus carota, Panax spp., Arabidopsis thaliana
+**方法**: transcriptomics (RNA-seq), genomics, Y2H, phylogenetics
+**来源**: DOI:10.1111/tpj.16628
+**来源类型**: PDF全文 (91 鸭儿芹的高质量基因组和比较基因组学分析揭示了伞形科花青素的生物合成.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. The CjANSa, CjDFRb, and CjF3H gene might be the target of Cjaponica_2.2062 (bHLH) and Cjaponica_1.3743 (MYB).
+2. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License (PK) was a large and widely distributed protein super-family found in Apiaceae species and played important roles in various signaling pathways via phosphorylation of serine, threonine, and tyrosine amino a
+3. It showed that CjbHLH could interact with CjANSa, CjF3H, and CjDFRb.
+4. Here, the Y2H assay indicated CjbHLH could interact with CjANSa, CjF3H, and CjDFRb.
+5. MYB proteins could interact with the partner bHLH proteins to regulate anthocyanins biosynthesis in many plant species (Duan et al., 2023; Yan et al., 2020).
+6. Remarkably, a recent species-speciﬁc WGD event was investigated in water dropwort, together with the report for O.

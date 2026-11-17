@@ -2,326 +2,362 @@
 
 title: "单细胞与空间组学 — Synthesis"
 created: 2026-06-01
-total_evidence: 359
-total_papers: 52
+total_evidence: 276
+total_papers: 138
+library_papers: 405  # 全库按themes归类该主题文献数
 type: synthesis
+body_status: rebuilt-2026-11-17
 tags: [synthesis, single-cell, spatial-omics, transcriptomics, plant-atlas]
 
 
 soybean_relevance: ⭐中
----
-
-# 单细胞与空间组学 知识综合
-
-## 范围
-综合自 550 条证据，覆盖 78 篇文献（2026-06-01 更新）。涵盖单细胞转录组（scRNA-seq）、单核转录组（snRNA-seq）、单核染色质可及性（snATAC-seq）、空间转录组学（spatial transcriptomics）及多组学整合在植物研究中的应用，主要聚焦根、茎尖、花序、叶片等器官的细胞图谱构建与功能解析。
-
-## 子主题
-
-### 单细胞转录组图谱
-多篇核心文献
-- 拟南芥根器官尺度单细胞图谱捕获了超过 25 个细胞类群的空间与时序表达信息，涵盖从分生组织到完全分化细胞的全发育轴
-- 拟南芥根至少包含 15 个转录组学可区分的细胞类型（表皮、皮层、内皮层、中柱鞘、中柱、根冠、静止中心等），多个独立研究一致确认
-- 水稻根尖 scRNA-seq 在两个栽培品种（日本晴 Nipponbare、Azucena）中解析了主要细胞类型，包括单子叶特有的外皮层和厚壁组织
-- 玉米发育早期雌穗（1–5 mm）scRNA-seq 鉴定了 12 个细胞类群，涵盖花序分生组织（IM）、小穗对分生组织（SPM）、小穗分生组织（SM）和花分生组织（FM），由 in situ 杂交验证
-- 更高分辨率聚类（24 个类群 vs. 15 个类群）可揭示细胞谱系的发育亚状态，但最优聚类数仍存在争议
-- 交互式在线数据库 Root Atlas 为社区提供了根 scRNA-seq 数据的开放访问
-
-### 空间转录组学
-多篇核心文献
-- Harmony 算法实现了 scRNA-seq 与空间转录组数据跨模态整合，将解离细胞的转录组映射到空间位置
-- 玉米叶片连续空间转录组学揭示了叶片发育过程中的空间梯度与调控转变
-- 小麦花序空间转录组揭示了发育中的表达梯度
-- 空间转录组学与 snRNA-seq 配对整合可注释玉米免疫反应中的细胞类型特异性空间分布
-- 替代整合工具包括 Tangram、cell2location、RCTD 等
-
-### 发育轨迹与拟时序分析
-多篇核心文献
-- Monocle 3 可从约 200 万个细胞的 MOCA 数据中鉴定 56 条发育轨迹
-- 拟南芥根内皮层假时间分析识别了约 800 个动态表达基因，覆盖木质素合成（Casparian 带形成）、转录因子（MYB36、SHR、SCR）及转运蛋白等功能类别
-- 假时间和 RNA 速率分析揭示了具有不同分化方向的细胞群体
-- 胚乳与胚的全面发育轨迹揭示了早期胚胎发生的转录动态
-- 拟时序方法在植物根发育轨迹重建中有效，但属计算推断，需空间验证
-
-### 技术方法与平台
-多篇核心文献
-- 10x Genomics 液滴法 scRNA-seq 在植物原生质体中技术可行，是植物单细胞研究的主流平台
-- Drop-seq 是另一种适用于植物根组织的高通量 scRNA-seq 方法
-- **核基方法（snRNA-seq）可规避原生质体化诱导的转录假象**（包括胁迫基因诱导和细胞类型偏向性回收），但核 RNA 仅捕获总转录组的一部分
-- snATAC-seq 可基于差异染色质可及性解析拟南芥根细胞类型，与 scRNA-seq 分类一致
-- 多组学技术（snRNA-seq + snATAC-seq 同步分析）在植物中仍处于起步阶段
-
-### 细胞类型特异性胁迫响应
-多篇核心文献
-- 尽管核心热激基因（HSPs）在各细胞类型中均上调，scRNA-seq 揭示了细微但显著的细胞类型特异性热胁迫转录响应差异
-- 一些细胞类型在热胁迫下激活独特的基因集或改变分化轨迹，但其功能意义尚未证实
-- 玉米中，snRNA-seq 联合空间转录组揭示细胞通讯在免疫防御中的关键作用——表皮细胞基因 ZmHSP90（Zm00001eb101750）与叶肉细胞基因 ZmWAK2（Zm00001eb071970）在病原菌侵染时相互作用
-- 感染后 24 和 48 小时分析揭示了 8 种主要细胞类型及其时间动态
-
-### 细胞类型标记基因与资源
-多篇核心文献
-- 水稻两个栽培品种的细胞类型特异性标记基因已系统定义（如内皮层 OsSCR、中柱 OsSHR），为单子叶根功能基因组学提供参考
-- 拟南芥根图谱作为社区参考资源，可用于解释新的 scRNA-seq 数据集
-- 标记基因集通过已知原位杂交数据和拟南芥直系同源基因验证
-
-## 共识发现
-
-1. **scRNA-seq 可跨物种可靠解析主要细胞类型** — 在拟南芥（≥15 种细胞类型）、水稻（包括外皮层等单子叶特有类型）和玉米（花序分生组织域）中均得到多研究验证
-2. **根是目前植物单细胞图谱最全面的器官** — 拟南芥根具有器官尺度的完整 scRNA-seq 图谱，覆盖全发育轴，>25 个细胞类群包含分化中间态
-3. **核基方法（snRNA-seq/snATAC-seq）是原生质体法的可行替代方案** — 可避免细胞壁酶解诱导的胁迫假象和细胞类型偏向性，但核转录组完整性有限
-4. **空间转录组整合是连接转录组聚类与组织空间结构的关键** — Harmony、Tangram 等工具可将 scRNA-seq 细胞注释映射到空间坐标，实现跨模态分析
-5. **细胞类型特异性胁迫响应超越经典共享胁迫程序** — 热胁迫和免疫响应均表现出细胞类型特异性转录差异（如 ZmHSP90-ZmWAK2 介导的表皮-叶肉细胞通讯），表明胁迫生物学需要单细胞分辨率
-6. **发育假时间分析揭示了谱系特异性转录动力学** — 内皮层约 800 个基因沿分化轨迹动态表达，涉及 MYB36/SHR/SCR 等关键调控因子以及木质素合成通路
-
-## 知识空白与争议
-
-1. **大豆（Glycine max）缺乏单细胞和空间转录组图谱** — 目前所有植物单细胞图谱集中在拟南芥、水稻、玉米等模式/作物物种，豆科作物（尤其大豆节间组织）的细胞分辨率转录组数据完全缺失
-2. **空间转录组整合方法的系统基准测试不足** — Harmony 等跨模态整合工具在植物中的性能尚未与 Tangram、cell2location 等专用方法全面比较
-3. **细胞类型特异性调控网络的功能验证匮乏** — 单细胞数据大多停留在描述层面，CRISPR 筛选等功能验证实验几乎未开展（如内皮层 800 个动态基因中哪些是功能必需的未知）
-4. **最优聚类分辨率尚无共识** — 同一拟南芥根数据集在 15 类和 24 类之间差异取决于参数，生物学最优分辨率取决于研究问题，无统一标准
-5. **原生质体法与核法的转录组差异未完全量化** — 核 RNA 丢失的转录本比例及生物类型偏倚缺乏系统评估
-6. **单细胞多组学（同步 RNA + ATAC）在植物中仍处于萌芽阶段** — 相比哺乳动物领域的成熟应用，植物多组学整合受限于技术挑战（如核分离效率、数据稀疏性）
-7. **细胞通讯推断主要依赖配体-受体共表达** — 缺乏植物特异的细胞通讯验证实验体系（如空间配体-受体邻近连接测定）
-
-## 与大豆节间光质项目关联 ⭐中
-
-单细胞与空间组学的方法体系与大豆节间光质响应项目存在显著的方法学关联，但目前尚缺乏直接的大豆数据支撑。
-
-**关联性**：光质（如红光/远红光比例、蓝光）对节间伸长的调控涉及多个组织层次（表皮、皮层、维管束、髓），不同细胞类型可能对光信号有不同的转录响应。当前研究已证实拟南芥根中存在细胞类型特异性的热胁迫响应——同一原则适用于光质响应：不同节间细胞类型可能激活不同的光信号通路（PHYB-CRY-GA 等），单细胞分辨率对于解析这一异质性至关重要。此外，玉米叶片空间转录组学已证明空间梯度分析在发育生物学中的价值，类似方法可直接应用于大豆节间的光质响应梯度研究。
-
-**当前瓶颈**：大豆尚无任何公开发表的单细胞或空间转录组数据集。节间组织（尤其是大豆）的细胞壁成分复杂，原生质体分离难度大，snRNA-seq 可能是更可行的切入点。建议优先建立大豆节间 snRNA-seq 流程，并结合空间转录组学（如 Stereo-seq 或 Visium）在对照和不同光质条件下绘制节间细胞图谱。
-
-**方法论可迁移性**：10x Genomics 平台在拟南芥、水稻和玉米原生质体/细胞核中均已验证，技术流程可直接适配大豆。水稻节点转运蛋白基因的单细胞功能鉴定研究为大豆节间单细胞分析提供了作物参考范式。
-
-## 核心基因
-
-| 基因 | 证据数 | 功能角色 |
-|------|--------|---------|
-| ZmHSP90 (Zm00001eb101750) | 1 | 玉米表皮细胞热激蛋白，参与免疫细胞通讯 |
-| ZmWAK2 (Zm00001eb071970) | 1 | 玉米叶肉细胞壁关联激酶，与 ZmHSP90 互作介导防御 |
-| MYB36 | 多篇 | 内皮层 Casparian 带形成的主调控因子 |
-| SHR (SHORT-ROOT) | 多篇 | 中柱/内皮层细胞命运决定，OsSHR 为水稻中柱标记基因 |
-| SCR (SCARECROW) | 多篇 | 内皮层分化调控，OsSCR 为水稻内皮层标记基因 |
-| OsSCR | 1 | 水稻内皮层细胞类型标记基因 |
-| OsSHR | 1 | 水稻中柱细胞类型标记基因 |
-
-## 文献分布
-
-| 物种 | 篇数（估计） |
-|------|-------------|
-| Arabidopsis thaliana | ~120 |
-| Oryza sativa (水稻) | ~80 |
-| Zea mays (玉米) | ~60 |
-| Triticum aestivum (小麦) | ~25 |
-| Solanum lycopersicum (番茄) | ~15 |
-| Medicago sativa (苜蓿) | ~10 |
-| Populus (杨树) | ~8 |
-| 其他/多物种 | ~163 |
-
-## 代表性文献 (Top 10)
-
-1. [[arabidopsis-root-organ-scale-atlas]] — 拟南芥根器官尺度单细胞图谱，捕获全发育轴 >25 个细胞类群的时空基因表达
-2. [[arabidopsis-root-has-15-cell-types]] — 三篇独立研究一致确认拟南芥根至少包含 15 个转录组可区分细胞类型
-3. [[b3-l7tWWswvI2rZ5ba_4V2BsQ]] — 整合单细胞与空间转录组揭示玉米细胞类型特异性免疫反应，发现 ZmHSP90-ZmWAK2 介导的表皮-叶肉通讯
-4. [[maize-ear-cell-types-scrna-seq]] — 玉米发育雌穗 scRNA-seq 图谱，解析花序分生组织域的细胞多样性
-5. [[b3-RLgcYH-oLXkkTFajo9NYBA]] — 玉米叶片连续空间转录组揭示发育调控转变
-6. [[rice-root-cell-types-10x]] — 水稻两个栽培品种根尖 scRNA-seq，建立单子叶根单细胞参考图谱
-7. [[b3-Lj9ToIUf0z9y77oj4ELKlQ]] — 小麦花序空间转录组揭示发育表达梯度
-8. [[endodermis-800-dynamic-genes]] — 内皮层假时间分析鉴定约 800 个沿分化轨迹动态表达的基因
-9. [[nuclei-avoid-protoplast-bias]] — 核基单细胞方法规避原生质体化转录假象，为 snRNA-seq 提供方法论基础
-10. [[snATAC-seq-resolves-root-cell-types]] — snATAC-seq 基于染色质可及性差异解析拟南芥根细胞类型
-
-
-## Absorbed Sub-Themes
-
-
-### spatial-omics-signaling (absorbed)
-: 2 tags
-status: auto-generated
-updated: 2026-06-01
----
-
-# 📄 Synthesis: Spatial-Omics & Signaling
-
-## Domain Overview
-
-自动发现主题 — 核心: spatial-omics, signaling | 全部标签: spatial-omics, signaling
-
-**统计**:
-- 涵盖论文: ~52 篇
-- 证据条目: 359 条
-- 共识发现: 0 项
-- 潜在争议: 0 项
-- 核心标签: spatial-omics, signaling
-
-**与大豆项目的关联**: 低 — 间接关联
+legacy_archive: _review/synthesis_legacy_20261117/single-cell-spatial-omics.md
+rebuild_rule: evidence-fields-only; no-cross-evidence-inference
+rebuild_version: v3
 
 ---
+# 单细胞与空间组学 知识综合（证据重建版 v3）
 
-## Consensus Findings (跨论文共识)
+<!-- AUTO-EVIDENCE-STRENGTH:START -->
 
+## 证据覆盖与强度（自动统计，可复算）
 
+| 指标 | 值 | 读法 |
+|---|---|---|
+| 证据条目 | 276 | 本主题归属的证据对象数 |
+| 独立论文 | 138 | 去重后的 PMID/DOI 数 |
+| 平均每篇证据数 | 2.00 | <1.0 说明多数论文只贡献 1 条结论 |
+| 单条证据论文占比 | 50% | 越高说明"每篇论文一个结论"，系统性弱 |
+| 主要物种 | Arabidopsis thaliana(110)、Oryza sativa(90)、Zea mays(62)、—(24)、Plant (unspecified)(23)、Triticum aestivum(23) | 物种过度集中则外推性受限 |
+| 证据类型 | omics/co-occurrence 155；descriptive/observational 96；expression/regulation 15；protein interaction 4；phenotypic/association 2；genetic perturbation 2 | 表达/关联类居多时，因果结论需打折扣 |
 
----
+> 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
-## Contradictions & Controversies (争议与矛盾)
+### 可复核证据索引（前 12 条，按断言长度）
 
-\n> 当前证据簇中未检测到明显矛盾，需人工审查确认。\n
+| 证据 ID | DOI | 断言（截断） |
+|---|---|---|
+| `daily-42255287-f1` | 10.3389/fpls.2026.1809797 | In summary, while current systems offer specific advantages, inherent limitations–namely,  |
+| `daily-42530009-f2` | 10.1093/plphys/kiag560 | Using single-cell microfluidics, transcriptomics, and metabolomics, we show that Δ glgC mu |
+| `ref-j-tplants-2019-10-008-f1` | 10.1016/j.tplants.2019.10.008 | Once encapsulated in a droplet, cells are immediately lysed, releasing RNA that binds to p |
+| `cr-annurev-arplant-0817-f4` | 10.1146/annurev-arplant-081720-010120 | Multiplexing Using Lipid-Tagged Indices for single-cell and single-nucleus RNA-seq (MULTI- |
+| `b3-l7tWWswvI2rZ5ba_4V2BsQ-f5` | 10.1002/advs.202512295 | For instance, the snRNA-seq data demonstrated that the epidermal cell gene Zm00001eb101750 |
+| `daily-42288963-f2` | 10.1093/plphys/kiag372 | Although SLIM1, RVE1, and RVE8 bind to the promoters of OAS cluster genes, only SLIM1 play |
+| `root-cell-type-specific-chromatin-accessibility` | 10.1016/j.molp.2021.01.001 | Single-cell ATAC-seq of Arabidopsis roots reveals that each major cell type exhibits a dis |
+| `snATAC-seq-resolves-root-cell-types` | 10.1016/j.molp.2021.01.001 | Single-nucleus ATAC-seq (snATAC-seq) of Arabidopsis roots resolves major cell types based  |
+| `dpdf-10-1111-tpj-f11` | 10.1111/tpj | To the known regulators of the leaf vein, we also found novel marker genes, such as HEAVY  |
+| `ref-s41477-025-02072-z-f5` | 10.1038/s41477-025-02072-z | Examining the expression of these silique guard cell markers in the context of whole-plant |
+| `daily-40904198-f8` | 10.1111/pbi.70351 | The raw count data for the tissue specific target genes at each randomly sampled bin ID (l |
+| `poplar-xylem-sc-spatial-gb-f5` | 10.1186/s13059-026-04007-z | Given the complementary nature of these two technologies—scRNA-seq offering high-resolutio |
 
----
+### 证据语义分层
 
-## Knowledge Gaps (知识空白)
+| 证据类型 | 条目数 | 可支持的推断强度 |
+|---|---:|---|
+| genetic perturbation | 2 | 遗传因果（扰动后表型/表达改变） |
+| protein interaction | 4 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
+| DNA binding/regulation | 2 | 直接调控（ChIP/EMSA/启动子报告） |
+| expression/regulation | 15 | 表达相关（转录组/qPCR，不能单独推因果） |
+| phenotypic/association | 2 | 表型关联（GWAS/QTL/自然变异/田间） |
+| omics/co-occurrence | 155 | 组学共现（单细胞簇/共表达网络，非调控） |
+| descriptive/observational | 96 | 描述性/背景陈述（未报告可核验的实验设计） |
 
-- 跨物种保守性: 多数发现来自拟南芥，作物中的功能验证不足\n- 空间维度: 缺乏空间转录组级别的发育轨迹分析\n- 时间分辨率: 发育过程的高时间分辨率采样不足
+> 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
----
+### 遗传扰动类证据（仅高置信规则命中，前 5 条；仍须回原文核实）
 
-## Key Papers (关键文献)
+| 证据 ID | DOI | 断言（截断） |
+|---|---|---|
+| `daily-42255287-f1` | 10.3389/fpls.2026.1809797 | In summary, while current systems offer specific advantages, inherent limitations–namely, a reliance |
+| `daily-42530009-f2` | 10.1093/plphys/kiag560 | Using single-cell microfluidics, transcriptomics, and metabolomics, we show that Δ glgC mutants exhi |
 
-以下为自动识别的高证据量论文:
+### 正文状态
 
-<!-- 待补充: 基于 cita
+> frontmatter 标记 `body_status: rebuilt-*` 的页面，其子主题正文由 `rebuild_synthesis_body.py` 按本页证据确定性重建；本自动段是该快照的统计摘要。未标记的页面保留历史正文，机制性表述须逐条回原文核对，不得仅凭本页引用。
 
-### spatial-transcriptomics (absorbed)
- tags
-status: auto-generated
-updated: 2026-06-01
----
+<!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-# 🗺️ Synthesis: Spatial-Transcriptomics
+> 本页正文于 2026-11-17 由 `rebuild_synthesis_body.py` 从 **276 条证据对象 / 138 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261117`，不再作为本页结论来源。
+>
+> 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
-## Domain Overview
+## 0. 综述提要（受控生成）
 
-自动发现主题 — 核心: spatial-transcriptomics | 全部标签: spatial-transcriptomics
+本主题当前纳入 **276 条证据 / 138 篇文献**。规则判定为因果或直接调控的 **8 条（2.9%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **1 条**。可判定程度最高的结论集中在SLIM1：Although SLIM1, RVE1, and RVE8 bind to the promoters of OAS cluster genes, only SLIM1 plays a role in their regulation by OAS, and its effec…（[[daily-42288963-f2]]）。研究重心位于“图集构建与细胞类型注释”（183 条证据，占 66%）。证据的物种分布以 Arabidopsis thaliana 为首（110 条，40%）。七类证据均有覆盖，但遗传扰动、DNA 结合、表型关联各仅 1–2 条；主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
-**统计**:
-- 涵盖论文: ~52 篇
-- 证据条目: 359 条
-- 共识发现: 0 项
-- 潜在争议: 0 项
-- 核心标签: spatial-transcriptomics
+> 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
-**与大豆项目的关联**: 低 — 间接关联
+## 1. 主题概览（自动统计）
 
----
+| 指标 | 值 | 读法 |
+|---|---|---|
+| 证据对象 | 276 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 138 | 去重后的论文数 |
+| 平均每篇证据数 | 2.00 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
+| 单条证据论文占比 | 49%（68/138） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | omics/co-occurrence(155)、descriptive/observational(96)、expression/regulation(15)、protein interaction(4)、phenotypic/association(2)、genetic perturbation(2)、DNA binding/regulation(2) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | medium(174)、low(98)、high(4) | 低置信度标注须回原文核对 |
+| 主要物种 | Arabidopsis thaliana(110)、Oryza sativa(90)、Zea mays(62)、Plant (unspecified)(23)、Triticum aestivum(23)、Nicotiana tabacum(22) | 物种过度集中则外推性受限 |
+| 子主题覆盖 | 6/7（证据 <5 条的 1 个） | 覆盖缺口见第 7 节 |
+| 未命中任何子主题的证据 | 58（21%） | 占比高说明子主题词表或证据文本需扩表 |
 
-## Consensus Findings (跨论文共识)
+因果级证据共 **8 条**，占本主题证据的 **2.9%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
+物种主导度：**Arabidopsis thaliana** 出现在 110 条证据（40%）。分布较分散，单物种主导风险较低，但需注意各物种证据层级是否可比。
 
+## 2. 子主题分解（按证据重建）
 
----
+> 一条证据可同时命中多个子主题（共 32 条跨组），因此各子主题计数之和大于总证据数。物种×类型交叉表只统计已标注字段，空单元格表示该组合无证据，不等于不存在相应生物学过程。凡“因果层 0 条”的子主题，其代表断言只能读作相关性，不得改写为调控或因果。
 
-## Contradictions & Controversies (争议与矛盾)
+### 2.1 图集构建与细胞类型注释
 
-\n> 当前证据簇中未检测到明显矛盾，需人工审查确认。\n
+**规模** 183 条证据 / 102 篇文献；**构成** descriptive/observational(87)、omics/co-occurrence(78)、expression/regulation(13)、phenotypic/association(2)、DNA binding/regulation(2)、protein interaction(1)；**因果层** 3 条（可支撑有限机制表述）。
 
----
 
-## Knowledge Gaps (知识空白)
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-- 跨物种保守性: 多数发现来自拟南芥，作物中的功能验证不足\n- 空间维度: 缺乏空间转录组级别的发育轨迹分析\n- 时间分辨率: 发育过程的高时间分辨率采样不足
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Oryza sativa、Zea mays，反复出现的实体为ZmWUS1、RVE1、sesquiterpene、lignin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f2]]；Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f4]]；Ruilian et al., 2024 [[a-single-cell-transcriptome-atlas-reveals-the-trajectory-of-early-cell-fate-tran-f5]]）。
+- **证据层级的张力**：3 条属于遗传扰动/蛋白互作/DNA 结合，180 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-42288963-f2]]；Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f2]]）。
+- **可检验缺口**：遗传扰动在本组缺证据；在补齐这些设计前，ZmWUS1、RVE1、sesquiterpene 与“图集构建与细胞类型注释”的方向性关系应作为待检验命题（Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f2]]；Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f4]]）。
 
----
+**物种 × 证据类型（前 5 物种）**
 
-## Key Papers (关键文献)
+| 物种 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|---|
+| Arabidopsis thaliana | 1 | 0 | 8 | 1 | 28 | 36 | 74 |
+| Oryza sativa | 0 | 0 | 3 | 0 | 32 | 19 | 54 |
+| Zea mays | 0 | 0 | 2 | 0 | 21 | 11 | 34 |
+| Plant (unspecified) | 0 | 0 | 1 | 0 | 2 | 12 | 15 |
+| Nicotiana tabacum | 0 | 0 | 1 | 0 | 11 | 3 | 15 |
 
-以下为自动识别的高证据量论文:
+**基因实体（自动标注，前 5）**：ZmWUS1(2)、RVE1(2)、RVE8(2)、SLIM1(2)、OpAVT1(2)（标注覆盖 32/183）。
 
-<!-- 待补充: 基于 citation 和 
+**化合物实体（自动标注，前 5）**：sesquiterpene(2)、lignin(2)、ginsenoside(1)、theanine(1)、suberin(1)（标注覆盖 7/183）。
 
-### single-cell (absorbed)
-erated
-updated: 2026-06-01
----
+**标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation-f1]]。
 
-# 🔬 Synthesis: Single-Cell
+**代表断言（原文摘录，未改写）**
 
-## Domain Overview
+- “Single-cell ATAC-seq of Arabidopsis roots reveals that each major cell type exhibits a distinct genome-wide chromatin accessibility landscape, with differential accessibility at ge…” — [[root-cell-type-specific-chromatin-accessibility]]（`10.1016/j.molp.2021.01.001`，DNA binding/regulation）
+- “Although SLIM1, RVE1, and RVE8 bind to the promoters of OAS cluster genes, only SLIM1 plays a role in their regulation by OAS, and its effects are gene specific.” — [[daily-42288963-f2]]（`10.1093/plphys/kiag372`，protein interaction）
+- “To the known regulators of the leaf vein, we also found novel marker genes, such as HEAVY METAL ASSOCIATED ISOPRENYLATED PLANT PROTEIN 36 (HIPP36), ARABIDOPSIS THALIANA HISTIDINE-C…” — [[dpdf-10-1111-tpj-f11]]（`10.1111/tpj`，omics/co-occurrence）
 
-自动发现主题 — 核心: single-cell | 全部标签: single-cell
+### 2.2 空间转录组与位置映射
 
-**统计**:
-- 涵盖论文: ~52 篇
-- 证据条目: 359 条
-- 共识发现: 0 项
-- 潜在争议: 0 项
-- 核心标签: single-cell
+**规模** 16 条证据 / 12 篇文献；**构成** omics/co-occurrence(15)、descriptive/observational(1)；**因果层** 0 条（仅关联/描述，不得写因果）。
 
-**与大豆项目的关联**: 低 — 间接关联
 
----
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-## Consensus Findings (跨论文共识)
+- **一致的观察范围**：本组证据集中在Hordeum vulgare、Triticum aestivum、Arabidopsis thaliana，反复出现的实体为RA2、RAMOSA2、theanine；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-40904198-f1]]；[[daily-40904198-f3]]；[[daily-42028465-f4]]）。
+- **证据层级的张力**：本组 0 条因果级证据，全部 16 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（[[daily-40904198-f1]]；[[daily-40904198-f3]]）。
+- **可检验缺口**：遗传扰动、DNA 结合、蛋白互作、表达相关、表型关联在本组缺证据；在补齐这些设计前，RA2、RAMOSA2、theanine 与“空间转录组与位置映射”的方向性关系应作为待检验命题（[[daily-40904198-f1]]；[[daily-40904198-f3]]）。
 
+**物种 × 证据类型（前 5 物种）**
 
+| 物种 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|
+| Hordeum vulgare | 5 | 0 | 5 |
+| Triticum aestivum | 4 | 1 | 5 |
+| Arabidopsis thaliana | 5 | 0 | 5 |
+| Oryza sativa | 4 | 1 | 5 |
+| Zea mays | 2 | 1 | 3 |
 
----
+**基因实体（自动标注，前 5）**：RA2(1)、RAMOSA2(1)（标注覆盖 1/16）。
 
-## Contradictions & Controversies (争议与矛盾)
+**化合物实体（自动标注，前 5）**：theanine(1)（标注覆盖 1/16）。
 
-\n> 当前证据簇中未检测到明显矛盾，需人工审查确认。\n
+**代表断言（原文摘录，未改写）**
 
----
+- “Here, we report multiplexed error-robust FISH (MERFISH), a highly multiplexed smFISH imaging method that substantially increases the number of RNA species that can be simultaneousl…” — [[ref-science-aaa6090-f3]]（`10.1126/science.aaa6090`，omics/co-occurrence）
+- “Spatial Omics: From Two-Dimensional Sections to Thick Tissues Dissociation-based methods discard position; spatial omics recovers it, and for rice the recovered information determi…” — [[daily-42653123-f2]]（`10.3390/ijms27167114`，descriptive/observational）
+- “Nevertheless, despite these limitations, technical improvements in Stereo-seq are expected to provide new insights into tissue composition and function by combining single cell tra…” — [[introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran-f5]]（`10.1016/j.tplants.2023.10.002`，omics/co-occurrence）
 
-## Knowledge Gaps (知识空白)
+### 2.3 发育轨迹与拟时序推断
 
-- 跨物种保守性: 多数发现来自拟南芥，作物中的功能验证不足\n- 空间维度: 缺乏空间转录组级别的发育轨迹分析\n- 时间分辨率: 发育过程的高时间分辨率采样不足
+**规模** 19 条证据 / 16 篇文献；**构成** descriptive/observational(9)、omics/co-occurrence(8)、expression/regulation(2)；**因果层** 0 条（仅关联/描述，不得写因果）。
 
----
 
-## Key Papers (关键文献)
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-以下为自动识别的高证据量论文:
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Gossypium hirsutum、Plant (unspecified)，反复出现的实体为EPF1、ERL1；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[b3-Oe9xghJ07Ub3C93cYl12oQ-f2]]；[[b4-_dqlLGuPZxhNXXs6caCEwg-f2]]；Renhui et al., 2023 [[combining-single-cell-rna-sequencing-with-spatial-transcriptome-analysis-reveals-f1]]）。
+- **证据层级的张力**：本组 0 条因果级证据，全部 19 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（[[b3-Oe9xghJ07Ub3C93cYl12oQ-f2]]；[[b4-_dqlLGuPZxhNXXs6caCEwg-f2]]）。
+- **可检验缺口**：遗传扰动、DNA 结合、蛋白互作、表型关联在本组缺证据；在补齐这些设计前，EPF1、ERL1 与“发育轨迹与拟时序推断”的方向性关系应作为待检验命题（[[b3-Oe9xghJ07Ub3C93cYl12oQ-f2]]；[[b4-_dqlLGuPZxhNXXs6caCEwg-f2]]）。
 
-<!-- 待补充: 基于 citation 和 evidence 数量的排名 -->
+**物种 × 证据类型（前 5 物种）**
 
----
+| 物种 | 表达相关 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|
+| Arabidopsis thaliana | 0 | 4 | 5 | 9 |
+| Gossypium hirsutum | 2 | 1 | 1 | 4 |
+| Plant (unspecified) | 0 | 1 | 2 | 3 |
+| Populus spp. | 0 | 1 | 1 | 2 |
+| Medicago spp. | 0 | 1 | 1 | 2 |
 
-## Hypotheses Emerging from This Synthesis
+**基因实体（自动标注，前 5）**：EPF1(1)、ERL1(1)、HDG2(1)（标注覆盖 1/19）。
 
+**标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[time-series-single-cell-transcriptional-atlases-reveal-cell-fate-differentiation-f1]]。
 
+**代表断言（原文摘录，未改写）**
 
-### plant-single-cell-scrnaseq (absorbed)
-luster_size: 2 tags
-status: auto-generated
-updated: 2026-06-01
----
+- “Given the complementary nature of these two technologies—scRNA-seq offering high-resolution transcriptomic profiles but restricted to thin-walled, wall-degradable cells, and snRNA-…” — [[poplar-xylem-sc-spatial-gb-f5]]（`10.1186/s13059-026-04007-z`，omics/co-occurrence）
+- “Through reconstructing the differentiation process of the HF epidermal cell lineage, we found that HS and IRS are predominantly located in the later stages of the differentiation t…” — [[ms-10-3389_fcell-2026-1764812-f4]]（`10.3389/fcell.2026.1764812`，descriptive/observational）
+- “Pseudotime analysis of endodermis scRNA-seq data identifies approximately 800 genes with dynamically changing expression levels as cells progress from meristematic to fully differe…” — [[endodermis-800-dynamic-genes]]（`10.1016/j.devcel.2019.02.022`，omics/co-occurrence）
 
-# 📄 Synthesis: Plant-Single-Cell & Scrnaseq
+### 2.4 技术平台与建库方法
 
-## Domain Overview
+**规模** 19 条证据 / 16 篇文献；**构成** omics/co-occurrence(15)、protein interaction(1)、genetic perturbation(1)、descriptive/observational(1)、DNA binding/regulation(1)；**因果层** 3 条（可支撑有限机制表述）。
 
-自动发现主题 — 核心: plant-single-cell, scrnaseq | 全部标签: plant-single-cell, scrnaseq
 
-**统计**:
-- 涵盖论文: ~52 篇
-- 证据条目: 359 条
-- 共识发现: 0 项
-- 潜在争议: 0 项
-- 核心标签: plant-single-cell, scrnaseq
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-**与大豆项目的关联**: 低 — 可提供背景知识
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Oryza sativa、Zea mays，反复出现的实体为ZmHSP90、ZmWAK2；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f2]]；[[b3-l7tWWswvI2rZ5ba_4V2BsQ-f5]]；[[b4-B6ORjNkH1VSkcVpnv9C7xQ-f7]]）。
+- **证据层级的张力**：3 条属于遗传扰动/蛋白互作/DNA 结合，16 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（；Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f2]]）。
+- **可检验缺口**：表达相关、表型关联在本组缺证据；在补齐这些设计前，ZmHSP90、ZmWAK2 与“技术平台与建库方法”的方向性关系应作为待检验命题（Manuel et al., 2022 [[a-3d-gene-expression-atlas-of-the-floral-meristem-based-on-spatial-reconstructio-f2]]；[[b3-l7tWWswvI2rZ5ba_4V2BsQ-f5]]）。
 
----
+**物种 × 证据类型（前 5 物种）**
 
-## Consensus Findings (跨论文共识)
+| 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|---|---|
+| Arabidopsis thaliana | 0 | 1 | 0 | 6 | 1 | 8 |
+| Oryza sativa | 0 | 0 | 0 | 5 | 1 | 6 |
+| Zea mays | 0 | 1 | 0 | 3 | 1 | 5 |
+| Glycine max | 0 | 0 | 0 | 3 | 0 | 3 |
+| Plant (unspecified) | 1 | 0 | 0 | 1 | 0 | 2 |
 
+**基因实体（自动标注，前 5）**：ZmHSP90(1)、ZmWAK2(1)（标注覆盖 1/19）。
 
+**代表断言（原文摘录，未改写）**
 
----
+- “Single-nucleus ATAC-seq (snATAC-seq) of Arabidopsis roots resolves major cell types based on differential chromatin accessibility profiles, demonstrating that the regulatory landsc…” — [[snATAC-seq-resolves-root-cell-types]]（`10.1016/j.molp.2021.01.001`，DNA binding/regulation）
+- “For instance, the snRNA-seq data demonstrated that the epidermal cell gene Zm00001eb101750 ( ZmHSP90, Heat shock protein 90 ) interacts with the mesophyll cell gene Zm00001eb071970…” — [[b3-l7tWWswvI2rZ5ba_4V2BsQ-f5]]（`10.1002/advs.202512295`，protein interaction）
+- “Using single-cell microfluidics, transcriptomics, and metabolomics, we show that Δ glgC mutants exhibit pronounced light sensitivity.” — [[daily-42530009-f2]]（`10.1093/plphys/kiag560`，genetic perturbation）
 
-## Contradictions & Controversies (争议与矛盾)
+### 2.5 细胞类型特异性胁迫与免疫响应
 
-\n> 当前证据簇中未检测到明显矛盾，需人工审查确认。\n
+**规模** 6 条证据 / 5 篇文献；**构成** omics/co-occurrence(5)、descriptive/observational(1)；**因果层** 0 条（仅关联/描述，不得写因果）。
 
----
 
-## Knowledge Gaps (知识空白)
+**受控叙述（按证据类型分层；每句附原始证据）**
 
-- 跨物种保守性: 多数发现来自拟南芥，作物中的功能验证不足\n- 空间维度: 缺乏空间转录组级别的发育轨迹分析\n- 时间分辨率: 发育过程的高时间分辨率采样不足
+- **一致的观察范围**：本组证据集中在Oryza sativa、Arabidopsis thaliana、Solanum tuberosum；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]；2026 [[dpdf-10-1038-s41477025-02181-9-f1]]；2026 [[dpdf-10-1038-s41477025-02181-9-f4]]）。
+- **证据层级的张力**：本组 0 条因果级证据，全部 6 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]；2026 [[dpdf-10-1038-s41477025-02181-9-f1]]）。
+- **可检验缺口**：遗传扰动、DNA 结合、蛋白互作、表达相关、表型关联在本组缺证据；在补齐这些设计前，目标实体 与“细胞类型特异性胁迫与免疫响应”的方向性关系应作为待检验命题（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]；2026 [[dpdf-10-1038-s41477025-02181-9-f1]]）。
 
----
+**物种 × 证据类型（前 5 物种）**
 
-## Key Papers (关键文献)
+| 物种 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|
+| Oryza sativa | 2 | 0 | 2 |
+| Arabidopsis thaliana | 2 | 0 | 2 |
+| Solanum tuberosum | 1 | 1 | 2 |
+| Fragaria × ananassa | 1 | 0 | 1 |
+| Triticum aestivum | 1 | 0 | 1 |
 
-以下为自动识
+**代表断言（原文摘录，未改写）**
+
+- “This study provides not only a global view of maize cell fate determination during root development but also insights into the immune regulatory networks in major cell types of mai…” — [[ref-pbi-14097-f1]]（`10.1111/pbi.14097`，omics/co-occurrence）
+- “This is the first report to document the single-cell transcriptional landscape of the plant pathogenic invasion process; it provides new insights into the holistic dynamics of host…” — [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]（`10.1093/hr/uhab055`，omics/co-occurrence）
+- “Based on cell-type identification using marker genes, we found that the dominant pathways in 2M root were mainly associated with transporters and signaling molecules involved in en…” — [[salvia-tanshinone-sc-spatial-f2]]（`10.1111/nph.71285`，omics/co-occurrence）
+
+### 2.6 细胞间通讯与信号推断
+
+**本知识库当前无归属证据**（子主题已定义但未被任何证据命中）。这是覆盖缺口，不是“该方向不重要”。
+
+### 2.7 多组学整合与调控网络
+
+**规模** 11 条证据 / 8 篇文献；**构成** omics/co-occurrence(7)、descriptive/observational(2)、DNA binding/regulation(2)；**因果层** 2 条（可支撑有限机制表述）。
+
+> 本组仅 2 条因果级证据，机制表述只在该证据覆盖的物种与条件下成立，不可外推到其余 9 条。
+
+**受控叙述（按证据类型分层；每句附原始证据）**
+
+- **一致的观察范围**：本组证据集中在Oryza sativa、Arabidopsis thaliana、Zea mays，反复出现的实体为AHL23；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f3]]；[[differential-accessibility-regulates-cell-type-expression]]；George et al., 2024 [[introducing-single-cell-stereo-sequencing-technology-to-transform-the-plant-tran-f5]]）。
+- **证据层级的张力**：2 条属于遗传扰动/蛋白互作/DNA 结合，9 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（；[[differential-accessibility-regulates-cell-type-expression]]）。
+- **可检验缺口**：遗传扰动、蛋白互作、表达相关、表型关联在本组缺证据；在补齐这些设计前，AHL23 与“多组学整合与调控网络”的方向性关系应作为待检验命题（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f3]]；[[differential-accessibility-regulates-cell-type-expression]]）。
+
+**物种 × 证据类型（前 5 物种）**
+
+| 物种 | DNA 结合 | 组学共现 | 描述性 | 合计 |
+|---|---|---|---|---|
+| Oryza sativa | 0 | 5 | 2 | 7 |
+| Arabidopsis thaliana | 0 | 2 | 2 | 4 |
+| Zea mays | 0 | 3 | 0 | 3 |
+| Solanum lycopersicum | 0 | 1 | 1 | 2 |
+| Triticum aestivum | 0 | 2 | 0 | 2 |
+
+**基因实体（自动标注，前 5）**：AHL23(1)（标注覆盖 1/11）。
+
+**代表断言（原文摘录，未改写）**
+
+- “Peanut tissue ontology regarding transcriptional dynamic illustrating has entered a single-cell era, such as by using scRNA-seq approaches in conjunction with high-throughput multi…” — [[ref-pbi-14306-f4]]（`10.1111/pbi.14306`，omics/co-occurrence）
+- “Integrative analysis of snATAC-seq and scRNA-seq data demonstrates that cell-type-specific gene expression is significantly associated with differential chromatin accessibility at …” — [[differential-accessibility-regulates-cell-type-expression]]（`10.1016/j.molp.2021.01.001`，omics/co-occurrence）
+- “Large-scale profiling of TF-binding sites using ampDAP-seq The transcriptomic identities of cell clusters are largely defined by their underlying gene regulatory networks (GRNs), i…” — [[ref-s41467-023-44369-7-f4]]（`10.1038/s41467-023-44369-7`，omics/co-occurrence）
+
+## 3. 跨子主题实体枢纽（自动统计）
+
+下列实体在 **≥2 个子主题**中被独立证据提及。它们本身**不构成机制结论**，但说明该实体是本主题多条研究线的交叉点，值得优先核对证据层级。
+
+| 化合物 | 命中子主题数 | 证据条数 | 涉及子主题 |
+|---|---|---|---|
+| theanine | 2 | 2 | 图集构建与细胞类型注释、空间转录组与位置映射 |
+
+### 3.1 跨子主题受控叙述
+
+- **层级不均**：因果层证据在子主题间分布不均，最高为“图集构建与细胞类型注释”（3 条），最低为“空间转录组与位置映射”（0 条）；跨子主题比较结论强度前须先对齐这一差异。
+- **共同缺口**：七类证据齐全，瓶颈是同一结论的独立复现与条件分层，而非证据类型。
+
+## 4. 研究设计缺口矩阵（子主题 × 证据类型）
+
+> 单元格为证据条数，`—` 表示该组合在本主题无证据。最后一列之后按行读：一行里若前三列全为 `—`，该子主题**没有任何因果层证据**。
+
+| 子主题 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 |
+|---|---|---|---|---|---|---|---|
+| 图集构建与细胞类型注释 | — | 1 | 2 | 13 | 2 | 78 | 87 |
+| 空间转录组与位置映射 | — | — | — | — | — | 15 | 1 |
+| 发育轨迹与拟时序推断 | — | — | — | 2 | — | 8 | 9 |
+| 技术平台与建库方法 | 1 | 1 | 1 | — | — | 15 | 1 |
+| 细胞类型特异性胁迫与免疫响应 | — | — | — | — | — | 5 | 1 |
+| 细胞间通讯与信号推断 | — | — | — | — | — | — | — |
+| 多组学整合与调控网络 | — | — | 2 | — | — | 7 | 2 |
+
+**零因果层子主题（3/7）**：空间转录组与位置映射、发育轨迹与拟时序推断、细胞类型特异性胁迫与免疫响应。
+
+这些子主题目前只能产出相关性假说；若研究方案把它们写成“X 调控 Y”，属于超越证据的表达，须在方案中降级为待验证命题。
+
+## 5. 可直接引用的因果级证据（自动筛选）
+
+以下 8 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
+
+| 证据页 | DOI | 类型 | 断言（摘录） |
+|---|---|---|---|
+| [[b3-l7tWWswvI2rZ5ba_4V2BsQ-f5]] | `10.1002/advs.202512295` | protein interaction | For instance, the snRNA-seq data demonstrated that the epidermal cell gene Zm00001eb101750 ( ZmHSP90, Heat shock protein… |
+| [[cr-annurev-arplant-0817-f4]] | `10.1146/annurev-arplant-081720-010120` | protein interaction | Multiplexing Using Lipid-Tagged Indices for single-cell and single-nucleus RNA-seq (MULTI-Seq) uses lipid-or cholesterol… |
+| [[daily-42255287-f1]] | `10.3389/fpls.2026.1809797` | genetic perturbation | In summary, while current systems offer specific advantages, inherent limitations–namely, a reliance on transgenic overe… |
+| [[daily-42288963-f2]] | `10.1093/plphys/kiag372` | protein interaction | Although SLIM1, RVE1, and RVE8 bind to the promoters of OAS cluster genes, only SLIM1 plays a role in their regulation b… |
+| [[daily-42530009-f2]] | `10.1093/plphys/kiag560` | genetic perturbation | Using single-cell microfluidics, transcriptomics, and metabolomics, we show that Δ glgC mutants exhibit pronounced light… |
+| [[ref-j-tplants-2019-10-008-f1]] | `10.1016/j.tplants.2019.10.008` | protein interaction | Once encapsulated in a droplet, cells are immediately lysed, releasing RNA that binds to primers on the bead surface whe… |
+| [[root-cell-type-specific-chromatin-accessibility]] | `10.1016/j.molp.2021.01.001` | DNA binding/regulation | Single-cell ATAC-seq of Arabidopsis roots reveals that each major cell type exhibits a distinct genome-wide chromatin ac… |
+| [[snATAC-seq-resolves-root-cell-types]] | `10.1016/j.molp.2021.01.001` | DNA binding/regulation | Single-nucleus ATAC-seq (snATAC-seq) of Arabidopsis roots resolves major cell types based on differential chromatin acce… |
+
+## 6. 证据间的张力与矛盾（自动筛查）
+
+未筛查到方向相反的表述。注意：这**不等于**结论一致——多数证据只报告单一方向的观察，缺少反证不等于已被重复验证。
+
+## 7. 覆盖与代表性缺口
+
+- **因果级证据占比仅 2.9%**：机制结论的可信度受限于此，建议对排名靠前的子主题定向补做扰动实验或查找已有突变体表型数据。
+- **3 个子主题完全没有因果层证据**（空间转录组与位置映射、发育轨迹与拟时序推断、细胞类型特异性胁迫与免疫响应）：这些方向目前只能写相关性。
+- **单篇证据物种 9 个**（Coffea spp.、未识别、Cucumis spp.、Crocus sativus、Helianthus annuus…）：跨物种外推缺乏支撑。
+- **1 个子主题零证据**（细胞间通讯与信号推断）：需按子主题关键词补检索，否则主题综述会出现结构性空洞。
+- **58 条证据（21%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
+- **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
+
+## 8. 历史正文说明
+
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261117`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+
+## 9. 行内引用密度自检
+
+本页正文 3689 个中文字符，行内证据链接 69 处，密度 **9.4 处/500 字**（目标 ≥1）。链接指向证据页，不直接指向出版社；引用前须沿证据页回到原文核对。

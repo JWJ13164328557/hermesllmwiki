@@ -1,34 +1,43 @@
 ---
-title: "Therefore, polytetrafluoroethy- lene (PTFE)-imprinted leaves were used for detecting the distribu- t"
-created: 2026-09-16
+title: "CYP450 mono-oxygenases are multifunctional biocatalysts, which play a crucial role in the …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["developmental-biology", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[unveiling-the-spatial-distribution-and-molecular]]"
 doi: "10.1093/hr/uhad109"
-species: [Solanum lycopersicum, Nicotiana tabacum, Triticum aestivum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Salvia miltiorrhiza", "Hevea brasiliensis", "Nicotiana tabacum"]
+primary_species: "Salvia miltiorrhiza"
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["CYP450"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Therefore, polytetrafluoroethy- lene (PTFE)-imprinted leaves were used for detecting the distribu- t
+# CYP450 mono-oxygenases are multifunctional biocatalysts, which play a crucial role in the …
 
 ## Claim
-Therefore, polytetrafluoroethy- lene (PTFE)-imprinted leaves were used for detecting the distribu- tion of metabolites in the target leaves (Fig.
+CYP450 mono-oxygenases are multifunctional biocatalysts, which play a crucial role in the formation of the parent nucleus and post-modification reactions of terpenoids [35, 36].
 
-## Biological Context
-Unveiling the spatial distribution and 分子 mechanisms of 萜类 生物合成 in Salvia miltiorrhiza and S. grandifolia using 多组学 and DESI–MSI
+## Source
+- 文献: [[unveiling-the-spatial-distribution-and-molecular]]
+- DOI: 10.1093/hr/uhad109
+- 主要物种: Salvia miltiorrhiza
 
-## Supporting Evidence
-*Source: [[unveiling-the-spatial-distribution-and-molecular]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: CYP450
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

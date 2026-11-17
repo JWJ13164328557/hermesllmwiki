@@ -2,14 +2,24 @@
 title: "Node 1 corresponds to the differenti­ ation of PLCs toward MCs, while Node 2 is associated with EC a"
 created: 2026-08-25
 type: evidence
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags: [stress-immunity, papers]
 source: "[[potato-leaf-heat-scrna]]"
 doi: "10.1111/pbi.70546"
-species: [Oryza sativa, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: [Plant (unspecified)]
+evidence_type: "descriptive/observational"
+quality: "low"
 genes: []
 compounds: []
+quality_basis: "rule-v9-20261107"
+evidence_type_confidence: "low"
+evidence_type_basis: "rule-v9-20261107"
+theme_status: mapped
+theme_basis: tag
+claim_role: "background"
+non_finding_kind: "speculation"
+evidence_type_prior: ""
+
 ---
 
 # Node 1 corresponds to the differenti­ ation of PLCs toward MCs, while Node 2 is associated with EC a
@@ -30,5 +40,3 @@ Transcription Profiling of Potato Leaves in Response to Heat Stress at Single-Ce
 ## Contradictory Evidence
 _None identified_
 
-## Open Questions
--

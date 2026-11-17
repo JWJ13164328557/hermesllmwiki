@@ -1,12 +1,21 @@
-title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild 
+---
+title: A single cell Arabidopsis root atlas reveals developmental trajectories in wild
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
-doi: 
+themes: [single-cell-spatial-omics]
+tags: [papers]
+doi: ""
 confidence: medium
-aliases: ["单细胞拟南芥根系图谱揭示了野生"]
+aliases: [单细胞拟南芥根系图谱揭示了野生]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # A single cell Arabidopsis root atlas reveals developmental trajectories in wild
 

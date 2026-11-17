@@ -1,15 +1,18 @@
-title: "Metabolic and transcriptomic analysis related to flavonoid biosynthesis during the color formation of Michelia crassipes"
+---
+title: Metabolic and transcriptomic analysis related to flavonoid biosynthesis during the color formation of Michelia crassipes
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1016/j.plaphy.2020.06.050
-pmid: 
-confidence: medium
-aliases: ["紫藤色素形成过程中与类黄酮生物合成相关的代谢和转录组学分析"]
+pmid: ''
+aliases: [紫藤色素形成过程中与类黄酮生物合成相关的代谢和转录组学分析]
+theme_status: mapped
+theme_basis: tag
 
-# Metabolic and transcriptomic 分析 related to 类黄酮 生物合成 过程中 the color formation of Michelia crassipes tepal
+---
 
-> Metabolic and transcriptomic analysis related to flavonoid biosynthesis during the color formation of Michelia crassipes tepal
+# Metabolic and transcriptomic analysis related to flavonoid biosynthesis during the color formation of Michelia crassipes tepal
 
 ## 论文信息
 - **期刊**: Plant Physiology and Biochemistry (2020)

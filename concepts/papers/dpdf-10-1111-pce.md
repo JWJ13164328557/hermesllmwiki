@@ -1,16 +1,25 @@
 ---
-title: 10.1111/pce
+
+title: Decoding Xylem Development in Flowering Plants Insights From Single-Cell
 created: 2026-06-04
 type: concept
+themes: [developmental-biology, single-cell-spatial-omics]
 tags: [papers, dpdf]
 doi: 10.1111/pce
 confidence: moderate
 source: dPDF
 species: —
 methods: —
+needs_review: true
+doi_quality: journal_level
+title_source: pdf_filename
+title_quality: from_pdf_filename
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# 10.1111/pce
+# Decoding Xylem Development in Flowering Plants Insights From Single-Cell
 
 ## 论文信息
 - **期刊**:  (None)

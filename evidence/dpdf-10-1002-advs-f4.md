@@ -1,34 +1,43 @@
 ---
-title: "These results indicate limited conservation of lncRNAs among soybean accessions."
-created: 2026-09-16
+title: "PCGs were significantly enriched in 10–50 kb surrounding regions of TWAS-significant …"
+created: 2026-11-01
 type: evidence
-tags: [papers, dpdf]
+themes: ["developmental-biology", "genomics-evolution"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers", "dpdf"]
 source: "[[dpdf-10-1002-advs]]"
 doi: "10.1002/advs"
-species: [Triticum aestivum, Oryza sativa, Arabidopsis thaliana]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Triticum aestivum", "Oryza sativa", "Arabidopsis thaliana"]
+primary_species: "Glycine max"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# These results indicate limited conservation of lncRNAs among soybean accessions.
+# PCGs were significantly enriched in 10–50 kb surrounding regions of TWAS-significant …
 
 ## Claim
-These results indicate limited conservation of lncRNAs among soybean accessions.
+PCGs were significantly enriched in 10–50 kb surrounding regions of TWAS-significant lncRNAs relative to genomewide lncRNAs (Figure 2d).
 
-## Biological Context
-10.1002/advs
+## Source
+- 文献: [[dpdf-10-1002-advs]]
+- DOI: 10.1002/advs
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[dpdf-10-1002-advs]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

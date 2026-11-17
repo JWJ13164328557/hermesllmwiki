@@ -1,15 +1,18 @@
-title: "Multi-omics analysis provides insights into genetic architecture of flavonoid metabolites in Populus"
+---
+title: Multi-omics analysis provides insights into genetic architecture of flavonoid metabolites in Populus
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1016/j.indcrop.2021.113612
-pmid: 
-confidence: medium
-aliases: ["多组学分析为杨树类黄酮代谢产物的遗传结构提供了见解"]
+pmid: ''
+aliases: [多组学分析为杨树类黄酮代谢产物的遗传结构提供了见解]
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 多组学 分析 提供了 深入 into genetic architecture of 类黄酮 metabolites in Populus
+---
 
-> Multi-omics analysis provides insights into genetic architecture of flavonoid metabolites in Populus
+# Multi-omics analysis provides insights into genetic architecture of flavonoid metabolites in Populus
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

@@ -1,12 +1,21 @@
-title: "【PBJ】单细胞类型转录组分析揭示豆科植物根瘤感染细胞和非感染细胞中促进固氮的基因"
-journal: "unknown"
-year: ""
+---
+title: 【PBJ】单细胞类型转录组分析揭示豆科植物根瘤感染细胞和非感染细胞中促进固氮的基因
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

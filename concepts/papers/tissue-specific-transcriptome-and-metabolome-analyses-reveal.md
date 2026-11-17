@@ -1,15 +1,23 @@
-title: "Tissue-specific transcriptome and metabolome analyses reveal a gene module regulating the terpenoid biosynthesis in Curc"
+---
+title: Tissue-specific transcriptome and metabolome analyses reveal a gene module regulating the terpenoid biosynthesis in Curcuma wenyujin
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.113758
-pmid: 
-confidence: medium
-aliases: ["Tissue-specific transcriptome and metabolome analyses 揭示 a gene 模块 regulating the 萜类 生物合成 in Curcuma wenyujin"]
+pmid: ''
+aliases:
+- Tissue-specific transcriptome and metabolome analyses 揭示 a gene 模块 regulating the 萜类 生物合成 in Curcuma wenyujin
+title_fixed_from: Tissue-specific transcriptome and metabolome analyses reveal a gene module regul
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Tissue-specific transcriptome and metabolome analyses 揭示 a gene 模块 regulating the 萜类 生物合成 in Curcuma wenyujin
+species_status: unverified
+---
 
-> Tissue-specific transcriptome and metabolome analyses reveal a gene module regulating the terpenoid biosynthesis in Curcuma wenyujin
+# Tissue-specific transcriptome and metabolome analyses reveal a gene module regulating the terpenoid biosynthesis in Curcuma wenyujin
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

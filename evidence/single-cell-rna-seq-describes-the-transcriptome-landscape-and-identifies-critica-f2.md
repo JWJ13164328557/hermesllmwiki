@@ -1,34 +1,43 @@
 ---
-title: "We report precise spatiotemporal information, critical marker gene transcripts and deﬁne features of"
-created: 2026-08-25
+title: "We report precise spatiotemporal information, critical marker gene transcripts and define …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica]]"
 doi: "10.1111/pbi.13656"
-species: [Zea mays, Ficus carica]
-evidence_type: "expression/regulation"
+species: ["Zea mays"]
+primary_species: "Zea mays"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# We report precise spatiotemporal information, critical marker gene transcripts and deﬁne features of
+# We report precise spatiotemporal information, critical marker gene transcripts and define …
 
 ## Claim
-We report precise spatiotemporal information, critical marker gene transcripts and deﬁne features of major leaf cell types that will allow for improvements in peanut cultivation.
+We report precise spatiotemporal information, critical marker gene transcripts and define features of major leaf cell types that will allow for improvements in peanut cultivation.
 
-## Biological Context
-Single‐cell RNA‐seq describes the transcriptome landscape and identifies critical transcription factors in the leaf blade of the allotetraploid peanut (<i>Arachis hypogaea</i> L.)
+## Source
+- 文献: [[single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica]]
+- DOI: 10.1111/pbi.13656
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[single-cell-rna-seq-describes-the-transcriptome-landscape-and-identifies-critica]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

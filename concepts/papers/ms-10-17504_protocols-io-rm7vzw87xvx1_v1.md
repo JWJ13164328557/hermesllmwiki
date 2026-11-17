@@ -2,10 +2,15 @@
 title: Generation of bulk heterozygous knock-in cells for targeted protein degradation 
 created: 2026-06-20
 type: concept
+themes: [methods-tools]
 tags: [papers]
 doi: 10.17504/protocols.io.rm7vzw87xvx1/v1
 confidence: moderate
 source: openalex
+status: pollution
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
 # Generation of bulk heterozygous knock-in cells for targeted protein degradation v1

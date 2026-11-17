@@ -1,17 +1,25 @@
-title: "Author Correction: Spatiotemporal transcriptomics reveals key gene regulation for grain yield and quality in wheat."
-pmid: "42026639"
-doi: "10.1186/s13059-025-03569-8"
-pmcid: "PMC11992740"
-journal: "Genome biology"
-year: "2026"
-authors: "Xiaohui Li, Yiman Wan, Dongzhi Wang, Xingguo Li, Jiajie Wu"
+---
+title: 'Author Correction: Spatiotemporal transcriptomics reveals key gene regulation for grain yield and quality in wheat.'
+pmid: '42026639'
+doi: 10.1186/s13059-026-04065-3
+pmcid: PMC11992740
+journal: Genome biology
+year: '2026'
+authors: Xiaohui Li, Yiman Wan, Dongzhi Wang, Xingguo Li, Jiajie Wu
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [single-cell-spatial-omics, papers]
 species: [Oryza sativa (rice), Zea mays (maize), Glycine max (soybean), Triticum aestivum (wheat), Solanum lycopersicum (tomato)]
 methods: [spatial transcriptomics, multi-omics, RNA-FISH, GWAS, pseudotime]
 status: curated
 curation_depth: PMC全文
 updated: 2026-05-30
+theme_status: out-of-scope
+theme_basis: none
+
+---
+
+# Author Correction: Spatiotemporal transcriptomics reveals key gene regulation for grain yield and quality in wheat.
 
 ## 1. Scientific Context
 
@@ -127,10 +135,10 @@ updated: 2026-05-30
 - 物种: Oryza sativa (rice), Zea mays (maize), Glycine max (soybean), Triticum aestivum (wheat)
 - 关键基因: ME3, BIGE1, AP2, ME0, ME5, SH1, ME1, VP1
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 
@@ -171,11 +179,18 @@ updated: 2026-05-30
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Zea mays, Solanum lycopersicum, Glycine max, Triticum aestivum
-**方法**: GWAS/QTL
-**来源**: DOI:
-**来源类型**: PMC全文
-**基因**: —
+**主要物种**: Oryza sativa
+**物种**: Oryza sativa, Triticum aestivum, Zea mays, Arabidopsis thaliana, Setaria spp.
+**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, ATAC-seq, qRT-PCR validation, GWAS
+**来源**: DOI:10.1186/s13059-026-04065-3
+**来源类型**: XML全文 (10.1186_s13059-026-04065-3.txt)
 
 ### 核心发现
-_（信号句不足）_
+1. Our results show that the number of tissue-covered spots across all sections ranged from 9934 to 15,107, with a resolution of 27 μm, and the median UMI counts per spot varied from 330 to 1786.
+2. We found that the TaABI3-B1-Hap2, was significantly more prevalent in modern wheat cultivars than in traditional landraces and cultivars introduced from other countries (Fig.
+3. We found that certain transcription factors are differentially expressed across distinct cell types or developmental stages, suggesting their involvement in key processes of grain differentiation.
+4. Another endosperm-specific transcription factor, TaNAC019, interacts with the glutenin regulatory factor TaGAMyb, suppressing the expression of the key starch synthesis genes TaAGPS1-A1 and TaAGPS1-B1, thereby negatively regulating starch synthesis in the endosperm [ ].
+5. TaABI19 binds to the promoter of the TaPBF gene, enhancing its expression and affecting starch synthesis and grain development [ ].
+6. In summary, we generated a comprehensive spatial transcriptomic dataset for wheat.
+7. C) In summary, gene expression across different cell types showed high heterogeneity, indicating that specific biological processes took place in distinct tissues during seed development.
+8. Collectively, these findings evident that mutations in genes with high expression levels in grain-specific cell types significantly impact grain development and filling.

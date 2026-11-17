@@ -1,12 +1,18 @@
+---
 title: MYB44-ENAP1/2 restricts HDT4 to regulate drought tolerance in Arabidopsis.
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [epigenetics-gene-regulation, stress-immunity]
+tags: [epigenetics-gene-regulation, papers]
 doi: 10.1371/journal.pgen.1010473
 confidence: medium
-aliases: ["MYB44-ENAP1/2 restricts HDT4 to regulate drought tolerance in Arabidopsis."]
+aliases: [cr-10-1371-journal-pgen-1010473, MYB44-ENAP1/2 restricts HDT4 to regulate drought tolerance in Arabidopsis.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # MYB44-ENAP1/2 restricts HDT4 to regulate drought tolerance in Arabidopsis.
 
@@ -43,11 +49,11 @@ The authors have declared that no competing interests exist. * E-mail:hqiao@aust
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 
@@ -63,7 +69,7 @@ Drought stress caused by limited water availability is a major constrain of plan
 
 ## 深度提炼
 
-**物种**: Oryza sativa, Glycine max, Nicotiana tabacum, Ficus carica
+**物种**: Oryza sativa, Glycine max, Nicotiana tabacum
 **方法**: transcriptomics (RNA-seq), ChIP-seq/qPCR, qRT-PCR validation, Y2H, BiFC, Co-IP, CRISPR/Cas9, overexpression
 **来源**: DOI:10.1371/journal.pgen.1010473
 **来源类型**: PDF全文 (10.1371_journal.pgen.1010473.pdf)

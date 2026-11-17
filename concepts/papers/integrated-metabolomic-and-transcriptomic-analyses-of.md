@@ -1,15 +1,23 @@
-title: "Integrated metabolomic and transcriptomic analyses of quality components and associated molecular regulation mechanisms "
+---
+title: Integrated metabolomic and transcriptomic analyses of quality components and associated molecular regulation mechanisms during passion fruit ripening
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.postharvbio.2021.111601
-pmid: 
-confidence: medium
-aliases: ["百香果成熟过程中质量成分和相关分子调控机制的综合代谢组学和转录组学分析"]
+pmid: ''
+aliases:
+- 百香果成熟过程中质量成分和相关分子调控机制的综合代谢组学和转录组学分析
+title_fixed_from: Integrated metabolomic and transcriptomic analyses of quality components and ass
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 整合 metabolomic and transcriptomic analyses of quality components and 相关的 分子 调控 mechanisms 过程中 passion fruit ripening
+species_status: unverified
+---
 
-> Integrated metabolomic and transcriptomic analyses of quality components and associated molecular regulation mechanisms during passion fruit ripening
+# Integrated metabolomic and transcriptomic analyses of quality components and associated molecular regulation mechanisms during passion fruit ripening
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2021)

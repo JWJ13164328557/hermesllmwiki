@@ -1,14 +1,24 @@
-title: Best practices for the execution, analysis, and data storage of plant single-cel
+---
+title: Best practices for the execution, analysis, and data storage of plant single-cell/nucleus transcriptomics
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics, stress-immunity]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1093/plcell/koae003
 confidence: medium
-aliases: ["Best practices for the execution, analysis, and data storage of plant single-cel"]
+aliases:
+- Best practices for the execution, analysis, and data storage of plant single-cel
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Best practices for the execution, analysis, and data storage of plant single-cel
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Best practices for the execution, analysis, and data storage of plant single-cel
+---
+
+# Best practices for the execution, analysis, and data storage of plant single-cell/nucleus transcriptomics
 
 
 
@@ -43,11 +53,11 @@ Author for correspondence:libaultm@missouri.edu(M.T) Author for correspondence:b
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

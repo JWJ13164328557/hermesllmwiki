@@ -1,12 +1,18 @@
-title: Single-cell RNA-seq: advances and future challenges.
+---
+title: 'Single-cell RNA-seq: advances and future challenges.'
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1093/nar/gku555
 confidence: medium
-aliases: ["Single-cell RNA-seq: advances and future challenges."]
+aliases: ['Single-cell RNA-seq: advances and future challenges.']
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Single-cell RNA-seq: advances and future challenges.
 

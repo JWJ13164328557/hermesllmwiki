@@ -11,8 +11,8 @@ related_papers:
   - "[[plant-cell-cycle-control]]"
   - "[[cell-cycle-scrna-seq]]"
 related_evidence:
-  - "[[snRNA-seq-valid-plant-transcriptomics]]"
-  - "[[snRNA-seq-additional-plant-cell-subtypes]]"
+  - "snRNA-seq-valid-plant-transcriptomics"
+  - "snRNA-seq-additional-plant-cell-subtypes"
 related_synthesis: []
 ---
 
@@ -218,4 +218,4 @@ B-type cyclins (mitotic cyclins) are deeply conserved across eukaryotes (animal 
 
 ### Related Entities
 - [[marchantia-polymorpha]] — Host species
-- Evidence: [[snRNA-seq-valid-plant-transcriptomics]]
+- Evidence: snRNA-seq-valid-plant-transcriptomics

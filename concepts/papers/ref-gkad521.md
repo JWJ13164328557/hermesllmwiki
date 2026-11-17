@@ -1,13 +1,19 @@
+---
 title: Spatially resolved transcriptomic analysis of the germinating barley grain.
 created: 2026-05-28
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution]
+tags: [genomics-evolution, papers]
 doi: 10.1093/nar/gkad521
 confidence: medium
-aliases: ["发芽大麦籽粒的空间分辨转录组分析。"]
-aliases_extra: ["Spatially resolved transcriptomic analysis of the germinating barley grain."]
+aliases: [发芽大麦籽粒的空间分辨转录组分析。]
+aliases_extra: [Spatially resolved transcriptomic analysis of the germinating barley grain.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Spatially resolved transcriptomic analysis of the germinating barley grain.
 

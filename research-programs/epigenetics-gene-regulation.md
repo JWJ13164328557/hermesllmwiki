@@ -1,92 +1,150 @@
 ---
-title: "表观与基因调控 — Synthesis"
+title: "Research Program: Epigenetics & Gene Regulation"
+title_zh: "表观遗传与基因调控：研究方案"
 type: research-program
 topic: "epigenetics-gene-regulation"
-total_evidence: 13
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 1835
+total_papers: 316
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 表观与基因调控 — Synthesis
+# 🔬 Epigenetics & Gene Regulation：从证据到可执行研究方案
 
-## Program Overview
-基于 13 条证据生成的 5 个实验目标。
+> 本方案由 1835 条证据 / 316 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test [target gene] function
+- **主题**：Epigenetics & Gene Regulation
+- **证据规模**：1835 条证据 / 316 篇独立论文
+- **候选靶点**：FaMYB5, C4H, OsMYB305, HDAC3, HDA9, MPK6
+- **主体系**：Fragaria × ananassa
+- **主题归属依据**：证据标签
 
-**Hypothesis**: [Key factor] regulate [process] via [mechanism]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
+### 目标 1：建立 FaMYB5 的剂量—效应曲线
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test [target gene] function
-
-**Hypothesis**: [Key factor] control [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test ATAC function
-
-**Hypothesis**: ATAC regulates SRCC to control [process]
-
-**Experimental Design**:
-1. Generate ATAC overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: ATAC-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：FaMYB5 已有 98 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 FaMYB5 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：建立 C4H 的剂量—效应曲线
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：C4H 已有 36 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 C4H 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 3：建立 OsMYB305 的剂量—效应曲线
+
+- **对应假说**：OsMYB305 已有 18 项独立研究；但其中仅 1 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 OsMYB305 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 4：建立 HDAC3 的剂量—效应曲线
+
+- **对应假说**：HDAC3 已有 15 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 HDAC3 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 5：检验 HDA9 的必要性（组蛋白去乙酰化酶）
+
+- **对应假说**：HDA9 在 3 项研究中被提名参与本主题，但本簇证据中未见在统一背景下检验其必要性的操纵实验（受检索覆盖限制，需回溯原文复核）。HDA9 属组蛋白去乙酰化酶；判别性检验：构建催化死（HDA 结构域）突变体，比较蛋白水平与靶位点 H3K9ac/H4K16ac 变化。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：HDA9 的功能缺失系（CRISPR 敲除 ≥2 株系）+ 结构域缺陷（结合/催化死）突变系 + 野生型回补系
+- **关键实验**
+  1. 获得功能缺失系并确认无全长转录本/蛋白
+  2. 构建结构域缺陷突变体并验证蛋白稳定表达
+  3. 按家族特异读出检验：构建催化死（HDA 结构域）突变体，比较蛋白水平与靶位点 H3K9ac/H4K16ac 变化
+  4. 用野生型基因回补，确认表型由该位点导致
+- **判定标准**：催化死突变体蛋白稳定但不回补表型，靶位点乙酰化水平不下降
+- **止损条件**：催化/结合缺陷与野生型表现无差异，说明该结构域非必需或存在旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 6：检验 MPK6 的必要性（蛋白激酶或受体激酶）
+
+- **对应假说**：MPK6 在 3 项研究中被提名参与本主题，但本簇证据中未见在统一背景下检验其必要性的操纵实验（受检索覆盖限制，需回溯原文复核）。MPK6 属蛋白激酶或受体激酶；判别性检验：用激酶死（K→E/M）突变体判定催化活性是否必需，并做磷酸化位点回补与配体/下游响应检测。
+- **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：MPK6 的功能缺失系（CRISPR 敲除 ≥2 株系）+ 结构域缺陷（结合/催化死）突变系 + 野生型回补系
+- **关键实验**
+  1. 获得功能缺失系并确认无全长转录本/蛋白
+  2. 构建结构域缺陷突变体并验证蛋白稳定表达
+  3. 按家族特异读出检验：用激酶死（K→E/M）突变体判定催化活性是否必需，并做磷酸化位点回补与配体/下游响应检测
+  4. 用野生型基因回补，确认表型由该位点导致
+- **判定标准**：激酶死突变体不回补表型，而磷酸化位点回补可部分或完全恢复
+- **止损条件**：催化/结合缺陷与野生型表现无差异，说明该结构域非必需或存在旁路
+- **预计周期**：12–18 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 染色质图谱 | 0–6 月 | ATAC-seq/ChIP-seq/CUT&Tag 建图；设置生物学重复与输入对照 | 峰质量、重复一致性与背景可控 |
+| P1 扰动因果 | 6–15 月 | 表观修饰酶或顺式元件扰动；读出表达与染色质变化 | 扰动后目标位点与表达变化同向且可重复 |
+| P2 多组学整合 | 15–24 月 | 转录组、染色质可及性、组蛋白修饰联合分析 | 调控链有 ≥2 类独立证据支持 |
+| P3 保守性 | 24–30 月 | 跨物种比较关键顺式元件与修饰 | 保守性与功能差异可区分 |
+
+> 本路线要求染色质证据与扰动证据配对；仅相关性的组蛋白修饰差异不单独作为因果结论。
+
+## 四、风险与对策
+
+- FaMYB5 的效应方向在文献中不一致 → 必须先做条件分层（组织/处理/生育期）再下结论。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/epigenetics-gene-regulation.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

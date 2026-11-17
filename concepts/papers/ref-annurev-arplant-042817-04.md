@@ -1,14 +1,26 @@
-title: "分生组织大小的控制。"
+---
+title: "Control of Meristem Size"
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags:
+- epigenetics-gr
+- papers
 doi: 10.1146/annurev-arplant-042817-040549
 confidence: medium
-aliases: ["分生组织大小的控制。"]
+aliases:
+- 分生组织大小的控制。
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: Control of Meristem Size
+title_source: body-h1
+title_quality: repaired
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 分生组织大小的控制。
+---
+
+# Control of Meristem Size
 
 
 

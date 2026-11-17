@@ -1,0 +1,41 @@
+slug	doi	action	reasons
+daily-41877860	10.7717/peerj.20959	keep-methods	subject=brain;method-transferable
+daily-42218405	10.1186/s12864-026-12987-2	keep-methods	subject=brain,mouse;method-transferable
+daily-42222521	10.1093/tas/txag070	drop	subject=growth performance
+daily-42231880	10.1016/j.mmr.2026.100041	drop	subject=lung cancer
+daily-42232745	10.1016/j.bioactmat.2026.05.026	drop	subject=mesenchymal stem cell
+daily-42239455	10.64898/2026.05.20.726545	drop	subject=mice
+daily-42244758	10.64898/2026.05.25.727632	drop	subject=drosophila melanogaster
+daily-42261381	10.1007/s13205-026-04776-1	keep-methods	subject=brain,gut microbiota;method-transferable
+daily-42286697	10.1186/s42523-026-00540-1	drop	subject=growth performance,intestinal barrier
+daily-42288015	10.1016/j.identj.2026.109680	drop	subject=mouse
+daily-42296001	10.1021/acsami.6c05337	keep-methods	subject=rats,sprague-dawley;method-transferable
+daily-42305343	10.5114/aoms/220340	drop	subject=lung cancer
+daily-42308257	10.1371/journal.pone.0351680	drop	subject=growth performance
+daily-42310760	10.1186/s12951-026-04682-x	drop	subject=murine
+daily-42317450	10.1016/j.aninu.2025.11.013	drop	subject=aquafeed,feed efficiency,growth performance
+daily-42319942	10.1126/sciadv.aee2752	drop	subject=brain
+daily-42327843	10.1155/crid/6280261	keep-methods	subject=prognosis;method-transferable
+daily-42363068	10.1186/s12864-026-13095-x	drop	subject=macaque
+daily-42374203	10.1186/s12864-026-13125-8	drop	
+daily-42378398	10.1093/bib/bbag347	drop	subject=brain,colorectal cancer,mouse,zebrafish
+daily-42424258	10.1371/journal.pone.0338813	drop	subject=layers'
+daily-42428800	10.1093/tas/txag082	drop	subject=growth performance
+daily-42430422	10.1371/journal.pone.0351569	drop	subject=obesity,overweight
+daily-42469614	10.1186/s12864-026-13199-4	drop	subject=neuronal
+daily-42479835	10.1073/pnas.2611767123	drop	subject=obesity
+daily-42484698	10.1007/s11033-026-12382-w	drop	subject=adipocyte,obesity
+daily-42485346	10.1371/journal.pone.0353743	drop	subject=adipose tissue,swine
+daily-42488514	10.1155/ijm/9313676	drop	subject=wound dressing,wound healing
+daily-42491930	10.1039/d6ra02084d	drop	subject=tissue regeneration
+daily-42544337	10.3389/fgene.2026.1857225	drop	subject=leukemia,mouse
+daily-42619904	10.64898/2026.07.28.741165	drop	subject=neuron,neuronal,neurons
+daily-42626244	10.5409/wjcp.121760	drop	subject=prognosis
+daily-42633458	10.1159/000553628	drop	
+daily-42635200	10.1093/bioinformatics/btag424	keep-methods	subject=brain,mouse,neuronal;method-transferable
+daily-42635962	10.1016/j.ostima.2026.100468	drop	
+daily-42661754	10.3389/fmicb.2026.1891150	keep-methods	subject=brain;method-transferable
+daily-42704271	10.1093/bib/bbag475	keep-methods	method-transferable
+daily-42711689	10.1186/s12864-026-13154-3	drop	subject=mouse
+daily-42713600	10.3389/fgene.2026.1899437	drop	
+daily-42721207	10.1371/journal.pcbi.1014716	keep-methods	subject=livestock;method-transferable

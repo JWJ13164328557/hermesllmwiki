@@ -1,12 +1,21 @@
-title: "转录因子PbrMYB24调控梨果实石细胞中木质素和纤维素的生物合成"
-journal: "unknown"
-year: ""
+---
+title: 转录因子PbrMYB24调控梨果实石细胞中木质素和纤维素的生物合成
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

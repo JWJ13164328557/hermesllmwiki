@@ -1,12 +1,21 @@
-title: "CsMYB73负调控CsGGT2和CsGGT4介导的茶氨酸积累"
-journal: "unknown"
-year: ""
+---
+title: CsMYB73负调控CsGGT2和CsGGT4介导的茶氨酸积累
+journal: unknown
+year: ''
 type: paper
-tags: [#epigenetics-gr, papers]
+themes: []
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

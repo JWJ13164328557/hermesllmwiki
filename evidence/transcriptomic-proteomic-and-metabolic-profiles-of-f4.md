@@ -1,34 +1,43 @@
 ---
-title: "We found no signiﬁcant difference in the transcription levels of three collision gases (CADs) betwee"
-created: 2026-08-25
+title: "We found no significant difference in the transcription levels of three collision gases …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["epigenetics-gene-regulation", "metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[transcriptomic-proteomic-and-metabolic-profiles-of]]"
 doi: "10.3389/fpls.2021.704262"
-species: [Arabidopsis thaliana, Populus spp., Eucalyptus spp.]
+species: ["Populus spp.", "Arabidopsis thaliana", "Eucalyptus spp."]
+primary_species: "Populus spp."
 evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# We found no signiﬁcant difference in the transcription levels of three collision gases (CADs) betwee
+# We found no significant difference in the transcription levels of three collision gases …
 
 ## Claim
-We found no signiﬁcant difference in the transcription levels of three collision gases (CADs) between TW and OW or between NW, but their translation levels were signiﬁcantly downregulated in TW, suggesting post-transcriptional control for CAD.
+We found no significant difference in the transcription levels of three collision gases (CADs) between TW and OW or between NW, but their translation levels were significantly downregulated in TW, suggesting post-transcriptional control for CAD.
 
-## Biological Context
-Transcriptomic, Proteomic, and Metabolic Profiles of Catalpa bungei Tension Wood 揭示 New Insight Into 木质素 生物合成 Involving Transcription Factor 调控
+## Source
+- 文献: [[transcriptomic-proteomic-and-metabolic-profiles-of]]
+- DOI: 10.3389/fpls.2021.704262
+- 主要物种: Populus spp.
 
-## Supporting Evidence
-*Source: [[transcriptomic-proteomic-and-metabolic-profiles-of]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

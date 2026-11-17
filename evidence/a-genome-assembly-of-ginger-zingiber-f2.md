@@ -1,34 +1,43 @@
 ---
-title: "The results of yeast one-hybrid, elec- trophoretic mobility shift, and dual-luciferase reporter gene"
-created: 2026-08-25
+title: "Jiang et al suggested that ZoCCoAOMT and ZoHCT encode rate-limiting enzymes that play a …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["papers"]
 source: "[[a-genome-assembly-of-ginger-zingiber]]"
 doi: "10.1111/tpj.16625"
-species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
-evidence_type: "DNA binding/regulation"
-quality: "medium"
-genes: [ZobHLH148, ZoCCOMT2, ZoCCOMT1, ZoMYB106]
+species: ["Zingiber officinale", "Musa spp.", "Nicotiana tabacum"]
+primary_species: "Zingiber officinale"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["ZoCCoAOMT", "ZoHCT"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The results of yeast one-hybrid, elec- trophoretic mobility shift, and dual-luciferase reporter gene
+# Jiang et al suggested that ZoCCoAOMT and ZoHCT encode rate-limiting enzymes that play a …
 
 ## Claim
-The results of yeast one-hybrid, elec- trophoretic mobility shift, and dual-luciferase reporter gene assays showed that both ZoMYB106 and ZobHLH148 bind to the promoters of the key rate-limiting enzyme genes ZoCCOMT1 and ZoCCOMT2 in the 6-gingerol synthesis pathway and promote their transcriptional activities.
+Jiang et al suggested that ZoCCoAOMT and ZoHCT encode rate-limiting enzymes that play a crucial role in regulating 6-gingerol biosynthesis (Jiang et al., 2018).
 
-## Biological Context
-A 基因组 组装 of ginger (Zingiber officinale Roscoe) 提供了 深入 into 基因组 进化 and 6‐gingerol 生物合成
+## Source
+- 文献: [[a-genome-assembly-of-ginger-zingiber]]
+- DOI: 10.1111/tpj.16625
+- 主要物种: Zingiber officinale
 
-## Supporting Evidence
-*Source: [[a-genome-assembly-of-ginger-zingiber]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: ZoCCoAOMT, ZoHCT
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

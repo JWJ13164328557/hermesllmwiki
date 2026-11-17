@@ -1,12 +1,21 @@
-title: "【Nature Plant】四川农大青年教师揭示了跨物种单细胞染色质可及性图谱揭示草类植物顺式调控元件的进化机制"
-journal: "unknown"
-year: ""
+---
+title: 【Nature Plant】四川农大青年教师揭示了跨物种单细胞染色质可及性图谱揭示草类植物顺式调控元件的进化机制
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

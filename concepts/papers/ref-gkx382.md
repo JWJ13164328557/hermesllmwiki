@@ -1,12 +1,18 @@
-title: agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update.
+---
+title: 'agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update.'
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools]
+tags: [methods-tools, papers]
 doi: 10.1093/nar/gkx382
 confidence: medium
-aliases: ["agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update."]
+aliases: ['agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update.']
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag
+
+---
 
 # agriGO v2.0: a GO analysis toolkit for the agricultural community, 2017 update.
 
@@ -43,11 +49,11 @@ To whom correspondence should be addressed. Tel: +86 10 62731380; Fax: +86 10 62
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

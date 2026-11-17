@@ -1,34 +1,43 @@
 ---
-title: "We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for lignin and cellulos"
+title: "We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for lignin …"
 created: 2026-08-25
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[auxin-inhibits-lignin-and-cellulose-biosynthesis]]"
 doi: "10.1111/pbi.14046"
-species: [Oryza sativa, Malus domestica, Populus spp.]
+species: ["Pyrus spp.", "Arabidopsis thaliana", "Malus domestica"]
+primary_species: "Pyrus spp."
 evidence_type: "DNA binding/regulation"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: [PbrNSC, PbrARF13]
-compounds: [lignin, cellulose]
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["PbrARF13", "PbrNSC"]
+compounds: ["cellulose", "lignin"]
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for lignin and cellulos
+# We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for lignin …
 
 ## Claim
 We showed that PbrARF13 directly binds to the promoter of PbrNSC, a key gene for lignin and cellulose biosynthesis in stone cells (Wang et al., 2021), to inhibit its expression, thereby reducing stone cell content.
 
-## Biological Context
-Auxin 抑制 木质素 and 纤维素 生物合成 in stone cells of pear fruit via the PbrARF13‐PbrNSC‐PbrMYB132 transcriptional regulatory cascade
+## Source
+- 文献: [[auxin-inhibits-lignin-and-cellulose-biosynthesis]]
+- DOI: 10.1111/pbi.14046
+- 主要物种: Pyrus spp.
 
-## Supporting Evidence
-*Source: [[auxin-inhibits-lignin-and-cellulose-biosynthesis]]*
+## 标注信息
+- 证据类型: DNA binding/regulation
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: PbrARF13, PbrNSC
+- 自动标注化合物: cellulose, lignin
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

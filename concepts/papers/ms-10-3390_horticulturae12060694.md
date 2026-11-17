@@ -1,14 +1,20 @@
 ---
-title: Melatonin-Induced Leaf Growth in Lithocarpus litseifolius: A Synergistic Interpl
+title: 'Melatonin-Induced Leaf Growth in Lithocarpus litseifolius: A Synergistic Interplay Among Hormone Homeostasis, Photosynthetic Enhancement, and Transcriptional Regulation'
 created: 2026-06-07
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.3390/horticulturae12060694
 confidence: moderate
 source: openalex
+title_fixed_from: 'Melatonin-Induced Leaf Growth in Lithocarpus litseifolius: A Synergistic Interpl'
+theme_status: out-of-scope
+theme_basis: none
+
 ---
 
-# Melatonin-Induced Leaf Growth in Lithocarpus litseifolius: A Synergistic Interplay Among Hormone Homeostasis, Photosynthetic Enhancement, and Transcriptional Regulation
+# Melatonin-Induced Leaf Growth in Lithocarpus litseifolius: A Synergistic Interplay Among Hormone Homeostasis, Photosynthetic Enhancement, and Transcriptional Regulationay Among Hormone Homeostasis, Photosynthetic Enhancement, and Transcriptional Regulation
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

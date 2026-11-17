@@ -1,12 +1,21 @@
+---
 title: Visualizing the structure of RNA-seq expression data using grade of membership m
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
-doi: 
+themes: []
+tags: [papers]
+doi: ""
 confidence: medium
-aliases: ["使用成员等级m可视化RNA-seq表达数据的结构"]
+aliases: [使用成员等级m可视化RNA-seq表达数据的结构]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Visualizing the structure of RNA-seq expression data using grade of membership m
 
@@ -23,7 +32,7 @@ updated: "2026-05-29"
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[ref-CellOracle--dissecting-cell-id]]
 - [[ref-j-cell-2019-03-006]]
-- [[aba-biosynthesis-stress]]
+- aba-biosynthesis-stress
 - [[alfalfa-cadmium-sc-multiomics]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[b3-2C6WVBMI6uIO1-sVTqL4cQ]]

@@ -1,34 +1,43 @@
 ---
-title: "As expected, this list of WIND1- induced reprogramming regulators included ESR1, and we found many o"
-created: 2026-09-16
+title: "Consistent with this transcriptional activation, we found that overexpression of WIND1 …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-nph-17594]]"
 doi: "10.1111/nph.17594"
-species: [Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Arabidopsis thaliana", "Solanum lycopersicum", "Nicotiana tabacum"]
+primary_species: "Solanum lycopersicum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["WIND1"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# As expected, this list of WIND1- induced reprogramming regulators included ESR1, and we found many o
+# Consistent with this transcriptional activation, we found that overexpression of WIND1 …
 
 ## Claim
-As expected, this list of WIND1- induced reprogramming regulators included ESR1, and we found many other key transcriptional regulators, such as LBD18, OBF BINDING PROTEIN 4 (OBP4), ESR2, RAP2.6L, ERF115, WUSCHEL (WUS), PLT5, WUSCHEL-RELATED HOMEOBOX 5 (WOX5), LEAFY COTYLDEON 2 (LEC2) and Arabidopsis NAC DOMAIN CONTAINING PROTEIN 71 (ANAC071), which were expressed within 24 h after WIND1 induction
+Consistent with this transcriptional activation, we found that overexpression of WIND1 induced ectopic formation of tracheary elements in both XVE-WIND1 and 35S:WIND1 plants (Figs 3b, S3a).
 
-## Biological Context
-WIND transcription factors orchestrate wound-induced callus formation, vascular
+## Source
+- 文献: [[ref-nph-17594]]
+- DOI: 10.1111/nph.17594
+- 主要物种: Solanum lycopersicum
 
-## Supporting Evidence
-*Source: [[ref-nph-17594]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: WIND1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

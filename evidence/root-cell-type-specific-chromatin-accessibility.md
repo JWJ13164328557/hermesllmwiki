@@ -31,6 +31,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.molp.2021.01.001"
+evidence_type: "DNA binding/regulation"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "high"
+quality: "high"
+quality_basis: "rule-v9-20261107"
+tags: [epigenetics-gene-regulation, single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: "result"
+evidence_type_prior: ""
+
 ---
 
 # Root Cell Types Exhibit Distinct Chromatin Accessibility Landscapes

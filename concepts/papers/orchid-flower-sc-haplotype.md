@@ -1,14 +1,25 @@
-title: Single-cell and haplotype-resolved transcriptomics reveal molecular signatures o
+---
+title: Single-cell and haplotype-resolved transcriptomics reveal molecular signatures of orchid floral structures
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1016/j.molp.2026.03.016
 confidence: medium
-aliases: ["Single-cell and haplotype-resolved transcriptomics reveal molecular signatures o"]
+aliases:
+- daily-41928475
+- Single-cell and haplotype-resolved transcriptomics reveal molecular signatures o
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Single-cell and haplotype-resolved transcriptomics reveal molecular signatures o
+theme_status: mapped
+theme_basis: tag
 
-# Single-cell and haplotype-resolved transcriptomics reveal molecular signatures o
+---
+
+# Single-cell and haplotype-resolved transcriptomics reveal molecular signatures of orchid floral structures
 
 
 
@@ -30,7 +41,7 @@ Orchidaceae is among the largest families of flowering plants, yet the cell hete
 - [[arabidopsis-sam-scrna]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[cotton-fiber-development-molecular-regulation]]
 - [[potato-leaf-heat-scrna]]
 - [[alfalfa-cadmium-sc-multiomics]]

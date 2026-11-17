@@ -1,15 +1,22 @@
-title: "Transcriptomic analysis reveals key genes associated with the biosynthesis regulation of phenolics in fresh-cut pitaya f"
+---
+title: Transcriptomic analysis reveals key genes associated with the biosynthesis regulation of phenolics in fresh-cut pitaya fruit (Hylocereus undatus)
 created: 2026-05-30
 type: concept
-tags: [#genomics-evolution, papers]
+themes: [genomics-evolution, metabolism-natural-products]
+tags:
+- genomics-evolution
+- papers
 doi: 10.1016/j.postharvbio.2021.111684
-pmid: 
-confidence: medium
-aliases: ["Transcriptomic 分析 揭示 关键 genes 相关的 with the 生物合成 调控 of phenolics in fresh-cut pitaya fruit (Hylocereus undatus"]
+pmid: ''
+aliases:
+- Transcriptomic 分析 揭示 关键 genes 相关的 with the 生物合成 调控 of phenolics in fresh-cut pitaya fruit (Hylocereus undatus
+title_fixed_from: Transcriptomic analysis reveals key genes associated with the biosynthesis regul
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Transcriptomic 分析 揭示 关键 genes 相关的 with the 生物合成 调控 of phenolics in fresh-cut pitaya fruit (Hylocereus undatus
+---
 
-> Transcriptomic analysis reveals key genes associated with the biosynthesis regulation of phenolics in fresh-cut pitaya fruit (Hylocereus undatus)
+# Transcriptomic analysis reveals key genes associated with the biosynthesis regulation of phenolics in fresh-cut pitaya fruit (Hylocereus undatus)
 
 ## 论文信息
 - **期刊**: Postharvest Biology and Technology (2021)

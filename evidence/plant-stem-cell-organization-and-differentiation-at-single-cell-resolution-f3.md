@@ -1,34 +1,43 @@
 ---
-title: "Taken together, these results reveal that when misexpressed in leaves, KN1 promotes sheath cell diff"
-created: 2026-08-25
+title: "Surprisingly, we found that perturbing the shoot differentiation process via ectopic …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]"
 doi: "10.1073/pnas.2018788117"
-species: [Arabidopsis thaliana, Zea mays, Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+species: ["Zea mays", "Arabidopsis thaliana"]
+primary_species: "Zea mays"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["KN1"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, these results reveal that when misexpressed in leaves, KN1 promotes sheath cell diff
+# Surprisingly, we found that perturbing the shoot differentiation process via ectopic …
 
 ## Claim
-Taken together, these results reveal that when misexpressed in leaves, KN1 promotes sheath cell differentiation and accelerates the ontogenetic progression of leaf development as reflected by changes in cell transcriptomes over pseudotime (Fig.
+Surprisingly, we found that perturbing the shoot differentiation process via ectopic expression of the homeobox transcription factor gene KN1 accelerates, rather than delays, cell differentiation in the seedling shoot.
 
-## Biological Context
-Plant stem-cell organization and differentiation at single-cell resolution
+## Source
+- 文献: [[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]
+- DOI: 10.1073/pnas.2018788117
+- 主要物种: Zea mays
 
-## Supporting Evidence
-*Source: [[plant-stem-cell-organization-and-differentiation-at-single-cell-resolution]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: KN1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -410,3 +410,93 @@
 - metabolism-gene-compound: 240 gene-compound pairs
 - metabolism-gene-network: gene co-occurrence from 9949 evidence
 - Top gene: ChIP (26 evidence)
+
+### Relationships (2026-11-02)
+- metabolism-gene-compound: 333 gene-compound pairs
+- metabolism-gene-network: gene co-occurrence from 7364 evidence
+- Top gene: ERF115 (21 evidence)
+
+### Relationships (2026-11-03)
+- metabolism-gene-compound: 263 gene-compound pairs
+- metabolism-gene-network: gene co-occurrence from 5741 evidence
+- Top gene: WIND1 (18 evidence)
+
+### Relationships (2026-11-03)
+- metabolism-gene-compound: 263 gene-compound pairs
+- metabolism-gene-network: gene co-occurrence from 5741 evidence
+- Top gene: WIND1 (18 evidence)
+
+### Relationships (2026-11-03)
+- metabolism-gene-compound: 263 genes / 317 pairs
+- metabolism-gene-network: gene co-occurrence from 5741 evidence
+- Top gene: WIND1 (18 evidence)
+
+### Relationships (2026-11-03)
+- metabolism-gene-compound: 263 genes / 317 pairs
+- metabolism-gene-network: gene co-occurrence from 5740 evidence
+- Top gene: WIND1 (18 evidence)
+
+### Relationships (2026-11-03)
+- metabolism-gene-compound: 263 genes / 317 pairs
+- metabolism-gene-network: gene co-occurrence from 5721 evidence
+- Top gene: WIND1 (18 evidence)
+
+### Relationships (2026-11-03)
+- metabolism-gene-compound: 263 genes / 317 pairs
+- metabolism-gene-network: gene co-occurrence from 5721 evidence
+- Top gene: WIND1 (18 evidence)
+
+### Relationships (2026-11-03)
+- metabolism-gene-compound: 263 genes / 317 pairs
+- metabolism-gene-network: gene co-occurrence from 5721 evidence
+- Top gene: WIND1 (18 evidence)
+
+### Relationships (2026-11-04)
+- metabolism-gene-compound: 653 genes / 805 pairs
+- metabolism-gene-network: gene co-occurrence from 18031 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-05)
+- metabolism-gene-compound: 653 genes / 805 pairs
+- metabolism-gene-network: gene co-occurrence from 18038 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-06)
+- metabolism-gene-compound: 653 genes / 805 pairs
+- metabolism-gene-network: gene co-occurrence from 18038 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-07)
+- metabolism-gene-compound: 653 genes / 805 pairs
+- metabolism-gene-network: gene co-occurrence from 18038 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-08)
+- metabolism-gene-compound: 653 genes / 805 pairs
+- metabolism-gene-network: gene co-occurrence from 18038 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-09)
+- metabolism-gene-compound: 653 genes / 805 pairs
+- metabolism-gene-network: gene co-occurrence from 18038 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-10)
+- metabolism-gene-compound: 653 genes / 805 pairs
+- metabolism-gene-network: gene co-occurrence from 18038 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-16)
+- metabolism-gene-compound: 654 genes / 806 pairs
+- metabolism-gene-network: gene co-occurrence from 18114 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-16)
+- metabolism-gene-compound: 654 genes / 806 pairs
+- metabolism-gene-network: gene co-occurrence from 18116 evidence
+- Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-17)
+- metabolism-gene-compound: 654 genes / 806 pairs
+- metabolism-gene-network: gene co-occurrence from 18116 evidence
+- Top gene: "AP2" (34 evidence)

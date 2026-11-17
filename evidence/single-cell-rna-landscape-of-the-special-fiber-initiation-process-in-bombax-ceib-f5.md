@@ -1,34 +1,43 @@
 ---
-title: "In cotton, GhSLR1 is a blocker of the phytohormone gibberellic acid; it interferes with stabilizatio"
-created: 2026-08-25
+title: "In cotton, GhSLR1 is a blocker of the phytohormone gibberellic acid; it interferes with …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]"
 doi: "10.1016/j.xplc.2023.100554"
-species: [Arabidopsis thaliana, Oryza sativa, Gossypium hirsutum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [GhHOX3, GhSLR1, GhHD1]
+species: ["Gossypium hirsutum", "Oryza sativa", "Arabidopsis thaliana"]
+primary_species: "Gossypium hirsutum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["GhHD1", "GhHOX3", "GhSLR1"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# In cotton, GhSLR1 is a blocker of the phytohormone gibberellic acid; it interferes with stabilizatio
+# In cotton, GhSLR1 is a blocker of the phytohormone gibberellic acid; it interferes with …
 
 ## Claim
-In cotton, GhSLR1 is a blocker of the phytohormone gibberellic acid; it interferes with stabilization of the GhHOX3–GhHD1 complex, inhibits transcription of downstream target genes, and ultimately sup- presses ﬁber elongation (Shan et al., 2014).
+In cotton, GhSLR1 is a blocker of the phytohormone gibberellic acid; it interferes with stabilization of the GhHOX3–GhHD1 complex, inhibits transcription of downstream target genes, and ultimately suppresses fiber elongation (Shan et al., 2014).
 
-## Biological Context
-Single-cell RNA landscape of the special fiber initiation process in Bombax ceiba
+## Source
+- 文献: [[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]
+- DOI: 10.1016/j.xplc.2023.100554
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[single-cell-rna-landscape-of-the-special-fiber-initiation-process-in-bombax-ceib]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: GhHD1, GhHOX3, GhSLR1
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

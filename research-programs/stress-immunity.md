@@ -1,92 +1,150 @@
 ---
-title: "胁迫与免疫 — Synthesis"
+title: "Research Program: Stress & Immunity"
+title_zh: "逆境与免疫：研究方案"
 type: research-program
 topic: "stress-immunity"
-total_evidence: 396
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 4799
+total_papers: 967
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 胁迫与免疫 — Synthesis
+# 🔬 Stress & Immunity：从证据到可执行研究方案
 
-## Program Overview
-基于 396 条证据生成的 5 个实验目标。
+> 本方案由 4799 条证据 / 967 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test HDA6 function
+- **主题**：Stress & Immunity
+- **证据规模**：4799 条证据 / 967 篇独立论文
+- **候选靶点**：PUB22, LfVP1, AtCESA1, OsSTRK1, TaCRY1b, DlPP2C1
+- **主体系**：Solanum lycopersicum
+- **主题归属依据**：证据标签
 
-**Hypothesis**: HDA6 play a crucial role ABA to control [process]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate HDA6 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: HDA6-GFP fusion
+### 目标 1：建立 PUB22 的剂量—效应曲线
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test TD2 function
-
-**Hypothesis**: TD2 regulates PUB22 and JAZ4 to control [process]
-
-**Experimental Design**:
-1. Generate TD2 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: TD2-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test RWC function
-
-**Hypothesis**: RWC regulate ABA and NIL to control [process]
-
-**Experimental Design**:
-1. Generate RWC overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: RWC-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test FUS3 function
-
-**Hypothesis**: FUS3 plays a key role LEC1 and ATAF1 to control [process]
-
-**Experimental Design**:
-1. Generate FUS3 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: FUS3-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test HDA19 function
-
-**Hypothesis**: HDA19 regulates HDA6 to control [process]
-
-**Experimental Design**:
-1. Generate HDA19 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: HDA19-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：PUB22 已有 199 项独立研究；但其中仅 2 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 PUB22 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：验证 LfVP1 对 （hormone-related molecules） 的因果方向
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：LfVP1 正向促进 （hormone-related molecules）。判别性检验：在 Gossypium hirsutum 中敲低或敲除 LfVP1，（hormone-related molecules） 应下降；恢复表达应使其回升。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：LfVP1 的敲除/敲低系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样部位、生育期与光温条件下定量 （hormone-related molecules）
+  3. 剂量梯度（杂合/纯合/过表达强弱）检验方向是否随剂量改变
+  4. 互补实验排除脱靶与背景效应
+- **判定标准**：敲低/敲除株系中 （hormone-related molecules） 显著下降且可被回补，过表达株系上升
+- **止损条件**：遗传操纵后 （hormone-related molecules） 无方向一致的变化，或变化与 LfVP1 的表达量无关
+- **预计周期**：12–18 个月
+
+
+### 目标 3：建立 AtCESA1 的剂量—效应曲线
+
+- **对应假说**：AtCESA1 已有 59 项独立研究；但其中仅 1 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 AtCESA1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 4：建立 OsSTRK1 的剂量—效应曲线
+
+- **对应假说**：OsSTRK1 已有 54 项独立研究；但其中仅 1 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 OsSTRK1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 5：建立 TaCRY1b 的剂量—效应曲线
+
+- **对应假说**：TaCRY1b 已有 49 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 TaCRY1b 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 6：建立 DlPP2C1 的剂量—效应曲线
+
+- **对应假说**：DlPP2C1 已有 35 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Solanum lycopersicum 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 DlPP2C1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 表型与胁迫量化 | 0–6 月 | 多梯度胁迫、盲法定量、田间/温室分层 | 表型差异可重复，胁迫强度可校准 |
+| P1 遗传因果 | 6–16 月 | 候选基因扰动与等位变异；病原/逆境挑战 | 扰动与表型同向，至少 2 个独立株系 |
+| P2 信号机制 | 16–24 月 | ROS、钙信号、激素与防御标记时序 | 机制链有时间顺序与遗传依赖 |
+| P3 田间验证 | 24–36 月 | 多点田间/病圃试验，评估产量与抗性权衡 | 抗性提升不以不可接受减产为代价 |
+
+> 本路线把田间/病圃验证前置到设计阶段；温室表型不能单独外推。
+
+## 四、风险与对策
+
+- 未从证据层识别到显著风险；仍应按标准做法设置生物学重复与盲法测量。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/stress-immunity.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

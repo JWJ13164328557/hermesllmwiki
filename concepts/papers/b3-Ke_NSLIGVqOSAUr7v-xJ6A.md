@@ -1,10 +1,19 @@
+---
 title: Single-cell network analysis reveals gene expression programs for Arabidopsis ep
-tags: [#developmental-biology, papers]
-aliases: ["Single-cell 网络 分析 揭示 gene 表达 programs Arabidopsis ep"]
-aliases_extra: ["单细胞网络分析揭示拟南芥ep的基因表达程序"]
+tags: [papers]
+aliases: [Single-cell 网络 分析 揭示 gene 表达 programs Arabidopsis ep]
+aliases_extra: [单细胞网络分析揭示拟南芥ep的基因表达程序]
 type: paper
+themes: [developmental-biology, methods-tools]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Single-cell network analysis reveals gene expression programs for Arabidopsis ep
 
@@ -45,10 +54,10 @@ Arabidopsis, Plant Epidermis, Arabidopsis Proteins, Gene Expression Regulation, 
 
 ## 相关文献
 
-- [[b6-jpXamO-lS-eyCqULAU9qnA]] 🌱Arabidopsis
-- [[andrographis-msi-sc-spatial]] 🌱Arabidopsis
+- [[cr-s41477-023-01387-z]] 🌱Arabidopsis
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]] 🌱Arabidopsis
 - [[arabidopsis-root-regeneration-sc-multi]] 🌱Arabidopsis
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]] 🌱Arabidopsis
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
+- [[poplar-xylem-sc-spatial-gb]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
 - [[poplar-xylem-sc-spatial-gb]]

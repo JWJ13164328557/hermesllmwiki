@@ -1,14 +1,24 @@
-title: PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs inf
+---
+title: 'PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs infers cell-cell communication'
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1111/pbi.13893
 confidence: medium
-aliases: ["PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs inf"]
+aliases:
+- 'PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs inf'
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: 'PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs inf'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs inf
+---
+
+# PlantPhoneDB: A manually curated pan-plant database of ligand-receptor pairs infers cell-cell communication
 
 
 
@@ -39,15 +49,32 @@ Correspondence(Tel +86 0592‐2185175; fax +86 0592‐2185175; emailyingzhou@xmu
 **OA PDF**: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/pbi.13893
 
 
+## 深度提炼
+
+**主要物种**: Arabidopsis thaliana
+**物种**: Arabidopsis thaliana, Oryza sativa, Populus spp., Solanum lycopersicum, Zea mays
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq
+**来源**: DOI:10.1111/pbi.13893
+**来源类型**: PDF全文 (10-1111_pbi-13893.pdf)
+
+### 核心发现
+1. Importantly, the downstream target genes of this ligand-receptor pair were signiﬁcantly enriched in the ribosome pathway, which facilitated plants adapting to environmental changes.
+2. In conclusion, PlantPhoneDB provided researchers with integrated resources to infer cell–cell communication from scRNA-seq datasets.
+3. Secreted peptide ligands have been considered as the ﬁrst messenger to bind to cell surface receptors that are transmembrane proteins with extracellular and intracellular kinase domains for signalling transduction.
+4. For instance, Phytosulfokine (PSK) peptide may interact with PSK receptor gene 1 (PSKR1) and PSK receptor gene 2 (PSKR2) to regulate root growth in Arabidopsis (Kutschmar et al., 2009), and the pathway of AtPep3 peptide and membrane-receptor kinase gene PEPR1 is associated with salt tolerance in Arabidopsis (Nakaminami et al., 2018).
+5. As a result, the PlantPhoneDB R package can predict downstream target genes regulated by ligand-receptor pairs that were involved in the signalling pathway in plants.
+6. In summary, the violin plot and UMAP ª 2022 The Authors.
+7. The pathway analysis results showed that the downstream target genes of AT1G28290-AT2G14890 pair (FDR = 3.77 × 10−64) were mainly involved in the ribosome pathway (ath03010; Data S7; Figure S5f).
+8. In summary, we can compare the difference in cell–cell interaction by comparing the two rice cultivars using the PlantPhoneDB R package.
 ## 相关文献
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

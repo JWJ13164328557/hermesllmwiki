@@ -1,0 +1,338 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""主题词表 = 知识库唯一的"主题↔证据标签"契约（2026-11-02）。
+
+为什么需要它
+------------
+本轮体检发现，报告层的三个脚本各自用一套隐式规则把证据归到主题，结果互不一致：
+
+  * 证据页真实标签是  single-cell-spatial(253) / developmental-biology(253) /
+    metabolism-np(162) / stress-immunity(110) / epigenetics-gr(109) /
+    hormone-signaling(108) / genomics-evolution(83) / methods-tools(75)；
+  * 但 synthesis 页 frontmatter 写的是  tags: [hormone, signaling, synthesis]，
+    与证据标签零交集；
+  * batch_hypotheses 因此只匹配到 9 条证据（应是 250+），
+    于是"单细胞与空间组学"的假说页从 9 条证据里硬凑 5 条假说。
+
+同一批证据在不同脚本里得出不同数字，任何"综述/假说"都不可能可信。
+本模块把主题定义收敛到一处：别名归一化 + 主标签匹配 + 关键词兜底，
+并显式区分"高置信（标签）"与"低置信（关键词）"两档，写进产物供人工复核。
+
+设计约束
+--------
+1. 纯函数、无 IO、无第三方依赖 —— 可被三个脚本和测试同时导入。
+2. 不引入新的隐式规则：别名表就是全部规则，改这里即改全局。
+3. 通用大桶标签（papers / metabolism / development）**不进主标签**：
+   papers 是"全部文献"的同义词，metabolism/development 覆盖上千页，
+   把它们当主标签会让主题退化成"整个库"。
+"""
+from __future__ import annotations
+
+import re
+
+# ── 8 个固定主题（与 synthesis/*.md 文件名一致，禁止随意增删）───────────
+THEMES = (
+    'single-cell-spatial-omics',
+    'developmental-biology',
+    'metabolism-natural-products',
+    'hormone-signaling',
+    'stress-immunity',
+    'epigenetics-gene-regulation',
+    'methods-tools',
+    'genomics-evolution',
+)
+
+# ── 主题元数据（标题只用于展示，不参与匹配）───────────────────────────
+THEME_META = {
+    'single-cell-spatial-omics': {
+        'title': 'Single-Cell & Spatial Omics',
+        'title_zh': '单细胞与空间组学',
+    },
+    'developmental-biology': {
+        'title': 'Plant Developmental Biology',
+        'title_zh': '植物发育生物学',
+    },
+    'metabolism-natural-products': {
+        'title': 'Metabolism & Natural Products',
+        'title_zh': '代谢与天然产物',
+    },
+    'hormone-signaling': {
+        'title': 'Hormone Signalling',
+        'title_zh': '激素与信号转导',
+    },
+    'stress-immunity': {
+        'title': 'Stress & Immunity',
+        'title_zh': '逆境与免疫',
+    },
+    'epigenetics-gene-regulation': {
+        'title': 'Epigenetics & Gene Regulation',
+        'title_zh': '表观遗传与基因调控',
+    },
+    'methods-tools': {
+        'title': 'Methods & Tools',
+        'title_zh': '方法与工具',
+    },
+    'genomics-evolution': {
+        'title': 'Genomics & Evolution',
+        'title_zh': '基因组学与演化',
+    },
+}
+
+# ── 别名表：标签写法归一化 → 主题 ─────────────────────────────────────
+# 线上历史标签存在 `#metabolism-np`、`metabolism-np` 两种写法（105 + 162 条），
+# 缩写 `epigenetics-gr` / `single-cell-spatial` 也在用，这里全部收敛。
+THEME_TAG_ALIASES = {
+    # 单细胞 / 空间
+    'single-cell-spatial': 'single-cell-spatial-omics',
+    'single-cell-spatial-omics': 'single-cell-spatial-omics',
+    'single-cell': 'single-cell-spatial-omics',
+    'singlecell': 'single-cell-spatial-omics',
+    'spatial': 'single-cell-spatial-omics',
+    'spatial-transcriptomics': 'single-cell-spatial-omics',
+    'scrnaseq': 'single-cell-spatial-omics',
+    'scrna-seq': 'single-cell-spatial-omics',
+    'stereo-seq': 'single-cell-spatial-omics',
+    # 发育
+    'developmental-biology': 'developmental-biology',
+    'regeneration': 'developmental-biology',
+    'meristem': 'developmental-biology',
+    'organogenesis': 'developmental-biology',
+    'embryogenesis': 'developmental-biology',
+    'somatic-embryogenesis': 'developmental-biology',
+    # 2026-11-02：development/cambium 在全库均 0 页使用，加进来只为与
+    # tests 夹具和旧 CORE_THEMES 的语义对齐，不改变线上归属数量。
+    # vascular/xylem/phloem 刻意不加：它们会让 developmental-biology 的
+    # 证据量从 272 涨到 848（含大量次生壁合成类），属超范围重分类。
+    'development': 'developmental-biology',
+    'cambium': 'developmental-biology',
+    # 代谢
+    'metabolism-np': 'metabolism-natural-products',
+    'metabolism-natural-products': 'metabolism-natural-products',
+    'secondary-metabolism': 'metabolism-natural-products',
+    'flavonoid': 'metabolism-natural-products',
+    'terpenoid': 'metabolism-natural-products',
+    'alkaloid': 'metabolism-natural-products',
+    'phenylpropanoid': 'metabolism-natural-products',
+    'starch-sugar': 'metabolism-natural-products',
+    # 激素
+    'hormone-signaling': 'hormone-signaling',
+    'hormone': 'hormone-signaling',
+    'signaling': 'hormone-signaling',
+    'auxin': 'hormone-signaling',
+    'cytokinin': 'hormone-signaling',
+    'gibberellin': 'hormone-signaling',
+    'brassinosteroid': 'hormone-signaling',
+    'abscisic': 'hormone-signaling',
+    'jasmonic': 'hormone-signaling',
+    'salicylic': 'hormone-signaling',
+    'ethylene': 'hormone-signaling',
+    'strigolactone': 'hormone-signaling',
+    # 逆境 / 免疫
+    'stress-immunity': 'stress-immunity',
+    'stress': 'stress-immunity',
+    'immunity': 'stress-immunity',
+    'defense': 'stress-immunity',
+    'pathogen': 'stress-immunity',
+    'drought': 'stress-immunity',
+    'salt': 'stress-immunity',
+    'heat': 'stress-immunity',
+    'cold': 'stress-immunity',
+    # 表观
+    'epigenetics-gr': 'epigenetics-gene-regulation',
+    'epigenetics-gene-regulation': 'epigenetics-gene-regulation',
+    'epigenetics': 'epigenetics-gene-regulation',
+    'epigenetic': 'epigenetics-gene-regulation',
+    'chromatin': 'epigenetics-gene-regulation',
+    'transcription-factor': 'epigenetics-gene-regulation',
+    'gene-regulation': 'epigenetics-gene-regulation',
+    'atac': 'epigenetics-gene-regulation',
+    # 方法
+    'methods-tools': 'methods-tools',
+    'method': 'methods-tools',
+    'methodological': 'methods-tools',
+    'tool': 'methods-tools',
+    'database': 'methods-tools',
+    'pipeline': 'methods-tools',
+    'benchmark': 'methods-tools',
+    'protocol': 'methods-tools',
+    # 基因组 / 演化
+    'genomics-evolution': 'genomics-evolution',
+    'genomics': 'genomics-evolution',
+    'evolution': 'genomics-evolution',
+    'genome': 'genomics-evolution',
+    'polyploidy': 'genomics-evolution',
+    'comparative': 'genomics-evolution',
+}
+
+# ── 主标签匹配时排除的"大桶"标签 ─────────────────────────────────────
+# 只排除"等于全部文献"的标签：papers 3850 页、metabolism 2956 页，
+# 覆盖整个库的 40%+，拿它当主题依据等于没有依据。
+#
+# 2026-11-02 修正：曾把 'development' 也列进来，但全库实际 0 页使用该标签，
+# 排掉它没有降噪作用，反而让 tests 里 [development, cambium] 这类
+# 合法发育标签无法归属主题。现在 'development'/'cambium' 作为正式别名。
+GENERIC_TAGS = frozenset({
+    'papers', 'paper', 'reference', 'dpdf', 'pmc', 'synthesis',
+    'metabolism',
+})
+
+# ── 关键词兜底（只在标签缺失时使用，且要求 >=2 个不同关键词命中）──────
+# 目的是救"老格式证据页"（无 tags），不是扩大主题边界。
+THEME_KEYWORDS = {
+    'single-cell-spatial-omics': [
+        'single-cell', 'single cell', 'scrna-seq', 'spatial transcript',
+        'stereo-seq', 'merfish', 'visium', 'slide-seq', 'cell atlas',
+        'cell-type', 'cell type',
+    ],
+    'developmental-biology': [
+        'meristem', 'organogenesis', 'embryogenesis', 'regeneration',
+        'stem cell niche', 'differentiation', 'morphogenesis', 'primordium',
+    ],
+    'metabolism-natural-products': [
+        'biosynthesis', 'secondary metabolite', 'flavonoid', 'anthocyanin',
+        'terpenoid', 'alkaloid', 'lignin', 'phenylpropanoid', 'glycoside',
+    ],
+    'hormone-signaling': [
+        'auxin', 'cytokinin', 'gibberellin', 'brassinosteroid', 'abscisic acid',
+        'jasmon', 'salicylic', 'ethylene', 'strigolactone', 'hormone',
+    ],
+    'stress-immunity': [
+        'drought', 'salt stress', 'cold stress', 'heat stress', 'pathogen',
+        'defense response', 'immune', 'nlr', 'effector', 'ros burst',
+    ],
+    'epigenetics-gene-regulation': [
+        'chromatin', 'histone', 'methylation', 'acetylation', 'enhancer',
+        'transcription factor', 'atac-seq', 'chip-seq', 'regulatory element',
+    ],
+    'methods-tools': [
+        'we present', 'we developed', 'pipeline', 'workflow', 'benchmark',
+        'database', 'toolkit', 'software', 'algorithm', 'protocol',
+    ],
+    'genomics-evolution': [
+        'genome assembly', 'polyploid', 'phylogen', 'comparative genomic',
+        'whole-genome', 'synteny', 'gene family expansion', 'domestication',
+    ],
+}
+
+# 主题之间允许共享关键词造成的重复计数，最多允许一个证据同时进 2 个主题；
+# 超过则视为"泛化证据"，三个脚本都忽略（避免同一结论出现在 5 个报告里）。
+MAX_THEMES_PER_EVIDENCE = 2
+
+_WS = re.compile(r'\s+')
+
+
+_LIGATURES = {
+    '\ufb00': 'ff', '\ufb01': 'fi', '\ufb02': 'fl', '\ufb03': 'ffi',
+    '\ufb04': 'ffl', '\ufb05': 'ft', '\ufb06': 'st',
+    '\u00ad': '',
+    '\u2019': "'", '\u2018': "'", '\u201c': '"', '\u201d': '"',
+    '\u00a0': ' ',
+    '\u2013': '-', '\u2014': '-',
+}
+
+
+def fold(text):
+    """PDF 抽取的合字与特殊字符归一化。"""
+    if not text:
+        return ''
+    out = []
+    for ch in text:
+        out.append(_LIGATURES.get(ch, ch))
+    return ''.join(out)
+
+
+def normalize_tag(tag):
+    """标签归一化：去 #、去引号、小写、空格/下划线→连字符。"""
+    if not tag:
+        return ''
+    t = fold(tag).strip().strip('"\'#').strip()
+    t = t.lower().replace('_', '-')
+    t = _WS.sub('-', t)
+    return t.strip('-')
+
+
+def normalize_tags(tags):
+    """把标签序列归一化并去重（保持顺序）。"""
+    seen, out = set(), []
+    for t in tags or ():
+        n = normalize_tag(t)
+        if n and n not in seen:
+            seen.add(n)
+            out.append(n)
+    return out
+
+
+def themes_from_tags(tags):
+    """标签 → 主题集合（只认别名表，不做关键词猜测）。"""
+    hits = set()
+    for t in normalize_tags(tags):
+        if t in GENERIC_TAGS:
+            continue
+        theme = THEME_TAG_ALIASES.get(t)
+        if theme:
+            hits.add(theme)
+    return hits
+
+
+def themes_from_text(text):
+    """文本 → 主题集合，按"不同关键词命中数 >= 2"判定。"""
+    low = fold(text).lower()
+    hits = set()
+    for theme, kws in THEME_KEYWORDS.items():
+        n = sum(1 for kw in kws if kw in low)
+        if n >= 2:
+            hits.add(theme)
+    return hits
+
+
+def assign_themes(tags, text=''):
+    """返回 (themes, basis)。basis ∈ {'tag','keyword','tag+keyword',None}。
+
+    tags 命中优先；仅在 tags 完全没有主题时，才用关键词兜底。
+    这样可以避免"标签已明确属于 A 主题，却又被关键词塞进 B/C/D"。
+    """
+    by_tag = themes_from_tags(tags)
+    if by_tag:
+        return by_tag, 'tag'
+    by_kw = themes_from_text(text)
+    if by_kw:
+        return by_kw, 'keyword'
+    return set(), None
+
+
+def is_theme(theme_id):
+    return theme_id in THEME_META
+
+
+def display_title(theme_id, lang='en'):
+    meta = THEME_META.get(theme_id, {})
+    if lang == 'zh':
+        return meta.get('title_zh') or theme_id
+    return meta.get('title') or theme_id
+
+# ── PDF 抽取噪声清洗 ──────────────────────────────
+# 两个生成器都必须用同一份清洗，否则同一页在一边命中关键词、
+# 在另一边不命中，主题证据数就对不上。
+SOFT_HYPHEN_CHARS = ('\u00ad', '\u2010', '\u2011', '\u00a0')
+
+
+def normalize_claim(text):
+    """清理 PDF 抽取噪声：软连字符断词、合字、弯引号、多余空白。"""
+    if not text:
+        return ''
+    t = text
+    t = re.sub(r'([A-Za-z])\u00ad\s*([a-z])', r'\1\2', t)
+    for ch in SOFT_HYPHEN_CHARS:
+        t = t.replace(ch, ' ')
+    t = re.sub(r'\b([a-z]{3,})-\s+([a-z]{2,})\b', r'\1-\2', t)
+    t = re.sub(r'\b([A-Za-z]{3,})-\s+([A-Z]{3,})\b', r'\1\2', t)
+    t = t.replace('\u2019', "'").replace('\u2018', "'")
+    t = t.replace('\u201c', '"').replace('\u201d', '"')
+    t = fold(t)
+    t = ' '.join(t.split())
+    for _ in range(3):
+        t2 = re.sub(r'\b([A-Za-z][A-Za-z\-]{2,})\s+\1\b', r'\1', t)
+        if t2 == t:
+            break
+        t = t2
+    return t

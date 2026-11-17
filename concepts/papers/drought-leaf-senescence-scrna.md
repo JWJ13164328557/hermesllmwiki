@@ -1,12 +1,21 @@
-title: "A transcriptional atlas of early Arabidopsis seed developmen"
-journal: "unknown"
-year: ""
+---
+title: A transcriptional atlas of early Arabidopsis seed developmen
+journal: unknown
+year: ''
 type: paper
-tags: [#developmental-biology, papers]
+themes: []
+tags: [papers]
 species: [Arabidopsis thaliana]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -24,8 +33,8 @@ updated: 2026-05-30
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]
 - [[b3-Lj9ToIUf0z9y77oj4ELKlQ]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-78WuUWiztOxRe4n5MS2Pag]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b3--bs1tAYpaCxa0fWZ49R6kw]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-ys8H9kH4cFVbPEuMHCg4nA]]
 
 

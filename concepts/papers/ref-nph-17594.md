@@ -1,14 +1,24 @@
-title: WIND transcription factors orchestrate wound-induced callus formation, vascular 
+---
+title: WIND transcription factors orchestrate wound-induced callus formation, vascular reconnection and defense response in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags:
+- developmental-biology
+- papers
 doi: 10.1111/nph.17594
 confidence: medium
-aliases: ["WIND transcription factors orchestrate wound-induced callus formation, vascular"]
+aliases:
+- WIND transcription factors orchestrate wound-induced callus formation, vascular
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: WIND transcription factors orchestrate wound-induced callus formation, vascular
+theme_status: mapped
+theme_basis: tag+keyword
 
-# WIND transcription factors orchestrate wound-induced callus formation, vascular
+---
+
+# WIND transcription factors orchestrate wound-induced callus formation, vascular reconnection and defense response in Arabidopsis
 
 
 
@@ -41,13 +51,13 @@ Authors for correspondence:Akira Iwase,Email:akira.iwase@riken.jp,Keiko Sugimoto
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum, Ficus carica
+**物种**: Arabidopsis thaliana, Solanum lycopersicum, Nicotiana tabacum
 **方法**: qRT-PCR validation, dual-luciferase reporter, overexpression, knockout/mutant
 **来源**: DOI:10.1111/nph.17594
 **来源类型**: PDF全文 (10.1111_nph.17594.pdf)
 
 ### 核心发现
-1. ALD1 also shows WRKY33-dependent expression man- ner, and importantly, plants defective in this gene show higher susceptibility to pathogens (Song et al., 2004; Navarova et al., 2012; Wang et al., 2018), indicating that the control of WRKY- mediated phytoalexin and signal molecule production are crucial for the defense response.
+1. ALD1 also shows WRKY33-dependent expression man- ner, and importantly, plants defective in this gene show higher susceptibility to pathogens (Song et al., 2004; Navarova et al., 2012; Wang et al., 2018), indicating that the control of WRKY- mediated phytoalexin and signal molecule production are crucial for the defense response.
 2. Finally, consistent with the upregulation of ERF115 and ANAC071 by WIND1, their downstream target genes such as the wound-responsible small peptide PHYTOSULFOKINE 5 (PSK5; Loivam€aki et al., 2010; Heyman et al., 2013), XYLOGLUCAN ENDOTRANSGLUCOSYLASE/HYDROLASE 19 (XTH19) and XTH20 (Pitaksaringkarn et al., 2014), were induced within 24 h after WIND1 induction (Table 1).
 3. Our data show that WIND1 transcriptionally activates over 2000 genes implicated in cellular reprogramming, vascular formation and defense response.
 4. As expected, this list of WIND1- induced reprogramming regulators included ESR1, and we found many other key transcriptional regulators, such as LBD18, OBF BINDING PROTEIN 4 (OBP4), ESR2, RAP2.6L, ERF115, WUSCHEL (WUS), PLT5, WUSCHEL-RELATED HOMEOBOX 5 (WOX5), LEAFY COTYLDEON 2 (LEC2) and Arabidopsis NAC DOMAIN CONTAINING PROTEIN 71 (ANAC071), which were expressed within 24 h after WIND1 induction
@@ -59,11 +69,11 @@ Authors for correspondence:Akira Iwase,Email:akira.iwase@riken.jp,Keiko Sugimoto
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 

@@ -77774,3 +77774,1147 @@ push failed
 ✅ 完成: 13110 文件变更
 2026-08-25 10:56:52 结束 [backfill]
 
+========================================
+2026-08-26 08:00:01 开始 [backfill] 检索最近1095天
+1. git pull...
+Already up to date.
+2. PubMed检索 (1095天)...
+🔍 检索最近 1095 天植物学文献...
+📅 2026-08-26 08:00
+📊 PubMed 候选: 259 篇
+  ✅ Regulation of reactive oxygen species production by LrWRKY53 tran
+     International journal of biological macromolecules (2026) | PMID:42551675 | Yongyao Fu
+     WRKY transcription factors (TFs) play regulatory roles in leaf senescence and resistance to biotic s...
+  ✅ Pesticide Residues in Soybeans and Soybean Oil: Transfer Dynamics
+     Journal of agricultural and food chemistry (2026) | PMID:42554817 | Lin Yang
+     This study investigated pesticide residues in soybeans and soybean oil and tracked their variations ...
+  ✅ Exogenous molybdenum mitigates cadmium-induced toxicity in wheat 
+     Physiology and molecular biology of plants : an international journal of functional plant biology (2026) | PMID:42558639 | Leila Khaireddine
+     Cadmium (Cd) contamination of agricultural soils represents a serious threat to crop productivity an...
+  ✅ Degree of milling-oriented framework for aroma regulation in Daoh
+     Food chemistry: X (2026) | PMID:42564852 | Rui Lai
+     Rice aroma, a critical determinant of consumer acceptance, is influenced by the degree of milling (D...
+  ✅ The TaCOMT1A-Synthesised Sakuranetin Is a Novel Biostimulant Enha
+     Plant biotechnology journal (2026) | PMID:42566321 | Mingzhao Luo
+     Drought stress is a major limitation to global wheat production. Here, we demonstrate that the wheat...
+  ✅ ZmP5CS3 positively regulates drought tolerance by regulating prol
+     Plant science : an international journal of experimental plant biology (2026) | PMID:42570729 | Shuai Zhao
+     Proline, a critical osmoprotectant and reactive oxygen species (ROS) scavenger, is vital for plant a...
+  ✅ A novel strategy for controlled release of sialic acid based on W
+     Current research in food science (2026) | PMID:42571507 | Donglei Zheng
+     Sialic acid (Neu5Ac) possesses a wide range of bioactivities; however, its instability under acidic ...
+  ✅ Bacterial Volatile Organic Compounds Mediate a Cooperative Relati
+     Microbial biotechnology (2026) | PMID:42572400 | Anahita Barghi
+     Bacterial volatile organic compounds (BVOCs) are increasingly recognised as effective signalling mol...
+  ✅ GsIRT3: a zinc-iron transporter gene from Glycine soja, enhancing
+     Journal of plant research (2026) | PMID:42573724 | Deqiang Ding
+     ZIP family genes are known to play important roles in the transport of divalent metal ions such as z...
+  ✅ Nanoclay- and alginate-based soil amendments preserve photosynthe
+     Frontiers in plant science (2026) | PMID:42577086 | Ali El-Keblawy
+     INTRODUCTION: Drought stress accelerates leaf senescence, disrupts photosynthetic function, and enha...
+  ✅ Ozone suppresses rice photosynthesis and yield in China's middle-
+     Plant physiology and biochemistry : PPB (2026) | PMID:42580238 | Changsheng Tang
+     Ground-level ozone (O...
+  ✅ Stage-specific optimization of light intensity enhances rice seed
+     Plant physiology and biochemistry : PPB (2026) | PMID:42580239 | Bin He
+     Light intensity critically determines rice seedling growth and yield, yet the stage-specific photoac...
+  ✅ Comparative seed dormancy and germination responses to drying and
+     AoB PLANTS (2026) | PMID:42582953 | T Sajeevan
+     Sri Lankan wild rice, ...
+  ✅ Nubbin-Regulated UDP-Glycosyltransferase NlUGT386G5 Mediates Quer
+     Journal of agricultural and food chemistry (2026) | PMID:42584128 | Lei Yue
+     Quercetin is a defensive flavonoid that accumulates in rice following infestation by the brown plant...
+  ✅ Insights into Salinity Stress-Induced Morpho-Physiological and Mo
+     Nanomaterials (Basel, Switzerland) (2026) | PMID:42584341 | Abhishek Singh
+     Soil salinity is a major environmental constraint that threatens global food security by significant...
+  ✅ Benzoic acid inhibits peach root growth and lateral root emergenc
+     Plant cell reports (2026) | PMID:42584494 | Qing Rong Zhang
+     We established a non-sterile root transformation system in peach seedlings. Using this system, we de...
+  ✅ Cutting off the dual-stress ROS tap: NADPH oxidase inhibition res
+     Plant physiology and biochemistry : PPB (2026) | PMID:42585738 | Junjun Hou
+     Maize roots suffer severe growth inhibition under combined drought and cold, yet the underlying trig...
+  ✅ Selective aerobic synthesis of vitamin K3 catalyzed by alloy-like
+     International journal of biological macromolecules (2026) | PMID:42586343 | D S Rezaeidanesh
+     Due to its vital medicinal and nutritional roles, including bone mineralization and anti-cancer acti...
+  ✅ Structural Characterization, Physicochemical Stability, and Antio
+     Foods (Basel, Switzerland) (2026) | PMID:42587840 | Qi Zhang
+     Rice glutelin hydrolysates (RGHs) with different degrees of hydrolysis (DH) were prepared using papa...
+  ✅ Etching-Hydrophobicity Modification of Soybean Dreg Insoluble Die
+     Foods (Basel, Switzerland) (2026) | PMID:42587973 | Shuhan Ge
+     Soybean dregs, one of the main byproducts of traditional soybean processing, are rich in insoluble d...
+  ✅ Desert Endophytic Fungi Differentially Modulate Reactive Oxygen S
+     Plants (Basel, Switzerland) (2026) | PMID:42588813 | Yessica San Miguel
+     Increasing temperature is a major stress factor associated with climate change, strongly limiting ag...
+  ✅ Genome-Wide Identification of the XTH Gene Family in 
+     Plants (Basel, Switzerland) (2026) | PMID:42588822 | Junpeng Wu
+     Drought stress severely restricts the growth and yield of woody nut crops. The xyloglucan endotransg...
+  ✅ Iron Chlorin e6 Improves Soybean Yield by Maintaining Chlorophyll
+     Plants (Basel, Switzerland) (2026) | PMID:42588914 | Wei Chen
+     Saline-alkali stress is a widespread abiotic stress that severely impairs crop growth and yield form...
+  ✅ A factorial multi-layer analysis reveals non-additive sulfur-iron
+     The New phytologist (2026) | PMID:42590982 | Eleonora Coppa
+     Reciprocal iron-sulfur regulation in durum wheat converges on a few metabolic hubs that integrate nu...
+  ✅ Genome-wide analysis of MsGDSL gene family reveals MsGDSL69 as a 
+     Plant physiology and biochemistry : PPB (2026) | PMID:42594629 | Tian Zhang
+     GDSL esterase/lipase (GDSL) is a type of hydrolase with lipolysis activity. It can regulate the lipi...
+  ✅ Impact of fly ash and farmyard manure on one health continuum of 
+     Scientific reports (2026) | PMID:42595767 | Asik Dutta
+     Fly-ash (FA) is a valuable coal combustion residue with enormous potential to use in agriculture but...
+  ✅ Association analysis of color characteristics, anthocyanin profil
+     Food chemistry: X (2026) | PMID:42602971 | Xiao Ren
+     This study systematically compared color traits, pigment composition, anthocyanin profiles, and anti...
+  ✅ Exogenous kinetin mitigates arsenic-induced oxidative stress by r
+     Plant cell reports (2026) | PMID:42604478 | Asif Hussain Hajam
+     Integrated physiological, biochemical, histochemical, and structural analyses demonstrated that exog...
+  ✅ Whole-Genome Variants Resource of 144 Oryza rufipogon Accessions.
+     Scientific data (2026) | PMID:42608407 | Lihao Zheng
+     The global food security crisis highlights the urgent need to improve rice yield and quality. Oryza ...
+  ✅ Development of a Sheath Inoculation Protocol to Screen Rice Varie
+     Plant disease (2026) | PMID:42612219 | Bernard O Budot
+     ...
+  ✅ Synergistic regulation of cadmium tolerance by a 2 C protein phos
+     Journal of hazardous materials (2026) | PMID:42612530 | Muhammad Qasim Shahid
+     Cadmium (Cd) contamination in rice systems poses a significant risk to food safety and human health,...
+  ✅ 
+     Frontiers in plant science (2026) | PMID:42614296 | Yafei Yan
+     Tomato leaf mold, caused by ...
+  ✅ Genetic code expansion enables plant-directed control of bacteria
+     bioRxiv : the preprint server for biology (2026) | PMID:42619807 | Vivian Zhong
+     Programmable control of microbial gene expression by plant hosts could enable a new generation of pr...
+  ✅ Peptidomic evidence for pH-stat flavourzyme-mediated debittering 
+     Current research in food science (2026) | PMID:42621333 | Pei-Yu Wu
+     Flavourzyme-assisted two-stage hydrolysis is a recognized debittering strategy for protein hydrolysa...
+  ✅ Comparative transcriptomic analysis reveals distinct responses of
+     Plant cell reports (2026) | PMID:42622894 | Francesca Vaccaro
+     Root exudates from Oryza rufi pogon elicit stronger transcriptional responses in benefi cial bacteri...
+  ✅ Effect of redox status on the metabolic characteristics and micro
+     Food chemistry (2026) | PMID:42623802 | Zehao Huang
+     We investigated the effects of continuous redox gradients (0-12% O...
+  ✅ Amino acid enhanced phosphorus fertilizers enhance wheat yield an
+     Frontiers in plant science (2026) | PMID:42625924 | Lin Cheng
+     Developing amino acid-based biostimulant-enhanced phosphate fertilizers can help improve fertilizer ...
+  ✅ MiPP2C44 promotes early flowering in Arabidopsis and enhances abi
+     Plant science : an international journal of experimental plant biology (2026) | PMID:42628803 | Kaijiang Li
+     Protein phosphatase 2C (PP2C) family members play important regulatory roles in plant development an...
+  ✅ Pectin O-3 deacetylation by Arabidopsis thaliana pectin acetylest
+     International journal of biological macromolecules (2026) | PMID:42628858 | Juliette Chislard
+     Pectin is a complex plant cell wall polysaccharide whose galacturonic acid residues can be acetylate...
+  ✅ The meeting of stomata, trichomes and xylem: Are leaf and wood an
+     Annals of botany (2026) | PMID:42631366 | Eric Garnier
+     BACKGROUND AND AIMS: Photosynthetic tissues of terrestrial plants require a continuous water supply ...
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: toxicol | Rhizobia-mediated soybean rhizosphere and nod
+  ✅ Isolation, identification, and quantum chemical analysis of struc
+     Food research international (Ottawa, Ont.) (2026) | PMID:42632733 | Luping Zhao
+     Sesame meal, a protein-rich by-product of oil processing, represents a promising source of bioactive...
+  ✅ Genome-wide characterization of BraABCB transporters reveals thei
+     Plant cell reports (2026) | PMID:42633609 | Yanyan Li
+     Thirty-six BraABCB genes were identified in Brassica rapa var. parachinensis; expression and interac...
+  ✅ Rice Orange Leaf Phytoplasma Imp Protein Blocks G-M Interaction b
+     Plant, cell & environment (2026) | PMID:42634277 | Jiaxin Qiu
+     Plants frequently encounter multiple pathogens concurrently, yet the molecular bases of pathogen-pat...
+  ✅ Efficient in-vitro regeneration and transformation for CRISPR/Cas
+     Plant cell reports (2026) | PMID:42635641 | Hardeep Singh
+     The present study addresses optimization of in-vitro regeneration via direct organogenesis and Agrob...
+  ✅ The AtRNC1-AtWTF1 protein complex is essential for chloroplast gr
+     Plant molecular biology (2026) | PMID:42635848 | Yichen Zhang
+     The splicing of group Ⅱ introns in chloroplasts is essential for photosynthesis and plant developmen...
+  ✅ Formation of flaxseed gum-based 3D printed bigels: Impact of oleo
+     International journal of biological macromolecules (2026) | PMID:42636604 | Wenni Chen
+     Bigels possess adjustable texture and rheological property that makes them suitable for 3D printing....
+  ✅ Autophagy contributes to auxin-driven developmental plasticity in
+     Plant physiology and biochemistry : PPB (2026) | PMID:42636631 | Georgina Pettinari
+     Plants, as sessile living systems, have the capacity to respond to both internal and external signal...
+  ✅ YGL46 encoding ferredoxin-like protein interacts with FTR and CAO
+     Plant physiology and biochemistry : PPB (2026) | PMID:42636632 | Wen Cheng
+     Chlorophyll is crucial in photosynthesis, enabling plants to absorb light energy for photosynthesis....
+  ✅ Blue light treatment enhances fruit wound repair and inhibits blu
+     Food research international (Ottawa, Ont.) (2026) | PMID:42637437 | Shahrabani Zarbaliyeva
+     Destemmed grapes are gaining popularity as a convenient fresh-cut fruit. However, they are highly su...
+  ✅ MAX3 deficiency recruits protective Pseudomonas via modulating th
+     Nature communications (2026) | PMID:42637765 | Mimi Tian
+     Strigolactones (SLs) are carotenoid-derived hormones that regulate plant development and abiotic str...
+  ✅ PotatoRTD and TomatoRTD: Comprehensive Reference Transcript Datas
+     Scientific data (2026) | PMID:42637783 | Wenbin Guo
+     Transcriptome annotations provide essential information on transcript locations, sequences and struc...
+  ✅ Plant-specific and conserved mechanisms of the polymerase-associa
+     Nature plants (2026) | PMID:42637853 | Cunliang Li
+     DNA replication stress threatens genome stability, but how plants respond to this challenge remains ...
+  ✅ Genome-wide association study in a US soft winter wheat populatio
+     TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik (2026) | PMID:42637934 | Lamia Aouini
+     GWAS of 337 soft winter wheat genotypes from a breeding program in Indiana, USA identified marker-tr...
+  ✅ The genome-wide analysis of the NAC gene family in Pseudoroegneri
+     Molecular genetics and genomics : MGG (2026) | PMID:42637953 | Xuejie Jia
+     Pseudoroegneria libanotica is a cool-season forage with high drought tolerance. NAC (NAM, ATAF and C...
+  ✅ Assessing the Impact of Weeds on Rice Growth and Productivity: Ex
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638003 | Dasari Sreekanth
+     Weeds represent one of the most critical biotic stress factors in rice-based cropping systems, often...
+  ✅ CRISPR/Cas-Mediated Genome Editing for Developing Herbicide Toler
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638006 | Dasari Sreekanth
+     Weed management in rice cultivation has predominantly relied on acetolactate synthase (ALS) and acet...
+  ✅ An Integrated Approach to Studying the Wheat-Diuraphis noxia Inte
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638007 | Lintle Mohase
+     In the last four decades, Diuraphis noxia, commonly known as Russian wheat aphid (RWA), has been ide...
+  ✅ Analyses of the Cell Wall Modification of Wheat Cultivars Infeste
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638008 | S N N Zondo
+     Wheat infested with Diuraphis noxia (Russian wheat aphid: RWA) respond by inducing a range of defens...
+  ✅ Extraction of Amylases from Insects for Testing Inhibitory Compou
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638009 | Ashwini R Jamdhade
+     α-Amylases (EC 3.2.1.1) are the hydrolytic enzymes that catalyze the breakdown of starch into maltos...
+  ✅ Method for Analyzing CAZyme Activity from Whole-Body and Saliva P
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638010 | Hlalanathi Y Gwanya
+     Advanced proteome extraction and characterization techniques for Diuraphis noxia (Russian Wheat Aphi...
+  ✅ In Vitro Evaluation of Effectiveness of Antifungal Agents Against
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638011 | Krishna Ramakrishnan Acharya
+     Antifungal agents provide both preventive and curative effects by protecting plant surfaces and elim...
+  ✅ Standardized Workflow for Long Noncoding RNA Prediction and Expre
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638015 | S Jyothsna
+     Long noncoding RNAs (lncRNAs), typically over 200 nucleotides in length, with low or no coding capac...
+  ✅ Estimation of DNA Methylation in Wheat Using Reverse Phase Ultra-
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638016 | Uzma Afreen
+     Reverse phase ultra-high-performance liquid chromatography is considered the most reliable and sensi...
+  ✅ Protocol for Collection, Identification, and Artificial Inoculati
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638017 | Aditya Pratap Singh
+     Bipolaris sorokiniana, the causal agent of spot blotch in wheat, is a major constraint in warm and h...
+  ✅ Targeted Gene Expression Modulation Using CRISPR/dCas9 to Investi
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638019 | Ananya Mukherjee
+     CRISPR (clustered regularly interspaced short palindromic repeats) has become integral to modern bio...
+  ✅ Quantification of Mitochondrial Pyrroline-5-Carboxylate in Arabid
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638020 | Aarzoo Qamar
+     Pyrroline-5 carboxylic acid (P5C) is an intermediary metabolite formed during proline synthesis and ...
+  ✅ Isolation of AtSWEET Membrane Proteins from Arabidopsis Leaves fo
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638021 | Anjali Anjali
+     Optimizing the conditions for the overexpression and purification of membrane proteins for functiona...
+  ✅ Procedure for Grafting Cultivated Eggplant Varieties onto Wild Eg
+     Methods in molecular biology (Clifton, N.J.) (2026) | PMID:42638022 | Imtinungsang Jamir
+     Bacterial wilt caused by Ralstonia solanacearum is a major constraint in eggplant production. Grafti...
+  ✅ [Effects of soybean fermented bioactive peptides on intestinal he
+     Sheng wu gong cheng xue bao = Chinese journal of biotechnology (2026) | PMID:42638059 | Jianxiao Ren
+     To address the challenges of antibiotic overuse and high feed costs in bullfrog aquaculture, this st...
+  ✅ [Quantitative trait locus (QTL) mapping and candidate gene analys
+     Sheng wu gong cheng xue bao = Chinese journal of biotechnology (2026) | PMID:42638060 | Qianyun Jin
+     Rice (  水稻(...
+  ✅ Jasmonic acid signaling in plants: regulatory mechanisms in devel
+     Functional plant biology : FPB (2026) | PMID:42638156 | Rui Wang
+     Jasmonic acid (JA), one of the most pivotal plant hormones, has emerged as a central focus in plant ...
+  ✅ The compound eye structure, phototactic traits and opsin gene-med
+     Pest management science (2026) | PMID:42638174 | Chengquan Liu
+     BACKGROUND: Nilaparvata lugens is a major rice pest in Asia, exhibiting significant phototactic beha...
+  ✅ Comparative analysis of supercritical CO
+     Journal of the science of food and agriculture (2026) | PMID:42638262 | Khaled M H Abd El Salam
+     BACKGROUND: Rice bran, a valuable rice milling by-product, is rich in edible oil with γ-oryzanol, to...
+  ✅ Are novel and co-xenic associations common in alien fungal and fu
+     The New phytologist (2026) | PMID:42638283 | Anna Schertler
+     Impacts of alien fungal and fungus-like plant pathogens depend on host interactions, including novel...
+  ✅ A formulation-driven plant-derived nanoemulsion for root-knot nem
+     Pest management science (2026) | PMID:42638290 | Ramanan Ganapathy
+     OBJECTIVE: Nanoemulsion-based delivery systems offer a promising approach to improve the stability a...
+  ✅ A Vision-Based Deep Learning Framework enables High-Accuracy Pred
+     Plant communications (2026) | PMID:42638310 | Shujun Yao
+     Northeast China's Geng rice (Oryza sativa subsp. japonica) dominates the high-value rice markets in ...
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: nutrition | Food protein-induced enterocolitis syndrome i
+  ✅ Optimized planting density and organic fertilizer substitution im
+     Frontiers in plant science (2026) | PMID:42638698 | Liping Liu
+     INTRODUCTION: Increasing planting density and partial substitution of chemical fertilizer with organ...
+  ✅ DArTseq molecular markers associated with water stress tolerance 
+     Frontiers in plant science (2026) | PMID:42638702 | Fernanda Roverssi
+     In Brazil, most orchards are not irrigated and flowering usually occurs in August/September, the sea...
+  ✅ Readiness assessment as a strategy, not an afterthought: leveragi
+     Frontiers in tuberculosis (2026) | PMID:42638741 | Saima Aleem
+     Health facility readiness assessment is a foundational element in designing and implementing integra...
+  ✅ Urban-suburban differences in the response of typical greening tr
+     Frontiers in plant science (2026) | PMID:42638772 | Youmei Lei
+     INTRODUCTION: Against the backdrop of global change, the mechanisms by which the urban heat island e...
+  ✅ Sustainable thymol-based formulations with amoxicillin and 
+     Frontiers in chemistry (2026) | PMID:42638778 | Zehra Edis
+     Antimicrobial resistance (AMR) against antibiotics is caused by the evolution of pathogens to endure...
+  ✅ Environmental exposures in autoimmune inflammatory rheumatic dise
+     Frontiers in immunology (2026) | PMID:42638791 | Chuanwei Zhang
+     INTRODUCTION: Environmental exposures have been hypothesised to influence immune tolerance, but huma...
+  ✅ Comprehensive analysis of physiological characteristic and global
+     Frontiers in plant science (2026) | PMID:42638969 | Yang Chen
+     INTRODUCTION: Wheat (  METHODS: This study integrated physiological measurements with global transcr...
+  ✅ Hydrogen-rich water alleviates cadmium stress in Chinese flowerin
+     Frontiers in plant science (2026) | PMID:42638990 | Mengyao Liu
+     Hydrogen-Rich Water (HRW) is a new environmentally friendly plant growth regulator that can effectiv...
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: dentistry | Associations Between Cannabis Use, Methylphen
+  ✅ Identification of circRNAs in industrial hemp (
+     Frontiers in plant science (2026) | PMID:42639065 | Qiang Wang
+     INTRODUCTION: Circular RNAs (circRNAs) are important regulators of plant development and stress resp...
+  ✅ Arbuscular Mycorrhizal Fungi and 
+     Plant-environment interactions (Hoboken, N.J.) (2026) | PMID:42639187 | Ruvini Ranasingha
+     The transition towards peat-reduced and resource-efficient horticultural systems presents challenges...
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: medicine | Human Development as a Structural Determinant
+  ✅ Cytokinin derivatives as tools to enhance plant stress resilience
+     Frontiers in plant science (2026) | PMID:42639349 | Jan F Humplík
+     Cytokinins (CKs) are key regulators of plant growth and development. Recently, CKs have been increas...
+  ✅ Recent advances in 
+     Frontiers in plant science (2026) | PMID:42639477 | Yan Jiang
+     Plants belonging to the genus ...
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: medicine | Assessment of Quality of life among Transgend
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: medicine | Effect of Comprehensive Training Package of N
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: medicine | Parsing Instagram Posts for Smoking Imagery A
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: medicine | A Cost Input Estimation for City-based Implem
+  ✅ A yield-reducing introgression linked to sd1 in rice.
+     The plant genome (2026) | PMID:42639691 | Flavia Furlan
+     The semi-dwarf (sd1) allele was central to the Green Revolution, but its widespread use in US tropic...
+  ✅ Development of commercial-scale hydrogel-based management systems
+     Journal of economic entomology (2026) | PMID:42639699 | David R Haviland
+     The mealybug, Planococcus ficus (Signoret), is a direct pest of grapevines in California. It causes ...
+  ✅ Can health taxes help sustain Africa's HIV response and research 
+     African journal of AIDS research : AJAR (2026) | PMID:42639717 | Charles Birungi
+     Sub-Saharan Africa's HIV response is under acute financing stress as external assistance becomes les...
+  ✅ Inhibitory Effects of Grape Seed Extract and Epicatechin on Malon
+     Journal of food science (2026) | PMID:42639737 | Guocheng Zhang
+     Malondialdehyde (MDA) is one of the principal and most studied reactive carbonyl species derived fro...
+  ✅ Transcriptome Analysis Reveals Key Drought-Stress-Responsive Gene
+     Physiologia plantarum (2026) | PMID:42639751 | Maryam Noor
+     Drought inhibits grass development and survival. However, molecular-based studies on drought toleran...
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: medicine | Berberine alleviates alcoholic liver diseasea
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: drug | Integrated assessment of pesticides, inorgani
+  ✅ Nitric Oxide and Phytohormone Crosstalk Mediates Soybean Growth a
+     Physiologia plantarum (2026) | PMID:42639842 | Fahad Ullah Khan
+     Aphid infestation, particularly by Aphis glycines, poses a major threat to soybean (Glycine max) pro...
+  ✅ Spatial-temporal variations of externality value of rice producti
+     Ying yong sheng tai xue bao = The journal of applied ecology (2026) | PMID:42639889 | Y U Guang-Hui
+     Evaluating the external value of rice production environment in the Yangtze River Economic Belt can ...
+  ✅ Effects of combined application of soil amendments on soil salini
+     Ying yong sheng tai xue bao = The journal of applied ecology (2026) | PMID:42639890 | Tang Zhi-Yi
+     We examined the effects of different combined soil amendments on the quality of saline-alkali soil a...
+  ✅ The role of geometry in morphogenesis.
+     Development (Cambridge, England) (2026) | PMID:42640018 | Ryan Harrison
+     Across multicellular life, cells need to act in a coordinated manner to generate tissues with specif...
+  ✅ Intrasplenic Thymus Organogenesis from Injectable Tissue Fragment
+     Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026) | PMID:42640144 | Shaocong Wang
+     Thymic hypofunction due to primary defects, aging, infection, or cytoreductive therapies causes prof...
+  ✅ The Mitogen-Activated Protein Kinase GhNTF3 Modulates the Arbuscu
+     Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026) | PMID:42640151 | Shuangjie Jia
+     Plant immunity is essential for survival against pathogen invasion. However, enhanced immune activat...
+  ✅ Generation of a New Immunodeficient Rat Model of Retinal Degenera
+     Translational vision science & technology (2026) | PMID:42640160 | Magdalene J Seiler
+     PURPOSE: The purpose of this study was to develop a fluorescently labeled immunodeficient retinal de...
+  ✅ Sex-biased metabolic programming in Drosophila via paternal white
+     Journal of comparative physiology. B, Biochemical, systemic, and environmental physiology (2026) | PMID:42640313 | Kehinde Ahmad Adeshina
+     High-glycemic foods such as white rice (WR) are major dietary contributors to metabolic disorders, y...
+  ✅ Arbuscular mycorrhizal fungi reshape rhizosphere microbial commun
+     Mycorrhiza (2026) | PMID:42640339 | Junzhe Li
+     Phosphorus availability is severely constrained in soda saline-alkali soils; yet the mechanisms by w...
+  ✅ Sucrose and starch metabolism pathways as candidate regulatory pa
+     Functional & integrative genomics (2026) | PMID:42640342 | Jiayuan Zhang
+     Soybean is a globally important grain and oil crop, and salt stress severely restricts its germinati...
+  ✅ More is not always better: phosphorus context shapes the effectiv
+     Planta (2026) | PMID:42640347 | Alice Ferreira Alves
+     Phosphorus availability determines whether single or consortium PGPB maximize tomato performance, de...
+  ✅ Biodegradable mulching and nitrogen fertilization differentially 
+     Mycorrhiza (2026) | PMID:42640360 | Lin Mao
+     Arbuscular mycorrhizal (AM) fungi are central to plant nutrient acquisition and soil functioning, ye...
+  ✅ Comparative multi-omics uncover conserved and lineage-specific de
+     Plant cell reports (2026) | PMID:42640464 | Xiuzhen Zhai
+     Temperate and tropical maize inbred lines achieve high-level resistance to southern corn rust throug...
+  ✅ An Effector TaCRVP From Tuta Absoluta Oral Secretion Impairs H
+     Advanced science (Weinheim, Baden-Wurttemberg, Germany) (2026) | PMID:42640534 | Jianquan Yan
+     The arms race between plants and herbivorous insects involves sophisticated molecular strategies. Wh...
+  ✅ Increased markers of heavy metal exposure and DNA methylation in 
+     Cephalalgia : an international journal of headache (2026) | PMID:42640585 | Joseph Lloyd
+     Background/HypothesisRates of tobacco usage are higher in individuals with cluster headache. Tobacco...
+     ⛔ 主题过滤拒绝 (非植物): journal-blacklist: psychiatry | Chronic Health Conditions and Substance Use A
+  ✅ First complete genome sequences and transcript expression profili
+     PloS one (2026) | PMID:42640888 | Fereshteh Esmaeilzadeh
+     Tea plant necrotic ring blotch virus (TPNRBV), a highly prevalent and damaging pathogen in tea plant...
+  ✅ Transcriptome analysis of hepatopancreas of Litopenaeus vannamei 
+     PloS one (2026) | PMID:42640895 | Fuyuan Zeng
+     Alexandrium pacificum is a toxic species among red tide-forming organisms. Red tide outbreaks can ca...
+  ✅ Phenotypic evaluation of local rice (Oryza sativa L.) landraces f
+     PloS one (2026) | PMID:42640924 | Samir Regmi
+     Rice seedlings are often subjected to abiotic stresses, particularly flooding and submergence in low...
+  ✅ A unified framework for sapwood and stem water content in plants:
+     Tree physiology (2026) | PMID:42640937 | Michael A Forster
+     Stem water content is a fundamental parameter governing key plant physiological processes, including...
+  ✅ Stage-Specific Insecticidal Activity of Thymol Against Colorado P
+     Chemistry & biodiversity (2026) | PMID:42641005 | Buse Kazan
+     The contact toxicity of thymol, alpha-terpinene, and beta-pinene against Leptinotarsa decemlineata (...
+  ✅ Sub-resolution imaging and Bayesian analysis of exocytosis events
+     The Plant cell (2026) | PMID:42641043 | Jelmer J Lindeboom
+     The microtubule cytoskeleton organizes exocytosis to enable cellular morphogenesis, but how non-cent...
+  ✅ Xanthomonas phaseoli pv. Manihotis effector XopAG impairs cassava
+     Plant physiology (2026) | PMID:42641115 | Liyun Yang
+     Cassava bacterial blight (CBB), caused by Xanthomonas phaseoli pv. manihotis (Xpm), is a major disea...
+  ✅ Dual functional plant gene inhibits viral infection and developme
+     Plant physiology (2026) | PMID:42641121 | Liying Jin
+     Specific targeting of host genes by plant viruses leads to the induction of distinct disease symptom...
+  ✅ Genome-wide characterization of the tomato SlMGR gene family and 
+     Annals of botany (2026) | PMID:42641137 | Zhengyang Lin
+     BACKGROUND AND AIMS: Magnesium is an essential mineral nutrient with numerous physiological roles in...
+  ✅ Ubiquitination-driven proteostasis remodeling underlies oxidative
+     Plant physiology (2026) | PMID:42641140 | Min Li
+     Citrus huanglongbing, caused by Candidatus Liberibacter asiaticus (CLas), is associated with severe ...
+
+📋 待导入: 118 篇
+
+📥 导入完整论文...
+✅ 导入: 118 篇
+
+📄 报告: /mnt/g/hermes_obsidian/hermes/daily_report.md
+3. 完整论文下载...
+📚 下载完整论文全文...
+  [daily-42150749] PMID:42150749... 摘要 (需VPN)
+  [daily-42154984] PMID:42154984... 摘要 (需VPN)
+  [daily-42155776] PMID:42155776... 摘要 (需VPN)
+  [daily-42162827] PMID:42162827... 摘要 (需VPN)
+  [daily-42163072] PMID:42163072... PMC全文 ✓ (3 sections)
+  [daily-42165101] PMID:42165101... 摘要 (需VPN)
+  [daily-42166898] PMID:42166898... 摘要 (需VPN)
+  [daily-42170898] PMID:42170898... 摘要 (需VPN)
+  [daily-42178064] PMID:42178064... 摘要 (需VPN)
+  [daily-42179187] PMID:42179187... 摘要 (需VPN)
+  [daily-42184837] PMID:42184837... 摘要 (需VPN)
+  [daily-42190459] PMID:42190459... 摘要 (需VPN)
+  [daily-42206621] PMID:42206621... 摘要 (需VPN)
+  [daily-42206728] PMID:42206728... 摘要 (需VPN)
+  [daily-42208048] PMID:42208048... 摘要 (需VPN)
+  [daily-42208692] PMID:42208692... 摘要 (需VPN)
+  [daily-42210603] PMID:42210603... 摘要 (需VPN)
+  [daily-42212499] PMID:42212499... PMC全文 ✓ (3 sections)
+  [daily-42212512] PMID:42212512... 摘要 (需VPN)
+  [daily-42212515] PMID:42212515... 摘要 (需VPN)
+  [daily-42212518] PMID:42212518... PMC全文 ✓ (3 sections)
+  [daily-42212637] PMID:42212637... PMC全文 ✓ (3 sections)
+  [daily-42212668] PMID:42212668... PMC全文 ✓ (3 sections)
+  [daily-42213785] PMID:42213785... 摘要 (需VPN)
+  [daily-42213882] PMID:42213882... 摘要 (需VPN)
+  [daily-42213884] PMID:42213884... 摘要 (需VPN)
+  [daily-42214172] PMID:42214172... 摘要 (需VPN)
+  [daily-42214356] PMID:42214356... 摘要 (需VPN)
+  [daily-42214503] PMID:42214503... 摘要 (需VPN)
+  [daily-42215341] PMID:42215341... 摘要 (需VPN)
+  [daily-42216270] PMID:42216270... 摘要 (需VPN)
+  [daily-42216427] PMID:42216427... 摘要 (需VPN)
+  [daily-42216448] PMID:42216448... 摘要 (需VPN)
+  [daily-42216449] PMID:42216449... 摘要 (需VPN)
+  [daily-42216516] PMID:42216516... PMC全文 ✓ (3 sections)
+  [daily-42216553] PMID:42216553... 摘要 (需VPN)
+  [daily-42216574] PMID:42216574... 摘要 (需VPN)
+  [daily-42216644] PMID:42216644... 摘要 (需VPN)
+  [daily-42216690] PMID:42216690... PMC全文 ✓ (3 sections)
+  [daily-42216695] PMID:42216695... 摘要 (需VPN)
+  [daily-42216706] PMID:42216706... 摘要 (需VPN)
+  [daily-42216848] PMID:42216848... 摘要 (需VPN)
+  [daily-42216852] PMID:42216852... 摘要 (需VPN)
+  [daily-42217177] PMID:42217177... 摘要 (需VPN)
+  [daily-42217249] PMID:42217249... 摘要 (需VPN)
+  [daily-42217259] PMID:42217259... 摘要 (需VPN)
+  [daily-42217342] PMID:42217342... 摘要 (需VPN)
+  [daily-42217346] PMID:42217346... 摘要 (需VPN)
+  [daily-42217357] PMID:42217357... 摘要 (需VPN)
+  [daily-42217359] PMID:42217359... 摘要 (需VPN)
+  [daily-42217360] PMID:42217360... 摘要 (需VPN)
+  [daily-42217366] PMID:42217366... 摘要 (需VPN)
+  [daily-42217368] PMID:42217368... 摘要 (需VPN)
+  [daily-42217394] PMID:42217394... 摘要 (需VPN)
+  [daily-42217415] PMID:42217415... 摘要 (需VPN)
+  [daily-42217425] PMID:42217425... 摘要 (需VPN)
+  [daily-42217426] PMID:42217426... 摘要 (需VPN)
+  [daily-42217486] PMID:42217486... 摘要 (需VPN)
+  [daily-42217488] PMID:42217488... 摘要 (需VPN)
+  [daily-42217529] PMID:42217529... 摘要 (需VPN)
+  [daily-42217684] PMID:42217684... 摘要 (需VPN)
+  [daily-42217716] PMID:42217716... 摘要 (需VPN)
+  [daily-42217754] PMID:42217754... 摘要 (需VPN)
+  [daily-42217766] PMID:42217766... 摘要 (需VPN)
+  [daily-42217767] PMID:42217767... 摘要 (需VPN)
+  [daily-42217785] PMID:42217785... 摘要 (需VPN)
+  [daily-42217878] PMID:42217878... 摘要 (需VPN)
+  [daily-42217889] PMID:42217889... 摘要 (需VPN)
+  [daily-42217913] PMID:42217913... 摘要 (需VPN)
+  [daily-42217924] PMID:42217924... 摘要 (需VPN)
+  [daily-42217931] PMID:42217931... 摘要 (需VPN)
+  [daily-42217949] PMID:42217949... 摘要 (需VPN)
+  [daily-42218057] PMID:42218057... 摘要 (需VPN)
+  [daily-42218555] PMID:42218555... 摘要 (需VPN)
+  [daily-42218777] PMID:42218777... 摘要 (需VPN)
+  [daily-42218783] PMID:42218783... 摘要 (需VPN)
+  [daily-42218787] PMID:42218787... 摘要 (需VPN)
+  [daily-42218799] PMID:42218799... 摘要 (需VPN)
+  [daily-42218839] PMID:42218839... 摘要 (需VPN)
+  [daily-42219231] PMID:42219231... 摘要 (需VPN)
+  [daily-42219372] PMID:42219372... 摘要 (需VPN)
+  [daily-42219768] PMID:42219768... 摘要 (需VPN)
+  [daily-42219815] PMID:42219815... PMC全文 ✓ (4 sections)
+  [daily-42219873] PMID:42219873... 摘要 (需VPN)
+  [daily-42220160] PMID:42220160... 摘要 (需VPN)
+  [daily-42222010] PMID:42222010... PMC全文 ✓ (1 sections)
+  [daily-42222724] PMID:42222724... PMC全文 ✓ (1 sections)
+  [daily-42222729] PMID:42222729... PMC全文 ✓ (1 sections)
+  [daily-42222731] PMID:42222731... PMC全文 ✓ (1 sections)
+  [daily-42222732] PMID:42222732... PMC全文 ✓ (1 sections)
+  [daily-42222735] PMID:42222735... PMC全文 ✓ (1 sections)
+  [daily-42222736] PMID:42222736... PMC全文 ✓ (1 sections)
+  [daily-42222737] PMID:42222737... PMC全文 ✓ (1 sections)
+  [daily-42222853] PMID:42222853... PMC全文 ✓ (1 sections)
+  [daily-42222920] PMID:42222920... PMC全文 ✓ (3 sections)
+  [daily-42222942] PMID:42222942... 摘要 (需VPN)
+  [daily-42223285] PMID:42223285... 摘要 (需VPN)
+  [daily-42223484] PMID:42223484... 摘要 (需VPN)
+  [daily-42223489] PMID:42223489... 摘要 (需VPN)
+  [daily-42223520] PMID:42223520... 摘要 (需VPN)
+  [daily-42224041] PMID:42224041... 摘要 (需VPN)
+  [daily-42224145] PMID:42224145... PMC全文 ✓ (3 sections)
+  [daily-42224154] PMID:42224154... PMC全文 ✓ (3 sections)
+  [daily-42224244] PMID:42224244... 摘要 (需VPN)
+  [daily-42224402] PMID:42224402... 摘要 (需VPN)
+  [daily-42224420] PMID:42224420... 摘要 (需VPN)
+  [daily-42224743] PMID:42224743... 摘要 (需VPN)
+  [daily-42224744] PMID:42224744... 摘要 (需VPN)
+  [daily-42224745] PMID:42224745... 摘要 (需VPN)
+  [daily-42224746] PMID:42224746... 摘要 (需VPN)
+  [daily-42224747] PMID:42224747... 摘要 (需VPN)
+  [daily-42224764] PMID:42224764... 摘要 (需VPN)
+  [daily-42224851] PMID:42224851... 摘要 (需VPN)
+  [daily-42225225] PMID:42225225... 摘要 (需VPN)
+  [daily-42225226] PMID:42225226... 摘要 (需VPN)
+  [daily-42225231] PMID:42225231... 摘要 (需VPN)
+  [daily-42225428] PMID:42225428... PMC全文 ✓ (3 sections)
+  [daily-42225429] PMID:42225429... PMC全文 ✓ (3 sections)
+  [daily-42225469] PMID:42225469... 摘要 (需VPN)
+  [daily-42225647] PMID:42225647... 摘要 (需VPN)
+  [daily-42225857] PMID:42225857... 摘要 (需VPN)
+  [daily-42226280] PMID:42226280... 摘要 (需VPN)
+  [daily-42226342] PMID:42226342... PMC全文 ✓ (3 sections)
+  [daily-42226424] PMID:42226424... 摘要 (需VPN)
+  [daily-42226445] PMID:42226445... 摘要 (需VPN)
+  [daily-42226459] PMID:42226459... 摘要 (需VPN)
+  [daily-42226460] PMID:42226460... 摘要 (需VPN)
+  [daily-42226461] PMID:42226461... 摘要 (需VPN)
+  [daily-42226512] PMID:42226512... PMC全文 ✓ (4 sections)
+  [daily-42226622] PMID:42226622... 摘要 (需VPN)
+  [daily-42226631] PMID:42226631... 摘要 (需VPN)
+  [daily-42226635] PMID:42226635... 摘要 (需VPN)
+  [daily-42226657] PMID:42226657... PMC全文 ✓ (3 sections)
+  [daily-42226749] PMID:42226749... PMC全文 ✓ (1 sections)
+  [daily-42226935] PMID:42226935... PMC全文 ✓ (1 sections)
+  [daily-42227021] PMID:42227021... 摘要 (需VPN)
+  [daily-42227494] PMID:42227494... 摘要 (需VPN)
+  [daily-42227556] PMID:42227556... 摘要 (需VPN)
+  [daily-42227675] PMID:42227675... 摘要 (需VPN)
+  [daily-42227917] PMID:42227917... 摘要 (需VPN)
+  [daily-42227992] PMID:42227992... 摘要 (需VPN)
+  [daily-42228245] PMID:42228245... 摘要 (需VPN)
+  [daily-42228350] PMID:42228350... 摘要 (需VPN)
+  [daily-42228379] PMID:42228379... 摘要 (需VPN)
+  [daily-42228555] PMID:42228555... 摘要 (需VPN)
+  [daily-42228874] PMID:42228874... 摘要 (需VPN)
+  [daily-42228916] PMID:42228916... 摘要 (需VPN)
+  [daily-42228920] PMID:42228920... 摘要 (需VPN)
+  [daily-42228922] PMID:42228922... 摘要 (需VPN)
+  [daily-42228925] PMID:42228925... 摘要 (需VPN)
+  [daily-42229215] PMID:42229215... 摘要 (需VPN)
+  [daily-42229545] PMID:42229545... 摘要 (需VPN)
+  [daily-42229657] PMID:42229657... 摘要 (需VPN)
+  [daily-42229874] PMID:42229874... 摘要 (需VPN)
+  [daily-42230867] PMID:42230867... 摘要 (需VPN)
+  [daily-42231189] PMID:42231189... 摘要 (需VPN)
+  [daily-42231543] PMID:42231543... PMC全文 ✓ (3 sections)
+  [daily-42231569] PMID:42231569... 摘要 (需VPN)
+  [daily-42231572] PMID:42231572... 摘要 (需VPN)
+  [daily-42231626] PMID:42231626... 摘要 (需VPN)
+  [daily-42231636] PMID:42231636... 摘要 (需VPN)
+  [daily-42231659] PMID:42231659... PMC全文 ✓ (3 sections)
+  [daily-42231872] PMID:42231872... 摘要 (需VPN)
+  [daily-42231873] PMID:42231873... 摘要 (需VPN)
+  [daily-42231892] PMID:42231892... PMC全文 ✓ (4 sections)
+  [daily-42233205] PMID:42233205... PMC全文 ✓ (2 sections)
+  [daily-42233287] PMID:42233287... PMC全文 ✓ (3 sections)
+  [daily-42233340] PMID:42233340... 摘要 (需VPN)
+  [daily-42233511] PMID:42233511... PMC全文 ✓ (3 sections)
+  [daily-42233733] PMID:42233733... 摘要 (需VPN)
+  [daily-42233842] PMID:42233842... 摘要 (需VPN)
+  [daily-42233844] PMID:42233844... 摘要 (需VPN)
+  [daily-42233852] PMID:42233852... 摘要 (需VPN)
+  [daily-42233898] PMID:42233898... 摘要 (需VPN)
+  [daily-42233932] PMID:42233932... 摘要 (需VPN)
+  [daily-42234367] PMID:42234367... 摘要 (需VPN)
+  [daily-42234379] PMID:42234379... 摘要 (需VPN)
+  [daily-42234560] PMID:42234560... 摘要 (需VPN)
+  [daily-42234585] PMID:42234585... 摘要 (需VPN)
+  [daily-42234611] PMID:42234611... 摘要 (需VPN)
+  [daily-42234685] PMID:42234685... 摘要 (需VPN)
+  [daily-42234693] PMID:42234693... 摘要 (需VPN)
+  [daily-42234817] PMID:42234817... 摘要 (需VPN)
+  [daily-42234822] PMID:42234822... 摘要 (需VPN)
+  [daily-42234960] PMID:42234960... 摘要 (需VPN)
+  [daily-42235060] PMID:42235060... 摘要 (需VPN)
+  [daily-42235081] PMID:42235081... 摘要 (需VPN)
+  [daily-42235105] PMID:42235105... 摘要 (需VPN)
+  [daily-42235243] PMID:42235243... 摘要 (需VPN)
+  [daily-42235245] PMID:42235245... 摘要 (需VPN)
+  [daily-42235246] PMID:42235246... 摘要 (需VPN)
+  [daily-42237067] PMID:42237067... 摘要 (需VPN)
+  [daily-42237546] PMID:42237546... 摘要 (需VPN)
+  [daily-42237669] PMID:42237669... PMC全文 ✓ (3 sections)
+  [daily-42237717] PMID:42237717... 摘要 (需VPN)
+  [daily-42237815] PMID:42237815... 摘要 (需VPN)
+  [daily-42239207] PMID:42239207... PMC全文 ✓ (1 sections)
+  [daily-42239524] PMID:42239524... PMC全文 ✓ (5 sections)
+  [daily-42239990] PMID:42239990... PMC全文 ✓ (3 sections)
+  [daily-42240027] PMID:42240027... 摘要 (需VPN)
+  [daily-42240076] PMID:42240076... 摘要 (需VPN)
+  [daily-42240093] PMID:42240093... 摘要 (需VPN)
+  [daily-42240181] PMID:42240181... 摘要 (需VPN)
+  [daily-42240192] PMID:42240192... 摘要 (需VPN)
+  [daily-42240195] PMID:42240195... 摘要 (需VPN)
+  [daily-42240412] PMID:42240412... 摘要 (需VPN)
+  [daily-42240414] PMID:42240414... 摘要 (需VPN)
+  [daily-42240417] PMID:42240417... 摘要 (需VPN)
+  [daily-42240473] PMID:42240473... PMC全文 ✓ (3 sections)
+  [daily-42240479] PMID:42240479... 摘要 (需VPN)
+  [daily-42240488] PMID:42240488... 摘要 (需VPN)
+  [daily-42240507] PMID:42240507... 摘要 (需VPN)
+  [daily-42240580] PMID:42240580... 摘要 (需VPN)
+  [daily-42240951] PMID:42240951... PMC全文 ✓ (2 sections)
+  [daily-42241114] PMID:42241114... PMC全文 ✓ (1 sections)
+  [daily-42241137] PMID:42241137... 摘要 (需VPN)
+  [daily-42241152] PMID:42241152... 摘要 (需VPN)
+  [daily-42241207] PMID:42241207... 摘要 (需VPN)
+  [daily-42241222] PMID:42241222... 摘要 (需VPN)
+  [daily-42241228] PMID:42241228... 摘要 (需VPN)
+  [daily-42241290] PMID:42241290... PMC全文 ✓ (3 sections)
+  [daily-42241524] PMID:42241524... 摘要 (需VPN)
+  [daily-42241664] PMID:42241664... 摘要 (需VPN)
+  [daily-42241695] PMID:42241695... 摘要 (需VPN)
+  [daily-42241824] PMID:42241824... 摘要 (需VPN)
+  [daily-42242572] PMID:42242572... 摘要 (需VPN)
+  [daily-42242581] PMID:42242581... 摘要 (需VPN)
+  [daily-42243625] PMID:42243625... 摘要 (需VPN)
+  [daily-42243638] PMID:42243638... 摘要 (需VPN)
+  [daily-42244034] PMID:42244034... PMC全文 ✓ (3 sections)
+  [daily-42244041] PMID:42244041... PMC全文 ✓ (3 sections)
+  [daily-42244342] PMID:42244342... 摘要 (需VPN)
+  [daily-42244349] PMID:42244349... 摘要 (需VPN)
+  [daily-42244403] PMID:42244403... 摘要 (需VPN)
+  [daily-42244405] PMID:42244405... 摘要 (需VPN)
+  [daily-42244413] PMID:42244413... 摘要 (需VPN)
+  [daily-42244455] PMID:42244455... 摘要 (需VPN)
+  [daily-42244967] PMID:42244967... PMC全文 ✓ (3 sections)
+  [daily-42244969] PMID:42244969... PMC全文 ✓ (3 sections)
+  [daily-42245024] PMID:42245024... PMC全文 ✓ (1 sections)
+  [daily-42245389] PMID:42245389... PMC全文 ✓ (1 sections)
+  [daily-42245390] PMID:42245390... PMC全文 ✓ (1 sections)
+  [daily-42245397] PMID:42245397... PMC全文 ✓ (1 sections)
+  [daily-42246088] PMID:42246088... 摘要 (需VPN)
+  [daily-42246118] PMID:42246118... 摘要 (需VPN)
+  [daily-42246460] PMID:42246460... PMC全文 ✓ (3 sections)
+  [daily-42246565] PMID:42246565... 摘要 (需VPN)
+  [daily-42246604] PMID:42246604... 摘要 (需VPN)
+  [daily-42246632] PMID:42246632... 摘要 (需VPN)
+  [daily-42246702] PMID:42246702... 摘要 (需VPN)
+  [daily-42246796] PMID:42246796... 摘要 (需VPN)
+  [daily-42247210] PMID:42247210... 摘要 (需VPN)
+  [daily-42247282] PMID:42247282... 摘要 (需VPN)
+  [daily-42247352] PMID:42247352... 摘要 (需VPN)
+  [daily-42247560] PMID:42247560... PMC全文 ✓ (1 sections)
+  [daily-42247588] PMID:42247588... 摘要 (需VPN)
+  [daily-42247628] PMID:42247628... 摘要 (需VPN)
+  [daily-42247714] PMID:42247714... 摘要 (需VPN)
+  [daily-42247873] PMID:42247873... 摘要 (需VPN)
+  [daily-42247890] PMID:42247890... 摘要 (需VPN)
+  [daily-42248021] PMID:42248021... 摘要 (需VPN)
+  [daily-42248043] PMID:42248043... 摘要 (需VPN)
+  [daily-42248044] PMID:42248044... 摘要 (需VPN)
+  [daily-42248085] PMID:42248085... 摘要 (需VPN)
+  [daily-42248097] PMID:42248097... 摘要 (需VPN)
+  [daily-42248105] PMID:42248105... 摘要 (需VPN)
+  [daily-42248110] PMID:42248110... 摘要 (需VPN)
+  [daily-42248228] PMID:42248228... 摘要 (需VPN)
+  [daily-42248247] PMID:42248247... PMC全文 ✓ (1 sections)
+  [daily-42248272] PMID:42248272... 摘要 (需VPN)
+  [daily-42248362] PMID:42248362... 摘要 (需VPN)
+  [daily-42248445] PMID:42248445... 摘要 (需VPN)
+  [daily-42248470] PMID:42248470... 摘要 (需VPN)
+  [daily-42248471] PMID:42248471... 摘要 (需VPN)
+  [daily-42248510] PMID:42248510... 摘要 (需VPN)
+  [daily-42248511] PMID:42248511... 摘要 (需VPN)
+  [daily-42248578] PMID:42248578... 摘要 (需VPN)
+  [daily-42248682] PMID:42248682... 摘要 (需VPN)
+  [daily-42248791] PMID:42248791... 摘要 (需VPN)
+  [daily-42248879] PMID:42248879... 摘要 (需VPN)
+  [daily-42249200] PMID:42249200... 摘要 (需VPN)
+  [daily-42249280] PMID:42249280... 摘要 (需VPN)
+  [daily-42249520] PMID:42249520... 摘要 (需VPN)
+  [daily-42249521] PMID:42249521... 摘要 (需VPN)
+  [daily-42249570] PMID:42249570... 摘要 (需VPN)
+  [daily-42249571] PMID:42249571... 摘要 (需VPN)
+  [daily-42249572] PMID:42249572... 摘要 (需VPN)
+  [daily-42249610] PMID:42249610... 摘要 (需VPN)
+  [daily-42249824] PMID:42249824... 摘要 (需VPN)
+  [daily-42250037] PMID:42250037... 摘要 (需VPN)
+  [daily-42250221] PMID:42250221... 摘要 (需VPN)
+  [daily-42250234] PMID:42250234... 摘要 (需VPN)
+  [daily-42250298] PMID:42250298... 摘要 (需VPN)
+  [daily-42250336] PMID:42250336... 摘要 (需VPN)
+  [daily-42250340] PMID:42250340... 摘要 (需VPN)
+  [daily-42250363] PMID:42250363... 摘要 (需VPN)
+  [daily-42250369] PMID:42250369... 摘要 (需VPN)
+  [daily-42250384] PMID:42250384... 摘要 (需VPN)
+  [daily-42250392] PMID:42250392... 摘要 (需VPN)
+  [daily-42250511] PMID:42250511... 摘要 (需VPN)
+  [daily-42250544] PMID:42250544... 摘要 (需VPN)
+  [daily-42250545] PMID:42250545... 摘要 (需VPN)
+  [daily-42250550] PMID:42250550... 摘要 (需VPN)
+  [daily-42250554] PMID:42250554... 摘要 (需VPN)
+  [daily-42250577] PMID:42250577... 摘要 (需VPN)
+  [daily-42250592] PMID:42250592... 摘要 (需VPN)
+  [daily-42250641] PMID:42250641... 摘要 (需VPN)
+  [daily-42250809] PMID:42250809... 摘要 (需VPN)
+  [daily-42250851] PMID:42250851... 摘要 (需VPN)
+  [daily-42250986] PMID:42250986... 摘要 (需VPN)
+  [daily-42251054] PMID:42251054... 摘要 (需VPN)
+  [daily-42251483] PMID:42251483... 摘要 (需VPN)
+  [daily-42251693] PMID:42251693... 摘要 (需VPN)
+  [daily-42251747] PMID:42251747... 摘要 (需VPN)
+  [daily-42251772] PMID:42251772... 摘要 (需VPN)
+  [daily-42252058] PMID:42252058... 摘要 (需VPN)
+  [daily-42252199] PMID:42252199... 摘要 (需VPN)
+  [daily-42252500] PMID:42252500... PMC全文 ✓ (3 sections)
+  [daily-42252721] PMID:42252721... 摘要 (需VPN)
+  [daily-42255358] PMID:42255358... PMC全文 ✓ (3 sections)
+  [daily-42255637] PMID:42255637... PMC全文 ✓ (3 sections)
+  [daily-42257601] PMID:42257601... 摘要 (需VPN)
+  [daily-42257695] PMID:42257695... 摘要 (需VPN)
+  [daily-42257725] PMID:42257725... 摘要 (需VPN)
+  [daily-42257785] PMID:42257785... 摘要 (需VPN)
+  [daily-42257840] PMID:42257840... 摘要 (需VPN)
+  [daily-42257904] PMID:42257904... 摘要 (需VPN)
+  [daily-42258246] PMID:42258246... 摘要 (需VPN)
+  [daily-42258295] PMID:42258295... 摘要 (需VPN)
+  [daily-42258300] PMID:42258300... 摘要 (需VPN)
+  [daily-42258310] PMID:42258310... 摘要 (需VPN)
+  [daily-42258637] PMID:42258637... 摘要 (需VPN)
+  [daily-42258729] PMID:42258729... PMC全文 ✓ (1 sections)
+  [daily-42258935] PMID:42258935... 摘要 (需VPN)
+  [daily-42258941] PMID:42258941... 摘要 (需VPN)
+  [daily-42259256] PMID:42259256... 摘要 (需VPN)
+  [daily-42259272] PMID:42259272... 摘要 (需VPN)
+  [daily-42259367] PMID:42259367... 摘要 (需VPN)
+  [daily-42259417] PMID:42259417... 摘要 (需VPN)
+  [daily-42259629] PMID:42259629... 摘要 (需VPN)
+  [daily-42259803] PMID:42259803... 摘要 (需VPN)
+  [daily-42260126] PMID:42260126... 摘要 (需VPN)
+  [daily-42260218] PMID:42260218... PMC全文 ✓ (3 sections)
+  [daily-42260277] PMID:42260277... 摘要 (需VPN)
+  [daily-42260361] PMID:42260361... 摘要 (需VPN)
+  [daily-42260541] PMID:42260541... PMC全文 ✓ (4 sections)
+  [daily-42260577] PMID:42260577... 摘要 (需VPN)
+  [daily-42260732] PMID:42260732... 摘要 (需VPN)
+  [daily-42260913] PMID:42260913... 摘要 (需VPN)
+  [daily-42260969] PMID:42260969... 摘要 (需VPN)
+  [daily-42260971] PMID:42260971... 摘要 (需VPN)
+  [daily-42261030] PMID:42261030... 摘要 (需VPN)
+  [daily-42261101] PMID:42261101... 摘要 (需VPN)
+  [daily-42261452] PMID:42261452... PMC全文 ✓ (1 sections)
+  [daily-42261905] PMID:42261905... 摘要 (需VPN)
+  [daily-42261908] PMID:42261908... PMC全文 ✓ (3 sections)
+  [daily-42262154] PMID:42262154... PMC全文 ✓ (1 sections)
+  [daily-42262302] PMID:42262302... PMC全文 ✓ (3 sections)
+  [daily-42262333] PMID:42262333... 摘要 (需VPN)
+  [daily-42262344] PMID:42262344... 摘要 (需VPN)
+  [daily-42262497] PMID:42262497... 摘要 (需VPN)
+  [daily-42262521] PMID:42262521... 摘要 (需VPN)
+  [daily-42262560] PMID:42262560... 摘要 (需VPN)
+  [daily-42262565] PMID:42262565... 摘要 (需VPN)
+  [daily-42262606] PMID:42262606... 摘要 (需VPN)
+  [daily-42262747] PMID:42262747... 摘要 (需VPN)
+  [daily-42262886] PMID:42262886... PMC全文 ✓ (4 sections)
+  [daily-42263061] PMID:42263061... 摘要 (需VPN)
+  [daily-42263062] PMID:42263062... 摘要 (需VPN)
+  [daily-42263064] PMID:42263064... 摘要 (需VPN)
+  [daily-42263065] PMID:42263065... 摘要 (需VPN)
+  [daily-42263067] PMID:42263067... 摘要 (需VPN)
+  [daily-42263214] PMID:42263214... 摘要 (需VPN)
+  [daily-42263240] PMID:42263240... 摘要 (需VPN)
+  [daily-42263246] PMID:42263246... 摘要 (需VPN)
+  [daily-42263681] PMID:42263681... 摘要 (需VPN)
+  [daily-42263947] PMID:42263947... 摘要 (需VPN)
+  [daily-42263966] PMID:42263966... 摘要 (需VPN)
+  [daily-42264441] PMID:42264441... 摘要 (需VPN)
+  [daily-42264442] PMID:42264442... 摘要 (需VPN)
+  [daily-42264457] PMID:42264457... 摘要 (需VPN)
+  [daily-42264712] PMID:42264712... 摘要 (需VPN)
+  [daily-42264722] PMID:42264722... 摘要 (需VPN)
+  [daily-42264724] PMID:42264724... 摘要 (需VPN)
+  [daily-42264729] PMID:42264729... 摘要 (需VPN)
+  [daily-42264732] PMID:42264732... 摘要 (需VPN)
+  [daily-42264734] PMID:42264734... 摘要 (需VPN)
+  [daily-42264736] PMID:42264736... 摘要 (需VPN)
+  [daily-42264738] PMID:42264738... 摘要 (需VPN)
+  [daily-42264742] PMID:42264742... 摘要 (需VPN)
+  [daily-42264743] PMID:42264743... 摘要 (需VPN)
+  [daily-42264746] PMID:42264746... 摘要 (需VPN)
+  [daily-42264758] PMID:42264758... 摘要 (需VPN)
+  [daily-42264761] PMID:42264761... 摘要 (需VPN)
+  [daily-42264762] PMID:42264762... 摘要 (需VPN)
+  [daily-42264763] PMID:42264763... 摘要 (需VPN)
+  [daily-42264767] PMID:42264767... 摘要 (需VPN)
+  [daily-42264770] PMID:42264770... 摘要 (需VPN)
+  [daily-42265223] PMID:42265223... 摘要 (需VPN)
+  [daily-42265230] PMID:42265230... PMC全文 ✓ (3 sections)
+  [daily-42265373] PMID:42265373... PMC全文 ✓ (3 sections)
+  [daily-42265390] PMID:42265390... 摘要 (需VPN)
+  [daily-42265531] PMID:42265531... PMC全文 ✓ (4 sections)
+  [daily-42265533] PMID:42265533... 摘要 (需VPN)
+  [daily-42265545] PMID:42265545... PMC全文 ✓ (3 sections)
+  [daily-42265583] PMID:42265583... 摘要 (需VPN)
+  [daily-42265742] PMID:42265742... PMC全文 ✓ (4 sections)
+  [daily-42265816] PMID:42265816... 摘要 (需VPN)
+  [daily-42265919] PMID:42265919... 摘要 (需VPN)
+  [daily-42265920] PMID:42265920... 摘要 (需VPN)
+  [daily-42266030] PMID:42266030... 摘要 (需VPN)
+  [daily-42267235] PMID:42267235... PMC全文 ✓ (1 sections)
+  [daily-42267417] PMID:42267417... 摘要 (需VPN)
+  [daily-42267595] PMID:42267595... 摘要 (需VPN)
+  [daily-42267648] PMID:42267648... 摘要 (需VPN)
+  [daily-42267747] PMID:42267747... 摘要 (需VPN)
+  [daily-42267749] PMID:42267749... 摘要 (需VPN)
+  [daily-42267852] PMID:42267852... 摘要 (需VPN)
+  [daily-42268013] PMID:42268013... 摘要 (需VPN)
+  [daily-42268262] PMID:42268262... 摘要 (需VPN)
+  [daily-42268605] PMID:42268605... 摘要 (需VPN)
+  [daily-42269025] PMID:42269025... 摘要 (需VPN)
+  [daily-42269264] PMID:42269264... 摘要 (需VPN)
+  [daily-42269265] PMID:42269265... 摘要 (需VPN)
+  [daily-42269354] PMID:42269354... 摘要 (需VPN)
+  [daily-42269598] PMID:42269598... 摘要 (需VPN)
+  [daily-42270525] PMID:42270525... 摘要 (需VPN)
+  [daily-42271476] PMID:42271476... 摘要 (需VPN)
+  [daily-42271607] PMID:42271607... 摘要 (需VPN)
+  [daily-42272098] PMID:42272098... 摘要 (需VPN)
+  [daily-42272102] PMID:42272102... PMC全文 ✓ (3 sections)
+  [daily-42272380] PMID:42272380... 摘要 (需VPN)
+  [daily-42273066] PMID:42273066... PMC全文 ✓ (1 sections)
+  [daily-42273187] PMID:42273187... PMC全文 ✓ (1 sections)
+  [daily-42273972] PMID:42273972... 摘要 (需VPN)
+  [daily-42274092] PMID:42274092... PMC全文 ✓ (3 sections)
+  [daily-42274237] PMID:42274237... 摘要 (需VPN)
+  [daily-42274270] PMID:42274270... 摘要 (需VPN)
+  [daily-42274371] PMID:42274371... 摘要 (需VPN)
+  [daily-42275056] PMID:42275056... 摘要 (需VPN)
+  [daily-42275105] PMID:42275105... 摘要 (需VPN)
+  [daily-42275216] PMID:42275216... 摘要 (需VPN)
+  [daily-42275451] PMID:42275451... 摘要 (需VPN)
+  [daily-42275471] PMID:42275471... PMC全文 ✓ (1 sections)
+  [daily-42275642] PMID:42275642... 摘要 (需VPN)
+  [daily-42275707] PMID:42275707... 摘要 (需VPN)
+  [daily-42275711] PMID:42275711... 摘要 (需VPN)
+  [daily-42275713] PMID:42275713... 摘要 (需VPN)
+  [daily-42275714] PMID:42275714... 摘要 (需VPN)
+  [daily-42275715] PMID:42275715... 摘要 (需VPN)
+  [daily-42275814] PMID:42275814... 摘要 (需VPN)
+  [daily-42275843] PMID:42275843... 摘要 (需VPN)
+  [daily-42275885] PMID:42275885... 摘要 (需VPN)
+  [daily-42276348] PMID:42276348... 摘要 (需VPN)
+  [daily-42276478] PMID:42276478... 摘要 (需VPN)
+  [daily-42276894] PMID:42276894... 摘要 (需VPN)
+  [daily-42276972] PMID:42276972... 摘要 (需VPN)
+  [daily-42277594] PMID:42277594... PMC全文 ✓ (3 sections)
+  [daily-42281145] PMID:42281145... 摘要 (需VPN)
+  [daily-42281269] PMID:42281269... 摘要 (需VPN)
+  [daily-42281280] PMID:42281280... 摘要 (需VPN)
+  [daily-42281433] PMID:42281433... 摘要 (需VPN)
+  [daily-42283091] PMID:42283091... PMC全文 ✓ (4 sections)
+  [daily-42283186] PMID:42283186... 摘要 (需VPN)
+  [daily-42283546] PMID:42283546... 摘要 (需VPN)
+  [daily-42283790] PMID:42283790... 摘要 (需VPN)
+  [daily-42284207] PMID:42284207... 摘要 (需VPN)
+  [daily-42284209] PMID:42284209... 摘要 (需VPN)
+  [daily-42284301] PMID:42284301... PMC全文 ✓ (3 sections)
+  [daily-42284611] PMID:42284611... 摘要 (需VPN)
+  [daily-42284659] PMID:42284659... 摘要 (需VPN)
+  [daily-42284715] PMID:42284715... 摘要 (需VPN)
+  [daily-42284718] PMID:42284718... 摘要 (需VPN)
+  [daily-42284764] PMID:42284764... 摘要 (需VPN)
+  [daily-42284776] PMID:42284776... 摘要 (需VPN)
+  [daily-42284841] PMID:42284841... 摘要 (需VPN)
+  [daily-42284886] PMID:42284886... 摘要 (需VPN)
+  [daily-42284898] PMID:42284898... 摘要 (需VPN)
+  [daily-42284901] PMID:42284901... 摘要 (需VPN)
+  [daily-42284908] PMID:42284908... 摘要 (需VPN)
+  [daily-42284915] PMID:42284915... 摘要 (需VPN)
+  [daily-42284919] PMID:42284919... 摘要 (需VPN)
+  [daily-42285004] PMID:42285004... 摘要 (需VPN)
+  [daily-42285176] PMID:42285176... 摘要 (需VPN)
+  [daily-42285309] PMID:42285309... 摘要 (需VPN)
+  [daily-42285419] PMID:42285419... 摘要 (需VPN)
+  [daily-42285484] PMID:42285484... 摘要 (需VPN)
+  [daily-42285485] PMID:42285485... 摘要 (需VPN)
+  [daily-42285490] PMID:42285490... 摘要 (需VPN)
+  [daily-42285491] PMID:42285491... 摘要 (需VPN)
+  [daily-42285523] PMID:42285523... 摘要 (需VPN)
+  [daily-42285534] PMID:42285534... 摘要 (需VPN)
+  [daily-42285547] PMID:42285547... 摘要 (需VPN)
+  [daily-42285548] PMID:42285548... 摘要 (需VPN)
+  [daily-42285747] PMID:42285747... 摘要 (需VPN)
+  [daily-42285804] PMID:42285804... 摘要 (需VPN)
+  [daily-42285805] PMID:42285805... 摘要 (需VPN)
+  [daily-42286042] PMID:42286042... 摘要 (需VPN)
+  [daily-42286077] PMID:42286077... PMC全文 ✓ (3 sections)
+  [daily-42286102] PMID:42286102... 摘要 (需VPN)
+  [daily-42286314] PMID:42286314... 摘要 (需VPN)
+  [daily-42286425] PMID:42286425... 摘要 (需VPN)
+  [daily-42286439] PMID:42286439... 摘要 (需VPN)
+  [daily-42286447] PMID:42286447... 摘要 (需VPN)
+  [daily-42286772] PMID:42286772... 摘要 (需VPN)
+  [daily-42286925] PMID:42286925... PMC全文 ✓ (4 sections)
+  [daily-42286990] PMID:42286990... 摘要 (需VPN)
+  [daily-42287008] PMID:42287008... 摘要 (需VPN)
+  [daily-42287031] PMID:42287031... 摘要 (需VPN)
+  [daily-42288280] PMID:42288280... 摘要 (需VPN)
+  [daily-42288749] PMID:42288749... 摘要 (需VPN)
+  [daily-42288963] PMID:42288963... 摘要 (需VPN)
+  [daily-42289864] PMID:42289864... 摘要 (需VPN)
+  [daily-42290551] PMID:42290551... PMC全文 ✓ (4 sections)
+  [daily-42294546] PMID:42294546... PMC全文 ✓ (4 sections)
+  [daily-42294833] PMID:42294833... 摘要 (需VPN)
+  [daily-42295019] PMID:42295019... 摘要 (需VPN)
+  [daily-42295624] PMID:42295624... 摘要 (需VPN)
+  [daily-42295640] PMID:42295640... PMC全文 ✓ (4 sections)
+  [daily-42295732] PMID:42295732... 摘要 (需VPN)
+  [daily-42296012] PMID:42296012... 摘要 (需VPN)
+  [daily-42296036] PMID:42296036... PMC全文 ✓ (3 sections)
+  [daily-42296180] PMID:42296180... 摘要 (需VPN)
+  [daily-42296190] PMID:42296190... 摘要 (需VPN)
+  [daily-42296266] PMID:42296266... 摘要 (需VPN)
+  [daily-42296281] PMID:42296281... PMC全文 ✓ (3 sections)
+  [daily-42296366] PMID:42296366... PMC全文 ✓ (1 sections)
+  [daily-42296577] PMID:42296577... 摘要 (需VPN)
+  [daily-42296578] PMID:42296578... 摘要 (需VPN)
+  [daily-42296580] PMID:42296580... 摘要 (需VPN)
+  [daily-42296581] PMID:42296581... 摘要 (需VPN)
+  [daily-42296582] PMID:42296582... 摘要 (需VPN)
+  [daily-42296622] PMID:42296622... 摘要 (需VPN)
+  [daily-42297246] PMID:42297246... 摘要 (需VPN)
+  [daily-42297305] PMID:42297305... 摘要 (需VPN)
+  [daily-42298042] PMID:42298042... 摘要 (需VPN)
+  [daily-42298063] PMID:42298063... 摘要 (需VPN)
+  [daily-42298091] PMID:42298091... 摘要 (需VPN)
+  [daily-42298120] PMID:42298120... 摘要 (需VPN)
+  [daily-42298181] PMID:42298181... 摘要 (需VPN)
+  [daily-42298355] PMID:42298355... 摘要 (需VPN)
+  [daily-42298400] PMID:42298400... PMC全文 ✓ (4 sections)
+  [daily-42298414] PMID:42298414... PMC全文 ✓ (4 sections)
+  [daily-42298646] PMID:42298646... 摘要 (需VPN)
+  [daily-42298740] PMID:42298740... 摘要 (需VPN)
+  [daily-42298750] PMID:42298750... 摘要 (需VPN)
+  [daily-42298768] PMID:42298768... 摘要 (需VPN)
+  [daily-42298818] PMID:42298818... 摘要 (需VPN)
+  [daily-42298819] PMID:42298819... 摘要 (需VPN)
+  [daily-42298820] PMID:42298820... 摘要 (需VPN)
+  [daily-42298880] PMID:42298880... 摘要 (需VPN)
+  [daily-42299005] PMID:42299005... 摘要 (需VPN)
+  [daily-42299006] PMID:42299006... 摘要 (需VPN)
+  [daily-42299114] PMID:42299114... 摘要 (需VPN)
+  [daily-42299335] PMID:42299335... PMC全文 ✓ (1 sections)
+  [daily-42299338] PMID:42299338... PMC全文 ✓ (1 sections)
+  [daily-42299637] PMID:42299637... 摘要 (需VPN)
+  [daily-42299641] PMID:42299641... 摘要 (需VPN)
+  [daily-42299667] PMID:42299667... 摘要 (需VPN)
+  [daily-42299796] PMID:42299796... 摘要 (需VPN)
+  [daily-42299872] PMID:42299872... 摘要 (需VPN)
+  [daily-42299879] PMID:42299879... 摘要 (需VPN)
+  [daily-42299898] PMID:42299898... 摘要 (需VPN)
+  [daily-42299955] PMID:42299955... 摘要 (需VPN)
+  [daily-42300034] PMID:42300034... 摘要 (需VPN)
+  [daily-42300065] PMID:42300065... 摘要 (需VPN)
+  [daily-42300210] PMID:42300210... 摘要 (需VPN)
+  [daily-42300233] PMID:42300233... 摘要 (需VPN)
+  [daily-42300288] PMID:42300288... 摘要 (需VPN)
+  [daily-42300371] PMID:42300371... 摘要 (需VPN)
+  [daily-42300580] PMID:42300580... 摘要 (需VPN)
+  [daily-42300613] PMID:42300613... 摘要 (需VPN)
+  [daily-42300687] PMID:42300687... 摘要 (需VPN)
+  [daily-42301185] PMID:42301185... 摘要 (需VPN)
+  [daily-42301275] PMID:42301275... 摘要 (需VPN)
+  [daily-42301405] PMID:42301405... 摘要 (需VPN)
+  [daily-42301562] PMID:42301562... PMC全文 ✓ (1 sections)
+  [daily-42301706] PMID:42301706... 摘要 (需VPN)
+  [daily-42301720] PMID:42301720... 摘要 (需VPN)
+  [daily-42301741] PMID:42301741... 摘要 (需VPN)
+  [daily-42301776] PMID:42301776... PMC全文 ✓ (1 sections)
+  [daily-42301779] PMID:42301779... PMC全文 ✓ (1 sections)
+  [daily-42301781] PMID:42301781... PMC全文 ✓ (1 sections)
+  [daily-42301959] PMID:42301959... PMC全文 ✓ (3 sections)
+  [daily-42302116] PMID:42302116... 摘要 (需VPN)
+  [daily-42302129] PMID:42302129... 摘要 (需VPN)
+  [daily-42302156] PMID:42302156... 摘要 (需VPN)
+  [daily-42302272] PMID:42302272... 摘要 (需VPN)
+  [daily-42302287] PMID:42302287... 摘要 (需VPN)
+  [daily-42302292] PMID:42302292... 摘要 (需VPN)
+  [daily-42302298] PMID:42302298... 摘要 (需VPN)
+  [daily-42302341] PMID:42302341... 摘要 (需VPN)
+  [daily-42302427] PMID:42302427... 摘要 (需VPN)
+  [daily-42302556] PMID:42302556... 摘要 (需VPN)
+  [daily-42302558] PMID:42302558... 摘要 (需VPN)
+  [daily-42303015] PMID:42303015... 摘要 (需VPN)
+  [daily-42303038] PMID:42303038... 摘要 (需VPN)
+  [daily-42303412] PMID:42303412... 摘要 (需VPN)
+  [daily-42303429] PMID:42303429... 摘要 (需VPN)
+  [daily-42304223] PMID:42304223... 摘要 (需VPN)
+  [daily-42304232] PMID:42304232... PMC全文 ✓ (4 sections)
+  [daily-42304499] PMID:42304499... 摘要 (需VPN)
+  [daily-42304640] PMID:42304640... 摘要 (需VPN)
+  [daily-42304661] PMID:42304661... PMC全文 ✓ (4 sections)
+  [daily-42304722] PMID:42304722... 摘要 (需VPN)
+  [daily-42304738] PMID:42304738... 摘要 (需VPN)
+  [daily-42304774] PMID:42304774... PMC全文 ✓ (3 sections)
+  [daily-42304783] PMID:42304783... PMC全文 ✓ (3 sections)
+  [daily-42304885] PMID:42304885... 摘要 (需VPN)
+  [daily-42304942] PMID:42304942... 摘要 (需VPN)
+  [daily-42304947] PMID:42304947... 摘要 (需VPN)
+  [daily-42304951] PMID:42304951... 摘要 (需VPN)
+  [daily-42304953] PMID:42304953... PMC全文 ✓ (4 sections)
+  [daily-42304962] PMID:42304962... 摘要 (需VPN)
+  [daily-42304984] PMID:42304984... 摘要 (需VPN)
+  [daily-42305061] PMID:42305061... 摘要 (需VPN)
+  [daily-42306979] PMID:42306979... 摘要 (需VPN)
+  [daily-42307005] PMID:42307005... 摘要 (需VPN)
+  [daily-42307063] PMID:42307063... 摘要 (需VPN)
+  [daily-42307431] PMID:42307431... 摘要 (需VPN)
+  [daily-42307534] PMID:42307534... PMC全文 ✓ (1 sections)
+  [daily-42307564] PMID:42307564... 摘要 (需VPN)
+  [daily-42307650] PMID:42307650... 摘要 (需VPN)
+  [daily-42307654] PMID:42307654... 摘要 (需VPN)
+  [daily-42308011] PMID:42308011... 摘要 (需VPN)
+  [daily-42308031] PMID:42308031... PMC全文 ✓ (1 sections)
+  [daily-42308037] PMID:42308037... PMC全文 ✓ (1 sections)
+  [daily-42308052] PMID:42308052... 摘要 (需VPN)
+  [daily-42308204] PMID:42308204... PMC全文 ✓ (3 sections)
+  [daily-42308408] PMID:42308408... 摘要 (需VPN)
+  [daily-42308412] PMID:42308412... 摘要 (需VPN)
+  [daily-42308472] PMID:42308472... 摘要 (需VPN)
+  [daily-42308516] PMID:42308516... 摘要 (需VPN)
+  [daily-42308535] PMID:42308535... 摘要 (需VPN)
+  [daily-42308847] PMID:42308847... 摘要 (需VPN)
+  [daily-42309014] PMID:42309014... 摘要 (需VPN)
+  [daily-42310058] PMID:42310058... 摘要 (需VPN)
+  [daily-42310342] PMID:42310342... 摘要 (需VPN)
+  [daily-42310347] PMID:42310347... 摘要 (需VPN)
+  [daily-42310371] PMID:42310371... 摘要 (需VPN)
+  [daily-42310490] PMID:42310490... PMC全文 ✓ (4 sections)
+  [daily-42310516] PMID:42310516... 摘要 (需VPN)
+  [daily-42310523] PMID:42310523... 摘要 (需VPN)
+  [daily-42310524] PMID:42310524... 摘要 (需VPN)
+  [daily-42310532] PMID:42310532... 摘要 (需VPN)
+  [daily-42310543] PMID:42310543... 摘要 (需VPN)
+  [daily-42310564] PMID:42310564... 摘要 (需VPN)
+  [daily-42310760] PMID:42310760... 摘要 (需VPN)
+  [daily-42310891] PMID:42310891... PMC全文 ✓ (4 sections)
+  [daily-42310892] PMID:42310892... PMC全文 ✓ (3 sections)
+  [daily-42310955] PMID:42310955... 摘要 (需VPN)
+  [daily-42310956] PMID:42310956... 摘要 (需VPN)
+  [daily-42310959] PMID:42310959... 摘要 (需VPN)
+  [daily-42311098] PMID:42311098... PMC全文 ✓ (3 sections)
+  [daily-42312331] PMID:42312331... 摘要 (需VPN)
+  [daily-42312352] PMID:42312352... 摘要 (需VPN)
+  [daily-42312444] PMID:42312444... 摘要 (需VPN)
+  [daily-42312480] PMID:42312480... 摘要 (需VPN)
+  [daily-42312495] PMID:42312495... PMC全文 ✓ (3 sections)
+  [daily-42312603] PMID:42312603... 摘要 (需VPN)
+  [daily-42312607] PMID:42312607... 摘要 (需VPN)
+  [daily-42312618] PMID:42312618... 摘要 (需VPN)
+  [daily-42312621] PMID:42312621... 摘要 (需VPN)
+  [daily-42312634] PMID:42312634... 摘要 (需VPN)
+  [daily-42313455] PMID:42313455... 摘要 (需VPN)
+  [daily-42313456] PMID:42313456... 摘要 (需VPN)
+  [daily-42313467] PMID:42313467... 摘要 (需VPN)
+  [daily-42313577] PMID:42313577... 摘要 (需VPN)
+  [daily-42313605] PMID:42313605... 摘要 (需VPN)
+  [daily-42313618] PMID:42313618... 摘要 (需VPN)
+  [daily-42313709] PMID:42313709... 摘要 (需VPN)
+  [daily-42313783] PMID:42313783... 摘要 (需VPN)
+  [daily-42313791] PMID:42313791... 摘要 (需VPN)
+  [daily-42313834] PMID:42313834... 摘要 (需VPN)
+  [daily-42313924] PMID:42313924... 摘要 (需VPN)
+  [daily-42313938] PMID:42313938... PMC全文 ✓ (1 sections)
+  [daily-42314206] PMID:42314206... 摘要 (需VPN)
+  [daily-42314231] PMID:42314231... 摘要 (需VPN)
+  [daily-42314377] PMID:42314377... 摘要 (需VPN)
+  [daily-42314386] PMID:42314386... 摘要 (需VPN)
+  [daily-42314387] PMID:42314387... 摘要 (需VPN)
+  [daily-42314416] PMID:42314416... 摘要 (需VPN)
+  [daily-42314483] PMID:42314483... 摘要 (需VPN)
+  [daily-42314567] PMID:42314567... 摘要 (需VPN)
+  [daily-42314838] PMID:42314838... 摘要 (需VPN)
+  [daily-42314839] PMID:42314839... 摘要 (需VPN)
+  [daily-42314870] PMID:42314870... 摘要 (需VPN)
+  [daily-42315982] PMID:42315982... PMC全文 ✓ (3 sections)
+  [daily-42316001] PMID:42316001... PMC全文 ✓ (3 sections)
+  [daily-42316005] PMID:42316005... 摘要 (需VPN)
+  [daily-42316025] PMID:42316025... 摘要 (需VPN)
+  [daily-42316033] PMID:42316033... 摘要 (需VPN)
+  [daily-42316042] PMID:42316042... 摘要 (需VPN)
+  [daily-42316285] PMID:42316285... PMC全文 ✓ (4 sections)
+  [daily-42316541] PMID:42316541... 摘要 (需VPN)
+  [daily-42316553] PMID:42316553... 摘要 (需VPN)
+  [daily-42316588] PMID:42316588... 摘要 (需VPN)
+  [daily-42316789] PMID:42316789... 摘要 (需VPN)
+  [daily-42316897] PMID:42316897... PMC全文 ✓ (3 sections)
+  [daily-42316918] PMID:42316918... 摘要 (需VPN)
+  [daily-42316991] PMID:42316991... 摘要 (需VPN)
+  [daily-42317008] PMID:42317008... 摘要 (需VPN)
+  [daily-42318761] PMID:42318761... 摘要 (需VPN)
+  [daily-42318762] PMID:42318762... 摘要 (需VPN)
+  [daily-42318775] PMID:42318775... PMC全文 ✓ (3 sections)
+  [daily-42318778] PMID:42318778... PMC全文 ✓ (3 sections)
+  [daily-42318822] PMID:42318822... 摘要 (需VPN)
+  [daily-42318868] PMID:42318868... 摘要 (需VPN)
+  [daily-42318969] PMID:42318969... 摘要 (需VPN)
+  [daily-42319030] PMID:42319030... 摘要 (需VPN)
+  [daily-42319037] PMID:42319037... 摘要 (需VPN)
+  [daily-42319060] PMID:42319060... 摘要 (需VPN)
+  [daily-42319062] PMID:42319062... 摘要 (需VPN)
+  [daily-42319069] PMID:42319069... 摘要 (需VPN)
+  [daily-42319072] PMID:42319072... 摘要 (需VPN)
+  [daily-42319078] PMID:42319078... 摘要 (需VPN)
+  [daily-42319095] PMID:42319095... 摘要 (需VPN)
+  [daily-42319112] PMID:42319112... 摘要 (需VPN)
+  [daily-42319152] PMID:42319152... 摘要 (需VPN)
+  [daily-42319356] PMID:42319356... 摘要 (需VPN)
+  [daily-42319750] PMID:42319750... 摘要 (需VPN)
+  [daily-42319826] PMID:42319826... PMC全文 ✓ (4 sections)
+  [daily-42319846] PMID:42319846... 摘要 (需VPN)
+  [daily-42319897] PMID:42319897... 摘要 (需VPN)
+  [daily-42320007] PMID:42320007... 摘要 (需VPN)
+  [daily-42320078] PMID:42320078... 摘要 (需VPN)
+  [daily-42320093] PMID:42320093... 摘要 (需VPN)
+  [daily-42320099] PMID:42320099... 摘要 (需VPN)
+  [daily-42320111] PMID:42320111... 摘要 (需VPN)
+  [daily-42320112] PMID:42320112... 摘要 (需VPN)
+  [daily-42320148] PMID:42320148... 摘要 (需VPN)
+  [daily-42321358] PMID:42321358... 摘要 (需VPN)
+  [daily-42322134] PMID:42322134... PMC全文 ✓ (3 sections)
+  [daily-42322173] PMID:42322173... 摘要 (需VPN)
+  [daily-42322188] PMID:42322188... 摘要 (需VPN)
+  [daily-42323549] PMID:42323549... 摘要 (需VPN)
+  [daily-42323550] PMID:42323550... 摘要 (需VPN)
+  [daily-42323598] PMID:42323598... 摘要 (需VPN)
+  [daily-42323707] PMID:42323707... 摘要 (需VPN)
+  [daily-42323736] PMID:42323736... 摘要 (需VPN)
+  [daily-42323830] PMID:42323830... 摘要 (需VPN)
+  [daily-42323919] PMID:42323919... 摘要 (需VPN)
+  [daily-42323974] PMID:42323974... 摘要 (需VPN)
+  [daily-42324017] PMID:42324017... 摘要 (需VPN)
+  [daily-42324674] PMID:42324674... PMC全文 ✓ (3 sections)
+  [daily-42324773] PMID:42324773... 摘要 (需VPN)
+  [daily-42324803] PMID:42324803... PMC全文 ✓ (4 sections)
+  [daily-42324804] PMID:42324804... PMC全文 ✓ (4 sections)
+  [daily-42324805] PMID:42324805... PMC全文 ✓ (3 sections)
+  [daily-42324857] PMID:42324857... 摘要 (需VPN)
+  [daily-42324987] PMID:42324987... 摘要 (需VPN)
+  [daily-42325191] PMID:42325191... 摘要 (需VPN)
+  [daily-42327247] PMID:42327247... PMC全文 ✓ (1 sections)
+  [daily-42328141] PMID:42328141... PMC全文 ✓ (1 sections)
+  [daily-42328142] PMID:42328142... PMC全文 ✓ (1 sections)
+  [daily-42328707] PMID:42328707... 摘要 (需VPN)
+  [daily-42328850] PMID:42328850... 摘要 (需VPN)
+  [daily-42329243] PMID:42329243... 摘要 (需VPN)
+  [daily-42329550] PMID:42329550... 摘要 (需VPN)
+  [daily-42329742] PMID:42329742... 摘要 (需VPN)
+  [daily-42329747] PMID:42329747... 摘要 (需VPN)
+  [daily-42329760] PMID:42329760... 摘要 (需VPN)

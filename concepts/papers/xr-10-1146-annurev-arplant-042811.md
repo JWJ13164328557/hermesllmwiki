@@ -1,53 +1,25 @@
-title: "Plant Stem Cell Niches"
+---
+title: Plant Stem Cell Niches
 type: paper
-journal: "Annual Review of Plant Biology"
+themes: [developmental-biology]
+journal: Annual Review of Plant Biology
 year: 2012
-authors:
-  - Aichinger E
-  - Kornet N
-  - Friedrich T
-  - Laux T
-pmid: "22224452"
-doi: "10.1146/annurev-arplant-042811-105555"
+authors: [Aichinger E, Kornet N, Friedrich T, Laux T]
+pmid: '22224452'
+doi: 10.1146/annurev-arplant-042811-105507
 paper_type: review
-species:
-  - Arabidopsis thaliana
-  - Oryza sativa
-  - Zea mays
-  - Pinus spp.
-technology:
-  - genetic perturbation (mutant analysis)
-  - clonal analysis
-  - live imaging (confocal)
-  - in situ hybridization
-  - reporter gene analysis
-  - laser ablation
-  - peptide application
-cell_number: null
-dataset_accession: null
+species: [Arabidopsis thaliana, Oryza sativa, Zea mays, Pinus spp.]
+technology: [genetic perturbation (mutant analysis), clonal analysis, live imaging (confocal), in situ hybridization, reporter gene analysis, laser ablation, peptide application]
+cell_number: 'null'
+dataset_accession: 'null'
 status: reviewed
 confidence: high
-updated: "2026-05-29"
-tags:
-  - stem-cell-niche
-  - meristem
-  - SAM
-  - RAM
-  - vascular-cambium
-  - WUSCHEL
-  - WOX5
-  - WOX4
-  - CLV3
-  - CLE-peptides
-  - mobile-signals
-  - transcriptional-modules
-  - stem-cell-maintenance
-  - cell-fate
-  - review
-  - arabidopsis
-resource:
-  - ""
-tags: [#developmental-biology, papers]
+updated: '2026-05-29'
+tags: [stem-cell-niche, meristem, SAM, RAM, vascular-cambium, WUSCHEL, WOX5, WOX4, CLV3, CLE-peptides, mobile-signals, transcriptional-modules, stem-cell-maintenance, cell-fate, review, arabidopsis, developmental-biology, papers]
+resource: ['']
+theme_status: mapped
+theme_basis: tag
+
 ---
 
 # Plant Stem Cell Niches

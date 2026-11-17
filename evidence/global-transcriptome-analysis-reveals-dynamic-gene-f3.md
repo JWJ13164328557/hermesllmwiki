@@ -1,34 +1,43 @@
 ---
-title: "Collectively, these data suggested that the metabolic process of resveratrol maintains highly activa"
-created: 2026-09-16
+title: "Collectively, these data suggested that the metabolic process of resveratrol maintains …"
+created: 2026-11-01
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[global-transcriptome-analysis-reveals-dynamic-gene]]"
 doi: "10.1016/j.indcrop.2021.113919"
-species: [Vitis vinifera, Gossypium hirsutum, Quercus spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Vitis vinifera", "Gossypium hirsutum", "Quercus spp."]
+primary_species: "Beta vulgaris"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Collectively, these data suggested that the metabolic process of resveratrol maintains highly activa
+# Collectively, these data suggested that the metabolic process of resveratrol maintains …
 
 ## Claim
 Collectively, these data suggested that the metabolic process of resveratrol maintains highly activated in the P.
 
-## Biological Context
-Global transcriptome 分析 揭示 动态 gene 表达 分析 and 提供了 深入 into 生物合成 of resveratrol and anthraquinones in a medicinal plant Polygonum cuspidatum
+## Source
+- 文献: [[global-transcriptome-analysis-reveals-dynamic-gene]]
+- DOI: 10.1016/j.indcrop.2021.113919
+- 主要物种: Beta vulgaris
 
-## Supporting Evidence
-*Source: [[global-transcriptome-analysis-reveals-dynamic-gene]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

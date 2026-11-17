@@ -1,12 +1,18 @@
+---
 title: A gene regulatory network for root epidermis cell differentiation in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags: [developmental-biology, papers]
 doi: 10.1371/journal.pgen.1002446
 confidence: medium
-aliases: ["A gene regulatory network for root epidermis cell differentiation in Arabidopsis"]
+aliases: [A gene regulatory network for root epidermis cell differentiation in Arabidopsis]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # A gene regulatory network for root epidermis cell differentiation in Arabidopsis
 
@@ -29,11 +35,11 @@ The root epidermis of Arabidopsis provides an exceptional model for studying the
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 
@@ -47,7 +53,7 @@ The Arabidopsis root epidermis provides a potentially useful model for studying 
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq)
 **来源**: DOI:10.1371/journal.pgen.1002446
 **来源类型**: PDF全文 (10.1371_journal.pgen.1002446.pdf)

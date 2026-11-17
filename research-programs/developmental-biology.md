@@ -1,92 +1,150 @@
 ---
-title: "发育生物学 — Synthesis"
+title: "Research Program: Plant Developmental Biology"
+title_zh: "植物发育生物学：研究方案"
 type: research-program
 topic: "developmental-biology"
-total_evidence: 718
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 3308
+total_papers: 658
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 发育生物学 — Synthesis
+# 🔬 Plant Developmental Biology：从证据到可执行研究方案
 
-## Program Overview
-基于 718 条证据生成的 5 个实验目标。
+> 本方案由 3308 条证据 / 658 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test STM function
+- **主题**：Plant Developmental Biology
+- **证据规模**：3308 条证据 / 658 篇独立论文
+- **候选靶点**：PIN1, PbCBL2, BPC1, McNADPME1, ATML1, HvPMTR1
+- **主体系**：Medicago spp.
+- **主题归属依据**：证据标签
 
-**Hypothesis**: STM regulates FUS3 and PAC to control [process]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate STM overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: STM-GFP fusion
+### 目标 1：验证 PIN1 对 （the pinoid (pid) kinase） 的因果方向
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test LZY3 function
-
-**Hypothesis**: LZY3 regulates TMO7 and TCX2 to control [process]
-
-**Experimental Design**:
-1. Generate LZY3 overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: LZY3-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test TDIF function
-
-**Hypothesis**: TDIF regulates AGL6 and SVP to control [process]
-
-**Experimental Design**:
-1. Generate TDIF overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: TDIF-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test RAM function
-
-**Hypothesis**: RAM is required to ARR1 and WOX5 to control [process]
-
-**Experimental Design**:
-1. Generate RAM overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: RAM-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test SIM function
-
-**Hypothesis**: SIM regulates downstream targets to control [process]
-
-**Experimental Design**:
-1. Generate SIM overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: SIM-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：PIN1 正向促进 （the pinoid (pid) kinase）。判别性检验：在同一物种中敲低或敲除 PIN1，（the pinoid (pid) kinase） 应下降；恢复表达应使其回升。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：PIN1 的敲除/敲低系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样部位、生育期与光温条件下定量 （the pinoid (pid) kinase）
+  3. 剂量梯度（杂合/纯合/过表达强弱）检验方向是否随剂量改变
+  4. 互补实验排除脱靶与背景效应
+- **判定标准**：敲低/敲除株系中 （the pinoid (pid) kinase） 显著下降且可被回补，过表达株系上升
+- **止损条件**：遗传操纵后 （the pinoid (pid) kinase） 无方向一致的变化，或变化与 PIN1 的表达量无关
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：建立 PbCBL2 的剂量—效应曲线
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：PbCBL2 已有 83 项独立研究；但其中仅 1 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 PbCBL2 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 3：建立 BPC1 的剂量—效应曲线
+
+- **对应假说**：BPC1 已有 46 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 BPC1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 4：建立 McNADPME1 的剂量—效应曲线
+
+- **对应假说**：McNADPME1 已有 37 项独立研究；但其中仅 1 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 McNADPME1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 5：建立 ATML1 的剂量—效应曲线
+
+- **对应假说**：ATML1 已有 21 项独立研究；但其中仅 1 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 ATML1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 6：检验 HvPMTR1 的必要性
+
+- **对应假说**：HvPMTR1 在 4 项研究中被提名参与本主题，但本簇证据中未见在统一背景下检验其必要性的操纵实验（受检索覆盖限制，需回溯原文复核）。判别性检验：获得功能缺失等位基因，做表型、回补与组织特异性验证。
+- **体系**：Medicago spp. 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：HvPMTR1 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：功能缺失等位基因产生稳定、可回补的表型缺陷
+- **止损条件**：功能缺失无表型，或表型不可回补（提示脱靶或冗余基因补偿）
+- **预计周期**：12–18 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 分期与谱系 | 0–6 月 | 统一发育分期、标记基因与谱系追踪 | 关键阶段的细胞身份可重复注释 |
+| P1 遗传扰动 | 6–16 月 | 候选调控因子突变/诱导系统；定量器官表型 | 表型与表达域一致，至少 2 个独立株系 |
+| P2 活体与空间 | 16–24 月 | 活体成像、原位杂交或空间组学验证 | 关键细胞行为获得时空证据 |
+| P3 株型外推 | 24–36 月 | 田间株型/产量性状评估 | 发育效应可转化且无重大负效应 |
+
+> 本路线以发育分期与谱系为核心；跨物种验证放在最后，不能替代本物种的因果实验。
+
+## 四、风险与对策
+
+- 未从证据层识别到显著风险；仍应按标准做法设置生物学重复与盲法测量。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/developmental-biology.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

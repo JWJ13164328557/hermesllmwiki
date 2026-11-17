@@ -3,11 +3,18 @@ title: "多组学分析揭示了色素马铃薯块茎的化学和遗传基础"
 journal: "unknown"
 year: ""
 type: paper
-tags: [development, gene-regulation, metabolism]
+themes: []
+tags: [metabolism]
 species: [Gossypium]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

@@ -1,12 +1,21 @@
-title: "水稻节点转运蛋白的单细胞多组学功能表征"
-journal: "unknown"
-year: ""
+---
+title: 水稻节点转运蛋白的单细胞多组学功能表征
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [epigenetics-gene-regulation, single-cell-spatial-omics]
+tags: [papers]
 species: [Arabidopsis thaliana, Oryza sativa]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -33,7 +42,7 @@ Genome Biology (2026), sc多组学解析水稻节点转运蛋白基因的细胞�
 - [[alfalfa-cadmium-sc-multiomics]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-0Ai2UdSwKz-GbYdfit26vw]]
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[arabidopsis-root-sc-atlas-review]]
 - [[b3-9WavxKoXaOzbDzGmHSgUqw]]

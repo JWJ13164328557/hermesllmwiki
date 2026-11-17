@@ -1,12 +1,18 @@
+---
 title: Defining the Path from Stem Cells to Differentiated Tissue.
 created: 2026-05-28
 type: concept
-tags: [#epigenetics-gr, papers]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags: [epigenetics-gene-regulation, papers]
 doi: 10.1016/bs.ctdb.2015.12.002
 confidence: medium
-aliases: ["Defining the Path from Stem Cells to Differentiated Tissue."]
+aliases: [cr-10-1016-bs-ctdb-2015-12-002, Defining the Path from Stem Cells to Differentiated Tissue.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Defining the Path from Stem Cells to Differentiated Tissue.
 
@@ -38,7 +44,7 @@ The molecular events that control the progression from stem cells to differentia
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: subcellular localization
 **来源**: DOI:10.1016/bs.ctdb.2015.12.002
 **来源类型**: PDF全文 (10.1016_bs.ctdb.2015.12.002.pdf)

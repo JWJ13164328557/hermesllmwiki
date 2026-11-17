@@ -1,34 +1,43 @@
 ---
-title: "Based on these observations and prior knowl- edge that MYC2 is a central regulator in JA signaling, "
-created: 2026-08-25
+title: "Based on these observations and prior knowledge that MYC2 is a central regulator in JA …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[jasmonate-activates-secondary-cell-wall-biosynthesis]]"
 doi: "10.1111/tpj.16541"
-species: [Arabidopsis thaliana, Malus domestica, Glycine max]
+species: ["Arabidopsis thaliana", "Glycine max", "Malus domestica"]
+primary_species: "Arabidopsis thaliana"
 evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["MYC2"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Based on these observations and prior knowl- edge that MYC2 is a central regulator in JA signaling, 
+# Based on these observations and prior knowledge that MYC2 is a central regulator in JA …
 
 ## Claim
-Based on these observations and prior knowl- edge that MYC2 is a central regulator in JA signaling, we conclude that MYC2 is necessary for JA-activated SCW formation.
+Based on these observations and prior knowledge that MYC2 is a central regulator in JA signaling, we conclude that MYC2 is necessary for JA-activated SCW formation.
 
-## Biological Context
-Jasmonate 激活 secondary cell wall 生物合成 通过 MYC2‐MYB46 模块
+## Source
+- 文献: [[jasmonate-activates-secondary-cell-wall-biosynthesis]]
+- DOI: 10.1111/tpj.16541
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[jasmonate-activates-secondary-cell-wall-biosynthesis]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: MYC2
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

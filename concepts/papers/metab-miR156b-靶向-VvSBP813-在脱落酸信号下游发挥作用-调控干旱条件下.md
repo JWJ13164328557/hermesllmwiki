@@ -1,12 +1,21 @@
-title: "miR156b 靶向 VvSBP813 在脱落酸信号下游发挥作用，调控干旱条件下葡萄果实中花青素的生物合成"
-journal: "unknown"
-year: ""
+---
+title: miR156b 靶向 VvSBP813 在脱落酸信号下游发挥作用，调控干旱条件下葡萄果实中花青素的生物合成
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [hormone-signaling, metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

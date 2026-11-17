@@ -1,17 +1,25 @@
-title: "Integrated single-cell transcriptomics and spatial metabolomics unveil cellular differentiation and ginsenosides biosynthesis in Panax root tips."
-pmid: "41180020"
-doi: "10.1093/hr/uhaf202"
-pmcid: "PMC3530905"
-journal: "Horticulture research"
-year: "2025"
-authors: "Lifang Yang, Zhi Yang, Mei Liu, Shuying Wang, Huanzhen Wu"
+---
+title: Integrated single-cell transcriptomics and spatial metabolomics unveil cellular differentiation and ginsenosides biosynthesis in Panax root tips.
+pmid: '41180020'
+doi: 10.1093/hr/uhaf202
+pmcid: PMC3530905
+journal: Horticulture research
+year: '2025'
+authors: Lifang Yang, Zhi Yang, Mei Liu, Shuying Wang, Huanzhen Wu
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
 species: [unknown]
 methods: [scRNA-seq, RNA-seq, metabolomics, reporter assay, EMSA, RNA-FISH, cell communication]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
+
+# Integrated single-cell transcriptomics and spatial metabolomics unveil cellular differentiation and ginsenosides biosynthesis in Panax root tips.
 
 ## 1. Scientific Context
 
@@ -121,10 +129,10 @@ Root tips, which represent the initial stage of taproot development, serve as an
 - 物种: unknown
 - 关键基因: MYB2, IAA29, MYB78
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: 
 
@@ -161,3 +169,21 @@ Root tips, which represent the initial stage of taproot development, serve as an
 4. 探索unknown中的应用潜力
 
 **下一步关键实验**: 基于核心发现的遗传学验证 (需人工设计具体实验)
+
+## 深度提炼
+
+**主要物种**: Panax spp.
+**物种**: Panax spp., Catharanthus roseus, Taxus spp., Arabidopsis thaliana, Gossypium hirsutum
+**方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, qRT-PCR validation, EMSA, dual-luciferase reporter
+**来源**: DOI:10.1093/hr/uhaf202
+**来源类型**: PDF全文 (10-1093_hr_uhaf202.pdf)
+
+### 核心发现
+1. Notably, we identified a novel TF, IAA29, which directly regulates endodermis suberization.
+2. Collectively, these findings will facilitate the selection of elite Panax cultivars through molecular breeding and provide novel insights into the transcriptional regulatory mechanisms governing secondary metabolism in medicinal plants.
+3. Transient dual-luciferase reporter gene assay and electrophoretic mobility shift assays confirmed that IAA29 directly regulates the expression of COMT genes related to suberin and lignin biosynthesis (Fig.
+4. IAA29, involved in auxin signal transduction, targets PIF4.
+5. Numerous studies have shown that secondary metabolites produced by plants play a crucial role in responding to adverse environments and are integral to their defense systems for survival [64–66].
+6. Through in situ hybridization, RTqPCR, tissue staining, transient dual-LUC reporter assays, and EMSA, we identified key TFs, including IAA29 (which directly regulates endodermis suberization), MYB2 and MYB78 (that positively regulate ginsenoside biosynthesis), and WRKY75 and AT1G16060 (which mediate the expression of the FAD gene family).
+7. Therefore, elucidating CCC networks, endodermal differentiation trajectory, and associated transcriptional regulatory mechanisms is essential for understanding development plasticity in Panax root tips.
+8. Notably, spatial heterogeneity in ginsenoside distribution and its relationship with cell type-specific expression of biosynthetic genes have been unresolved.

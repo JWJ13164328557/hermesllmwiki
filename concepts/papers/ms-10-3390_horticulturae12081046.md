@@ -1,14 +1,21 @@
 ---
-title: Integrated Metabolomic and Transcriptomic Analyses of Tuberous Root Enlargement 
+
+title: Integrated Metabolomic and Transcriptomic Analyses of Tuberous Root Enlargement in Mirabilis himalaica (Edgew.) Heimerl
 created: 2026-08-24
 type: concept
-tags: [papers]
+themes: [metabolism-natural-products]
+tags:
+- papers
 doi: 10.3390/horticulturae12081046
 confidence: moderate
 source: openalex
+title_fixed_from: Integrated Metabolomic and Transcriptomic Analyses of Tuberous Root Enlargement
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# Integrated Metabolomic and Transcriptomic Analyses of Tuberous Root Enlargement in Mirabilis himalaica (Edgew.) Heimerl
+# Integrated Metabolomic and Transcriptomic Analyses of Tuberous Root Enlargement in Mirabilis himalaica (Edgew.) Heimerl in Mirabilis himalaica (Edgew.) Heimerl
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

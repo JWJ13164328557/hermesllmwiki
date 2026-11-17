@@ -1,14 +1,24 @@
-title: Alternative 3'-untranslated regions regulate high-salt tolerance of Spartina alt
+---
+title: Alternative 3′-untranslated regions regulate high-salt tolerance of Spartina alterniflora
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [epigenetics-gene-regulation, stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1093/plphys/kiad030
 confidence: medium
-aliases: ["Alternative 3'-untranslated regions regulate high-salt tolerance of Spartina alt"]
+aliases:
+- Alternative 3'-untranslated regions regulate high-salt tolerance of Spartina alt
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Alternative 3'-untranslated regions regulate high-salt tolerance of Spartina alt
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Alternative 3'-untranslated regions regulate high-salt tolerance of Spartina alt
+---
+
+# Alternative 3′-untranslated regions regulate high-salt tolerance of Spartina alterniflora
 
 
 
@@ -29,11 +39,11 @@ High-salt stress continues to challenge the growth and survival of many plants. 
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

@@ -1,34 +1,43 @@
 ---
-title: "These results suggest that NaCl can induce H3K4 trime- thylation in abiotic stress-responsive genes "
-created: 2026-09-16
+title: "NaCl can induce H3K4 trimethylation in abiotic stress-responsive genes and HDA6 is …"
+created: 2026-11-01
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation", "stress-immunity"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["epigenetics-gene-regulation", "papers"]
 source: "[[ref-erq154]]"
 doi: "10.1093/jxb/erq154"
-species: [Arabidopsis thaliana, Oryza sativa, Nicotiana tabacum]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: [NaCl]
+species: ["Arabidopsis thaliana", "Oryza sativa", "Nicotiana tabacum"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["HDA6", "NaCl"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# These results suggest that NaCl can induce H3K4 trime- thylation in abiotic stress-responsive genes 
+# NaCl can induce H3K4 trimethylation in abiotic stress-responsive genes and HDA6 is …
 
 ## Claim
-These results suggest that NaCl can induce H3K4 trime- thylation in abiotic stress-responsive genes and HDA6 is partially required for this induction.
+NaCl can induce H3K4 trimethylation in abiotic stress-responsive genes and HDA6 is partially required for this induction.
 
-## Biological Context
-Involvement of Arabidopsis histone deacetylase HDA6 in ABA and salt stress respo
+## Source
+- 文献: [[ref-erq154]]
+- DOI: 10.1093/jxb/erq154
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-erq154]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: HDA6, NaCl
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,14 +1,24 @@
-title: Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) s
+---
+title: 'Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) sites and modulating transcription termination'
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags:
+- developmental-biology
+- papers
 doi: 10.1111/tpj.13611
 confidence: medium
-aliases: ["Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) s"]
+aliases:
+- 'Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) s'
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: 'Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) s'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) s
+---
+
+# Role of cleavage and polyadenylation specificity factor 100: anchoring poly(A) sites and modulating transcription termination
 
 
 
@@ -29,16 +39,16 @@ CPSF100 is a core component of the cleavage and polyadenylation specificity fact
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum, Ficus carica
+**物种**: Arabidopsis thaliana, Oryza sativa, Solanum lycopersicum
 **方法**: ChIP-seq/qPCR, qRT-PCR validation, Y2H, RNAi/VIGS, knockout/mutant, Western blot, subcellular localization
 **来源**: DOI:10.1111/tpj.13611
 **来源类型**: PDF全文 (The Plant Journal - 2017 - Lin - Role of cleavage and polyad)

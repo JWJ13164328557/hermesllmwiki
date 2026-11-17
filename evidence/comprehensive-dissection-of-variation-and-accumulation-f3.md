@@ -1,34 +1,43 @@
 ---
-title: "Taken together, these results help us to understand and clarify the variation and profile of major F"
-created: 2026-08-25
+title: "In conclusion, the tea plants with the homozygous genotype TT could accumulate …"
+created: 2026-11-03
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["metabolism-natural-products", "papers"]
 source: "[[comprehensive-dissection-of-variation-and-accumulation]]"
 doi: "10.1093/hr/uhad263"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Camellia sinensis]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Camellia sinensis", "Arabidopsis thaliana", "Nicotiana tabacum"]
+primary_species: "Camellia sinensis"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Taken together, these results help us to understand and clarify the variation and profile of major F
+# In conclusion, the tea plants with the homozygous genotype TT could accumulate …
 
 ## Claim
-Taken together, these results help us to understand and clarify the variation and profile of major FAAs in tea germplasms and promote efficient utilization in tea genetic improvement and breeding.
+In conclusion, the tea plants with the homozygous genotype TT could accumulate substantially more Thea than those with the genotypes CC and TC.
 
-## Biological Context
-全面 解析 of variation and 积累 of free amino acids in tea accessions
+## Source
+- 文献: [[comprehensive-dissection-of-variation-and-accumulation]]
+- DOI: 10.1093/hr/uhad263
+- 主要物种: Camellia sinensis
 
-## Supporting Evidence
-*Source: [[comprehensive-dissection-of-variation-and-accumulation]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

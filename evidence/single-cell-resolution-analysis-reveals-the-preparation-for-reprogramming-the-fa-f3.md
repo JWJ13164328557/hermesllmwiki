@@ -1,34 +1,43 @@
 ---
-title: "Previously, we found that Agrobacterium mainly expresses the transgene in the primary vascular tissu"
-created: 2026-08-25
+title: "Previously, we found that Agrobacterium mainly expresses the transgene in the primary …"
+created: 2026-11-03
 type: evidence
-tags: [scrnaseq, plant-single-cell]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["scrnaseq", "plant-single-cell"]
 source: "[[single-cell-resolution-analysis-reveals-the-preparation-for-reprogramming-the-fa]]"
 doi: "10.1186/s13059-023-03032-6"
-species: [Arabidopsis thaliana, Oryza sativa, Zea mays]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Gossypium hirsutum", "Arabidopsis thaliana", "Daucus carota"]
+primary_species: "Gossypium hirsutum"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Previously, we found that Agrobacterium mainly expresses the transgene in the primary vascular tissu
+# Previously, we found that Agrobacterium mainly expresses the transgene in the primary …
 
 ## Claim
-Previously, we found that Agrobacterium mainly expresses the transgene in the primary vascular tissue of cot- ton hypocotyls, which then produces stably transformed callus and regenerated plants via somatic embryogenesis [10].
+Previously, we found that Agrobacterium mainly expresses the transgene in the primary vascular tissue of cotton hypocotyls, which then produces stably transformed callus and regenerated plants via somatic embryogenesis [10].
 
-## Biological Context
-Single-cell resolution analysis reveals the preparation for reprogramming the fate of stem cell niche in cotton lateral meristem
+## Source
+- 文献: [[single-cell-resolution-analysis-reveals-the-preparation-for-reprogramming-the-fa]]
+- DOI: 10.1186/s13059-023-03032-6
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[single-cell-resolution-analysis-reveals-the-preparation-for-reprogramming-the-fa]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

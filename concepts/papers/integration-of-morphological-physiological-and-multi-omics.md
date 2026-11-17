@@ -1,15 +1,23 @@
-title: "Integration of morphological, physiological and multi-omics analysis reveals the optimal planting density improving leaf"
+---
+title: Integration of morphological, physiological and multi-omics analysis reveals the optimal planting density improving leaf yield and active compound accumulation in Ginkgo biloba
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1016/j.indcrop.2021.114055
-pmid: 
-confidence: medium
-aliases: ["形态学、生理学和多组学分析的整合揭示了提高银杏叶产量和活性化合物积累的最佳种植密度"]
+pmid: ''
+aliases:
+- 形态学、生理学和多组学分析的整合揭示了提高银杏叶产量和活性化合物积累的最佳种植密度
+status: pollution
+title_fixed_from: Integration of morphological, physiological and multi-omics analysis reveals the
+theme_status: mapped
+theme_basis: tag
 
-# 整合 of morphological, physiological and 多组学 分析 揭示 the optimal planting density improving leaf yield and active compound 积累 in Ginkgo biloba
+---
 
-> Integration of morphological, physiological and multi-omics analysis reveals the optimal planting density improving leaf yield and active compound accumulation in Ginkgo biloba
+# Integration of morphological, physiological and multi-omics analysis reveals the optimal planting density improving leaf yield and active compound accumulation in Ginkgo biloba
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2021)

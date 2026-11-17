@@ -1,12 +1,21 @@
+---
 title: Targeted mutagenesis of the Arabidopsis GROWTH-REGULATING FACTOR (GRF) gene fami
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
-doi: 
+themes: []
+tags: [papers]
+doi: ""
 confidence: medium
-aliases: ["拟南芥生长调节因子（ GRF ）基因家族的靶向诱变"]
+aliases: [拟南芥生长调节因子（ GRF ）基因家族的靶向诱变]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # Targeted mutagenesis of the Arabidopsis GROWTH-REGULATING FACTOR (GRF) gene fami
 

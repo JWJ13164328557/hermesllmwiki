@@ -1,0 +1,335 @@
+# -*- coding: utf-8 -*-
+"""purity_gate.py — 领域纯度闸门（研究对象判定，非关键词黑名单）
+
+背景（2026-11-02 事故）
+---------------------
+theme_filter.is_relevant_plant_paper 默认放行，对"植物提取物治人/动物病"完全无效：
+当日 156 篇里 11 篇研究对象是人/动物（肉鸡生产性能、4D 打印组织再生、人参 EVs 治
+结肠炎、Corosolic acid 治 MASLD ...），全部通过导入层。根因不是"没调用过滤"，
+而是判据是黑名单式的、默认 True——只要标题里出现 plant / citrus / ginseng 这类
+**药物来源**名词，就会被当成植物研究。
+
+本模块改为判定"谁是研究对象"：
+  - plant    : 研究对象是植物（生长/发育/产量/逆境/植物细胞与组织培养）
+  - nonplant : 研究对象是人或动物（患者/小鼠/肉鸡/创面/结肠炎/AD/微胶质…），
+               植物只是药物或饲料来源 → 导入层拒收
+  - suspect  : 信号冲突（有医学对象词但植物本体证据勉强），导入但进日报待审
+
+与 theme_filter 的关系：theme_filter 是"期刊黑名单"层，保留；本模块是"研究对象"
+层，两者 AND 生效。任一判 nonplant 即拒收。
+
+用法
+----
+    from purity_gate import classify, classify_page
+    verdict, reasons = classify(title, abstract, journal, doi)
+    verdict, reasons = classify_page('/path/to/daily-123.md')
+"""
+import re
+
+# ── 人或动物"作为研究对象"的标记 ───────────────────────────────
+HUMAN_ANIMAL_SUBJECT = [
+    # 临床/人群
+    'patients', 'patient-derived', 'clinical trial', 'randomized', 'randomized controlled', 'randomised controlled',
+    'randomized clinical', 'randomly assigned', 'volunteers',
+    'participants', 'cohort', 'case-control', 'serum level', 'plasma level',
+    'biopsy', 'in patients', 'human subjects', 'healthy adults',
+    # 常用实验动物/畜禽
+    'mice', 'mouse', 'murine', 'rats', 'rat model', 'rabbit', 'canine', 'porcine',
+    'piglets', 'broiler', 'layer chicks', 'layer breeder', 'laying hen',
+    'chicken', 'quail', 'calves',
+    'cattle', 'dairy cow', 'zebrafish', 'drosophila', 'c. elegans',
+    'xenograft', 'nude mice', 'sd rats', 'wistar',
+    # 人源细胞/类器官
+    'hela', 'hek293', 'hepg2', 'caco-2', 'raw264', 'thp-1', 'a549', 'mcf-7',
+    'adsc', 'adipose-derived stem cell', 'mesenchymal stem cell', 'ipsc',
+    'organoid', 'cell line', 'fibroblast', 'keratinocyte', 'macrophage',
+    'microglia', 'astrocyte', 'neuron', 'endothelial',
+    # 疾病/临床结局（研究对象是病人或动物模型）
+    'ulcerative colitis', 'colitis', 'wound healing', 'wound regeneration',
+    'wound dressing', 'skin wound', 'hypertrophic scar', 'scar formation',
+    'skin flap', 'photoresin', '4d printing', 'gut microbiome',
+    'flap survival', 'ischemia-reperfusion', 'tissue regeneration',
+    'alzheimer', 'parkinson', 'masld', 'nafld', 'steatotic liver',
+    'hepatic metabolic', 'hepatoprotective', 'nephroprotect', 'neuroprotect',
+    'carcinoma', 'tumor', 'tumour', 'cancer cell', 'metastasis', 'glioma',
+    'obesity', 'diabet', 'atheroscler', 'myocardial', 'infarct',
+    'gut microbiota', 'intestinal barrier', 'production performance',
+    'anti-inflammatory in mice', 'in vivo imaging', 'pharmacokinetic',
+    # ── 2026-11-02 第三轮：临床人群 / 肿瘤临床终点 ──────────────
+    'postmenopausal', 'menopausal', 'women', 'pregnant women',
+    'healthy adults', 'human subjects', 'human patients', 'in humans',
+    'clinical study', 'clinical trial', 'clinical efficacy',
+    'colorectal cancer', 'breast cancer', 'lung cancer', 'gastric cancer',
+    'liver cancer', 'prostate cancer', 'pancreatic cancer', 'cervical cancer',
+    'hepatocellular', 'leukemia', 'lymphoma', 'melanoma', 'adenocarcinoma',
+    'sarcoma', 'oncogene', 'tumor microenvironment', 'prognosis',
+    'prognostic', 'survival analysis', 'tcga', 'gene signature',
+    'immune infiltration', 'sars-cov', 'covid', 'influenza', 'vaccine',
+]
+
+# ── "植物本身是研究对象"的标记 ────────────────────────────────
+PLANT_ORGANISM = [
+    # 生长发育/农艺
+    'germination', 'seedling', 'root elongation', 'shoot', 'tillering', 'panicle',
+    'spikelet', 'flowering time', 'bolting', 'fruit ripening', 'yield', 'grain',
+    'biomass', 'plant height', 'leaf area', 'stomatal', 'photosynthesis',
+    'chlorophyll', 'senescence', 'lateral root', 'root hair', 'nodulation',
+    'mycorrhiza', 'rhizosphere', 'field trial', 'agronomic', 'cultivar',
+    'germplasm', 'breeding', 'heterosis', 'vernalization', 'photoperiod',
+    # 植物特有的分子/细胞过程
+    'chloroplast', 'thylakoid', 'cell wall', 'xylem', 'phloem', 'cambium',
+    'meristem', 'trichome', 'pollen tube', 'anther', 'ovule', 'embryo sac',
+    'vascular bundle', 'cuticle', 'suberin', 'lignin biosynthesis',
+    'plant immunity', 'effector-triggered', 'salicylic acid signaling',
+    'jasmonate signaling', 'auxin transport', 'cytokinin', 'brassinosteroid',
+    'abscisic acid', 'gibberellin', 'strigolactone', 'photoreceptor',
+    'crispr/cas9 in', 'agrobacterium', 'transgenic plant', 'transformation',
+    'protoplast', 'plant cell suspension', 'hairy root', 'adventitious root',
+    'plant cell culture', 'cell suspension culture', 'callus', 'in vitro culture',
+    # 植物病理：线虫/病原互作是植物研究，不是"动物模型研究"
+    'plant-parasitic', 'plant parasitic', 'root-knot', 'cyst nematode',
+    'gall nematode', 'plant pathology', 'phytopathogen',
+    # 模式/作物物种（作为研究材料的强证据）
+    'arabidopsis', 'oryza sativa', 'rice plant', 'wheat plant', 'maize plant',
+    'zea mays', 'soybean plant', 'glycine max plant', 'tomato plant',
+    'solanum lycopersicum', 'tobacco plant', 'nicotiana', 'medicago',
+    'populus', 'physcomitrium', 'marchantia', 'chlorella', 'duckweed',
+]
+
+# ── 期刊层面的强信号（医学/材料/兽医），仅用于提高置信度，不单独定罪 ──
+JOURNAL_MEDICAL = [
+    'poultry science', 'bioactive materials', 'phytomedicine',
+    'journal of ginseng research', 'biomedicine & pharmacotherapy',
+    'international immunopharmacology', 'journal of ethnopharmacology',
+    'frontiers in pharmacology', 'molecular nutrition', 'clinical nutrition',
+    'wound repair', 'tissue engineering', 'biomaterials', 'acta biomaterialia',
+    'journal of controlled release', 'drug delivery', 'biomedical',
+    'bioprocess and biosystems',
+]
+
+# ── 核心植物学期刊（2026-11-02 第四轮）──────────────────────────
+# 全库复核：170 篇 nonplant 里有 2 篇是植物学期刊的真植物论文
+# （BMC Plant Biology 的 Platycladus 叶片提取溶剂研究、Plant Biotechnology 的
+#  水稻种子储藏蛋白/口服疫苗 = 分子农业）。正文必然出现 neuroprotect/tumor/vaccine，
+# 被正文规则误拒。植物学期刊是"研究对象"的先验，但可被标题级强对象词推翻
+# （"Ginseng saponins ameliorate colitis in mice" 仍判 nonplant）。
+PLANT_JOURNALS = [
+    'plant cell', 'plant physiology', 'plant journal', 'plant science',
+    'new phytologist', 'journal of experimental botany', 'planta',
+    'plant molecular biology', 'plant cell reports', 'plant cell and environment',
+    'plant biotechnology', 'plant biology', 'plant growth regulation',
+    'physiologia plantarum', 'tree physiology', 'american journal of botany',
+    'current opinion in plant biology', 'frontiers in plant science',
+    'bmc plant biology', 'horticulture research', 'plant signaling',
+    'plant reproduction', 'plant methods', 'plant genome', 'plant direct',
+    'molecular plant', 'trends in plant science', 'plant communications',
+    'journal of integrative plant biology', 'crop journal',
+    'theoretical and applied genetics', 'plant phenomics', 'aob plants',
+]
+
+# ── 标题级植物锚点（2026-11-02 第二轮回扫新增）──────────────────
+# 全库回扫发现 rule 1 的误报："A single-cell view of tissue regeneration in
+# plants."（Current Opinion in Plant Biology 植物再生综述）标题里只有
+# 'tissue regeneration' 这个动物组织再生标记，没有植物本体词，被判 nonplant。
+# 形如 "in plants / plant tissue" 的短语是**研究对象**的明示，不是药物来源，
+# 因此作为标题级锚点：命中且期刊不在医学黑名单时直接判 plant。
+PLANT_TITLE_ANCHOR = [
+    'in plants', 'in planta', 'plant tissue', 'plant regeneration',
+    'plant development', 'plant growth', 'plant species', 'plant stem cell',
+    'plant immunity', 'plant biology', 'plant organs', 'higher plants',
+    'vascular plants', 'plant-pathogen', 'plant pathogen',
+    'plant wound', 'wound healing in plants', 'plant regeneration',
+]
+
+# ── 通用方法学论文（2026-11-02 第三轮）───────────────────────────
+# 问题：RNA velocity、Nature Methods 的空间流推断等**通用方法**论文，正文里必然
+# 出现 mouse/organoid（作者在动物数据上演示方法），被判 nonplant 直接丢弃。
+# 但这类文献是方法学锚点，对植物单细胞/空间主题有价值，不应按"对象是人/动物"拒收。
+# 处理：判 suspect（导入但进日报待审），而非 nonplant；也不谎标成 plant。
+METHOD_JOURNALS = [
+    'nature methods', 'nature biotechnology', 'nature computational science',
+    'nature protocols', 'nature machine intelligence',
+    # 注意：'genome biology' 不能列入——它是植物基因组学主流期刊
+    # （WUSCHEL 染色质、T2T 基因组、单细胞空间组学都发在这里），
+    # 列入会把 40+ 篇真植物论文误降为 suspect。
+    'genome medicine', 'bioinformatics', 'briefings in bioinformatics',
+    'cell systems', 'molecular systems biology', 'npj computational materials',
+]
+
+METHOD_TITLE = [
+    # 只保留在植物论文标题里几乎不会出现的高精度方法名。
+    # （'framework'/'pipeline'/'algorithm' 在植物文献里极常见——
+    #   "transcriptional framework"、"analysis pipeline"——会误降 201 篇真植物论文。）
+    'rna velocity', 'single-cell rna velocity',
+    'trajectory inference', 'batch effect correction', 'cell fate probabilities',
+]
+
+# 注意：'nematode' 曾被当作"动物"标记
+# 植物寄生线虫、大豆胞囊线虫）被误判 nonplant——2026-11-02 全库扫描暴露该误报。
+# 植物病理语境下 nematode 是**研究对象的一部分**，故不列入动物标记；
+# 仅 'c. elegans'（模式动物）保留。
+
+# 短 token 必须整词匹配：'hela' 作为子串会命中 "chelate"（螯合），
+# 这类误报会让正常的植物营养/土壤化学论文被判成医学研究。
+TOKEN_TERMS = {
+    'hela', 'a549', 'thp-1', 'caco-2', 'raw264', 'mcf-7', 'hek293', 'hepg2',
+    'ipsc', 'adsc', 'mice', 'mouse', 'rats', 'rat model', 'canine', 'porcine',
+    'broiler', 'chicken', 'quail', 'calves', 'cattle', 'organoid',
+    'cell line',
+    'zebrafish', 'drosophila', 'xenograft', 'patients', 'volunteers',
+    'mosquito', 'aedes', 'anopheles',
+    'participants', 'cohort', 'biopsy', 'glioma', 'tumor', 'tumour',
+    'cancer cell', 'callus', 'neuron', 'rats', 'mouse',
+    'women', 'pregnant women', 'postmenopausal', 'menopausal',
+    'covid', 'influenza', 'vaccine', 'prognosis', 'prognostic',
+    'tcga', 'oncogene', 'leukemia', 'lymphoma', 'melanoma',
+    'sarcoma', 'adenocarcinoma', 'hepatocellular',
+}
+
+_TOKEN_RE = {}
+
+# ── 仅标题有效的"弱"对象标记（2026-11-02 第三轮）──────────────────
+# 全库 dry-run 暴露：tcga / leukemia / survival analysis / covid / oncogene
+# 这些词在**正文**里噪声极高（参考文献、方法学通用表述、植物同源基因命名），
+# 会把"Arabidopsis 里报道一个 LEUKEMIA 同源基因""菊花存活分析"误判成医学研究。
+# 因此这些词只在标题命中时计入对象证据；标题是作者对研究对象的自述，最可靠。
+WEAK_BODY_TERMS = {
+    'tcga', 'survival analysis', 'covid', 'influenza', 'vaccine',
+    'oncogene', 'prognosis', 'prognostic', 'gene signature',
+    'immune infiltration', 'leukemia', 'lymphoma', 'melanoma', 'sarcoma',
+    'adenocarcinoma', 'hepatocellular', 'women', 'menopausal',
+    'postmenopausal', 'pregnant women', 'healthy adults', 'human subjects',
+    'human patients', 'in humans', 'clinical study', 'clinical trial',
+    'clinical efficacy', 'obesity', 'diabet',
+    # ── 2026-11-02 第四轮：以下词在**植物论文正文**里高频出现，只在标题有效 ──
+    # broccoli 采后 "wound healing genes" / "cell lineages" / 比较基因组学引
+    # Drosophila / "survival motor neuron" 基因家族 / 植物组织培养的 tissue regeneration。
+    'wound healing', 'human', 'humans',
+}
+
+
+def _hit_one(t, term):
+    if term in TOKEN_TERMS:
+        rx = _TOKEN_RE.get(term)
+        if rx is None:
+            rx = re.compile(r'(?<![a-z0-9])' + re.escape(term) + r'(?:s|es)?(?![a-z0-9])')
+            _TOKEN_RE[term] = rx
+        return bool(rx.search(t))
+    return term in t
+
+
+def _hits(text, terms):
+    t = (text or '').lower()
+    return [k for k in terms if _hit_one(t, k)]
+
+
+def classify(title, abstract=None, journal=None, doi=None):
+    """返回 (verdict, reasons)。verdict ∈ {'plant','suspect','nonplant'}"""
+    title = title or ''
+    abstract = abstract or ''
+    journal = (journal or '').lower()
+    body = (title + ' ' + abstract).lower()
+    t = title.lower()
+    reasons = []
+
+    subj = _hits(body, HUMAN_ANIMAL_SUBJECT)
+    # 农学田间试验的标准设计名 "randomized complete block (design)" 不是人群研究。
+    if any(k in body for k in ('randomized complete block', 'randomised complete block',
+                               'completely randomized', 'completely randomised',
+                               'randomized block', 'randomised block')):
+        subj = [x for x in subj if x != 'randomized']
+    tsubj = _hits(t, HUMAN_ANIMAL_SUBJECT)
+    org = _hits(body, PLANT_ORGANISM)
+    torg = _hits(t, PLANT_ORGANISM)
+    jmed = _hits(journal, JOURNAL_MEDICAL)
+
+    if doi and re.search(r'^10\.(1097|1056|1001|1002|1007/s1|1038/s41|3327)', doi.lower()):
+        reasons.append('doi-prefix:medical')
+
+    # 0) 标题明示研究对象是植物（"tissue regeneration in plants" 之类），
+    #    且期刊不在医学黑名单 → plant。必须排在 rule 1 之前，否则会被
+    #    'tissue regeneration' 这类动物标记抢判成 nonplant。
+    anchor = _hits(t, PLANT_TITLE_ANCHOR)
+    if anchor and not jmed:
+        return 'plant', ['plant-anchor=%s' % anchor[0]]
+
+    # 0.5) 通用方法学论文：标题无医学对象、且(期刊属方法学期刊 或 标题是方法名)
+    #      → suspect（导入但待审），避免把 RNA velocity 这类奠基方法当"动物研究"丢弃。
+    if not tsubj and not torg:
+        meth = _hits(t, METHOD_TITLE)
+        if meth or (journal and _hits(journal, METHOD_JOURNALS)):
+            reasons.append('general-method=%s' % (','.join((meth or [journal])[:2])))
+            return 'suspect', reasons
+
+    # 0.6) 植物学期刊先验：标题级（去掉正文弱词后）没有强对象词 → plant。
+    #      例：BMC Plant Biology 的叶片提取溶剂研究正文有 tumor/neuroprotect，
+    #      但标题研究对象是植物 → plant。标题写 "in mice/colitis/patients" 时
+    #      仍走 rule 1 判 nonplant。
+    strong_title_subj = [x for x in tsubj if x not in WEAK_BODY_TERMS]
+    if journal and _hits(journal, PLANT_JOURNALS) and not strong_title_subj:
+        return 'plant', ['plant-journal=%s' % journal[:40]]
+
+    # 1) 标题就以人或动物为对象，且标题无植物本体 → nonplant
+    if tsubj and not torg:
+        reasons.append('subject=%s' % ','.join(tsubj[:3]))
+        if jmed or len(tsubj) >= 2 or subj:
+            return 'nonplant', reasons
+        return 'suspect', reasons
+
+    # 正文层面只采信"强"对象标记；弱词（tcga/covid/survival analysis 等）
+    # 在正文里噪声过高，必须出现在标题才算数。
+    subj_strong = [s for s in subj if s not in WEAK_BODY_TERMS]
+    # 'randomized' 证据力弱：田间试验的 "completely randomized design" 与动物
+    # 营养试验的随机分组都用它。只有它一个时不作为对象证据。
+    if subj_strong == ['randomized']:
+        subj_strong = []
+
+    # 2) 正文多个强对象标记，且完全没有植物本体标记 → nonplant
+    if len(subj_strong) >= 3 and not org:
+        reasons.append('subject-heavy=%s' % ','.join(subj_strong[:4]))
+        return 'nonplant', reasons
+
+    # 3) 有强对象标记，植物本体标记很少 → suspect
+    if subj_strong and len(org) <= 2:
+        reasons.append('subject=%s' % ','.join(subj_strong[:3]))
+        reasons.append('weak-plant-context=%s' % (','.join(org[:2]) or 'none'))
+        if jmed or len(subj_strong) >= 2:
+            if jmed:
+                reasons.append('journal-medical=%s' % ','.join(jmed[:2]))
+            return 'nonplant', reasons
+        return 'suspect', reasons
+
+    if jmed and not torg:
+        reasons.append('journal-medical=%s' % ','.join(jmed[:2]))
+        reasons.append('no-plant-organism-in-title')
+        return 'suspect', reasons
+
+    return 'plant', reasons[:] or ['ok']
+
+
+# ── 概念页解析（供 purity_scan / phase8_5 复用，避免各处重复写正则）──
+def parse_page(content):
+    """从概念页 markdown 里抽 (title, abstract, journal)。"""
+    tm = re.search(r'^title:\s*(.+)$', content, re.M)
+    title = tm.group(1).strip().strip('"').strip("'") if tm else ''
+    hm = re.search(r'^#\s+(.+)$', content, re.M)
+    if not title and hm:
+        title = hm.group(1).strip()
+    am = re.search(r'## 摘要\s*\n+(.*?)(?=\n##|\Z)', content, re.DOTALL)
+    abstract = re.sub(r'\s+', ' ', am.group(1)).strip() if am else ''
+    jm = re.search(r'期刊\*\*:\s*(.+)', content)
+    journal = re.sub(r'\*\*DOI\*\*.*', '', jm.group(1)).split('(')[0].strip() if jm else ''
+    return title, abstract, journal
+
+
+def classify_page(path):
+    """读取一个概念页并判定。读不到内容时返回 ('plant', ['unreadable'])。"""
+    try:
+        with open(path, encoding='utf-8', errors='ignore') as fh:
+            content = fh.read()
+    except Exception:
+        return 'plant', ['unreadable']
+    title, abstract, journal = parse_page(content)
+    if not title and not abstract:
+        return 'plant', ['empty']
+    return classify(title, abstract, journal)

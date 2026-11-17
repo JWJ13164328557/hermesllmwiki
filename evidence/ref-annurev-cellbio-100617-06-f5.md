@@ -1,34 +1,43 @@
 ---
-title: "Both the WOX and HAM families are highly conserved and include multiple members whose expression dom"
-created: 2026-09-16
+title: "Both the WOX and HAM families are highly conserved and include multiple members whose …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-annurev-cellbio-100617-06]]"
 doi: "10.1146/annurev-cellbio-100617-062459"
-species: [Zea mays]
-evidence_type: "protein interaction"
-quality: "medium"
+species: ["Zea mays"]
+primary_species: "Gossypium hirsutum"
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Both the WOX and HAM families are highly conserved and include multiple members whose expression dom
+# Both the WOX and HAM families are highly conserved and include multiple members whose …
 
 ## Claim
 Both the WOX and HAM families are highly conserved and include multiple members whose expression domains overlap, suggesting that the interaction between different pairs of WOX and HAM family members plays a key role in how WOX family members maintain different stem cell niches.
 
-## Biological Context
-植物干细胞分裂与分化的调控。
+## Source
+- 文献: [[ref-annurev-cellbio-100617-06]]
+- DOI: 10.1146/annurev-cellbio-100617-062459
+- 主要物种: Gossypium hirsutum
 
-## Supporting Evidence
-*Source: [[ref-annurev-cellbio-100617-06]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

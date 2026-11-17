@@ -1,14 +1,20 @@
 ---
-title: Nutrient Solution Flow Influences Cell Atlas and Root Morphogenesis in Hydroponi
+title: Nutrient Solution Flow Influences Cell Atlas and Root Morphogenesis in Hydroponic Lettuce Root Growth
 created: 2026-08-23
 type: concept
-tags: [papers]
+themes: [developmental-biology, single-cell-spatial-omics]
+tags:
+- papers
 doi: 10.3390/horticulturae12081045
 confidence: moderate
 source: openalex
+title_fixed_from: Nutrient Solution Flow Influences Cell Atlas and Root Morphogenesis in Hydroponi
+theme_status: mapped
+theme_basis: keyword
+
 ---
 
-# Nutrient Solution Flow Influences Cell Atlas and Root Morphogenesis in Hydroponic Lettuce Root Growth
+# Nutrient Solution Flow Influences Cell Atlas and Root Morphogenesis in Hydroponic Lettuce Root Growthc Lettuce Root Growth
 
 ## 论文信息
 - **期刊**: Horticulturae (2026)

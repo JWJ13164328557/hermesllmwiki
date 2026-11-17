@@ -18,7 +18,7 @@ development_stage:
 condition:
   - field-grown
 support:
-  - "[[xr-10-1016-j-devcel-2020-12-015]]"
+  - "[[ref-j-devcel-2020-12-015]]"
 supporting_figures:
   - "xr-10-1016-j-devcel-2020-12-015#figure-1"
 experiments:
@@ -28,6 +28,20 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.devcel.2020.12.015"
+needs_review: "paper page missing in registry; DOI decoded from xr-slug"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [developmental-biology, single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # scRNA-seq Identifies Cell-Type Diversity in Developing Maize Ears
@@ -44,7 +58,7 @@ Maize ear development involves a series of meristem transitions that determine k
 
 | Paper | Method | Key Finding | Cells |
 |-------|--------|-------------|-------|
-| [[xr-10-1016-j-devcel-2020-12-015]] | 10x scRNA-seq | 12 cell clusters including IM, SPM, SM, FM, and non-meristematic tissues; validated by in situ hybridization | ~12,500 |
+| [[ref-j-devcel-2020-12-015]] | 10x scRNA-seq | 12 cell clusters including IM, SPM, SM, FM, and non-meristematic tissues; validated by in situ hybridization | ~12,500 |
 
 ## Evidence Quality
 

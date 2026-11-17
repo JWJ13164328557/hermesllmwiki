@@ -1,15 +1,26 @@
-title: Doublet identification in single-cell sequencing data using <i>scDblFinder</i>.
+---
+title: Doublet identification in single-cell sequencing data using scDblFinder
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.12688/f1000research.73600.2
 confidence: medium
-aliases: ["使用scDblFinder进行单细胞测序数据中的Doublet鉴<i>定</i>。"]
-aliases_extra: ["Doublet identification in single-cell sequencing data using <i>scDblFinder</i>."]
+aliases:
+- cr-10-12688-f1000research-73600-2
+- 使用scDblFinder进行单细胞测序数据中的Doublet鉴<i>定</i>。
+aliases_extra:
+- Doublet identification in single-cell sequencing data using <i>scDblFinder</i>.
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Doublet identification in single-cell sequencing data using <i>scDblFinder</i>.
+---
+
+# Doublet identification in single-cell sequencing data using scDblFinder
 
 
 
@@ -89,9 +100,9 @@ Competing interests:No competing interests were disclosed.
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-G2N-JJNNVwoyPpAiZEWa8w]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
+- [[poplar-xylem-sc-spatial-gb]]
 - [[b3-wjlHUzpHYhRHyfMVnBq8Sg]]
-- [[b3-yRRSlByPuOxXKvXBl0_LZg]]
+- [[qc-scrna-genome-biology]]
 
 
 

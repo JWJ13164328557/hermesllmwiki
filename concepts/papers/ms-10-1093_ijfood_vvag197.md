@@ -1,14 +1,20 @@
 ---
-title: Peptide signalling in reproductive development, yield determination, and grain q
+title: 'Peptide signalling in reproductive development, yield determination, and grain quality of cereal crops: from molecular mechanisms to breeding applications'
 created: 2026-09-10
 type: concept
-tags: [papers]
+themes: []
+tags:
+- papers
 doi: 10.1093/ijfood/vvag197
 confidence: moderate
 source: openalex
+title_fixed_from: Peptide signalling in reproductive development, yield determination, and grain q
+theme_status: unclassified
+theme_basis: insufficient-metadata
+
 ---
 
-# Peptide signalling in reproductive development, yield determination, and grain quality of cereal crops: From molecular mechanisms to breeding applications
+# Peptide signalling in reproductive development, yield determination, and grain quality of cereal crops: from molecular mechanisms to breeding applicationsuality of cereal crops: From molecular mechanisms to breeding applications
 
 ## 论文信息
 - **期刊**: International Journal of Food Science & Technology (2026)

@@ -1,34 +1,43 @@
 ---
-title: "We observed that while ARF7 and ARF19 are not required for the initial rapid auxin-dependent upregul"
-created: 2026-09-16
+title: "Our results suggest that the circadian clock functions like a developmental ‘metronome’ …"
+created: 2026-11-01
 type: evidence
-tags: [#hormone-signaling, papers]
+themes: ["epigenetics-gene-regulation", "hormone-signaling"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-ncomms8641]]"
 doi: "10.1038/ncomms8641"
-species: [Arabidopsis thaliana, Oryza sativa, Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
-genes: []
-compounds: [auxin]
+species: ["Arabidopsis thaliana", "Oryza sativa"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["IAA14", "AtDOA2"]
+compounds: ["auxin"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# We observed that while ARF7 and ARF19 are not required for the initial rapid auxin-dependent upregul
+# Our results suggest that the circadian clock functions like a developmental ‘metronome’ …
 
 ## Claim
-We observed that while ARF7 and ARF19 are not required for the initial rapid auxin-dependent upregulation of TOC1, they were essential for the maintenance of high TOC1 transcript levels (Fig.
+Our results suggest that the circadian clock functions like a developmental ‘metronome’ during LR development, causing the expression of genes such as AtDOA2 and IAA14 to gate auxin responses in cells overlying new primordia, and thereby coordinate organ emergence.
 
-## Biological Context
-The circadian clock rephases during lateral root organ initiation in Arabidopsis
+## Source
+- 文献: [[ref-ncomms8641]]
+- DOI: 10.1038/ncomms8641
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-ncomms8641]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: IAA14, AtDOA2
+- 自动标注化合物: auxin
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

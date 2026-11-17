@@ -1,12 +1,18 @@
+---
 title: Massively parallel single-nucleus RNA-seq with DroNc-seq.
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [single-cell-spatial-omics, papers]
 doi: 10.1038/nmeth.4407
 confidence: medium
-aliases: ["Massively parallel single-nucleus RNA-seq with DroNc-seq."]
+aliases: [Massively parallel single-nucleus RNA-seq with DroNc-seq.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: out-of-scope
+theme_basis: purity:suspect-no-plant-cue
+
+---
 
 # Massively parallel single-nucleus RNA-seq with DroNc-seq.
 
@@ -67,11 +73,11 @@ Harvard and MIT, relating to inventions of methods of this manuscript.
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 
@@ -95,7 +101,7 @@ analysis of RNA in single nuclei from fresh, frozen or lightly fixed tissues. sn
 
 ## 深度提炼
 
-**物种**: Ficus carica
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1038/nmeth.4407
 **来源类型**: PDF全文 (10.1038_nmeth.4407.pdf)

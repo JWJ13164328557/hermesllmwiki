@@ -1,34 +1,43 @@
 ---
-title: "Imaging-based approaches entail the in situ hybridization of DNA probes to RNA molecules, followed b"
-created: 2026-09-16
+title: "Collectively, these studies demonstrate that ST enables precise analyses of plant tissue …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: []
+theme_status: unmapped
+theme_basis: inherit-claim-guard
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-tpj-16437]]"
 doi: "10.1111/tpj.16437"
-species: [Oryza sativa, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Oryza sativa", "Zea mays", "Solanum lycopersicum"]
+primary_species: "Glycine max"
+evidence_type: "descriptive/observational"
+claim_role: "background"
+non_finding_kind: "textbook"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Imaging-based approaches entail the in situ hybridization of DNA probes to RNA molecules, followed b
+# Collectively, these studies demonstrate that ST enables precise analyses of plant tissue …
 
 ## Claim
-Imaging-based approaches entail the in situ hybridization of DNA probes to RNA molecules, followed by high-resolution microscopy imaging to identify the spatial location of target RNAs in cells.
+Collectively, these studies demonstrate that ST enables precise analyses of plant tissue architecture, which will play an important role in future research on plant developmental biology.
 
-## Biological Context
-Spatial transcriptomics drives a new era in plant research.
+## Source
+- 文献: [[ref-tpj-16437]]
+- DOI: 10.1111/tpj.16437
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[ref-tpj-16437]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,12 +1,21 @@
-title: SEMITONES: single-cEll marker IdentificaTiON by enrichment scoring
+---
+title: 'SEMITONES: single-cEll marker IdentificaTiON by enrichment scoring'
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
-doi: 
+themes: [single-cell-spatial-omics]
+tags: [papers]
+doi: ""
 confidence: medium
-aliases: ["SEMITONES ：通过富集评分确定单细胞标志物IdentificaTiON"]
+aliases: [SEMITONES ：通过富集评分确定单细胞标志物IdentificaTiON]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 # SEMITONES: single-cEll marker IdentificaTiON by enrichment scoring
 

@@ -17,7 +17,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1016-j-cell-2021-04-048]]"
+  - "[[integrated-analysis-of-multimodal-single-cell-data]]"
 supporting_figures:
   - "xr-10-1016-j-cell-2021-04-048#figure-4"
   - "xr-10-1016-j-cell-2021-04-048#figure-5"
@@ -28,6 +28,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1016/j.cell.2021.04.048"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: "result"
+evidence_type_prior: ""
+
 ---
 
 # Multimodal WNN Identifies Novel Lymphoid Subpopulations
@@ -44,7 +57,7 @@ Lymphoid cell populations, particularly innate lymphoid cells (ILCs) and transit
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1016-j-cell-2021-04-048]] | WNN multimodal analysis | Novel CD8+ T cell subsets and transitional B cell states identified; validated by independent protein markers | 211K PBMCs + bone marrow cells |
+| [[integrated-analysis-of-multimodal-single-cell-data]] | WNN multimodal analysis | Novel CD8+ T cell subsets and transitional B cell states identified; validated by independent protein markers | 211K PBMCs + bone marrow cells |
 
 ## Evidence Quality
 

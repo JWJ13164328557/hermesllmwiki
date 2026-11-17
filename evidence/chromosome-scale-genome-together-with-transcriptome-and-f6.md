@@ -1,34 +1,43 @@
 ---
-title: "By protein–protein interaction (PPI) analysis, we observed that the Rro4G033620 protein (RrBZ1) dire"
-created: 2026-08-25
+title: "In summary, there is a strong consistency in the evolutionary dynamics of WGD-dgps across …"
+created: 2026-11-03
 type: evidence
-tags: [#genomics-evolution, papers]
+themes: ["genomics-evolution"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[chromosome-scale-genome-together-with-transcriptome-and]]"
 doi: "10.1093/hr/uhae064"
-species: [Arabidopsis thaliana, Oryza sativa, Malus domestica]
-evidence_type: "protein interaction"
-quality: "medium"
-genes: [RrCBF, RrTGS1, RrGLU1, RrFDX1, RrNFYA]
+species: ["Rubus spp.", "Coptis spp.", "Fragaria × ananassa"]
+primary_species: "Rubus spp."
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# By protein–protein interaction (PPI) analysis, we observed that the Rro4G033620 protein (RrBZ1) dire
+# In summary, there is a strong consistency in the evolutionary dynamics of WGD-dgps across …
 
 ## Claim
-By protein–protein interaction (PPI) analysis, we observed that the Rro4G033620 protein (RrBZ1) directly interacts with the enzyme trimethylguanosine synthase 1 (RrTGS1); that the Rro5G003920 protein (RrBZ1) directly interacts with ferredoxin C1 (RrFDX1), CCAAT-binding transcription factor (RrNFYA), glu- tamate synthase 1 (RrGLU1) and histone-like transcription factor (RrCBF/NF-Y); and that the Rr
+In summary, there is a strong consistency in the evolutionary dynamics of WGD-dgps across different species.
 
-## Biological Context
-Chromosome-scale 基因组, together with transcriptome and metabolome, 提供了 深入 into the 进化 and 花青素 生物合成 of Rubus rosaefolius Sm. (Rosaceae
+## Source
+- 文献: [[chromosome-scale-genome-together-with-transcriptome-and]]
+- DOI: 10.1093/hr/uhae064
+- 主要物种: Rubus spp.
 
-## Supporting Evidence
-*Source: [[chromosome-scale-genome-together-with-transcriptome-and]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

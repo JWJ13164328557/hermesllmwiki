@@ -3,11 +3,18 @@ title: "转录因子HSFA7b通过调控乙烯的生物合成和信号转导来控
 journal: "unknown"
 year: ""
 type: paper
-tags: [signaling, gene-regulation, metabolism]
+themes: [developmental-biology, epigenetics-gene-regulation]
+tags: [metabolism]
 species: [plant]
 status: frontmatter-enhanced
 curation_depth: "基础整理"
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
 ---
 
 ## 摘要

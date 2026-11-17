@@ -1,34 +1,43 @@
 ---
-title: "The of GCN5 and ADA transcription factors interact with work was supported in part by grants from th"
-created: 2026-09-16
+title: "The of GCN5 and ADA transcription factors interact with work was supported in part by …"
+created: 2026-11-01
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-genetics-104-033142]]"
 doi: "10.1534/genetics.104.033142"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Ficus carica]
+species: ["Arabidopsis thaliana", "Nicotiana tabacum"]
+primary_species: "Arabidopsis thaliana"
 evidence_type: "protein interaction"
+claim_role: "finding"
+non_finding_kind: "result"
 quality: "medium"
-genes: []
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["GCN5"]
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# The of GCN5 and ADA transcription factors interact with work was supported in part by grants from th
+# The of GCN5 and ADA transcription factors interact with work was supported in part by …
 
 ## Claim
 The of GCN5 and ADA transcription factors interact with work was supported in part by grants from the National Institutes of Health (GM067015) to Z.J.C.
 
-## Biological Context
-Reversible histone acetylation and deacetylation mediate genome-wide, promoter-d
+## Source
+- 文献: [[ref-genetics-104-033142]]
+- DOI: 10.1534/genetics.104.033142
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-genetics-104-033142]]*
+## 标注信息
+- 证据类型: protein interaction
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: GCN5
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

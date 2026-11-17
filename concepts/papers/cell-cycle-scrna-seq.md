@@ -1,12 +1,21 @@
-title: "单细胞RNA-seq解析细胞周期"
-journal: "unknown"
-year: ""
+---
+title: 单细胞RNA-seq解析细胞周期
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: []
+tags: [papers]
 species: [Arabidopsis thaliana, Marchantia]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

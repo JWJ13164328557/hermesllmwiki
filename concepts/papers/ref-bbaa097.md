@@ -1,14 +1,27 @@
-title: "SMNN ：通过监督相互最近邻对单细胞RNA-seq数据的批量效应校正"
+---
+title: SMNN ：通过监督相互最近邻对单细胞RNA-seq数据的批量效应校正
 created: 2026-05-28
 type: concept
-tags: [#single-cell-spatial, papers]
+themes: [single-cell-spatial-omics]
+tags:
+- single-cell-spatial
+- papers
 doi: 10.1093/bib/bbaa097
 confidence: medium
-aliases: ["SMNN ：通过监督相互最近邻对单细胞RNA-seq数据的批量效应校正"]
+aliases:
+- SMNN ：通过监督相互最近邻对单细胞RNA-seq数据的批量效应校正
+- cr-10-1093-bib_bbaa097
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_en: 'SMNN: batch effect correction for single-cell RNA-seq data via supervised mutual nearest neighbor detection'
+merged_from:
+- cr-10-1093-bib_bbaa097
+theme_status: mapped
+theme_basis: tag
 
-# SMNN ：通过监督相互最近邻对单细胞RNA-seq数据的批量效应校正
+---
+
+# SMNN: batch effect correction for single-cell RNA-seq data via supervised mutual nearest neighbor detection
 
 
 
@@ -32,8 +45,8 @@ Batch effect correction has been recognized to be indispensable when integrating
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-Ke_NSLIGVqOSAUr7v-xJ6A]]
-- [[b3-MweGEIei1VoObhk3boSJog]]
-- [[b3-Q__01uAq9RU85RON6eeUaQ]]
+- [[b3-peg1lwq2yaEXfDY9yfqzZg]]
+- [[ref-s13059-025-03811-3]]
 
 
 ## 深度提炼
@@ -52,3 +65,5 @@ Batch effect correction has been recognized to be indispensable when integrating
 6. Controlling for confounding effects in single cell RNA sequencing studies using both control and target genes.
 7. Notably, all four methods can substantially mitigate discrepancy between the two datasets.
 8. More importantly, the wrongly matched cell pairs may wipe out the distinguishing features of cell types.
+
+> 合并说明：本页与 cr-10-1093-bib_bbaa097 指向同一 DOI（10.1093/bib/bbaa097），已将重复页移入 archive/duplicates/。

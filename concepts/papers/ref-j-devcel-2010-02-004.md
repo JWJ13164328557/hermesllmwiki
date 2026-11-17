@@ -1,17 +1,25 @@
-title: "Arabidopsis regeneration from multiple tissues occurs via a root development pathway."
-pmid: "20230752"
-doi: "10.1016/j.devcel.2010.02.004"
-pmcid: ""
-journal: "Developmental cell"
-year: "2010"
-authors: "Kaoru Sugimoto, Yuling Jiao, Elliot M Meyerowitz"
+---
+title: Arabidopsis regeneration from multiple tissues occurs via a root development pathway.
+pmid: '20230752'
+doi: 10.1016/j.devcel.2010.02.004
+pmcid: ''
+journal: Developmental cell
+year: '2010'
+authors: Kaoru Sugimoto, Yuling Jiao, Elliot M Meyerowitz
 type: paper
-tags: [#developmental-biology, papers]
+themes: [developmental-biology]
+tags: [developmental-biology, papers]
 species: [Arabidopsis thaliana]
 methods: [not detected]
 status: curated
 curation_depth: PubMed摘要
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: tag
+
+---
+
+# Arabidopsis regeneration from multiple tissues occurs via a root development pathway.
 
 ## 1. Scientific Context
 
@@ -73,10 +81,10 @@ Unlike most animal cells, plant cells can easily regenerate new tissues from a w
 - 物种: Arabidopsis thaliana
 - 关键基因: 待提取
 
-**关系类型**:
-- 调控关系: 待提取
-- 功能关系: 待提取
-- 比较关系: 待提取
+**关系类型**（仅记录原文明确表述；共现不等于调控）:
+- 调控/互作关系（需 ChIP/EMSA/Co-IP 等直接证据）: 未提取
+- 功能关系（遗传或表型证据）: 未提取
+- 共现/关联关系（仅提示相关，不作因果）: 未提取
 
 **MeSH关键词**: Arabidopsis, Base Sequence, Cotyledon, Cytokinins, DNA, Plant, Flowers, Gene Expression Regulation, Developmental, Gene Expression Regulation, Plant
 

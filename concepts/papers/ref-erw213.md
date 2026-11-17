@@ -1,14 +1,27 @@
-title: YUCCA-mediated auxin biogenesis is required for cell fate transition occurring d
+---
+title: YUCCA -mediated auxin biogenesis is required for cell fate transition occurring during de novo root organogenesis in Arabidopsis
 created: 2026-05-28
 type: concept
-tags: [#developmental-biology, papers]
+themes: [developmental-biology, hormone-signaling]
+tags:
+- developmental-biology
+- papers
 doi: 10.1093/jxb/erw213
 confidence: medium
-aliases: ["YUCCA-mediated auxin biogenesis is required for cell fate transition occurring d"]
+aliases:
+- YUCCA-mediated auxin biogenesis is required for cell fate transition occurring d
+- cr-10-1093-jxb_erw213
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: YUCCA-mediated auxin biogenesis is required for cell fate transition occurring d
+merged_from:
+- cr-10-1093-jxb_erw213
+theme_status: mapped
+theme_basis: tag+keyword
 
-# YUCCA-mediated auxin biogenesis is required for cell fate transition occurring d
+---
+
+# YUCCA -mediated auxin biogenesis is required for cell fate transition occurring during de novo root organogenesis in Arabidopsis
 
 
 
@@ -41,7 +54,7 @@ Many plant organs have the ability to regenerate a new plant after detachment or
 
 ## 深度提炼
 
-**物种**: Arabidopsis thaliana, Pinus spp., Ficus carica, Rosa spp., Petunia hybrida
+**物种**: Arabidopsis thaliana, Pinus spp., Rosa spp., Petunia hybrida
 **方法**: qRT-PCR validation, RNAi/VIGS, overexpression, promoter-GUS assay
 **来源**: DOI:10.1093/jxb/erw213
 **来源类型**: PDF全文 (10.1093_jxb_erw213.pdf)
@@ -61,7 +74,6 @@ Many plant organs have the ability to regenerate a new plant after detachment or
 - [[b6-1OdIlqjyUKsN4KmZ4WdQUQ]]
 - [[b6-_4lVabIoRyC91sLMxSI_ig]]
 - [[biorxiv-2025-12-09-693185]]
-- [[ref-j-bbaexp-2007-04-007]]
 - [[ref-j-cell-2019-04-015]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 
@@ -81,3 +93,5 @@ Auxin is a critical hormone that controls de novo root organogenesis ( Greenwood
 ### Discussion
 De novo root organogenesis commonly occurs when plant organs are detached or wounded, and auxin is known to have an important role in this process ( Greenwood et al. , 2001 ; De Klerk, 2002 ; Ahkami et al. , 2009 ; Correa Lda et al. , 2012 ; Chen et al. , 2014 ; Liu et al. , 2014 ; Xu and Huang, 2014 ). In this study, we show that YUC -mediated de novo synthesis of auxin is enhanced after detachment of leaf explants, and this in turn is required for de novo root organogenesis from leaf explants.
 The Arabidopsis genome encodes at least 11 YUC genes (see Supplementary Fig. S6 at JXB online) ( Cheng et al. , 2006 ), and our data showed that mutations in YUC1 , YUC2 , YUC4 , and YUC6 severely block rooting from leaf explants, suggesting that these four genes have primary roles in regeneration among all the YUC family. However, expression of YUC2 and YUC6 was not significantly induced in leaf explants within 2 DAC (see Supplementary Fig. S7 at JXB online) and these two gene loci are not regulated by the H3K27me3 epigenetic marker ( H
+
+> 合并说明：本页与 cr-10-1093-jxb_erw213 指向同一 DOI（10.1093/jxb/erw213），已将重复页移入 archive/duplicates/。

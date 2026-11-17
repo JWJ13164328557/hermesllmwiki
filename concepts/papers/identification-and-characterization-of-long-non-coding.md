@@ -1,15 +1,18 @@
-title: "Identification and characterization of long non-coding RNAs regulating flavonoid biosynthesis in Ginkgo biloba leaves"
+---
+title: Identification and characterization of long non-coding RNAs regulating flavonoid biosynthesis in Ginkgo biloba leaves
 created: 2026-05-30
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1016/j.indcrop.2020.112980
-pmid: 
-confidence: medium
-aliases: ["银杏叶中调节类黄酮生物合成的长链非编码RNA的鉴定和表征"]
+pmid: ''
+aliases: [银杏叶中调节类黄酮生物合成的长链非编码RNA的鉴定和表征]
+theme_status: mapped
+theme_basis: tag
 
-# 鉴定 and 鉴定 of long non-coding RNAs regulating 类黄酮 生物合成 in Ginkgo biloba leaves
+---
 
-> Identification and characterization of long non-coding RNAs regulating flavonoid biosynthesis in Ginkgo biloba leaves
+# Identification and characterization of long non-coding RNAs regulating flavonoid biosynthesis in Ginkgo biloba leaves
 
 ## 论文信息
 - **期刊**: Industrial Crops and Products (2020)

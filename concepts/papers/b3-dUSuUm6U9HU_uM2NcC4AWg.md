@@ -1,16 +1,27 @@
-title: Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Re
+---
+title: Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Reveals the Multidimensional Spatial Distributions and Biosynthetic Pathways of Medicinal Components in Andrographis paniculata
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags:
+- metabolism-np
+- papers
 doi: 10.1111/pbi.70534
 confidence: medium
-aliases: ["Mass Spectrometry Imaging Combined Single-Cell Transcriptional 分析 Re"]
-aliases_extra: ["质谱成像结合单细胞转录谱分析"]
-aliases_extra: ["Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Re"]
+aliases:
+- andrographis-msi-sc-spatial
+- Mass Spectrometry Imaging Combined Single-Cell Transcriptional 分析 Re
+aliases_extra:
+- Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Re
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Re
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Re
+---
+
+# Mass Spectrometry Imaging Combined With Single-Cell Transcriptional Profiling Reveals the Multidimensional Spatial Distributions and Biosynthetic Pathways of Medicinal Components in Andrographis paniculata
 
 
 
@@ -29,13 +40,13 @@ The synthesis and accumulation of active ingredients in medicinal plants are dis
 
 ## 相关文献
 
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b3-Oe9xghJ07Ub3C93cYl12oQ]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
+- [[poplar-xylem-sc-spatial-gb]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 
 
 

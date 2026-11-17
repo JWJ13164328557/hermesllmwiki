@@ -1,12 +1,21 @@
-title: "单细胞测序揭示棉花分泌腺细胞中萜类物质生物合成的分级转录调控网络"
-journal: "unknown"
-year: ""
+---
+title: 单细胞测序揭示棉花分泌腺细胞中萜类物质生物合成的分级转录调控网络
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags: [papers]
 species: [Gossypium]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 
@@ -35,7 +44,7 @@ updated: 2026-05-30
 
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]] 🌱cotton
 - [[b4-5L8yUIeARXqlhtyk-pgTZw]] 🌱cotton
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]] 🌱cotton
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]] 🌱cotton
 - [[b6-1OdIlqjyUKsN4KmZ4WdQUQ]] 🌱cotton
 - [[daily-42205155]] 🌱cotton
 - [[daily-42207342]] 🌱cotton

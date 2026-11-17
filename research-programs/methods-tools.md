@@ -1,92 +1,150 @@
 ---
-title: "Synthesis: #Methods-Tools"
+title: "Research Program: Methods & Tools"
+title_zh: "方法与工具：研究方案"
 type: research-program
 topic: "methods-tools"
-total_evidence: 179
-total_aims: 5
+theme_basis: "tag"
+total_evidence: 1647
+total_papers: 386
+total_aims: 6
 auto_generated: true
-updated: 2026-09-16
+generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
+updated: 2026-11-17
 ---
 
-# 🔬 Synthesis: #Methods-Tools
+# 🔬 Methods & Tools：从证据到可执行研究方案
 
-## Program Overview
-基于 179 条证据生成的 5 个实验目标。
+> 本方案由 1647 条证据 / 386 篇独立论文中提炼的 6 条假说直接展开，
+> 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
+> 而是"如果要做这件事，最小可行实验是什么"的清单。
 
-## Research Aims
+## 一、问题界定
 
-### Aim 1: Test CLUEY function
+- **主题**：Methods & Tools
+- **证据规模**：1647 条证据 / 386 篇独立论文
+- **候选靶点**：WOX12, GEH1, method, EXO70, software, Cas9
+- **主体系**：Oryza sativa
+- **主题归属依据**：证据标签
 
-**Hypothesis**: CLUEY regulates downstream targets to control [process]
+## 二、研究目标（每个目标对应一条假说）
 
-**Experimental Design**:
-1. Generate CLUEY overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: CLUEY-GFP fusion
+### 目标 1：建立 WOX12 的剂量—效应曲线
 
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 2: Test PPI function
-
-**Hypothesis**: PPI target downstream targets to control [process]
-
-**Experimental Design**:
-1. Generate PPI overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: PPI-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 3: Test [target gene] function
-
-**Hypothesis**: [Key factor] regulates [process] via [mechanism]
-
-**Experimental Design**:
-1. Generate [target gene] overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: [target gene]-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 4: Test UTR function
-
-**Hypothesis**: UTR regulates downstream targets to control [process]
-
-**Experimental Design**:
-1. Generate UTR overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: UTR-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
-
-### Aim 5: Test CLUEY function
-
-**Hypothesis**: CLUEY regulates downstream targets to control [process]
-
-**Experimental Design**:
-1. Generate CLUEY overexpression and CRISPR knockout lines in [model species]
-2. Phenotype analysis: [trait measurement], microscopy, histochemical staining
-3. RNA-seq of WT vs mutant to identify downstream targets
-4. Subcellular localization: CLUEY-GFP fusion
-
-**Expected Outcomes**: Reduced [phenotype] in overexpression lines; opposite in mutants.
-
-**Validation**: Complementation test, tissue-specific expression analysis.
+- **对应假说**：WOX12 已有 24 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Oryza sativa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 WOX12 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
 
 
-## Timeline & Resources
+### 目标 2：建立 GEH1 的剂量—效应曲线
 
-| Aim | Duration | Key Resources |
-|-----|----------|---------------|
+- **对应假说**：GEH1 已有 18 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **体系**：Oryza sativa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
+- **关键实验**
+  1. 构建 ≥4 个表达水平的独立株系并定量表达量
+  2. 在统一条件下测表型并拟合剂量—效应曲线
+  3. 估计半数效应点（EC50）与置信区间
+  4. 在独立批次/独立实验室复现 EC50
+- **判定标准**：表型随 GEH1 表达或活性单调变化，半数效应点可在独立实验室复现
+- **止损条件**：表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 3：检验 method 的必要性
+
+- **对应假说**：本主题中 "method" 被反复采用，但缺少跨数据集的独立评测。判别性检验：在留出数据集上按预注册指标复现其性能。
+- **体系**：Oryza sativa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：method 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量可重复性
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：留出数据集上复现已发表性能，差异在预注册容差内
+- **止损条件**：留出数据集上性能显著低于报告值，或流程无法运行
+- **预计周期**：12–18 个月
+
+
+### 目标 4：检验 EXO70 的互作是否为功能必需
+
+- **对应假说**：EXO70 与差异基因表达的直接结合/互作已有报道，但"结合是否为功能所必需"未被检验。判别性检验：引入破坏结合界面的点突变，比较蛋白丰度与差异基因表达的变化。
+- **体系**：Oryza sativa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：互作界面点突变系（结合缺陷但蛋白稳定）+ 野生型回补系（目标蛋白）
+- **关键实验**
+  1. 结构建模定位互作界面并设计 2–3 个点突变
+  2. 验证突变体蛋白丰度与亚细胞定位不变、结合能力丧失
+  3. 检测差异基因表达是否仍被改变
+  4. 野生型回补确认表型可恢复
+- **判定标准**：互作缺陷突变体中差异基因表达不再被改变，而 EXO70 蛋白丰度与野生型相当
+- **止损条件**：互作缺陷突变体仍改变差异基因表达，说明结合非必需或存在旁路
+- **预计周期**：12–18 个月
+
+
+### 目标 5：检验 software 的必要性
+
+- **对应假说**：本主题中 "software" 被反复采用，但缺少跨数据集的独立评测。判别性检验：在留出数据集上按预注册指标复现其性能。
+- **体系**：Oryza sativa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：software 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量可重复性
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：留出数据集上复现已发表性能，差异在预注册容差内
+- **止损条件**：留出数据集上性能显著低于报告值，或流程无法运行
+- **预计周期**：12–18 个月
+
+
+### 目标 6：检验 Cas9 的必要性
+
+- **对应假说**：Cas9 已有 4 条遗传扰动证据，但读出体系不一致，方向与必要性仍未确定。判别性检验：获得功能缺失等位基因，做表型、回补与组织特异性验证。
+- **体系**：Oryza sativa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
+- **材料**：Cas9 的 CRISPR 敲除系 ≥2 个独立株系、过表达系 ≥2 个、野生型与空载体对照
+- **关键实验**
+  1. 基因型鉴定与表达量测定（确认操纵有效）
+  2. 统一取样条件下定量目标性状
+  3. 互补实验排除脱靶与背景效应
+  4. 组织特异性表达检验，判断效应发生的部位
+- **判定标准**：功能缺失等位基因产生稳定、可回补的表型缺陷
+- **止损条件**：功能缺失无表型，或表型不可回补（提示脱靶或冗余基因补偿）
+- **预计周期**：12–18 个月
+
+
+## 三、分阶段路线
+
+| 阶段 | 时间 | 内容 | 里程碑（可验收） |
+|---|---|---|---|
+| P0 基准数据 | 0–4 月 | 固定 ≥3 个公开数据集与统一预处理；锁定评价指标 | 基准可一键复现，版本与参数留档 |
+| P1 基线比较 | 4–10 月 | 与 ≥2 个现行方法同条件比较；做消融与敏感性分析 | 优势在预注册指标上成立，而非只挑有利数据集 |
+| P2 泛化测试 | 10–18 月 | 跨物种/跨平台/低质量数据压力测试 | 性能下降有边界，失败模式可解释 |
+| P3 交付 | 18–24 月 | 容器化、文档、版本化与社区复现 | 第三方按文档可复现主结果 |
+
+> 方法学主题以 benchmark、消融和复现为骨架；不以生物表型或转化体系作为验收标准。
+
+## 四、风险与对策
+
+- 未从证据层识别到显著风险；仍应按标准做法设置生物学重复与盲法测量。
+
+## 五、产出与验收
+
+- **数据**：转录组/表型原始数据提交 GEO/SRA；代码与分析流程随文公开。
+- **材料**：编辑系与过表达系在发表后按惯例共享。
+- **论文**：按目标拆分，每个目标至少可支撑 1 篇以因果证据为核心的研究论文。
+- **负结果**：若某目标触发止损条件，应作为负结果报告，而不是静默删除。
+
+## 六、与综述的关系
+
+本方案的所有靶点均可回溯到 `synthesis/methods-tools.md` 的主题段落与 `evidence/` 下的证据页。
+若综述更新后某靶点的支撑证据被撤回或减弱，本方案对应目标应同步降级——
+**方案的有效期与证据同步，不做无限期承诺**。
+
+---
+*由 Phase 8 生成于 2026-11-17；生成器版本 2026-11-02-evidence-grounded*

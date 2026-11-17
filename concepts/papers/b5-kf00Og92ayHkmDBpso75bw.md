@@ -1,13 +1,22 @@
+---
+
 title: The comprehensive regulatory network in seed oil biosynthesis.
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [epigenetics-gene-regulation, metabolism-natural-products]
+tags: [metabolism-natural-products, papers]
 doi: 10.1111/jipb.13834
 confidence: medium
-aliases: ["种子油生物合成的综合调控网络。"]
-aliases_extra: ["The comprehensive regulatory network in seed oil biosynthesis."]
+aliases: [全面 regulatory 网络 中 seed oil 生物合成.]
+aliases_extra:
+- "种子油生物合成的综合调控网络。"
+- "The comprehensive regulatory network in seed oil biosynthesis."
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # The comprehensive regulatory network in seed oil biosynthesis.
 
@@ -39,7 +48,18 @@ Plant oils play a crucial role in human nutrition, industrial applications and b
 
 ## 深度提炼
 
+**主要物种**: Glycine max
+**物种**: Glycine max, Brassica napus, Oryza sativa, Medicago spp., Paeonia spp.
+**方法**: transcriptomics (RNA-seq), metabolomics (LC-MS/GC-MS), proteomics, overexpression, GWAS, QTL mapping
+**来源**: DOI:10.1111/jipb.13834
+**来源类型**: PDF全文 (10.1111_jipb.13834.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Notably, the module promotes oil body formation via upregulation of GmOLEO2, but not GmOLEO1 (Lu et al., 2021a).
+2. Zhang is fully responsible for the distribution of all materials associated with this article) Wei Wei Qingxin Song ABSTRACT Plant oils play a crucial role in human nutrition, industrial applications and biofuel production.
+3. WRI1 interacts with multiple proteins, and its expression level is regulated by upstream regulators, including members of the LAFL net- work.
+4. The production of FAs and their transport from the plastid to the ER play a crucial role in TAG accumulation.
+5. Oleosins play a key role in maintaining the size and stability of oil bodies, ensuring they remain as discrete units.
+6. WRI1 belongs to the APETALA2 (AP2TF) family and binds to the AW‐box in the promoter regions of its downstream genes (Maeo et al., 2009).
+7. The BTB/POZ‐ MATH (BPM) family proteins, which broadly interact with AP2 TF, act as bridges between WRI1 and CULLIN3.
+8. Two energy sen- sors, KIN10 (SNF1 KINASE HOMOLOG 10) and KIN11, also known as the catalytic subunits of SnRK1 (Sucrose non‐ fermenting‐1 Related Kinase 1), were reported to interact with WRI1.

@@ -1,12 +1,21 @@
-title: "三角叶黄连的全长转录组分析及苄基异喹啉生物碱合成相关基因的鉴定"
-journal: "unknown"
-year: ""
+---
+title: 三角叶黄连的全长转录组分析及苄基异喹啉生物碱合成相关基因的鉴定
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

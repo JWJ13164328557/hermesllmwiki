@@ -1,34 +1,43 @@
 ---
-title: "The data from yuc mutants, together with yucasin treat- ment, reveal that YUC-mediated auxin biosynt"
-created: 2026-09-16
+title: "S1 at JXB online), it is possible that a certain auxin concentration is required to …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology", "hormone-signaling"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-erw213]]"
 doi: "10.1093/jxb/erw213"
-species: [Arabidopsis thaliana, Pinus spp., Ficus carica]
-evidence_type: "genetic perturbation"
-quality: "high"
-genes: []
-compounds: [auxin]
+species: ["Arabidopsis thaliana", "Pinus spp.", "Rosa spp."]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "expression/regulation"
+claim_role: "background"
+non_finding_kind: "speculation"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["WOX11"]
+compounds: ["auxin"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# The data from yuc mutants, together with yucasin treat- ment, reveal that YUC-mediated auxin biosynt
+# S1 at JXB online), it is possible that a certain auxin concentration is required to …
 
 ## Claim
-The data from yuc mutants, together with yucasin treat- ment, reveal that YUC-mediated auxin biosynthesis is critical for de novo root organogenesis.
+S1 at JXB online), it is possible that a certain auxin concentration is required to induce WOX11 expression.
 
-## Biological Context
-YUCCA-mediated auxin biogenesis is required for cell fate transition occurring d
+## Source
+- 文献: [[ref-erw213]]
+- DOI: 10.1093/jxb/erw213
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-erw213]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: background
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: WOX11
+- 自动标注化合物: auxin
 
-## Evidence Quality
-**Type**: genetic perturbation
-**Level**: high
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

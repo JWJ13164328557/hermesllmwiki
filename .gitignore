@@ -21,3 +21,11 @@ manual_download_list.csv
 __pycache__/
 *.pyc
 reports/
+
+# PlantSciKB 流水线运行期产物（日志/断点状态）：不属于知识内容，不进 git
+logs/
+.pipeline_state/
+
+# 补丁/备份副本：不进仓库
+*.bak
+*.bak.*

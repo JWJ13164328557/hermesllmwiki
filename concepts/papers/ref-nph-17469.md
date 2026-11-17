@@ -1,14 +1,24 @@
-title: Integration of genome wide association studies and co-expression networks reveal
+---
+title: Integration of genome wide association studies and co-expression networks reveal roles of PtoWRKY 42-PtoUGT76C1-1 in trans-zeatin metabolism and cytokinin sensitivity in poplar
 created: 2026-05-28
 type: concept
-tags: [#stress-immunity, papers]
+themes: [stress-immunity]
+tags:
+- stress-immunity
+- papers
 doi: 10.1111/nph.17469
 confidence: medium
-aliases: ["Integration of genome wide association studies and co-expression networks reveal"]
+aliases:
+- Integration of genome wide association studies and co-expression networks reveal
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Integration of genome wide association studies and co-expression networks reveal
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Integration of genome wide association studies and co-expression networks reveal
+---
+
+# Integration of genome wide association studies and co-expression networks reveal roles of PtoWRKY 42-PtoUGT76C1-1 in trans-zeatin metabolism and cytokinin sensitivity in poplar
 
 
 
@@ -29,11 +39,11 @@ Cytokinins are important for in vitro shoot regeneration in plants. Cytokinin N-
 
 - [[b3-L7GZnhJuEotGMug-3oD2oA]]
 - [[b3-hec2f2m1kP9Y-33yozL7Bg]]
-- [[b3-lAocrXAzQRs_pNTy-8Ac1g]]
+- [[xr-10-1016-j-molp-2019-04-004]]
 - [[b4-A4eRtTpTuVLrP6mvHWMndA]]
 - [[b5-I9J_3tEggQGIGk7z9SmwOw]]
-- [[cr-btt656]]
-- [[cr-s13059-014-0550-8]]
+- [[featurecounts-an-efficient-general-purpose-program-for-assigning-seque]]
+- [[moderated-estimation-of-fold-change-and-dispersion-for-rna]]
 
 
 ## 深度提炼

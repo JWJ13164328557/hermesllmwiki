@@ -1,12 +1,21 @@
-title: "种子特异性代谢物的定量性状基因座分析揭示了番茄中种子特异性黄酮醇和配糖生物碱含量的差异调节"
-journal: "unknown"
-year: ""
+---
+title: 种子特异性代谢物的定量性状基因座分析揭示了番茄中种子特异性黄酮醇和配糖生物碱含量的差异调节
+journal: unknown
+year: ''
 type: paper
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags: [papers]
 species: [Solanum lycopersicum, Brassica]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

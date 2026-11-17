@@ -1,34 +1,43 @@
 ---
-title: "Collectively, our data suggest that HSFA7b, with a minor effect from HSFA7a, regulates expression of"
-created: 2026-08-25
+title: "Our data show that HSFA7b also regulates ethylene response by controlling ethylene …"
+created: 2026-11-02
 type: evidence
-tags: [#epigenetics-gr, papers]
+themes: ["epigenetics-gene-regulation"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[the-transcription-factor-hsfa7b-controls-thermomemory]]"
 doi: "10.1016/j.xplc.2023.100743"
-species: [Arabidopsis thaliana, Citrus spp.]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Arabidopsis"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
-compounds: [ethylene]
+compounds: ["ethylene"]
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# Collectively, our data suggest that HSFA7b, with a minor effect from HSFA7a, regulates expression of
+# Our data show that HSFA7b also regulates ethylene response by controlling ethylene …
 
 ## Claim
-Collectively, our data suggest that HSFA7b, with a minor effect from HSFA7a, regulates expression of ethylene biosynthesis and signaling genes, and therefore ethylene response, at the SAM during thermomemory.
+Our data show that HSFA7b also regulates ethylene response by controlling ethylene biosynthesis.
 
-## Biological Context
-The transcription factor HSFA7b 控制 thermomemory at the shoot apical meristem by regulating ethylene 生物合成 and signaling in Arabidopsis
+## Source
+- 文献: [[the-transcription-factor-hsfa7b-controls-thermomemory]]
+- DOI: 10.1016/j.xplc.2023.100743
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[the-transcription-factor-hsfa7b-controls-thermomemory]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: ethylene
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

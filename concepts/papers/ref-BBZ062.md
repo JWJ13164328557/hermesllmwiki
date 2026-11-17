@@ -1,12 +1,18 @@
+---
 title: Clustering and classification methods for single-cell RNA-sequencing data.
 created: 2026-05-28
 type: concept
-tags: [#methods-tools, papers]
+themes: [methods-tools, single-cell-spatial-omics]
+tags: [methods-tools, papers]
 doi: 10.1093/BIB/BBZ062
 confidence: medium
-aliases: ["Clustering and classification methods for single-cell RNA-sequencing data."]
+aliases: [Clustering and classification methods for single-cell RNA-sequencing data.]
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+theme_status: mapped
+theme_basis: tag+keyword
+
+---
 
 # Clustering and classification methods for single-cell RNA-sequencing data.
 
@@ -41,18 +47,18 @@ Corresponding authors: Quan Zou, Institute of Fundamental and Frontier Sciences,
 
 ## 相关文献
 
-- [[andrographis-msi-sc-spatial]]
+- [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[arabidopsis-root-regeneration-sc-multi]]
 - [[b3--bs1tAYpaCxa0fWZ49R6kw]]
 - [[b3-Oe9xghJ07Ub3C93cYl12oQ]]
-- [[b3-T3lqrTfEAP0t0_6MU5AAxA]]
+- [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 - [[b3-dUSuUm6U9HU_uM2NcC4AWg]]
 - [[b3-l7tWWswvI2rZ5ba_4V2BsQ]]
 
 
 ## 深度提炼
 
-**物种**: Citrus spp.
+**物种**: —
 **方法**: transcriptomics (RNA-seq), single-cell RNA-seq
 **来源**: DOI:10.1093/BIB/BBZ062
 **来源类型**: PDF全文 (10.1093_BIB_BBZ062.pdf)

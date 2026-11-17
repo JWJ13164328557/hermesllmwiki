@@ -1,11 +1,16 @@
 ---
-title: MCARA: The Centriole as a Fourth Counter in Cellular Aging: A Hypothesis
+title: 'MCARA: The Centriole as a Fourth Counter in Cellular Aging: A Hypothesis'
 created: 2026-08-13
 type: concept
+themes: []
 tags: [papers]
 doi: 10.65649/jlokccxi
 confidence: moderate
 source: openalex
+status: pollution
+theme_status: out-of-scope
+theme_basis: none
+
 ---
 
 # MCARA: The Centriole as a Fourth Counter in Cellular Aging: A Hypothesis

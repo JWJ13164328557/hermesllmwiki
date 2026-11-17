@@ -1,34 +1,43 @@
 ---
-title: "For instance, although not at the single-cell resolution, proximity labelling can label proteins in "
-created: 2026-09-16
+title: "For instance, although not at the single-cell resolution, proximity labelling can label …"
+created: 2026-11-01
 type: evidence
-tags: [#single-cell-spatial, papers]
+themes: ["single-cell-spatial-omics"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["single-cell-spatial-omics", "papers"]
 source: "[[ref-nph-70220]]"
 doi: "10.1111/nph.70220"
-species: [Oryza sativa, Zea mays, Solanum lycopersicum]
-evidence_type: "expression/regulation"
+species: ["Oryza sativa", "Zea mays", "Solanum lycopersicum"]
+primary_species: "Glycine max"
+evidence_type: "omics/co-occurrence"
+claim_role: "finding"
+non_finding_kind: ""
 quality: "medium"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "medium"
+evidence_type_prior: ""
+
 ---
 
-# For instance, although not at the single-cell resolution, proximity labelling can label proteins in 
+# For instance, although not at the single-cell resolution, proximity labelling can label …
 
 ## Claim
-For instance, although not at the single-cell resolution, proximity labelling can label proteins in speciﬁc cell populations if the proximity labelling enzymes are speciﬁcally expressed in target cells (opportunities and challenges discussed in Box 1).
+For instance, although not at the single-cell resolution, proximity labelling can label proteins in specific cell populations if the proximity labelling enzymes are specifically expressed in target cells (opportunities and challenges discussed in Box 1).
 
-## Biological Context
-Exploring the untapped potential of single-cell and spatial omics in plant biolo
+## Source
+- 文献: [[ref-nph-70220]]
+- DOI: 10.1111/nph.70220
+- 主要物种: Glycine max
 
-## Supporting Evidence
-*Source: [[ref-nph-70220]]*
+## 标注信息
+- 证据类型: omics/co-occurrence
+- 论断角色: finding
+- 论断证据完备度: medium（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

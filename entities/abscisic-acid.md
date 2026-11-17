@@ -1,6 +1,6 @@
 ---
 title: "abscisic acid"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: compound
 tags: [metabolism, compound]
@@ -9,27 +9,24 @@ tags: [metabolism, compound]
 # abscisic acid
 
 ## Evidence Summary
-**Total evidence objects**: 17
+**Total evidence objects**: 42
 
 ## Evidence Table
 | Evidence | Finding |
 |----------|---------|
-| [[dpdf-10-1038-s41467-017-02782-9-f8]] | Among the DEGs shared in three or more tissues, we found several genes associate |
-| [[ms-10-1007_s00226-026-01791-6-f2]] | These include auxin, gibberellins, and cytokinins (Aloni 2021), which regulate p |
-| [[ms-10-1007_s00299-026-03946-y-f4]] | Collectively, this promoter analysis revealed that NtMADS-box family genes are e |
-| [[ms-10-1007_s00344-026-12441-3-f8]] | In drought stress, O-GlcNAcylation has been associated with abscisic acid (ABA)- |
-| [[ms-10-1007_s44372-026-00837-0-f4]] | Auxins and cytokinins and gibberellins and abscisic acid enable plants to intera |
-| [[ms-10-1007_s44378-026-00276-z-f1]] | 2.4 Production of plant growth regulators (PGRs) PGPR have the ability to produc |
-| [[ms-10-1038_s41598-026-68020-9-f2]] | Abscisic acid (ABA) plays a central role in drought response by regulating stoma |
-| [[ms-10-1186_s12870-026-09091-8-f1]] | In response to drought, especially abscisic acid (ABA) is a key regulator as it  |
-| [[ms-10-1371_journal-pgen-1012295-f2]] | Through gene expression analysis and physiological experiments, we found that Os |
-| [[ms-10-14719_pst-15098-f4]] | Hormone signalling pathways Hormone signalling pathways play a central role in r |
+| [[daily-42038458-f5]] | Abscisic acid plays a crucial role in many physiological processes and abiotic s |
+| [[daily-42126179-f8]] | In contrast, abscisic acid (ABA), although classically linked to abiotic stress, |
+| [[daily-42210059-f2]] | The over-representation of ABRE suggests that OsPRTs may function as downstream  |
+| [[daily-42213207-f1]] | We also observed upregulation of abscisic acid (ABA) responsive genes (GRDP1 (Ro |
+| [[daily-42231184-f7]] | Both gene expression patterns and hormone profiling indicate that plant hormones |
+| [[daily-42278565-f2]] | In particular, abscisic acid plays a key role in enhancing tolerance to various  |
+| [[daily-42280696-f4]] | Abscisic acid (ABA) plays a central role in regulating plant growth, development |
+| [[daily-42292990-f1]] | Abscisic acid ABA, together with other phytohormones such as jasmonic acid and e |
+| [[daily-42294914-f4]] | For example, various hemibiotrophic bacterial pathogens, including Pseudomonas s |
+| [[daily-42298041-f4]] | Phytohormones, including ethylene, jasmonic acid (JA), gibberellic acid (GA), ab |
 
 ## Biosynthetic Pathway
 -
 
 ## Regulatory Genes
--
-
-## Species Distribution
 -

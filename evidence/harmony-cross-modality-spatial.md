@@ -16,7 +16,7 @@ development_stage:
 condition:
   - standard
 support:
-  - "[[xr-10-1038-s41592-019-0619-0]]"
+  - "[[fast-sensitive-and-accurate-integration-of-single-cell-data]]"
 supporting_figures:
   - "xr-10-1038-s41592-019-0619-0#figure-5"
 experiments:
@@ -26,6 +26,19 @@ experiments:
 contradictions: []
 contradiction_type: null
 updated: "2026-05-29"
+doi: "10.1038/s41592-019-0619-0"
+evidence_type: "omics/co-occurrence"
+evidence_type_basis: "rule-v9-20261107"
+evidence_type_confidence: "medium"
+quality: "medium"
+quality_basis: "rule-v9-20261107"
+tags: [single-cell-spatial-omics]
+theme_status: mapped
+theme_basis: keyword
+claim_role: "finding"
+non_finding_kind: ""
+evidence_type_prior: ""
+
 ---
 
 # Harmony Integrates scRNA-seq With Spatial Transcriptomics Data
@@ -42,7 +55,7 @@ Spatial transcriptomics methods (Slide-seq, Visium) provide gene expression with
 
 | Paper | Method | Key Finding | Scale |
 |-------|--------|-------------|-------|
-| [[xr-10-1038-s41592-019-0619-0]] | Harmony cross-modality | scRNA-seq and spatial transcriptomics data integrated; cell-type annotations transferred to spatial coordinates | Multiple tissue types |
+| [[fast-sensitive-and-accurate-integration-of-single-cell-data]] | Harmony cross-modality | scRNA-seq and spatial transcriptomics data integrated; cell-type annotations transferred to spatial coordinates | Multiple tissue types |
 
 ## Evidence Quality
 

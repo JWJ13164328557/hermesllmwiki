@@ -1,16 +1,26 @@
-title: The molecular and hormonal regulation of cotton fiber development: from single-c
+---
+
+title: 'The molecular and hormonal regulation of cotton fiber development: from single-cell initiation to secondary wall thickening'
 created: 2026-05-28
 type: concept
-tags: [#hormone-signaling, papers]
+themes: [hormone-signaling]
+tags:
+- hormone-signaling
+- papers
 doi: 10.1186/s42397-026-00264-2
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 56 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["棉纤维发育的分子和激素调节：从单c"]
-aliases_extra: ["The molecular and hormonal regulation of cotton fiber development: from single-c"]
+aliases_extra:
+- "棉纤维发育的分子和激素调节：从单c"
+- "The molecular and hormonal regulation of cotton fiber development: from single-c"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: 'The molecular and hormonal regulation of cotton fiber development: from single-c'
+theme_status: mapped
+theme_basis: tag+keyword
 
-# The molecular and hormonal regulation of cotton fiber development: from single-c
+---
+
+# The molecular and hormonal regulation of cotton fiber development: from single-cell initiation to secondary wall thickening
 
 
 
@@ -20,8 +30,8 @@ updated: "2026-05-29"
 **作者**: Zhixin Liu, Aizhi Qin, Jiani Long, Xiaoli Fan, Mengyu Liao, Baozhen Wang, Yinpeng Zhang, Wenxuan Kang
 
 ## 摘要
-<jats:title>Abstract</jats:title>
-                  <jats:p>Cotton fiber provides an exceptional model system for studying plant cell differentiation, elongation, and cell wall biogenesis. Recent advances in genomics, single-cell transcriptomics, genome editing, and multi-omics approaches have dramatically expanded our understanding of the molecular networks governing cotton fiber development. This review synthesizes current knowledge on the transcriptional, hormonal, epigenetic, and metabolic regulation of fiber initiation, elongation, and secondary cell wall (SCW) formation. We highlight the central roles of key transcription factors families—including MYB, HD-ZIP, bHLH, and NAC—in coordinating fiber cell fate determination and morphogenesis. We further discuss how phytohormones such as auxin, gibberellins, brassinosteroids, and strigolactones interact to regulate fiber elongation and SCW deposition. Emerging evidence also indicates that epigenetic mechanisms, including chromatin accessibility and RNA methylation, contribute to the fine-tuning of stage-specific gene expression. Furthermore, we explore how cytoskeletal dynamics and lipid metabolism contribute to polarized cell growth. Finally, we assess the potential of CRISPR-Cas9-mediated gene editing for cotton fiber improvement and propose future research directions aimed at bridging knowledge gaps between molecular mechanisms and agronomic traits. Despite these advances, several knowledge gaps remain, including the precise integration of hormonal hierarchies, the functional validation of predicted regulatory modules in polyploid cotton, and the translational feasibility of gene editing for fiber quality improvement under field conditions.</jats:p>
+Abstract
+                  Cotton fiber provides an exceptional model system for studying plant cell differentiation, elongation, and cell wall biogenesis. Recent advances in genomics, single-cell transcriptomics, genome editing, and multi-omics approaches have dramatically expanded our understanding of the molecular networks governing cotton fiber development. This review synthesizes current knowledge on the transcriptional, hormonal, epigenetic, and metabolic regulation of fiber initiation, elongation, and secondary cell wall (SCW) formation. We highlight the central roles of key transcription factors families—including MYB, HD-ZIP, bHLH, and NAC—in coordinating fiber cell fate determination and morphogenesis. We further discuss how phytohormones such as auxin, gibberellins, brassinosteroids, and strigolactones interact to regulate fiber elongation and SCW deposition. Emerging evidence also indicates that epigenetic mechanisms, including chromatin accessibility and RNA methylation, contribute to the fine-tuning of stage-specific gene expression. Furthermore, we explore how cytoskeletal dynamics and lipid metabolism contribute to polarized cell growth. Finally, we assess the potential of CRISPR-Cas9-mediated gene editing for cotton fiber improvement and propose future research directions aimed at bridging knowledge gaps between molecular mechanisms and agronomic traits. Despite these advances, several knowledge gaps remain, including the precise integration of hormonal hierarchies, the functional validation of predicted regulatory modules in polyploid cotton, and the translational feasibility of gene editing for fiber quality improvement under field conditions.
 
 
 
@@ -31,17 +41,17 @@ updated: "2026-05-29"
 ## 相关文献
 
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
 - [[b6-O0Kt-jSykCafIUhbNCEB3g]]
 - [[alfalfa-cadmium-sc-multiomics]]
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
+- [[poplar-xylem-sc-spatial-gb]]
 - [[b3-wjlHUzpHYhRHyfMVnBq8Sg]]
 
 
 ## 深度提炼
 
-**物种**: Gossypium hirsutum, Ficus carica
+**物种**: Gossypium hirsutum
 **方法**: transcriptomics (RNA-seq), multi-omics integration, single-cell RNA-seq, spatial transcriptomics, ATAC-seq, CRISPR/Cas9, RNAi/VIGS, overexpression
 **来源**: DOI:10.1186/s42397-026-00264-2
 **来源类型**: PDF全文 (10.1186_s42397-026-00264-2.pdf)

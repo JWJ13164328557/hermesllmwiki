@@ -1,34 +1,43 @@
 ---
-title: "As two key H2S assimilation pathways, notably, the levels of the relative substrates (i.e., O-acetyl"
-created: 2026-08-25
+title: "Among the identified terpenoids, notably, sesquiterpenes showed the highest numbers and …"
+created: 2026-11-02
 type: evidence
-tags: [#metabolism-np, papers]
+themes: ["metabolism-natural-products"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[integration-of-transcriptome-volatile-and-non-volatile]]"
 doi: "10.1016/j.foodchem.2023.137788"
-species: [Hevea brasiliensis, Ficus carica]
-evidence_type: "expression/regulation"
-quality: "medium"
+species: ["Hevea brasiliensis", "Ficus carica"]
+primary_species: "Ficus carica"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# As two key H2S assimilation pathways, notably, the levels of the relative substrates (i.e., O-acetyl
+# Among the identified terpenoids, notably, sesquiterpenes showed the highest numbers and …
 
 ## Claim
-As two key H2S assimilation pathways, notably, the levels of the relative substrates (i.e., O-acetyl homoserine, O-acetyl serine) catalyzed by these two en­ zymes also exhibited the obvious differences in TSM and TSB.
+Among the identified terpenoids, notably, sesquiterpenes showed the highest numbers and the relative abundances in TSB and TSM (Table 1).
 
-## Biological Context
-整合 of transcriptome, volatile and non-volatile metabolite 图谱 揭示 characteristic aroma formation in Toona sinensis
+## Source
+- 文献: [[integration-of-transcriptome-volatile-and-non-volatile]]
+- DOI: 10.1016/j.foodchem.2023.137788
+- 主要物种: Ficus carica
 
-## Supporting Evidence
-*Source: [[integration-of-transcriptome-volatile-and-non-volatile]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: expression/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

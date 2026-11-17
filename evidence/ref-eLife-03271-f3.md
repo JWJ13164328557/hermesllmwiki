@@ -1,34 +1,43 @@
 ---
-title: "As with FAMA targets, RBR is required for repression of SCR target genes and can associate with thei"
-created: 2026-09-16
+title: "As with FAMA targets, RBR is required for repression of SCR target genes and can …"
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-eLife-03271]]"
 doi: "10.7554/eLife.03271"
-species: [Arabidopsis thaliana, Nicotiana tabacum, Citrus spp.]
-evidence_type: "DNA binding/regulation"
-quality: "medium"
+species: ["Arabidopsis thaliana", "Nicotiana tabacum"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "expression/regulation"
+claim_role: "finding"
+non_finding_kind: ""
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
 genes: []
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# As with FAMA targets, RBR is required for repression of SCR target genes and can associate with thei
+# As with FAMA targets, RBR is required for repression of SCR target genes and can …
 
 ## Claim
 As with FAMA targets, RBR is required for repression of SCR target genes and can associate with their promoter Figure 3.
 
-## Biological Context
-Irreversible fate commitment in the Arabidopsis stomatal lineage requires a FAMA
+## Source
+- 文献: [[ref-eLife-03271]]
+- DOI: 10.7554/eLife.03271
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-eLife-03271]]*
+## 标注信息
+- 证据类型: expression/regulation
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: （无）
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: DNA binding/regulation
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

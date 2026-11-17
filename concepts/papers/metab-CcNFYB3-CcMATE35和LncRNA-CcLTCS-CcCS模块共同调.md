@@ -1,12 +1,21 @@
-title: "CcNFYB3-CcMATE35和LncRNA CcLTCS-CcCS模块共同调节柠檬酸的外排和合成，以提高鸽豆的铝耐受性"
-journal: "unknown"
-year: ""
+---
+title: CcNFYB3-CcMATE35和LncRNA CcLTCS-CcCS模块共同调节柠檬酸的外排和合成，以提高鸽豆的铝耐受性
+journal: unknown
+year: ''
 type: paper
-tags: [#epigenetics-gr, papers]
+themes: []
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: unclassified
+theme_basis: insufficient-metadata
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

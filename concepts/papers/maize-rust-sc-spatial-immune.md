@@ -1,17 +1,25 @@
-title: Laminar patterning transcription factors orchestrate spatial metabolite partitio
+---
+
+title: Laminar patterning transcription factors orchestrate spatial metabolite partitioning in Capsicum fruit
 created: 2026-05-28
 type: concept
-tags: [#metabolism-np, papers]
+themes: [metabolism-natural-products]
+tags:
+- metabolism-np
+- papers
 doi: 10.1038/s41477-026-02293-w
 confidence: medium
-aliases: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  07 HOURS 32 MINUTES 49 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT AVAILABLE IN  08 HOURS 44 MINUTES 38 SECONDS VISIT HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"]
-aliases_extra: ["层状图案化转录因子协调空间代谢产物部分"]
-aliases_extra: ["Laminar patterning transcription factors orchestrate spatial metabolite partitio"]
+aliases_extra:
+- "层状图案化转录因子协调空间代谢产物部分"
 status: draft
-updated: "2026-05-29"
+updated: '2026-05-29'
+title_fixed_from: Laminar patterning transcription factors orchestrate spatial metabolite partitio
+theme_status: mapped
+theme_basis: tag+keyword
 
-# Laminar patterning transcription factors orchestrate spatial metabolite partitio
+---
+
+# Laminar patterning transcription factors orchestrate spatial metabolite partitioning in Capsicum fruit
 
 
 
@@ -32,16 +40,20 @@ Chili pepper (Capsicum annuum L.) produces specialized metabolites, notably the 
 
 - [[b3-BGiBJfPQalD0XaTAW6WgjQ]]
 - [[b4-8J0XFUMWJe2u7rSw83Jx2w]]
-- [[b3-w-DzDSMZddBs1e1p3-Ak0A]]
+- [[poplar-xylem-sc-spatial-gb]]
 - [[b4-4h7J0H3OPFzzltwSkI6mtg]]
-- [[b4-_igXoh0eWZRAu9l6Lg-fJg]]
-- [[b5-5zHSnJtV5ZteWrZhr7-Zfg]]
+- [[b4-4h7J0H3OPFzzltwSkI6mtg]]
+- [[ref-j-cell-2024-10-050]]
 - [[b5-EshzCwiRQQAcBvprSyR5VA]]
 
 
 ## 深度提炼
 
+**主要物种**: Capsicum annuum
+**物种**: Capsicum annuum, Populus spp., Allium spp., Arabidopsis thaliana, Oryza sativa
+**方法**: transcriptomics (RNA-seq), single-cell RNA-seq
+**来源**: DOI:10.1038/s41477-026-02293-w
+**来源类型**: PDF全文 (s41477-026-02293-w.pdf)
+
 ### 核心发现
-
-
-**全文来源**: PubMed摘要
+1. Notably, photosynthetic, stress-responsive and meristematic cells in both palisade and spongy mesophylls were interspersed rather than forming continuous, distinct spatial layers at the current spatial resolution (Fig.

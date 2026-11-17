@@ -1,12 +1,21 @@
-title: "质谱成像和单细胞转录谱分析揭示了红豆杉叶片中生物活性成分和生物合成的组织特异性调控"
-journal: "unknown"
-year: ""
+---
+title: 质谱成像和单细胞转录谱分析揭示了红豆杉叶片中生物活性成分和生物合成的组织特异性调控
+journal: unknown
+year: ''
 type: paper
-tags: [#single-cell-spatial, papers]
+themes: [metabolism-natural-products, single-cell-spatial-omics]
+tags: [papers]
 species: [plant]
 status: frontmatter-enhanced
-curation_depth: "基础整理"
+curation_depth: 基础整理
 updated: 2026-05-30
+theme_status: mapped
+theme_basis: keyword
+doi_status: missing
+evidence_eligible: false
+eligible_reason: no-doi
+citable: false
+---
 
 ## 摘要
 

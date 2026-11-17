@@ -1,34 +1,43 @@
 ---
-title: "2c) that appeared sufﬁcient for interaction, because chimeric protein fusions of this 11-amino-acid "
-created: 2026-09-16
+title: "These data suggest an intimate relationship between cell death and ERF115 activity."
+created: 2026-11-01
 type: evidence
-tags: [#developmental-biology, papers]
+themes: ["developmental-biology"]
+theme_status: mapped
+theme_basis: inherit-source-20261103
+tags: ["papers"]
 source: "[[ref-nplants-2016-165]]"
 doi: "10.1038/nplants.2016.165"
-species: [Arabidopsis thaliana, Oryza sativa, Ficus carica]
-evidence_type: "protein interaction"
-quality: "medium"
-genes: []
+species: ["Arabidopsis thaliana", "Oryza sativa"]
+primary_species: "Arabidopsis thaliana"
+evidence_type: "descriptive/observational"
+claim_role: "finding"
+non_finding_kind: "result"
+quality: "low"
+quality_basis: "rule-v9-20261107"
+evidence_type_basis: "rule-v9-20261107"
+genes: ["ERF115"]
 compounds: []
+evidence_type_confidence: "low"
+evidence_type_prior: ""
+
 ---
 
-# 2c) that appeared sufﬁcient for interaction, because chimeric protein fusions of this 11-amino-acid 
+# These data suggest an intimate relationship between cell death and ERF115 activity.
 
 ## Claim
-2c) that appeared sufﬁcient for interaction, because chimeric protein fusions of this 11-amino-acid domain with the distantly related ERF115 family members, ERF2 and ERF6, granted them the ability to interact with SCL21 (Fig.
+These data suggest an intimate relationship between cell death and ERF115 activity.
 
-## Biological Context
-The heterodimeric transcription factor complex ERF115-PAT1 grants regeneration c
+## Source
+- 文献: [[ref-nplants-2016-165]]
+- DOI: 10.1038/nplants.2016.165
+- 主要物种: Arabidopsis thaliana
 
-## Supporting Evidence
-*Source: [[ref-nplants-2016-165]]*
+## 标注信息
+- 证据类型: descriptive/observational
+- 论断角色: finding
+- 论断证据完备度: low（该条论断的文本完备度，不代表研究质量）
+- 自动标注基因: ERF115
+- 自动标注化合物: （无）
 
-## Evidence Quality
-**Type**: protein interaction
-**Level**: medium
-
-## Contradictory Evidence
-_None identified_
-
-## Open Questions
--
+> 说明: 基因/化合物/物种均为正则自动标注，可能漏标或误标；引用前请回原文核对。

@@ -1,6 +1,6 @@
 ---
 title: "PpERF9"
-created: 2026-09-16
+created: 2026-11-01
 type: entity
 entity_type: gene
 tags: [metabolism, gene]

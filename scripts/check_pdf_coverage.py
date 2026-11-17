@@ -15,8 +15,9 @@
   python3 scripts/check_pdf_coverage.py [--out missing_pdfs.csv] [--with-text]
 """
 import os, re, sys, csv, json, glob, argparse
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+from kb_paths import BASE, CONCEPTS_DIR  # 统一根目录解析: KB_BASE/APP_DIR 环境变量优先
 
 def ms_to_doi(fn_base):
     """解析 ms- 命名 PDF（ms-10-1002_advs-77339.pdf）-> DOI 10.1002/advs.77339.
@@ -44,7 +45,12 @@ def collect_pdf_records():
             # DOI in filename
             m = re.search(r'(10[._]\d{4,}[._/][A-Za-z0-9_.\-]+)', f)
             if m:
-                rec['doi'] = m.group(1).replace('_', '/')
+                # 2026-11-03 修复：正则会把文件名末尾的 ".pdf" 吃进 DOI，
+                # 于是 10.1002/adma.73441.pdf 永远匹配不到页面
+                # 10.1002/adma.73441，PDF 覆盖率被系统性低估。
+                d = m.group(1).replace('_', '/')
+                d = re.sub(r'\.pdf$', '', d, flags=re.I).rstrip('.-')
+                rec['doi'] = d
             # ms- 命名回退 (2026-08-24): ms-10-1002_advs-77339.pdf
             if not rec['doi'] and f.startswith('ms-'):
                 rec['doi'] = ms_to_doi(f)
@@ -88,7 +94,7 @@ def collect_concepts():
     """概念页 -> {doi, title, source, file}"""
     out = []
     for fp in sorted(glob.glob(f'{BASE}/concepts/papers/*.md')) + \
-             sorted(glob.glob(f'{BASE}/concepts/daily-*.md')):
+             sorted(glob.glob(os.path.join(CONCEPTS_DIR, 'daily-*.md'))):
         try:
             c = open(fp, encoding='utf-8', errors='ignore').read(4000)
         except Exception:

@@ -1,14 +1,27 @@
-title: 10.1146/annurev-arplant-081720
+---
+title: "Advances and Opportunities in Single-Cell Transcriptomics for Plant Research"
 created: 2026-05-31
 type: concept
-tags: [#single-cell-spatial, papers]
-pmid: 10.1146_annurev-arplant-081720
-doi: 10.1146/annurev-arplant-081720
+themes: [epigenetics-gene-regulation, single-cell-spatial-omics]
+tags: [single-cell-spatial-omics, papers]
+pmid: ''
+doi: "10.1146/annurev-arplant-081720-010120"
 confidence: medium
 status: imported
 source: selenium_batch
+title_quality: repaired
+needs_review: true
+review_note: >-
+  DOI 缺 Annual Reviews 文章号后缀，标题为占位符
+journal: "Annual Review of Plant Biology"
+year: 2021
+title_source: verified:pdf-filename+crossref
+theme_status: mapped
+theme_basis: tag+keyword
 
-# 10.1146/annurev-arplant-081720
+---
+
+# Advances and Opportunities in Single-Cell Transcriptomics for Plant Research
 
 ## 论文信息
 - **期刊**: Unknown ()
