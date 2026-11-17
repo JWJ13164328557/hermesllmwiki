@@ -128,7 +128,7 @@ class Context:
 
 
 # ────────────────────────────── 子进程 ──────────────────────────────
-def run_cmd(ctx, key, cmd, timeout, cwd=BASE, check=True):
+def run_cmd(ctx, key, cmd, timeout, cwd=BASE, check=True, env=None):
     """运行子进程；日志完整落盘，失败抛出 StageFailure。"""
     if isinstance(cmd, (list, tuple)):
         pretty = ' '.join(cmd)
@@ -143,7 +143,7 @@ def run_cmd(ctx, key, cmd, timeout, cwd=BASE, check=True):
         proc = subprocess.run(
             cmd, shell=shell, cwd=cwd, timeout=timeout,
             stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-            text=True, errors='replace',
+            text=True, errors='replace', env=env,
         )
     except subprocess.TimeoutExpired as exc:
         tail = (exc.stdout or '')
@@ -1001,10 +1001,87 @@ def git_commit(ctx):
             ctx.log.warn('    ' + ln)
 
 
+def _proxy_env():
+    """返回注入了 HTTP(S) 代理的环境变量副本。
+
+    背景（2026-11-17 实测）：本机 github.com:443 直连不可达，需经 Windows 侧
+    Clash 混合端口 7897。WSL 的默认网关 IP 每次重启都会变，因此这里每次动态
+    解析，绝不把代理写进 git config（否则换网关即失效，且污染仓库配置）。
+    """
+    env = dict(os.environ)
+    if env.get('HTTPS_PROXY') or env.get('https_proxy'):
+        return env
+    gw = ''
+    try:
+        route = subprocess.run(['ip', 'route'], capture_output=True,
+                               text=True, timeout=10).stdout
+    except Exception:
+        route = ''
+    for line in (route or '').splitlines():
+        if line.startswith('default'):
+            parts = line.split()
+            if len(parts) > 2:
+                gw = parts[2]
+                break
+    if gw:
+        proxy = 'http://%s:7897' % gw
+        for k in ('HTTPS_PROXY', 'HTTP_PROXY', 'ALL_PROXY',
+                  'https_proxy', 'http_proxy', 'all_proxy'):
+            env[k] = proxy
+    return env
+
+
+def _report_append_notice(ctx, text):
+    """把收尾阶段（git_push）的问题追加到日报末尾。
+
+    日报正文由 phase9_5_selfcheck 生成，早于 git_commit/git_push，因此推送失败
+    无法通过 ctx.degrade 进入当天日报。这里直接追加，保证失败在日报里可见，
+    而不是只躺在 logs/pipeline/ 里。
+    """
+    path = os.path.join(BASE, 'daily_report.md')
+    marker = '<!-- postrun-notice -->'
+    try:
+        with open(path, encoding='utf-8', errors='ignore') as fh:
+            body = fh.read()
+    except OSError:
+        return
+    if marker in body:
+        body = body.split(marker)[0].rstrip() + '\n'
+    stamp = datetime.now().strftime('%Y-%m-%d %H:%M')
+    body += '\n%s\n## ⚠ 收尾阶段未完成（%s）\n\n%s\n' % (marker, stamp, text)
+    tmp = path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8', newline='\n') as fh:
+        fh.write(body)
+    os.replace(tmp, path)
+
+
 def git_push(ctx):
     if not ctx.stats.get('git_committed'):
         raise SkipStage('本次未产生提交')
-    run_cmd(ctx, 'git_push', ['git', 'push'], timeout=600, check=False)
+    env = _proxy_env()
+    if env.get('HTTPS_PROXY'):
+        ctx.log.info('  git push 使用代理 %s' % env['HTTPS_PROXY'])
+    rc = run_cmd(ctx, 'git_push', ['git', 'push'], timeout=600,
+                 check=False, env=env)
+    # 2026-11-17 修复「假绿」：此前 check=False 且不看返回码，推送失败
+    # （日志里同时出现 "RPC failed; curl 28" 与 "Everything up-to-date"）
+    # 仍被记成 ok，导致「每天提交、实际没推上去」长期无人发现。
+    head = subprocess.run(['git', 'rev-parse', 'HEAD'], cwd=BASE,
+                          capture_output=True, text=True).stdout.strip()
+    remote = subprocess.run(['git', 'rev-parse', 'origin/main'], cwd=BASE,
+                            capture_output=True, text=True).stdout.strip()
+    pushed = (rc == 0 and bool(head) and head == remote)
+    ctx.stats['git_push_rc'] = rc
+    ctx.stats['git_pushed'] = pushed
+    if not pushed:
+        detail = ('git push 未把当日提交送上远端：exit=%d，HEAD=%s，origin/main=%s。'
+                  '当日知识未进入 GitHub 版本历史，违反可回滚前提。'
+                  '日志目录：%s'
+                  % (rc, head[:10] or '?', remote[:10] or '?', ctx.log.run_dir))
+        ctx.degrade(detail)
+        _report_append_notice(ctx, detail)
+        raise StageFailure('git push 失败（exit=%d）' % rc)
+    ctx.log.info('  git push 已确认：HEAD == origin/main (%s)' % head[:10])
 
 
 class SkipStage(Exception):
@@ -1117,6 +1194,20 @@ def preflight(ctx, stages, args):
         import species_registry  # noqa: F401
     except Exception as exc:
         problems.append('防污染模块导入失败: %s' % exc)
+    # 2026-11-17：raw/papers/all_pdfs 已改为指向外置归档（H:\hermes_archive）
+    # 的目录联接，用于给 99% 占用的 G: 腾空间。移动硬盘未插上时必须显式降级，
+    # 不能让「PDF 目录不存在」被静默当成「今天没有 PDF」，也不能直接崩。
+    try:
+        n_pdf = len([n for n in os.listdir(PDF_DIR) if n.lower().endswith('.pdf')])
+    except OSError as exc:
+        n_pdf = -1
+        warnings.append('PDF 归档目录不可达（%s）：%s —— 全文/深度提炼阶段将无素材，'
+                        '若为外置归档请确认已插上并挂载' % (PDF_DIR, exc))
+    else:
+        if n_pdf == 0:
+            warnings.append('PDF 归档目录为空：%s' % PDF_DIR)
+        else:
+            ctx.log.info('PDF 归档目录可达：%d 个 PDF（%s）' % (n_pdf, PDF_DIR))
     for item in warnings:
         ctx.log.warn('预检: ' + item)
     if problems:
@@ -1129,8 +1220,14 @@ def preflight(ctx, stages, args):
 
 def ensure_dirs():
     for path in (CONCEPTS_DIR, EVIDENCE_DIR, ENTITIES_DIR, RELATIONSHIPS_DIR,
-                 SYNTHESIS_DIR, HYPOTHESES_DIR, PROGRAMS_DIR, PDF_DIR):
+                 SYNTHESIS_DIR, HYPOTHESES_DIR, PROGRAMS_DIR):
         os.makedirs(path, exist_ok=True)
+    try:
+        os.makedirs(PDF_DIR, exist_ok=True)
+    except OSError:
+        # PDF_DIR 可能是指向外置归档的 junction；归档未挂载时不要在这里炸掉，
+        # 由 preflight 记 WARNING、由阶段自身降级。
+        pass
 
 
 # ────────────────────────────── 主流程 ──────────────────────────────
@@ -1384,6 +1481,12 @@ def main(argv=None):
     log.info('日志目录: %s' % run_dir)
     log.close()
     if hard:
+        return 1
+    # 2026-11-17：推送失败必须让外层（Windows 计划任务 / cron）看到非 0，
+    # 否则「本地有提交、远端没内容」会和成功无法区分。注意这里不受 --strict
+    # 影响：版本化失败是治理级问题，不是质量降级。
+    if ctx.stats.get('git_pushed') is False:
+        log.error('推送未完成（exit=%s）：当日提交未进入远端' % ctx.stats.get('git_push_rc'))
         return 1
     if args.strict and degraded:
         return 1
