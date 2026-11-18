@@ -1,6 +1,6 @@
 ---
 title: "Gene Co-occurrence Network (Metabolism)"
-created: 2026-11-17
+created: 2026-11-18
 type: relationship
 category: metabolism-gene-gene
 tags: [metabolism, relationships, network]
@@ -52,5 +52,5 @@ Genes frequently mentioned together in the same evidence objects.
 
 ## Notes
 - 共现不是调控，也不等于直接互作或因果
-- 生成范围：18116 个代谢主题证据对象（2026-11-17 重算）
+- 生成范围：18116 个代谢主题证据对象（2026-11-18 重算）
 - 仅用于候选排序与人工核查

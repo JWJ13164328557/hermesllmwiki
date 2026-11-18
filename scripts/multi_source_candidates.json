@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -141,6 +141,17 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1016/j.annonc.2026.08.3876",
+      "title": "3623P A multi-organ single-nucleus atlas of metastatic clear cell renal cell carcinoma identifies MITF-driven regulatory programs",
+      "journal": "Annals of Oncology",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Y. Qu"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1016/j.prmcm.2026.100887",
       "title": "From holism to single-cell resolution: Applications and advances of scRNA-seq in pharmacological research of TCM and compound formulas",
       "journal": "Pharmacological Research - Modern Chinese Medicine",
@@ -150,6 +161,33 @@
         "Bozhi Zhang",
         "Ruilin Fang",
         "Kaifeng Liao"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1038/s41467-026-78924-9",
+      "title": "EpiPack: A computational framework for reference mapping and out-of-reference detection for single-cell ATAC-seq data with heterogeneous peak features",
+      "journal": "Nature Communications",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Yuqi Cheng",
+        "Xiuwei Zhang"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.3389/fmed.2026.1973671",
+      "title": "Single-cell RNA-seq defines vascular endothelial heterogeneity and state-associated putative pathogenic programs in active versus inactive keloids",
+      "journal": "Frontiers in Medicine",
+      "year": "",
+      "abstract": "\n                    Background\n                    Keloids are benign fibroproliferative skin lesions with pronounced clinical heterogeneity. Pruritic active keloids (AK) manifest with erythema, pruritus and high recurrence risk, whereas non-pruritic inactive keloids (IAK) present as indurated, stable lesions. Although vascular alterations are clinically correlated with keloid disease activity, the underlying cellular mechanisms, particularly endothelial cell heterogeneity and pathogenic programs associated with each activity state, remain largely uncharacterized.\n                  \n                  \n                    Objective\n                    This study aimed to delineate the cellular and molecular mechanisms driving the phenotypic divergence between active and inactive keloids from the perspective of vascular remodeling and angiogenesis.\n                  \n                  \n                    Methods\n                    Single-cell RNA sequencing profiles from three active and three inactive keloids, together with four mature-scar and three normal-skin samples, were integrated. Key findings were validated at the protein level via multiplex immunofluorescence staining.\n                  \n                  \n                    Results\n                    In total, 8 vascular endothelial cell (VEC) subpopulations were identified, including two candidate pathological subsets: pro-fibrotic POSTN+P cells and angiogenic tip cells. Pseudotime and tip/stalk ratio analyses confirmed state-associated differentiation preferences. VECs in AKs preferentially differentiated into PGF/PXDN-enriched tip cells to sustain active angiogenesis and inflammatory crosstalk. Conversely, VECs in IAKs predominantly differentiated into POSTN+P cells and small arterial VECs, reinforcing fibrosis and vascular stability. Cross-lineage pseudotime analysis further suggested a possible endothelial-to-mesenchymal transition (EndMT)-like transcriptional continuum, in which VWF+ fibroblasts co-expressing endothelial and stromal programs were enriched in IAKs and supported at the protein level by immunofluorescence; because cross-sectional scRNA-seq cannot establish lineage direction or causality, this putative VEC-to-fibroblast axis is presented as a hypothesis that requires lineage tracing and functional validation. CellChat analysis revealed contrasting intercellular communication landscapes: AKs were characterized by immune-driven signaling (CD40, IL-1, CXCL12-CXCR4), while IAKs relied on matrix-mediated crosstalk centered on COL1A1-ITGA2/ITGB1 interactions.\n                  \n                  \n                    Conclusions\n                    This study maps the single-cell transcriptomic landscape of the keloid vasculature and identifies state-associated endothelial and signaling programs in active versus inactive keloids, nominating hypothesis-generating candidate targets and biomarkers that require functional validation before any therapeutic application.\n      ",
+      "authors": [
+        "Yuchen Tang",
+        "Yuanqi Ma",
+        "Mengyuan Jiang",
+        "Zexi Wang",
+        "Jie Luo"
       ]
     },
     {
@@ -170,7 +208,7 @@
     {
       "source": "crossref",
       "doi": "10.1093/g3journal/jkag309",
-      "title": "FlyAnatoView: Visualization of\n                    <i>Drosophila</i>\n                    Single-cell RNA-seq Datasets on Anatomographs",
+      "title": "FlyAnatoView: visualization of\n                    <i>Drosophila</i>\n                    single-cell RNA-seq datasets on anatomographs",
       "journal": "G3: Genes, Genomes, Genetics",
       "year": "",
       "abstract": "Abstract\n                  Single-cell RNA sequencing (scRNA-seq) is a powerful approach for characterizing gene expression at single-cell resolution and identifying distinct cell populations within complex tissues. However, tissue dissociation disrupts the spatial relationships among cells, making it difficult to determine their original anatomical locations and interpret gene expression patterns in the context of tissue organization. To address this limitation, we developed FlyAnatoView (https://www.flyrnai.org/tools/rna_seq_base/web/svg_files/), a resource that projects scRNA-seq data onto anatomical diagrams of Drosophila melanogaster. By integrating gene expression data with anatomical representations, FlyAnatoView helps restore spatial context and enables users to explore expression patterns across tissues, organs, and cell types. This resource provides an intuitive way to connect transcriptomic profiles with anatomical structures, facilitating the interpretation and exploration of scRNA-seq datasets.",
@@ -254,51 +292,6 @@
         "Taotao Sheng",
         "Ming Hui Lee",
         "Siti Aishah Binte Abdul Ghani"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1016/j.micpath.2026.108768",
-      "title": "Single-nucleus transcriptomic atlas of the goat lung characterizes cell types associated with Pasteurella multocida infection",
-      "journal": "Microbial Pathogenesis",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Qi An",
-        "Lianjie Liao",
-        "Haoju Pan",
-        "Hong Li",
-        "Zhenxing Zhang"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1016/j.exer.2026.111234",
-      "title": "Single-cell RNA-seq analysis revealed that BHLHE40 and its binding protein THBS1 are involved in diabetic corneal epitheliopathy",
-      "journal": "Experimental Eye Research",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Shirui Dai",
-        "Wentao Han",
-        "Shaohua Liu",
-        "Yanjing Su",
-        "Jiarong Luo"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1016/j.cmpb.2026.109563",
-      "title": "A contextual activity score (CAS) for inferring ADAR-associated transcriptional activity across RNA-seq, single-cell, and spatial transcriptomics",
-      "journal": "Computer Methods and Programs in Biomedicine",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Francesca A.L. Marino",
-        "Stefano Calza",
-        "Alessandro Barbon",
-        "Paolo Martini",
-        "Enrica Calura"
       ]
     },
     {
@@ -887,6 +880,19 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1007/s10725-026-01528-2",
+      "title": "Effect of shading levels on growth changes in rice at different growth stages",
+      "journal": "Plant Growth Regulation",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Min-Ji Lee",
+        "Nam-Jin Chung",
+        "Woon-Ha Hwang"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.3389/fpls.2026.1990461",
       "title": "Spatiotemporal dynamics of reserve metabolism and vascular development during soybean seed germination",
       "journal": "Frontiers in Plant Science",
@@ -932,21 +938,6 @@
     },
     {
       "source": "crossref",
-      "doi": "10.1186/s13007-026-01613-7",
-      "title": "An efficient visualized identification system for characterizing alkaline response genes in soybean",
-      "journal": "Plant Methods",
-      "year": "",
-      "abstract": "",
-      "authors": [
-        "Yingxue Cao",
-        "Hongwei Li",
-        "Siyu Huang",
-        "Yang Zhao",
-        "Yang Li"
-      ]
-    },
-    {
-      "source": "crossref",
       "doi": "10.1016/j.genrep.2026.102610",
       "title": "Comprehensive genome-wide in silico analysis of chitinase genes family in potato (Solanum tuberosum L.) in response to chitin induction and drought stress",
       "journal": "Gene Reports",
@@ -957,6 +948,21 @@
         "Farhad Nazarian-Firouzabadi",
         "Seyed Sajad Sohrabi",
         "Ali Moghadam"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.36347/sajb.2026.v14i11.002",
+      "title": "Nano-Biochar Mediated Regulation of Antioxidant Defense System and Oxidative Stress Responses in Maize (Zea mays L.) Under Drought Stress Conditions",
+      "journal": "Scholars Academic Journal of Biosciences",
+      "year": "2026",
+      "abstract": "Drought stress promotes the overproduction of reactive oxygen species (ROS), causing oxidative damage that limits maize growth and productivity. This study evaluated the effects of foliar-applied nano-biochar and sulphur on oxidative stress and antioxidant defense in maize (Zea mays L. cv. FH-1046) under drought. A pot experiment was conducted in a completely randomized design with two moisture regimes (control, 75–80% field capacity; drought, 35–40% field capacity) and three foliar treatments (distilled water, 3% nano-biochar, 12 mg L⁻¹ sulphur), with five replicates. Foliar sprays were applied 50 days after emergence, and leaf biochemical traits were measured 15 days later. Drought increased hydrogen peroxide (H₂O₂) content by 24% on average (P &lt; 0.001), but the increase was confined to sulphur-treated plants (765.9 vs. 491.3 nmol g⁻¹ FW under well-watered conditions). Sulphur increased superoxide dismutase activity by 32% relative to the water spray, whereas nano-biochar increased peroxidase activity under drought by 83%. Drought induced a 4.6-fold increase in ascorbate peroxidase activity in unsprayed plants, but not in plants sprayed with nano-biochar or sulphur, and both sprays lowered total phenolics, mainly under well-watered conditions. Malondialdehyde, ascorbic acid, soluble sugars and free amino acids were not significantly affected. Neither spray reduced H₂O₂ or malondialdehyde, so these results do not demonstrate improved oxidative status or drought tolerance. The effects of foliar nano-biochar and sulphur on antioxidant responses were trait-specific and depended on water availability, and their consequences for growth and yield require further testing.",
+      "authors": [
+        "Zain ul Abedin",
+        "Rabiya Bashir",
+        "Hira Ejaz",
+        "Muhammad Usama",
+        "Aqib Farid Albina"
       ]
     },
     {
@@ -979,6 +985,21 @@
         "Laxmi Prasad Bhardwaj",
         "Devendra Kumar Sahu",
         "Ajeet ."
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1016/j.plantsci.2026.113603",
+      "title": "StHSFB2A enhances potato tolerance to combined heat–drought stress by modulating redox homeostasis and osmotic adjustment",
+      "journal": "Plant Science",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Xingxing Wang",
+        "Jing Wang",
+        "Yong Wang",
+        "Ruyan Zhang",
+        "Yuan Lu"
       ]
     },
     {
@@ -1110,20 +1131,6 @@
     },
     {
       "source": "crossref",
-      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
-      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
-      "journal": "International Journal of Research in Agronomy",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Nutan Singh",
-        "Pratibha Katiyar",
-        "Ajay .",
-        "Sunita Singh"
-      ]
-    },
-    {
-      "source": "crossref",
       "doi": "10.1016/j.cj.2026.06.012",
       "title": "GDSL WILTING LEAF1 protein confers heat, drought, and salt stress tolerance in maize by regulating vascular development",
       "journal": "The Crop Journal",
@@ -1135,6 +1142,20 @@
         "Lu Kang",
         "Liang Dong",
         "Lei Liu"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
+      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
+      "journal": "International Journal of Research in Agronomy",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Nutan Singh",
+        "Pratibha Katiyar",
+        "Ajay .",
+        "Sunita Singh"
       ]
     },
     {
@@ -1162,34 +1183,6 @@
       "authors": [
         "Qingsheng Zhou",
         "Jingchong Li"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1007/s11540-026-10137-5",
-      "title": "Morphological, Biochemical and Nutritional Responses of Potato (Solanum tuberosum L. cv. Agria) to SiO₂ Nanoparticles under Alkalinity Stress Conditions",
-      "journal": "Potato Research",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Mahdi Bikdeloo",
-        "Fahimeh Feizi",
-        "Hamid Reza Roosta"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1016/j.plantsci.2026.113210",
-      "title": "StICE1 activates StCBFs expression to regulate cold stress response in potato (Solanum tuberosum L.) seedlings",
-      "journal": "Plant Science",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Chao Mei",
-        "Huimin Liu",
-        "Yupeng Song",
-        "Qianna Song",
-        "Yonghong Duan"
       ]
     },
     {

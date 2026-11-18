@@ -1,72 +1,73 @@
 # 每日文献更新报告
 
-2026-11-17
+2026-11-18
 
 <!-- SELFCHECK-FAIL-BANNER:START -->
-> [!WARNING] 本次运行有 **2 项自检未通过**，结果需在下一轮前处理：
-> - 运行健康（非降级）（降级 2 项：全文获取 0/13（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼 0/13 篇（无全文或提炼失败））
-> - 日报计数诚实性（日报累计实际新增 13 篇；磁盘当日 created 12 篇；差额 -1（正数=其他通道））
+> [!WARNING] 本次运行有 **1 项自检未通过**，结果需在下一轮前处理：
+> - 运行健康（非降级）（降级 2 项：全文获取 0/15（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼 0/15 篇（无全文或提炼失败））
 >
-> 详见文末「运行后闭环自检」表与 `_review/selfcheck/2026-11-17.json`。
+> 详见文末「运行后闭环自检」表与 `_review/selfcheck/2026-11-18.json`。
 <!-- SELFCHECK-FAIL-BANNER:END -->
 
 > 本日共 1 次运行，按时间倒序合并；每次运行单独成节，互不覆盖。
 
-## 运行 08:06:07
+## 运行 08:07:23
 
-检索: 312 篇
-候选（通过过滤）: 13 篇
+检索: 319 篇
+候选（通过过滤）: 15 篇
 
 ### 检索漏斗
 
 | 环节 | 篇数 |
 |---|---:|
-| 检索命中 | 312 |
-| 库里已存在 | 181 |
-| 期刊不在植物/农学名单 | 26 |
-| 非植物判定 | 65 |
+| 检索命中 | 319 |
+| 库里已存在 | 177 |
+| 期刊不在植物/农学名单 | 31 |
+| 非植物判定 | 64 |
 | 非植物主题过滤 | 6 |
-| 不属于八主题 | 17 |
-| 纯度闸门（研究对象非植物） | 4 |
-| **通过并待导入** | **13** |
-| 合计 | 312 |
+| 不属于八主题 | 19 |
+| 纯度闸门（研究对象非植物） | 7 |
+| **通过并待导入** | **15** |
+| 合计 | 319 |
 
 漏斗对账：合计等于检索数，每一篇都有归属。
 
 **期刊被拒 TOP（白名单缺口诊断）**
 
+- Talanta ×5
 - Analytica chimica acta ×5
-- Talanta ×4
 - Virulence ×2
 - Gene ×2
 - Fish & shellfish immunology ×2
+- Carbohydrate polymers ×2
 - Hepatology (Baltimore, Md.) ×1
+- Autophagy ×1
 - Nucleus (Austin, Tex.) ×1
 - Bone ×1
 - Waste management (New York, N.Y.) ×1
 - Veterinary parasitology ×1
-- Fitoterapia ×1
-- Regenerative therapy ×1
 
-实际新增页面: 13 篇
+实际新增页面: 15 篇
 跳过已存在页面: 0 篇
-全库当日 created 页面（含 multisource/其他通道）: 13 篇
+全库当日 created 页面（含 multisource/其他通道）: 15 篇
 
 ## 本次实际新增
 
 - Genetic dissection of one-carbon metabolism: Roles in pluripotency and embryonic development. (Developmental biology 2026) PMID:42767394
-- Transmission of Xanthomonas translucens Associated with Wheat and Barley Seed. (Phytopathology 2026) PMID:42828855
+- A hyphal release-capture soil microcosm for recovering hyphosphere bacterial communities. (mSystems 2026) PMID:42825575
 - Role of LGALS9 and human milk oligosaccharides in modulating immune responses in food allergy: Insights from network pharmacology and molecular simulations. (Biochemical and biophysical research communications 2026) PMID:42987599
-- Melatonin and Selenium Nanoparticles Alleviate Salt Stress by Modulating MAPK-Signaling-Related Transcriptional Changes, Hormonal Responses, and Lipid Metabolism. (Plant physiology 2026) PMID:43037131
-- Physiological analyses and transcriptomic provide insight into the embryogenic callus proliferation mechanism in Pinus kesiya var. langbianensis. (Tree physiology 2026) PMID:43037199
-- Genetic and Transcriptome-Level Dissection of the Powdery Mildew Resistance in Spelt Accession L251. (Phytopathology 2026) PMID:43037365
-- Chinese cabbage BrCAMTA1 mediating Ca2+ and ABA signaling regulates drought resistance. (Plant cell reports 2026) PMID:43037727
-- Spatially integrated imaging analyses of copper-induced cell death in the root apex of Solanum lycopersicum. (Planta 2026) PMID:43037732
-- Lytic polysaccharide monooxygenase (LPMO) expression in Arabidopsis reduces cell wall recalcitrance and boosts immunity against Pseudomonas syringae. (Plant molecular biology 2026) PMID:43037797
-- Microbial succession and functional gene repertoires in Brassica rapa fermentation. (World journal of microbiology & biotechnology 2026) PMID:43037819
-- Essential roles of autophagy in multi-organelle reduction and remodeling during Arabidopsis seed maturation. (Journal of plant research 2026) PMID:43037912
-- METTL3-mediated m6A modification supports Tcrα recombination center activity and thymic T cell development. (Cell reports 2026) PMID:43038103
-- The complete chloroplast genome of Chrysanthemum morifolium cv. 'Chuju' and comparative chloroplast genomes of the members of the subtribe artemisiinae. (PloS one 2026) PMID:43038219
+- Pantoea Species Isolated from Onion Plants and Bulbs Across Different Regions of Chile. (Phytopathology 2026) PMID:43000158
+- Artesunate Derivatives as Anticancer Agents: Hybrid Designs and Emerging Therapeutic Strategies. (ChemMedChem 2026) PMID:43039867
+- Smaller and denser stomatal trend: a strategy for growth and abiotic stress resistance in wheat. (Plant phenomics (Washington, D.C.) 2026) PMID:43041953
+- Adaptation of an herbivorous arthropod to green tea plants by overcoming catechin defenses. (eLife 2026) PMID:43042512
+- ZmFLP Controls Symmetric Division of Guard Mother Cells and Associates with BZU2/ZmMUTE during Stomatal Development in Maize. (Journal of experimental botany 2026) PMID:43042620
+- ABA-Ethylene Antagonism Shapes Endodermal Barriers and Potassium Fluxes in Tobacco (Nicotiana tabacum L.) Roots. (Plant, cell & environment 2026) PMID:43042639
+- CvARF3 and CvARF5 antagonistically regulate ray floret morphogenesis in Chrysanthemum vestitum. (Journal of integrative plant biology 2026) PMID:43043063
+- Comprehensive analysis of the soybean GPAT gene family and functional characterization of GmGPAT3C. (Planta 2026) PMID:43043472
+- FLOWERING LOCUS C: Deciphering Epigenetic Memory to Floral Awakening in Brassicaceae Members. (Plant, cell & environment 2026) PMID:43043682
+- Activation of ROPGEFs by a malectin-like receptor kinase is involved in tip growth regulation in Physcomitrium patens. (Proceedings of the National Academy of Sciences of the United States of America 2026) PMID:43043699
+- Contrasting Elemental Composition of Stomatal Complex Surfaces Is Associated With Divergent Gas Exchange Responses to Salinity in Maize and Faba Bean. (Plant, cell & environment 2026) PMID:43043724
+- The complex landscape of multidrug resistance (MDR) in Zymoseptoria tritici: MFS1 promoter plasticity and beyond. (PLoS pathogens 2026) PMID:43043949
 
 ## 八主题相关性拒收
 
@@ -87,13 +88,18 @@
 - Adhesive hydrogel-mediated spatiotemporal delivery of garlic-derived nanovesicles reprograms immunometabolism to rescue periodontal bone regeneration. (Materials today. Bio) PMID:43005309 — off-topic:materials-engineering:hydrogel (core=none)
 - Inhibition of cadmium accumulation in wheat from alkaline soil using citric and malic acids. (Journal of environmental sciences (China)) PMID:43014922 — off-topic:food-safety:food safety (core=none)
 - Research on the molecular mechanisms governing the uptake, translocation, and accumulation of hydrophobic compounds, such as pesticides, in crops. (Journal of pesticide science) PMID:43017207 — off-topic:environmental-engineering:phytoremediation (core=development)
+- Molecular regulation and physiological determinants of shelf-life in cucurbitaceous vegetable crops: Recent advances and future directions. (Functional & integrative genomics) PMID:43040096 — off-topic:food-safety:shelf-life (core=none)
+- Eco-conscious synthesis of a starch-based magnetic hydrogel for effective methylene blue decontamination in wastewater treatment. (Environmental science and pollution research international) PMID:43040123 — off-topic:environmental-engineering:wastewater treatment (core=none)
 
 ## 纯度闸门拒收（研究对象非植物）
 
 - Ion-GPS nanocapsules activate calcium-permeable gates in inflammatory microglia for nerve function recovery. (Bioactive materials) PMID:42699583 — subject=microglia
 - Integrative network toxicology and virtual knockout analysis suggest TSNA-associated molecular features in large cell neuroendocrine carcinoma. (Computational biology and chemistry) PMID:42721704 — subject=carcinoma
+- Modified citrus pectin orchestrates hepatic redox homeostasis through an Alistipes dispar-nicotinamide-sirtuin 1 axis to mitigate metabolic dysfunction-associated steatotic liver disease. (Phytomedicine : international journal of phytotherapy and phytopharmacology) PMID:42800459 — subject=steatotic liver
+- Artemisitene targets GLIS3 to inhibit the NF-κB-TNF signaling pathway and suppress bladder cancer cell growth. (Phytomedicine : international journal of phytotherapy and phytopharmacology) PMID:42863415 — subject=cancer cell
 - Oral squamous cell carcinoma: A modern review of pathogenesis and treatment. (The international journal of biochemistry & cell biology) PMID:42887823 — subject=carcinoma
 - PPAR/RXR dysregulation involved in hepatic lipid accumulation in HFPO-TeA-exposed zebrafish: Insights from multi-omics and spatial imaging. (Environmental research) PMID:42966525 — subject=zebrafish
+- Yeast culture extract of grape seed meal attenuates ETEC K88-induced inflammation in host by modulating AHL-like quorum-sensing signaling molecules. (Microbiology spectrum) PMID:43042829 — subject-heavy=mice,gut microbiota,intestinal barrier
 
 ## 纯度待审（信号冲突，导入后复核）
 
@@ -101,7 +107,6 @@
 
 - Genetic dissection of one-carbon metabolism: Roles in pluripotency and embryonic development. (Developmental biology) PMID:42767394 — subject=mouse, weak-plant-context=none
 - Role of LGALS9 and human milk oligosaccharides in modulating immune responses in food allergy: Insights from network pharmacology and molecular simulations. (Biochemical and biophysical research communications) PMID:42987599 — subject=cohort, weak-plant-context=none
-- METTL3-mediated m6A modification supports Tcrα recombination center activity and thymic T cell development. (Cell reports) PMID:43038103 — subject=mice, weak-plant-context=none
 
 <!-- QUARANTINE:START -->
 
@@ -109,14 +114,13 @@
 
 | 类别 | 篇数 | 归档位置 |
 |---|---:|---|
-| 非植物研究对象（phase5_5） | 3 | `_review/archive/nonplant_2026-11-17/` |
-| 非八主题（phase5_6） | 0 | `_review/archive/topic_2026-11-17/` |
+| 非植物研究对象（phase5_5） | 2 | `_review/archive/nonplant_2026-11-18/` |
+| 非八主题（phase5_6） | 0 | `_review/archive/topic_2026-11-18/` |
 
 ### 非植物隔离明细
 
 - `daily-42767394.md` 10.1016/j.ydbio.2026.09.008 — subject=mouse
 - `daily-42987599.md` 10.1016/j.bbrc.2026.154764 — 
-- `daily-43038103.md` 10.1016/j.celrep.2026.118328 — subject=mice
 
 > 隔离=移动到 `_review/archive/` 下按日期分目录，未删除、可整目录回滚；证据对象同步归档。
 
@@ -128,24 +132,24 @@
 
 | 检查项 | 结果 | 说明 |
 |---|---|---|
-| 运行健康（非降级） | FAIL | 降级 2 项：全文获取 0/13（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼 0/13 篇（无全文或提炼失败） |
+| 运行健康（非降级） | FAIL | 降级 2 项：全文获取 0/15（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼 0/15 篇（无全文或提炼失败） |
 | 闸门离线回放 | PASS | 坏例拒收 7/7，正例放行 5/5 |
-| 当日新增页领域复查 | PASS | 当日新增 12 页，越界 0 页 |
+| 当日新增页领域复查 | PASS | 当日新增 17 页，越界 0 页 |
 | 文献类型分层 | PASS | 非研究页 57 页（保留不删）；证据池泄漏 0 条 |
 | 综合页/假说页证据一致 | PASS | 主题数 8；证据数不一致 0；正文未重建 0 |
 | 标题异常 | PASS | 标题异常 0 条；标题待补 1 条 |
 | 关系层语义 | PASS | 关系页 2 个；语义越权 0 个 |
 | 证据类型完整性 | PASS | evidence 18117 条；类型空值 0 条；未按 rule-v9-20261107 重标 0 条 |
 | 证据语义判别力 | PASS | evidence 18117；空类型 0；描述性 66.5%；因果级 13.8%；低置信 13403（74%）；论断角色缺字段 0；非发现句 3445 条（已排除出证据池） |
-| 主题覆盖与标签别名 | PASS | 证据主题归属 14628/18117（80.7%）＝tag 精确 73 + 论文继承 14555；论文三态：mapped 5101／out-of-scope 832／unclassified 1499（可判断页归属 86.0%，未判定占比 20.1%）；可作证据分母 4923/7220（68.2%）；别名残留 0 |
+| 主题覆盖与标签别名 | PASS | 证据主题归属 14628/18117（80.7%）＝tag 精确 73 + 论文继承 14555；论文三态：mapped 5116／out-of-scope 834／unclassified 1499（可判断页归属 86.0%，未判定占比 20.1%）；可作证据分母 4938/7237（68.2%）；别名残留 0 |
 | 综合页综述质量 | PASS | 综合页 8；不合格 0 |
 | 假说分布与模板化 | PASS | 假说分布：单细胞与空间组学=6、植物发育生物学=6、代谢与天然产物=6、激素与信号转导=6、逆境与免疫=6、表观遗传与基因调控=6、方法与工具=6、基因组学与演化=6 |
-| 日报计数诚实性 | FAIL | 日报累计实际新增 13 篇；磁盘当日 created 12 篇；差额 -1（正数=其他通道） |
-| frontmatter 可解析 | PASS | 扫描 25796 页；不可解析 0 页 |
+| 日报计数诚实性 | PASS | 日报累计实际新增 15 篇；磁盘当日 created 17 篇；差额 +2（正数=其他通道） |
+| frontmatter 可解析 | PASS | 扫描 25813 页；不可解析 0 页 |
 | 证据可回溯（DOI） | PASS | 证据 18117 条；无 DOI 0；来源页无 DOI 0；共识页 1（support 不足 0） |
 | 日报漏斗对账 | PASS | 生产运行 1 段，对账通过 1 段 |
-| 物种字段失真 | PASS | 含物种行 5535 页；伪影物种无正文支持 1 条（阈值 40）；无摘要无法判定 15 页 / 18 条，已标 species_status: unverified 15 页、漏标 0 页；物种为占位 plant/未识别 2521 页（45.5%，摘要缺失导致，非失败项）；例：daily-42488446.md: Cucumis spp.(子串) |
-| 孤儿 PDF | PASS | raw PDF 2322 份；孤儿（有全文无页面）170 份（阈值 200）；例：10.1002_art.70331.pdf、10.1007_978-1-0716-2756-3_12.pdf、10.1007_978-1-84882-477-5_7.pdf |
+| 物种字段失真 | PASS | 含物种行 5552 页；伪影物种无正文支持 1 条（阈值 40）；无摘要无法判定 15 页 / 18 条，已标 species_status: unverified 15 页、漏标 0 页；物种为占位 plant/未识别 2538 页（45.7%，摘要缺失导致，非失败项）；例：daily-42488446.md: Cucumis spp.(子串) |
+| 孤儿 PDF | PASS | raw PDF 2 份；孤儿（有全文无页面）0 份（阈值 200） |
 
 > 本段由 `pipeline_selfcheck.py` 在流水线末尾生成；FAIL 不等于当天数据一定不可用，但必须在下一轮运行前处理。
 
