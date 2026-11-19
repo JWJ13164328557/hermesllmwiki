@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -165,6 +165,21 @@
     },
     {
       "source": "crossref",
+      "doi": "10.3390/ijms272210381",
+      "title": "Comparison of Enzymatic Dissociation Protocols for Single-Cell RNA-Seq of Pancreatic Neuroendocrine Tumors and Benchmarking Against Single-Nucleus RNA-Seq",
+      "journal": "International Journal of Molecular Sciences",
+      "year": "",
+      "abstract": "Pancreatic neuroendocrine tumors (PanNETs) represent a challenging tissue for single-cell transcriptomic analysis due to their complex tissue composition and high RNase content. Optimizing tissue dissociation while preserving RNA quality is essential for successful single-cell RNA sequencing (scRNA-seq). PanNET tissue samples, including insulinomas and metastatic samples, as well as a duodenal neuroendocrine tumor (DNET) sample, were subjected to enzymatic dissociation using different enzyme mixes. Samples yielding a high cell viability were selected for scRNA-seq, and the resulting data were compared with snRNA-seq data obtained from cryopreserved portions of the same tumors to investigate potential dissociation-related biases. In addition, morphological assessment of tissue blocks was performed to explore potential associations between tissue characteristics and dissociation outcomes. Collagenase I-based dissociation resulted in relatively high cell viability (&gt;70%) in both PanNET and DNET samples, whereas alternative enzyme combinations were associated with lower viability. ScRNA-seq and snRNA-seq revealed differences between the two approaches, reflecting potential assay-related differences in the representation of cellular gene expression. Our findings highlight the importance of balancing efficient tissue dissociation with the preservation of cell viability and suggest that morphological and clinical characteristics should be considered when developing protocols for the single-cell and single-nucleus transcriptomic analysis of PanNETs.",
+      "authors": [
+        "Julia Katsaran",
+        "Alesia Maluchenko",
+        "Maria Danilova",
+        "Nikita Onyanov",
+        "Denis Maksimov"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1038/s41467-026-78924-9",
       "title": "EpiPack: A computational framework for reference mapping and out-of-reference detection for single-cell ATAC-seq data with heterogeneous peak features",
       "journal": "Nature Communications",
@@ -277,21 +292,6 @@
         "Yuichi Shigihara",
         "Masaki Kimura",
         "Takanori Takebe"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1038/s41467-026-79125-0",
-      "title": "Single-cell pharmacogenomic landscapes of epigenetic therapy revealed by gastric cancer Perturb-seq",
-      "journal": "Nature Communications",
-      "year": "",
-      "abstract": "",
-      "authors": [
-        "Chang Xu",
-        "Haoran Ma",
-        "Taotao Sheng",
-        "Ming Hui Lee",
-        "Siti Aishah Binte Abdul Ghani"
       ]
     },
     {
@@ -410,6 +410,21 @@
         "Yuancong Li",
         "Qiang Cui",
         "Hongmei Zhou"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1016/j.molp.2026.11.004",
+      "title": "Photo-activated phytochrome A induces DET1-dependent COP1 degradation in mediating far-red light signaling in Arabidopsis",
+      "journal": "Molecular Plant",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Jie Duan",
+        "Jingying Fu",
+        "Jiayi Xu",
+        "Xinyan Qin",
+        "Jing Peng"
       ]
     },
     {
@@ -627,21 +642,6 @@
         "Evanilde Benedito",
         "José Alexandre M. Demattê",
         "Marcos Rafael Nanni"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3390/horticulturae12080933",
-      "title": "Divergent Regulatory Roles of Supplemental Far-Red or UV-A Radiation in Modulating Pak Choi (Brassica rapa L. ssp. chinensis) Growth and Quality Under Different Light Levels",
-      "journal": "Horticulturae",
-      "year": "",
-      "abstract": "This study investigated the effects of far-red (FR, 740 nm) and ultraviolet-A (UV-A, 370 nm) supplementation on the growth and nutritional quality of pak choi (Brassica rapa ssp. chinensis ‘Xiawang’) under different light intensities. Plants were grown under a white LED background light (6500 K) at two light intensities (100 and 400 μmol·m−2·s−1) either without (T100 and T400) or with an additional 40 μmol·m−2·s−1 of FR or UV-A radiation (T100FR, T100UV-A, T400FR, and T400UV-A). The results demonstrated a significant interactive effect between light intensity and FR/UV-A supplementation. Under low light intensity (T100), both FR and UV-A significantly enhanced biomass accumulation, the net photosynthetic rate, and the content of soluble proteins, soluble sugars, and cellulose. Under a high light intensity (T400), FR and UV-A primarily promoted morphological development (leaf expansion and thickening), photosynthetic performance, and carbohydrate accumulation. Specifically, FR notably promoted petiole elongation while reducing photosynthetic pigment content, whereas UV-A markedly increased the vitamin C content while decreasing nitrate accumulation. In conclusion, both FR and UV-A supplementation effectively improve the growth and quality of pak choi, but, through light-intensity-dependent mechanisms. FR acts mainly via morphological and photosynthetic optimization, whereas UV-A acts as a physiological and nutritional regulator. These findings highlight the complementary roles of FR and UV-A, providing practical guidance for optimizing spectral strategies in controlled environment agriculture (CEA).",
-      "authors": [
-        "Lingyan Zha",
-        "Ximeng Zheng",
-        "Xiuping He",
-        "Liping Liu",
-        "Ziyi Chen"
       ]
     },
     {
@@ -880,6 +880,21 @@
     },
     {
       "source": "crossref",
+      "doi": "10.58351/2949-2041.2026.39.10.012",
+      "title": "РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ НИТРОЛИГНИНА  И РОСТОСТИМУЛИРУЮЩЕГО ПРЕПАРАТА ИЗ ШРОТА КОРНЕЙ СОЛОДКИ (GLYCYRRHIZA GLABRA L.)",
+      "journal": "Вектор научной мысли",
+      "year": "",
+      "abstract": "Исследована возможность использования шрота корней солодки, образующегося после получения густых и сухих экстрактов глицирризиновой кислоты, в качестве вторичного лигноцеллюлозного сырья для получения ростостимулятора растений. Определены основные физико-химические характеристики шрота, включая влажность, зольность, содержание целлюлозы, гемицеллюлозы, лигнина Классона и экстрактивных веществ. Установлено, что содержание лигнина Классона составляет 29,84±0,61% от абсолютно сухой массы сырья. Изучено влияние гидромодуля, продолжительности и температуры кислотной обработки, концентрации меланжа, а также концентрации раствора гидроксида натрия на выход твёрдого остатка и его компонентный состав. Определены рациональные условия последовательной кислотной и щелочной обработки: гидромодуль 1:9, температура кислотной стадии 95 °C, продолжительность 4 ч, концентрация меланжа 2,5% и концентрация гидроксида натрия 2,0%. На основе полученного водорастворимого нитролигнина разработана технологическая схема получения жидкого агропрепарата с использованием нитрона. Полученный препарат характеризуется тёмно-коричневым цветом, массовой долей азота не менее 6,2%, pH 1%-ного водного раствора 8,0–9,0 и содержанием сухого остатка не менее 10%. Предложенный подход расширяет возможности комплексной переработки отходов фармацевтического производства и получения продуктов агрохимического назначения\n                  The feasibility of using liquorice root residue, generated during the production of concentrated and dry glycyrrhizic acid extracts, as a secondary lignocellulosic raw material for the production of a plant growth stimulant was investigated. The main physicochemical characteristics of the residue were determined, including moisture content, ash content, cellulose, hemicellulose, Klason lignin, and extractive substances. The Klason lignin content was found to be 29.84 ± 0.61% of the absolutely dry raw material. The effects of the hydromodule, acid treatment duration and temperature, melange concentration, and sodium hydroxide concentration on the yield and component composition of the solid residue were studied. Rational conditions for sequential acid and alkaline treatment were established: a solid-to-liquid ratio of 1:9, an acid treatment temperature of 95 °C, a treatment duration of 4 h, a melange concentration of 2.5%, and a sodium hydroxide concentration of 2.0%. Based on the water-soluble nitrolignin obtained, a technological scheme was developed for producing a liquid agrochemical preparation using nitron. The resulting preparation is characterized by a dark brown colour, a nitrogen mass fraction of at least 6.2%, a pH of 8.0–9.0 in a 1% aqueous solution, and a dry residue content of at least 10%. The proposed approach expands the possibilities for the integrated processing of pharmaceutical production waste and the development of products for agricultural applications",
+      "authors": [
+        "Диёрахон Хайрулла кизи Темирова",
+        "Ботир Баходирович Абдуазимов",
+        "Равшанжон Муратджанович Халилов",
+        "Азиза Абдугаффаровна Сиддикова",
+        "Ахматхон Умарханович Маматханов"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1007/s10725-026-01528-2",
       "title": "Effect of shading levels on growth changes in rice at different growth stages",
       "journal": "Plant Growth Regulation",
@@ -919,21 +934,6 @@
         "Shaoqi Huangfu",
         "Fengyi Zhang",
         "Baishun Liu"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1094/pdis-04-26-0743-re",
-      "title": "Evaluation of\n                    <i>Pseudomonas chlororaphis</i>\n                    JK77 as a Biocontrol Agent for\n                    <i>Fusarium graminearum</i>\n                    in Maize Stalk Rot Management",
-      "journal": "Plant Disease",
-      "year": "",
-      "abstract": "\n                    Maize stalk rot, predominantly caused by\n                    Fusarium graminearum\n                    , poses a serious threat to maize production in China. Biological control represents a viable and sustainable strategy for its suppression. In vitro and pot experiments confirmed that\n                    Pseudomonas chlororaphis\n                    isolate JK77 could effectively control the occurrence of maize stalk rot caused by\n                    F\n                    .\n                    graminearum\n                    , with 1 × 10\n                    9\n                    CFU ml\n                    −1\n                    achieving 73.5% inhibition. Identified by matrix-assisted laser desorption/ionization time-of-flight mass spectrometry, the antifungal activity was attributed to a synergistic blend of C19 fengycin A, viscosin, and pseudophomin A that collectively compromised membrane integrity; caused hyphal deformation, protoplasm aggregation, and swelling; and strongly inhibited key fungal developmental stages. Our findings highlight the utility of\n                    P. chlororaphis\n                    JK77 as a promising biocontrol agent (BCA) against maize stalk rot, elucidate its mechanism underlying the inhibition of\n                    F. graminearum\n                    growth, and aid in BCA development.\n                  ",
-      "authors": [
-        "Wenqi Li",
-        "Mengyao Liu",
-        "Jinghao Wang",
-        "Jinxin Liu",
-        "Xue Zhang"
       ]
     },
     {

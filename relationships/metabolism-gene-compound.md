@@ -1,6 +1,6 @@
 ---
 title: "Gene-Compound Co-occurrence (Metabolism)"
-created: 2026-11-18
+created: 2026-11-19
 type: relationship
 category: metabolism-gene-compound
 tags: [metabolism, relationships]
@@ -60,6 +60,6 @@ Scanned 18116 evidence objects; 654 genes were co-mentioned with compounds, 806 
 - 本页只用于缩小人工核查范围；下游 synthesis / hypotheses 不得把本页当作调控或因果证据。
 
 ## Notes
-- 生成范围：全库代谢主题证据（2026-11-18 重算）
+- 生成范围：全库代谢主题证据（2026-11-19 重算）
 - 关联强度 = 同一证据对象中的共现次数，**不是调控强度**
 - 候选排序用途：用于缩小人工核查范围，不得直接写入机制结论

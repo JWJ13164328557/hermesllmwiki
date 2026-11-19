@@ -6,12 +6,12 @@ total_evidence: 3308
 total_papers: 658
 library_papers: 779  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-18
+body_status: rebuilt-2026-11-19
 tags: [synthesis, development]
 
 
 soybean_relevance: ⭐高
-legacy_archive: _review/synthesis_legacy_20261118/developmental-biology.md
+legacy_archive: _review/synthesis_legacy_20261119/developmental-biology.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -80,7 +80,7 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-18 由 `rebuild_synthesis_body.py` 从 **3308 条证据对象 / 658 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261118`，不再作为本页结论来源。
+> 本页正文于 2026-11-19 由 `rebuild_synthesis_body.py` 从 **3308 条证据对象 / 658 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261119`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
@@ -434,7 +434,7 @@ rebuild_version: v3
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261118`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261119`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 
