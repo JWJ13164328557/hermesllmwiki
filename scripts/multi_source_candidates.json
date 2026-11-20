@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -165,6 +165,61 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1186/s13059-026-04349-8",
+      "title": "Benchmarking computational tools for locus-specific analysis of transposable elements in single-cell RNA-seq datasets",
+      "journal": "Genome Biology",
+      "year": "",
+      "abstract": "Abstract\n                  \n                    Background\n                    Transposable elements (TEs) are increasingly recognized as regulators of gene expression and cellular identity. Single-cell RNA-sequencing (scRNA-seq) enables the analysis of their transcription at cellular resolution, but the repetitive nature of TEs and their frequent overlap with genes create substantial mapping ambiguity. Although several tools quantify TE expression, few support locus-specific analysis, and their performance in single-cell data has not been systematically evaluated.\n                  \n                  \n                    Results\n                    We present a comprehensive, scalable benchmarking framework written in Snakemake for locus-level TE quantification in short-read scRNA-seq data, combining real datasets with simulations that provide read-level ground truth. Our simulations show that sequence-diverged insertions can be quantified with relatively high accuracy, whereas young TEs remain difficult to resolve due to unreliable assignment of multi-mapping reads. We observe pronounced family-specific biases and identify gene-TE disambiguation as a major unresolved challenge. Across the evaluated methods, incorporating multi-mapping reads generally increased false-positive calls without substantially improving locus-level accuracy. When loci of all ages were analyzed together, SoloTE in unique-mapper mode achieved the highest detection accuracy.\n                  \n                  \n                    Conclusions\n                    Our benchmark delineates the fundamental limits imposed by short-read scRNA-seq on locus-specific TE quantification, providing practical guidance for prospective users. Suggested best practices include focusing locus-level analyses on older insertions, applying unique-mapper strategies to improve precision, aggregating counts at the subfamily level for young TEs, and explicitly checking for gene-TE overlaps. Our workflow is reproducible and extensible, providing a foundation for evaluating emerging methods aimed at resolving TE transcription at single-locus resolution.\n                  ",
+      "authors": [
+        "Veronica Finazzi",
+        "Catalina A. Vallejos",
+        "Antonio Scialdone"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1186/s13059-026-04340-3",
+      "title": "FLORA-seq enables ultra-high throughput full-length single-cell RNA profiling",
+      "journal": "Genome Biology",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Mengmeng Liu",
+        "Qifei Wang",
+        "Yun Li",
+        "Yaxin Wang",
+        "Lisen Gao"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.3389/fnmol.2026.1978026",
+      "title": "Development of immunogenic cell death-related biomarkers for the diagnosis of ischemic stroke based on transcriptomic microarray and single-cell RNA-seq",
+      "journal": "Frontiers in Molecular Neuroscience",
+      "year": "",
+      "abstract": "\n                    Background\n                    This study investigated the role of immunogenic cell death (ICD) in ischemic stroke (IS) by integrating human peripheral-blood microarray transcriptomic biomarker discovery with mouse brain single-cell analysis of cellular heterogeneity\n                  \n                  \n                    Methods\n                    Biological functions related to the biomarkers were assessed through enrichment and immune-infiltration analyses. Candidate compounds were prioritized using Graph-Based Attention Network (GraphBAN) prediction followed by molecular docking. The mouse middle cerebral artery occlusion (MCAO) scRNA-seq dataset GSE174574 was further interrogated to map biomarker expression and transcription factor (TF) activity in key cells. Biomarker expression was experimentally examined in CoCl₂-induced hypoxic microglial cells using RT-qPCR.hypoxic microglial cells using reverse transcription quantitative PCR (RT-qPCR).\n                  \n                  \n                    Results\n                    The analysis defined TLR2, TNFSF10, and RALBP1 as immunogenic cell death-related biomarkers in IS, with patient-level validation in the baseline subset of GSE58294. Pathway results connected these genes with inflammatory response, TNFA signaling via NFKB, interferon alpha response, and IL6-JAK-STAT3 signaling. TLR2 was positively associated with neutrophils and monocytes, whereas TNFSF10TLR2 was positively associated with neutrophils, whereas TNFSF10 showed a negative relationship with B cells. Docking analysis supported favorable interactions of the biomarkers with tert-butyl 2-thiocyanatoacetate. Docking analysis predicted binding energies ranging from −4.9 to −9.6 kcal/mol for the candidate compounds against the three biomarkers. In the single-cell trajectory, expression of all three biomarkers shifted markedly during microglial differentiation. CoCl₂-induced hypoxia also increased TLR2, RALBP1, and TNFSF10 expression in microglial cells. Atf4, Hif1a, Fosl2, and related TFs were more active in ISMCAO samples.\n                  \n                  \n                    Conclusion\n                    TLR2, TNFSF10, and RALBP1 may serve as immunogenic cell death-related biomarkers for IS. These results offer a molecular foundation for future development of precision-targeted therapeutic strategies in IS.\n                  ",
+      "authors": [
+        "Amuguleng Jin",
+        "Tao Yan"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1007/s10577-026-09825-2",
+      "title": "Kmer-based reference-free assembly enables scalable and accurate single-cell RNA-seq analysis",
+      "journal": "Chromosome Research",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Bin Liu",
+        "Lili Guo",
+        "Fengying Ma",
+        "Yanchun Bao",
+        "Chenhong Liang"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.3390/ijms272210381",
       "title": "Comparison of Enzymatic Dissociation Protocols for Single-Cell RNA-Seq of Pancreatic Neuroendocrine Tumors and Benchmarking Against Single-Nucleus RNA-Seq",
       "journal": "International Journal of Molecular Sciences",
@@ -233,65 +288,6 @@
         "Austin Veal",
         "Ben Ewen-Campen",
         "Tarryn Porter"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1371/journal.pcbi.1014904",
-      "title": "PhysInfer: A physics-constrained neural network for adaptive inference of transcriptional bursting from single-cell RNA-seq",
-      "journal": "PLOS Computational Biology",
-      "year": "",
-      "abstract": "\n                    Single-cell RNA sequencing (scRNA-seq) has established that gene expression is driven by stochastic transcriptional bursting. However, inferring burst dynamics from static scRNA-seq snapshots is fundamentally constrained by parameter unidentifiability and model topology mismatch. Here, we propose PhysInfer, an unsupervised framework that integrates a physics-constrained neural network with adaptive model selection and parameter decoupling. A physics-informed loss function, combining stationary-distribution likelihood with zero-count anchoring, reparameterizes the optimization from unidentifiable microscopic rates to an interpretable macroscopic burst-quantity representation of burst size and burst frequency, thereby providing an interpretable parameterization for assessing practical recoverability in static data. Validation on synthetic data with known ground-truth parameters confirms high inference accuracy in low-to-medium activation regimes and shows that recovery of BS and productive BF becomes increasingly condition-dependent as the ON-state probability approaches saturation; under different recovery criteria, the condition-specific upper\n                    \n                      \n                        \n                        \n                          \n                            \n                              \n                                \n                                  P\n                                \n                              \n                              \n                                \n                                  o\n                                \n                                \n                                  n\n                                \n                              \n                            \n                          \n                        \n                      \n                    \n                    limit for simultaneously recovering BS and productive BF varies with cell number and capture efficiency. Applied to a mouse embryonic fibroblast (MEF) dataset, PhysInfer reconstructs a transcriptional dynamic manifold across the 2,137-gene secondary BIC analysis set, showing cross-gene variation in fitted burst frequency and burst size. A model-specific stationary likelihood combined with zero-count anchoring improves robustness to zero-heavy observations. The adaptive topology module further identifies a distinct subset of genes with stable support for an effective sequential 3-state representation, revealing distributional structure beyond that captured by standard 2-state fitting. PhysInfer thus provides a robust, topology-adaptive, and interpretable solution for characterizing transcriptional kinetic patterns from static single-cell transcriptomic snapshots.\n                  ",
-      "authors": [
-        "Xiaodong Zeng",
-        "Jingwen Zhang",
-        "Shan Li",
-        "Haohua Wang"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1093/bioinformatics/btag810",
-      "title": "DeSCENT: Deconvolutional Single-Cell RNA-seq Enhances Transcriptome-based Cancer Survival Analysis",
-      "journal": "Bioinformatics",
-      "year": "",
-      "abstract": "Abstract\n                  \n                    Motivation\n                    Single-cell RNA-seq captures tumor heterogeneity, but it is rarely available together with patient survival outcomes. Bulk RNA-seq cohorts provide survival data but lack direct measurements of cellular expression.\n                  \n                  \n                    Results\n                    DeSCENT generates reference-informed cellular profiles from bulk RNA-seq and combines both representations for survival prediction. We evaluated DeSCENT with three survival models on eight TCGA cancer cohorts. Compared with Bulk, DeSCENT improved average C-index and generally improved time-dependent AUC, while integrated Brier score results were mixed. External validation showed higher average C-index than all three baselines, although performance was lower than in internal evaluation. These findings support the use of cellular representations in the evaluated transcriptome-only setting.\n                  \n                  \n                    Availability and implementation\n                    Code: https://github.com/YonghaoZhao722/DeSCENT. Archival snapshot: doi:10.5281/zenodo.22073099.\n                  \n                  \n                    Supplementary information\n                    Supplementary data are available at Bioinformatics online.\n                  ",
-      "authors": [
-        "Yonghao Zhao",
-        "Zeyu You",
-        "Yu Shen",
-        "Jielei Chu",
-        "Xun Gong"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3389/fcell.2026.2026750",
-      "title": "Correction: Single cell RNA-seq analysis identifies junctional adhesion molecule two positive endothelial cells aggravate osteoarthritis by mediating vascular permeability and macrophage adhesion",
-      "journal": "Frontiers in Cell and Developmental Biology",
-      "year": "",
-      "abstract": "",
-      "authors": [
-        "Yang Xing",
-        "Chengxin Li",
-        "Chao Wang",
-        "Linli Zheng",
-        "Puyi Sheng"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1093/bioadv/vbag317",
-      "title": "oddSNP: a predictive framework for optimizing multiplexed single-cell RNA-seq experiments",
-      "journal": "Bioinformatics Advances",
-      "year": "",
-      "abstract": "Abstract\n                  \n                    Motivation\n                    Donor multiplexing is a powerful strategy to increase scale, lower the costs, and reduce batch effects in single-cell RNA sequencing (scRNAseq), but clear guidelines for experimental design are lacking, forcing researchers to risk costly demultiplexing failures.\n                  \n                  \n                    Results\n                    We introduce SNP-Information Content (SNP-IC), a quantitative metric computable from simple unpooled pilot data that accurately predicts the success of genotype-based demultiplexing. Across multiple large-scale datasets using stem cell and organoid models, we establish a robust SNP-IC threshold of approximately 50, above which cells can be reliably assigned to their donor of origin. For more challenging genotype-free approaches, we define a pairwise metric, cpSNP-IC, and demonstrate a much higher requirement of approximately 3,000.\n                  \n                  \n                    Availability and Implementation\n                    Our open-source framework, oddSNP, implements this predictive model to enable in-silico titration of sequencing depth and donor complexity, allowing researchers to optimize study design before large-scale deployment, while managing costs and minimizing the risk of catastrophic data loss. oddSNP can be installed directly from PyPI and Bioconda. Source code is also freely available from GitHub at https://www.github.com/nemoto-lab/oddSNP (with release versions also available in Zenodo at DOI 10.5281/zenodo.19378022). Novel scRNAseq data used as part of this study is available at the Gene Expression Omnibus (GEO) website under accession GSE334633.\n                  ",
-      "authors": [
-        "Rodolfo S Allendes Osorio",
-        "Toshiya Nishimura",
-        "Yuichi Shigihara",
-        "Masaki Kimura",
-        "Takanori Takebe"
       ]
     },
     {
@@ -880,6 +876,36 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1093/plphys/kiag867",
+      "title": "The bifunctional Arabidopsis cytosolic FAD synthase contributes to flavin homeostasis and the development of leaf and flower organs",
+      "journal": "Plant Physiology",
+      "year": "",
+      "abstract": "Abstract\n                  The flavins FAD and FMN are essential cofactors for many vital enzymes in living organisms. While de novo riboflavin synthesis is specific to plants, fungi and some bacteria, all organisms can synthesize the flavocoenzymes. In plants, the interconversion from riboflavin to FAD has been described in both in plastids and the cytoplasm. However, comprehensive functional analyses of the genes and enzymes involved in the two plant flavin metabolic pathways are still lacking. This includes an investigation into whether the two spatially separate FAD syntheses can compensate for one another. Here, we report on the genetic and physiological consequences of insufficient and enhanced levels of the cytosolic FAD synthase (FADS). The enzyme itself is a 55-kDa bifunctional protein made up of an N-terminal 3'-phosphoadenosine 5'-phosphosulfate reductase domain (with a FAD synthase function) and a C-terminal hydrolase molybdopterin-binding (MPtB) domain. Using T-DNA insertion mutants, FADS-RNAi, virus-induced gene silencing and FADS-overexpressor lines, various mutant phenotypes were identified during floral organ development and in leaf pigmentation. These phenotypic changes correlate with a shift in the FAD-to-FMN ratio and/or reduced FAD and FMN levels compared to wild type. We hypothesize that disrupted flavin homeostasis in turn leads to reduced expression of FAD-dependent enzymes. One significant deficiency phenotype attributable to disrupted FADS expression involves changes in phytohormone levels and signaling functions in flowers, impairing floral organ development.",
+      "authors": [
+        "Patrick Schall",
+        "Lucas Marutschke",
+        "Yuwei Wang",
+        "Johanna Rottke",
+        "Alexander Gehm"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1007/s11240-026-03656-z",
+      "title": "In vitro propagation of novel hybrid germplasm of Camellia sect. Chrysantha via immature embryo rescue and direct organogenesis",
+      "journal": "Plant Cell, Tissue and Organ Culture (PCTOC)",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Xiaojuan Wei",
+        "Lianxiang Zhong",
+        "Dong Lin",
+        "Qiulan Wei",
+        "Hailong Liu"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.58351/2949-2041.2026.39.10.012",
       "title": "РАЗРАБОТКА ТЕХНОЛОГИИ ПОЛУЧЕНИЯ НИТРОЛИГНИНА  И РОСТОСТИМУЛИРУЮЩЕГО ПРЕПАРАТА ИЗ ШРОТА КОРНЕЙ СОЛОДКИ (GLYCYRRHIZA GLABRA L.)",
       "journal": "Вектор научной мысли",
@@ -908,32 +934,17 @@
     },
     {
       "source": "crossref",
-      "doi": "10.3389/fpls.2026.1990461",
-      "title": "Spatiotemporal dynamics of reserve metabolism and vascular development during soybean seed germination",
-      "journal": "Frontiers in Plant Science",
-      "year": "",
-      "abstract": "\n                    Introduction\n                    Seed germination is a pivotal developmental phase involving multiple tissues, yet a systematic understanding of their spatiotemporal dynamics in metabolism and reserve mobilization remains lacking.\n                  \n                  \n                    Methods\n                    \n                      Here, by integrating morphophysiological and multi-tissue transcriptomic analyses, we profiled the spatiotemporal dynamics of five soybean (\n                      Glycine max\n                      ) seed tissues: cotyledon, plumule-proximal end, middle hypocotyl, radicle-proximal end, and testa across different germination stages.\n                    \n                  \n                  \n                    Results\n                    The period 36-48h after imbibition represented a key temporal window, marked by the most intense transcriptional reprogramming. During germination, these tissues shared a common basis of stress adaptation and differed in metabolic functional specialization, reflecting both shared responses and tissue specificity. Notably, the testa displayed a temporal transcriptional signature during germination, shifting from basal metabolism and antioxidant defense to cell wall loosening, and eventually to cellular component degradation and defense. Transcriptomic and physiological analyses suggest a sequential relay of carbon reserves: early mobilization of stored soluble sugars, followed by protein and starch degradation, and finally potential lipid-derived gluconeogenesis. The vascular tissues of the embryonic axis and cotyledon originated from distinct anatomical origins; however, their vascular differentiations shared similar temporal patterns and was associated with the expression of genes involved in cell wall remodeling and lignin biosynthesis.\n                  \n                  \n                    Discussion\n                    In summary, we propose a spatiotemporal model that depicts the shared and tissue-specific responses of multiple seed tissues during soybean germination, deepening our understanding of germination physiology.\n                  ",
+      "doi": "10.1016/j.plantsci.2026.113603",
+      "title": "StHSFB2A enhances potato tolerance to combined heat–drought stress by modulating redox homeostasis and osmotic adjustment",
+      "journal": "Plant Science",
+      "year": "2027",
+      "abstract": "",
       "authors": [
-        "Yujiao Zhang",
-        "Ming Xing",
-        "Jian You",
-        "Yueming Zhao",
-        "Wei Zhao"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3390/agronomy16222298",
-      "title": "Soil Alkalinity Reduces Soybean Yield by Inhibiting Vegetative Growth and Yield Component Formation in Saline-Sodic Soils",
-      "journal": "Agronomy",
-      "year": "",
-      "abstract": "Saline-sodic soils are potential cropland resources for soybean production, but soil salinity and alkalinity limit soybean yield improvement. Previous studies have shown that saline-sodic conditions affect soybean growth and yield formation. However, further quantitative analysis is needed to clarify the relative independent contributions of different yield components and soil factors to soybean yield variation, as well as the pathways linking soil factors, vegetative growth, yield components, and yield. We surveyed soybean growth, yield components, yield, and soil salinity–alkalinity and nutrients at field sites in Tongliao (A) and Hinggan League (B), China. Hierarchical partitioning (HP) and partial least squares structural equation modeling (PLS-SEM) quantified relative contributions and assessed pathways linking soil factors, vegetative growth, yield components, and yield. Pod number per unit area was the most important yield component, with relative independent contributions of 48.7% in A and 51.2% in B. Soil pH, CO32− + HCO3−, and Na+ were the main soil constraints, with pH contributing most in A and Na+ in B. PLS-SEM indicated that CO32− + HCO3− increased soil pH, inhibited vegetative growth, and reduced pod number per unit area and 100-seed weight, ultimately decreasing yield. Therefore, future research on improving soybean yield in saline-sodic soils should focus on the degree of soil alkalization and pod number per unit area.",
-      "authors": [
-        "Yuanhao Li",
-        "Lei Tian",
-        "Shaoqi Huangfu",
-        "Fengyi Zhang",
-        "Baishun Liu"
+        "Xingxing Wang",
+        "Jing Wang",
+        "Yong Wang",
+        "Ruyan Zhang",
+        "Yuan Lu"
       ]
     },
     {
@@ -985,21 +996,6 @@
         "Laxmi Prasad Bhardwaj",
         "Devendra Kumar Sahu",
         "Ajeet ."
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1016/j.plantsci.2026.113603",
-      "title": "StHSFB2A enhances potato tolerance to combined heat–drought stress by modulating redox homeostasis and osmotic adjustment",
-      "journal": "Plant Science",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Xingxing Wang",
-        "Jing Wang",
-        "Yong Wang",
-        "Ruyan Zhang",
-        "Yuan Lu"
       ]
     },
     {
@@ -1079,7 +1075,7 @@
       "doi": "10.1007/s12230-026-10087-1",
       "title": "Evaluation and Selection of Potato Varieties (Solanum tuberosum L.) In Vitro and Study of Their Tolerance to Osmotic Stress",
       "journal": "American Journal of Potato Research",
-      "year": "",
+      "year": "2026",
       "abstract": "",
       "authors": [
         "Lama Laila",
