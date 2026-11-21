@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -178,6 +178,18 @@
     },
     {
       "source": "crossref",
+      "doi": "10.3389/fnmol.2026.1978026",
+      "title": "Development of immunogenic cell death-related biomarkers for the diagnosis of ischemic stroke based on transcriptomic microarray and single-cell RNA-seq",
+      "journal": "Frontiers in Molecular Neuroscience",
+      "year": "",
+      "abstract": "\n                    Background\n                    This study investigated the role of immunogenic cell death (ICD) in ischemic stroke (IS) by integrating human peripheral-blood microarray transcriptomic biomarker discovery with mouse brain single-cell analysis of cellular heterogeneity\n                  \n                  \n                    Methods\n                    Biological functions related to the biomarkers were assessed through enrichment and immune-infiltration analyses. Candidate compounds were prioritized using Graph-Based Attention Network (GraphBAN) prediction followed by molecular docking. The mouse middle cerebral artery occlusion (MCAO) scRNA-seq dataset GSE174574 was further interrogated to map biomarker expression and transcription factor (TF) activity in key cells. Biomarker expression was experimentally examined in CoCl₂-induced hypoxic microglial cells using RT-qPCR.hypoxic microglial cells using reverse transcription quantitative PCR (RT-qPCR).\n                  \n                  \n                    Results\n                    The analysis defined TLR2, TNFSF10, and RALBP1 as immunogenic cell death-related biomarkers in IS, with patient-level validation in the baseline subset of GSE58294. Pathway results connected these genes with inflammatory response, TNFA signaling via NFKB, interferon alpha response, and IL6-JAK-STAT3 signaling. TLR2 was positively associated with neutrophils and monocytes, whereas TNFSF10TLR2 was positively associated with neutrophils, whereas TNFSF10 showed a negative relationship with B cells. Docking analysis supported favorable interactions of the biomarkers with tert-butyl 2-thiocyanatoacetate. Docking analysis predicted binding energies ranging from −4.9 to −9.6 kcal/mol for the candidate compounds against the three biomarkers. In the single-cell trajectory, expression of all three biomarkers shifted markedly during microglial differentiation. CoCl₂-induced hypoxia also increased TLR2, RALBP1, and TNFSF10 expression in microglial cells. Atf4, Hif1a, Fosl2, and related TFs were more active in ISMCAO samples.\n                  \n                  \n                    Conclusion\n                    TLR2, TNFSF10, and RALBP1 may serve as immunogenic cell death-related biomarkers for IS. These results offer a molecular foundation for future development of precision-targeted therapeutic strategies in IS.\n                  ",
+      "authors": [
+        "Amuguleng Jin",
+        "Tao Yan"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1186/s13059-026-04340-3",
       "title": "FLORA-seq enables ultra-high throughput full-length single-cell RNA profiling",
       "journal": "Genome Biology",
@@ -189,18 +201,6 @@
         "Yun Li",
         "Yaxin Wang",
         "Lisen Gao"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3389/fnmol.2026.1978026",
-      "title": "Development of immunogenic cell death-related biomarkers for the diagnosis of ischemic stroke based on transcriptomic microarray and single-cell RNA-seq",
-      "journal": "Frontiers in Molecular Neuroscience",
-      "year": "",
-      "abstract": "\n                    Background\n                    This study investigated the role of immunogenic cell death (ICD) in ischemic stroke (IS) by integrating human peripheral-blood microarray transcriptomic biomarker discovery with mouse brain single-cell analysis of cellular heterogeneity\n                  \n                  \n                    Methods\n                    Biological functions related to the biomarkers were assessed through enrichment and immune-infiltration analyses. Candidate compounds were prioritized using Graph-Based Attention Network (GraphBAN) prediction followed by molecular docking. The mouse middle cerebral artery occlusion (MCAO) scRNA-seq dataset GSE174574 was further interrogated to map biomarker expression and transcription factor (TF) activity in key cells. Biomarker expression was experimentally examined in CoCl₂-induced hypoxic microglial cells using RT-qPCR.hypoxic microglial cells using reverse transcription quantitative PCR (RT-qPCR).\n                  \n                  \n                    Results\n                    The analysis defined TLR2, TNFSF10, and RALBP1 as immunogenic cell death-related biomarkers in IS, with patient-level validation in the baseline subset of GSE58294. Pathway results connected these genes with inflammatory response, TNFA signaling via NFKB, interferon alpha response, and IL6-JAK-STAT3 signaling. TLR2 was positively associated with neutrophils and monocytes, whereas TNFSF10TLR2 was positively associated with neutrophils, whereas TNFSF10 showed a negative relationship with B cells. Docking analysis supported favorable interactions of the biomarkers with tert-butyl 2-thiocyanatoacetate. Docking analysis predicted binding energies ranging from −4.9 to −9.6 kcal/mol for the candidate compounds against the three biomarkers. In the single-cell trajectory, expression of all three biomarkers shifted markedly during microglial differentiation. CoCl₂-induced hypoxia also increased TLR2, RALBP1, and TNFSF10 expression in microglial cells. Atf4, Hif1a, Fosl2, and related TFs were more active in ISMCAO samples.\n                  \n                  \n                    Conclusion\n                    TLR2, TNFSF10, and RALBP1 may serve as immunogenic cell death-related biomarkers for IS. These results offer a molecular foundation for future development of precision-targeted therapeutic strategies in IS.\n                  ",
-      "authors": [
-        "Amuguleng Jin",
-        "Tao Yan"
       ]
     },
     {
