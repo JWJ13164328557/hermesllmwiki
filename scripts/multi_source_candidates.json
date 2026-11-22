@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -876,6 +876,21 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1108/ec-11-2025-1397",
+      "title": "Optimization method for spatial robot arm locking-unit layout based on plant root adaptive growth patterns",
+      "journal": "Engineering Computations",
+      "year": "",
+      "abstract": "\n                    Purpose\n                    To address the optimization problem of spatial robotic arm locking-unit layout, this study proposes a collaborative optimization method based on the adaptive growth patterns of plant roots. The approach aims to enhance the fundamental frequency of the robotic arm system while reducing the number of locking units.\n                  \n                  \n                    Design/methodology/approach\n                    Drawing upon the adaptive growth principles of monocotyledonous roots, a collaborative optimization model for the position–stiffness–quantity of locking units was established. By constructing simplified spatial robotic arm models and three-dimensional spring-support models, parallel optimization algorithms were used to simulate and optimize the robotic arm’s distributed locking units. The simulation results were compared and verified with the step-by-step optimization approach.\n                  \n                  \n                    Findings\n                    The collaborative optimization method significantly enhances the maximum fundamental frequency of the robotic arm while effectively reducing the number of locking units required. Compared to the step-by-step optimization approach, this method demonstrates clear advantages in both dynamic performance and weight reduction.\n                  \n                  \n                    Research limitations/implications\n                    This paper does not compare the computational efficiency and accuracy of the collaborative optimization method with those of general optimization algorithms, thereby limiting evaluation of the method’s performance in other aspects.\n                  \n                  \n                    Originality/value\n                    By incorporating the adaptive growth pattern of monocotyledonous plant roots into the layout design of space robotic arm locking units, a multi-parameter collaborative optimization model and method for locking-unit position–stiffness–quantity were established. This approach overcomes the limitations of step-by-step optimization methods, offering new insights into the layout design of locking units in complex multi-joint mechanisms such as space robotic arms.\n                  ",
+      "authors": [
+        "Haitao Bu",
+        "Gang Wang",
+        "Xutong Zhang",
+        "Fei Yang",
+        "Honghao Yue"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1093/plphys/kiag867",
       "title": "The bifunctional Arabidopsis cytosolic FAD synthase contributes to flavin homeostasis and the development of leaf and flower organs",
       "journal": "Plant Physiology",
@@ -917,19 +932,6 @@
         "Равшанжон Муратджанович Халилов",
         "Азиза Абдугаффаровна Сиддикова",
         "Ахматхон Умарханович Маматханов"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1007/s10725-026-01528-2",
-      "title": "Effect of shading levels on growth changes in rice at different growth stages",
-      "journal": "Plant Growth Regulation",
-      "year": "",
-      "abstract": "",
-      "authors": [
-        "Min-Ji Lee",
-        "Nam-Jin Chung",
-        "Woon-Ha Hwang"
       ]
     },
     {

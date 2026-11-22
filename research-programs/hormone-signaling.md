@@ -9,7 +9,7 @@ total_papers: 385
 total_aims: 6
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-21
+updated: 2026-11-22
 ---
 
 # 🔬 Hormone Signalling：从证据到可执行研究方案
@@ -150,4 +150,4 @@ updated: 2026-11-21
 **方案的有效期与证据同步，不做无限期承诺**。
 
 ---
-*由 Phase 8 生成于 2026-11-21；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-22；生成器版本 2026-11-02-evidence-grounded*
