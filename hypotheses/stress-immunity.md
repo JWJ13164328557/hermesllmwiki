@@ -11,7 +11,7 @@ specificity_domain: 6
 specificity_generic: 0
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-22
+updated: 2026-11-23
 ---
 
 # 💡 Stress & Immunity — 可证伪假说（6 条）
@@ -244,4 +244,4 @@ updated: 2026-11-22
 3. 证据 ID 可直接在 `evidence/` 下打开原文摘要核对，禁止跳过核对直接引用。
 
 ---
-*由 Phase 8 生成于 2026-11-22；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-23；生成器版本 2026-11-02-evidence-grounded*
