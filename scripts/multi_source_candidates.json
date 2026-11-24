@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -165,6 +165,49 @@
     },
     {
       "source": "crossref",
+      "doi": "10.5626/ktcp.2026.32.11.554",
+      "title": "Lightweight Analysis of Patient Phenotype Prediction Based on Single-Cell RNA-seq Data Reduction Techniques",
+      "journal": "KIISE Transactions on Computing Practices",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Yoobin Shin",
+        "Janghyun Noh",
+        "Minsik Oh"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1093/neuonc/noag245.091",
+      "title": "MO03.1.A Spike-in probe-enhanced single-cell RNA-seq reveals post-infusion transcriptomic remodeling of “prime-and-kill” synNotch-CAR-T cells",
+      "journal": "Neuro-Oncology",
+      "year": "2026",
+      "abstract": "Abstract\n                  \n                    Background\n                    We previously developed synthetic Notch (synNotch)-chimeric antigen receptor (CAR)-T cells to improve the safety and efficacy of CAR-T therapy for glioblastoma. In this system, an anti-EphA2/IL13Rα2-dual-CAR is expressed only upon recognition of tumor- or brain-specific “priming” antigens, EGFRvIII (termed E-SYNC cells) or brevican (B-SYNC), respectively, with E-SYNC currently under phase I clinical evaluation (NCT06186401). However, tracking and profiling these engineered cells in vivo remain challenging, limiting our understanding of their activity and therapeutic potential. To address this gap, we developed a single-cell RNA-sequencing (scRNA-seq) workflow with custom spike-in probes targeting synNotch-CAR transcripts, enabling simultaneous detection of engineered cells and transcriptomic profiling.\n                  \n                  \n                    Material and Methods\n                    Using the 10X Genomics Flex Gene Expression platform, we incorporated 20 custom spike-in probes into a premanufactured whole-transcriptome probe set to detect synNotch-CAR transcripts. This workflow was evaluated in vitro using E-SYNC and B-SYNC cells and in vivo using xenograft models treated with a single intravenous infusion of B-SYNC cells. We assessed detection of synNotch-positive cells and performed single-cell transcriptomic profiling to characterize post-infusion dynamics, including tissue-specific and antigen-dependent changes.\n                  \n                  \n                    Results\n                    In vitro, integration of multiple probes using machine-learning-assisted classifiers detected 78.2% of E-SYNC cells and 60.0% of B-SYNC cells with 98.0% specificity. In xenograft models, synNotch-positive cells were detected across spleen, lung, and brain tissues, with the highest frequency and most robust priming and activation observed in the brain. Single-cell transcriptomic analyses revealed tissue-specific differentiation programs, including cytotoxicity, proliferation, metabolic activity, and acquisition of tissue-resident memory phenotypes, shaped by both environmental cues and synNotch-mediated antigen recognition.\n                  \n                  \n                    Conclusion\n                    This spike-in probe-enhanced scRNA-seq workflow enables robust detection and high-resolution characterization of synNotch-CAR-T cell dynamics, providing a broadly applicable platform for monitoring engineered immune cells across diverse clinical contexts.\n                  ",
+      "authors": [
+        "T Nejo",
+        "P B Watchmaker",
+        "M S Simic",
+        "A Yamamichi",
+        "S Lakshmanachetty"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1186/s12859-026-06779-4",
+      "title": "SPARC: sparsity-aware structural consistency for single-cell RNA-seq imputation",
+      "journal": "BMC Bioinformatics",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Yueying Wang",
+        "Haorui Ma",
+        "Yulong Liu",
+        "Xin Feng",
+        "Yusi Fan"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1186/s13059-026-04349-8",
       "title": "Benchmarking computational tools for locus-specific analysis of transposable elements in single-cell RNA-seq datasets",
       "journal": "Genome Biology",
@@ -243,51 +286,6 @@
       "authors": [
         "Yuqi Cheng",
         "Xiuwei Zhang"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3389/fmed.2026.1973671",
-      "title": "Single-cell RNA-seq defines vascular endothelial heterogeneity and state-associated putative pathogenic programs in active versus inactive keloids",
-      "journal": "Frontiers in Medicine",
-      "year": "",
-      "abstract": "\n                    Background\n                    Keloids are benign fibroproliferative skin lesions with pronounced clinical heterogeneity. Pruritic active keloids (AK) manifest with erythema, pruritus and high recurrence risk, whereas non-pruritic inactive keloids (IAK) present as indurated, stable lesions. Although vascular alterations are clinically correlated with keloid disease activity, the underlying cellular mechanisms, particularly endothelial cell heterogeneity and pathogenic programs associated with each activity state, remain largely uncharacterized.\n                  \n                  \n                    Objective\n                    This study aimed to delineate the cellular and molecular mechanisms driving the phenotypic divergence between active and inactive keloids from the perspective of vascular remodeling and angiogenesis.\n                  \n                  \n                    Methods\n                    Single-cell RNA sequencing profiles from three active and three inactive keloids, together with four mature-scar and three normal-skin samples, were integrated. Key findings were validated at the protein level via multiplex immunofluorescence staining.\n                  \n                  \n                    Results\n                    In total, 8 vascular endothelial cell (VEC) subpopulations were identified, including two candidate pathological subsets: pro-fibrotic POSTN+P cells and angiogenic tip cells. Pseudotime and tip/stalk ratio analyses confirmed state-associated differentiation preferences. VECs in AKs preferentially differentiated into PGF/PXDN-enriched tip cells to sustain active angiogenesis and inflammatory crosstalk. Conversely, VECs in IAKs predominantly differentiated into POSTN+P cells and small arterial VECs, reinforcing fibrosis and vascular stability. Cross-lineage pseudotime analysis further suggested a possible endothelial-to-mesenchymal transition (EndMT)-like transcriptional continuum, in which VWF+ fibroblasts co-expressing endothelial and stromal programs were enriched in IAKs and supported at the protein level by immunofluorescence; because cross-sectional scRNA-seq cannot establish lineage direction or causality, this putative VEC-to-fibroblast axis is presented as a hypothesis that requires lineage tracing and functional validation. CellChat analysis revealed contrasting intercellular communication landscapes: AKs were characterized by immune-driven signaling (CD40, IL-1, CXCL12-CXCR4), while IAKs relied on matrix-mediated crosstalk centered on COL1A1-ITGA2/ITGB1 interactions.\n                  \n                  \n                    Conclusions\n                    This study maps the single-cell transcriptomic landscape of the keloid vasculature and identifies state-associated endothelial and signaling programs in active versus inactive keloids, nominating hypothesis-generating candidate targets and biomarkers that require functional validation before any therapeutic application.\n      ",
-      "authors": [
-        "Yuchen Tang",
-        "Yuanqi Ma",
-        "Mengyuan Jiang",
-        "Zexi Wang",
-        "Jie Luo"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.26508/lsa.202603861",
-      "title": "Label-free multi-metric pipeline for reproducible clustering of single-cell RNA-seq cell types",
-      "journal": "Life Science Alliance",
-      "year": "2027",
-      "abstract": "Single-cell RNA sequencing has transformed our ability to identify cell types and explore cellular diversity. However, determining whether apparent cell subtypes represent true biological populations or artifacts of data analysis remains a major challenge. To address this issue, we developed scClustBench, an open-source benchmarking framework that evaluates cluster quality, stability, and reproducibility across multiple analytical approaches. Rather than relying on a single clustering method, scClustBench tests whether proposed cell subtypes can be consistently recovered. We applied scClustBench to a mouse retinal dataset containing bipolar cells, which are known to exhibit subtype diversity, and rod photoreceptors, for which subtype classification remains controversial. The framework consistently identified reproducible bipolar cell subtypes across analytical methods. In contrast, while some rod photoreceptor clusters appeared stable during resampling analyses, they could not be reproduced across embedding methods, suggesting that these partitions do not represent robust biological subtypes. Additional analyses using simulated and external datasets demonstrated that scClustBench reliably distinguishes meaningful cellular heterogeneity from analytical artifacts. These findings provide a practical framework for rigorous interpretation of single-cell transcriptomic data.",
-      "authors": [
-        "Zachary Yousef",
-        "Jonah Simone",
-        "Dylan Klein",
-        "Avinav Bhuyan",
-        "Heejoo (Jen) Cho"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1093/g3journal/jkag309",
-      "title": "FlyAnatoView: visualization of\n                    <i>Drosophila</i>\n                    single-cell RNA-seq datasets on anatomographs",
-      "journal": "G3: Genes, Genomes, Genetics",
-      "year": "",
-      "abstract": "Abstract\n                  Single-cell RNA sequencing (scRNA-seq) is a powerful approach for characterizing gene expression at single-cell resolution and identifying distinct cell populations within complex tissues. However, tissue dissociation disrupts the spatial relationships among cells, making it difficult to determine their original anatomical locations and interpret gene expression patterns in the context of tissue organization. To address this limitation, we developed FlyAnatoView (https://www.flyrnai.org/tools/rna_seq_base/web/svg_files/), a resource that projects scRNA-seq data onto anatomical diagrams of Drosophila melanogaster. By integrating gene expression data with anatomical representations, FlyAnatoView helps restore spatial context and enables users to explore expression patterns across tissues, organs, and cell types. This resource provides an intuitive way to connect transcriptomic profiles with anatomical structures, facilitating the interpretation and exploration of scRNA-seq datasets.",
-      "authors": [
-        "Yanhui Hu",
-        "Jenna Kalina",
-        "Austin Veal",
-        "Ben Ewen-Campen",
-        "Tarryn Porter"
       ]
     },
     {
@@ -1002,6 +1000,20 @@
     },
     {
       "source": "crossref",
+      "doi": "10.30574/gscbps.2026.37.2.0385",
+      "title": "IN VITRO GROWTH OF POTATO (SOLANUM TUBEROSUM L.) CULTIVAR GRANOLA PLANTLETS UNDER DROUGHT STRESS INDUCED BY VARIOUS CONCENTRATIONS OF MANNITOL",
+      "journal": "GSC Biological and Pharmaceutical Sciences",
+      "year": "",
+      "abstract": "Potato (Solanum tuberosum L.) is one of the important food commodities with high economic value in Indonesia, with Granola being the most widely cultivated cultivar. The productivity of this cultivar often decreases due to drought stress. This study aimed to determine the growth response of potato plantlets of the Granola cultivar to various concentrations of mannitol as a simulation of drought stress and to determine the mannitol concentration that can still be tolerated by the plantlets. This study employed a Completely Randomized Design (CRD) with one factor, namely the addition of mannitol at concentrations of 0 M, 0.1 M, 0.2 M, 0.3 M, and 0.4 M. Each concentration was replicated five times. The research data consisted of qualitative and quantitative data. Qualitative data were presented using a comparative descriptive approach and supplemented with photographic documentation, while quantitative data were tested for homogeneity of variance using Levene’s test at a 5% significance level. If the data were homogeneous, an analysis of variance (ANOVA) was performed. When significant differences were detected, the analysis was followed by Tukey’s HSD test at the 5% significance level. The results showed that the application of mannitol as a simulation of drought stress induced changes in the morphological and physiological responses of potato plantlets of the Granola cultivar. Increasing mannitol concentrations tended to decrease plantlet height, number of leaves, and number of shoots, accompanied by changes in plantlet appearance from green to greenish-brown and eventually brown, as well as reductions in chlorophyll a, chlorophyll b, and total chlorophyll contents. Potato plantlets of the Granola cultivar were still able to maintain growth under 0.1 M and 0.2 M mannitol treatments, whereas increasing the concentration to 0.3 M and 0.4 M resulted in greater growth inhibition.",
+      "authors": [
+        "Mayridha Dwi Andini",
+        "Endang Nurcahyani",
+        "Yulianty Yulianty",
+        "Sri Wahyuningsih"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1016/j.plaphy.2026.111898",
       "title": "OsDREB1B regulates cold and salt stress responses in rice (Oryza sativa L.)",
       "journal": "Plant Physiology and Biochemistry",
@@ -1169,18 +1181,6 @@
         "Bo Wang",
         "Muhammad Mehran Abbas",
         "Yan Liang"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3390/genes17091094",
-      "title": "Genome-Wide Identification and Characterization of the Annexin (ANN) Gene Family in Potato (Solanum tuberosum L.) and Its Role in Salt Stress Response Revealed by Integrated Transcriptome and WGCNA Analysis",
-      "journal": "Genes",
-      "year": "",
-      "abstract": "Background/Objectives: Soil salinization threatens global potato production, yet the molecular mechanisms underlying salt tolerance remain poorly understood. This study aimed to elucidate dynamic transcriptomic responses to salt stress, identify key regulatory genes, and characterize the corresponding gene family and its stress-responsive roles. Methods: Potato cv. Atlantic plantlets were subjected to 150 mM NaCl stress, with samples collected at 0, 3, 12, 24, and 48 h. Physiological and transcriptomic analyses were performed. WGCNA was employed to identify salt-responsive modules. Genome-wide identification, phylogenetic analysis, gene structure characterization, conserved motif analysis, and promoter cis-element prediction of the annexin gene family were conducted. Results: Transcriptome sequencing identified 1394 differentially expressed genes (DEGs) that were consistently responsive to salt stress, with functional enrichment highlighting stress signaling, hormone transduction, and phenylpropanoid biosynthesis pathways. Weighted gene co-expression network analysis (WGCNA) revealed the MEblack module as the key salt-responsive regulatory module, in which annexin genes exhibited high intramodular connectivity. Genome-wide identification uncovered nine annexin genes (StANN1–StANN9), characterized by uneven chromosomal distribution, conserved exon–intron structures and annexin repeat domains, and expansion through tandem, proximal and segmental duplication under purifying selection. Promoter analysis revealed abundant stress-responsive cis-elements, including ABRE and DRE/CRT motifs, in salt-inducible annexins. Expression profiling demonstrated that StANN5 and StANN6 were continuously upregulated under prolonged salt stress, whereas StANN2 and StANN3 showed transient early induction. Conclusions: These findings establish the central role of annexins in calcium signaling, redox homeostasis, and hormone-mediated stress adaptation, providing candidate targets for molecular breeding of salt-tolerant potato varieties.",
-      "authors": [
-        "Qingsheng Zhou",
-        "Jingchong Li"
       ]
     },
     {

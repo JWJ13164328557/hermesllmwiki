@@ -1,6 +1,6 @@
 ---
 title: "Gene-Compound Co-occurrence (Metabolism)"
-created: 2026-11-23
+created: 2026-11-24
 type: relationship
 category: metabolism-gene-compound
 tags: [metabolism, relationships]
@@ -13,7 +13,7 @@ used_for: "navigation-only"
 # Gene–Compound Co-occurrence (Metabolism)
 
 ## Summary
-Scanned 18125 evidence objects; 654 genes were co-mentioned with compounds, 806 gene-compound pairs retained.
+Scanned 18132 evidence objects; 654 genes were co-mentioned with compounds, 806 gene-compound pairs retained.
 
 > **语义边界**：本页只统计“同一证据对象中同时出现”，即共现，不是调控，也不是因果。共现强度不能用来推断基因控制该化合物的合成或积累。
 
@@ -60,6 +60,6 @@ Scanned 18125 evidence objects; 654 genes were co-mentioned with compounds, 806 
 - 本页只用于缩小人工核查范围；下游 synthesis / hypotheses 不得把本页当作调控或因果证据。
 
 ## Notes
-- 生成范围：全库代谢主题证据（2026-11-23 重算）
+- 生成范围：全库代谢主题证据（2026-11-24 重算）
 - 关联强度 = 同一证据对象中的共现次数，**不是调控强度**
 - 候选排序用途：用于缩小人工核查范围，不得直接写入机制结论

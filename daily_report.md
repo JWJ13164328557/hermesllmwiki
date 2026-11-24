@@ -1,42 +1,41 @@
 # 每日文献更新报告
 
-2026-11-23
+2026-11-24
 
 <!-- SELFCHECK-FAIL-BANNER:START -->
-> [!WARNING] 本次运行有 **2 项自检未通过**，结果需在下一轮前处理：
-> - 运行健康（非降级）（降级 2 项：全文获取 0/2（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼 0/2 篇（无全文或提炼失败））
-> - 日报计数诚实性（日报累计实际新增 2 篇；磁盘当日 created 1 篇；差额 -1（正数=其他通道））
+> [!WARNING] 本次运行有 **1 项自检未通过**，结果需在下一轮前处理：
+> - 运行健康（非降级）（降级 3 项：全文获取 0/16（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼仅覆盖 1/16 篇；综合页刷新：刷新后仍有不自洽页面（校验未通过））
 >
-> 详见文末「运行后闭环自检」表与 `_review/selfcheck/2026-11-23.json`。
+> 详见文末「运行后闭环自检」表与 `_review/selfcheck/2026-11-24.json`。
 <!-- SELFCHECK-FAIL-BANNER:END -->
 
 > 本日共 1 次运行，按时间倒序合并；每次运行单独成节，互不覆盖。
 
-## 运行 08:07:09
+## 运行 08:07:24
 
-检索: 320 篇
-候选（通过过滤）: 2 篇
+检索: 326 篇
+候选（通过过滤）: 16 篇
 
 ### 检索漏斗
 
 | 环节 | 篇数 |
 |---|---:|
-| 检索命中 | 320 |
-| 库里已存在 | 188 |
-| 期刊不在植物/农学名单 | 33 |
-| 非植物判定 | 67 |
+| 检索命中 | 326 |
+| 库里已存在 | 177 |
+| 期刊不在植物/农学名单 | 32 |
+| 非植物判定 | 73 |
 | 非植物主题过滤 | 7 |
-| 不属于八主题 | 17 |
-| 纯度闸门（研究对象非植物） | 6 |
-| **通过并待导入** | **2** |
-| 合计 | 320 |
+| 不属于八主题 | 14 |
+| 纯度闸门（研究对象非植物） | 7 |
+| **通过并待导入** | **16** |
+| 合计 | 326 |
 
 漏斗对账：合计等于检索数，每一篇都有归属。
 
 **期刊被拒 TOP（白名单缺口诊断）**
 
 - Analytica chimica acta ×6
-- Talanta ×5
+- Talanta ×3
 - Virulence ×2
 - Gene ×2
 - Fish & shellfish immunology ×2
@@ -48,22 +47,33 @@
 - Bone ×1
 - Waste management (New York, N.Y.) ×1
 
-实际新增页面: 2 篇
+实际新增页面: 16 篇
 跳过已存在页面: 0 篇
-全库当日 created 页面（含 multisource/其他通道）: 2 篇
+全库当日 created 页面（含 multisource/其他通道）: 16 篇
 
 ## 本次实际新增
 
 - Genetic dissection of one-carbon metabolism: Roles in pluripotency and embryonic development. (Developmental biology 2026) PMID:42767394
 - Role of LGALS9 and human milk oligosaccharides in modulating immune responses in food allergy: Insights from network pharmacology and molecular simulations. (Biochemical and biophysical research communications 2026) PMID:42987599
+- Identification of key pathways and functional modules associated with multiple abiotic and biotic stress conditions in barley. (Functional plant biology : FPB 2026) PMID:43068816
+- Combined Rhizophagus irregularis and Bacillus megaterium inoculation enhances root hydraulics and potassium acquisition and improves maize tolerance to drought stress and potassium deficiency. (Mycorrhiza 2026) PMID:43069007
+- Dissecting the genomic and transcriptomic basis of heterosis in elite indica-japonica hybrid rice Zheyou 18. (Functional & integrative genomics 2026) PMID:43069373
+- A conserved role for the transcription factor SUPERMAN in seed development across eudicots. (Journal of experimental botany 2026) PMID:43069734
+- Exogenous β-glucan activates systemic acquired resistance (SAR) conferring dual resistance to SRBSDV and Sogatella furcifera in rice. (Pest management science 2026) PMID:43070037
+- Comparative Functional Characterization of Plant Squalene Synthases and Application of Olive Squalene Synthase for Squalene Production in Saccharomyces cerevisiae. (Biotechnology and bioengineering 2026) PMID:43070094
+- MdEF-Tu-associated translational reprogramming modulates apple disease resistance through the MdGAPC2-autophagy pathway. (The New phytologist 2026) PMID:43070322
+- Dietary and Lifestyle Modifiers of Toxic-Metal Exposure and Selenium-Dependent Defense: A Critical Narrative Review. (Biological trace element research 2026) PMID:43071007
+- Ultra-high hydrostatic pressure combined with tea saponin micelles enhances naringin extraction from pomelo peel. (Bioresources and bioprocessing 2026) PMID:43071019
+- Genome-metabolome integration reveals NRPS-associated peptides and redox-active metabolites correlated with antioxidant and cyanide-detoxifying functions of Pediococcus acidilactici LP05 in cassava fermentation. (Biotechnology letters 2026) PMID:43071245
+- Global m6A profiling reveals epitranscriptomic regulation of gene expression in rice roots under alkaline stress. (Stress biology 2026) PMID:43071315
+- Fungal secreted leucine-rich repeat proteins suppress plant immunity to enhance colonisation. (PLoS pathogens 2026) PMID:43071686
+- Occurrence of tomato brown rugose fruit virus infecting field tomato (Solanum lycopersicum) in Hawaii. (Plant disease 2026) PMID:43071919
+- Genomic characterization of a novel WVMV isolate and development of a sensitive, field-deployable RT-RPA-CRISPR/Cas12a lateral flow detection assay. (Plant disease 2026) PMID:43071937
 
 ## 八主题相关性拒收
 
 - Programmable 4D printing of sustainable multifunctional photoresins with tissue-matched mechanics for interfacial tissue regeneration. (Bioactive materials) PMID:42761431 — off-topic:materials-engineering:4D printing (core=none)
 - Next-generation fermented foods from non-conventional proteins: Linking fermentation dynamics, flavor chemistry, and gut microbiome modulation. (International journal of food microbiology) PMID:42790302 — off-topic:food-safety:food microbiology (core=single-cell)
-- Tea polyphenols amplify oxidative stress-induced eradication of Staphylococcus aureus by disrupting the hydrogen sulfide (H2S) signaling pathway. (Food microbiology) PMID:42901671 — off-topic:food-safety:Staphylococcus aureus (core=none)
-- Persistence and epidemiological relevance of Salmonella enterica Newport in public-access waters from a central California coastal agricultural region. (Food microbiology) PMID:42901675 — off-topic:food-safety:Salmonella (core=methods)
-- Effects of indigenous microbiota in fresh produce on Salmonella survival and inactivation by oregano essential oil vapor. (Food microbiology) PMID:42901677 — off-topic:food-safety:fresh produce (core=none)
 - Bacillus velezensis P15 triggers the dynamic defense response of cherry tomato against Alternaria rot during postharvest. (International journal of food microbiology) PMID:42901822 — off-topic:food-safety:food microbiology (core=stress-immunity)
 - Evaluating municipal solid waste-derived vermicompost for soil improvement, plant performance, and associated health risk in spinach. (Environmental research) PMID:42914080 — off-topic:food-safety:food safety (core=none)
 - Visible-light photoactivation enhances the antimicrobial efficacy of biomass-derived carbon quantum dots: Temperature-dependent inactivation kinetics and application in enoki mushrooms. (Food research international (Ottawa, Ont.)) PMID:42914444 — off-topic:food-safety:food preservation (core=none)
@@ -85,6 +95,7 @@
 - Artemisitene targets GLIS3 to inhibit the NF-κB-TNF signaling pathway and suppress bladder cancer cell growth. (Phytomedicine : international journal of phytotherapy and phytopharmacology) PMID:42863415 — subject=cancer cell
 - Oral squamous cell carcinoma: A modern review of pathogenesis and treatment. (The international journal of biochemistry & cell biology) PMID:42887823 — subject=carcinoma
 - PPAR/RXR dysregulation involved in hepatic lipid accumulation in HFPO-TeA-exposed zebrafish: Insights from multi-omics and spatial imaging. (Environmental research) PMID:42966525 — subject=zebrafish
+- Reactivation of Epigenetically Silenced Metabolic Pathways in Continuously Subcultured Taxus Plant Cell Lines. (Biotechnology and bioengineering) PMID:43070098 — subject=cell line
 
 ## 纯度待审（信号冲突，导入后复核）
 
@@ -92,6 +103,7 @@
 
 - Genetic dissection of one-carbon metabolism: Roles in pluripotency and embryonic development. (Developmental biology) PMID:42767394 — subject=mouse, weak-plant-context=none
 - Role of LGALS9 and human milk oligosaccharides in modulating immune responses in food allergy: Insights from network pharmacology and molecular simulations. (Biochemical and biophysical research communications) PMID:42987599 — subject=cohort, weak-plant-context=none
+- Dietary and Lifestyle Modifiers of Toxic-Metal Exposure and Selenium-Dependent Defense: A Critical Narrative Review. (Biological trace element research) PMID:43071007 — doi-prefix:medical, journal-medical=doi:medical, no-plant-organism-in-title
 
 <!-- QUARANTINE:START -->
 
@@ -99,8 +111,8 @@
 
 | 类别 | 篇数 | 归档位置 |
 |---|---:|---|
-| 非植物研究对象（phase5_5） | 2 | `_review/archive/nonplant_2026-11-23/` |
-| 非八主题（phase5_6） | 0 | `_review/archive/topic_2026-11-23/` |
+| 非植物研究对象（phase5_5） | 2 | `_review/archive/nonplant_2026-11-24/` |
+| 非八主题（phase5_6） | 0 | `_review/archive/topic_2026-11-24/` |
 
 ### 非植物隔离明细
 
@@ -117,23 +129,23 @@
 
 | 检查项 | 结果 | 说明 |
 |---|---|---|
-| 运行健康（非降级） | FAIL | 降级 2 项：全文获取 0/2（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼 0/2 篇（无全文或提炼失败） |
+| 运行健康（非降级） | FAIL | 降级 3 项：全文获取 0/16（Europe PMC + OA 通道均未取得全文，后续提炼退化为摘要级）；深度提炼仅覆盖 1/16 篇；综合页刷新：刷新后仍有不自洽页面（校验未通过） |
 | 闸门离线回放 | PASS | 坏例拒收 7/7，正例放行 5/5 |
-| 当日新增页领域复查 | PASS | 当日新增 1 页，越界 0 页 |
+| 当日新增页领域复查 | PASS | 当日新增 17 页，越界 0 页 |
 | 文献类型分层 | PASS | 非研究页 57 页（保留不删）；证据池泄漏 0 条 |
 | 综合页/假说页证据一致 | PASS | 主题数 8；证据数不一致 0；正文未重建 0 |
 | 标题异常 | PASS | 标题异常 0 条；标题待补 1 条 |
 | 关系层语义 | PASS | 关系页 2 个；语义越权 0 个 |
-| 证据类型完整性 | PASS | evidence 18126 条；类型空值 0 条；未按 rule-v9-20261107 重标 0 条 |
-| 证据语义判别力 | PASS | evidence 18126；空类型 0；描述性 66.5%；因果级 13.8%；低置信 13403（74%）；论断角色缺字段 0；非发现句 3447 条（已排除出证据池） |
-| 主题覆盖与标签别名 | PASS | 证据主题归属 14629/18126（80.7%）＝tag 精确 73 + 论文继承 14556；论文三态：mapped 5176／out-of-scope 842／unclassified 1499（可判断页归属 86.0%，未判定占比 19.9%）；可作证据分母 4998/7305（68.4%）；别名残留 0 |
+| 证据类型完整性 | PASS | evidence 18133 条；类型空值 0 条；未按 rule-v9-20261107 重标 0 条 |
+| 证据语义判别力 | PASS | evidence 18133；空类型 0；描述性 66.5%；因果级 13.8%；低置信 13403（74%）；论断角色缺字段 0；非发现句 3449 条（已排除出证据池） |
+| 主题覆盖与标签别名 | PASS | 证据主题归属 14636/18133（80.7%）＝tag 精确 73 + 论文继承 14563；论文三态：mapped 5193／out-of-scope 842／unclassified 1499（可判断页归属 86.0%，未判定占比 19.9%）；可作证据分母 5015/7322（68.5%）；别名残留 0 |
 | 综合页综述质量 | PASS | 综合页 8；不合格 0 |
 | 假说分布与模板化 | PASS | 假说分布：单细胞与空间组学=6、植物发育生物学=6、代谢与天然产物=6、激素与信号转导=6、逆境与免疫=6、表观遗传与基因调控=6、方法与工具=6、基因组学与演化=6 |
-| 日报计数诚实性 | FAIL | 日报累计实际新增 2 篇；磁盘当日 created 1 篇；差额 -1（正数=其他通道） |
-| frontmatter 可解析 | PASS | 扫描 25890 页；不可解析 0 页 |
-| 证据可回溯（DOI） | PASS | 证据 18126 条；无 DOI 0；来源页无 DOI 0；共识页 1（support 不足 0） |
+| 日报计数诚实性 | PASS | 日报累计实际新增 16 篇；磁盘当日 created 17 篇；差额 +1（正数=其他通道） |
+| frontmatter 可解析 | PASS | 扫描 25914 页；不可解析 0 页 |
+| 证据可回溯（DOI） | PASS | 证据 18133 条；无 DOI 0；来源页无 DOI 0；共识页 1（support 不足 0） |
 | 日报漏斗对账 | PASS | 生产运行 1 段，对账通过 1 段 |
-| 物种字段失真 | PASS | 含物种行 5620 页；伪影物种无正文支持 1 条（阈值 40）；无摘要无法判定 15 页 / 18 条，已标 species_status: unverified 15 页、漏标 0 页；物种为占位 plant/未识别 2603 页（46.3%，摘要缺失导致，非失败项）；例：daily-42488446.md: Cucumis spp.(子串) |
+| 物种字段失真 | PASS | 含物种行 5637 页；伪影物种无正文支持 1 条（阈值 40）；无摘要无法判定 15 页 / 18 条，已标 species_status: unverified 15 页、漏标 0 页；物种为占位 plant/未识别 2619 页（46.5%，摘要缺失导致，非失败项）；例：daily-42488446.md: Cucumis spp.(子串) |
 | 孤儿 PDF | PASS | raw PDF 2 份；孤儿（有全文无页面）0 份（阈值 200） |
 
 > 本段由 `pipeline_selfcheck.py` 在流水线末尾生成；FAIL 不等于当天数据一定不可用，但必须在下一轮运行前处理。

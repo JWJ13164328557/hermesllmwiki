@@ -6,12 +6,12 @@ total_evidence: 521
 total_papers: 273
 library_papers: 520  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-23
+body_status: rebuilt-2026-11-24
 tags: [synthesis, genomics, evolution, genome-assembly, comparative-genomics, GWAS, polyploidization, domestication]
 
 
 soybean_relevance: ⭐中高
-legacy_archive: _review/synthesis_legacy_20261123/genomics-evolution.md
+legacy_archive: _review/synthesis_legacy_20261124/genomics-evolution.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -80,7 +80,7 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-23 由 `rebuild_synthesis_body.py` 从 **521 条证据对象 / 273 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261123`，不再作为本页结论来源。
+> 本页正文于 2026-11-24 由 `rebuild_synthesis_body.py` 从 **521 条证据对象 / 273 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261124`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
@@ -131,7 +131,7 @@ rebuild_version: v3
 | Arabidopsis thaliana | 1 | 0 | 1 | 4 | 6 |
 | Triticum aestivum | 1 | 1 | 0 | 2 | 4 |
 | Glycine max | 0 | 1 | 0 | 2 | 3 |
-| Catharanthus roseus | 0 | 0 | 1 | 2 | 3 |
+| Nicotiana tabacum | 0 | 1 | 0 | 2 | 3 |
 
 **基因实体（自动标注，前 5）**：rhAmpSeq(2)、MKK3(1)（标注覆盖 3/27）。
 
@@ -208,7 +208,7 @@ rebuild_version: v3
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
-- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Nicotiana tabacum、Medicago spp.，反复出现的实体为GlyPDF、HaALS、sucrose；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[chromosome-level-genome-assemblies-of-musa-ornata-f1]]；[[chromosome-scale-genome-together-with-transcriptome-and-f6]]；[[daily-42204246-f3]]）。
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Nicotiana tabacum、Glycine max，反复出现的实体为GlyPDF、HaALS、sucrose；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[chromosome-level-genome-assemblies-of-musa-ornata-f1]]；[[chromosome-scale-genome-together-with-transcriptome-and-f6]]；[[daily-42204246-f3]]）。
 - **证据层级的张力**：本组 0 条因果级证据，全部 32 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（[[chromosome-level-genome-assemblies-of-musa-ornata-f1]]；[[chromosome-scale-genome-together-with-transcriptome-and-f6]]）。
 - **可检验缺口**：遗传扰动、DNA 结合、蛋白互作在本组缺证据；在补齐这些设计前，GlyPDF、HaALS、sucrose 与“多倍化与亚基因组演化”的方向性关系应作为待检验命题（[[chromosome-level-genome-assemblies-of-musa-ornata-f1]]；[[chromosome-scale-genome-together-with-transcriptome-and-f6]]）。
 
@@ -218,8 +218,8 @@ rebuild_version: v3
 |---|---|---|---|---|---|
 | Arabidopsis thaliana | 1 | 0 | 1 | 5 | 7 |
 | Nicotiana tabacum | 0 | 1 | 1 | 5 | 7 |
-| Medicago spp. | 0 | 1 | 0 | 5 | 6 |
 | Glycine max | 0 | 1 | 0 | 5 | 6 |
+| Medicago spp. | 0 | 1 | 0 | 5 | 6 |
 | Oryza sativa | 0 | 0 | 0 | 6 | 6 |
 
 **基因实体（自动标注，前 5）**：GlyPDF(1)、HaALS(1)、PHY15(1)（标注覆盖 3/32）。
@@ -418,7 +418,7 @@ rebuild_version: v3
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261123`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261124`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 

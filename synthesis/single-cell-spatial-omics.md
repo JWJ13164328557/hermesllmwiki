@@ -6,12 +6,12 @@ total_evidence: 276
 total_papers: 138
 library_papers: 405  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-23
+body_status: rebuilt-2026-11-24
 tags: [synthesis, single-cell, spatial-omics, transcriptomics, plant-atlas]
 
 
 soybean_relevance: ⭐中
-legacy_archive: _review/synthesis_legacy_20261123/single-cell-spatial-omics.md
+legacy_archive: _review/synthesis_legacy_20261124/single-cell-spatial-omics.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -77,7 +77,7 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-23 由 `rebuild_synthesis_body.py` 从 **276 条证据对象 / 138 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261123`，不再作为本页结论来源。
+> 本页正文于 2026-11-24 由 `rebuild_synthesis_body.py` 从 **276 条证据对象 / 138 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261124`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
@@ -149,7 +149,7 @@ rebuild_version: v3
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
-- **一致的观察范围**：本组证据集中在Triticum aestivum、Arabidopsis thaliana、Hordeum vulgare，反复出现的实体为RA2、RAMOSA2、theanine；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-40904198-f1]]；[[daily-40904198-f3]]；[[daily-42028465-f4]]）。
+- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Triticum aestivum、Hordeum vulgare，反复出现的实体为RA2、RAMOSA2、theanine；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-40904198-f1]]；[[daily-40904198-f3]]；[[daily-42028465-f4]]）。
 - **证据层级的张力**：本组 0 条因果级证据，全部 16 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（[[daily-40904198-f1]]；[[daily-40904198-f3]]）。
 - **可检验缺口**：遗传扰动、DNA 结合、蛋白互作、表达相关、表型关联在本组缺证据；在补齐这些设计前，RA2、RAMOSA2、theanine 与“空间转录组与位置映射”的方向性关系应作为待检验命题（[[daily-40904198-f1]]；[[daily-40904198-f3]]）。
 
@@ -157,8 +157,8 @@ rebuild_version: v3
 
 | 物种 | 组学共现 | 描述性 | 合计 |
 |---|---|---|---|
-| Triticum aestivum | 4 | 1 | 5 |
 | Arabidopsis thaliana | 5 | 0 | 5 |
+| Triticum aestivum | 4 | 1 | 5 |
 | Hordeum vulgare | 5 | 0 | 5 |
 | Oryza sativa | 4 | 1 | 5 |
 | Zea mays | 2 | 1 | 3 |
@@ -240,7 +240,7 @@ rebuild_version: v3
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
-- **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Oryza sativa、Solanum tuberosum；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]；2026 [[dpdf-10-1038-s41477025-02181-9-f1]]；2026 [[dpdf-10-1038-s41477025-02181-9-f4]]）。
+- **一致的观察范围**：本组证据集中在Oryza sativa、Arabidopsis thaliana、Solanum tuberosum；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]；2026 [[dpdf-10-1038-s41477025-02181-9-f1]]；2026 [[dpdf-10-1038-s41477025-02181-9-f4]]）。
 - **证据层级的张力**：本组 0 条因果级证据，全部 6 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]；2026 [[dpdf-10-1038-s41477025-02181-9-f1]]）。
 - **可检验缺口**：遗传扰动、DNA 结合、蛋白互作、表达相关、表型关联在本组缺证据；在补齐这些设计前，目标实体 与“细胞类型特异性胁迫与免疫响应”的方向性关系应作为待检验命题（Yibo et al., 2022 [[development-of-a-single-cell-atlas-for-woodland-strawberry-i-fragaria-vesca-i-f5]]；2026 [[dpdf-10-1038-s41477025-02181-9-f1]]）。
 
@@ -248,11 +248,11 @@ rebuild_version: v3
 
 | 物种 | 组学共现 | 描述性 | 合计 |
 |---|---|---|---|
-| Arabidopsis thaliana | 2 | 0 | 2 |
 | Oryza sativa | 2 | 0 | 2 |
+| Arabidopsis thaliana | 2 | 0 | 2 |
 | Solanum tuberosum | 1 | 1 | 2 |
 | Fragaria × ananassa | 1 | 0 | 1 |
-| Triticum aestivum | 1 | 0 | 1 |
+| Zea mays | 1 | 0 | 1 |
 
 **代表断言（原文摘录，未改写）**
 
@@ -356,7 +356,7 @@ rebuild_version: v3
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261123`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261124`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 
