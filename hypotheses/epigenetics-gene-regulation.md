@@ -4,19 +4,19 @@ title_zh: "表观遗传与基因调控：可证伪假说"
 type: hypothesis
 topic: "epigenetics-gene-regulation"
 theme_basis: "tag"
-total_evidence: 1835
-total_papers: 316
+total_evidence: 1842
+total_papers: 317
 total_hypotheses: 6
 specificity_domain: 6
 specificity_generic: 0
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # 💡 Epigenetics & Gene Regulation — 可证伪假说（6 条）
 
-> 生成口径：主题内 1835 条证据 / 316 篇独立论文（主题归属依据：证据标签）。
+> 生成口径：主题内 1842 条证据 / 317 篇独立论文（主题归属依据：证据标签）。
 > 每条假说只在"≥3 条证据且 ≥2 篇独立论文"时生成，并附证据 ID 与证伪条件。
 > 本页是**机器生成的候选清单**，不是经同行评议的结论；引用前须回原文核对。
 
@@ -25,8 +25,8 @@ updated: 2026-11-24
 | 项目 | 值 |
 |---|---|
 | 主题 | Epigenetics & Gene Regulation |
-| 证据条目 | 1835 |
-| 独立论文 | 316 |
+| 证据条目 | 1842 |
+| 独立论文 | 317 |
 | 生成假说 | 6 |
 | 其中主题专用方案 | 6 |
 | 其中缺省回退方案（需改写） | 0 |
@@ -34,7 +34,7 @@ updated: 2026-11-24
 
 ### H1：FaMYB5（剂量—效应）
 
-**假说**：FaMYB5 已有 98 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+**假说**：FaMYB5 已有 99 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
 
 **为什么值得做（证据缺口）**
 
@@ -50,7 +50,7 @@ updated: 2026-11-24
 | 若假说为真 | 表型随 FaMYB5 表达或活性单调变化，半数效应点可在独立实验室复现 |
 | 若假说为假 | 表型与表达量无单调关系（阈值型或非单调），提示存在缓冲或旁路 |
 
-**证据基础**：198 条证据 / 98 篇独立论文（置信度：高）
+**证据基础**：200 条证据 / 99 篇独立论文（置信度：高）
 - `cmnac25-targets-cmmyb6-to-positively-regulate-f1`
 - `a-transcriptional-cascade-mediated-by-two-f4`
 - `daily-42665810-f6`
@@ -245,4 +245,4 @@ updated: 2026-11-24
 3. 证据 ID 可直接在 `evidence/` 下打开原文摘要核对，禁止跳过核对直接引用。
 
 ---
-*由 Phase 8 生成于 2026-11-24；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-25；生成器版本 2026-11-02-evidence-grounded*

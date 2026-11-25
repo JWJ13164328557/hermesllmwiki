@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -126,6 +126,21 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1016/j.xpro.2026.104920",
+      "title": "Protocol for quantifying locus-specific transposable element transcripts in single-cell RNA-seq data with Stellarscope",
+      "journal": "STAR Protocols",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Nicholas Liotta",
+        "Douglas F. Nixon",
+        "Jez L. Marston",
+        "Matthew L. Bendall",
+        "Helena Reyes-Gopar"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1016/j.biomaterials.2026.124379",
       "title": "Corrigendum to “Single-cell RNA-seq reveals functionally distinct biomaterial degradation-related macrophage populations” [Biomaterials Oct:277 (2021) 121116]",
       "journal": "Biomaterials",
@@ -174,6 +189,36 @@
         "Yoobin Shin",
         "Janghyun Noh",
         "Minsik Oh"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1038/s41589-026-02375-y",
+      "title": "scBiopsy-seq as a highly sensitive platform for temporal single-cell RNA-sequencing analysis",
+      "journal": "Nature Chemical Biology",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Linfeng Cai",
+        "Shiyan Lin",
+        "Minghao Qiu",
+        "Li Lin",
+        "Xing Na"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1038/s41467-026-78606-6",
+      "title": "Iso-Seq enables discovery of novel isoform variants in human retina at single-cell resolution",
+      "journal": "Nature Communications",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Luozixian Wang",
+        "Daniel Urrutia-Cabrera",
+        "Sandy Shen-Chi Hung",
+        "Alex W. Hewitt",
+        "Samuel W. Lukowski"
       ]
     },
     {
@@ -244,48 +289,6 @@
         "Yun Li",
         "Yaxin Wang",
         "Lisen Gao"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1007/s10577-026-09825-2",
-      "title": "Kmer-based reference-free assembly enables scalable and accurate single-cell RNA-seq analysis",
-      "journal": "Chromosome Research",
-      "year": "",
-      "abstract": "",
-      "authors": [
-        "Bin Liu",
-        "Lili Guo",
-        "Fengying Ma",
-        "Yanchun Bao",
-        "Chenhong Liang"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3390/ijms272210381",
-      "title": "Comparison of Enzymatic Dissociation Protocols for Single-Cell RNA-Seq of Pancreatic Neuroendocrine Tumors and Benchmarking Against Single-Nucleus RNA-Seq",
-      "journal": "International Journal of Molecular Sciences",
-      "year": "",
-      "abstract": "Pancreatic neuroendocrine tumors (PanNETs) represent a challenging tissue for single-cell transcriptomic analysis due to their complex tissue composition and high RNase content. Optimizing tissue dissociation while preserving RNA quality is essential for successful single-cell RNA sequencing (scRNA-seq). PanNET tissue samples, including insulinomas and metastatic samples, as well as a duodenal neuroendocrine tumor (DNET) sample, were subjected to enzymatic dissociation using different enzyme mixes. Samples yielding a high cell viability were selected for scRNA-seq, and the resulting data were compared with snRNA-seq data obtained from cryopreserved portions of the same tumors to investigate potential dissociation-related biases. In addition, morphological assessment of tissue blocks was performed to explore potential associations between tissue characteristics and dissociation outcomes. Collagenase I-based dissociation resulted in relatively high cell viability (&gt;70%) in both PanNET and DNET samples, whereas alternative enzyme combinations were associated with lower viability. ScRNA-seq and snRNA-seq revealed differences between the two approaches, reflecting potential assay-related differences in the representation of cellular gene expression. Our findings highlight the importance of balancing efficient tissue dissociation with the preservation of cell viability and suggest that morphological and clinical characteristics should be considered when developing protocols for the single-cell and single-nucleus transcriptomic analysis of PanNETs.",
-      "authors": [
-        "Julia Katsaran",
-        "Alesia Maluchenko",
-        "Maria Danilova",
-        "Nikita Onyanov",
-        "Denis Maksimov"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1038/s41467-026-78924-9",
-      "title": "EpiPack: A computational framework for reference mapping and out-of-reference detection for single-cell ATAC-seq data with heterogeneous peak features",
-      "journal": "Nature Communications",
-      "year": "",
-      "abstract": "",
-      "authors": [
-        "Yuqi Cheng",
-        "Xiuwei Zhang"
       ]
     },
     {
@@ -389,6 +392,18 @@
       "abstract": "",
       "authors": [
         "Edward Durner"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.3389/fpls.2026.2015467",
+      "title": "Red, blue and far-red light regimes shape vegetative growth and flowering responses in wild rocket: potential implications for vertical farming and speed breeding",
+      "journal": "Frontiers in Plant Science",
+      "year": "",
+      "abstract": "\n                    This study compared vegetative growth and flowering incidence in wild rocket (\n                    Diplotaxis tenuifolia\n                    ) under contrasting spectral and photon-supply conditions. Two varieties, Dragon’s Fire and Saturn, were exposed for four weeks to ambient-light Control and four LED regimes: R70:B30, R50:B50, red-blue-far-red (RBF) and low-photon white (LFW), supplying total photon fluxes of 215, 160, 230 and 50 µmol m\n                    -2\n                    s\n                    -1\n                    , respectively, including far-red where present. RBF supplied red:blue:far-red photon fluxes in a 155:60:15 ratio. The white LED treatment served as a reference with deliberately constrained photon supply. Light regime affected shoot fresh weight and stomatal conductance (both p &amp;lt; 0.001), whereas total phenolic content did not differ significantly among light treatments (p &amp;gt; 0.05). The red-blue treatments supported the strongest vegetative performance. Mean shoot fresh weight was 3.47 and 2.63 g plant\n                    -1\n                    under R70:B30 and R50:B50, respectively, compared with 0.75 g plant\n                    -1\n                    under RBF and 0.62 g plant\n                    -1\n                    under LFW. However, the red-blue treatments did not differ significantly for shoot fresh weight within either variety. RBF produced the highest mean stomatal conductance (g\n                    s\n                    ; 6.273 and 9.080 mm s\n                    -1\n                    in Dragon’s Fire and Saturn, respectively) but weak biomass accumulation and flowering, despite receiving the highest photon flux. Under R70:B30 and R50:B50, mean flowering incidence ranged from 16.07 to 21.21% in Dragon’s Fire and from 31.90 to 38.49% in Saturn. No flowering occurred under LFW, although this was accompanied by a substantial biomass penalty. PCA separated the red-blue treatments from RBF and LFW. Shoot fresh weight was positively associated with flowering incidence across treatments and varieties (R\n                    2\n                    = 0.621). Overall, wild rocket responded to the complete light regime rather than spectral composition or photon supply independently.\n                  ",
+      "authors": [
+        "Kambiz Baghalian",
+        "Zohreh Soltani"
       ]
     },
     {
@@ -621,21 +636,6 @@
         "Sidahmed Beddar",
         "Jean-Baptiste Millet",
         "Yasser Alayli"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1016/j.plantsci.2026.113181",
-      "title": "Low-intensity near-infrared light supplementation promotes chloroplast remodelling and biomass in tobacco, whereas far-red light induces shade-type acclimation",
-      "journal": "Plant Science",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Renan Falcioni",
-        "Werner Camargos Antunes",
-        "Evanilde Benedito",
-        "José Alexandre M. Demattê",
-        "Marcos Rafael Nanni"
       ]
     },
     {
@@ -889,6 +889,33 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1094/pdis-07-26-1333-sr",
+      "title": "Pathogenic Characteristics and Chemical Control of Soybean Leaf Anthracnose Caused by\n                    <i>Colletotrichum sojae</i>\n                    Newly Found in Northeast China",
+      "journal": "Plant Disease",
+      "year": "",
+      "abstract": "\n                    Soybean (\n                    Glycine max\n                    ) leaf anthracnose, caused by diverse pathogenic agents, poses a significant threat to global soybean production. In 2025, a pathogenic fungus was isolated from symptomatic soybean leaves collected in a major soybean-producing region of China. Morphological and molecular characterization confirmed that the isolates belong to\n                    Colletotrichum sojae\n                    . To our knowledge, this is the first report of\n                    C. sojae\n                    causing soybean leaf anthracnose in Northeast China. Among the 15\n                    C. sojae\n                    isolates tested, moderately virulent strains were predominant, accounting for approximately 53.3%. Host range determination demonstrated that\n                    C. sojae\n                    could infect lentil, tomato, cowpea, peanut, kidney bean, broad bean, mung bean, and corn, but failed to infect red adzuki bean. Fungicide bioassays showed that tebuconazole and difenoconazole exhibited the highest inhibitory efficacy, with each fungicide achieving full mycelial growth inhibition at 0.05 mg·liter\n                    −1\n                    . Moreover, foliar spraying with tebuconazole at 0.00014 mg·liter\n                    −1\n                    and difenoconazole at 0.0005 mg·liter\n                    −1\n                    reduced disease incidence by roughly 76%. Therefore, intercropping of host and nonhost plants, combined with the application of the aforementioned chemical fungicides, can be considered as effective strategies for controlling soybean leaf anthracnose. These results establish a scientific foundation for managing\n                    C. sojae\n                    -associated soybean leaf anthracnose in Northeast China.\n                  ",
+      "authors": [
+        "Jiayi Niu",
+        "Liangliang Yao",
+        "Jinxin Liu",
+        "Xue Zhang",
+        "Xiaohe Yang"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1002/pei3.70242",
+      "title": "Epidermal Flavonoids as a Potential Target Trait to Breed for Intrinsic Heat Tolerance in Wheat (\n                    <scp>\n                      <i>Triticum aestivum</i>\n                    </scp>\n                     L.)",
+      "journal": "Plant-Environment Interactions",
+      "year": "2026",
+      "abstract": "ABSTRACT\n                  \n                    In crop plants, epidermal flavonoids play a predominant role in photoprotection. To date, however, there has been no attempt to exploit the flavonoids as a biomarker in breeding for heat tolerance because routine phenotyping is neither practicable nor cost‐effective. A portable, non‐destructive fluorescence device, the Dualex Scientific sensor, has been used to estimate total epidermal flavonoids in a wide range of plant species. Our objectives in the current research were to investigate which of the flavonoids in wheat (\n                    \n                      Triticum aestivum\n                    \n                    L.) can be predicted from sensor readings obtained using the device, test its potential as a target trait to breed for heat tolerance and investigate the genetics through genome‐wide quantitative trait loci (QTL) and prediction analyses. A targeted analysis of several metabolites found that Flav index from the Dualex sensor was highly correlated with the isoorientin content of the leaf (\n                    R\n                    2\n                     = 0.9) and furthermore, cultivars rated as heat‐tolerant versus sensitive showed significant differences in isoorientin contents when exposed to artificial heat stress in the field. Using the Flav index as a proxy, a genome‐wide QTL analysis identified eight single‐nucleotide polymorphic markers associated with the trait. The individual loci explained between 2% and 30% of the phenotypic variation, and the major‐effect locus mapped close to a wheat ortholog of the maize gene (\n                    ZmUGT708A6\n                    ), which encodes a\n                    C‐glycosyltransferase\n                    and requires further validation. We further investigated genomic selection using molecular markers alone and found the prospects to be high, with a prediction accuracy of 0.69 ± 0.003. In conclusion, our results suggest that high concentration of isoorientin in wheat leaves, which could be accurately predicted using fluorescence imaging, are associated with heat tolerance in wheat. Furthermore, the wheat crop could be a valuable source of this health‐promoting compound.\n                  ",
+      "authors": [
+        "Livinus Emebiri",
+        "Harsh Raman"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1007/s11816-026-01105-z",
       "title": "Quantitative phosphoproteomics reveals stage-associated phosphorylation of proteins involved in hormone signaling and cell growth during rice inflorescence development",
       "journal": "Plant Biotechnology Reports",
@@ -900,36 +927,6 @@
         "Ji Soo Kim",
         "Jinmi Yoon",
         "Lae-Hyeon Cho"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1093/plphys/kiag867",
-      "title": "The bifunctional Arabidopsis cytosolic FAD synthase contributes to flavin homeostasis and the development of leaf and flower organs",
-      "journal": "Plant Physiology",
-      "year": "",
-      "abstract": "Abstract\n                  The flavins FAD and FMN are essential cofactors for many vital enzymes in living organisms. While de novo riboflavin synthesis is specific to plants, fungi and some bacteria, all organisms can synthesize the flavocoenzymes. In plants, the interconversion from riboflavin to FAD has been described in both in plastids and the cytoplasm. However, comprehensive functional analyses of the genes and enzymes involved in the two plant flavin metabolic pathways are still lacking. This includes an investigation into whether the two spatially separate FAD syntheses can compensate for one another. Here, we report on the genetic and physiological consequences of insufficient and enhanced levels of the cytosolic FAD synthase (FADS). The enzyme itself is a 55-kDa bifunctional protein made up of an N-terminal 3'-phosphoadenosine 5'-phosphosulfate reductase domain (with a FAD synthase function) and a C-terminal hydrolase molybdopterin-binding (MPtB) domain. Using T-DNA insertion mutants, FADS-RNAi, virus-induced gene silencing and FADS-overexpressor lines, various mutant phenotypes were identified during floral organ development and in leaf pigmentation. These phenotypic changes correlate with a shift in the FAD-to-FMN ratio and/or reduced FAD and FMN levels compared to wild type. We hypothesize that disrupted flavin homeostasis in turn leads to reduced expression of FAD-dependent enzymes. One significant deficiency phenotype attributable to disrupted FADS expression involves changes in phytohormone levels and signaling functions in flowers, impairing floral organ development.",
-      "authors": [
-        "Patrick Schall",
-        "Lucas Marutschke",
-        "Yuwei Wang",
-        "Johanna Rottke",
-        "Alexander Gehm"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1007/s11240-026-03656-z",
-      "title": "In vitro propagation of novel hybrid germplasm of Camellia sect. Chrysantha via immature embryo rescue and direct organogenesis",
-      "journal": "Plant Cell, Tissue and Organ Culture (PCTOC)",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Xiaojuan Wei",
-        "Lianxiang Zhong",
-        "Dong Lin",
-        "Qiulan Wei",
-        "Hailong Liu"
       ]
     },
     {

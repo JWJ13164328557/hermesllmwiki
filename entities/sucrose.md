@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # sucrose
 
 ## Evidence Summary
-**Total evidence objects**: 53
+**Total evidence objects**: 55
 
 ## Evidence Table
 | Evidence | Finding |

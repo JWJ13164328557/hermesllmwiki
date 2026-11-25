@@ -4,19 +4,19 @@ title_zh: "方法与工具：可证伪假说"
 type: hypothesis
 topic: "methods-tools"
 theme_basis: "tag"
-total_evidence: 1647
-total_papers: 386
+total_evidence: 1654
+total_papers: 387
 total_hypotheses: 6
 specificity_domain: 6
 specificity_generic: 0
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # 💡 Methods & Tools — 可证伪假说（6 条）
 
-> 生成口径：主题内 1647 条证据 / 386 篇独立论文（主题归属依据：证据标签）。
+> 生成口径：主题内 1654 条证据 / 387 篇独立论文（主题归属依据：证据标签）。
 > 每条假说只在"≥3 条证据且 ≥2 篇独立论文"时生成，并附证据 ID 与证伪条件。
 > 本页是**机器生成的候选清单**，不是经同行评议的结论；引用前须回原文核对。
 
@@ -25,8 +25,8 @@ updated: 2026-11-24
 | 项目 | 值 |
 |---|---|
 | 主题 | Methods & Tools |
-| 证据条目 | 1647 |
-| 独立论文 | 386 |
+| 证据条目 | 1654 |
+| 独立论文 | 387 |
 | 生成假说 | 6 |
 | 其中主题专用方案 | 6 |
 | 其中缺省回退方案（需改写） | 0 |
@@ -100,7 +100,40 @@ updated: 2026-11-24
 > <sub>来源：`daily-42281572-f2`</sub>
 
 
-### H3：method → 可重复性（方法可复现）
+### H3：EXO70 → 差异基因表达（互作必需性）
+
+**假说**：EXO70 与差异基因表达的直接结合/互作已有报道，但"结合是否为功能所必需"未被检验。判别性检验：引入破坏结合界面的点突变，比较蛋白丰度与差异基因表达的变化。
+
+**为什么值得做（证据缺口）**
+
+- 缺少细胞类型/空间分辨率，无法判定效应发生在哪类细胞
+
+**可证伪检验**
+| 要素 | 内容 |
+|---|---|
+| 数据/体系 | 固定 >=3 个公开数据集 + 统一预处理与评价脚本 |
+| 操纵或比较变量 | 待评估实现（唯一变量）：本方法 vs >=2 个现行方法，含消融版本 |
+| 对照 | 预注册指标与随机种子固定；数据集层面留一验证 |
+| 读出 | 基准指标（准确率/F1/AUC）、运行时间与内存、消融前后差值（至少两项独立读出交叉验证） |
+| 若假说为真 | 互作缺陷突变体中差异基因表达不再被改变，而 EXO70 蛋白丰度与野生型相当 |
+| 若假说为假 | 互作缺陷突变体仍改变差异基因表达，说明结合非必需或存在旁路 |
+
+**证据基础**：20 条证据 / 11 篇独立论文（置信度：高）
+- `ms-10-1186_s43897-026-00236-9-f8`
+- `daily-42947622-f1`
+- `daily-42688124-f3`
+- `daily-41905980-f2`
+- `daily-42533527-f3`
+- `daily-42577538-f6`
+
+**领域特异性**：领域特异读出：基准指标（准确率/F1/AUC）、运行时间与内存、消融前后差值
+
+**原始断言（摘自证据页，供核对）**
+> SEC3A directly embeds into the plasma membrane via its N-terminal transmembrane domain, whereas EXO70 subunits (e.g., EXO70B1) bind to phosphatidylinositol-4,5-bisphosphate through their C-terminal domains.
+> <sub>来源：`daily-41905980-f2`</sub>
+
+
+### H4：method → 可重复性（方法可复现）
 
 **假说**：本主题中 "method" 被反复采用，但缺少跨数据集的独立评测。判别性检验：在留出数据集上按预注册指标复现其性能。
 
@@ -132,39 +165,6 @@ updated: 2026-11-24
 **原始断言（摘自证据页，供核对）**
 > This finding supports previous studies on the dynamic structural changes in wheat populations and confirms that the classification prediction method used in this study provides dependable technological support for dynamic crop phenotyping monitoring by accurately capturing the temporal changes in plant morphological…
 > <sub>来源：`daily-42326760-f3`</sub>
-
-
-### H4：EXO70 → 差异基因表达（互作必需性）
-
-**假说**：EXO70 与差异基因表达的直接结合/互作已有报道，但"结合是否为功能所必需"未被检验。判别性检验：引入破坏结合界面的点突变，比较蛋白丰度与差异基因表达的变化。
-
-**为什么值得做（证据缺口）**
-
-- 缺少细胞类型/空间分辨率，无法判定效应发生在哪类细胞
-
-**可证伪检验**
-| 要素 | 内容 |
-|---|---|
-| 数据/体系 | 固定 >=3 个公开数据集 + 统一预处理与评价脚本 |
-| 操纵或比较变量 | 待评估实现（唯一变量）：本方法 vs >=2 个现行方法，含消融版本 |
-| 对照 | 预注册指标与随机种子固定；数据集层面留一验证 |
-| 读出 | 基准指标（准确率/F1/AUC）、运行时间与内存、消融前后差值（至少两项独立读出交叉验证） |
-| 若假说为真 | 互作缺陷突变体中差异基因表达不再被改变，而 EXO70 蛋白丰度与野生型相当 |
-| 若假说为假 | 互作缺陷突变体仍改变差异基因表达，说明结合非必需或存在旁路 |
-
-**证据基础**：15 条证据 / 10 篇独立论文（置信度：高）
-- `ms-10-1186_s43897-026-00236-9-f8`
-- `daily-42688124-f3`
-- `daily-41905980-f2`
-- `daily-42533527-f3`
-- `daily-42577538-f6`
-- `daily-41905980-f1`
-
-**领域特异性**：领域特异读出：基准指标（准确率/F1/AUC）、运行时间与内存、消融前后差值
-
-**原始断言（摘自证据页，供核对）**
-> SEC3A directly embeds into the plasma membrane via its N-terminal transmembrane domain, whereas EXO70 subunits (e.g., EXO70B1) bind to phosphatidylinositol-4,5-bisphosphate through their C-terminal domains.
-> <sub>来源：`daily-41905980-f2`</sub>
 
 
 ### H5：software → 可重复性（方法可复现）
@@ -244,4 +244,4 @@ updated: 2026-11-24
 3. 证据 ID 可直接在 `evidence/` 下打开原文摘要核对，禁止跳过核对直接引用。
 
 ---
-*由 Phase 8 生成于 2026-11-24；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-25；生成器版本 2026-11-02-evidence-grounded*

@@ -4,24 +4,24 @@ title_zh: "表观遗传与基因调控：研究方案"
 type: research-program
 topic: "epigenetics-gene-regulation"
 theme_basis: "tag"
-total_evidence: 1835
-total_papers: 316
+total_evidence: 1842
+total_papers: 317
 total_aims: 6
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # 🔬 Epigenetics & Gene Regulation：从证据到可执行研究方案
 
-> 本方案由 1835 条证据 / 316 篇独立论文中提炼的 6 条假说直接展开，
+> 本方案由 1842 条证据 / 317 篇独立论文中提炼的 6 条假说直接展开，
 > 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
 > 而是"如果要做这件事，最小可行实验是什么"的清单。
 
 ## 一、问题界定
 
 - **主题**：Epigenetics & Gene Regulation
-- **证据规模**：1835 条证据 / 316 篇独立论文
+- **证据规模**：1842 条证据 / 317 篇独立论文
 - **候选靶点**：FaMYB5, C4H, OsMYB305, HDAC3, HDA9, MPK6
 - **主体系**：Fragaria × ananassa
 - **主题归属依据**：证据标签
@@ -30,7 +30,7 @@ updated: 2026-11-24
 
 ### 目标 1：建立 FaMYB5 的剂量—效应曲线
 
-- **对应假说**：FaMYB5 已有 98 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
+- **对应假说**：FaMYB5 已有 99 项独立研究；但其中仅 0 条给出不同表达/活性水平的梯度或剂量—响应参数，效应量随水平变化的定量关系无法从现有文献取得（受检索覆盖限制，需系统检索复核）。判别性检验：构建梯度表达系并做定量表型曲线。
 - **体系**：Fragaria × ananassa 与对照同遗传背景、同生育期；如无该物种转化体系，改用近缘可转化物种
 - **材料**：梯度表达系（强/中/弱启动子或诱导剂浓度梯度）≥4 个水平
 - **关键实验**
@@ -147,4 +147,4 @@ updated: 2026-11-24
 **方案的有效期与证据同步，不做无限期承诺**。
 
 ---
-*由 Phase 8 生成于 2026-11-24；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-25；生成器版本 2026-11-02-evidence-grounded*

@@ -1,10 +1,10 @@
 ---
 title: "Synthesis: #Methods-Tools"
-total_evidence: 1647
-total_papers: 386
+total_evidence: 1654
+total_papers: 387
 library_papers: 656  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-24
+body_status: rebuilt-2026-11-25
 topics: ["#methods-tools"]
 
 
@@ -12,8 +12,8 @@ relevance_soybean: "低 — 间接关联"
 auto_discovered: true
 cluster_size: 1 tags
 status: auto-generated
-updated: 2026-11-24
-legacy_archive: _review/synthesis_legacy_20261124/methods-tools.md
+updated: 2026-11-25
+legacy_archive: _review/synthesis_legacy_20261125/methods-tools.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -26,12 +26,12 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据条目 | 1647 | 本主题归属的证据对象数 |
-| 独立论文 | 386 | 去重后的 PMID/DOI 数 |
+| 证据条目 | 1654 | 本主题归属的证据对象数 |
+| 独立论文 | 387 | 去重后的 PMID/DOI 数 |
 | 平均每篇证据数 | 4.27 | <1.0 说明多数论文只贡献 1 条结论 |
 | 单条证据论文占比 | 15% | 越高说明"每篇论文一个结论"，系统性弱 |
-| 主要物种 | Oryza sativa(350)、Zea mays(239)、Triticum aestivum(225)、Arabidopsis thaliana(217)、Plant (unspecified)(202)、—(162) | 物种过度集中则外推性受限 |
-| 证据类型 | descriptive/observational 1373；protein interaction 81；expression/regulation 70；phenotypic/association 51；omics/co-occurrence 40；genetic perturbation 22 | 表达/关联类居多时，因果结论需打折扣 |
+| 主要物种 | Oryza sativa(350)、Zea mays(239)、Triticum aestivum(225)、Arabidopsis thaliana(217)、Plant (unspecified)(202)、Glycine max(162) | 物种过度集中则外推性受限 |
+| 证据类型 | descriptive/observational 1377；protein interaction 82；expression/regulation 70；phenotypic/association 51；omics/co-occurrence 40；genetic perturbation 22 | 表达/关联类居多时，因果结论需打折扣 |
 
 > 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
@@ -57,12 +57,12 @@ rebuild_version: v3
 | 证据类型 | 条目数 | 可支持的推断强度 |
 |---|---:|---|
 | genetic perturbation | 22 | 遗传因果（扰动后表型/表达改变） |
-| protein interaction | 81 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
-| DNA binding/regulation | 10 | 直接调控（ChIP/EMSA/启动子报告） |
+| protein interaction | 82 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
+| DNA binding/regulation | 12 | 直接调控（ChIP/EMSA/启动子报告） |
 | expression/regulation | 70 | 表达相关（转录组/qPCR，不能单独推因果） |
 | phenotypic/association | 51 | 表型关联（GWAS/QTL/自然变异/田间） |
 | omics/co-occurrence | 40 | 组学共现（单细胞簇/共表达网络，非调控） |
-| descriptive/observational | 1373 | 描述性/背景陈述（未报告可核验的实验设计） |
+| descriptive/observational | 1377 | 描述性/背景陈述（未报告可核验的实验设计） |
 
 > 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
@@ -82,13 +82,13 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-24 由 `rebuild_synthesis_body.py` 从 **1647 条证据对象 / 386 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261124`，不再作为本页结论来源。
+> 本页正文于 2026-11-25 由 `rebuild_synthesis_body.py` 从 **1654 条证据对象 / 387 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261125`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
 ## 0. 综述提要（受控生成）
 
-本主题当前纳入 **1647 条证据 / 386 篇文献**。规则判定为因果或直接调控的 **113 条（6.9%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **27 条**。可判定程度最高的结论集中在OsFZP、PmSND4：Overexpression of either OsSAMS1 or OsFZP resulted in a significant reduction in panicle branch number compared to the wild-type.（[[daily-42260361-f1]]）；Overexpression of PmSND4 significantly promoted the vegetative growth of transgenic poplar, increased stem xylem cell wall thickness, and si…（[[daily-42280721-f1]]）；PmSND4 overexpression significantly promotes vegetative growth in poplar.（[[daily-42280721-f7]]）。研究重心位于“计算工具与数据整合”（93 条证据，占 6%）。证据的物种分布以 Oryza sativa 为首（350 条，21%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
+本主题当前纳入 **1654 条证据 / 387 篇文献**。规则判定为因果或直接调控的 **116 条（7.0%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **30 条**。可判定程度最高的结论集中在OsFZP、PmSND4：Overexpression of either OsSAMS1 or OsFZP resulted in a significant reduction in panicle branch number compared to the wild-type.（[[daily-42260361-f1]]）；Overexpression of PmSND4 significantly promoted the vegetative growth of transgenic poplar, increased stem xylem cell wall thickness, and si…（[[daily-42280721-f1]]）；PmSND4 overexpression significantly promotes vegetative growth in poplar.（[[daily-42280721-f7]]）。研究重心位于“计算工具与数据整合”（93 条证据，占 6%）。证据的物种分布以 Oryza sativa 为首（350 条，21%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
 > 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
@@ -96,17 +96,17 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据对象 | 1647 | 本主题归属的证据条目数 |
-| 独立文献（DOI/PMID 去重） | 386 | 去重后的论文数 |
+| 证据对象 | 1654 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 387 | 去重后的论文数 |
 | 平均每篇证据数 | 4.27 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
-| 单条证据论文占比 | 15%（58/386） | 越高说明证据碎片化越严重 |
-| 证据类型构成 | descriptive/observational(1373)、protein interaction(81)、expression/regulation(70)、phenotypic/association(51)、omics/co-occurrence(40)、genetic perturbation(22)、DNA binding/regulation(10) | 描述性占多数时机制结论需打折扣 |
-| 类型标注置信度 | low(1423)、medium(193)、high(25)、未标(6) | 低置信度标注须回原文核对 |
-| 主要物种 | Oryza sativa(350)、Zea mays(239)、Triticum aestivum(225)、Arabidopsis thaliana(217)、Plant (unspecified)(202)、Glycine max(155) | 物种过度集中则外推性受限 |
+| 单条证据论文占比 | 15%（58/387） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(1377)、protein interaction(82)、expression/regulation(70)、phenotypic/association(51)、omics/co-occurrence(40)、genetic perturbation(22)、DNA binding/regulation(12) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(1423)、medium(193)、high(25)、未标(13) | 低置信度标注须回原文核对 |
+| 主要物种 | Oryza sativa(350)、Zea mays(239)、Triticum aestivum(225)、Arabidopsis thaliana(217)、Plant (unspecified)(202)、Glycine max(162) | 物种过度集中则外推性受限 |
 | 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
-| 未命中任何子主题的证据 | 1367（83%） | 占比高说明子主题词表或证据文本需扩表 |
+| 未命中任何子主题的证据 | 1374（83%） | 占比高说明子主题词表或证据文本需扩表 |
 
-因果级证据共 **113 条**，占本主题证据的 **6.9%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
+因果级证据共 **116 条**，占本主题证据的 **7.0%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
 物种主导度：**Oryza sativa** 出现在 350 条证据（21%）。分布较分散，单物种主导风险较低，但需注意各物种证据层级是否可比。
 
@@ -367,7 +367,7 @@ rebuild_version: v3
 
 ## 5. 可直接引用的因果级证据（自动筛选）
 
-以下 113 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
+以下 116 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
 
 | 证据页 | DOI | 类型 | 断言（摘录） |
 |---|---|---|---|
@@ -392,7 +392,7 @@ rebuild_version: v3
 | [[daily-42249571-f4]] | `10.1093/jxb/erag278` | protein interaction | In short, the phenotyping scheme and CAMP model provide a valid framework for quantifying genotypic differences and esti… |
 | [[daily-42251534-f5]] | `10.1111/tpj.70952` | protein interaction | Here we show the reproducible detection of TSP9 bound to PetD of the cytochrome b 6 f complex. |
 
-（另有 93 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
+（另有 96 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
 
 ## 6. 证据间的张力与矛盾（自动筛查）
 
@@ -400,15 +400,15 @@ rebuild_version: v3
 
 ## 7. 覆盖与代表性缺口
 
-- **因果级证据占比仅 6.9%**：机制结论的可信度受限于此，建议对排名靠前的子主题定向补做扰动实验或查找已有突变体表型数据。
+- **因果级证据占比仅 7.0%**：机制结论的可信度受限于此，建议对排名靠前的子主题定向补做扰动实验或查找已有突变体表型数据。
 - **1 个子主题完全没有因果层证据**（测序与文库构建）：这些方向目前只能写相关性。
-- **1367 条证据（83%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **1374 条证据（83%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
 - **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
 - **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261124`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261125`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 
