@@ -1,41 +1,42 @@
 # 每日文献更新报告
 
-2026-11-25
+2026-11-26
 
 <!-- SELFCHECK-FAIL-BANNER:START -->
-> [!WARNING] 本次运行有 **1 项自检未通过**，结果需在下一轮前处理：
-> - 运行健康（非降级）（降级 3 项：全文仅覆盖 2/26（其余为摘要级）；深度提炼仅覆盖 3/26 篇；综合页刷新：刷新后仍有不自洽页面（校验未通过））
+> [!WARNING] 本次运行有 **2 项自检未通过**，结果需在下一轮前处理：
+> - 运行健康（非降级）（降级 3 项：全文仅覆盖 1/18（其余为摘要级）；深度提炼仅覆盖 1/18 篇；综合页刷新：刷新后仍有不自洽页面（校验未通过））
+> - 日报计数诚实性（日报累计实际新增 18 篇；磁盘当日 created 16 篇；差额 -2（正数=其他通道））
 >
-> 详见文末「运行后闭环自检」表与 `_review/selfcheck/2026-11-25.json`。
+> 详见文末「运行后闭环自检」表与 `_review/selfcheck/2026-11-26.json`。
 <!-- SELFCHECK-FAIL-BANNER:END -->
 
 > 本日共 1 次运行，按时间倒序合并；每次运行单独成节，互不覆盖。
 
-## 运行 08:06:50
+## 运行 08:07:43
 
-检索: 322 篇
-候选（通过过滤）: 26 篇
+检索: 329 篇
+候选（通过过滤）: 18 篇
 
 ### 检索漏斗
 
 | 环节 | 篇数 |
 |---|---:|
-| 检索命中 | 322 |
-| 库里已存在 | 165 |
-| 期刊不在植物/农学名单 | 30 |
-| 非植物判定 | 75 |
+| 检索命中 | 329 |
+| 库里已存在 | 183 |
+| 期刊不在植物/农学名单 | 31 |
+| 非植物判定 | 71 |
 | 非植物主题过滤 | 7 |
 | 不属于八主题 | 13 |
 | 纯度闸门（研究对象非植物） | 6 |
-| **通过并待导入** | **26** |
-| 合计 | 322 |
+| **通过并待导入** | **18** |
+| 合计 | 329 |
 
 漏斗对账：合计等于检索数，每一篇都有归属。
 
 **期刊被拒 TOP（白名单缺口诊断）**
 
 - Analytica chimica acta ×7
-- Talanta ×2
+- Talanta ×3
 - Virulence ×2
 - Fish & shellfish immunology ×2
 - Gut microbes ×2
@@ -47,38 +48,30 @@
 - Gene ×1
 - Waste management (New York, N.Y.) ×1
 
-实际新增页面: 26 篇
+实际新增页面: 18 篇
 跳过已存在页面: 0 篇
-全库当日 created 页面（含 multisource/其他通道）: 26 篇
+全库当日 created 页面（含 multisource/其他通道）: 18 篇
 
 ## 本次实际新增
 
 - Genetic dissection of one-carbon metabolism: Roles in pluripotency and embryonic development. (Developmental biology 2026) PMID:42767394
-- Evolutionary logic and biotechnological potential of alternative splicing in higher eukaryotes: Comparative insights from plants and animals. (Biotechnology advances 2027) PMID:42880429
-- Integrated multi-omics analysis reveals coordinated root and rhizosphere responses underlying AMF-mediated drought tolerance in kiwifruit. (Microbiological research 2027) PMID:42933211
-- Spatiotemporal Transcriptomics Reveals That a ZF-HD-GmCWINV4 Module Controls Carbon Partitioning and Seed Size in Soybean. (Plant biotechnology journal 2026) PMID:42947622
-- Manipulating the banana holobionts through early endophyte inoculation of in vitro plantlets to combat Fusarium wilt TR4. (Microbiological research 2027) PMID:42962553
-- Quorum sensing-mediated rhizosphere engineering: Synthetic microbial consortia as a next-generation strategy to induce soybean resistance against Heterodera glycines. (Microbiological research 2027) PMID:42966084
-- mRNA Decay Mediates Evolution and Biological Functions in Plant Gene Expression. (Plant biotechnology journal 2026) PMID:42968628
-- Harnessing Host-Pathogen Evolutionary Dynamics to Engineer Bacterial Blight and Leaf Streak Resistance in Basmati Rice. (Plant biotechnology journal 2026) PMID:42978400
-- Halophyte-derived rhizosphere microbiome transplantation improves physiological homeostasis and salt tolerance in alfalfa. (Microbiological research 2027) PMID:42981905
 - Role of LGALS9 and human milk oligosaccharides in modulating immune responses in food allergy: Insights from network pharmacology and molecular simulations. (Biochemical and biophysical research communications 2026) PMID:42987599
-- pGpp emerges as a novel alarmone in Bradyrhizobium diazoefficiens. (Microbiological research 2027) PMID:42987696
-- A new species in the Magnaporthiopsis genus from wild rice enhances rice yield and disease resistance by restructuring the microbiome. (Microbiological research 2027) PMID:42994041
-- The virulent milRNA Foc-milR87 manipulates host hormone signaling to promote root infection by Fusarium oxysporum f. sp. cubense. (Microbiological research 2027) PMID:43008341
-- A Streptomyces-derived cyclic peptide valinomycin primes two-layered plant local immunity and systemic disease resistance. (Microbiological research 2027) PMID:43038761
-- Quantitative trait locus-seq analysis identifies candidate genomic regions associated with seedling root growth responses to phosphate deficiency in rice (Oryza sativa). (Functional plant biology : FPB 2026) PMID:43072358
-- RhWUS1 integrates antagonistic phytohormonal cues to regulate axillary bud outgrowth in rose (Rosa hybrida). (Plant physiology 2026) PMID:43072416
-- Genome-wide identification of carboxylesterase gene family in tomato (Solanum lycopersicum). (The plant genome 2026) PMID:43074726
-- Integrated m6A epitranscriptomic and metabolomic analysis reveals drought-responsive gene modules and regulators in wheat. (Plant physiology 2026) PMID:43075792
-- Nitrate Regulates Anchor Root Development. (Plant, cell & environment 2026) PMID:43076212
-- Rewiring versus optimization: how to connect the two philosophies of improving photorespiration? (Planta 2026) PMID:43076932
-- Bioprotective potential of Sargassum muticum extracts against Stemphylium vesicarium in tomato. (Bioresources and bioprocessing 2026) PMID:43077067
-- Grafting monoclonal antibody expressing transgenic tobacco onto tomato rootstocks reduces alkaloid load and benefits downstream protein A affinity chromatography. (Planta 2026) PMID:43077114
-- A novel family of polysaccharide lyase proteins are deployed in rice to negatively control arbuscular mycorrhizal symbiosis. (The Plant cell 2026) PMID:43077325
-- A herbivore-induced plant volatile facilitates group foraging in locusts. (Proceedings of the National Academy of Sciences of the United States of America 2026) PMID:43077492
-- Structural basis of plastid Mg2+ transport by the magnesium channel MGT10 in Arabidopsis. (Proceedings of the National Academy of Sciences of the United States of America 2026) PMID:43077503
-- Dissecting the Genetic Architecture of White Spot Resistance in Tropical Maize Reveals Novel Loci and Valuable Breeding Resources. (Plant disease 2026) PMID:43077564
+- Seg3 mutants in barley (Hordeum vulgare L.) show accelerated germination. (AoB PLANTS 2026) PMID:43080962
+- CsbHLH24 and CsMYB59 Influence Terpenoid Biosynthesis in Tea (Camellia sinensis) by Regulating CsTPS Gene Expression. (Journal of agricultural and food chemistry 2026) PMID:43082066
+- Advances in Cystathionine β-Lyase-Catalyzed Synthesis of Thiosulfinates: Enzyme Resource Mining, Catalytic Mechanism, and Structure-Guided Molecular Engineering. (Journal of agricultural and food chemistry 2026) PMID:43082072
+- Substrate Versatility and Regiocontrol of Licorice Flavonoid Prenyltransferase GgFPT3 for the Biosynthesis of Diverse Prenylated Flavonoid Natural Products. (Journal of agricultural and food chemistry 2026) PMID:43082077
+- Discovery of Novel Aminopyridine Ethers as Promising Auxin Herbicides. (Journal of agricultural and food chemistry 2026) PMID:43082085
+- Biocontrol of Potato Common Scab by Serratia rubidaea A14 and Characterization of Its Inhibitory Volatile Organic Compounds. (Journal of agricultural and food chemistry 2026) PMID:43082088
+- Sources, Chemistry, Biological Activity, and Biosynthesis of Natural Sulfoxides. (Journal of agricultural and food chemistry 2026) PMID:43082110
+- γ-Aminobutyric Acid Enhances the Effectiveness of Rhizobium Y406 in Alleviating Salinity Stress and Promoting Growth of Soybean. (Journal of agricultural and food chemistry 2026) PMID:43082117
+- Carotenoid-Loaded Chitosan Nanoparticles Reduce Phenanthrene Accumulation and Alleviate Phytotoxicity in Brassica rapa. (Journal of agricultural and food chemistry 2026) PMID:43082124
+- Correction to "The VvMYBA1-Activated Electron Carrier VvCB5D Directs Flavonoid Metabolic Flux toward the Trihydroxylated Branch in Grape". (Journal of agricultural and food chemistry 2026) PMID:43082127
+- Integrated Transcriptomic and Metabolomic Analyses Reveal Early Freezing Responses in Populus alba × P. tremula var. glandulosa Clone 84K. (Tree physiology 2026) PMID:43083123
+- Lipid phosphate phosphatase α3 contributes to seed oil accumulation in Brassica napus. (Cell reports 2026) PMID:43084393
+- Pyrethroid insecticide exposure enhances the ability of Helicoverpa armigera to counter host plant defenses through symbiotic bacteria. (Proceedings of the National Academy of Sciences of the United States of America 2026) PMID:43084555
+- PbCNL1, a CC-NB-LRR R protein from 'duli' pear (Pyrus betulifolia Bunge), mediates resistance to bacterial and fungal pathogens. (Plant physiology 2026) PMID:43084605
+- Two GmHAL3 members interact to enhance salt tolerance in soybean by modulating coenzyme A biosynthesis. (Plant physiology 2026) PMID:43084621
+- Arctic forcing of European spring productivity and agricultural yields linked to Barents Sea ice loss. (Science advances 2026) PMID:43084658
 
 ## 八主题相关性拒收
 
@@ -118,8 +111,8 @@
 
 | 类别 | 篇数 | 归档位置 |
 |---|---:|---|
-| 非植物研究对象（phase5_5） | 3 | `_review/archive/nonplant_2026-11-25/` |
-| 非八主题（phase5_6） | 0 | `_review/archive/topic_2026-11-25/` |
+| 非植物研究对象（phase5_5） | 3 | `_review/archive/nonplant_2026-11-26/` |
+| 非八主题（phase5_6） | 0 | `_review/archive/topic_2026-11-26/` |
 
 ### 非植物隔离明细
 
@@ -137,23 +130,23 @@
 
 | 检查项 | 结果 | 说明 |
 |---|---|---|
-| 运行健康（非降级） | FAIL | 降级 3 项：全文仅覆盖 2/26（其余为摘要级）；深度提炼仅覆盖 3/26 篇；综合页刷新：刷新后仍有不自洽页面（校验未通过） |
+| 运行健康（非降级） | FAIL | 降级 3 项：全文仅覆盖 1/18（其余为摘要级）；深度提炼仅覆盖 1/18 篇；综合页刷新：刷新后仍有不自洽页面（校验未通过） |
 | 闸门离线回放 | PASS | 坏例拒收 7/7，正例放行 5/5 |
-| 当日新增页领域复查 | PASS | 当日新增 29 页，越界 0 页 |
+| 当日新增页领域复查 | PASS | 当日新增 16 页，越界 0 页 |
 | 文献类型分层 | PASS | 非研究页 57 页（保留不删）；证据池泄漏 0 条 |
 | 综合页/假说页证据一致 | PASS | 主题数 8；证据数不一致 0；正文未重建 0 |
 | 标题异常 | PASS | 标题异常 0 条；标题待补 1 条 |
 | 关系层语义 | PASS | 关系页 2 个；语义越权 0 个 |
-| 证据类型完整性 | PASS | evidence 18148 条；类型空值 0 条；未按 rule-v9-20261107 重标 0 条 |
-| 证据语义判别力 | PASS | evidence 18148；空类型 0；描述性 66.4%；因果级 13.9%；低置信 13403（74%）；论断角色缺字段 0；非发现句 3450 条（已排除出证据池） |
-| 主题覆盖与标签别名 | PASS | 证据主题归属 14651/18148（80.7%）＝tag 精确 73 + 论文继承 14578；论文三态：mapped 5220／out-of-scope 844／unclassified 1499（可判断页归属 86.1%，未判定占比 19.8%）；可作证据分母 5042/7351（68.6%）；别名残留 0 |
+| 证据类型完整性 | PASS | evidence 18154 条；类型空值 0 条；未按 rule-v9-20261107 重标 0 条 |
+| 证据语义判别力 | PASS | evidence 18154；空类型 0；描述性 66.4%；因果级 13.9%；低置信 13403（74%）；论断角色缺字段 0；非发现句 3453 条（已排除出证据池） |
+| 主题覆盖与标签别名 | PASS | 证据主题归属 14657/18154（80.7%）＝tag 精确 73 + 论文继承 14584；论文三态：mapped 5233／out-of-scope 847／unclassified 1499（可判断页归属 86.1%，未判定占比 19.7%）；可作证据分母 5055/7367（68.6%）；别名残留 0 |
 | 综合页综述质量 | PASS | 综合页 8；不合格 0 |
 | 假说分布与模板化 | PASS | 假说分布：单细胞与空间组学=6、植物发育生物学=6、代谢与天然产物=6、激素与信号转导=6、逆境与免疫=6、表观遗传与基因调控=6、方法与工具=6、基因组学与演化=6 |
-| 日报计数诚实性 | PASS | 日报累计实际新增 26 篇；磁盘当日 created 29 篇；差额 +3（正数=其他通道） |
-| frontmatter 可解析 | PASS | 扫描 25958 页；不可解析 0 页 |
-| 证据可回溯（DOI） | PASS | 证据 18148 条；无 DOI 0；来源页无 DOI 0；共识页 1（support 不足 0） |
+| 日报计数诚实性 | FAIL | 日报累计实际新增 18 篇；磁盘当日 created 16 篇；差额 -2（正数=其他通道） |
+| frontmatter 可解析 | PASS | 扫描 25980 页；不可解析 0 页 |
+| 证据可回溯（DOI） | PASS | 证据 18154 条；无 DOI 0；来源页无 DOI 0；共识页 1（support 不足 0） |
 | 日报漏斗对账 | PASS | 生产运行 1 段，对账通过 1 段 |
-| 物种字段失真 | PASS | 含物种行 5666 页；伪影物种无正文支持 1 条（阈值 40）；无摘要无法判定 15 页 / 18 条，已标 species_status: unverified 15 页、漏标 0 页；物种为占位 plant/未识别 2646 页（46.7%，摘要缺失导致，非失败项）；例：daily-42488446.md: Cucumis spp.(子串) |
+| 物种字段失真 | PASS | 含物种行 5682 页；伪影物种无正文支持 1 条（阈值 40）；无摘要无法判定 15 页 / 18 条，已标 species_status: unverified 15 页、漏标 0 页；物种为占位 plant/未识别 2661 页（46.8%，摘要缺失导致，非失败项）；例：daily-42488446.md: Cucumis spp.(子串) |
 | 孤儿 PDF | PASS | raw PDF 2 份；孤儿（有全文无页面）0 份（阈值 200） |
 
 > 本段由 `pipeline_selfcheck.py` 在流水线末尾生成；FAIL 不等于当天数据一定不可用，但必须在下一轮运行前处理。

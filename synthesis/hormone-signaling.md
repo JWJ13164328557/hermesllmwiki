@@ -6,9 +6,9 @@ total_evidence: 2050
 total_papers: 385
 library_papers: 473  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-25
+body_status: rebuilt-2026-11-26
 tags: [hormone, signaling, synthesis]
-legacy_archive: _review/synthesis_legacy_20261125/hormone-signaling.md
+legacy_archive: _review/synthesis_legacy_20261126/hormone-signaling.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -77,7 +77,7 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-25 由 `rebuild_synthesis_body.py` 从 **2050 条证据对象 / 385 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261125`，不再作为本页结论来源。
+> 本页正文于 2026-11-26 由 `rebuild_synthesis_body.py` 从 **2050 条证据对象 / 385 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261126`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
@@ -213,7 +213,7 @@ rebuild_version: v3
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
-- **一致的观察范围**：本组证据集中在Oryza sativa、Solanum lycopersicum、Zea mays，反复出现的实体为GSK2、OsDLA、auxin、gibberellin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f3]]；[[daily-40702403-f3]]；[[daily-40853041-f6]]）。
+- **一致的观察范围**：本组证据集中在Oryza sativa、Zea mays、Solanum lycopersicum，反复出现的实体为GSK2、OsDLA、auxin、gibberellin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f3]]；[[daily-40702403-f3]]；[[daily-40853041-f6]]）。
 - **证据层级的张力**：17 条属于遗传扰动/蛋白互作/DNA 结合，31 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40853041-f6]]；[[daily-42244175-f5]]；[[daily-41922966-f2]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-40853041-f6]]；[[daily-42244175-f5]]）。
 
@@ -222,8 +222,8 @@ rebuild_version: v3
 | 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
 |---|---|---|---|---|---|---|---|---|
 | Oryza sativa | 1 | 7 | 1 | 1 | 0 | 0 | 8 | 18 |
-| Solanum lycopersicum | 0 | 1 | 2 | 0 | 0 | 0 | 4 | 7 |
 | Zea mays | 0 | 2 | 1 | 1 | 0 | 0 | 3 | 7 |
+| Solanum lycopersicum | 0 | 1 | 2 | 0 | 0 | 0 | 4 | 7 |
 | Nicotiana tabacum | 1 | 0 | 1 | 0 | 0 | 0 | 5 | 7 |
 | Arabidopsis thaliana | 0 | 2 | 0 | 1 | 0 | 0 | 4 | 7 |
 
@@ -433,7 +433,7 @@ rebuild_version: v3
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261125`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261126`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 

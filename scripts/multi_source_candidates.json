@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -1138,6 +1138,20 @@
     },
     {
       "source": "crossref",
+      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
+      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
+      "journal": "International Journal of Research in Agronomy",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Nutan Singh",
+        "Pratibha Katiyar",
+        "Ajay .",
+        "Sunita Singh"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1016/j.cj.2026.06.012",
       "title": "GDSL WILTING LEAF1 protein confers heat, drought, and salt stress tolerance in maize by regulating vascular development",
       "journal": "The Crop Journal",
@@ -1149,20 +1163,6 @@
         "Lu Kang",
         "Liang Dong",
         "Lei Liu"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
-      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
-      "journal": "International Journal of Research in Agronomy",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Nutan Singh",
-        "Pratibha Katiyar",
-        "Ajay .",
-        "Sunita Singh"
       ]
     },
     {

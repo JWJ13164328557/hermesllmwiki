@@ -2,16 +2,16 @@
 
 title: "发育生物学 — Synthesis"
 created: 2026-06-01
-total_evidence: 3315
-total_papers: 659
+total_evidence: 3318
+total_papers: 660
 library_papers: 779  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-25
+body_status: rebuilt-2026-11-26
 tags: [synthesis, development]
 
 
 soybean_relevance: ⭐高
-legacy_archive: _review/synthesis_legacy_20261125/developmental-biology.md
+legacy_archive: _review/synthesis_legacy_20261126/developmental-biology.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -24,12 +24,12 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据条目 | 3315 | 本主题归属的证据对象数 |
-| 独立论文 | 659 | 去重后的 PMID/DOI 数 |
+| 证据条目 | 3318 | 本主题归属的证据对象数 |
+| 独立论文 | 660 | 去重后的 PMID/DOI 数 |
 | 平均每篇证据数 | 5.03 | <1.0 说明多数论文只贡献 1 条结论 |
 | 单条证据论文占比 | 6% | 越高说明"每篇论文一个结论"，系统性弱 |
 | 主要物种 | Arabidopsis thaliana(1037)、Oryza sativa(994)、Zea mays(649)、Solanum lycopersicum(440)、Triticum aestivum(381)、Nicotiana tabacum(346) | 物种过度集中则外推性受限 |
-| 证据类型 | descriptive/observational 2250；protein interaction 289；expression/regulation 231；phenotypic/association 219；genetic perturbation 162；omics/co-occurrence 102 | 表达/关联类居多时，因果结论需打折扣 |
+| 证据类型 | descriptive/observational 2253；protein interaction 289；expression/regulation 231；phenotypic/association 219；genetic perturbation 162；omics/co-occurrence 102 | 表达/关联类居多时，因果结论需打折扣 |
 
 > 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
@@ -60,7 +60,7 @@ rebuild_version: v3
 | expression/regulation | 231 | 表达相关（转录组/qPCR，不能单独推因果） |
 | phenotypic/association | 219 | 表型关联（GWAS/QTL/自然变异/田间） |
 | omics/co-occurrence | 102 | 组学共现（单细胞簇/共表达网络，非调控） |
-| descriptive/observational | 2250 | 描述性/背景陈述（未报告可核验的实验设计） |
+| descriptive/observational | 2253 | 描述性/背景陈述（未报告可核验的实验设计） |
 
 > 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
@@ -80,13 +80,13 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-25 由 `rebuild_synthesis_body.py` 从 **3315 条证据对象 / 659 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261125`，不再作为本页结论来源。
+> 本页正文于 2026-11-26 由 `rebuild_synthesis_body.py` 从 **3318 条证据对象 / 660 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261126`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
 ## 0. 综述提要（受控生成）
 
-本主题当前纳入 **3315 条证据 / 659 篇文献**。规则判定为因果或直接调控的 **513 条（15.5%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **235 条**。可判定程度最高的结论集中在PagCRY1、KO4：The WT accumulated much higher anthocyanin under blue light than the other light treatments, while the cry1 mutants abolished the anthocyani…（[[blue-light-photoreceptor-cryptochrome-1-promotes-f1]]）；In supportive to the significantly reduced cell layers in the cambium zone of PagCRY1aOE plants, which is significantly increased in cry1 mu…（[[blue-light-photoreceptor-cryptochrome-1-promotes-f2]]）；Overexpression of PagCRY1 substantially inhibited plant growth and promoted secondary xylem development in Populus, while CRISPR/Cas9 mediat…（[[blue-light-photoreceptor-cryptochrome-1-promotes-f4]]）。研究重心位于“激素与发育信号整合”（149 条证据，占 4%）。证据的物种分布以 Arabidopsis thaliana 为首（1037 条，31%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
+本主题当前纳入 **3318 条证据 / 660 篇文献**。规则判定为因果或直接调控的 **513 条（15.5%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **235 条**。可判定程度最高的结论集中在PagCRY1、KO4：The WT accumulated much higher anthocyanin under blue light than the other light treatments, while the cry1 mutants abolished the anthocyani…（[[blue-light-photoreceptor-cryptochrome-1-promotes-f1]]）；In supportive to the significantly reduced cell layers in the cambium zone of PagCRY1aOE plants, which is significantly increased in cry1 mu…（[[blue-light-photoreceptor-cryptochrome-1-promotes-f2]]）；Overexpression of PagCRY1 substantially inhibited plant growth and promoted secondary xylem development in Populus, while CRISPR/Cas9 mediat…（[[blue-light-photoreceptor-cryptochrome-1-promotes-f4]]）。研究重心位于“激素与发育信号整合”（149 条证据，占 4%）。证据的物种分布以 Arabidopsis thaliana 为首（1037 条，31%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
 > 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
@@ -94,15 +94,15 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据对象 | 3315 | 本主题归属的证据条目数 |
-| 独立文献（DOI/PMID 去重） | 659 | 去重后的论文数 |
+| 证据对象 | 3318 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 660 | 去重后的论文数 |
 | 平均每篇证据数 | 5.03 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
-| 单条证据论文占比 | 6%（37/659） | 越高说明证据碎片化越严重 |
-| 证据类型构成 | descriptive/observational(2250)、protein interaction(289)、expression/regulation(231)、phenotypic/association(219)、genetic perturbation(162)、omics/co-occurrence(102)、DNA binding/regulation(62) | 描述性占多数时机制结论需打折扣 |
-| 类型标注置信度 | low(2333)、medium(788)、high(170)、未标(24) | 低置信度标注须回原文核对 |
+| 单条证据论文占比 | 6%（37/660） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(2253)、protein interaction(289)、expression/regulation(231)、phenotypic/association(219)、genetic perturbation(162)、omics/co-occurrence(102)、DNA binding/regulation(62) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(2333)、medium(788)、high(170)、未标(27) | 低置信度标注须回原文核对 |
 | 主要物种 | Arabidopsis thaliana(1037)、Oryza sativa(994)、Zea mays(649)、Solanum lycopersicum(440)、Triticum aestivum(381)、Nicotiana tabacum(346) | 物种过度集中则外推性受限 |
 | 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
-| 未命中任何子主题的证据 | 2720（82%） | 占比高说明子主题词表或证据文本需扩表 |
+| 未命中任何子主题的证据 | 2723（82%） | 占比高说明子主题词表或证据文本需扩表 |
 
 因果级证据共 **513 条**，占本主题证据的 **15.5%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
@@ -428,13 +428,13 @@ rebuild_version: v3
 
 ## 7. 覆盖与代表性缺口
 
-- **2720 条证据（82%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **2723 条证据（82%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
 - **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
 - **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261125`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261126`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 

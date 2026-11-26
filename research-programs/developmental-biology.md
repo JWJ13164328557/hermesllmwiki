@@ -4,24 +4,24 @@ title_zh: "植物发育生物学：研究方案"
 type: research-program
 topic: "developmental-biology"
 theme_basis: "tag"
-total_evidence: 3315
-total_papers: 659
+total_evidence: 3318
+total_papers: 660
 total_aims: 6
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-25
+updated: 2026-11-26
 ---
 
 # 🔬 Plant Developmental Biology：从证据到可执行研究方案
 
-> 本方案由 3315 条证据 / 659 篇独立论文中提炼的 6 条假说直接展开，
+> 本方案由 3318 条证据 / 660 篇独立论文中提炼的 6 条假说直接展开，
 > 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
 > 而是"如果要做这件事，最小可行实验是什么"的清单。
 
 ## 一、问题界定
 
 - **主题**：Plant Developmental Biology
-- **证据规模**：3315 条证据 / 659 篇独立论文
+- **证据规模**：3318 条证据 / 660 篇独立论文
 - **候选靶点**：PIN1, PbCBL2, BPC1, McNADPME1, ATML1, HvPMTR1
 - **主体系**：Medicago spp.
 - **主题归属依据**：证据标签
@@ -147,4 +147,4 @@ updated: 2026-11-25
 **方案的有效期与证据同步，不做无限期承诺**。
 
 ---
-*由 Phase 8 生成于 2026-11-25；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-26；生成器版本 2026-11-02-evidence-grounded*
