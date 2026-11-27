@@ -1,16 +1,16 @@
 ---
 title: "代谢与天然产物 — Synthesis"
 created: 2026-06-01
-total_evidence: 2789
-total_papers: 593
+total_evidence: 2796
+total_papers: 594
 library_papers: 858  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-26
+body_status: rebuilt-2026-11-27
 tags: [synthesis, metabolism]
 
 
 soybean_relevance: ⭐中
-legacy_archive: _review/synthesis_legacy_20261126/metabolism-natural-products.md
+legacy_archive: _review/synthesis_legacy_20261127/metabolism-natural-products.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -23,12 +23,12 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据条目 | 2789 | 本主题归属的证据对象数 |
-| 独立论文 | 593 | 去重后的 PMID/DOI 数 |
-| 平均每篇证据数 | 4.70 | <1.0 说明多数论文只贡献 1 条结论 |
+| 证据条目 | 2796 | 本主题归属的证据对象数 |
+| 独立论文 | 594 | 去重后的 PMID/DOI 数 |
+| 平均每篇证据数 | 4.71 | <1.0 说明多数论文只贡献 1 条结论 |
 | 单条证据论文占比 | 10% | 越高说明"每篇论文一个结论"，系统性弱 |
 | 主要物种 | Oryza sativa(626)、Arabidopsis thaliana(557)、Nicotiana tabacum(461)、Solanum lycopersicum(448)、Zea mays(429)、Glycine max(289) | 物种过度集中则外推性受限 |
-| 证据类型 | descriptive/observational 1868；protein interaction 239；expression/regulation 196；phenotypic/association 163；genetic perturbation 141；omics/co-occurrence 103 | 表达/关联类居多时，因果结论需打折扣 |
+| 证据类型 | descriptive/observational 1871；protein interaction 240；expression/regulation 198；phenotypic/association 163；genetic perturbation 141；omics/co-occurrence 104 | 表达/关联类居多时，因果结论需打折扣 |
 
 > 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
@@ -54,12 +54,12 @@ rebuild_version: v3
 | 证据类型 | 条目数 | 可支持的推断强度 |
 |---|---:|---|
 | genetic perturbation | 141 | 遗传因果（扰动后表型/表达改变） |
-| protein interaction | 239 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
+| protein interaction | 240 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
 | DNA binding/regulation | 79 | 直接调控（ChIP/EMSA/启动子报告） |
-| expression/regulation | 196 | 表达相关（转录组/qPCR，不能单独推因果） |
+| expression/regulation | 198 | 表达相关（转录组/qPCR，不能单独推因果） |
 | phenotypic/association | 163 | 表型关联（GWAS/QTL/自然变异/田间） |
-| omics/co-occurrence | 103 | 组学共现（单细胞簇/共表达网络，非调控） |
-| descriptive/observational | 1868 | 描述性/背景陈述（未报告可核验的实验设计） |
+| omics/co-occurrence | 104 | 组学共现（单细胞簇/共表达网络，非调控） |
+| descriptive/observational | 1871 | 描述性/背景陈述（未报告可核验的实验设计） |
 
 > 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
@@ -79,13 +79,13 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-26 由 `rebuild_synthesis_body.py` 从 **2789 条证据对象 / 593 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261126`，不再作为本页结论来源。
+> 本页正文于 2026-11-27 由 `rebuild_synthesis_body.py` 从 **2796 条证据对象 / 594 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261127`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
 ## 0. 综述提要（受控生成）
 
-本主题当前纳入 **2789 条证据 / 593 篇文献**。规则判定为因果或直接调控的 **459 条（16.5%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **241 条**。可判定程度最高的结论集中在CsMYB5a、PpbZIP44、SlAP2c：For example, ectopic overexpression of CsMYB5a in tobacco increased the PA content in flowers and inhibited anthocyanin accumulation; overex…（[[a-novel-r2r3myb-transcription-factor-famyb5-f7]]）；Overexpression of PpbZIP44 decreased the TCA cycle intermediate contents (e.g.（[[a-pear-s1-bzip-transcription-factor-ppbzip44-f6]]）；Knockout of SlAP2c in both the “MicroTom” and “Ailsa Craig” backgrounds resulted in greater lycopene accumulation, whereas overexpression of…（[[a-transcriptional-cascade-mediated-by-two-f6]]）。研究重心位于“次生代谢物生物合成途径”（460 条证据，占 16%）。证据的物种分布以 Oryza sativa 为首（630 条，23%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
+本主题当前纳入 **2796 条证据 / 594 篇文献**。规则判定为因果或直接调控的 **460 条（16.5%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **241 条**。可判定程度最高的结论集中在CsMYB5a、PpbZIP44、SlAP2c：For example, ectopic overexpression of CsMYB5a in tobacco increased the PA content in flowers and inhibited anthocyanin accumulation; overex…（[[a-novel-r2r3myb-transcription-factor-famyb5-f7]]）；Overexpression of PpbZIP44 decreased the TCA cycle intermediate contents (e.g.（[[a-pear-s1-bzip-transcription-factor-ppbzip44-f6]]）；Knockout of SlAP2c in both the “MicroTom” and “Ailsa Craig” backgrounds resulted in greater lycopene accumulation, whereas overexpression of…（[[a-transcriptional-cascade-mediated-by-two-f6]]）。研究重心位于“次生代谢物生物合成途径”（460 条证据，占 16%）。证据的物种分布以 Oryza sativa 为首（630 条，23%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
 > 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
@@ -93,17 +93,17 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据对象 | 2789 | 本主题归属的证据条目数 |
-| 独立文献（DOI/PMID 去重） | 593 | 去重后的论文数 |
-| 平均每篇证据数 | 4.70 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
-| 单条证据论文占比 | 10%（62/593） | 越高说明证据碎片化越严重 |
-| 证据类型构成 | descriptive/observational(1868)、protein interaction(239)、expression/regulation(196)、phenotypic/association(163)、genetic perturbation(141)、omics/co-occurrence(103)、DNA binding/regulation(79) | 描述性占多数时机制结论需打折扣 |
-| 类型标注置信度 | low(1922)、medium(683)、high(156)、未标(28) | 低置信度标注须回原文核对 |
+| 证据对象 | 2796 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 594 | 去重后的论文数 |
+| 平均每篇证据数 | 4.71 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
+| 单条证据论文占比 | 10%（62/594） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(1871)、protein interaction(240)、expression/regulation(198)、phenotypic/association(163)、genetic perturbation(141)、omics/co-occurrence(104)、DNA binding/regulation(79) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(1922)、medium(683)、high(156)、未标(35) | 低置信度标注须回原文核对 |
 | 主要物种 | Oryza sativa(630)、Arabidopsis thaliana(562)、Nicotiana tabacum(465)、Solanum lycopersicum(451)、Zea mays(433)、Glycine max(290) | 物种过度集中则外推性受限 |
 | 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
-| 未命中任何子主题的证据 | 1699（61%） | 占比高说明子主题词表或证据文本需扩表 |
+| 未命中任何子主题的证据 | 1706（61%） | 占比高说明子主题词表或证据文本需扩表 |
 
-因果级证据共 **459 条**，占本主题证据的 **16.5%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
+因果级证据共 **460 条**，占本主题证据的 **16.5%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
 物种主导度：**Oryza sativa** 出现在 630 条证据（23%）。分布较分散，单物种主导风险较低，但需注意各物种证据层级是否可比。
 
@@ -248,7 +248,7 @@ rebuild_version: v3
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
-- **一致的观察范围**：本组证据集中在Oryza sativa、Glycine max、Arabidopsis thaliana，反复出现的实体为CYP93C、MdbZIP44、starch、chlorophyll；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[analysis-of-lncrna43234-associated-cerna-network-reveals-f2]]；[[artemisinin-scrna-glandular-trichomes-f6]]；[[b4-B6ORjNkH1VSkcVpnv9C7xQ-f3]]）。
+- **一致的观察范围**：本组证据集中在Glycine max、Oryza sativa、Arabidopsis thaliana，反复出现的实体为CYP93C、MdbZIP44、starch、chlorophyll；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[analysis-of-lncrna43234-associated-cerna-network-reveals-f2]]；[[artemisinin-scrna-glandular-trichomes-f6]]；[[b4-B6ORjNkH1VSkcVpnv9C7xQ-f3]]）。
 - **证据层级的张力**：17 条属于遗传扰动/蛋白互作/DNA 结合，92 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[cmnac25-targets-cmmyb6-to-positively-regulate-f6]]；[[daily-42243644-f6]]；[[artemisinin-scrna-glandular-trichomes-f6]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[cmnac25-targets-cmmyb6-to-positively-regulate-f6]]；[[daily-42243644-f6]]）。
 
@@ -256,8 +256,8 @@ rebuild_version: v3
 
 | 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
 |---|---|---|---|---|---|---|---|---|
-| Oryza sativa | 1 | 3 | 1 | 1 | 0 | 1 | 11 | 18 |
 | Glycine max | 0 | 0 | 1 | 1 | 1 | 0 | 15 | 18 |
+| Oryza sativa | 1 | 3 | 1 | 1 | 0 | 1 | 11 | 18 |
 | Arabidopsis thaliana | 0 | 1 | 1 | 1 | 0 | 1 | 14 | 18 |
 | Solanum lycopersicum | 2 | 0 | 1 | 2 | 1 | 0 | 10 | 16 |
 | Zea mays | 0 | 3 | 1 | 1 | 0 | 0 | 8 | 13 |
@@ -324,8 +324,8 @@ rebuild_version: v3
 | Glycine max | 1 | 0 | 1 | 0 | 2 |
 | Oryza sativa | 1 | 1 | 0 | 0 | 2 |
 | Solanum lycopersicum | 1 | 0 | 0 | 0 | 1 |
-| Fragaria × ananassa | 0 | 0 | 0 | 1 | 1 |
 | Daucus carota | 0 | 0 | 0 | 1 | 1 |
+| Fragaria × ananassa | 0 | 0 | 0 | 1 | 1 |
 
 **基因实体（自动标注，前 5）**：SeNPs(1)（标注覆盖 1/5）。
 
@@ -387,7 +387,7 @@ rebuild_version: v3
 
 ## 5. 可直接引用的因果级证据（自动筛选）
 
-以下 459 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
+以下 460 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
 
 | 证据页 | DOI | 类型 | 断言（摘录） |
 |---|---|---|---|
@@ -412,7 +412,7 @@ rebuild_version: v3
 | [[analysis-of-lncrna43234-associated-cerna-network-reveals-f6]] | `10.1021/acs.jafc.3c00993` | protein interaction | The miRNAs predicted to interact with these targeted protein-coding genes showed upregulated expression levels. |
 | [[analysis-of-lncrna43234-associated-cerna-network-reveals-f7]] | `10.1021/acs.jafc.3c00993` | protein interaction | The lncRNAs MSTRG.33053 and targeted protein-coding genes showed upregulated expression levels, and the miRNAs that were… |
 
-（另有 439 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
+（另有 440 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
 
 ## 6. 证据间的张力与矛盾（自动筛查）
 
@@ -427,13 +427,13 @@ rebuild_version: v3
 
 ## 7. 覆盖与代表性缺口
 
-- **1699 条证据（61%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **1706 条证据（61%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
 - **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
 - **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261126`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261127`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 

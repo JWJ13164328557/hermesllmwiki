@@ -2,16 +2,16 @@
 
 title: "胁迫与免疫 — Synthesis"
 created: 2026-06-01
-total_evidence: 4804
-total_papers: 968
+total_evidence: 4823
+total_papers: 971
 library_papers: 1346  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-26
+body_status: rebuilt-2026-11-27
 tags: [synthesis, stress, immunity, abiotic-stress, biotic-stress, hormone]
 
 
 soybean_relevance: ⭐高
-legacy_archive: _review/synthesis_legacy_20261126/stress-immunity.md
+legacy_archive: _review/synthesis_legacy_20261127/stress-immunity.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -24,12 +24,12 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据条目 | 4804 | 本主题归属的证据对象数 |
-| 独立论文 | 968 | 去重后的 PMID/DOI 数 |
-| 平均每篇证据数 | 4.96 | <1.0 说明多数论文只贡献 1 条结论 |
+| 证据条目 | 4823 | 本主题归属的证据对象数 |
+| 独立论文 | 971 | 去重后的 PMID/DOI 数 |
+| 平均每篇证据数 | 4.97 | <1.0 说明多数论文只贡献 1 条结论 |
 | 单条证据论文占比 | 8% | 越高说明"每篇论文一个结论"，系统性弱 |
-| 主要物种 | Oryza sativa(1378)、Solanum lycopersicum(869)、Zea mays(835)、Arabidopsis thaliana(828)、Triticum aestivum(777)、Nicotiana tabacum(619) | 物种过度集中则外推性受限 |
-| 证据类型 | descriptive/observational 3036；protein interaction 526；phenotypic/association 404；expression/regulation 341；genetic perturbation 296；omics/co-occurrence 119 | 表达/关联类居多时，因果结论需打折扣 |
+| 主要物种 | Oryza sativa(1378)、Solanum lycopersicum(869)、Zea mays(835)、Arabidopsis thaliana(828)、Triticum aestivum(784)、Nicotiana tabacum(619) | 物种过度集中则外推性受限 |
+| 证据类型 | descriptive/observational 3044；protein interaction 534；phenotypic/association 404；expression/regulation 343；genetic perturbation 296；omics/co-occurrence 120 | 表达/关联类居多时，因果结论需打折扣 |
 
 > 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
@@ -55,12 +55,12 @@ rebuild_version: v3
 | 证据类型 | 条目数 | 可支持的推断强度 |
 |---|---:|---|
 | genetic perturbation | 296 | 遗传因果（扰动后表型/表达改变） |
-| protein interaction | 526 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
+| protein interaction | 534 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
 | DNA binding/regulation | 82 | 直接调控（ChIP/EMSA/启动子报告） |
-| expression/regulation | 341 | 表达相关（转录组/qPCR，不能单独推因果） |
+| expression/regulation | 343 | 表达相关（转录组/qPCR，不能单独推因果） |
 | phenotypic/association | 404 | 表型关联（GWAS/QTL/自然变异/田间） |
-| omics/co-occurrence | 119 | 组学共现（单细胞簇/共表达网络，非调控） |
-| descriptive/observational | 3036 | 描述性/背景陈述（未报告可核验的实验设计） |
+| omics/co-occurrence | 120 | 组学共现（单细胞簇/共表达网络，非调控） |
+| descriptive/observational | 3044 | 描述性/背景陈述（未报告可核验的实验设计） |
 
 > 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
@@ -80,13 +80,13 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-26 由 `rebuild_synthesis_body.py` 从 **4804 条证据对象 / 968 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261126`，不再作为本页结论来源。
+> 本页正文于 2026-11-27 由 `rebuild_synthesis_body.py` 从 **4823 条证据对象 / 971 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261127`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
 ## 0. 综述提要（受控生成）
 
-本主题当前纳入 **4804 条证据 / 968 篇文献**。规则判定为因果或直接调控的 **904 条（18.8%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **413 条**。可判定程度最高的结论集中在CcLTCS、MdNAC29、SlUGT73C1：Simultaneous overexpression of CcNFYB3 and CcLTCS further increased Al resistance.（[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly-f5]]）；In apple, overexpression of MdNAC29 reduced drought tolerance in apple, callus, and tobacco plants, showing higher relative conductivity, MD…（[[daily-39819332-f3]]）；In tomato, overexpression of the tomato SlUGT73C1 gene in Arabidopsis increased the seed germination rate, increased SOD and POD activities,…（[[daily-39819332-f4]]）。研究重心位于“非生物逆境响应”（914 条证据，占 19%）。证据的物种分布以 Oryza sativa 为首（1378 条，29%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
+本主题当前纳入 **4823 条证据 / 971 篇文献**。规则判定为因果或直接调控的 **912 条（18.9%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **418 条**。可判定程度最高的结论集中在CcLTCS、MdNAC29、SlUGT73C1：Simultaneous overexpression of CcNFYB3 and CcLTCS further increased Al resistance.（[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly-f5]]）；In apple, overexpression of MdNAC29 reduced drought tolerance in apple, callus, and tobacco plants, showing higher relative conductivity, MD…（[[daily-39819332-f3]]）；In tomato, overexpression of the tomato SlUGT73C1 gene in Arabidopsis increased the seed germination rate, increased SOD and POD activities,…（[[daily-39819332-f4]]）。研究重心位于“非生物逆境响应”（916 条证据，占 19%）。证据的物种分布以 Oryza sativa 为首（1378 条，29%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
 > 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
@@ -94,17 +94,17 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据对象 | 4804 | 本主题归属的证据条目数 |
-| 独立文献（DOI/PMID 去重） | 968 | 去重后的论文数 |
-| 平均每篇证据数 | 4.96 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
-| 单条证据论文占比 | 8%（73/968） | 越高说明证据碎片化越严重 |
-| 证据类型构成 | descriptive/observational(3036)、protein interaction(526)、phenotypic/association(404)、expression/regulation(341)、genetic perturbation(296)、omics/co-occurrence(119)、DNA binding/regulation(82) | 描述性占多数时机制结论需打折扣 |
-| 类型标注置信度 | low(3131)、medium(1329)、high(314)、未标(30) | 低置信度标注须回原文核对 |
-| 主要物种 | Oryza sativa(1378)、Solanum lycopersicum(869)、Zea mays(835)、Arabidopsis thaliana(828)、Triticum aestivum(777)、Nicotiana tabacum(619) | 物种过度集中则外推性受限 |
+| 证据对象 | 4823 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 971 | 去重后的论文数 |
+| 平均每篇证据数 | 4.97 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
+| 单条证据论文占比 | 8%（73/971） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(3044)、protein interaction(534)、phenotypic/association(404)、expression/regulation(343)、genetic perturbation(296)、omics/co-occurrence(120)、DNA binding/regulation(82) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(3131)、medium(1329)、high(314)、未标(49) | 低置信度标注须回原文核对 |
+| 主要物种 | Oryza sativa(1378)、Solanum lycopersicum(869)、Zea mays(835)、Arabidopsis thaliana(828)、Triticum aestivum(784)、Nicotiana tabacum(619) | 物种过度集中则外推性受限 |
 | 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
-| 未命中任何子主题的证据 | 3223（67%） | 占比高说明子主题词表或证据文本需扩表 |
+| 未命中任何子主题的证据 | 3238（67%） | 占比高说明子主题词表或证据文本需扩表 |
 
-因果级证据共 **904 条**，占本主题证据的 **18.8%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
+因果级证据共 **912 条**，占本主题证据的 **18.9%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
 物种主导度：**Oryza sativa** 出现在 1378 条证据（29%）。分布较分散，单物种主导风险较低，但需注意各物种证据层级是否可比。
 
@@ -114,13 +114,13 @@ rebuild_version: v3
 
 ### 2.1 病原识别与免疫受体
 
-**规模** 244 条证据 / 149 篇文献；**构成** descriptive/observational(127)、protein interaction(62)、omics/co-occurrence(18)、expression/regulation(14)、genetic perturbation(13)、phenotypic/association(7)；**因果层** 78 条（可支撑有限机制表述）。
+**规模** 245 条证据 / 150 篇文献；**构成** descriptive/observational(127)、protein interaction(63)、omics/co-occurrence(18)、expression/regulation(14)、genetic perturbation(13)、phenotypic/association(7)；**因果层** 79 条（可支撑有限机制表述）。
 
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Oryza sativa、Solanum lycopersicum、Arabidopsis thaliana，反复出现的实体为NLR8、NbTOL9a、auxin、lignin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f1]]；Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f4]]；Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f5]]）。
-- **证据层级的张力**：78 条属于遗传扰动/蛋白互作/DNA 结合，166 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40954952-f8]]；[[daily-41100018-f4]]；Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f1]]）。
+- **证据层级的张力**：79 条属于遗传扰动/蛋白互作/DNA 结合，166 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40954952-f8]]；[[daily-41100018-f4]]；Etienne et al., 2023 [[cell-specialization-and-coordination-in-arabidopsis-leaves-upon-pathogenic-attac-f1]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-40954952-f8]]；[[daily-41100018-f4]]）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -133,9 +133,9 @@ rebuild_version: v3
 | Nicotiana tabacum | 4 | 10 | 0 | 4 | 3 | 7 | 24 | 52 |
 | Triticum aestivum | 3 | 11 | 0 | 2 | 3 | 0 | 26 | 45 |
 
-**基因实体（自动标注，前 5）**：NLR8(5)、NbTOL9a(4)、BAK1(4)、NtabCrRLK47(4)、CrRLK1L(3)（标注覆盖 104/244）。
+**基因实体（自动标注，前 5）**：NLR8(5)、NbTOL9a(4)、BAK1(4)、NtabCrRLK47(4)、CrRLK1L(3)（标注覆盖 105/245）。
 
-**化合物实体（自动标注，前 5）**：auxin(4)、lignin(2)、phenylpropanoid(2)、ethylene(1)、brassinosteroid(1)（标注覆盖 10/244）。
+**化合物实体（自动标注，前 5）**：auxin(4)、lignin(2)、phenylpropanoid(2)、ethylene(1)、brassinosteroid(1)（标注覆盖 10/245）。
 
 **标注一致性提示**：本组 2 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-40954952-f6]]。
 
@@ -209,13 +209,13 @@ rebuild_version: v3
 
 ### 2.4 非生物逆境响应
 
-**规模** 914 条证据 / 381 篇文献；**构成** descriptive/observational(406)、phenotypic/association(217)、genetic perturbation(117)、expression/regulation(71)、protein interaction(70)、omics/co-occurrence(18)；**因果层** 202 条（可支撑有限机制表述）。
+**规模** 916 条证据 / 382 篇文献；**构成** descriptive/observational(408)、phenotypic/association(217)、genetic perturbation(117)、expression/regulation(71)、protein interaction(70)、omics/co-occurrence(18)；**因果层** 202 条（可支撑有限机制表述）。
 
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Oryza sativa、Triticum aestivum、Zea mays，反复出现的实体为NaCl、SnRK2、melatonin、chlorophyll；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[banana-manac1-activates-secondary-cell-wall-f6]]；[[ccnfyb3ccmate35-and-lncrna-ccltcscccs-modules-jointly-f3]]；[[daily-39819332-f2]]）。
-- **证据层级的张力**：202 条属于遗传扰动/蛋白互作/DNA 结合，712 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[banana-manac1-activates-secondary-cell-wall-f6]]；[[daily-39819332-f3]]；[[daily-41589633-f5]]）。
+- **证据层级的张力**：202 条属于遗传扰动/蛋白互作/DNA 结合，714 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[banana-manac1-activates-secondary-cell-wall-f6]]；[[daily-39819332-f3]]；[[daily-41589633-f5]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[banana-manac1-activates-secondary-cell-wall-f6]]；[[daily-39819332-f3]]）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -228,9 +228,9 @@ rebuild_version: v3
 | Arabidopsis thaliana | 31 | 14 | 6 | 20 | 29 | 3 | 74 | 177 |
 | Solanum lycopersicum | 23 | 8 | 4 | 20 | 43 | 2 | 58 | 158 |
 
-**基因实体（自动标注，前 5）**：NaCl(10)、SnRK2(6)、CaAAP6(5)、TaCOMT1A(5)、ZmSWEET11(4)（标注覆盖 334/914）。
+**基因实体（自动标注，前 5）**：NaCl(10)、SnRK2(6)、CaAAP6(5)、TaCOMT1A(5)、ZmSWEET11(4)（标注覆盖 335/916）。
 
-**化合物实体（自动标注，前 5）**：melatonin(14)、chlorophyll(12)、phenylpropanoid(7)、lignin(6)、auxin(6)（标注覆盖 72/914）。
+**化合物实体（自动标注，前 5）**：melatonin(14)、chlorophyll(12)、phenylpropanoid(7)、lignin(6)、auxin(6)（标注覆盖 72/916）。
 
 **标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[ref-pcu020-f4]]。
 
@@ -276,13 +276,13 @@ rebuild_version: v3
 
 ### 2.6 微生物组与根际互作
 
-**规模** 111 条证据 / 65 篇文献；**构成** descriptive/observational(89)、phenotypic/association(10)、protein interaction(5)、expression/regulation(4)、DNA binding/regulation(1)、omics/co-occurrence(1)；**因果层** 7 条（可支撑有限机制表述）。
+**规模** 112 条证据 / 66 篇文献；**构成** descriptive/observational(89)、phenotypic/association(10)、protein interaction(6)、expression/regulation(4)、DNA binding/regulation(1)、omics/co-occurrence(1)；**因果层** 8 条（可支撑有限机制表述）。
 
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Oryza sativa、Zea mays、Solanum lycopersicum，反复出现的实体为NtabCrRLK47、MAX3、melatonin、jasmonic acid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-41375325-f6]]；[[daily-41589633-f1]]；[[daily-41645062-f1]]）。
-- **证据层级的张力**：7 条属于遗传扰动/蛋白互作/DNA 结合，104 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（；[[daily-42122860-f5]]）。
+- **证据层级的张力**：8 条属于遗传扰动/蛋白互作/DNA 结合，104 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（；[[daily-42122860-f5]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -295,15 +295,15 @@ rebuild_version: v3
 | Nicotiana tabacum | 1 | 0 | 0 | 0 | 0 | 0 | 15 | 16 |
 | Glycine max | 0 | 0 | 0 | 0 | 1 | 0 | 14 | 15 |
 
-**基因实体（自动标注，前 5）**：NtabCrRLK47(3)、MAX3(2)、GXD2(1)、NSP2(1)、CELK12(1)（标注覆盖 11/111）。
+**基因实体（自动标注，前 5）**：NtabCrRLK47(3)、MAX3(2)、GXD2(1)、NSP2(1)、CELK12(1)（标注覆盖 11/112）。
 
-**化合物实体（自动标注，前 5）**：melatonin(3)、jasmonic acid(1)、phenolic(1)、salicylic acid(1)（标注覆盖 6/111）。
+**化合物实体（自动标注，前 5）**：melatonin(3)、jasmonic acid(1)、phenolic(1)、salicylic acid(1)（标注覆盖 6/112）。
 
 **代表断言（原文摘录，未改写）**
 
 - “By delivering hydrolytic enzymes, antimicrobial effectors, signaling molecules, and immunomodulatory proteins, SSs enable bioagents not only to suppress pathogens directly, but als…” — [[daily-42437521-f8]]（`10.1002/bit.70303`，protein interaction）
 - “Recent studies suggest that melatonin not only directly regulates plant stress physiology but may also enhance drought tolerance by reshaping the structure and function of rhizosph…” — [[daily-42249284-f4]]（`10.1186/s12870-026-09179-1`，DNA binding/regulation）
-- “Specifically, we show that the mutation of NtabCrRLK47 leads to significant alterations in plant growth, including enhanced plant height, root length, leaf area, and an enriched mi…” — [[daily-42491367-f2]]（`10.3389/fpls.2026.1864982`，genetic perturbation）
+- “Plants must constantly interact with a complex and dy namic soil microbiome in the rhizosphere where even closely related fungi can adopt diverse lifestyles, ranging between pathog…” — [[daily-43085924-f2]]（`10.1016/j.funbio.2026.101887`，protein interaction）
 
 ### 2.7 逆境记忆与表观调控
 
@@ -374,19 +374,19 @@ rebuild_version: v3
 
 | 子主题 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 |
 |---|---|---|---|---|---|---|---|
-| 病原识别与免疫受体 | 13 | 62 | 3 | 14 | 7 | 18 | 127 |
+| 病原识别与免疫受体 | 13 | 63 | 3 | 14 | 7 | 18 | 127 |
 | 免疫信号传导与活性氧 | 23 | 43 | 3 | 18 | 32 | 9 | 252 |
 | 抗病基因与数量抗性 | 4 | 6 | — | — | 8 | 1 | 25 |
-| 非生物逆境响应 | 117 | 70 | 15 | 71 | 217 | 18 | 406 |
+| 非生物逆境响应 | 117 | 70 | 15 | 71 | 217 | 18 | 408 |
 | 激素与免疫的权衡 | 1 | 1 | — | 1 | 4 | 1 | 51 |
-| 微生物组与根际互作 | 1 | 5 | 1 | 4 | 10 | 1 | 89 |
+| 微生物组与根际互作 | 1 | 6 | 1 | 4 | 10 | 1 | 89 |
 | 逆境记忆与表观调控 | 1 | 7 | 2 | 3 | 5 | 1 | 53 |
 
 所有已有证据的子主题都至少含 1 条因果/直接互作级证据，机制表述具备最低限度的实验托底。
 
 ## 5. 可直接引用的因果级证据（自动筛选）
 
-以下 904 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
+以下 912 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
 
 | 证据页 | DOI | 类型 | 断言（摘录） |
 |---|---|---|---|
@@ -411,7 +411,7 @@ rebuild_version: v3
 | [[daily-40455831-f7]] | `10.1146/annurev-phyto-121823-032335` | protein interaction | COP1 binds to and ubiquitinates the spliceosome component DOMINANT COP1-6 SUPPRESSOR 1 (DCS1) to control intron retentio… |
 | [[daily-40893112-f4]] | `10.1080/21645698.2025.2555037` | genetic perturbation | Reported that overexpression of the NsVP1 gene from Nitraria sibirica, significantly enhanced salt tolerance in Arabidop… |
 
-（另有 884 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
+（另有 892 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
 
 ## 6. 证据间的张力与矛盾（自动筛查）
 
@@ -425,13 +425,13 @@ rebuild_version: v3
 
 ## 7. 覆盖与代表性缺口
 
-- **3223 条证据（67%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **3238 条证据（67%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
 - **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
 - **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261126`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261127`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 

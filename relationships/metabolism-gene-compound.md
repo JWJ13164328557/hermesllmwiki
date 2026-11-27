@@ -1,6 +1,6 @@
 ---
 title: "Gene-Compound Co-occurrence (Metabolism)"
-created: 2026-11-26
+created: 2026-11-27
 type: relationship
 category: metabolism-gene-compound
 tags: [metabolism, relationships]
@@ -13,7 +13,7 @@ used_for: "navigation-only"
 # Gene–Compound Co-occurrence (Metabolism)
 
 ## Summary
-Scanned 18153 evidence objects; 655 genes were co-mentioned with compounds, 807 gene-compound pairs retained.
+Scanned 18176 evidence objects; 655 genes were co-mentioned with compounds, 807 gene-compound pairs retained.
 
 > **语义边界**：本页只统计“同一证据对象中同时出现”，即共现，不是调控，也不是因果。共现强度不能用来推断基因控制该化合物的合成或积累。
 
@@ -23,7 +23,7 @@ Scanned 18153 evidence objects; 655 genes were co-mentioned with compounds, 807 
 | [["pbrarf13"]] | "cellulose"(4), "lignin"(4), "auxin"(3) | 11 | 1 | [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f1]], [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f2]], [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f3]], [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f4]], [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f5]] |
 | [["pbrnsc"]] | "cellulose"(4), "lignin"(4), "auxin"(2) | 10 | 3 | [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f2]], [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f3]], [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f4]], [[auxin-inhibits-lignin-and-cellulose-biosynthesis-f8]], [[daily-42514610-f3]] |
 | [["wd40"]] | "anthocyanin"(3), "flavonoid"(2), "abscisic acid"(1), "ethylene"(1), "jasmonic acid"(1) | 9 | 11 | [[a-novel-r2r3myb-transcription-factor-famyb5-f5]], [[cotton-fiber-development-molecular-regulation-f4]], [[daily-41600069-f2]], [[daily-42265999-f2]], [[daily-42299342-f2]] |
-| [["ap2"]] | "ethylene"(4), "phenylpropanoid"(1), "auxin"(1), "flavonoid"(1), "flavonol"(1) | 9 | 23 | [[b4-4h7J0H3OPFzzltwSkI6mtg-f8]], [[b5-kf00Og92ayHkmDBpso75bw-f7]], [[daily-41375325-f8]], [[daily-41600069-f8]], [[daily-42231161-f4]] |
+| [["ap2"]] | "ethylene"(4), "phenylpropanoid"(1), "auxin"(1), "flavonoid"(1), "flavonol"(1) | 9 | 24 | [[b4-4h7J0H3OPFzzltwSkI6mtg-f8]], [[b5-kf00Og92ayHkmDBpso75bw-f7]], [[daily-41375325-f8]], [[daily-41600069-f8]], [[daily-42231161-f4]] |
 | [["osesv1"]] | "starch"(8) | 8 | 1 | [[oslesv-and-osesv1-promote-transitory-and-f1]], [[oslesv-and-osesv1-promote-transitory-and-f2]], [[oslesv-and-osesv1-promote-transitory-and-f3]], [[oslesv-and-osesv1-promote-transitory-and-f4]], [[oslesv-and-osesv1-promote-transitory-and-f5]] |
 | [["oslesv"]] | "starch"(8) | 8 | 1 | [[oslesv-and-osesv1-promote-transitory-and-f1]], [[oslesv-and-osesv1-promote-transitory-and-f2]], [[oslesv-and-osesv1-promote-transitory-and-f3]], [[oslesv-and-osesv1-promote-transitory-and-f4]], [[oslesv-and-osesv1-promote-transitory-and-f5]] |
 | [["hy5"]] | "anthocyanin"(5), "carotenoid"(1), "flavonoid"(1) | 7 | 13 | [[a-transcriptional-cascade-mediated-by-two-f7]], [[b6-JtU6BLa8oL57zgnlWnzO_Q-f2]], [[b6-JtU6BLa8oL57zgnlWnzO_Q-f3]], [[b6-JtU6BLa8oL57zgnlWnzO_Q-f8]], [[daily-42216123-f5]] |
@@ -60,6 +60,6 @@ Scanned 18153 evidence objects; 655 genes were co-mentioned with compounds, 807 
 - 本页只用于缩小人工核查范围；下游 synthesis / hypotheses 不得把本页当作调控或因果证据。
 
 ## Notes
-- 生成范围：全库代谢主题证据（2026-11-26 重算）
+- 生成范围：全库代谢主题证据（2026-11-27 重算）
 - 关联强度 = 同一证据对象中的共现次数，**不是调控强度**
 - 候选排序用途：用于缩小人工核查范围，不得直接写入机制结论

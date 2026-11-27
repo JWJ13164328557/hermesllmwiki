@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -193,6 +193,19 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1007/s00018-026-06537-y",
+      "title": "Single-cell CRISPR screens with CROP-seq: technological advances, applications, and computational insights",
+      "journal": "Cellular and Molecular Life Sciences",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Hong Zhang",
+        "Peifen Zhang",
+        "Eskeatnaf Mulugeta"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1038/s41589-026-02375-y",
       "title": "scBiopsy-seq as a highly sensitive platform for temporal single-cell RNA-sequencing analysis",
       "journal": "Nature Chemical Biology",
@@ -274,21 +287,6 @@
       "authors": [
         "Amuguleng Jin",
         "Tao Yan"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1186/s13059-026-04340-3",
-      "title": "FLORA-seq enables ultra-high throughput full-length single-cell RNA profiling",
-      "journal": "Genome Biology",
-      "year": "",
-      "abstract": "",
-      "authors": [
-        "Mengmeng Liu",
-        "Qifei Wang",
-        "Yun Li",
-        "Yaxin Wang",
-        "Lisen Gao"
       ]
     },
     {
@@ -392,6 +390,21 @@
       "abstract": "",
       "authors": [
         "Edward Durner"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.3389/fpls.2026.1986684",
+      "title": "Species-specific regulation of photoperiod and end-of-day far-red light on the growth and quality of vegetable crops",
+      "journal": "Frontiers in Plant Science",
+      "year": "",
+      "abstract": "To investigate the effects of different supplemental far-red (FR) strategies on the growth and quality of vegetable crops, this study systematically compared the effects of photoperiod FR and end-of-day FR (EOD-FR) on the morphology, biomass, photosynthetic pigment, PSII fluorescence, and nutritional quality of six vegetable crop entries (lettuce, Chinese kale, green/red perilla, tomato, and cucumber). The regulatory effects of FR and EOD-FR exhibited high species and organ-specificity. In leafy vegetables, the FR treatment significantly promoted biomass accumulation and stem elongation in all species. In contrast, the EOD-FR treatment induced species-differential responses, effectively promoting biomass and canopy architecture in lettuce and Chinese kale, while solely significantly promoting leaf area in green and red perilla. FR generally reduced the total leaf chlorophyll content and altered energy partitioning by decreasing the effective quantum yield of PSII (Y(II)) and increasing the quantum yield of non-regulated energy dissipation (Y(NO)). The EOD-FR treatment selectively elevated the chlorophyll a/b ratio and enhanced regulated thermal dissipation (Y(NPQ)) in lettuce and Chinese kale. The FR treatment increased the soluble sugar content in all leafy vegetables, and also increased the contents of soluble protein, vitamin C, polyphenols and flavonoids in green and red perilla, while decreasing these in lettuce and Chinese kale. For fruit vegetable seedlings, the FR treatment promoted stem elongation but significantly decreased the root-to-shoot ratio and seedling index of tomato and cucumber seedlings, Furthermore, FR increased the accumulation of malondialdehyde (MDA) and reduced antioxidant enzyme activities in tomato, whereas it exhibited a divergent response in cucumber by increasing POD activity and decreasing MDA levels. In contrast, the EOD-FR treatment moderately stimulated leaf expansion while maintaining balanced biomass allocation and stable morphological traits. Furthermore, the EOD-FR treatment improved PSII photochemical yield and energy partitioning, specifically by increasing Y(II) and reducing both Y(NO) and the quantum yield of regulated thermal dissipation (Y(NPQ)) in tomato seedlings. These findings demonstrate that customized FR lighting strategies should be developed for specific crop species in controlled environment agriculture. Continuous photoperiod FR supplementation is more suitable for increasing biomass in specific leafy vegetables, and can simultaneously improve nutritional quality in species like perilla, while comes with nutritional quality trade-offs in lettuce and Chinese kale. Conversely, the EOD-FR treatment serves as a more appropriate targeted lighting strategy for fruit vegetable seedlings to balance morphological expansion and robust seedling cultivation.",
+      "authors": [
+        "Minggui Zhang",
+        "Jun Ju",
+        "Youzhi Hu",
+        "Xueli Shi",
+        "Xiangyu Wang"
       ]
     },
     {
@@ -627,19 +640,6 @@
     },
     {
       "source": "crossref",
-      "doi": "10.1016/j.optmat.2026.118128",
-      "title": "Characterizations and reliability studies of LEDs with red phosphor applied to vehicle rear signaling light sources",
-      "journal": "Optical Materials",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Sidahmed Beddar",
-        "Jean-Baptiste Millet",
-        "Yasser Alayli"
-      ]
-    },
-    {
-      "source": "crossref",
       "doi": "10.33865/wjb.002.02.0086",
       "title": "EFFECT OF FERTILIZER FACTORY WASTES ON SEED GERMINATION, PLANT GROWTH AND ROOT-KNOT DISEASE DEVELOPMENT IN TOMATO (Lycopersicon lycopersicum L.) PLANTS",
       "journal": "World Journal of Biology and Biotechnology",
@@ -750,6 +750,21 @@
         "Mengkai Wang",
         "Chuanqin Huang",
         "Mingxia Wang"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.1016/j.jclepro.2026.150045",
+      "title": "A conceptual framework of dual-zone soil ecosystem, linking soil biochemical functioning, root development, and fodder maize growth",
+      "journal": "Journal of Cleaner Production",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Dewen Qiao",
+        "Ajit Borundia",
+        "Juliana Melo",
+        "Cristina Cruz",
+        "Abdul Mounem Mouazen"
       ]
     },
     {
@@ -874,6 +889,21 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1186/s12870-026-10448-2",
+      "title": "Long-term fertilization alters rice grain quality and nutrient content in association with changes in seed endophytic microbial co-occurrence modules",
+      "journal": "BMC Plant Biology",
+      "year": "",
+      "abstract": "",
+      "authors": [
+        "Jia Yi Luo",
+        "Ming Yang Ren",
+        "Kai Lou Liu",
+        "Hui Jie Song",
+        "Yan Zhou"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1108/ec-11-2025-1397",
       "title": "Optimization method for spatial robot arm locking-unit layout based on plant root adaptive growth patterns",
       "journal": "Engineering Computations",
@@ -900,33 +930,6 @@
         "Jinxin Liu",
         "Xue Zhang",
         "Xiaohe Yang"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1002/pei3.70242",
-      "title": "Epidermal Flavonoids as a Potential Target Trait to Breed for Intrinsic Heat Tolerance in Wheat (\n                    <scp>\n                      <i>Triticum aestivum</i>\n                    </scp>\n                     L.)",
-      "journal": "Plant-Environment Interactions",
-      "year": "2026",
-      "abstract": "ABSTRACT\n                  \n                    In crop plants, epidermal flavonoids play a predominant role in photoprotection. To date, however, there has been no attempt to exploit the flavonoids as a biomarker in breeding for heat tolerance because routine phenotyping is neither practicable nor cost‐effective. A portable, non‐destructive fluorescence device, the Dualex Scientific sensor, has been used to estimate total epidermal flavonoids in a wide range of plant species. Our objectives in the current research were to investigate which of the flavonoids in wheat (\n                    \n                      Triticum aestivum\n                    \n                    L.) can be predicted from sensor readings obtained using the device, test its potential as a target trait to breed for heat tolerance and investigate the genetics through genome‐wide quantitative trait loci (QTL) and prediction analyses. A targeted analysis of several metabolites found that Flav index from the Dualex sensor was highly correlated with the isoorientin content of the leaf (\n                    R\n                    2\n                     = 0.9) and furthermore, cultivars rated as heat‐tolerant versus sensitive showed significant differences in isoorientin contents when exposed to artificial heat stress in the field. Using the Flav index as a proxy, a genome‐wide QTL analysis identified eight single‐nucleotide polymorphic markers associated with the trait. The individual loci explained between 2% and 30% of the phenotypic variation, and the major‐effect locus mapped close to a wheat ortholog of the maize gene (\n                    ZmUGT708A6\n                    ), which encodes a\n                    C‐glycosyltransferase\n                    and requires further validation. We further investigated genomic selection using molecular markers alone and found the prospects to be high, with a prediction accuracy of 0.69 ± 0.003. In conclusion, our results suggest that high concentration of isoorientin in wheat leaves, which could be accurately predicted using fluorescence imaging, are associated with heat tolerance in wheat. Furthermore, the wheat crop could be a valuable source of this health‐promoting compound.\n                  ",
-      "authors": [
-        "Livinus Emebiri",
-        "Harsh Raman"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1007/s11816-026-01105-z",
-      "title": "Quantitative phosphoproteomics reveals stage-associated phosphorylation of proteins involved in hormone signaling and cell growth during rice inflorescence development",
-      "journal": "Plant Biotechnology Reports",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Soo Yeon Jeon",
-        "Ravi Gupta",
-        "Ji Soo Kim",
-        "Jinmi Yoon",
-        "Lae-Hyeon Cho"
       ]
     },
     {
@@ -1138,20 +1141,6 @@
     },
     {
       "source": "crossref",
-      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
-      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
-      "journal": "International Journal of Research in Agronomy",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Nutan Singh",
-        "Pratibha Katiyar",
-        "Ajay .",
-        "Sunita Singh"
-      ]
-    },
-    {
-      "source": "crossref",
       "doi": "10.1016/j.cj.2026.06.012",
       "title": "GDSL WILTING LEAF1 protein confers heat, drought, and salt stress tolerance in maize by regulating vascular development",
       "journal": "The Crop Journal",
@@ -1163,6 +1152,20 @@
         "Lu Kang",
         "Liang Dong",
         "Lei Liu"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
+      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
+      "journal": "International Journal of Research in Agronomy",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Nutan Singh",
+        "Pratibha Katiyar",
+        "Ajay .",
+        "Sunita Singh"
       ]
     },
     {

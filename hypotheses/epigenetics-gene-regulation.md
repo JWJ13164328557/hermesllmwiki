@@ -4,19 +4,19 @@ title_zh: "表观遗传与基因调控：可证伪假说"
 type: hypothesis
 topic: "epigenetics-gene-regulation"
 theme_basis: "tag"
-total_evidence: 1842
-total_papers: 317
+total_evidence: 1847
+total_papers: 318
 total_hypotheses: 6
 specificity_domain: 6
 specificity_generic: 0
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # 💡 Epigenetics & Gene Regulation — 可证伪假说（6 条）
 
-> 生成口径：主题内 1842 条证据 / 317 篇独立论文（主题归属依据：证据标签）。
+> 生成口径：主题内 1847 条证据 / 318 篇独立论文（主题归属依据：证据标签）。
 > 每条假说只在"≥3 条证据且 ≥2 篇独立论文"时生成，并附证据 ID 与证伪条件。
 > 本页是**机器生成的候选清单**，不是经同行评议的结论；引用前须回原文核对。
 
@@ -25,8 +25,8 @@ updated: 2026-11-26
 | 项目 | 值 |
 |---|---|
 | 主题 | Epigenetics & Gene Regulation |
-| 证据条目 | 1842 |
-| 独立论文 | 317 |
+| 证据条目 | 1847 |
+| 独立论文 | 318 |
 | 生成假说 | 6 |
 | 其中主题专用方案 | 6 |
 | 其中缺省回退方案（需改写） | 0 |
@@ -245,4 +245,4 @@ updated: 2026-11-26
 3. 证据 ID 可直接在 `evidence/` 下打开原文摘要核对，禁止跳过核对直接引用。
 
 ---
-*由 Phase 8 生成于 2026-11-26；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-27；生成器版本 2026-11-02-evidence-grounded*

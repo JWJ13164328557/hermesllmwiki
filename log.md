@@ -545,3 +545,8 @@
 - metabolism-gene-compound: 655 genes / 807 pairs
 - metabolism-gene-network: gene co-occurrence from 18153 evidence
 - Top gene: "AP2" (34 evidence)
+
+### Relationships (2026-11-27)
+- metabolism-gene-compound: 655 genes / 807 pairs
+- metabolism-gene-network: gene co-occurrence from 18176 evidence
+- Top gene: "AP2" (35 evidence)

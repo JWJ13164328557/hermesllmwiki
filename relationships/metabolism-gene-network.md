@@ -1,6 +1,6 @@
 ---
 title: "Gene Co-occurrence Network (Metabolism)"
-created: 2026-11-26
+created: 2026-11-27
 type: relationship
 category: metabolism-gene-gene
 tags: [metabolism, relationships, network]
@@ -22,7 +22,7 @@ Genes frequently mentioned together in the same evidence objects.
 | [["myc2"]] | "MYB46"(6), "MYC3"(3), "BSMT1"(2), "BA1"(2), "EXPA5"(2) | 14 | [[charting-plant-gene-functions-in-the-multi-omics-and-single-cell-era-f4]], [[daily-42315982-f4]], [[daily-42384783-f1]] |
 | [["snrk2"]] | "PP2C"(2), "SNF1"(2), "ABI2"(1), "ABI1"(1), "ICE1"(1) | 18 | [[daily-42249761-f4]], [[daily-42255298-f3]], [[daily-42255298-f5]] |
 | [["brc1"]] | "BnaA01"(3), "SPL9"(2), "HB21"(2), "TB1"(2), "BES1"(1) | 5 | [[daily-42324804-f7]], [[daily-42324804-f8]], [[daily-42430661-f3]] |
-| [["ap2"]] | "OsRACK1B"(2), "OsRap2"(2), "WIND1"(2), "MYBL2"(2), "CULLIN3"(1) | 23 | [[b4-4h7J0H3OPFzzltwSkI6mtg-f8]], [[b5-kf00Og92ayHkmDBpso75bw-f7]], [[daily-41375325-f8]] |
+| [["ap2"]] | "OsRACK1B"(2), "OsRap2"(2), "WIND1"(2), "MYBL2"(2), "CULLIN3"(1) | 24 | [[b4-4h7J0H3OPFzzltwSkI6mtg-f8]], [[b5-kf00Og92ayHkmDBpso75bw-f7]], [[daily-41375325-f8]] |
 | [["cop1"]] | "HY5"(5), "UVR8"(2), "DCS1"(1), "ELF3"(1), "HSP70"(1) | 7 | [[daily-40455831-f7]], [[daily-42276972-f6]], [[daily-42280745-f4]] |
 | [["chip"]] | "CYCD3"(1), "MYC2"(1), "MYC3"(1), "OsSPL9"(1), "CLV3"(1) | 20 | [[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal-f3]], [[a-guiding-role-of-the-arabidopsis-circadian-clock-in-cell-differentiation-reveal-f4]], [[advances-and-applications-of-single-cell-omics-technologies-in-plant-research-f1]] |
 | [["pif4"]] | "PIF5"(4), "CCA1"(2), "PIF3"(2), "BBX5"(1), "IAA19"(1) | 6 | [[circadian-rheostat-proton-gradient-arabidopsis-f6]], [[circadian-rheostat-proton-gradient-arabidopsis-f8]], [[daily-42230699-f1]] |
@@ -52,5 +52,5 @@ Genes frequently mentioned together in the same evidence objects.
 
 ## Notes
 - 共现不是调控，也不等于直接互作或因果
-- 生成范围：18153 个代谢主题证据对象（2026-11-26 重算）
+- 生成范围：18176 个代谢主题证据对象（2026-11-27 重算）
 - 仅用于候选排序与人工核查

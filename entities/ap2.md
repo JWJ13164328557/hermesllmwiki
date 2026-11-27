@@ -9,7 +9,7 @@ tags: [metabolism, gene]
 # AP2
 
 ## Evidence Summary
-**Total evidence objects**: 34
+**Total evidence objects**: 35
 
 ## Evidence Table
 | Evidence | Finding |

@@ -4,24 +4,24 @@ title_zh: "表观遗传与基因调控：研究方案"
 type: research-program
 topic: "epigenetics-gene-regulation"
 theme_basis: "tag"
-total_evidence: 1842
-total_papers: 317
+total_evidence: 1847
+total_papers: 318
 total_aims: 6
 auto_generated: true
 generator: "batch_hypotheses.py (evidence-grounded, 2026-11-02)"
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # 🔬 Epigenetics & Gene Regulation：从证据到可执行研究方案
 
-> 本方案由 1842 条证据 / 317 篇独立论文中提炼的 6 条假说直接展开，
+> 本方案由 1847 条证据 / 318 篇独立论文中提炼的 6 条假说直接展开，
 > 每个目标都绑定一条可证伪假说及其止损条件。**这不是经费申请书**，
 > 而是"如果要做这件事，最小可行实验是什么"的清单。
 
 ## 一、问题界定
 
 - **主题**：Epigenetics & Gene Regulation
-- **证据规模**：1842 条证据 / 317 篇独立论文
+- **证据规模**：1847 条证据 / 318 篇独立论文
 - **候选靶点**：FaMYB5, C4H, OsMYB305, HDAC3, HDA9, MPK6
 - **主体系**：Fragaria × ananassa
 - **主题归属依据**：证据标签
@@ -147,4 +147,4 @@ updated: 2026-11-26
 **方案的有效期与证据同步，不做无限期承诺**。
 
 ---
-*由 Phase 8 生成于 2026-11-26；生成器版本 2026-11-02-evidence-grounded*
+*由 Phase 8 生成于 2026-11-27；生成器版本 2026-11-02-evidence-grounded*
