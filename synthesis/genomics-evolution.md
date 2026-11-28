@@ -2,16 +2,16 @@
 
 title: "基因组与进化 — Synthesis"
 created: 2026-06-01
-total_evidence: 521
-total_papers: 273
+total_evidence: 524
+total_papers: 274
 library_papers: 520  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-27
+body_status: rebuilt-2026-11-28
 tags: [synthesis, genomics, evolution, genome-assembly, comparative-genomics, GWAS, polyploidization, domestication]
 
 
 soybean_relevance: ⭐中高
-legacy_archive: _review/synthesis_legacy_20261127/genomics-evolution.md
+legacy_archive: _review/synthesis_legacy_20261128/genomics-evolution.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -24,12 +24,12 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据条目 | 521 | 本主题归属的证据对象数 |
-| 独立论文 | 273 | 去重后的 PMID/DOI 数 |
+| 证据条目 | 524 | 本主题归属的证据对象数 |
+| 独立论文 | 274 | 去重后的 PMID/DOI 数 |
 | 平均每篇证据数 | 1.91 | <1.0 说明多数论文只贡献 1 条结论 |
 | 单条证据论文占比 | 47% | 越高说明"每篇论文一个结论"，系统性弱 |
 | 主要物种 | Oryza sativa(167)、Zea mays(102)、Arabidopsis thaliana(97)、Triticum aestivum(84)、Glycine max(64)、Solanum lycopersicum(45) | 物种过度集中则外推性受限 |
-| 证据类型 | descriptive/observational 400；phenotypic/association 78；omics/co-occurrence 14；expression/regulation 13；protein interaction 8；genetic perturbation 6 | 表达/关联类居多时，因果结论需打折扣 |
+| 证据类型 | descriptive/observational 403；phenotypic/association 78；omics/co-occurrence 14；expression/regulation 13；protein interaction 8；genetic perturbation 6 | 表达/关联类居多时，因果结论需打折扣 |
 
 > 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
@@ -60,7 +60,7 @@ rebuild_version: v3
 | expression/regulation | 13 | 表达相关（转录组/qPCR，不能单独推因果） |
 | phenotypic/association | 78 | 表型关联（GWAS/QTL/自然变异/田间） |
 | omics/co-occurrence | 14 | 组学共现（单细胞簇/共表达网络，非调控） |
-| descriptive/observational | 400 | 描述性/背景陈述（未报告可核验的实验设计） |
+| descriptive/observational | 403 | 描述性/背景陈述（未报告可核验的实验设计） |
 
 > 读法：`genetic perturbation` / `protein interaction` / `DNA binding/regulation` 可支持因果或直接调控；`expression/regulation` 与 `omics/co-occurrence` 只能提出假说，不能单独证明调控或因果。
 
@@ -80,13 +80,13 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-27 由 `rebuild_synthesis_body.py` 从 **521 条证据对象 / 273 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261127`，不再作为本页结论来源。
+> 本页正文于 2026-11-28 由 `rebuild_synthesis_body.py` 从 **524 条证据对象 / 274 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261128`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
 ## 0. 综述提要（受控生成）
 
-本主题当前纳入 **521 条证据 / 273 篇文献**。规则判定为因果或直接调控的 **16 条（3.1%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **3 条**。可判定程度最高的结论集中在GmFAD2、BSMT1、KNAT1：Homozygous mutations in single and/or double allele(s) of GmFAD2-1A and GmFAD2-1B in soybean, which are created by transcription activator-l…（[[multiomicsdriven-advances-in-the-understanding-of-f6]]）；Using an integrated approach combining biosynthetic pathway elucidation, regulatory mechanism dissection, evolutionary analysis, and field t…（[[daily-42384783-f1]]）；Recent genome-wide binding analysis via ChIP-seq has further verified that the STM protein can directly bind to the promoter regions of othe…（[[daily-42514495-f3]]）。研究重心位于“转座子与基因组可塑性”（416 条证据，占 80%）。证据的物种分布以 Oryza sativa 为首（167 条，32%）。七类证据均有覆盖，但DNA 结合各仅 1–2 条；主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
+本主题当前纳入 **524 条证据 / 274 篇文献**。规则判定为因果或直接调控的 **16 条（3.1%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **3 条**。可判定程度最高的结论集中在GmFAD2、BSMT1、KNAT1：Homozygous mutations in single and/or double allele(s) of GmFAD2-1A and GmFAD2-1B in soybean, which are created by transcription activator-l…（[[multiomicsdriven-advances-in-the-understanding-of-f6]]）；Using an integrated approach combining biosynthetic pathway elucidation, regulatory mechanism dissection, evolutionary analysis, and field t…（[[daily-42384783-f1]]）；Recent genome-wide binding analysis via ChIP-seq has further verified that the STM protein can directly bind to the promoter regions of othe…（[[daily-42514495-f3]]）。研究重心位于“转座子与基因组可塑性”（418 条证据，占 80%）。证据的物种分布以 Oryza sativa 为首（167 条，32%）。七类证据均有覆盖，但DNA 结合各仅 1–2 条；主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
 > 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
@@ -94,12 +94,12 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据对象 | 521 | 本主题归属的证据条目数 |
-| 独立文献（DOI/PMID 去重） | 273 | 去重后的论文数 |
+| 证据对象 | 524 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 274 | 去重后的论文数 |
 | 平均每篇证据数 | 1.91 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
-| 单条证据论文占比 | 47%（129/273） | 越高说明证据碎片化越严重 |
-| 证据类型构成 | descriptive/observational(400)、phenotypic/association(78)、omics/co-occurrence(14)、expression/regulation(13)、protein interaction(8)、genetic perturbation(6)、DNA binding/regulation(2) | 描述性占多数时机制结论需打折扣 |
-| 类型标注置信度 | low(407)、medium(108)、high(6) | 低置信度标注须回原文核对 |
+| 单条证据论文占比 | 47%（129/274） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(403)、phenotypic/association(78)、omics/co-occurrence(14)、expression/regulation(13)、protein interaction(8)、genetic perturbation(6)、DNA binding/regulation(2) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(407)、medium(108)、high(6)、未标(3) | 低置信度标注须回原文核对 |
 | 主要物种 | Oryza sativa(167)、Zea mays(102)、Arabidopsis thaliana(98)、Triticum aestivum(84)、Glycine max(64)、Solanum lycopersicum(45) | 物种过度集中则外推性受限 |
 | 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
 | 未命中任何子主题的证据 | 53（10%） | 占比高说明子主题词表或证据文本需扩表 |
@@ -110,7 +110,7 @@ rebuild_version: v3
 
 ## 2. 子主题分解（按证据重建）
 
-> 一条证据可同时命中多个子主题（共 197 条跨组），因此各子主题计数之和大于总证据数。物种×类型交叉表只统计已标注字段，空单元格表示该组合无证据，不等于不存在相应生物学过程。凡“因果层 0 条”的子主题，其代表断言只能读作相关性，不得改写为调控或因果。
+> 一条证据可同时命中多个子主题（共 199 条跨组），因此各子主题计数之和大于总证据数。物种×类型交叉表只统计已标注字段，空单元格表示该组合无证据，不等于不存在相应生物学过程。凡“因果层 0 条”的子主题，其代表断言只能读作相关性，不得改写为调控或因果。
 
 ### 2.1 基因组组装与注释
 
@@ -236,13 +236,13 @@ rebuild_version: v3
 
 ### 2.5 转座子与基因组可塑性
 
-**规模** 416 条证据 / 241 篇文献；**构成** descriptive/observational(312)、phenotypic/association(67)、omics/co-occurrence(11)、expression/regulation(10)、protein interaction(8)、genetic perturbation(6)；**因果层** 16 条（可支撑有限机制表述）。
+**规模** 418 条证据 / 242 篇文献；**构成** descriptive/observational(314)、phenotypic/association(67)、omics/co-occurrence(11)、expression/regulation(10)、protein interaction(8)、genetic perturbation(6)；**因果层** 16 条（可支撑有限机制表述）。
 
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Oryza sativa、Zea mays、Arabidopsis thaliana，反复出现的实体为HaALS、LuGRAS、anthocyanin、sucrose；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[b4-ys8H9kH4cFVbPEuMHCg4nA-f7]]；[[b4-ys8H9kH4cFVbPEuMHCg4nA-f8]]；[[chromosome-scale-genome-together-with-transcriptome-and-f6]]）。
-- **证据层级的张力**：16 条属于遗传扰动/蛋白互作/DNA 结合，400 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-42384783-f1]]；[[daily-42514495-f3]]；[[daily-42226631-f1]]）。
+- **证据层级的张力**：16 条属于遗传扰动/蛋白互作/DNA 结合，402 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-42384783-f1]]；[[daily-42514495-f3]]；[[daily-42226631-f1]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-42384783-f1]]；[[daily-42514495-f3]]）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -255,9 +255,9 @@ rebuild_version: v3
 | Triticum aestivum | 1 | 3 | 0 | 2 | 10 | 2 | 51 | 69 |
 | Glycine max | 2 | 1 | 0 | 1 | 11 | 0 | 36 | 51 |
 
-**基因实体（自动标注，前 5）**：HaALS(3)、LuGRAS(2)、PpSAP(2)、OsPRTs(2)、ZmSET(2)（标注覆盖 72/416）。
+**基因实体（自动标注，前 5）**：HaALS(3)、LuGRAS(2)、PpSAP(2)、OsPRTs(2)、ZmSET(2)（标注覆盖 73/418）。
 
-**化合物实体（自动标注，前 5）**：anthocyanin(1)、sucrose(1)、auxin(1)、phenolic(1)、flavonoid(1)（标注覆盖 5/416）。
+**化合物实体（自动标注，前 5）**：anthocyanin(2)、sucrose(1)、auxin(1)、phenolic(1)、flavonoid(1)（标注覆盖 6/418）。
 
 **标注一致性提示**：本组 4 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-42713468-f4]]。
 
@@ -269,14 +269,14 @@ rebuild_version: v3
 
 ### 2.6 进化发育与性状起源
 
-**规模** 54 条证据 / 49 篇文献；**构成** descriptive/observational(53)、protein interaction(1)；**因果层** 1 条（可支撑有限机制表述）。
+**规模** 55 条证据 / 50 篇文献；**构成** descriptive/observational(54)、protein interaction(1)；**因果层** 1 条（可支撑有限机制表述）。
 
-> 本组仅 1 条因果级证据，机制表述只在该证据覆盖的物种与条件下成立，不可外推到其余 53 条。
+> 本组仅 1 条因果级证据，机制表述只在该证据覆盖的物种与条件下成立，不可外推到其余 54 条。
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Oryza sativa、Zea mays，反复出现的实体为OsPRT、OsPRTs、flavonoid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[b4-ys8H9kH4cFVbPEuMHCg4nA-f7]]；[[daily-41358539-f7]]；[[daily-42210059-f1]]）。
-- **证据层级的张力**：1 条属于遗传扰动/蛋白互作/DNA 结合，53 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（）。
+- **证据层级的张力**：1 条属于遗传扰动/蛋白互作/DNA 结合，54 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（）。
 - **可检验缺口**：遗传扰动、DNA 结合、表达相关、表型关联、组学共现在本组缺证据；在补齐这些设计前，OsPRT、OsPRTs、flavonoid 与“进化发育与性状起源”的方向性关系应作为待检验命题（[[b4-ys8H9kH4cFVbPEuMHCg4nA-f7]]；[[daily-41358539-f7]]）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -289,9 +289,9 @@ rebuild_version: v3
 | Glycine max | 0 | 6 | 6 |
 | Triticum aestivum | 0 | 5 | 5 |
 
-**基因实体（自动标注，前 5）**：OsPRT(1)、OsPRTs(1)、GPM1(1)、ZmSET(1)、PsDAM(1)（标注覆盖 7/54）。
+**基因实体（自动标注，前 5）**：OsPRT(1)、OsPRTs(1)、GPM1(1)、ZmSET(1)、PsDAM(1)（标注覆盖 7/55）。
 
-**化合物实体（自动标注，前 5）**：flavonoid(2)（标注覆盖 2/54）。
+**化合物实体（自动标注，前 5）**：flavonoid(2)（标注覆盖 2/55）。
 
 **代表断言（原文摘录，未改写）**
 
@@ -301,13 +301,13 @@ rebuild_version: v3
 
 ### 2.7 泛基因组与作物改良
 
-**规模** 65 条证据 / 52 篇文献；**构成** descriptive/observational(52)、phenotypic/association(11)、expression/regulation(2)；**因果层** 0 条（仅关联/描述，不得写因果）。
+**规模** 67 条证据 / 53 篇文献；**构成** descriptive/observational(54)、phenotypic/association(11)、expression/regulation(2)；**因果层** 0 条（仅关联/描述，不得写因果）。
 
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Oryza sativa、Zea mays、Triticum aestivum，反复出现的实体为AhLOG、HAC1、phenolic、flavonoid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[daily-41358539-f4]]；[[daily-42079772-f1]]；[[daily-42222012-f1]]）。
-- **证据层级的张力**：本组 0 条因果级证据，全部 65 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（[[daily-41358539-f4]]；[[daily-42079772-f1]]）。
+- **证据层级的张力**：本组 0 条因果级证据，全部 67 条为表达、组学或描述性；任何“调控/导致”表述都必须降级为待检验命题（[[daily-41358539-f4]]；[[daily-42079772-f1]]）。
 - **可检验缺口**：遗传扰动、DNA 结合、蛋白互作、组学共现在本组缺证据；在补齐这些设计前，AhLOG、HAC1、phenolic 与“泛基因组与作物改良”的方向性关系应作为待检验命题（[[daily-41358539-f4]]；[[daily-42079772-f1]]）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -320,9 +320,9 @@ rebuild_version: v3
 | Glycine max | 0 | 0 | 8 | 8 |
 | Arabidopsis thaliana | 0 | 2 | 5 | 7 |
 
-**基因实体（自动标注，前 5）**：AhLOG(2)、HAC1(2)、HaALS(2)、TriFAs(1)、InDels(1)（标注覆盖 8/65）。
+**基因实体（自动标注，前 5）**：AhLOG(2)、HAC1(2)、HaALS(2)、TriFAs(1)、InDels(1)（标注覆盖 8/67）。
 
-**化合物实体（自动标注，前 5）**：phenolic(1)、flavonoid(1)（标注覆盖 2/65）。
+**化合物实体（自动标注，前 5）**：phenolic(1)、flavonoid(1)（标注覆盖 2/67）。
 
 **标注一致性提示**：本组 1 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[ms-10-14719_pst-15098-f2]]。
 
@@ -372,9 +372,9 @@ rebuild_version: v3
 | 比较基因组与共线性 | — | — | — | 1 | — | — | 13 |
 | 群体遗传与选择信号 | — | — | — | 2 | 33 | 1 | 71 |
 | 多倍化与亚基因组演化 | — | — | — | 1 | 3 | 2 | 26 |
-| 转座子与基因组可塑性 | 6 | 8 | 2 | 10 | 67 | 11 | 312 |
-| 进化发育与性状起源 | — | 1 | — | — | — | — | 53 |
-| 泛基因组与作物改良 | — | — | — | 2 | 11 | — | 52 |
+| 转座子与基因组可塑性 | 6 | 8 | 2 | 10 | 67 | 11 | 314 |
+| 进化发育与性状起源 | — | 1 | — | — | — | — | 54 |
+| 泛基因组与作物改良 | — | — | — | 2 | 11 | — | 54 |
 
 **零因果层子主题（5/7）**：基因组组装与注释、比较基因组与共线性、群体遗传与选择信号、多倍化与亚基因组演化、泛基因组与作物改良。
 
@@ -418,8 +418,8 @@ rebuild_version: v3
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261127`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261128`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 
-本页正文 4332 个中文字符，行内证据链接 93 处，密度 **10.7 处/500 字**（目标 ≥1）。链接指向证据页，不直接指向出版社；引用前须沿证据页回到原文核对。
+本页正文 4334 个中文字符，行内证据链接 93 处，密度 **10.7 处/500 字**（目标 ≥1）。链接指向证据页，不直接指向出版社；引用前须沿证据页回到原文核对。

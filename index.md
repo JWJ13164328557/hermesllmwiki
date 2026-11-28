@@ -8,7 +8,7 @@
 | Layer | Count |
 |-------|-------|
 | Concept Pages | 1295 |
-| Evidence Objects — 18152 active (18177 files on disk)
+| Evidence Objects — 18184 active (18209 files on disk)
 | Entity Pages | 106 |
 | Synthesis (8 core) | 8 |
 | Hypotheses | 9 |

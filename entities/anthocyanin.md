@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # anthocyanin
 
 ## Evidence Summary
-**Total evidence objects**: 144
+**Total evidence objects**: 145
 
 ## Evidence Table
 | Evidence | Finding |

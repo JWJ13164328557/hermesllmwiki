@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "days": 365,
   "total": 90,
   "doi_papers": 90,
@@ -141,6 +141,20 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1016/j.jare.2026.03.046",
+      "title": "A Composite interaction Score: Prioritizing cell–cell interactions from single-cell RNA-seq with application to pre-menopausal epithelial barriers",
+      "journal": "Journal of Advanced Research",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Olha Kholod",
+        "Hien M. Bui",
+        "H.Robert Frost",
+        "Brittany A. Goods"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1016/j.biomaterials.2026.124379",
       "title": "Corrigendum to “Single-cell RNA-seq reveals functionally distinct biomaterial degradation-related macrophage populations” [Biomaterials Oct:277 (2021) 121116]",
       "journal": "Biomaterials",
@@ -275,18 +289,6 @@
         "Veronica Finazzi",
         "Catalina A. Vallejos",
         "Antonio Scialdone"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.3389/fnmol.2026.1978026",
-      "title": "Development of immunogenic cell death-related biomarkers for the diagnosis of ischemic stroke based on transcriptomic microarray and single-cell RNA-seq",
-      "journal": "Frontiers in Molecular Neuroscience",
-      "year": "",
-      "abstract": "\n                    Background\n                    This study investigated the role of immunogenic cell death (ICD) in ischemic stroke (IS) by integrating human peripheral-blood microarray transcriptomic biomarker discovery with mouse brain single-cell analysis of cellular heterogeneity\n                  \n                  \n                    Methods\n                    Biological functions related to the biomarkers were assessed through enrichment and immune-infiltration analyses. Candidate compounds were prioritized using Graph-Based Attention Network (GraphBAN) prediction followed by molecular docking. The mouse middle cerebral artery occlusion (MCAO) scRNA-seq dataset GSE174574 was further interrogated to map biomarker expression and transcription factor (TF) activity in key cells. Biomarker expression was experimentally examined in CoCl₂-induced hypoxic microglial cells using RT-qPCR.hypoxic microglial cells using reverse transcription quantitative PCR (RT-qPCR).\n                  \n                  \n                    Results\n                    The analysis defined TLR2, TNFSF10, and RALBP1 as immunogenic cell death-related biomarkers in IS, with patient-level validation in the baseline subset of GSE58294. Pathway results connected these genes with inflammatory response, TNFA signaling via NFKB, interferon alpha response, and IL6-JAK-STAT3 signaling. TLR2 was positively associated with neutrophils and monocytes, whereas TNFSF10TLR2 was positively associated with neutrophils, whereas TNFSF10 showed a negative relationship with B cells. Docking analysis supported favorable interactions of the biomarkers with tert-butyl 2-thiocyanatoacetate. Docking analysis predicted binding energies ranging from −4.9 to −9.6 kcal/mol for the candidate compounds against the three biomarkers. In the single-cell trajectory, expression of all three biomarkers shifted markedly during microglial differentiation. CoCl₂-induced hypoxia also increased TLR2, RALBP1, and TNFSF10 expression in microglial cells. Atf4, Hif1a, Fosl2, and related TFs were more active in ISMCAO samples.\n                  \n                  \n                    Conclusion\n                    TLR2, TNFSF10, and RALBP1 may serve as immunogenic cell death-related biomarkers for IS. These results offer a molecular foundation for future development of precision-targeted therapeutic strategies in IS.\n                  ",
-      "authors": [
-        "Amuguleng Jin",
-        "Tao Yan"
       ]
     },
     {
@@ -889,6 +891,36 @@
     },
     {
       "source": "crossref",
+      "doi": "10.1139/cjps-2026-0054",
+      "title": "Growth, development and adaptation of soybean in Saskatchewan",
+      "journal": "Canadian Journal of Plant Science",
+      "year": "",
+      "abstract": "With the growing interest in soybean production and its expansion into Western Canada, this study aimed at characterizing soybean adaptation to central Saskatchewan (SK), which is considered a new north-latitude (51-53°N) frontier for soybean production. A set of soybean genotypes (24) within maturity groups (MG) 000 and 00 was evaluated across 12 site-years from 2019-2022 to assess overall soybean growth and development, corn heat units (CHU) accumulation, response to precipitation, seed yield, protein and oil concentration. On average, soybean required 120 to 135 days to reach physiological maturity and full maturity, respectively, accumulating 2150 to 2240 CHU and receiving 81 to 221 mm of total precipitation. All site-years were drier than the long-term average for Saskatchewan. Seed yield ranged from 1007 to 1247 kg ha-1, protein concentration was 35.9 to 38.8%, and oil concentration was 22.8 to 24.2% across environments. Growth parameters at the seed development stage included aboveground biomass of 5800 kg ha-1, leaf area index of 1.1 to 2.4, and maximum fractional light interception of 83%. Our results indicated that central SK accumulates sufficient CHU for soybean to reach maturity, especially MG 000 genotypes, although low precipitation and early fall frost remain limiting factors.",
+      "authors": [
+        "Ayza E E.V. Camargos",
+        "Nathaniel Wesley Waldie Ort",
+        "Thomas D. Warkentin",
+        "Elroy R. Cober",
+        "Mehrzad Milad Eskandari"
+      ]
+    },
+    {
+      "source": "crossref",
+      "doi": "10.26599/ce.2026.9730128",
+      "title": "Recycling of agro-industrial wastes via foliar spray, seed imbibition and seed coating enhances crop plant growth and development",
+      "journal": "Circular Economy",
+      "year": "",
+      "abstract": "\n                    Abstract\n                    Around one billion tons of agro-industrial byproducts and wastes (AIBWs) are generated worldwide annually, and their improper management causes significant environmental damage. Focusing on AIBWs produced in large quantities annually, we investigated the impact of wheat bran (WB), wine pomace (WP), brewer’s spent grain (BSG), and garlic peels (GP), on the performance of agricultural crops when applied through foliar spray, seed imbibition, and seed coating. We found that all AIBW application methods had beneficial effects on plant growth. Foliar spray of mustard and lettuce highlighted WB and WP extracts as effective treatments for enhancing plant growth and development. Imbibition of mustard seeds with AIBW extracts had a positive effect on various growth parameters, while coating wheat seeds with carboxymethyl cellulose (CMC) supplemented with AIBW substances significantly enhanced post-germination growth. Thus, AIBWs represent a sustainable, ecofriendly, and cost-effective resource that can be applied extensively via various methods to improve crop plant performance while contributing to waste management within the framework of circular economy.\n                  ",
+      "authors": [
+        "Keerthana Yeduguru Reddy",
+        "Rooben Reji Punnalathu",
+        "Naveen Kumar Yarra",
+        "Jeevan R. Singiri",
+        "Nurit Novoplansky"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1186/s12870-026-10448-2",
       "title": "Long-term fertilization alters rice grain quality and nutrient content in association with changes in seed endophytic microbial co-occurrence modules",
       "journal": "BMC Plant Biology",
@@ -900,36 +932,6 @@
         "Kai Lou Liu",
         "Hui Jie Song",
         "Yan Zhou"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1108/ec-11-2025-1397",
-      "title": "Optimization method for spatial robot arm locking-unit layout based on plant root adaptive growth patterns",
-      "journal": "Engineering Computations",
-      "year": "",
-      "abstract": "\n                    Purpose\n                    To address the optimization problem of spatial robotic arm locking-unit layout, this study proposes a collaborative optimization method based on the adaptive growth patterns of plant roots. The approach aims to enhance the fundamental frequency of the robotic arm system while reducing the number of locking units.\n                  \n                  \n                    Design/methodology/approach\n                    Drawing upon the adaptive growth principles of monocotyledonous roots, a collaborative optimization model for the position–stiffness–quantity of locking units was established. By constructing simplified spatial robotic arm models and three-dimensional spring-support models, parallel optimization algorithms were used to simulate and optimize the robotic arm’s distributed locking units. The simulation results were compared and verified with the step-by-step optimization approach.\n                  \n                  \n                    Findings\n                    The collaborative optimization method significantly enhances the maximum fundamental frequency of the robotic arm while effectively reducing the number of locking units required. Compared to the step-by-step optimization approach, this method demonstrates clear advantages in both dynamic performance and weight reduction.\n                  \n                  \n                    Research limitations/implications\n                    This paper does not compare the computational efficiency and accuracy of the collaborative optimization method with those of general optimization algorithms, thereby limiting evaluation of the method’s performance in other aspects.\n                  \n                  \n                    Originality/value\n                    By incorporating the adaptive growth pattern of monocotyledonous plant roots into the layout design of space robotic arm locking units, a multi-parameter collaborative optimization model and method for locking-unit position–stiffness–quantity were established. This approach overcomes the limitations of step-by-step optimization methods, offering new insights into the layout design of locking units in complex multi-joint mechanisms such as space robotic arms.\n                  ",
-      "authors": [
-        "Haitao Bu",
-        "Gang Wang",
-        "Xutong Zhang",
-        "Fei Yang",
-        "Honghao Yue"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.1094/pdis-07-26-1333-sr",
-      "title": "Pathogenic Characteristics and Chemical Control of Soybean Leaf Anthracnose Caused by\n                    <i>Colletotrichum sojae</i>\n                    Newly Found in Northeast China",
-      "journal": "Plant Disease",
-      "year": "",
-      "abstract": "\n                    Soybean (\n                    Glycine max\n                    ) leaf anthracnose, caused by diverse pathogenic agents, poses a significant threat to global soybean production. In 2025, a pathogenic fungus was isolated from symptomatic soybean leaves collected in a major soybean-producing region of China. Morphological and molecular characterization confirmed that the isolates belong to\n                    Colletotrichum sojae\n                    . To our knowledge, this is the first report of\n                    C. sojae\n                    causing soybean leaf anthracnose in Northeast China. Among the 15\n                    C. sojae\n                    isolates tested, moderately virulent strains were predominant, accounting for approximately 53.3%. Host range determination demonstrated that\n                    C. sojae\n                    could infect lentil, tomato, cowpea, peanut, kidney bean, broad bean, mung bean, and corn, but failed to infect red adzuki bean. Fungicide bioassays showed that tebuconazole and difenoconazole exhibited the highest inhibitory efficacy, with each fungicide achieving full mycelial growth inhibition at 0.05 mg·liter\n                    −1\n                    . Moreover, foliar spraying with tebuconazole at 0.00014 mg·liter\n                    −1\n                    and difenoconazole at 0.0005 mg·liter\n                    −1\n                    reduced disease incidence by roughly 76%. Therefore, intercropping of host and nonhost plants, combined with the application of the aforementioned chemical fungicides, can be considered as effective strategies for controlling soybean leaf anthracnose. These results establish a scientific foundation for managing\n                    C. sojae\n                    -associated soybean leaf anthracnose in Northeast China.\n                  ",
-      "authors": [
-        "Jiayi Niu",
-        "Liangliang Yao",
-        "Jinxin Liu",
-        "Xue Zhang",
-        "Xiaohe Yang"
       ]
     },
     {
@@ -1141,6 +1143,20 @@
     },
     {
       "source": "crossref",
+      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
+      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
+      "journal": "International Journal of Research in Agronomy",
+      "year": "2026",
+      "abstract": "",
+      "authors": [
+        "Nutan Singh",
+        "Pratibha Katiyar",
+        "Ajay .",
+        "Sunita Singh"
+      ]
+    },
+    {
+      "source": "crossref",
       "doi": "10.1016/j.cj.2026.06.012",
       "title": "GDSL WILTING LEAF1 protein confers heat, drought, and salt stress tolerance in maize by regulating vascular development",
       "journal": "The Crop Journal",
@@ -1152,20 +1168,6 @@
         "Lu Kang",
         "Liang Dong",
         "Lei Liu"
-      ]
-    },
-    {
-      "source": "crossref",
-      "doi": "10.33545/2618060x.2026.v9.i10x.7088",
-      "title": "Chlorpyrifos-induced oxidative stress and antioxidant responses in soybean (Glycine max (L.) Merr.) and wheat (Triticum aestivum L.)",
-      "journal": "International Journal of Research in Agronomy",
-      "year": "2026",
-      "abstract": "",
-      "authors": [
-        "Nutan Singh",
-        "Pratibha Katiyar",
-        "Ajay .",
-        "Sunita Singh"
       ]
     },
     {

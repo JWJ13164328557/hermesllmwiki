@@ -9,7 +9,7 @@ tags: [metabolism, compound]
 # auxin
 
 ## Evidence Summary
-**Total evidence objects**: 255
+**Total evidence objects**: 259
 
 ## Evidence Table
 | Evidence | Finding |

@@ -2,13 +2,13 @@
 
 title: "激素与信号转导 — Synthesis"
 created: 2026-06-01
-total_evidence: 2057
-total_papers: 386
+total_evidence: 2064
+total_papers: 387
 library_papers: 473  # 全库按themes归类该主题文献数
 type: synthesis
-body_status: rebuilt-2026-11-27
+body_status: rebuilt-2026-11-28
 tags: [hormone, signaling, synthesis]
-legacy_archive: _review/synthesis_legacy_20261127/hormone-signaling.md
+legacy_archive: _review/synthesis_legacy_20261128/hormone-signaling.md
 rebuild_rule: evidence-fields-only; no-cross-evidence-inference
 rebuild_version: v3
 
@@ -21,12 +21,12 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据条目 | 2057 | 本主题归属的证据对象数 |
-| 独立论文 | 386 | 去重后的 PMID/DOI 数 |
+| 证据条目 | 2064 | 本主题归属的证据对象数 |
+| 独立论文 | 387 | 去重后的 PMID/DOI 数 |
 | 平均每篇证据数 | 5.33 | <1.0 说明多数论文只贡献 1 条结论 |
 | 单条证据论文占比 | 5% | 越高说明"每篇论文一个结论"，系统性弱 |
-| 主要物种 | Oryza sativa(594)、Arabidopsis thaliana(545)、Zea mays(423)、Solanum lycopersicum(362)、Nicotiana tabacum(210)、Triticum aestivum(193) | 物种过度集中则外推性受限 |
-| 证据类型 | descriptive/observational 1215；protein interaction 299；expression/regulation 160；phenotypic/association 143；genetic perturbation 115；DNA binding/regulation 68 | 表达/关联类居多时，因果结论需打折扣 |
+| 主要物种 | Oryza sativa(594)、Arabidopsis thaliana(545)、Zea mays(423)、Solanum lycopersicum(369)、Nicotiana tabacum(210)、Triticum aestivum(193) | 物种过度集中则外推性受限 |
+| 证据类型 | descriptive/observational 1215；protein interaction 302；expression/regulation 161；phenotypic/association 144；genetic perturbation 117；DNA binding/regulation 68 | 表达/关联类居多时，因果结论需打折扣 |
 
 > 归属依据：`themes.py` 标签别名表（高置信）+ 关键词兜底（低置信）。本段由脚本生成，不构成结论；结论性文字须回原文核对。
 
@@ -51,11 +51,11 @@ rebuild_version: v3
 
 | 证据类型 | 条目数 | 可支持的推断强度 |
 |---|---:|---|
-| genetic perturbation | 115 | 遗传因果（扰动后表型/表达改变） |
-| protein interaction | 299 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
+| genetic perturbation | 117 | 遗传因果（扰动后表型/表达改变） |
+| protein interaction | 302 | 物理互作（Co-IP/Y2H/BiFC/pull-down） |
 | DNA binding/regulation | 68 | 直接调控（ChIP/EMSA/启动子报告） |
-| expression/regulation | 160 | 表达相关（转录组/qPCR，不能单独推因果） |
-| phenotypic/association | 143 | 表型关联（GWAS/QTL/自然变异/田间） |
+| expression/regulation | 161 | 表达相关（转录组/qPCR，不能单独推因果） |
+| phenotypic/association | 144 | 表型关联（GWAS/QTL/自然变异/田间） |
 | omics/co-occurrence | 57 | 组学共现（单细胞簇/共表达网络，非调控） |
 | descriptive/observational | 1215 | 描述性/背景陈述（未报告可核验的实验设计） |
 
@@ -77,13 +77,13 @@ rebuild_version: v3
 
 <!-- AUTO-EVIDENCE-STRENGTH:END -->
 
-> 本页正文于 2026-11-27 由 `rebuild_synthesis_body.py` 从 **2057 条证据对象 / 386 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261127`，不再作为本页结论来源。
+> 本页正文于 2026-11-28 由 `rebuild_synthesis_body.py` 从 **2064 条证据对象 / 387 篇文献**确定性重建：所有陈述均可回溯到下列证据页；英文为原文摘录，未经改写；不含跨证据的推测性归纳。历史人工正文已归档至 `_review/synthesis_legacy_20261128`，不再作为本页结论来源。
 >
 > 阅读约定：`遗传扰动` / `蛋白互作` / `DNA 结合` 三类证据才支持“因果”或“直接调控”的表述；`表达相关` 与 `组学共现` 只能提出关联性假说。
 
 ## 0. 综述提要（受控生成）
 
-本主题当前纳入 **2057 条证据 / 386 篇文献**。规则判定为因果或直接调控的 **482 条（23.4%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **262 条**。可判定程度最高的结论集中在PnCYP710A、SOC1、PsnSAUR6：Overexpression of PnCYP710A in tobacco enhanced resistance to F.（[[daily-40898642-f2]]）；These results indicated that overexpression of ZmGRAS46 inhibited the expression of CO, FT, SOC1, and LFY genes.（[[daily-41376114-f7]]）；Overexpression of PsnSAUR6 in transgenic tobacco conferred superior drought tolerance, evidenced by increased biomass, enhanced root elongat…（[[daily-42122890-f4]]）。研究重心位于“逆境中的激素调控”（312 条证据，占 15%）。证据的物种分布以 Oryza sativa 为首（594 条，29%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
+本主题当前纳入 **2064 条证据 / 387 篇文献**。规则判定为因果或直接调控的 **487 条（23.6%）**；剔除方法描述、相关性措辞与无基因实体标注的条目后，可用于提要的 **266 条**。可判定程度最高的结论集中在PnCYP710A、SOC1、PsnSAUR6：Overexpression of PnCYP710A in tobacco enhanced resistance to F.（[[daily-40898642-f2]]）；These results indicated that overexpression of ZmGRAS46 inhibited the expression of CO, FT, SOC1, and LFY genes.（[[daily-41376114-f7]]）；Overexpression of PsnSAUR6 in transgenic tobacco conferred superior drought tolerance, evidenced by increased biomass, enhanced root elongat…（[[daily-42122890-f4]]）。研究重心位于“逆境中的激素调控”（312 条证据，占 15%）。证据的物种分布以 Oryza sativa 为首（594 条，29%）。七类证据均有覆盖，主要瓶颈从“类型缺失”转为“同一结论的独立复现不足”。阅读时须区分两类陈述：因果级证据支撑的“已证机制”，以及表达/组学/描述性证据提示的“候选关联”；后者不得改写成调控或因果。
 
 > 提要由脚本按证据类型与实体计数生成，不含跨证据的机制外推；逐条依据见第 2–3 节。
 
@@ -91,23 +91,23 @@ rebuild_version: v3
 
 | 指标 | 值 | 读法 |
 |---|---|---|
-| 证据对象 | 2057 | 本主题归属的证据条目数 |
-| 独立文献（DOI/PMID 去重） | 386 | 去重后的论文数 |
+| 证据对象 | 2064 | 本主题归属的证据条目数 |
+| 独立文献（DOI/PMID 去重） | 387 | 去重后的论文数 |
 | 平均每篇证据数 | 5.33 | 接近 1.0 说明每篇论文只贡献一条结论，系统性弱 |
-| 单条证据论文占比 | 5%（19/386） | 越高说明证据碎片化越严重 |
-| 证据类型构成 | descriptive/observational(1215)、protein interaction(299)、expression/regulation(160)、phenotypic/association(143)、genetic perturbation(115)、DNA binding/regulation(68)、omics/co-occurrence(57) | 描述性占多数时机制结论需打折扣 |
-| 类型标注置信度 | low(1248)、medium(645)、high(129)、未标(35) | 低置信度标注须回原文核对 |
-| 主要物种 | Oryza sativa(594)、Arabidopsis thaliana(545)、Zea mays(423)、Solanum lycopersicum(362)、Nicotiana tabacum(210)、Triticum aestivum(193) | 物种过度集中则外推性受限 |
+| 单条证据论文占比 | 5%（19/387） | 越高说明证据碎片化越严重 |
+| 证据类型构成 | descriptive/observational(1215)、protein interaction(302)、expression/regulation(161)、phenotypic/association(144)、genetic perturbation(117)、DNA binding/regulation(68)、omics/co-occurrence(57) | 描述性占多数时机制结论需打折扣 |
+| 类型标注置信度 | low(1248)、medium(645)、high(129)、未标(42) | 低置信度标注须回原文核对 |
+| 主要物种 | Oryza sativa(594)、Arabidopsis thaliana(545)、Zea mays(423)、Solanum lycopersicum(369)、Nicotiana tabacum(210)、Triticum aestivum(193) | 物种过度集中则外推性受限 |
 | 子主题覆盖 | 7/7（证据 <5 条的 0 个） | 覆盖缺口见第 7 节 |
-| 未命中任何子主题的证据 | 1349（66%） | 占比高说明子主题词表或证据文本需扩表 |
+| 未命中任何子主题的证据 | 1350（65%） | 占比高说明子主题词表或证据文本需扩表 |
 
-因果级证据共 **482 条**，占本主题证据的 **23.4%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
+因果级证据共 **487 条**，占本主题证据的 **23.6%**。这一比例决定本主题哪些结论可以写成机制，哪些只能写成相关性。
 
 物种主导度：**Oryza sativa** 出现在 594 条证据（29%）。分布较分散，单物种主导风险较低，但需注意各物种证据层级是否可比。
 
 ## 2. 子主题分解（按证据重建）
 
-> 一条证据可同时命中多个子主题（共 112 条跨组），因此各子主题计数之和大于总证据数。物种×类型交叉表只统计已标注字段，空单元格表示该组合无证据，不等于不存在相应生物学过程。凡“因果层 0 条”的子主题，其代表断言只能读作相关性，不得改写为调控或因果。
+> 一条证据可同时命中多个子主题（共 113 条跨组），因此各子主题计数之和大于总证据数。物种×类型交叉表只统计已标注字段，空单元格表示该组合无证据，不等于不存在相应生物学过程。凡“因果层 0 条”的子主题，其代表断言只能读作相关性，不得改写为调控或因果。
 
 ### 2.1 受体感知与早期信号转导
 
@@ -144,13 +144,13 @@ rebuild_version: v3
 
 ### 2.2 转录调控与激素响应基因
 
-**规模** 167 条证据 / 96 篇文献；**构成** descriptive/observational(69)、protein interaction(56)、DNA binding/regulation(17)、genetic perturbation(11)、expression/regulation(8)、omics/co-occurrence(3)；**因果层** 84 条（可支撑有限机制表述）。
+**规模** 172 条证据 / 97 篇文献；**构成** descriptive/observational(69)、protein interaction(59)、DNA binding/regulation(17)、genetic perturbation(13)、expression/regulation(8)、omics/co-occurrence(3)；**因果层** 89 条（可支撑有限机制表述）。
 
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Oryza sativa、Zea mays、Arabidopsis thaliana，反复出现的实体为ARF2、CsbZIP44、auxin、anthocyanin；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（[[biology-and-function-of-mir159-in-f2]]；[[biology-and-function-of-mir159-in-f5]]；[[biology-and-function-of-mir159-in-f6]]）。
-- **证据层级的张力**：84 条属于遗传扰动/蛋白互作/DNA 结合，83 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[cotton-fiber-development-molecular-regulation-f3]]；[[cotton-fiber-development-molecular-regulation-f4]]；[[daily-40954952-f4]]）。
+- **证据层级的张力**：89 条属于遗传扰动/蛋白互作/DNA 结合，83 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[cotton-fiber-development-molecular-regulation-f3]]；[[cotton-fiber-development-molecular-regulation-f4]]；[[daily-40954952-f4]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[cotton-fiber-development-molecular-regulation-f3]]；[[cotton-fiber-development-molecular-regulation-f4]]）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -160,12 +160,12 @@ rebuild_version: v3
 | Oryza sativa | 4 | 25 | 4 | 3 | 1 | 0 | 19 | 56 |
 | Zea mays | 4 | 11 | 5 | 0 | 0 | 0 | 28 | 48 |
 | Arabidopsis thaliana | 1 | 21 | 3 | 3 | 0 | 1 | 19 | 48 |
+| Solanum lycopersicum | 5 | 15 | 3 | 1 | 0 | 1 | 12 | 37 |
 | Nicotiana tabacum | 4 | 9 | 4 | 1 | 0 | 0 | 15 | 33 |
-| Solanum lycopersicum | 3 | 12 | 3 | 1 | 0 | 1 | 12 | 32 |
 
-**基因实体（自动标注，前 5）**：ARF2(5)、CsbZIP44(5)、PIN1(4)、ARF3(4)、BZR1(4)（标注覆盖 115/167）。
+**基因实体（自动标注，前 5）**：ARF2(5)、CsbZIP44(5)、PIN1(4)、ARF3(4)、BZR1(4)（标注覆盖 120/172）。
 
-**化合物实体（自动标注，前 5）**：auxin(14)、anthocyanin(4)、ethylene(4)、carotenoid(3)、phenylpropanoid(2)（标注覆盖 31/167）。
+**化合物实体（自动标注，前 5）**：auxin(16)、anthocyanin(4)、ethylene(4)、carotenoid(3)、phenylpropanoid(2)（标注覆盖 33/172）。
 
 **标注一致性提示**：本组 4 条证据标注为描述性，但断言含扰动/互作措辞（genetic perturbation），类型可能被低估，需回原文确认；例如 [[daily-40954952-f6]]。
 
@@ -177,13 +177,13 @@ rebuild_version: v3
 
 ### 2.3 激素合成与稳态
 
-**规模** 109 条证据 / 84 篇文献；**构成** descriptive/observational(63)、protein interaction(17)、expression/regulation(10)、phenotypic/association(8)、DNA binding/regulation(6)、genetic perturbation(3)；**因果层** 26 条（可支撑有限机制表述）。
+**规模** 111 条证据 / 85 篇文献；**构成** descriptive/observational(63)、protein interaction(18)、expression/regulation(10)、phenotypic/association(9)、DNA binding/regulation(6)、genetic perturbation(3)；**因果层** 27 条（可支撑有限机制表述）。
 
 
 **受控叙述（按证据类型分层；每句附原始证据）**
 
 - **一致的观察范围**：本组证据集中在Arabidopsis thaliana、Solanum lycopersicum、Oryza sativa，反复出现的实体为ERF109、ERF013、auxin、carotenoid；可共同确认的是这些实体或过程在上述物种与条件下被观察到，而不是其跨物种普遍性（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f2]]；[[comparative-transcriptome-profiling-reveals-the-multiple-f2]]；[[daily-40702403-f1]]）。
-- **证据层级的张力**：26 条属于遗传扰动/蛋白互作/DNA 结合，83 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40853041-f6]]；[[daily-42244175-f8]]；[[comparative-transcriptome-profiling-reveals-the-multiple-f2]]）。
+- **证据层级的张力**：27 条属于遗传扰动/蛋白互作/DNA 结合，84 条属于表达、组学或描述性证据；因此本组最强只能写到“扰动或直接结合与该表型/表达变化相关”，其余条目用于提出候选关系，不能反向证明因果（[[daily-40853041-f6]]；[[daily-42244175-f8]]；[[comparative-transcriptome-profiling-reveals-the-multiple-f2]]）。
 - **可检验缺口**：本组七类证据均有覆盖，主要缺口从“类型缺失”转为“同一结论的独立复现与条件分层不足”，应以跨实验室重复和统一条件比较来检验（[[daily-40853041-f6]]；[[daily-42244175-f8]]）。
 
 **物种 × 证据类型（前 5 物种）**
@@ -191,14 +191,14 @@ rebuild_version: v3
 | 物种 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 | 合计 |
 |---|---|---|---|---|---|---|---|---|
 | Arabidopsis thaliana | 1 | 6 | 1 | 3 | 2 | 1 | 22 | 36 |
-| Solanum lycopersicum | 0 | 2 | 3 | 5 | 2 | 0 | 15 | 27 |
+| Solanum lycopersicum | 0 | 3 | 3 | 5 | 3 | 0 | 15 | 29 |
 | Oryza sativa | 1 | 6 | 1 | 1 | 2 | 1 | 12 | 24 |
 | Zea mays | 0 | 4 | 1 | 0 | 0 | 0 | 15 | 20 |
 | Nicotiana tabacum | 1 | 1 | 1 | 0 | 0 | 0 | 8 | 11 |
 
-**基因实体（自动标注，前 5）**：ERF109(4)、ERF013(3)、ZmLOX2(2)、MAM1(2)、MdbHLH162(2)（标注覆盖 51/109）。
+**基因实体（自动标注，前 5）**：ERF109(4)、ERF013(3)、ZmLOX2(2)、MAM1(2)、MdbHLH162(2)（标注覆盖 52/111）。
 
-**化合物实体（自动标注，前 5）**：auxin(14)、carotenoid(5)、anthocyanin(5)、phenylpropanoid(4)、flavonoid(3)（标注覆盖 42/109）。
+**化合物实体（自动标注，前 5）**：auxin(16)、carotenoid(5)、anthocyanin(5)、phenylpropanoid(4)、flavonoid(3)（标注覆盖 44/111）。
 
 **代表断言（原文摘录，未改写）**
 
@@ -353,7 +353,7 @@ rebuild_version: v3
 
 | 化合物 | 命中子主题数 | 证据条数 | 涉及子主题 |
 |---|---|---|---|
-| auxin | 7 | 50 | 信号转导的定量与动态特征、受体感知与早期信号转导、激素合成与稳态、激素间互作与权衡、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
+| auxin | 7 | 54 | 信号转导的定量与动态特征、受体感知与早期信号转导、激素合成与稳态、激素间互作与权衡、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
 | sucrose | 6 | 8 | 受体感知与早期信号转导、激素合成与稳态、激素间互作与权衡、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
 | ethylene | 4 | 12 | 激素合成与稳态、生长发育中的激素功能、转录调控与激素响应基因、逆境中的激素调控 |
 | phenylpropanoid | 4 | 12 | 激素合成与稳态、激素间互作与权衡、转录调控与激素响应基因、逆境中的激素调控 |
@@ -363,7 +363,7 @@ rebuild_version: v3
 ### 3.1 跨子主题受控叙述
 
 - **交叉实体**：SnRK2、NPR1、CsbZIP44、CsHB5、ABI5 等实体在 ≥2 个子主题中重复出现；这只能说明多条研究线指向同一候选，不能说明同一机制（摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f1]]；摘要 et al., 2019 [[10-1146-annurev-arplant-042817-f2]]）。
-- **层级不均**：因果层证据在子主题间分布不均，最高为“转录调控与激素响应基因”（84 条），最低为“信号转导的定量与动态特征”（3 条）；跨子主题比较结论强度前须先对齐这一差异。
+- **层级不均**：因果层证据在子主题间分布不均，最高为“转录调控与激素响应基因”（89 条），最低为“信号转导的定量与动态特征”（3 条）；跨子主题比较结论强度前须先对齐这一差异。
 - **共同缺口**：七类证据齐全，瓶颈是同一结论的独立复现与条件分层，而非证据类型。
 
 ## 4. 研究设计缺口矩阵（子主题 × 证据类型）
@@ -373,8 +373,8 @@ rebuild_version: v3
 | 子主题 | 遗传扰动 | 蛋白互作 | DNA 结合 | 表达相关 | 表型关联 | 组学共现 | 描述性 |
 |---|---|---|---|---|---|---|---|
 | 受体感知与早期信号转导 | 5 | 39 | 3 | 7 | 3 | — | 47 |
-| 转录调控与激素响应基因 | 11 | 56 | 17 | 8 | 3 | 3 | 69 |
-| 激素合成与稳态 | 3 | 17 | 6 | 10 | 8 | 2 | 63 |
+| 转录调控与激素响应基因 | 13 | 59 | 17 | 8 | 3 | 3 | 69 |
+| 激素合成与稳态 | 3 | 18 | 6 | 10 | 9 | 2 | 63 |
 | 激素间互作与权衡 | 1 | 15 | 2 | 1 | 1 | 2 | 27 |
 | 生长发育中的激素功能 | 5 | 9 | 2 | 1 | 8 | — | 22 |
 | 逆境中的激素调控 | 26 | 32 | 7 | 30 | 51 | 11 | 155 |
@@ -384,7 +384,7 @@ rebuild_version: v3
 
 ## 5. 可直接引用的因果级证据（自动筛选）
 
-以下 482 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
+以下 487 条证据的实验设计属于扰动或直接互作，可作为机制论断的一手依据；引用时须核对原文的物种、组织与处理条件。
 
 | 证据页 | DOI | 类型 | 断言（摘录） |
 |---|---|---|---|
@@ -409,7 +409,7 @@ rebuild_version: v3
 | [[daily-39996429-f2]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Here, we found that knock-down of the CDS gene enhanced the resistance of Arabidopsis thaliana to multiple pathogens, wi… |
 | [[daily-39996429-f3]] | `10.1080/15592324.2025.2471503` | genetic perturbation | Our data suggest that AtS40, NGAL2, RGL3, and other genes associated with embryonic development and growth in plants wer… |
 
-（另有 462 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
+（另有 467 条未列出，可在 `evidence/` 按 evidence_type 过滤。）
 
 ## 6. 证据间的张力与矛盾（自动筛查）
 
@@ -427,13 +427,13 @@ rebuild_version: v3
 
 ## 7. 覆盖与代表性缺口
 
-- **1349 条证据（66%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
+- **1350 条证据（65%）未命中任何子主题**：说明子主题词表覆盖不足，这部分证据目前无法进入结构性讨论。
 - **证据类型以摘要级断言为主**：本知识库对多数文献仅收录摘要/图表级断言，无法支撑实验条件比较与因果推断；全文覆盖率是当前深度的上限约束。
 - **文献元数据不全**：论文页 `year` / `journal` 字段覆盖率极低，因此本页不给出发表年份分布，也无法用年份评估时效性；frontmatter 的 `library_papers` 为历史手写值，与 tags 归一化统计相差数倍，**不可引用**。
 
 ## 8. 历史正文说明
 
-本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261127`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
+本页 2026-11-03 之前的正文为人工/LLM 撰写，未与证据逐条对齐，含不可核的行内断言缺引用、格式残留与跨主题内容混入。该正文已原样归档至 `_review/synthesis_legacy_20261128`，保留供追溯，**不得再作为结论来源**。原“与大豆项目关联”的定性判断保留在 frontmatter 的 `soybean_relevance` 字段，其论证过程同样需重新取证。
 
 ## 9. 行内引用密度自检
 
